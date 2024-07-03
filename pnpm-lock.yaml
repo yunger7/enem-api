@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 dependencies:
+    '@radix-ui/react-separator':
+        specifier: ^1.1.0
+        version: 1.1.0(@types/react-dom@18.0.0)(@types/react@18.0.0)(react-dom@18.0.0)(react@18.0.0)
     '@radix-ui/react-slot':
         specifier: ^1.1.0
         version: 1.1.0(@types/react@18.0.0)(react@18.0.0)
@@ -10,9 +13,15 @@ dependencies:
     clsx:
         specifier: ^2.1.1
         version: 2.1.1
+    framer-motion:
+        specifier: ^11.2.12
+        version: 11.2.12(react-dom@18.0.0)(react@18.0.0)
     lucide-react:
         specifier: ^0.399.0
         version: 0.399.0(react@18.0.0)
+    mini-svg-data-uri:
+        specifier: ^1.4.4
+        version: 1.4.4
     next:
         specifier: 14.2.4
         version: 14.2.4(react-dom@18.0.0)(react@18.0.0)
@@ -372,6 +381,52 @@ packages:
             react: 18.0.0
         dev: false
 
+    /@radix-ui/react-primitive@2.0.0(@types/react-dom@18.0.0)(@types/react@18.0.0)(react-dom@18.0.0)(react@18.0.0):
+        resolution:
+            {
+                integrity: sha512-ZSpFm0/uHa8zTvKBDjLFWLo8dkr4MBsiDLz0g3gMUwqgLHz9rTaRRGYDgvZPtBJgYCBKXkS9fzmoySgr8CO6Cw==,
+            }
+        peerDependencies:
+            '@types/react': '*'
+            '@types/react-dom': '*'
+            react: ^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc
+            react-dom: ^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc
+        peerDependenciesMeta:
+            '@types/react':
+                optional: true
+            '@types/react-dom':
+                optional: true
+        dependencies:
+            '@radix-ui/react-slot': 1.1.0(@types/react@18.0.0)(react@18.0.0)
+            '@types/react': 18.0.0
+            '@types/react-dom': 18.0.0
+            react: 18.0.0
+            react-dom: 18.0.0(react@18.0.0)
+        dev: false
+
+    /@radix-ui/react-separator@1.1.0(@types/react-dom@18.0.0)(@types/react@18.0.0)(react-dom@18.0.0)(react@18.0.0):
+        resolution:
+            {
+                integrity: sha512-3uBAs+egzvJBDZAzvb/n4NxxOYpnspmWxO2u5NbZ8Y6FM/NdrGSF9bop3Cf6F6C71z1rTSn8KV0Fo2ZVd79lGA==,
+            }
+        peerDependencies:
+            '@types/react': '*'
+            '@types/react-dom': '*'
+            react: ^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc
+            react-dom: ^16.8 || ^17.0 || ^18.0 || ^19.0 || ^19.0.0-rc
+        peerDependenciesMeta:
+            '@types/react':
+                optional: true
+            '@types/react-dom':
+                optional: true
+        dependencies:
+            '@radix-ui/react-primitive': 2.0.0(@types/react-dom@18.0.0)(@types/react@18.0.0)(react-dom@18.0.0)(react@18.0.0)
+            '@types/react': 18.0.0
+            '@types/react-dom': 18.0.0
+            react: 18.0.0
+            react-dom: 18.0.0(react@18.0.0)
+        dev: false
+
     /@radix-ui/react-slot@1.1.0(@types/react@18.0.0)(react@18.0.0):
         resolution:
             {
@@ -440,7 +495,6 @@ packages:
             }
         dependencies:
             '@types/react': 18.0.0
-        dev: true
 
     /@types/react@18.0.0:
         resolution:
@@ -1883,6 +1937,28 @@ packages:
             cross-spawn: 7.0.3
             signal-exit: 4.1.0
 
+    /framer-motion@11.2.12(react-dom@18.0.0)(react@18.0.0):
+        resolution:
+            {
+                integrity: sha512-lCjkV4nA9rWOy2bhR4RZzkp2xpB++kFmUZ6D44V9VQaxk+JDmbDd5lq+u58DjJIIllE8AZEXp9OG/TyDN4FB/w==,
+            }
+        peerDependencies:
+            '@emotion/is-prop-valid': '*'
+            react: ^18.0.0
+            react-dom: ^18.0.0
+        peerDependenciesMeta:
+            '@emotion/is-prop-valid':
+                optional: true
+            react:
+                optional: true
+            react-dom:
+                optional: true
+        dependencies:
+            react: 18.0.0
+            react-dom: 18.0.0(react@18.0.0)
+            tslib: 2.6.3
+        dev: false
+
     /fs.realpath@1.0.0:
         resolution:
             {
@@ -2716,6 +2792,14 @@ packages:
         dependencies:
             braces: 3.0.3
             picomatch: 2.3.1
+
+    /mini-svg-data-uri@1.4.4:
+        resolution:
+            {
+                integrity: sha512-r9deDe9p5FJUPZAk3A59wGH7Ii9YrjjWw0jmw/liSbHl2CHiyXj6FcDXDu2K3TjVAXqiJdaw3xxwlZZr9E6nHg==,
+            }
+        hasBin: true
+        dev: false
 
     /minimatch@3.1.2:
         resolution:
