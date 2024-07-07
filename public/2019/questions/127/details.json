@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2019",
+    "index": 127,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O 2,4-dinitrofenol (DNP) é conhecido como desacoplador da cadeia de elétrons na mitocôndria e apresenta um efeito emagrecedor. Contudo, por ser perigoso e pela ocorrência de casos letais, seu uso como medicamento é proibido em diversos países, inclusive no Brasil. Na mitocôndria, essa substância captura, no espaço intermembranas, prótons (H+) provenientes da atividade das proteínas da cadeia respiratória, retornando-os à matriz mitocondrial. Assim, esses prótons não passam pelo transporte enzimático, na membrana interna.\n\n**GRUNDLINGH, J. et. al. 2,4-Dinitrophenol (DNP): a Weight Loss Agent with Significant Acute Toxicity and Risk of Death. Journal of Medical Toxicology, v. 7, 2011 (adaptado).**",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O efeito emagrecedor desse composto está relacionado ao(à):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Inibição da glicólise de ATP, resultando em maior gasto celular de nutrientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Redução da produção de ATP, resultando em maior gasto celular de nutrientes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

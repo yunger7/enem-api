@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2012",
+    "index": 19,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/19/183e7c66-05d7-4a2a-b22b-1b27eb79153f.png)",
+    "files": [
+        "https://enem.dev/2012/questions/19/183e7c66-05d7-4a2a-b22b-1b27eb79153f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na imagem do início do século XX, identifica-se um modelo produtivo cuja forma de organização fabril baseava-se na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Autonomia do produtor direto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adoção da divisão sexual do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exploração do trabalho repetitivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Utilização de empregados qualificados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Incentivo à criatividade dos funcionários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

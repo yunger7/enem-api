@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2022",
+    "index": 174,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "800",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4800",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "6400",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

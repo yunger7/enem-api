@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2009",
+    "index": 173,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica produz velas de parafina em forma de pirâmide quadrangular regular com 19 cm de altura e 6 cm de aresta da base. Essas velas são formadas por 4 blocos de mesma altura — 3 troncos de pirâmide de bases paralelas e 1 pirâmide na parte superior —, espaçados de 1 cm entre eles, sendo que a base superior de cada bloco é igual à base inferior do bloco sobreposto, com uma haste de ferro passando pelo centro de cada bloco, unindo-os, conforme a figura.\n\n![](https://enem.dev/2009/questions/173/e9b7219c-4c2a-459d-a1ce-d4e7a3ec2c25.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/173/e9b7219c-4c2a-459d-a1ce-d4e7a3ec2c25.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se o dono da fábrica resolver diversificar o modelo, retirando a pirâmide da parte superior, que tem 1,5 cm de aresta na base, mas mantendo o mesmo molde, quanto ele passará a gastar com parafina para fabricar uma vela?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "156 cm³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "189 cm³.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "192 cm³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "216 cm³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "540 cm³.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2018",
+    "index": 26,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Tanto os Jogos Olímpicos quanto os Paralímpicos são mais que uma corrida por recordes, medalhas e busca da excelência. Por trás deles está a filosofia do barão  \nPierre de Coubertin, fundador do Movimento Olímpico. Como educador, ele viu nos Jogos a oportunidade para que os povos desenvolvessem valores, que poderiam ser aplicados não somente ao esporte, mas à educação e à sociedade. Existem atualmente sete valores associados aos Jogos. Os valores olímpicos são: a amizade, a excelência e o respeito, enquanto os valores paralímpicos são: a determinação, a coragem, a igualdade e a inspiração.\n\nMIRAGAYA, A. Valores para toda a vida. Disponível em: ww.esporteessencial.com.br. Acesso em: 9 ago. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No contexto das aulas de Educação Física escolar, os valores olímpicos e paralímpicos podem ser identificados\nquando o colega",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Procura entender o próximo, assumindo atitudes positivas como simpatia, empatia, honestidade, compaixão, confiança e solidariedade, o que caracteriza o valor da igualdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Faz com que todos possam ser iguais e receber o mesmo tratamento, assegurando imparcialidade, oportunidades e tratamentos iguais para todos, o que caracteriza o valor da amizade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dá o melhor de si na vivência das diversas atividades relacionadas ao esporte ou aos jogos, participando e progredindo de acordo com seus objetivos, o que caracteriza o valor da coragem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manifesta a habilidade de enfrentar a dor, o sofrimento, o medo, a incerteza e a intimidação nas atividades, agindo corretamente contra a vergonha, a desonra e o desânimo, o que caracteriza o valor da determinação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Inclui em suas ações o fair play (jogo limpo), a honestidade, o sentimento positivo de consideração por outra pessoa, o conhecimento dos seus limites, a valorização de sua própria saúde e o combate ao doping, o que caracteriza o valor do respeito.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

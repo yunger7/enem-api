@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2017",
+    "index": 103,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.\n\n![](https://enem.dev/2017/questions/103/5885e74b-985f-472a-83a9-525ec6b3e918.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/103/5885e74b-985f-472a-83a9-525ec6b3e918.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "90",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

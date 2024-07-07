@@ -1,0 +1,47 @@
+{
+    "title": "Questão 154 - ENEM 2018",
+    "index": 154,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um _designer_ de jogos planeja um jogo que faz uso de um tabuleiro de dimensão  n x n, com ![](https://enem.dev/2018/questions/154/9362959c-1289-4dc6-b20f-48073903e287.png)no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 x 8.\n\n![](https://enem.dev/2018/questions/154/0068d482-0227-4b01-b0d9-39e450ef5215.png)\n\nO tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a ![](https://enem.dev/2018/questions/154/bbc3b943-e82f-4763-a5c5-058753ed2f88.png)",
+    "files": [
+        "https://enem.dev/2018/questions/154/9362959c-1289-4dc6-b20f-48073903e287.png",
+        "https://enem.dev/2018/questions/154/0068d482-0227-4b01-b0d9-39e450ef5215.png",
+        "https://enem.dev/2018/questions/154/bbc3b943-e82f-4763-a5c5-058753ed2f88.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A dimensão mínima que o designer deve adotar para esse tabuleiro é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 x 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6 x 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9 x 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 x 10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "11 x 11.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2023",
+    "index": 118,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\n![](https://enem.dev/2023/questions/118/5d656ef9-cabd-499e-bd98-51993ccb6c1c.png)",
+    "files": [
+        "https://enem.dev/2023/questions/118/5d656ef9-cabd-499e-bd98-51993ccb6c1c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

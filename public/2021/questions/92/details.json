@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2021",
+    "index": 92,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.\n\n![](https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png)\n\nConsidere f1 e v1, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f2 e v2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento.",
+    "files": [
+        "https://enem.dev/2021/questions/92/5bb60323-94e3-4bc4-bd57-90725682dd94.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "F1< f2 e v1 < v2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "F1 < f2 e v1 = v2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "F1< f2 e v1 > v2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "F1 > f2 e v1 = v2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "F1 > f2 e v1 > v2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

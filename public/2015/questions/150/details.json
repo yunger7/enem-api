@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2015",
+    "index": 150,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "q = 400 – 100_p_,\n\nna qual _q_ representa a quantidade de pães especiais vendidos diariamente e _p_, o seu preço em reais.\n\nA fim de aumentar o fluxo de clientes, o gerente da padaria decidiu fazer uma promoção. Para tanto, modificará o preço do pão especial de modo que a quantidade a ser vendida diariamente seja a maior possível, sem diminuir a média de arrecadação diária na venda desse produto.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O preço p, em reais, do pão especial nessa promoção deverá estar no intervalo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 0,50 ≤ p < R$ 1,50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "R$ 1,50 ≤ p < R$ 2,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 2,50 ≤ p < R$ 3,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 3,50 ≤ p < R$ 4,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 4,50 ≤ p < R$ 5,50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

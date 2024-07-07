@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2017",
+    "index": 102,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de água que, sob condições adequadas de temperatura e pressão, propiciam a formação das nuvens e consequentemente das chuvas. No ar atmosférico, tais partículas são formadas pela reação de ácidos (H X  \ncom a base NH3, de forma natural ou antropogênica, dando origem a sais de amônio (NH4X , de acordo com a  \nequação química genérica:\n\nHX (g) + NH3 (g) –> NH4X (s)\n\nFELIX, E. P.; CARDOSO, A. A. F**atores ambientais que afetam a precipitação úmida.**  \nQuímica Nova na Escola, n. 21, maio 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ligações iônicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Interações dipolo-dipolo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Interações dipolo-dipolo induzido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interações íon-dipolo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ligações covalentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

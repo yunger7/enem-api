@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2011",
+    "index": 88,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Certas espécies de algas são capazes de absorver rapidamente compostos inorgânicos presentes na água, acumulando-os durante seu crescimento. Essa capacidade fez com que se pensasse em usá-las como biofiltros para a limpeza de ambientes aquáticos contaminados, removendo, por exemplo, nitrogênio e fósforo de resíduos orgânicos e metais pesados provenientes de rejeitos industriais lançados nas águas. Na técnica do cultivo integrado, animais e algas crescem de forma associada, promovendo um maior equilíbrio ecológico.\n\nSORIANO, E. M. Filtros vivos para limpar a água. Revista Ciência Hoje. V. 37, nº- 219, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A utilização da técnica do cultivo integrado de animais e algas representa uma proposta favorável a um ecossistema mais equilibrado porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os animais eliminam metais pesados, que são usados pelas algas para a síntese de biomassa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os animais fornecem excretas orgânicos nitrogenados, que são transformados em gás carbônico pelas algas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As algas usam os resíduos nitrogenados liberados pelos animais e eliminam gás carbônico na fotossíntese, usado na respiração aeróbica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As algas usam os resíduos nitrogenados provenientes do metabolismo dos animais e, durante a síntese de compostos orgânicos, liberam oxigênio para o ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "As algas aproveitam os resíduos do metabolismo dos animais e, durante a quimiossíntese de compostos orgânicos, liberam oxigênio para o ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

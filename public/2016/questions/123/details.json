@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2016",
+    "index": 123,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**  \nEntrevistadora – eu vou conversar aqui com a professora A. D. … o português então não é uma língua difícil?  \nProfessora – olha se você parte do princípio… que a língua portuguesa não é só regras gramaticais… não se você se apaixona pela língua que você… já domina que você já fala ao chegar na escola se o teu professor cativa você a ler obras da literatura… obras da/ dos meios de comunicação… se você tem acesso a revistas… é… a livros didáticos… a… livros de literatura o mais formal o e/ o difícil é porque a escola transforma como eu já disse as aulas de língua portuguesa em análises gramaticais.\n\n**TEXTO II**  \nEntrevistadora – Vou conversar com a professora A. D. O português é uma língua difícil?  \nProfessora – Não, se você parte do princípio que a língua portuguesa não é só regras gramaticais. Ao chegar à escola, o aluno já domina e fala a língua. Se o professor motivá-lo a ler obras literárias, e se tem acesso a revistas, a livros didáticos, você se apaixona pela língua. O que torna difícil é que a escola transforma as aulas de língua portuguesa em análises gramaticais.\n\nMARCUSCHI, L. A. **Da fala para a escrita: atividades de retextualização**.  \nSão Paulo: Cortez, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O Texto I é a transcrição de uma entrevista concedida por uma professora de português a um programa de rádio. O Texto II é a adaptação dessa entrevista para a modalidade escrita. Em comum, esses textos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresentam ocorrências de hesitações e reformulações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "São modelos de emprego de regras gramaticais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "São exemplos de uso não planejado da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentam marcas da linguagem literária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "São amostras do português culto urbano.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

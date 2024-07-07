@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2016",
+    "index": 132,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n![](https://enem.dev/2016/questions/132/8d530978-b53a-45a4-a0ae-916c041b86bf.png)\n\nBACON, F. **Três estudos para um autorretrato**. Óleo sobre tela, 37,5 x 31,8 cm (cada), 1974.  \nDisponível em: www.metmuseum.org. Acesso em: 30 maio 2016.\n\n**TEXTO II**  \nTenho um rosto lacerado por rugas secas e profundas, sulcos na pele. Não é um rosto desfeito, como acontece com pessoas de traços delicados, o contorno é o mesmo mas a matéria foi destruída. Tenho um rosto destruído.\n\nDURAS, M. **O amante**. Rio de Janeiro: Nova Fronteira, 1985.",
+    "files": [
+        "https://enem.dev/2016/questions/132/8d530978-b53a-45a4-a0ae-916c041b86bf.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na imagem e no texto do romance de Marguerite Duras, os dois autorretratos apontam para o modo de representação da subjetividade moderna. Na pintura e na literatura modernas, o rosto humano deforma-se, destrói-se ou fragmenta-se em razão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Da adesão à estética do grotesco, herdada do romantismo europeu, que trouxe novas possibilidades de representação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Das catástrofes que assolaram o século XX e da descoberta de uma realidade psíquica pela psicanálise.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Da opção em demonstrarem oposição aos limites estéticos da revolução permanente trazida pela arte moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Do posicionamento do artista do século XX contra a negação do passado, que se torna prática dominante na sociedade burguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da intenção de garantir uma forma de criar obras de arte independentes da matéria presente em sua história pessoal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

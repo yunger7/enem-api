@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2022",
+    "index": 74,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png)\n\n**PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006**",
+    "files": [
+        "https://enem.dev/2022/questions/74/03a69ed2-9038-4cca-8947-88663cbe1d23.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma característica regional que justifica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Declividade do relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Extensão longitudinal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Nebulosidade atmosférica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Irregularidade pluviométrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Influência da continentalidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2016",
+    "index": 33,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016/questions/33/3aef5452-4df5-4d99-8588-48256816d6bb.jpg)\n\nDisponível em: www.imageforum-diffusion.afp.com. Acesso em: 6 jan. 2016",
+    "files": [
+        "https://enem.dev/2016/questions/33/3aef5452-4df5-4d99-8588-48256816d6bb.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O regime do Apartheid adotado de 1948 a 1994 na Africa do Sul fundamentava-se em ações estatais de segregacionismo racial. Na imagem, fuzileiros navais fazem valer a “lei do passe” que regulamentava o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Concentração fundiária, impedindo os negros de tomar posse legítima do uso da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Boicote econômico, proibindo os negros de consumir produtos ingleses sem resistência armada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sincretismo religioso, vetando os ritos sagrados dos negros nas cerimônias oficiais do Estado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Controle sobre a movimentação, desautorizando os negros a transitar em determinadas áreas das cidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Exclusão do mercado de trabalho, negando a população negra o acesso aos bens de consumo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

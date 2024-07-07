@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2011",
+    "index": 84,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/84/743d09d0-e545-4055-8c2b-210fe3d75118.png)",
+    "files": [
+        "https://enem.dev/2011/questions/84/743d09d0-e545-4055-8c2b-210fe3d75118.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual das situações a seguir está representado o fenômeno descrito no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao se esconder atrás de um muro, um menino ouve a conversa de seus colegas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ao gritar diante de um desfiladero, uma pessoa ouve a repetição do seu próprio grito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ao encostar o ouvido no chão, um homem percebe o som de uma locomotiva antes de ouvi-lo pelo ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao ouvir uma ambulância se aproximando, uma pessoa percebe o som mais agudo do que quando aquela se afasta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao emitir uma nota musical muito aguda, uma cantora de ópera faz com que uma taça de cristal se despedace.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

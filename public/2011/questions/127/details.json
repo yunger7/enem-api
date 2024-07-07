@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2011",
+    "index": 127,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/127/093a87ad-75f3-4853-9dd7-1c51c7b2fc90.png)\n\nDisponível em: http://www.ccsp.com.br. Acesso em: 27 jul. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/127/093a87ad-75f3-4853-9dd7-1c51c7b2fc90.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto é uma propaganda de um adoçante que tem o seguinte mote: “Mude sua embalagem”. A estratégia que o autor utiliza para o convencimento do leitor baseia-se no emprego de recursos expressivos, verbais e não verbais, com vistas a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ridicularizar a forma física do possível cliente do produto anunciado, aconselhando-o a uma busca de mudanças estéticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Enfatizar a tendência da sociedade contemporânea de buscar hábitos alimentares saudáveis, reforçando tal postura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Criticar o consumo excessivo de produtos industrializados por parte da população, propondo a redução desse consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Associar o vocábulo “açúcar” à imagem do corpo fora de forma, sugerindo a substituição desse produto pelo adoçante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Relacionar a imagem do saco de açúcar a um corpo humano que não desenvolve atividades físicas, incentivando a prática esportiva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2012",
+    "index": 125,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A marcha galopante das tecnologias teve por primeiro resultado multiplicar em enormes proporções tanto a massa das notícias que circulam quanto as ocasiões de sermos solicitados por elas. Os profissionais têm tendência a considerar esta inflação como automaticamente favorável ao público, pois dela tiram proveito e tornam-se obcecados pela imagem liberal do grande mercado em que cada um, dotado de luzes por definição iguais, pode fazer sua escolha em toda liberdade. Isso jamais foi realizado e tende a nunca ser. Na verdade, os leitores, ouvintes, telespectadores, mesmo se se abandonam a sua bulimia\\*, não são realmente nutridos por esta indigesta sopa de informações e sua busca finaliza em frustração. Cada vez mais frequentemente, até, eles ressentem esse bombardeio de riquezas falsas como agressivo e se refugiam na resistência a toda ou qualquer informação.\n\nO verdadeiro problema das sociedades pós-industriais não é a penúria\\*\\*, mas a abundância. As sociedades modernas têm a sua disposição muito mais do que necessitam em objetos, informações e contatos. Ou, mais exatamente, disso resulta uma desarmonia entre uma oferta, não excessiva, mas incoerente, e uma demanda que, confusamente, exige uma escolha muito mais rápida a absorver. Por isso os órgãos de informação devem escolher, uma vez que o homem contemporâneo apressado, estressado, desorientado busca uma linha diretriz, uma classificação mais clara, um condensado do que é realmente importante.\n\n(\\*) fome excessiva, desejo descontrolado.  \n(\\*\\*) miséria, pobreza.\n\nVOYENNE, B. **Informação hoje**. Lisboa: Armand Colin, 1975 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com o uso das novas tecnologias, os domínios midiáticos obtiveram um avanço maior e uma presença mais atuante junto ao público, marcada ora pela quase simultaneidade das informações, ora pelo uso abundante de imagens. A relação entre as necessidades da sociedade moderna e a oferta de informação, segundo o texto, é desarmônica, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O jornalista seleciona as informações mais importantes antes de publicá-las.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O ser humano precisa de muito mais conhecimento do que a tecnologia pode dar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O problema da sociedade moderna é a abundância de informações e de liberdade de escolha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A oferta é incoerente com o tempo que as pessoas têm para digerir a quantidade de informação disponível.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A utilização dos meios de informação acontece de maneira desorganizada e sem controle efetivo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

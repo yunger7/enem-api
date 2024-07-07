@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2017",
+    "index": 93,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros semicondutores, têm sido desenvolvidos para monitorar a concentração de amônia (gás tóxico e incolor) em granjas avícolas. A polianilina é um polímero semicondutor que tem o valor de sua resistência elétrica nominal quadruplicado quando exposta a altas concentrações de amônia. Na ausência de amônia, a polianilina se comporta como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico.\n\n![](https://enem.dev/2017/questions/93/a9180abf-7120-4dab-a63a-7e8bcb09b559.png)",
+    "files": [
+        "https://enem.dev/2017/questions/93/a9180abf-7120-4dab-a63a-7e8bcb09b559.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,5 x 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0 x 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,5 x 105",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,0 x 105",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,0 x 106",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

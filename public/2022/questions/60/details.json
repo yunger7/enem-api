@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2022",
+    "index": 60,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do estudo foram vinculados a dois outros membros da comunidade que receberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua atividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado. Assim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o dinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito vezes mais eficaz do que o método de oferecer incentivos individuais.\n\n**MOROZOV, E. Big Tech: a ascensão dos dados e a morte da politica. São Paulo: Ubu, 2018 (adaptado).**",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recreativa, promovendo o lazer em redes integradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Social, estimulando a reciprocidade por meios digitais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Laboral, convertendo o desenvolvedor em usuário final.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comercial, direcionando a escolha por produtos industrializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cognitiva, favorecendo ferramentas virtuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

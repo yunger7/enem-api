@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2010",
+    "index": 33,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Não é difícil entender o que ocorreu no Brasil nos anos imediatamente anteriores ao golpe militar de 1964. A diminuição da oferta de empregos e a desvalorização dos salários, provocadas pela inflação, levaram a uma intensa mobilização política popular, marcada por sucessivas ondas grevistas de várias categorias profissionais, o que aprofundou as tensões sociais. Dessa vez, as classes trabalhadoras se recusaram a pagar o pato pelas sobras” do modelo econômico juscelinista.\n\nMENDONÇA, S. R. A industrialização Brasileira. São  \nPaulo: Moderna, 2002 (adaptado)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo o texto, os conflitos sociais ocorridos no início dos anos 1960 decorreram principalmente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Da manipulação política empreendida pelo governo Joao Goulart.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Das contradições econômicas do modelo desenvolvimentista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Do poder político adquirido pelos sindicatos populistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Da desmobilização das classes dominantes frente ao avanço das greves.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da recusa dos sindicatos em aceitar mudanças na legislação trabalhista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

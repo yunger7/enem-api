@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2017",
+    "index": 4,
+    "year": 2017,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**Emotivo encuentro en la universidad pública**\n\nEl entonces mandatario uruguayo recibió el cariño de sus compatriotas residentes en Nueva York e informó sobre la evolución del país, las políticas de gobierno, los avances y cuentas pendientes. Como en ocasiones similares, se multiplicaron las muestras de respeto y emoción. “Una nación es un formidable sentimiento de un ‘nosotros’”, dijo.\n\nMujica comenzó su discurso relatando lo recogido de otras experiencias de comunidades en el exilio. “Muchos de ustedes echaron raíces, tienen hijos y no pueden cometer la agresión de descuajarle la vida. Tienen que cargar con esa nostalgia de ser de allá, pero estar acá”, dijo.\n\n“Estamos metidos en la lucha por mejorar las circunstancias, con el sueño de que las generaciones que vengan, puedan venir con más soltura, con más apoyo”, dijo el Presidente.\n\nMujica se refirió a algunas críticas que reciben algunas políticas sociales. “Nos acusan de que damos sin contrapartida. Nos dicen ‘a la gente no hay que darle pescado, sino enseñarle a pescar’. Sí — razonó el Presidente —, pero cuando le afanaste la caña, le afanaste el bote, ¿qué le vas a pedir? Para atrás no arreglamos, arreglamos para adelante.”\n\nDisponível em: www.republica.com.uy. Acesso em: 26 set. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No discurso dirigido aos compatriotas radicados em Nova York, o então presidente Mujica expressa o desejo de que os cidadãos que vivem no Uruguai",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apoiem as políticas públicas afirmativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Integrem-se ao processo de globalização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cultivem o sentimento nacionalista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ofereçam uma contrapartida à nação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tenham melhores condições de vida.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

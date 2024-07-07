@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2009",
+    "index": 170,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A resolução das câmeras digitais modernas é dada em _megapixels_, unidade de medida que representa um milhão de pontos. As informações sobre cada um desses pontos são armazenadas, em geral, em 3 _bytes_. Porém, para evitar que as imagens ocupem muito espaço, elas são submetidas a algoritmos de compressão, que reduzem em até 95% a quantidade de _bytes_ necessários  \npara armazená-las. Considere 1 KB = 1.000 bytes, 1 MB = 1.000 KB, 1 GB = 1.000 MB.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Utilizando uma câmera de 2.0 megapixels cujo algoritmo de compressão é de 95%, João fotografou 150 imagens para seu trabalho escolar. Se ele deseja armazená-las de modo que o espaço restante no dispositivo seja o menor espaço possível, ele deve utilizar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Um CD de 700 MB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Um pendrive de 1 GB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um HD externo de 16 GB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Um memory stick de 16 MB.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Um cartão de memória de 64 MB.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2019",
+    "index": 90,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la.\n\n**PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.).O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).**",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao(à):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Escala de produtividade regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Padrão de distribuição de renda.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Dificuldade de armazenamento de grãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Crescimento da população mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Custo de escoamento dos produtos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

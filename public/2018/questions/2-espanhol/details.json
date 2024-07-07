@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2018",
+    "index": 2,
+    "year": 2018,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "                                    Revolución en la arquitectura china  \n_Levantar rascacielos en 19 días_\n\nUn rascacielos de 57 pisos no llama la atención en la China del siglo XXI. Salvo que se haya construido en 19 días, claro. Y eso es precisamente lo que ha  conseguido Broad Sustainable Building (BSB), una empresa dedicada a la fabricación de purificadores de aire y de equipos de aire acondicionado para grandes infraestructuras que ahora se ha empeñado en liderar una revolución con su propio modelo de arquitectura modular prefabricada. Como subraya su presidente, Zhang Yue, es una fórmula económica, ecológica segura, y limpia. Ese último término, además, lo utiliza tanto para referirse al polvo que se produce en la construcción como a los gruesos sobres que suelen circular por debajo de las mesas en adjudicaciones y permisos varios. “Quiero que nuestros edificios alumbren una nueva era en la arquitectura, y que se conviertan en  \nsímbolo de la lucha contra la contaminación y el cambio climático, que es la mayor amenaza a la que se enfrenta la humanidad”, sentencia.  \n“Es como montar un Lego. Apenas hay subcontratación, lo cual ayuda a mantener un costo bajo y un control de calidad estricto, y nos permite eliminar  \ntambién la corrupción inherente al sector”, explica la vicepresidenta de BSB y responsable del mercado internacional, Jiang Yan.\n\nDisponível em: http://tecnologia.elpais.com. Acesso em: 23 jun. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, alguns dos benefícios de se utilizar estruturas pré-moldadas na construção de altos edifícios estão expressos por meio da palavra limpia. Essa expressão indica que, além de produzir menos resíduos, o uso desse tipo de estrutura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduz o contingente de mão de obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inibe a corrupção na construção civil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Facilita o controle da qualidade da obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresenta um modelo arquitetônico conciso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Otimiza os custos da construção de edifícios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

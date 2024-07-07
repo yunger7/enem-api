@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2012",
+    "index": 114,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/114/0e1c5ddc-b61a-440e-823d-d96e6a614c3f.png)\n\nCartaz afixado nas bibliotecas centrais e setoriais da Universidade Federal de Goiás (UFG), 2011.",
+    "files": [
+        "https://enem.dev/2012/questions/114/0e1c5ddc-b61a-440e-823d-d96e6a614c3f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se a finalidade comunicativa comum do gênero e o contexto específico do Sistema de Biblioteca da UFG, esse cartaz tem função predominantemente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Socializadora, contribuindo para a popularização da arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sedutora, considerando a leitura como uma obra de arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estética, propiciando uma apreciação despretensiosa da obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Educativa, orientando o comportamento de usuários de um serviço.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Contemplativa, evidenciando a importância de artistas internacionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

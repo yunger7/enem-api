@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2016",
+    "index": 158,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/158/af29d603-c954-4ab7-a8b4-2c4db0cf6458.png)",
+    "files": [
+        "https://enem.dev/2016/questions/158/af29d603-c954-4ab7-a8b4-2c4db0cf6458.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nas condições dadas, qual o tempo mínimo, após o sexto mês, para que o reservatório atinja o nível zero de sua capacidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 meses e meio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3 meses e meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 mês e meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 meses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 mês.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

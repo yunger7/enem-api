@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2020",
+    "index": 164,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\n![](https://enem.dev/2020/questions/164/6d3ec2de-3c7f-4bf7-882e-2daf9d2afee7.png)",
+    "files": [
+        "https://enem.dev/2020/questions/164/6d3ec2de-3c7f-4bf7-882e-2daf9d2afee7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

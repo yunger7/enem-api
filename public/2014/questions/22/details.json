@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2014",
+    "index": 22,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No século XIX, o preço mais alto dos terrenos situados no centro das cidades é causa da especialização dos bairros e de sua diferenciação social. Muitas pessoas, que não têm meios de pagar os altos aluguéis dos bairros elegantes, são progressivamente rejeitadas para a periferia, como os subúrbios e os bairros mais afastados.\n\nRÉMOND, R. **O século XIX**. São Paulo: Cultrix, 1989 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma consequência geográfica do processo espacial descrito no texto é a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criação de condomínios fechados de moradia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Decadência das áreas centrais de comércio popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aceleração do processo conhecido como cercamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ampliação do tempo de deslocamento diário da população.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Contenção da ocupação de espaços sem infraestrutura satisfatória.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

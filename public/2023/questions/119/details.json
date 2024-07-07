@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2023",
+    "index": 119,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De acordo com a Constituição Federal, é competencia dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.\n\nZVEIBIL, V. Z. et al. **Cartilha de limpeza urbana**. Disponível em: www.lbam.org.br. Acesso em: 6 jul. 2015 (adaptado).\n\nSuponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.\n\n![](https://enem.dev/2023/questions/119/47913cea-fd78-4f5d-af82-f3494e353a85.png)",
+    "files": [
+        "https://enem.dev/2023/questions/119/47913cea-fd78-4f5d-af82-f3494e353a85.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "756.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "533.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "76.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "53.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

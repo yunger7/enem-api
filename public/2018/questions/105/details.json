@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2018",
+    "index": 105,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na mitologia grega, Nióbia era a filha de Tãntalo, dois personagens conhecidos pelo sofrimento. O elemento químico de número atômico (Z) igual a 41 tem propriedades químicas e físicas tão parecidas com as do elemento de número atômico 73 que chegaram a ser confundidos.  \nPor isso, em homenagem a esses dois personagens da mitologia grega, foi conferido a esses elementos os nomes de nióbio (Z = 41) e tãntalo (Z = 73). Esses dois elementos químicos adquiriram grande importância econômica na metalurgia, na produção de supercondutores e em outras aplicações na indústria de ponta, exatamente pelas propriedades químicas e físicas comuns aos dois.\n\nKEAN, S. **A colher que desaparece:** e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. Rio de Janeiro: Zahar, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A importância econômica e tecnológica desses elementos, pela similaridade de suas propriedades químicas e físicas, deve-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Terem elétrons no subnível f",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Serem elementos de transição interna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pertencerem ao mesmo grupo na tabela periódica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Terem seus elétrons mais externos nos níveis 4 e 5, respectivamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estarem localizados na família dos alcalinos terrosos e alcalinos, respectivamente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

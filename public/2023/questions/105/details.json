@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2023",
+    "index": 105,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Barbatimão é o nome popular de uma árvore cuja casca e utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fotossíntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Transpiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Troca de gases.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Formação de brotos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nutrição das raízes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

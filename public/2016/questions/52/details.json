@@ -1,0 +1,46 @@
+{
+    "title": "Questão 52 - ENEM 2016",
+    "index": 52,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/52/420bf048-0e4c-44bb-919d-ac9b6cba9a0b.png)\n\nO uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.\n\n![](https://enem.dev/2016/questions/52/bda784c1-e142-4cdc-84dc-5ebc4a507431.png)",
+    "files": [
+        "https://enem.dev/2016/questions/52/420bf048-0e4c-44bb-919d-ac9b6cba9a0b.png",
+        "https://enem.dev/2016/questions/52/bda784c1-e142-4cdc-84dc-5ebc4a507431.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sitophilus spp.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Migdolus fryanus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anthonomus rubi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Grapholita molesta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Scrobipalpuloides absoluta.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

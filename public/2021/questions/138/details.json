@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2021",
+    "index": 138,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Copa do Brasil teve, até a edição de 2018, 15 times diferentes como campeões da competição, conforme  \napresentado na imagem. Suponha que, como homenagem aos times campeões, a Confederação Brasileira de Futebol  \n(CBF) pretenda colocar um painel na sua sede. Esse painel teria 6 linhas e, em cada uma delas, 5 placas, referentes  \na cada edição da competição, com o nome do time vencedor, o brasão e o ano do título. © painel deve ser fabricado  \nde modo que a primeira linha só tenha clubes gaúchos (Internacional, Grêmio e Juventude); a segunda, apenas times  \ncariocas (Flamengo, Vasco e Fluminense); a terceira, somente times mineiros (Cruzeiro e Atlético Mineiro);, a quarta,  \nexclusivamente clubes paulistas (Corinthians, Palmeiras, Santos, Paulista FC, Santo André), e as duas últimas sem  \nnenhuma restrição.\n\n![](https://enem.dev/2021/questions/138/d0a6a844-fff4-400b-9b0c-d1afbc285b3c.png)",
+    "files": [
+        "https://enem.dev/2021/questions/138/d0a6a844-fff4-400b-9b0c-d1afbc285b3c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual a expressão determina a quantidade de painéis diferentes que a CBF poderá montar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/138/280b031c-3cd8-44f6-b0fd-7fe30bc5d42a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/138/bc565433-565f-4f16-bbca-6b1e693306ab.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/138/3425a80a-ef16-44bd-b66c-b689dc1c7cd2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/138/1df14680-6d8b-4e0a-8421-afd3b0db18a3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/138/7ab4be57-7af0-4722-b7c3-1b331c40830b.png",
+            "isCorrect": false
+        }
+    ]
+}

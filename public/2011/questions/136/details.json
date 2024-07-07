@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2011",
+    "index": 136,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa condição, o dono da oficina deverá comprar o pistão de diâmetro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "68,21 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "68,102 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "68,02 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "68,012 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "68,001 mm.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

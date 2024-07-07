@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2013",
+    "index": 92,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**National Geographic News**\n\nChristine Dell’Amore  \nPublished April 26, 2010\n\nOur bodies produce a small steady amount of natural morphine, a new study suggests. Traces of the chemical are often found in mouse and human urine, leading scientists to wonder whether the drug is being made naturally or being delivered by something the subjects consumed. The new research shows that mice produce the “incredible painkiller” — and that humans and ther mammals possess the same chemical road map for making it, said study co-author Meinhart Zenk, who studies plant-based pharmaceuticals at the Donald Danforth Plant Science Center in St. Louis, Missouri.\n\nDisponível em: www.nationalgeographic.com. Acesso em: 27 jul. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao ler a matéria publicada na National Geographic, para a realização de um trabalho escolar, um estudante descobriu que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os compostos químicos da morfina, produzidos por humanos, são manipulados no Missouri.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os ratos e os humanos possuem a mesma via metabólica para produção de morfina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A produção de morfina em grande quantidade minimiza a dor em ratos e humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os seres humanos têm uma predisposição genética para inibir a dor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A produção de morfina é um traço incomum entre os animais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

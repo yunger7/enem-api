@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2009",
+    "index": 58,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Segundo Aristóteles, “na cidade com o melhor conjunto de normas e naquela dotada de homens absolutamente justos, os cidadãos não devem viver uma vida de trabalho trivial ou de negócios — esses tipos de vida são desprezíveis e incompatíveis com as qualidades morais —, tampouco devem ser agricultores os aspirantes à cidadania, pois o lazer é indispensável ao desenvolvimento das qualidades morais e à prática das atividades políticas”.\n\nVAN ACKER, T. _Grécia. A vida cotidiana na cidade-Estado_. São Paulo: Atual, 1994.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O trecho, retirado da obra Política, de Aristóteles, permite compreender que a cidadania:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Possui uma dimensão histórica que deve ser criticada, pois é condenável que os políticos de qualquer época fiquem entregues à ociosidade, enquanto o resto dos cidadãos tem de trabalhar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Era entendida como uma dignidade própria dos grupos sociais superiores, fruto de uma concepção política profundamente hierarquizada da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Estava vinculada, na Grécia Antiga, a uma percepção política democrática, que levava todos os habitantes da pólis a participarem da vida cívica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tinha profundas conexões com a justiça, razão pela qual o tempo livre dos cidadãos deveria ser dedicado às atividades vinculadas aos tribunais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vivida pelos atenienses era, de fato, restrita àqueles que se dedicavam à política e que tinham tempo para resolver os problemas da cidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

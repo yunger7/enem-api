@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2019",
+    "index": 117,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma aula experimental de calorimetria, uma professora queimou 2,5 g de castanha-de-caju crua para aquecer 350 g de água, em um recipiente apropriado para diminuir as perdas de calor. Com base na leitura da tabela nutricional a seguir e da medida da temperatura da água, após a queima total do combustível, ela concluiu que 50% da energia disponível foi aproveitada. O calor específico da água é 1 cal g−1 °C−1, e sua temperatura inicial era de 20 °C.\n\n![](https://enem.dev/2019/questions/117/38ccfab9-fd06-4288-b638-47045b097fa8.png)",
+    "files": [
+        "https://enem.dev/2019/questions/117/38ccfab9-fd06-4288-b638-47045b097fa8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual foi a temperatura da água, em grau Celsius, medida ao final do experimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "45",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

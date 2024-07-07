@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2010",
+    "index": 31,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Após a abdicação de D. Pedro I, o Brasil atravessou um período marcado por inúmeras crises: as diversas forças políticas lutavam pelo poder e as reivindicações populares eram por melhores condições de vida e pelo direito de participação na vida política do país. Os conflitos representavam também o protesto contra a centralização do governo. Nesse período, ocorreu também a expansão da cultura cafeeira e o surgimento do poderoso grupo dos “barões do café”, para o qual era fundamental a manutenção da escravidão e do tráfico negreiro.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O contexto do Período Regencial foi marcado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Por revoltas populares que reclamavam a volta da monarquia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Por várias crises e pela submissão das forças políticas ao poder central.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pela luta entre os principais grupos políticos que reivindicavam melhores condições de vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pelo governo dos chamados regentes, que promoveram a ascensão social dos \"barões do café\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pela convulsão política e por novas realidades econômicas que exigiam o reforço de velhas realidades sociais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2010",
+    "index": 140,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/140/1976055e-3295-4f44-9ecf-0cd97ea3e387.png)",
+    "files": [
+        "https://enem.dev/2010/questions/140/1976055e-3295-4f44-9ecf-0cd97ea3e387.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "13º",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12º",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "11º",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10º",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9º",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

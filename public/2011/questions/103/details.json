@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2011",
+    "index": 103,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A discussão sobre “o fim do livro de papel” com a chegada da mídia eletrônica me lembra a discussão idêntica sobre a obsolescência do folheto de cordel. Os folhetos talvez não existam mais daqui a 100 ou 200 anos, mas, mesmo que isso aconteça, os poemas de Leandro Gomes de Barros ou Manuel Camilo dos Santos continuarão sendo publicados e lidos — em CD-ROM, em livro eletrônico, em “chips quânticos”, sei lá o quê. O texto é uma espécie de alma imortal, capaz de reencarnar em corpos variados: página impressa, livro em Braille, folheto, “_coffee-table book_”, cópia manuscrita, arquivo PDF… Qualquer texto pode se reencarnar nesses (e em outros) formatos, não importa se é _Moby Dick_ ou _Viagem a São Saruê_, se é _Macbeth_ ou _O livro de piadas de Casseta & Planeta_.\n\nTAVARES, B. Disponível em: http://jornaldaparaiba.globo.com.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao refletir sobre a possível extinção do livro impresso e o surgimento de outros suportes em via eletrônica, o cronista manifesta seu ponto de vista, defendendo que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O cordel é um dos gêneros textuais, por exemplo, que será extinto com o avanço da tecnologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O livro impresso permanecerá como objeto cultural veiculador de impressões e de valores culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O surgimento da mídia eletrônica decretou o fim do prazer de se ler textos em livros e suportes impressos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os textos continuarão vivos e passíveis de reprodução em novas tecnologias, mesmo que os livros desapareçam.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Os livros impressos desaparecerão e, com eles, a possibilidade de se ler obras literárias dos mais diversos gêneros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2022",
+    "index": 99,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (_Artocarpus heterophyllus_), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

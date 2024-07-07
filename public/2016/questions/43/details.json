@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2016",
+    "index": 43,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016/questions/43/25844aa7-6b4c-4afc-8313-b62fef4c488b.jpg)\n\nUma scena franco-brazileira: “franco” – pelo local e os personagens, o local que é Paris e os personagens que são pessoas do povo da grande capital; “brazileira” pelo que ahi se está bebendo: café do Brazil. O Lettreiro diz a verdade apregoando que esse é o melhor de todos os cafés. (Essa página foi desenhada especialmente para A Ilustração Brazileira pelo Sr. Tofani, desenhista do Je Sais Tout.)\n\n**A Illustração Brazileira**, n. 2, 15 jun. 1909 (adaptado).",
+    "files": [
+        "https://enem.dev/2016/questions/43/25844aa7-6b4c-4afc-8313-b62fef4c488b.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A página do periódico do início do séc XX documenta um importante elemento da cultura francesa, que é revelador do papel do Brasil na economia mundial, indicado no seguinte aspecto:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prestador de serviços gerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exportador de bens industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Importador de padrões estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fornecedor de produtos agrícolas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Formador de padrões de consumo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

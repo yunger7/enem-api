@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2010",
+    "index": 87,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De 15% a 20% da área de um canavial precisa ser renovada anualmente. Entre o período de corte e o de plantação de novas canas, os produtores estão optando por plantar leguminosas, pois elas fixam nitrogênio no solo, um adubo natural para a cana. Essa opção de rotação é agronomicamente favorável, de forma que municípios canavieiros são hoje grandes produtores de soja, amendoim e feijão.\n\nAs encruzilhadas da fome. Planeta. São Paulo, ano 36, no 430, jul. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A rotação de culturas citada no texto pode beneficiar economicamente os produtores de cana porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A decomposição da cobertura morta dessas culturas resulta em economia na aquisição de adubos industrializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O plantio de cana-de-açúcar propicia um solo mais adequado para o cultivo posterior da soja, do amendoim e do feijão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As leguminosas absorvem do solo elementos químicos diferentes dos absorvidos pela cana, restabelecendo o equilíbrio do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A queima dos restos de vegetais do cultivo da cana-de-açúcar transforma-se em cinzas, sendo reincorporadas ao solo, o que gera economia na aquisição de adubo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A soja, o amendoim e o feijão, além de possibilitarem a incorporação ao solo de determinadas moléculas disponíveis na atmosfera, são grãos comercializados no mercado produtivo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

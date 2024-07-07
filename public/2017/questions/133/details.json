@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2017",
+    "index": 133,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para demonstrar o processo de transformação de energia mecânica em elétrica, um estudante constrói um pequeno gerador utilizando:\n\n*   \\-um fio de cobre de diâmetro D enrolado em N espiras circulares de área A;\n*   \\-dois ímãs que criam no espaço entre eles um campo magnético uniforme de intensidade B; e\n*   \\-um sistema de engrenagens que lhe permite girar as espiras em torno de um eixo com uma frequência f.\n\nAo fazer o gerador funcionar, o estudante obteve uma tensão máxima V e uma corrente de curto-circuito i.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para dobrar o valor da tensão máxima V do gerador mantendo constante o Valor da corrente de Curto i, o estudante deve dobrar o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Número de espiras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Frequência de giro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intensidade do campo magnético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Área das espiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diâmetro do fio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

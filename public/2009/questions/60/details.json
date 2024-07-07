@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2009",
+    "index": 60,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A definição de eleitor foi tema de artigos nas Constituições brasileiras de 1891 e de 1934. Diz a Constituição da República dos Estados Unidos do Brasil de 1891:\n\nArt. 70. São eleitores os cidadãos maiores de 21 anos que se alistarem na forma da lei.\n\nA Constituição da República dos Estados Unidos do Brasil de 1934, por sua vez, estabelece que:\n\nArt. 180. São eleitores os brasileiros de um e de outro sexo, maiores de 18 anos, que se alistarem na forma da lei.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao se comparar os dois artigos, no que diz respeito ao gênero dos eleitores, depreende-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A Constituição de 1934 avançou ao reduzir a idade mínima para votar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A Constituição de 1891, ao se referir a cidadãos, referia-se também às mulheres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os textos de ambas as Cartas permitiam que qualquer cidadão fosse eleitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O texto da carta de 1891 já permitia o voto feminino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A Constituição de 1891 considerava eleitores apenas indivíduos do sexo masculino.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2017",
+    "index": 177,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/177/56a01150-592b-4611-8550-81876ca345ec.png)\n\nAs letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.  \nA empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.",
+    "files": [
+        "https://enem.dev/2017/questions/177/56a01150-592b-4611-8550-81876ca345ec.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A opção que mais se adequa às condições da empresa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

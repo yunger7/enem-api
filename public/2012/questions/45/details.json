@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2012",
+    "index": 45,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/45/c70c8427-1281-4084-9a35-b3a38df84640.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/45/c70c8427-1281-4084-9a35-b3a38df84640.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na charge faz-se referência a uma modificação produtiva ocorrida na agricultura. Uma contradição presente no espaço rural brasileiro derivada dessa modificação produtiva está presente em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão das terras agricultáveis, com manutenção de desigualdades sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Modernização técnica do território, com redução do nível de emprego formal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Valorização de atividades de subsistência, com redução da produtividade da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desenvolvimento de núcleos policultores, com ampliação da concentração fundiária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Melhora da qualidade dos produtos, com retração na exportação de produtos primários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

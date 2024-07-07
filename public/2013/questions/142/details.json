@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2013",
+    "index": 142,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/142/504c21b5-da46-4660-bd8d-bc6e547bf243.png)",
+    "files": [
+        "https://enem.dev/2013/questions/142/504c21b5-da46-4660-bd8d-bc6e547bf243.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Malhada",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mamona",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maravilha",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mateira",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Mimosa",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 132 - ENEM 2023",
+    "index": 132,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão![](https://enem.dev/2023/questions/132/99a53ed4-bbd2-4aa0-9301-ee4cd640a4b6.jpg) no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era ![](https://enem.dev/2023/questions/132/2367c9cb-2c1a-4b79-b582-86fc01088ff8.jpg). Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+    "files": [
+        "https://enem.dev/2023/questions/132/99a53ed4-bbd2-4aa0-9301-ee4cd640a4b6.jpg",
+        "https://enem.dev/2023/questions/132/2367c9cb-2c1a-4b79-b582-86fc01088ff8.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/132/cba38af9-964d-43be-8f6a-3c1def3c9b39.jpg",
+            "isCorrect": true
+        }
+    ]
+}

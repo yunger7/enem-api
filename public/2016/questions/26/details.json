@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2016",
+    "index": 26,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "TEXTO I\n\n![](https://enem.dev/2016/questions/26/2f509942-bcde-448b-8a31-5ae4685edbe8.jpg)\n\n**Imagem de São Benedito**. Disponível em: http://acervo.bndigital.bn.br.  \nAcesso em: 6 jan. 2016 (adaptado)\n\nTEXTO II\n\nOs santos tornaram-se grandes aliados da Igreja para atrair novos devotos, pois eram obedientes a Deus e ao poder clerical. Contando e estimulando o conhecimento sobre a vida dos santos, a Igreja transmitia aos fiéis os ensinamentos que julgava corretos e que deviam ser imitados por escravos que, em geral, traziam outras crenças de suas terras de origem, muito diferentes das que preconizava a fé católica.\n\nOLIVEIRA, A. J. Negra devoção. **Revista de História da Biblioteca Nacional**, n. 20, maio 2007 (adaptado)",
+    "files": [
+        "https://enem.dev/2016/questions/26/2f509942-bcde-448b-8a31-5ae4685edbe8.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Posteriormente ressignificados no interior de certas irmandades e no contato com outra matriz religiosa, o ícone e a prática mencionada no texto estiveram desde o século XVII relacionados a um esforço da Igreja Católica para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduzir o poder das confrarias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cristianizar a população afro-brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Espoliar recursos materiais dos cativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Recrutar libertos para seu corpo eclesiástico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Atender a demanda popular por padroeiros locais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

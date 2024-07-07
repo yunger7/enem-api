@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2009",
+    "index": 33,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os ratos _Peromyscus polionotus_ encontram-se distribuídos em ampla região na América do Norte. A pelagem de ratos dessa espécie varia do marrom claro até o escuro, sendo que os ratos de uma mesma população têm coloração muito semelhante. Em geral, a coloração da pelagem também é muito parecida à cor do solo da região em que se encontram, que também apresenta a mesma variação de cor, distribuída ao longo de um gradiente sul-norte. Na figura, encontram-se representadas sete diferentes populações de _P. polionotus_. Cada população é representada pela pelagem do rato, por uma amostra de solo e por sua posição geográfica no mapa.\n\n![](https://enem.dev/2009/questions/33/a2e94298-0c01-4a34-9c5e-938a893089c7.png)",
+    "files": [
+        "https://enem.dev/2009/questions/33/a2e94298-0c01-4a34-9c5e-938a893089c7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O mecanismo evolutivo envolvido na associação entre cores de pelagem e de substrato é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

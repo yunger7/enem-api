@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2016",
+    "index": 57,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A distância e velocidade da mariposa, na situação descrita, seriam detectadas pelo sistema de um morcego por quais alterações nas características dos pulsos ultrassônicos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida diminuída.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Intensidade aumentada, o tempo de retorno diminuído e a frequência percebida diminuída.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intensidade diminuída, o tempo de retorno diminuído e a frequência percebida aumentada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida aumentada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Intensidade aumentada, o tempo de retorno aumentado e a frequência percebida aumentada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

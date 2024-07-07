@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2023",
+    "index": 52,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "TEXTO I\nComo presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe, sou irresponsável pelo que faço no meu mover-me no mundo e, se careço de responsabilidade, não posso falar em ética.\nFREIRE, P. Pedagogia da autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996\nТЕХТО II\nPaulo Freire construiu uma pedagogia da esperança. Na sua concepção, a história não é algo pronto e acabado. As estruturas de opressão e as desigualdades, apesar de serem naturalizadas, são sócio e historicamente construídas. Daí a importância de os educandos tomarem consciência da sua realidade para, assim, transformá-la.\nDEMARCHI, J. L. Paulo Freire. Disponivel em: https://diplomatique.org.br. Acesso em: 6 out. 2021 (adaptado).\nCom base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Participação sociopolítica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Definição estético-cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Competição econômica local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manutenção do sistema escolar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Capacitação de mobilidade individual.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

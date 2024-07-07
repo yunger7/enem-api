@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2011",
+    "index": 90,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/90/7ae35329-f487-4902-ad0f-7033b80442ab.png)\n\nDe acordo com o relatório “A grande sombra da pecuária” (Livestock’s Long Shadow), feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.\n\n**Disponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010. (Foto: Reprodução/Enem)**",
+    "files": [
+        "https://enem.dev/2011/questions/90/7ae35329-f487-4902-ad0f-7033b80442ab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metano durante o processo de digestão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Óxido nitroso durante o processo de ruminação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Clorofluorcarbono durante o transporte de carne.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Óxido nitroso durante o processo respiratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dióxido de enxofre durante o consumo de pastagens.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

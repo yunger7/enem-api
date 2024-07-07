@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2011",
+    "index": 37,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No Estado de São Paulo, a mecanização da colheita da cana-de-açúcar tem sido induzida também pela legislação ambiental, que proíbe a realização de queimadas em áreas próximas aos centros urbanos. Na região de Ribeirão Preto, principal polo sucroalcooleiro do país, a mecanização da colheita já é realizada em 516 mil dos 1,3 milhão de hectares cultivados com cana-de-açúcar.\n\nBALSADI, O. et al. Transformações Tecnológicas e a força de trabalho na agricultura brasileira no período de 1990-2000. **Revista de economia agrícola.** V. 49 (1), 2002.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto aborda duas questões, uma ambiental e outra socioeconômica, que integram o processo de modernização da produção canavieira. Em torno da associação entre elas, uma mudança decorrente desse processo é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Perda de nutrientes do solo devido à utilização constante de máquinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eficiência e racionalidade no plantio com maior produtividade na colheita.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ampliação da oferta de empregos nesse tipo de ambiente produtivo. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Menor compactação do solo pelo uso de maquinário agrícola de porte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Poluição do ar pelo consumo de combustíveis fósseis pelas máquinas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

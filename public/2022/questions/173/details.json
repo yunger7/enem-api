@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2022",
+    "index": 173,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.\n\n![](https://enem.dev/2022/questions/173/0e6a9a19-bb58-4f93-bcb9-b7f26f5df5e7.png)",
+    "files": [
+        "https://enem.dev/2022/questions/173/0e6a9a19-bb58-4f93-bcb9-b7f26f5df5e7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1235",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7200",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

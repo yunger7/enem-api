@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2015",
+    "index": 143,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/143/782cd653-e43f-4da4-9a86-bce130429805.png)",
+    "files": [
+        "https://enem.dev/2015/questions/143/782cd653-e43f-4da4-9a86-bce130429805.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A mediana dos tempos apresentados no quadro é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20,70.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20,77.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20,85.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "20,90.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

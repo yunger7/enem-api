@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2016",
+    "index": 31,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\nMais de 50 mil refugiados entraram no território húngaro apenas no primeiro semestre de 2015. Budapeste lançou os “trabalhos preparatórios” para a construção de um muro de quatro metros de altura de 175 km ao longo de sua fronteira com a Sérvia, informou o ministro húngaro das Relações Exteriores. “Uma resposta comum da União Europeia a este desafio da imigração é muito demorada, e a Hungria não pode esperar. Temos que agir”, justificou o ministro.\n\nDisponível em: www.portugues.rfi.fr Acesso em 19 Jun 2015 (adaptado).\n\n**TEXTO II**\n\nO Alto Comissariado das Nações Unidas para Refugiados (ACNUR) critica as manifestações de Xenofobia adotadas pelo governo da Hungria. O país foi invadido por cartazes nos quais o chefe do executivo insta os imigrantes a respeitarem as leis e a não “roubarem” os empregos dos húngaros. Para o ACNUR, a medida é surpreendente, pois a xenofobia costuma ser instigada por pequenos grupos radicais e não pelo próprio governo do país.\n\nDisponível em: http://pt.euronews.com. Acesso em 19 jun.2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O posicionamento governamental citado nos textos é criticado pelo ACNUR por ser considerado um caminho para o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alteração do regime político.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fragilização da supremacia nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Expansão dos domínios geográficos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cerceamento da liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fortalecimento das práticas de discriminação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

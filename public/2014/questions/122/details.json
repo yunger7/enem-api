@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2014",
+    "index": 122,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/122/ff1bfb0f-0911-497a-8a39-2bc0a9741a72.png)\n\nCLARK, L. **Bicho de bolso.** Placas de metal, 1966.",
+    "files": [
+        "https://enem.dev/2014/questions/122/ff1bfb0f-0911-497a-8a39-2bc0a9741a72.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O objeto escultórico produzido por Lygia Clark, representante do Neoconcretismo, exemplifica o início de uma vertente importante na arte contemporânea, que amplia as funções da arte. Tendo como referência a obra Bicho de bolso, identifica-se essa vertente pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Participação efetiva do espectador na obra, o que determina a proximidade entre arte e vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Percepção do uso de objetos cotidianos para a confecção da obra de arte, aproximando arte e realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reconhecimento do uso de técnicas artesanais na arte, o que determina a consolidação de valores culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reflexão sobre a captação artística de imagens com meios óticos, revelando o desenvolvimento de uma linguagem própria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Entendimento sobre o uso de métodos de produção em série para a confecção da obra de arte, o que atualiza as linguagens artísticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

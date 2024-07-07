@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2020",
+    "index": 147,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:\n\n*   Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros\n*   Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.\n\nUm veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “X/100”.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Caso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/147/69c7e5f8-93ce-4ecd-8e44-ac7c28af96f2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/147/f0b8be29-d7d6-419e-8c6b-0b87bc3d2335.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/147/f0df66d2-c7fe-423b-8513-79ade98380ae.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/147/12128e5e-c71c-4946-904b-156196ea62fd.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/147/0f541af7-0c49-4ce9-bfe8-de20e82ea2b7.png",
+            "isCorrect": false
+        }
+    ]
+}

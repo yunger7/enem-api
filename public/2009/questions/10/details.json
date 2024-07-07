@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2009",
+    "index": 10,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fotossíntese é importante para a vida na Terra. Nos cloroplastos dos organismos fotossintetizantes, a energia solar é convertida em energia química que, juntamente com água e gás carbônico (CO2), é utilizada para a síntese de compostos orgânicos (carboidratos). A fotossíntese é o único processo de importância biológica capaz de realizar essa conversão. Todos os organismos, incluindo os produtores, aproveitam a energia armazenada nos carboidratos para impulsionar os processos celulares, liberando CO2 para a atmosfera e água para a célula por meio da respiração celular. Além disso, grande fração dos recursos energéticos do planeta, produzidos tanto no presente (biomassa) como em tempos remotos (combustível fóssil), é resultante da atividade fotossintética.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As informações sobre obtenção e transformação dos recursos naturais por meio dos processos vitais de fotossíntese e respiração, descritas no texto, permitem concluir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O CO2 e a água são moléculas de alto teor energético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os carboidratos convertem energia solar em energia química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A vida na Terra depende, em última análise, da energia proveniente do Sol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O processo respiratório é responsável pela retirada de carbono da atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A produção de biomassa e de combustível fóssil, por si, é responsável pelo aumento de CO2 atmosférico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

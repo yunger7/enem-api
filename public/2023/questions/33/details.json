@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2023",
+    "index": 33,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Texto I**\n\n![](https://enem.dev/2023/questions/33/d3f9dfc2-3337-498f-8dcd-67a7f5909bbb.png)\n\nSEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall. IbramMinc. São Paulo, 1919.\n\n**Texto II**\n\nEm 1933, a obra Eternos caminhantes ingressou em uma das primeiras edições das exposições de Arte Degenerada, promovida por membros do partido nazista alemão. Nos anos seguintes, ela voltaria a ser exibida na mostra denominada Exposição da Vergonha, promovida por pequenos grupos abastados. Em 1937, essa obra foi confiscada pelo Ministério da Propaganda daquele país, na grande ação nacional-socialista contra a “Arte Degenerada”.\n\nSCHWARTZ, J. Perseguição à Arte Moderna em tempos de amarra São Paulo: Museu Lasar Segall, 2018 (adaptado)",
+    "files": [
+        "https://enem.dev/2023/questions/33/d3f9dfc2-3337-498f-8dcd-67a7f5909bbb.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quase cinquenta obras de Lasar Segall foram confiscadas pelo regime totalitário alemão na primeira metade do século XX, entre elas a obra Eternos caminhantes, considerada degenerada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Representar uma estética tida como inconveniente para o ideário político vigente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Manifestar um posicionamento político-cultural concebido por grupos de oposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Expressar a cultura artística por meio da representação parcial do corpo humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentar uma composição que antecipa o imaginário artístico germânico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimular discussões sobre o papel da arte na construção coletiva de cultura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2016",
+    "index": 170,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/170/4e96593f-1006-47bb-9f6f-2eac204f496c.png)",
+    "files": [
+        "https://enem.dev/2016/questions/170/4e96593f-1006-47bb-9f6f-2eac204f496c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no quadro, qual é a moda do número de pessoas no elevador durante a subida do térreo ao quinto andar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

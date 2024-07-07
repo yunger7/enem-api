@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2016",
+    "index": 106,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Até que ponto replicar conteúdo é crime? “A internet e a pirataria são inseparáveis”, diz o diretor do instituto de pesquisas americano Social Science Research Council. “Há uma infraestrutura pequena para controlar quem é o dono dos arquivos que circulam na rede. Isso acabou com o controle sobre a propriedade e tem sido descrito como pirataria, mas é inerente à tecnologia”, afirma o diretor. O ato de distribuir cópias de um trabalho sem a autorização dos seus produtores pode, sim, ser considerado crime, mas nem sempre essa distribuição gratuita lesa os donos dos direitos autorais. Pelo contrário. Veja o caso do livro O alquimista, do escritor Paulo Coelho. Após publicar, para download gratuito, uma versão traduzida da obra em seu blog, Coelho viu as vendas do livro em papel explodirem.\n\nBARRETO, J.; MORAES, M. A internet existe sem pirataria?  \n**Veja**, n. 2 308, 13 fev. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o texto, o impacto causado pela internet propicia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Banalização da pirataria na rede.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adoção de medidas favoráveis aos editores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Implementação de leis contra crimes eletrônicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reavaliação do conceito de propriedade intelectual.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ampliação do acesso a obras de autores reconhecidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

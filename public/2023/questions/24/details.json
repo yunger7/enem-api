@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2023",
+    "index": 24,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2023/questions/24/78918e1a-00e2-4972-b8f7-9cc17a935ec2.png)",
+    "files": [
+        "https://enem.dev/2023/questions/24/78918e1a-00e2-4972-b8f7-9cc17a935ec2.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse anúncio publicitário, veiculado durante o contexto da pandemia de covid-19, tem por finalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Divulgar o canal telefônico de atendimento a casos de violência contra a mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Informar sobre a atuação de uma entidade defensora da mulher vítima de violência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2023",
+    "index": 168,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As probabilidades de os candidatos de inscrição número 50 e 02 serem sorteados são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/168/a5689a77-7cbd-4f5f-b548-eef2a3fee87f.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/168/67248715-8948-439d-9770-a652c76ac110.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/168/4d9a67e0-9136-42e4-855e-c72b0b876d28.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/168/24184847-9c76-40d3-9c78-44a35f0600e8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/168/adeb932f-030f-4190-9b20-33a4a5f968f5.png",
+            "isCorrect": false
+        }
+    ]
+}

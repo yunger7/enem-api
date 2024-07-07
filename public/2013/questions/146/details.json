@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2013",
+    "index": 146,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/146/573a432a-fdf5-4f17-8e42-d8337154d0aa.png)",
+    "files": [
+        "https://enem.dev/2013/questions/146/573a432a-fdf5-4f17-8e42-d8337154d0aa.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A loja sorteará um brinde entre os compradores do produto A e outro brinde entre os compradores do produto B.\nQual a probabilidade de que os dois sorteados tenham feito suas compras em fevereiro de 2012?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3/242",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5/22",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6/25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7/15",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

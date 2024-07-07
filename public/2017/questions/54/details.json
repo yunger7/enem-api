@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2017",
+    "index": 54,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2017/questions/54/b4587b09-f5c4-4e31-a586-0a1ea9b169c1.png)",
+    "files": [
+        "https://enem.dev/2017/questions/54/b4587b09-f5c4-4e31-a586-0a1ea9b169c1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A leitura dos dados revela que as áreas com maior cobertura vegetal têm o potencial de intensificar o processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Erosão laminar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Intemperismo físico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Enchente nas cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Compactação do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Recarga dos aquíferos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

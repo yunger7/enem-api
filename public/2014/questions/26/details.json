@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2014",
+    "index": 26,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png)",
+    "files": [
+        "https://enem.dev/2014/questions/26/9edf1f8c-0a23-4e68-ba46-482dcb4aefb0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O fluxo migratório representado está associado ao processo de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fuga de áreas degradadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inversão da hierarquia urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Busca por amenidades ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conurbação entre municípios contíguos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desconcentração dos investimentos produtivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

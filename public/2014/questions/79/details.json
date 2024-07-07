@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - ENEM 2014",
+    "index": 79,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em um hospital havia cinco lotes de bolsas de sangue, rotulados com os códigos I, II, III, IV e V. Cada lote continha apenas o tipo sanguíneo não identificado. Uma funcionária do hospital resolveu fazer uma identificação utilizando dois tipos de soro, anti-A e anti-B. Os resultados obtidos estão descritos no quadro.\n\n![](https://enem.dev/2014/questions/79/9e4960c8-af7a-4b51-8137-440c6fbf2713.png)",
+    "files": [
+        "https://enem.dev/2014/questions/79/9e4960c8-af7a-4b51-8137-440c6fbf2713.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantos litros de sangue eram do grupo sanguíneo do tipo A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "55",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

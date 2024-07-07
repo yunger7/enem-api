@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2017",
+    "index": 115,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As centrífugas são equipamentos utilizados em laboratórios, clínicas e indústrias. Seu funcionamento faz uso da aceleração centrífuga obtida pela rotação de um recipiente e que serve para a separação de sólidos em suspensão em líquidos ou de líquidos misturados entre si.\n\nRODITI, I. **Dicionário Houaiss de física.** Rio de Janeiro: Objetiva, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse aparelho, a separação das substâncias ocorre em função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Das diferentes densidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Dos diferentes raios de rotação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Das diferentes velocidades angulares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Das diferentes quantidades de cada substância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da diferente coesão molecular de cada substância.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

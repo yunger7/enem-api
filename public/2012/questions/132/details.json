@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2012",
+    "index": 132,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Lugar de mulher também é na oficina. Pelo menos nas oficinas dos cursos da área automotiva fornecidos pela Prefeitura, a presença feminina tem aumentado ano a ano. De cinco mulheres matriculadas em 2005, a quantidade saltou para 79 alunas inscritas neste ano nos cursos de mecânica automotiva, eletricidade veicular, injeção eletrônica, repintura e funilaria. A presença feminina nos cursos automotivos da Prefeitura — que são gratuitos — cresceu 1 480% nos últimos sete anos e tem aumentado ano a ano.\n\nDisponível em: www.correiodeuberlandia.com.br. Acesso em: 27 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na produção de um texto, são feitas escolhas referentes a sua estrutura, que possibilitam inferir o objetivo do autor. Nesse sentido, no trecho apresentado, o enunciado “Lugar de mulher também é na oficina” corrobora o objetivo textual de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Demonstrar que a situação das mulheres mudou na sociedade contemporânea.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Defender a participação da mulher na sociedade atual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Comparar esse enunciado com outro: “lugar de mulher é na cozinha”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Criticar a presença de mulheres nas oficinas dos cursos da área automotiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Distorcer o sentido da frase “lugar de mulher é na cozinha”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

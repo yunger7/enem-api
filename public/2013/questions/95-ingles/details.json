@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2013",
+    "index": 95,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/95-ingles/94d1c589-c9f9-4b32-a4e9-cdc21e625368.png)",
+    "files": [
+        "https://enem.dev/2013/questions/95-ingles/94d1c589-c9f9-4b32-a4e9-cdc21e625368.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir da leitura dessa tirinha, infere-se que o discurso de Calvin teve um efeito diferente do pretendido, uma vez que ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Decide tirar a neve do quintal para convencer seu pai sobre seu discurso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Culpa o pai por exercer influência negativa na formação de sua personalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Comenta que suas discussões com o pai não correspondem às suas expectativas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Conclui que os acontecimentos ruins não fazem falta para a sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reclama que é vítima de valores que o levam a atitudes inadequadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

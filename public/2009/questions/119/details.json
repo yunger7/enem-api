@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2009",
+    "index": 119,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Texto I**  \nO professor deve ser um guia seguro, muito senhor de sua língua; se outra for a orientação, vamos cair na “língua brasileira”, refúgio nefasto e confissão nojenta de ignorância do idioma pátrio, recurso vergonhoso de homens de cultura falsa e de falso patriotismo. Como havemos de querer que respeitem a nossa nacionalidade se somos os primeiros a descuidar daquilo que exprime e representa o idioma pátrio?\n\nALMEIDA, N. M. **Gramática metódica da língua portuguesa.**  \n**Prefácio.** São Paulo: Saraiva, 1999 (adaptado).\n\n**Texto II**  \nAlguns leitores poderão achar que a linguagem desta Gramática se afasta do padrão estrito usual neste tipo de livro. Assim, o autor escreve _tenho que reformular_, e não _tenho de reformular_; _pode-se colocar dois constituintes_, e não _podem-se colocar dois constituintes_; e assim por diante. Isso foi feito de caso pensado, com a preocupação de aproximar a linguagem da gramática do padrão atual brasileiro presente nos textos técnicos jornalísticos de nossa época.\n\nREIS, N. Nota do editor. PERINI, M. A. **Gramática descritiva**  \n**do português.** São Paulo: Ática, 1996.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Confrontando-se as opiniões defendidas nos dois textos, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ambos os textos tratam da questão do uso da língua com o objetivo de criticar a linguagem do brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os dois textos defendem a ideia de que o estudo da gramática deve ter o objetivo de ensinar as regras prescritivas da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A questão do português falado no Brasil é abordada nos dois textos, que procuram justificar como é correto e aceitável o uso coloquial do idioma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O primeiro texto enaltece o padrão estrito da língua, ao passo que o segundo defende que a linguagem jornalística deve criar suas próprias regras gramaticais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O primeiro texto prega a rigidez gramatical no uso da língua, enquanto o segundo defende uma adequação da língua escrita ao padrão atual brasileiro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

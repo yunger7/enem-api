@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2012",
+    "index": 77,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um consumidor desconfia que a balança do supermercado não está aferindo corretamente a massa dos produtos. Ao chegar a casa resolve conferir se a balança estava descalibrada. Para isso, utiliza um recipiente provido de escala volumétrica, contendo 1,0 litro d’água. Ele coloca uma porção dos legumes que comprou dentro do recipiente e observa que a água atinge a marca de 1,5 litro e também que a porção não ficara totalmente submersa, com 1/3 de seu volume fora d’água. Para concluir o teste, o consumidor, com ajuda da internet, verifica que a densidade dos legumes, em questão, é a metade da densidade da água, onde, ρágua = 1 g/cm3 . No supermercado a balança registrou a massa da porção de legumes igual a 0,500 kg (meio quilograma).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que o método adotado tenha boa precisão, o consumidor concluiu que a balança estava descalibrada e deveria ter registrado a massa da porção de legumes igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,073 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,167 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,250 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,375 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,750 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

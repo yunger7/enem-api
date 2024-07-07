@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2015",
+    "index": 155,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/155/b5b18afc-ec22-42af-9b29-474d822405e7.png)\n\nO ponto _O_ indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores.",
+    "files": [
+        "https://enem.dev/2015/questions/155/b5b18afc-ec22-42af-9b29-474d822405e7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8π.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "12π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "32π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "64π.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

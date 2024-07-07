@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2020",
+    "index": 98,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma usina geradora de energia elétrica, seja através de uma queda-d’água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um aumento inesperado da diferença de potencial elétrico nos terminais das bobinas.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

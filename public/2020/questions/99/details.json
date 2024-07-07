@@ -1,0 +1,45 @@
+{
+    "title": "Questão 99 - ENEM 2020",
+    "index": 99,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.\n\n![](https://enem.dev/2020/questions/99/8e10e13c-cd79-41f1-8f07-0952b17a98c8.png)\n\nOs semáforos estão separados por uma distância de 500m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s–2 até atingir a velocidade de 72 km h–1 e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.",
+    "files": [
+        "https://enem.dev/2020/questions/99/8e10e13c-cd79-41f1-8f07-0952b17a98c8.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20s, 45s e 70s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25s, 50s e 75s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "28s, 42s e 53s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30s, 55s e 80s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "35s, 60s e 85s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

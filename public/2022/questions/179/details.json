@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2022",
+    "index": 179,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.\n\n![](https://enem.dev/2022/questions/179/08b6ac03-1a1c-4a0d-b246-dc37098794ad.png)\n\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\n\nPode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.",
+    "files": [
+        "https://enem.dev/2022/questions/179/08b6ac03-1a1c-4a0d-b246-dc37098794ad.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "74,23.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "74,51.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "75,07.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "75,23.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "78,49.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

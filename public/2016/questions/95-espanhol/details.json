@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2016",
+    "index": 95,
+    "year": 2016,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg)\n\nACCIÓN POÉTICA LIMA. Disponível em: https://twitter.com. Acesso em: 30 maio 2016.",
+    "files": [
+        "https://enem.dev/2016/questions/95-espanhol/a1a3ec49-04b3-4b09-87ef-4d9a1fb8bf20.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse grafite, realizado por um grupo que faz intervenções artísticas na cidade de Lima, há um jogo de palavras como verbo “poner”. Na primeira ocorrência, o verbo equivale a “vestir uma roupa”, já na segunda, indica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Início de ação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mudança de estado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Conclusão de ideia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Simultaneidade de fatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Continuidade de processo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

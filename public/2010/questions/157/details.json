@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2010",
+    "index": 157,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para construir uma manilha de esgoto, um cilindro com 2 m de diâmetro e 4 m de altura (de espessura desprezível), foi envolvido homogeneamente por uma camada de concreto, contendo 20 cm de espessura.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Supondo que cada metro cúbico de concreto custe R$ 10,00 e tomando 3,1 como valor aproximado de π, então o preço dessa manilha é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 230,40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 124,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 104,16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 54,56.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 49,60.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

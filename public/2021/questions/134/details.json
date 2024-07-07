@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2021",
+    "index": 134,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0º GL a 100ºGL, com divisões de 0,1ºGL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20ºC, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\n![](https://enem.dev/2021/questions/134/7c4c3c55-a6c0-4f80-a379-f316fb889544.png)\n\n**Manual alcoolômetro Gay Lussac**. Disponível em: www.incoterm.com.br. Acesso em: 4 dez. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/134/7c4c3c55-a6c0-4f80-a379-f316fb889544.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É necessário a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento da dissociação da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da densidade da água e do álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mudança do volume dos materiais por dilatação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aumento da concentração de álcool durante a medida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Alteração das propriedades químicas da mistura álcool e água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

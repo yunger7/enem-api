@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2015",
+    "index": 154,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/154/65c7dd7a-2e17-4352-a584-ed42ea5b0559.png)\n\nA forma do vidro foi concebida de modo que o eixo _x_ sempre divida ao meio a altura _h_ do vidro e a base do vidro seja paralela ao eixo _x_. Obedecendo a essas condições, o engenheiro determinou uma expressão que fornece a altura h do vidro em função da medida _n_ de sua base, em metros.",
+    "files": [
+        "https://enem.dev/2015/questions/154/65c7dd7a-2e17-4352-a584-ed42ea5b0559.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A expressão algébrica que determina a altura do vidro é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/154/be2d8a09-67d6-47ab-9914-97fc82b976f6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/154/43c54dd9-c26a-453d-bf90-d9fa906df4aa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/154/2c78e0f7-b32d-4fd2-ba1c-8e1f94ba5b4f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/154/4ddc69b0-924b-4616-9310-a765045b9be8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/154/4905391e-89e5-4c92-b16b-8c709883a102.png",
+            "isCorrect": true
+        }
+    ]
+}

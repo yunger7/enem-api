@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2020",
+    "index": 175,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.\n\n![](https://enem.dev/2020/questions/175/33aa811b-1dc7-4083-a8c0-2aeeb9fd52d6.png)\n\nO lucro é determinado pela diferença: Receita – Custo.",
+    "files": [
+        "https://enem.dev/2020/questions/175/33aa811b-1dc7-4083-a8c0-2aeeb9fd52d6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/b3298ba7-589f-4ca3-a510-3cebdb9903cd.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/fdcc74b5-e93d-42c8-9cce-7e018e43eb67.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/8d380a8c-6b10-40a5-bafa-cfe75141c412.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/5c8b1402-d364-4c5f-beaa-559cb23d0891.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/175/f718a2fc-7a30-4e17-b4b3-28dfb028a6f5.png",
+            "isCorrect": false
+        }
+    ]
+}

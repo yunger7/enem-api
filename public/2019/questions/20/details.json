@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2019",
+    "index": 20,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O projeto DataViva consiste na oferta de dados oficiais sobre exportações, atividades econômicas, localidades e ocupações profissionais de todo o Brasil. Num primeiro momento, o DataViva construiu uma ferramenta que permitia a análise da economia mineira embasada por essa perspectiva metodológica complexa e diversa. No entanto, diante das possibilidades oferecidas pelas bases de dados trabalhadas, a plataforma evoluiu para um sistema mais completo. De maneira interativa e didática, o usuário é guiado por meio das diversas formas de navegação dos aplicativos. Além de informações sobre os produtos exportados, bem como acerca do volume das exportações em cada um dos estados e municípios do País, em poucos cliques, o interessado pode conhecer melhor o perfil da população, o tipo de atividade desenvolvida, as ocupações formais e a média salarial por categoria.\nMANTOVANI. C. A. Guardião de informações. Minas faz Ciência. n. 58. jun.-jul.-ago 2014 (adaptado).\nEntre as novas possibilidades promovidas pelo desenvolvimento de novas tecnologias, o texto destaca a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Auditoria das ações de governo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Publicidade das entidades públicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Obtenção de informações estratégicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Disponibilidade de ambientes coletivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Comunicação entre órgãos administrativos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

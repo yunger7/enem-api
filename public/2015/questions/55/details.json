@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2015",
+    "index": 55,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual o valor mais próximo do volume da solução nutritiva, em litros, que o produtor deve adicionar ao tanque?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "41",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "51",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "82",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

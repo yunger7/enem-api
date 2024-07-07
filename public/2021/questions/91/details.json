@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2021",
+    "index": 91,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No cultivo por hidroponia, são utilizados soluções nutritivas contendo macronutrientes e micronutrientes essenciais. Além dos nutrientes, o pH é um parâmetro de extrema importância, uma vez que ele afeta a preparação da solução nutritiva e a absorção dos nutrientes pelas plantas. Para o cultivo de alface, valores de pH entre 5,5 e 6,5 são ideais para o seu desenvolvimento. As correções de pH são feitas pela adição de compostos ácidos ou básicos, mas não devem introduzir elementos nocivos às plantas. Na tabela, são apresentados alguns dados da composição da solução nutritiva de referência para esse cultivo. Também é apresentada a composição de uma solução preparada por um produtor de cultivo hidropônico.\n\n![](https://enem.dev/2021/questions/91/1dc57326-df5b-4852-aedc-5839a54129ec.png)\n\nLENZI, E; FAVERO, L. O. B; LUCHESE, E. B. **Introdução à química da água:** ciência, vida e sobrevivência. Rio de Janeiro: LTC, 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/91/1dc57326-df5b-4852-aedc-5839a54129ec.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para correção do pH da solução nutritiva preparada, esse produtor pode empregar uma solução de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/91/0cd7f916-3dc7-48f8-b5df-b84c91755f2a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/91/cade51a2-4217-4ca2-960d-be2ee1e8bd2e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/91/560b8732-72e1-4c95-8022-67102ebf31ec.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/91/6b02a86e-77a0-4ba0-8829-a91c987e4e7b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/91/cac9eb61-efc4-42a4-8163-2e4a4c6d2f1e.png",
+            "isCorrect": true
+        }
+    ]
+}

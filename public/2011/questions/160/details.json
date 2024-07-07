@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2011",
+    "index": 160,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3 800,00 gerado pela aplicação.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantia inicial que essa pessoa aplicou em ações corresponde ao valor de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 4 222,22.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 4 523,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 5 000,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D R$ 13 300,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 17 100,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

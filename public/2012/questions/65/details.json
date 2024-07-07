@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2012",
+    "index": 65,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os vegetais biossintetizam determinadas substâncias (por exemplo, alcaloides e flavonoides), cuja estrutura química e concentração variam num mesmo organismo em diferentes épocas do ano e estágios de desenvolvimento. Muitas dessas substâncias são produzidas para a adaptação do organismo às variações ambientais (radiação UV, temperatura, parasitas, herbívoros, estímulo a polinizadores etc.) ou fisiológicas (crescimento, envelhecimento etc.).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As variações qualitativa e quantitativa na produção dessas substâncias durante um ano são possíveis porque o material genético do indivíduo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sofre constantes recombinações para adaptar-se.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Muda ao longo do ano e em diferentes fases da vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cria novos genes para biossíntese de substâncias específicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Altera a sequência de bases nitrogenadas para criar novas substâncias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Possui genes transcritos diferentemente de acordo com cada necessidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Questão 64 - ENEM 2013",
+    "index": 64,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a ser desinfectada. As equações das reações químicas envolvidas são:\n\nCl2(g) + 2 H2O (l) ⇌ HClO (aq) + H3O+ (aq) + Cl− (aq)\n\nHClO (aq) + H2O (l) ⇌  H3O+(aq) + ClO−(aq)      pKa= − log Ka= 7,53\n\nA ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão com que o ácido hipocloroso se ioniza.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para que a desinfecção seja mais efetiva, o pH da água a ser tratada deve estar mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

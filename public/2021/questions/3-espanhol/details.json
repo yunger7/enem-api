@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2021",
+    "index": 3,
+    "year": 2021,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Hoy, en cuestión de segundos uno es capaz de conocer la vida de un individuo o las actividades que lleva a cabo sin necesidad de contacto personal; las RRSS tienen la poderosa virtud de convocar concentraciones de gentes con idearios comunes y generar movimientos como la Primavera Árabe, por ejemplo.  \nBajo ese parámetro, cualquier incidente puede ser inmediatamente reportado por grabación o filmación, por lo que a los aparatos celulares, más allá de su utilidad en términos de conversación, habria que calificarlos como “la guillotina del siglo XXI”.  \nAsí es. Son éstos los que han pasado a convertirse en artefactos con cuyo uso se han develado conversaciones, acuerdos, negociados, chantajes y un sin fin de hechos que han dado curso a procesos de naturaleza legal e investigativa que han tumbado gobiernos, empresas, empresarios, políticos y que, incluso, ha servido en un caso reciente, para que un inocente recupere su libertad tras cuatro años de injusto encierro.\n\nDisponível em: https:/elpotosi.net. Acesso em: 24. jun. 2021.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto trata da evolução inerente às funcionalidades de recursos tecnológicos. A expressão “la guillotina del siglo XXI” destaca que os celulares de hoje podem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Oferecer recursos com funções múltiplas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reunir usuários com ideias semelhantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divulgar informação instantânea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Organizar movimentos sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Assumir utilidade jurídica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

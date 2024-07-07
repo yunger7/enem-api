@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2014",
+    "index": 156,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O volume real do armário, em centímetros cúbicos, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "60 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 000 000.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

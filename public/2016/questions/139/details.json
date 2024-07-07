@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2016",
+    "index": 139,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/139/c748d750-cec7-42af-8fb1-4690aee8d9a8.png)",
+    "files": [
+        "https://enem.dev/2016/questions/139/c748d750-cec7-42af-8fb1-4690aee8d9a8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 250",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

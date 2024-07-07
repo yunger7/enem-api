@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2013",
+    "index": 161,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/161/71e7f83b-c1a9-4a5f-af6f-5060240c73b6.png)\n\nDisponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2013/questions/161/71e7f83b-c1a9-4a5f-af6f-5060240c73b6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor total gasto, em reais, para postar essas cartas é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8,35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "15,35",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "18,05",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

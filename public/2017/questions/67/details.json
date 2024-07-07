@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2017",
+    "index": 67,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A grande maioria dos países ocidentais democráticos adotou o Tribunal Constitucional como mecanismo de controle dos demais poderes. A inclusão dos Tribunais no cenário político implicou alterações no cálculo para a implementação de políticas públicas. O governo, além de negociar seu plano político com o Parlamento, teve que se preocupar em não infringir a Constituição. Essa nova arquitetura institucional propiciou o desenvolvimento de um ambiente político que viabilizou a participação do Judiciário nos processos decisórios.\n\nCARVALHO, E. R. **Revista de Sociologia e Política**, n. 23, nov. 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto faz referência a uma importante mudança na dinâmica de funcionamento dos Estados contemporâneos que, no caso brasileiro, teve como consequência a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adoção de eleições para a alta magistratura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminuição das tensões entre os entes federativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Suspensão do princípio geral dos freios e contrapesos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Judicialização de questões próprias da esfera legislativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Profissionalização do quadro de funcionários da Justiça.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

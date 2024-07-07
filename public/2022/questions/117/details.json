@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2022",
+    "index": 117,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3 ) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.\n\n![](https://enem.dev/2022/questions/117/d1b41872-c2bd-4e00-8425-9dc4e5436395.png)",
+    "files": [
+        "https://enem.dev/2022/questions/117/d1b41872-c2bd-4e00-8425-9dc4e5436395.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gás obtido no experimento é o:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CO2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "CO",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cl2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

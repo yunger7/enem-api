@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2010",
+    "index": 25,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 2008 foram comemorados os 200 anos da mudança da família real portuguesa para o Brasil, onde foi instalada a sede do reino. Uma sequência de eventos importantes ocorreu no período 1808-1821, durante os 13 anos em que D. João VI e a família real portuguesa permaneceram no Brasil.\n\nEntre esses eventos, destacam-se os seguintes:\n\n• Bahia – 1808: Parada do navio que trazia a família real  \nportuguesa para o Brasil, sob a proteção da marinha  \nbritânica, fugindo de um possível ataque de Napoleão.  \n• Rio de Janeiro – 1808: desembarque da família real  \nportuguesa na cidade onde residiriam durante sua  \npermanência no Brasil.  \n• Salvador – 1810: D. João VI assina a carta régia de  \nabertura dos portos ao comércio de todas as nações  \namigas, ato antecipadamente negociado com a Inglaterra  \nem troca da escolta dada à esquadra portuguesa.  \n• Rio de Janeiro – 1816: D. João VI torna-se rei do Brasil  \ne de Portugal, devido à morte de sua mãe, D. Maria I.  \n• Pernambuco – 1817: As tropas de D. João VI sufocam  \na revolução republicana.\n\nGOMES. L. 1808: como uma rainha louca, um príncipe  \nmedroso e uma corte corrupta enganaram Napoleão e  \nmudaram a história de Portugal e do Brasil. São Paulo:  \nEditora Planeta, 2007 (adaptado)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma das consequências desses eventos foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A decadência do império britânico, em razão do contrabando de produtos ingleses através dos portos brasileiros,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O fim do comércio de escravos no Brasil, porque a Inglaterra decretara, em 1806, a proibição do tráfico de escravos em seus domínios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A conquista da região do rio da Prata em represália à aliança entre a Espanha e a França de Napoleão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A abertura de estradas, que permitiu o rompimento do isolamento que vigorava entre as províncias do país, o que dificultava a comunicação antes de 1808.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O grande desenvolvimento econômico de Portugal após a vinda de D. João VI para o Brasil, uma vez que cessaram as despesas de manutenção do rei e de sua família.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

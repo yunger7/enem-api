@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2009",
+    "index": 154,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A rampa de um hospital tem na sua parte mais elevada uma altura de 2,2 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 3,2 metros e alcançou uma altura de 0,8 metro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distância em metros que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,16 metros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,0 metros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,4 metros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,6 metros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7,04 metros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

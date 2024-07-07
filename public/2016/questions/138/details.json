@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2016",
+    "index": 138,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/138/484f68f6-18c6-4987-b92e-58c44f18b07b.png)",
+    "files": [
+        "https://enem.dev/2016/questions/138/484f68f6-18c6-4987-b92e-58c44f18b07b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Não habituado com a unidade pé, e querendo satisfazer sua curiosidade, esse turista consultou um manual de unidades de medidas e constatou que 1 pé equivale a 12 polegadas, e que 1 polegada equivale a 2,54 cm. Após alguns cálculos de conversão, o turista ficou surpreendido com o resultado obtido em metros.\nQual a medida que mais se aproxima do diâmetro da Roda do Milênio, em metro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "53",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "94",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "113",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "135",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "145",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

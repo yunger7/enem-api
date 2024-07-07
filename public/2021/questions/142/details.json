@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2021",
+    "index": 142,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O organizador de uma competição de lançamento de  \ndados pretende tornar o campeonato mais competitivo.  \nPelas regras atuais da competição, numa rodada, o  \njogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores tem, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo.  \nA fim de tornar o jogo mais atrativo, planeja modificar  \nas regras de modo que a probabilidade de um jogador  \npontuar em uma rodada seja igual ou superior a 9/10. Para  \nisso, decide aumentar a quantidade de dardos a serem  \nlançados em cada rodada.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

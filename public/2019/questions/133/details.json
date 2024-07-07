@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2019",
+    "index": 133,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O “The Kidney Project” é um projeto realizado por cientistas que pretendem desenvolver um rim biônico que executará a maioria das funções biológicas do órgão. O rim biônico possuirá duas partes que incorporam recentes avanços de nanotecnologia, filtração de membrana e biologia celular. Esse projeto significará uma grande melhoria na qualidade de vida para aquelas pessoas que dependem da hemodiálise para sobrevivência.\n\n**Disponível em: [https://pharm.ucsf.edu](https://pharm.ucsf.edu/). Acesso em: 26 abr. 2019 (adaptado).**",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O dispositivo criado promoverá diretamente a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Remoção de ureia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Excreção de lipídios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Síntese de vasopressina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Transformação de amônia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fabricação de aldosterona.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

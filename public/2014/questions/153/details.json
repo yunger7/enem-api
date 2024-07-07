@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2014",
+    "index": 153,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/153/3938c0bb-0e7b-4093-a8cc-36fc3213211a.png)",
+    "files": [
+        "https://enem.dev/2014/questions/153/3938c0bb-0e7b-4093-a8cc-36fc3213211a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual deve ser o aumento na receita da empresa para que o lucro mensal em 2014 seja o mesmo de 2013?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 114 285,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 130 000,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 160 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 210 000,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 213 333,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

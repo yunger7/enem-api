@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2023",
+    "index": 161,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, em 30 e 60 dias após a compra.\n\nUm cliente da loja decidiu comprar, de forma financiada, um produto cujo valor à vista é R$ 1 500,00.\n\nUtilize 5,29 como aproximação para 28.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A taxa mensal de juros compostos praticada nesse financiamento é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6,7%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "21,5%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "23,3%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

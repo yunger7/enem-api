@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2011",
+    "index": 71,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os biocombustíveis de primeira geração são derivados da soja, milho e cana-de-açúcar e sua produção ocorre através da fermentação. Biocombustíveis derivados de material celulósico ou biocombustíveis de segunda geração — coloquialmente chamados de “gasolina de capim” — são aqueles produzidos a partir de resíduos de madeira (serragem, por exemplo), talos de milho, palha de trigo ou capim de crescimento rápido e se apresentam como uma alternativa para os problemas enfrentados pelos de primeira geração, já que as matérias-primas são baratas e abundantes.\n\nDALE, B. E.; HUBER, G. W. Gasolina de capim e outros vegetais. Ago. 2009, nº 87 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto mostra um dos pontos de vista a respeito do uso dos biocombustíveis na atualidade, os quais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "São matrizes energéticas com menor carga de poluição para o ambiente e podem propiciar a geração de novos empregos, entretanto, para serem oferecidos com baixo custo, a tecnologia da degradação da celulose nos biocombustíveis de segunda geração deve ser extremamente eficiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Oferecem múltiplas dificuldades, pois a produção é de alto custo, sua implantação não gera empregos, e deve-se ter cuidado com o risco ambiental, pois eles oferecem os mesmos riscos que o uso de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sendo de segunda geração, são produzidos por uma tecnologia que acarreta problemas sociais, sobretudo decorrente do fato de a matéria-prima ser abundante e facilmente encontrada, o que impede a geração de novos empregos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

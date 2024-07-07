@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2009",
+    "index": 25,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os planos de controle e erradicação de doenças em animais envolvem ações de profilaxia e dependem em grande medida da correta utilização e interpretação de testes diagnósticos. O quadro mostra um exemplo hipotético de aplicação de um teste diagnóstico.\n\n![](https://enem.dev/2009/questions/25/404c9597-0e69-4df3-b423-1e332c80add4.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/25/404c9597-0e69-4df3-b423-1e332c80add4.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que, no teste diagnóstico, a sensibilidade é a probabilidade de um animal infectado ser classificado como positivo e a especificidade é a probabilidade de um animal não infectado ter resultado negativo, a interpretação do quadro permite inferir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A especificidade aponta um número de 5 falsos positivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O teste, a cada 100 indivíduos infectados, classificaria 90 como positivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O teste classificaria 96 como positivos em cada 100 indivíduos não infectados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ações de profilaxia são medidas adotadas para o tratamento de falsos positivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Testes de alta sensibilidade resultam em maior número de animais falsos negativos comparado a um teste de baixa sensibilidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

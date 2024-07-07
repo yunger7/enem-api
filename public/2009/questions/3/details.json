@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2009",
+    "index": 3,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Estima-se que haja atualmente no mundo 40 milhões de pessoas infectadas pelo HIV (o vírus que causa a AIDS), sendo que as taxas de novas infecções continuam crescendo, principalmente na África, Ásia e Rússia. Nesse cenário de pandemia, uma vacina contra o HIV teria imenso impacto, pois salvaria milhões de vidas. Certamente seria um marco na história planetária e também uma esperança para as populações carentes de tratamento antiviral e de acompanhamento médico.\n\nTANURI, A.; FERREIRA JUNIOR, O. C. Vacina contra Aids: desafios e esperanças. Ciência Hoje (44) 26, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma vacina eficiente contra o HIV deveria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Induzir a imunidade, para proteger o organismo da contaminação viral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ser capaz de alterar o genoma do organismo portador, induzindo a síntese de enzimas protetoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produzir antígenos capazes de se ligarem ao vírus, impedindo que este entre nas células do organismo humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ser amplamente aplicada em animais, visto que esses são os principais transmissores do vírus para os seres humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimular a imunidade, minimizando a transmissão do vírus por gotículas de saliva.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2013",
+    "index": 83,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/83/8c89e96c-e432-40e1-896c-84255e978921.png)",
+    "files": [
+        "https://enem.dev/2013/questions/83/8c89e96c-e432-40e1-896c-84255e978921.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para um valor de temperatura em que Rs = 100 Ω, a leitura apresentada pelo voltímetro será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "+ 6,2 V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "+ 1,7 V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "+ 0,3 V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "– 0,3 V.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "– 6,2 V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

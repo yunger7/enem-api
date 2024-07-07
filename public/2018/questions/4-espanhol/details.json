@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2018",
+    "index": 4,
+    "year": 2018,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**¿Cómo gestionar la diversidad lingüística en el aula?**\n\nEl aprendizaje de idiomas es una de las demandas de la sociedad en la escuela: los alumnos tienen que finalizar la escolarización con un buen conocimiento, por lo menos, de las tres lenguas curriculares: catalán, castellano e inglés (o francés, portugués…).  \nLa metodología que promueve el aprendizaje integrado de idiomas en la escuela tiene en cuenta las relaciones entre las diferentes lenguas: la mejor enseñanza de una lengua incide en la mejora de todas las demás. Se trata de educar en y para la diversidad lingüística y cultural.  \nPor eso, la V Jornada de Buenas Prácticas de Gestión del Multilingüismo, que se celebrará en Barcelona, debatirá sobre la gestión del multilingüismo en el aula. El objetivo es difundir propuestas para el aprendizaje integrado de idiomas y presentar experiencias prácticas de gestión de la diversidad lingüística presente en las aulas.\n\nDisponível em: www10.gencat.cat. Acesso em: 15 set. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na região da Catalunha, Espanha, convivem duas línguas oficiais: o catalão e o espanhol. Além dessas, ensinam-se outras línguas nas escolas. De acordo com o texto, para administrar a variedade linguística nas aulas, é necessário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ampliar o número de línguas ofertadas para enriquecer o conteúdo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Divulgar o estudo de diferentes idiomas e culturas para atrair os estudantes",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Privilegiar o estudo de línguas maternas para valorizar os aspectos regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Explorar as relações entre as línguas estudadas para promover a diversidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Debater as práticas sobre multilinguismo para formar melhor os professores de línguas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

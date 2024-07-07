@@ -1,0 +1,45 @@
+{
+    "title": "Questão 9 - ENEM 2022",
+    "index": 9,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022/questions/9/b1a38f51-88f6-4686-9189-734021ee6771.png)\n\n**Disponível em: : www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).**",
+    "files": [
+        "https://enem.dev/2022/questions/9/b1a38f51-88f6-4686-9189-734021ee6771.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sentimento de culpa provocado no condutor causador de acidentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Dano psicológico causado nas vítimas da violência nas estradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Importância do monitoramento do trânsito pelas autoridades competentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade de punição a motoristas alcoolizados envolvidos em acidentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sofrimento decorrente da perda de entes queridos em acidentes automobilísticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2019",
+    "index": 145,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um ciclista quer montar um sistema de marchas usando dois discos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas, que ficam posicionadas na roda traseira da bicicleta.\n\nAs diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.\n\n![](https://enem.dev/2019/questions/145/a77a3c83-584a-4cb5-b194-9c6f84d84c26.png)\n\nO ciclista já dispõe de uma catraca com 7 cm de diâmetro e pretende incluir uma segunda catraca, de modo que, à medida em que a corrente passe por ela, a bicicleta avance 50% a mais do que avançaria se a corrente passasse pela primeira catraca, a cada volta completa dos pedais.",
+    "files": [
+        "https://enem.dev/2019/questions/145/a77a3c83-584a-4cb5-b194-9c6f84d84c26.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor mais próximo da medida do diâmetro da segunda catraca, em centímetro e com uma casa decimal, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,7.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

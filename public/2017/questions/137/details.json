@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2017",
+    "index": 137,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula\n\n![](https://enem.dev/2017/questions/137/e7e3ca34-7beb-43f1-bef0-8691dd8922f5.png)\n\nSe necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335.",
+    "files": [
+        "https://enem.dev/2017/questions/137/e7e3ca34-7beb-43f1-bef0-8691dd8922f5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "17",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

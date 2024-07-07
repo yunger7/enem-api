@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2015",
+    "index": 113,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nUm ato de criatividade pode contudo gerar um modelo produtivo. Foi o que ocorreu com a palavra sambódromo, criativamente formada com a terminação -(ó)dromo (= corrida), que figura em hipódromo, autódromo, cartódromo, formas que designam itens culturais da alta burguesia. Não demoraram a circular, a partir de então, formas populares como rangódromo, beijódromo, camelódromo.\n\nAZEREDO, J. C. **Gramática Houaiss da língua portuguesa**. São Paulo: Publifolha, 2008.\n\n**TEXTO II**\n\nExiste coisa mais descabida do que chamar de sambódromo uma passarela para desfile de escolas de samba? Em grego, -dromo quer dizer “ação de correr, lugar de corrida”, daí as palavras autódromo e hipódromo. É certo que, as vezes, durante o desfile, a escola se atrasa e eé obrigada a correr para não perder pontos, mas não se desloca com a velocidade de um cavalo ou de um carro de Fórmula 1.\n\nGULLAR, F. Disponível em: www1.folha.uol.com.br. Acesso em: 3 ago. 2012.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Há nas línguas mecanismos geradores de palavras. Embora o Texto II apresente um julgamento de valor sobre a formação da palavra sambódromo, o processo de formação dessa palavra reflete",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O dinamismo da língua na criação de novas palavras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Uma nova realidade limitando o aparecimento de novas palavras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A apropriação inadequada de mecanismos de criação de palavras por leigos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O reconhecimento da impropriedade semântica dos neologismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A restrição na produção de novas palavras com o radical grego.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

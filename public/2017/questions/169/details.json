@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2017",
+    "index": 169,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/169/2a8f5ab3-e6e4-4457-8cb4-1fefac4ab935.png)",
+    "files": [
+        "https://enem.dev/2017/questions/169/2a8f5ab3-e6e4-4457-8cb4-1fefac4ab935.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, foi no site",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "U.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

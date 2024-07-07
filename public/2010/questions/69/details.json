@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2010",
+    "index": 69,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/69/41751926-6bcd-405d-ad63-38c328db607d.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/69/41751926-6bcd-405d-ad63-38c328db607d.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metanol, pois sua combustão completa fornece, aproximadamente, 22,7 kJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Etanol, pois sua combustão completa fornece, aproximadamente, 29,7 kJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Metanol, pois sua combustão completa fornece, aproximadamente, 17,9 MJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Etanol, pois sua combustão completa fornece, aproximadamente, 23,5 MJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Etanol, pois sua combustão completa fornece, aproximadamente, 33,7 MJ de energia por litro de combustível queimado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

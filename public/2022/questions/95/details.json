@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2022",
+    "index": 95,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença  \ndo campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica.  \nA figura ilustra um fio percorrido por uma corrente elétrica i, constante e com sentido para cima. Os pontos A, B e C  \nestão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola.\n\n![](https://enem.dev/2022/questions/95/2a216ed1-eeab-4213-bcac-34e5166e97dd.png)",
+    "files": [
+        "https://enem.dev/2022/questions/95/2a216ed1-eeab-4213-bcac-34e5166e97dd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando apenas o campo magnético por causa da corrente i, as respectivas configurações das bússolas nos pontos A, B e C serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/87d9018f-a151-480a-a9a8-e44a43463b22.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/362dd438-8835-4020-bd5a-b1e16a3ce584.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/2b418706-4910-471f-a904-dee54086d259.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/7560896d-771b-43b3-9347-d3a593ccd199.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/95/6e7b0269-ad16-4031-b9df-fecb1c4a2acb.png",
+            "isCorrect": false
+        }
+    ]
+}

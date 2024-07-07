@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2021",
+    "index": 20,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. _Mini@tures_ é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho do arquivo, para que um número maios de “espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. _Mini@tures_ explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\n\nSPANGHERO, M. **A dança dos encéfalos acesos.**  \nSão Paulo: Itaú Cultural, 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criar novas formas de financiamento ao utilizar a internet para divulgação das apresentações",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Redefinir a extensão e o propósito do espetáculo para adaptá-lo ao perfil de diferentes usuários",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

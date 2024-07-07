@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2009",
+    "index": 161,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Suponha que a etapa final de uma gincana escolar consista em um desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos. Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10 alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se o aluno da equipe Gama que faltou tivesse comparecido, essa equipe",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Teria a pontuação igual a 6,5 se ele obtivesse nota 0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Seria a vencedora se ele obtivesse nota 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Seria a segunda colocada se ele obtivesse nota 8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Permaneceria na terceira posição, independentemente da nota obtida pelo aluno.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

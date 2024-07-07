@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2015",
+    "index": 72,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Tanto a febre amarela quanto a dengue são doenças causadas por vírus do grupo dos arbovírus, pertencentes ao gênero _Flavivirus_, existindo quatro sorotipos para o vírus causador da dengue. A transmissão de ambas acontece por meio da picada de mosquitos, como o _Aedes aegypti_. Entretanto, embora compartilhem essas características, hoje somente existe vacina, no Brasil, para a febre amarela e nenhuma vacina efetiva para a dengue.\n\nMINISTÉRIO DA SAÚDE. Fundação Nacional de Saúde. **Dengue**: Instruções para pessoal de combate ao vetor. Manual de Normas Técnicas. Disponível em: http://portal.saude.gov.br. Acesso em: 7 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse fato pode ser atribuído à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Maior taxa de mutação do vírus da febre amarela do que do vírus da dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo no vírus da febre amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Baixa capacidade de indução da resposta imunológica pelo vírus da dengue em relação ao da febre amarela.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

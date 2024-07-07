@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2022",
+    "index": 132,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os resultados de um ensaio clínico randomizado na Indonésia apontaram uma redução de 77% dos casos de dengue nas áreas que receberam o mosquito _Aedes aegypti_ infectado com a bactéria _Wolbachia_. Trata-se da mesma técnica utilizada no Brasil pelo Método _Wolbachia_, iniciativa conduzida pela Fundação Oswaldo Cruz — Fiocruz. Essa bactéria induz a redução da carga viral no mosquito e, consequentemente, o número de casos de dengue na área, sendo repassada por meio do cruzamento entre os insetos. Como essa bactéria é um organismo intracelular e o vírus também precisa entrar nas células para se reproduzir, ambos necessitarão de recursos comuns.\n\nCOSTA, G. Agência Fiocruz de Notícias. Estudo confirma eficácia do Método Wolbachia para dengue. Disponível em: https://portal.fiocruz.br. Acesso em: 3 jun. 2022 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa tecnologia utilizada no combate à dengue consiste na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Predação do vírus pela bactéria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Esterilização de mosquitos infectados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alteração no genótipo do mosquito pela bactéria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ompetição do vírus e da bactéria no hospedeiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Inserção de material genético do vírus na bactéria",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

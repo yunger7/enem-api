@@ -1,0 +1,46 @@
+{
+    "title": "Questão 103 - ENEM 2019",
+    "index": 103,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Estudos mostram o desenvolvimento de biochips utilizados para auxiliar o diagnóstico de diabetes melito, doença evidenciada pelo excesso de glicose no organismo. O teste é simples e consiste em duas reações sequenciais na superfície do biochip, entre a amostra de soro sanguíneo do paciente, enzimas específicas e reagente (iodeto de potássio, KI), conforme mostrado na imagem.\n\n![](https://enem.dev/2019/questions/103/cc84e5e8-fb10-4b2e-86c9-f8ba99e46709.png)\n\n  Após a adição de soro sanguíneo, o fluxo desloca-se espontaneamente da esquerda para a direita (ii) promovendo reações sequenciais, conforme as equações 1 e 2. Na primeira, há conversão de glicose do sangue em ácido glucônico, gerando peróxido de hidrogênio:\n\n![](https://enem.dev/2019/questions/103/bb8d09e7-3c0d-4835-a4b4-92726af93cfc.png)",
+    "files": [
+        "https://enem.dev/2019/questions/103/cc84e5e8-fb10-4b2e-86c9-f8ba99e46709.png",
+        "https://enem.dev/2019/questions/103/bb8d09e7-3c0d-4835-a4b4-92726af93cfc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O tipo de reação que ocorre na superfície do biochip, nas duas reações do processo, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Análise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Síntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Oxirredução.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Complexação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido-base.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

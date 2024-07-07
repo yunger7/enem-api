@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - ENEM 2016",
+    "index": 79,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Vários métodos são empregados para prevenção de infecções por microrganismos. Dois desses métodos utilizam microrganismos vivos e são eles: as vacinas atenuadas, constituidas por patógenos avirulentos, e os probióticos que contém bactérias benéficas. Na figura são apresentados cinco diferentes mecanismos de exclusão de patógenos pela ação dos probióticos no intestino de um animal.\n\n![](https://enem.dev/2016/questions/79/0716200b-a539-4ee2-937d-3ba40b15b4b4.jpg)",
+    "files": [
+        "https://enem.dev/2016/questions/79/0716200b-a539-4ee2-937d-3ba40b15b4b4.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual mecanismo de ação desses probióticos promove um efeito similar ao da vacina?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

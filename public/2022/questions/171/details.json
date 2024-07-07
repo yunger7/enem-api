@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2022",
+    "index": 171,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo, um jogador foi eleito o melhor do campeonato de basquete. Na atual temporada, cinco jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos das finais deste ano.\n\n![](https://enem.dev/2022/questions/171/45b098d3-26d2-49c5-a129-40e85febb05b.png)\n\nO quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada.",
+    "files": [
+        "https://enem.dev/2022/questions/171/45b098d3-26d2-49c5-a129-40e85febb05b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

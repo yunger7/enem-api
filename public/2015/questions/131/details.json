@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2015",
+    "index": 131,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015/questions/131/0aef8dd3-3d60-4f4f-8923-703821fae1a8.jpg)\n\n**TEXTO II**\n\nLucian Freud é, como ele próprio gosta de relembrar às pessoas, um biólogo. Mais propriamente, tem querido registrar verdades muito específicas sobre como é tomar posse deste determinado corpo nesta situação particular, neste específico espaço de tempo.\n\nSMEE, S. **Freud**. Köln: Taschen, 2010.",
+    "files": [
+        "https://enem.dev/2015/questions/131/0aef8dd3-3d60-4f4f-8923-703821fae1a8.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a intencionalidade do artista, mencionada no Texto II, e a ruptura da arte no século XX com o parâmetro acadêmico, a obra apresentada trata do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exaltação da figura masculina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Descrição precisa e idealizada da forma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Arranjo simétrico e proporcional dos elementos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Representação do padrão do belo contemporâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fidelidade à forma realista isenta do ideal de perfeição.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

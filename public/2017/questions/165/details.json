@@ -1,0 +1,46 @@
+{
+    "title": "Questão 165 - ENEM 2017",
+    "index": 165,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/165/c4d1bd98-124e-4136-9db8-7df0ddc7fdde.png)\n\nAo ser divulgado esse resultado em jornal, o Gráfico 1 foi cortado durante a diagramação, como mostra o Gráfico 2.\n\n![](https://enem.dev/2017/questions/165/6200b8f9-1e5e-46a5-8516-7e24a6a79bd8.png)\n\nApesar de os valores apresentados estarem corretos e a largura das colunas ser a mesma, muitos leitores criticaram o formato do Gráfico 2 impresso no jornal, alegando que houve prejuízo visual para o candidato B.",
+    "files": [
+        "https://enem.dev/2017/questions/165/c4d1bd98-124e-4136-9db8-7df0ddc7fdde.png",
+        "https://enem.dev/2017/questions/165/6200b8f9-1e5e-46a5-8516-7e24a6a79bd8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A diferença entre as razões da altura da coluna B pela coluna A nos gráficos 1 e 2 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2/15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8/35.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

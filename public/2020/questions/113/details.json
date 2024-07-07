@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2020",
+    "index": 113,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, ao invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V0), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual figura melhor representa a trajetória de queda da bolinha?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/113/93881bb9-4eb6-4d30-bcaf-2254ce3e837c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/113/ffe496b7-7c83-4a43-97e2-75287d63305e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/113/ad12af23-b876-49f9-99a1-e6536b5c80a9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/113/207108f6-f71e-49a2-9d39-dc1d100678d0.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/113/da16bf97-bac6-407f-b7b9-813cfd8c39d0.png",
+            "isCorrect": false
+        }
+    ]
+}

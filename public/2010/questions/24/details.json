@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2010",
+    "index": 24,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Eu, o Príncipe Regente, faço saber aos que o presente Alvará virem: que desejando promover e adiantar a riqueza nacional, e sendo um dos mananciais dela as manufaturas e a indústria, sou servido abolir e revogar toda e qualquer proibição que haja a este respeito no Estado do Brasil.\n\nAlvará de liberdade para as indústrias (1.o de Abril de 1808).  \nIn Bonavides, P.; Amaral, R. Textos políticos da História do  \nBrasil. Vol. 1. Brasília: Senado Federal, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O projeto industrializante de D. João, conforme expresso no alvará, não se concretizou. Que características desse período explicam esse fato?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A ocupação de Portugal pelas tropas francesas e o fechamento das manufaturas portuguesas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A dependência portuguesa da Inglaterra e o predomínio industrial inglês sobre suas redes de comércio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A desconfiança da burguesia industrial colonial diante da chegada da família real portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O confronto entre a França e a Inglaterra e a posição dúbia assumida por Portugal no comércio internacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O atraso industrial da colônia provocado pela perda de mercados para as indústrias portuguesas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

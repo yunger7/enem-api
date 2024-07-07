@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2009",
+    "index": 151,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com essas informações, qual foi o valor da cota calculada no acerto final para cada uma das 55 pessoas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 14,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 17,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 22,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 32,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 57,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

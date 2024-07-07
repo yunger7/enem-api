@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2010",
+    "index": 90,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O lixão que recebia 130 toneladas de lixo e contaminava a região com seu chorume (líquido derivado da decomposição de compostos orgânicos) foi recuperado, transformando-se em um aterro sanitário controlado, mudando a qualidade de vida e a paisagem e proporcionando condições dignas de trabalho para os que dele subsistiam.\n\nRevista Promoção da Saúde da Secretaria de Políticas da Saúde. Ano 1, nº 4, dez. 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quais procedimentos técnicos tornam o aterro sanitário mais vantajoso que o lixão, em relação às problemáticas abordadas no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O lixo é recolhido e incinerado pela combustão a altas temperaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O lixo hospitalar é separado para ser enterrado e sobre ele, colocada cal virgem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O lixo orgânico é completamente separado do lixo inorgânico, evitando a formação de chorume.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O lixo industrial é separado e acondicionado de forma adequada, formando uma bolsa de resíduos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

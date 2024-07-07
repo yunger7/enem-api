@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2023",
+    "index": 177,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante.\n\n![](https://enem.dev/2023/questions/177/27c49bd5-ad8c-450c-9f56-970b9ca9c53c.png)\n\nCom o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P, em relação ao solo, vai se alterando.",
+    "files": [
+        "https://enem.dev/2023/questions/177/27c49bd5-ad8c-450c-9f56-970b9ca9c53c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor representa a variação dessa altura, em função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/177/3837d9d0-2ff6-49d7-affa-9bb60aacb00a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/177/262c33a1-0c7b-494c-9bd4-92d308154b59.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/177/b9b5c23e-3ae9-4f92-9500-a1bda3ed5638.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/177/03cd2618-be50-4803-b159-da8033fdeb8d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/177/0624eace-e934-40dc-895c-a505c0c9f183.png",
+            "isCorrect": false
+        }
+    ]
+}

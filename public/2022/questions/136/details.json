@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2022",
+    "index": 136,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma máquina em operação tem sua temperatura T monitorada por meio de um registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V varia com a temperatura T da máquina, de acordo com a expressão V=T²−4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.\n\n![](https://enem.dev/2022/questions/136/44fff3b7-9ad8-4f02-8262-5b4c015a8228.png)",
+    "files": [
+        "https://enem.dev/2022/questions/136/44fff3b7-9ad8-4f02-8262-5b4c015a8228.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

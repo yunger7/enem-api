@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2016",
+    "index": 141,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/141/5157ff2e-1b33-4a36-91dd-d088df930d2c.png)",
+    "files": [
+        "https://enem.dev/2016/questions/141/5157ff2e-1b33-4a36-91dd-d088df930d2c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O proprietário de um veículo precisa trocar os pneus de seu carro e, ao chegar a uma loja, é informado por um vendedor que há somente pneus com os seguintes códigos: 175/65R15, 175/75R15, 175/80R15, 185/60R15 e 205/55R15. Analisando, juntamente com o vendedor, as opções de pneus disponíveis, concluem que o pneu mais adequado para seu veículo é o que tem a menor altura.\nDesta forma, o proprietário do veículo deverá comprar o pneu com a marcação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "205/55R15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "175/65R15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "175/75R15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "175/80R15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "185/60R15",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

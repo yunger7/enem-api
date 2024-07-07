@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2013",
+    "index": 42,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png)",
+    "files": [
+        "https://enem.dev/2013/questions/42/a4babe32-d835-4c37-bba8-6ff084efb4cd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No esquema, o problema atmosférico relacionado ao ciclo da água acentuou-se após as revoluções industriais. Uma consequência direta desse problema está na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução da flora.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Elevação das marés.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Erosão das encostas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Laterização dos solos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fragmentação das rochas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

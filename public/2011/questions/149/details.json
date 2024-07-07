@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2011",
+    "index": 149,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/149/3101cf12-cad5-44db-ba34-f0fb54e3143d.png)",
+    "files": [
+        "https://enem.dev/2011/questions/149/3101cf12-cad5-44db-ba34-f0fb54e3143d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma jovem com IMC = 20 kg/m², 100 cm de circunferência dos quadris e 60 kg de massa corpórea resolveu averiguar seu IAC. Para se enquadrar aos níveis de normalidade de gordura corporal, a atitude adequada que essa jovem deve ter diante da nova medida é\nUse √3 = 1,7 e √1,7 = 1,3",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduzir seu excesso de gordura em cerca de 1%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Reduzir seu excesso de gordura em cerca de 27%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manter seus níveis atuais de gordura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar seu nível de gordura em cerca de 1%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumentar seu nível de gordura em cerca de 27%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

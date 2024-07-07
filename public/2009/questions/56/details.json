@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2009",
+    "index": 56,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na democracia estado-unidense, os cidadãos são incluídos na sociedade pelo exercício pleno dos direitos políticos e também pela ideia geral de direito de propriedade. Compete ao governo garantir que esse direito não seja violado. Como consequência, mesmo aqueles que possuem uma pequena propriedade sentem-se cidadãos de pleno direito.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na tradição política dos EUA, uma forma de incluir socialmente os cidadãos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Submeter o indivíduo à proteção do governo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hierarquizar os indivíduos segundo suas posses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estimular a formação de propriedades comunais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Vincular democracia e possibilidades econômicas individuais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Defender a obrigação de que todos os indivíduos tenham propriedades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2010",
+    "index": 62,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para explicar a absorção de nutrientes, bem como a função das microvilosidades das membranas das células que revestem as paredes internas do intestino delgado, um estudante realizou o seguinte experimento:\n\nColocou 200 ml de água em dois recipientes. No primeiro recipiente, mergulhou, por 5 segundos, um pedaço de papel liso, como na FIGURA 1; no segundo recipiente, fez o mesmo com um pedaço de papel com dobras simulando as microvilosidades, conforme FIGURA 2. Os dados obtidos foram: a quantidade de água absorvida pelo papel liso foi de 8 ml, enquanto pelo papel dobrado foi de 12 ml.\n\n![](https://enem.dev/2010/questions/62/f2824040-a108-45f8-abec-1428dd63cba7.png)",
+    "files": [
+        "https://enem.dev/2010/questions/62/f2824040-a108-45f8-abec-1428dd63cba7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados obtidos, infere-se que a função das microvilosidades intestinais com relação à absorção de nutrientes pelas células das paredes internas do intestino é a de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manter o volume de absorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumentar a superfície de absorção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diminuir a velocidade de absorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar o tempo da absorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manter a seletividade na absorção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

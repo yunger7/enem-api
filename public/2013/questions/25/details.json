@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2013",
+    "index": 25,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/25/0bcd59f3-aebb-450e-87ea-d0683f7f9ab3.png)",
+    "files": [
+        "https://enem.dev/2013/questions/25/0bcd59f3-aebb-450e-87ea-d0683f7f9ab3.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A charge revela uma crítica aos meios de comunicação, em especial à internet, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Questiona a integração das pessoas nas redes virtuais de relacionamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Considera as relações sociais como menos importantes que as virtuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Enaltece a pretensão do homem de estar em todos os lugares ao mesmo tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Descreve com precisão as sociedades humanas no mundo globalizado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Concebe a rede de computadores como o espaço mais eficaz para a construção de relações sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

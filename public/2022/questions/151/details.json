@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2022",
+    "index": 151,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação.\n\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após  \nterminar seus exercícios físicos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30 minutos ou menos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mais de 35 e menos de 45 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mais de 45 e menos de 55 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Mais de 60 e menos de 70 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70 minutos ou mais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

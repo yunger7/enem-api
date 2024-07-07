@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2011",
+    "index": 76,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Diferente do que o senso comum acredita, as lagartas de borboletas não possuem voracidade generalizada. Um estudo mostrou que as borboletas de asas transparentes da família Ithomiinae, comuns na Floresta Amazônica e na Mata Atlântica, consomem, sobretudo, plantas da família Solanaceae, a mesma do tomate. Contudo, os ancestrais dessas borboletas consumiam espécies vegetais da família Apocinaceae, mas a quantidade dessas plantas parece não ter sido suficiente para garantir o suprimento alimentar dessas borboletas. Dessa forma, as solanáceas tornaram-se uma opção de alimento, pois são abundantes na Mata Atlântica e na Floresta Amazônica.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, a ideia do senso comum é confrontada com os conhecimentos científicos, ao se entender que as larvas das borboletas Ithomiinae encontradas atualmente na Mata Atlântica e na Floresta Amazônica, apresentam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Facilidade em digerir todas as plantas desses locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Interação com as plantas hospedeiras da família Apocinaceae.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Adaptação para se alimentar de todas as plantas desses locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Voracidade indiscriminada por todas as plantas existentes nesses locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Especificidade pelas plantas da família Solanaceae existentes nesses locais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

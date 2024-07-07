@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2013",
+    "index": 135,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/135/a7313775-7367-40b7-a57e-e55826f71f8f.png)",
+    "files": [
+        "https://enem.dev/2013/questions/135/a7313775-7367-40b7-a57e-e55826f71f8f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os gráficos expõem dados estatísticos por meio de linguagem verbal e não verbal. No texto, o uso desse recurso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exemplifica o aumento da expectativa de vida da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Explica o crescimento da confiança na instituição do casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mostra que a população brasileira aumentou nos últimos cinco anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Indica que as taxas de casamento e emprego cresceram na mesma proporção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sintetiza o crescente número de casamentos e de ocupação no mercado de trabalho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

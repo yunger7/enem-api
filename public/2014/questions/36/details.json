@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2014",
+    "index": 36,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png)",
+    "files": [
+        "https://enem.dev/2014/questions/36/85fbe9b8-9bc5-4de1-bf9c-4bfb53777317.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Separação da Pangeia a partir do período Permiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Deslocamento de fraturas no período Triássico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Afastamento da Europa no período Jurássico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Formação do Atlântico Sul no período Cretáceo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Constituição de orogêneses no período Quaternário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

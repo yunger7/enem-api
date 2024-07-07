@@ -1,0 +1,43 @@
+{
+    "title": "Questão 172 - ENEM 2010",
+    "index": 172,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em 2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões. Neste mesmo ano, a produção brasileira de etanol correspondeu a 43% da produção mundial, ao passo que a produção dos Estados Unidos da América, usando milho, foi de 45%.\n\nDisponível em: planetasustentavel.abril.com.br.Acesso em: 02 maio 2009.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que, em 2009, a produção mundial de etanol seja a mesma de 2006 e que os Estados Unidos produzirão somente a metade de sua produção de 2006, para que o total produzido pelo Brasil e pelos Estados Unidos continue correspondendo a 88% da produção mundial, o Brasil deve aumentar sua produção em, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "52,3%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "65,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "77,5%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

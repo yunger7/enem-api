@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2018",
+    "index": 131,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um projetista deseja construir um brinquedo que lance um pequeno cubo ao longo de um trilho horizontal, e o dispositivo precisa oferecer a opção de mudar a velocidade de lançamento. Para isso, ele utiliza uma mola e um trilho onde o atrito pode ser desprezado, conforme a figura.\n\n![](https://enem.dev/2018/questions/131/03a1218e-507e-4616-ab2e-207b26d46671.png)",
+    "files": [
+        "https://enem.dev/2018/questions/131/03a1218e-507e-4616-ab2e-207b26d46671.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para que a velocidade de lançamento do cubo seja aumentada quatro vezes, o projetista deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manter a mesma mola e aumentar duas vezes a sua deformação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Manter a mesma mola e aumentar quatro vezes a sua deformação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Manter a mesma mola e aumentar dezesseis vezes a sua deformação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Trocar a mola por outra de constante elástica duas vezes maior e manter a deformação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Trocar a mola por outra de constante elástica quatro vezes maior e manter a deformação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

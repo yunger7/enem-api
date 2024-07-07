@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2019",
+    "index": 91,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E0) da água e de outras espécies em meio básico, expresso no quadro.\n\n![](https://enem.dev/2019/questions/91/370c4e55-9b9c-49c0-be8f-fd4d6ee6a40d.png)",
+    "files": [
+        "https://enem.dev/2019/questions/91/370c4e55-9b9c-49c0-be8f-fd4d6ee6a40d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é a outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Al",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Co",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cu(OH)2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fe(OH)2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pb",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

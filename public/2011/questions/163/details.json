@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2011",
+    "index": 163,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/163/1712d7cd-309a-4383-970a-51e8310d5882.png)",
+    "files": [
+        "https://enem.dev/2011/questions/163/1712d7cd-309a-4383-970a-51e8310d5882.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Escolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade de ele escolher uma região que seja adequada às recomendações médicas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3/4",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

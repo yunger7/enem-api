@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2012",
+    "index": 177,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O _designer_ português Miguel Neiva criou um sistema de símbolos que permite que pessoas daltônicas identifiquem cores. O sistema consiste na utilização de símbolos que identificam as cores primárias (azul, amarelo e vermelho). Além disso, a justaposição de dois desses símbolos permite identificar cores secundárias (como o verde, que é o amarelo combinado com o azul). O preto e o branco são identificados por pequenos quadrados: o que simboliza o preto é cheio, enquanto o que simboliza o branco é vazio. Os símbolos que representam preto e branco também podem estar associados aos símbolos que identificam cores, significando se estas são claras ou escuras.\n\n_Folha de São Paulo. Disponível em: www1.folha.uol.com.br. Acesso em: 18 fev. 2012 (adaptado)._",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, quantas cores podem ser representadas pelo sistema proposto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "23",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2016",
+    "index": 169,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/169/2a3b1883-983c-4974-9c15-d43c42742ae4.png)\n\nO Índice de Gini, que mede o grau de concentração de renda de um determinado grupo, pode ser calculado pela razão A/(A + B) em que A e B são as medidas das áreas indicadas no gráfico.\n\nA empresa tem como meta tornar seu Índice de Gini igual ao do país, que é 0,3. Para tanto, precisa ajustar os salários de modo a alterar o percentual que representa a parcela recebida pelos 10% dos funcionários de maior salário em relação ao total da massa salarial.\n\nDisponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado)",
+    "files": [
+        "https://enem.dev/2016/questions/169/2a3b1883-983c-4974-9c15-d43c42742ae4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para atingir a meta desejada, o percentual deve ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "40%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

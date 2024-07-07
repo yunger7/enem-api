@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2018",
+    "index": 168,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A raiva é uma doença viral e infecciosa, transmitida por mamíferos. A campanha nacional de vacinação antirrábica tem o objetivo de controlar a circulação do vírus da raiva canina e felina, prevenindo a raiva humana. O gráfico mostra a cobertura (porcentagem de vacinados) da campanha, em cães, nos anos de 2013, 2015 e 2017, no município de Belo Horizonte, em Minas Gerais. Os valores das coberturas dos anos de 2014 e 2016 não estão informados no gráfico e deseja-se estimá-los. Para tal, levou-se em consideração que a variação na cobertura de vacinação da campanha antirrábica, nos períodos de 2013 a 2015 e de 2015 a 2017, deu-se de forma linear.\n\n![](https://enem.dev/2018/questions/168/cc2d3b70-86a9-4939-9193-7a240258c191.png)",
+    "files": [
+        "https://enem.dev/2018/questions/168/cc2d3b70-86a9-4939-9193-7a240258c191.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual teria sido a cobertura dessa campanha no ano de 2014?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "62,3%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "63,0%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "63,5%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "64,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "65,5%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

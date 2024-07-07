@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2017",
+    "index": 91,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.\n\n![](https://enem.dev/2017/questions/91/1af39a67-d332-437c-8496-b3627d2f1dfd.png)\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100g de ração.",
+    "files": [
+        "https://enem.dev/2017/questions/91/1af39a67-d332-437c-8496-b3627d2f1dfd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O grupo que se contaminou somente com atrazina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O grupo que se contaminou somente com diazinon.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os grupos que se contaminaram com atrazina e malation.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os grupos que se contaminaram com diazinon e malation.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Nenhum dos grupos contaminados com atrazina, diazinon e malation.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

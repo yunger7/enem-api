@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2009",
+    "index": 26,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O processo de industrialização tem gerado sérios problemas de ordem ambiental, econômica e social, entre os quais se pode citar a chuva ácida. Os ácidos usualmente presentes em maiores proporções na água da chuva são o H2CO3, formado pela reação do CO2 atmosférico com a água, o HNO3 , o HNO2 , o H2SO4 e o H2SO3 . Esses quatro últimos são formados principalmente a partir da reação da água com os óxidos de nitrogênio e de enxofre gerados pela queima de combustíveis fósseis.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A formação de chuva mais ou menos ácida depende não só da concentração do ácido formado, como também do tipo de ácido. Essa pode ser uma informação útil na elaboração de estratégias para minimizar esse problema ambiental. Se consideradas concentrações idênticas, quais dos ácidos citados no texto conferem maior acidez às águas das chuvas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "HNO3 e HNO2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H2SO4 e H2SO3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H2SO3 e HNO2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "H2SO4 e HNO3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "H2CO3 e H2SO3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2020",
+    "index": 27,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Caminhando contra o vento,\n\nSem lenço e sem documento\n\nNo sol de quase dezembro\n\nEu vou\n\nO sol se reparte em crimes\n\nEspaçonaves, guerrilhas\n\nEm cardinales bonitas\n\nEu vou\n\nEm caras de presidentes\n\nEm grandes beijos de amor\n\nEm dentes, pernas, bandeiras\n\nBombas e Brigitte Bardot\n\nO sol nas bancas de revista\n\nMe enche de alegria e preguiça\n\nQuem lê tanta notícia\n\nEu vou\n\nVELOSO, C. Alegria, alegria. In: **Caetano Veloso**. São Paulo.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "É comum coexistirem sequências tipológicas em um mesmo gênero textual. Nesse fragmento, os tipos textuais que se destacam na organização temática são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Descritivo e argumentativo, pois o enunciador detalha cada lugar por onde passa, argumentando contra a violência urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dissertativo e argumentativo, pois o enunciador apresenta seu ponto de vista sobre as notícias relativas à cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Expositivo e injuntivo, pois o enunciador fala de seus estados físicos e psicológicos e interage com a mulher amada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Narrativo e descritivo, pois o enunciador conta sobre suas andanças pelas ruas da cidade ao mesmo tempo que a descreve.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Narrativo e injuntivo, pois o enunciador ensina o interlocutor como andar pelas ruas da cidade contanto sobre sua própria experiência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

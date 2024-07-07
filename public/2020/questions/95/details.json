@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2020",
+    "index": 95,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundadas por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais.\nUma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Formação de micro-hábitats.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação do efeito de borda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Construção de corredores ecológicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Promoção da sucessão ecológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Introdução de novas espécies de animais e vegetais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

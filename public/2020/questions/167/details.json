@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2020",
+    "index": 167,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.\n\n![](https://enem.dev/2020/questions/167/b97cd861-19d3-4103-8332-c96d5cdc6bf0.png)\n\nNo início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho.",
+    "files": [
+        "https://enem.dev/2020/questions/167/b97cd861-19d3-4103-8332-c96d5cdc6bf0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual será a porcentagem da redução da mesada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "23,5",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "30,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "70,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "76,5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

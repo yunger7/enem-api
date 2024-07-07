@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2021",
+    "index": 137,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Atomiuim, representado na imagem é um  \ndos principais pontos turísticos de Bruxelas. Ele foi  \nconstruído em 1958 para a primeira grande exposição  \nmundial depois da Segunda Guerra Mundial, a Feira  \nMundial de Bruxelas.  \nTrata-se de uma estrutura metálica construída no  \nformato de um cubo. Essa estrutura está apoiada por um  \ndos vértices sobre uma base paralela ao plano do solo,  \ne a diagonal do cubo, contendo esse vértice, é ortogonal  \nao plano da base. Centradas nos vértices desse cubo,  \nforam construídas oito esferas metálicas, e uma outra  \nesfera foi construída centrada no ponto de interseção das  \ndiagonais do cubo. As oito esferas sobre os vértices são  \ninterligadas segundo suas arestas, e a esfera central se  \nconecta a elas pelas diagonais do cubo.  \nTodas essas interligações são feitas por tubos  \ncilíndricos que possuem escadas em seu interior,  \npermitindo o deslocamento de pessoas pela parte  \ninterna da estrutura. Na diagonal ortogonal à base, o  \ndeslocamento é feito por um elevador, que permite o  \ndeslocamento entre as esferas da base e a esfera do  \nponto mais alto, passando pela esfera central.\n\nConsidere um visitante que se deslocou pelo interior  \ndo Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passand0 por todas as arestas e todas as diagonais do cubo.\n\n![](https://enem.dev/2021/questions/137/adb90310-f1c2-41fa-a3a4-a250c1141a16.png)",
+    "files": [
+        "https://enem.dev/2021/questions/137/adb90310-f1c2-41fa-a3a4-a250c1141a16.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/137/79821b1f-7009-4322-8af7-3ae58951064a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/137/a5e4c57e-4230-4b52-b3ea-e1b06cb99fa8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/137/035954ad-5098-40f0-91bd-d0e2946fc930.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/137/2110fe80-816b-4c42-841b-746be19abc6a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/137/92f0272e-9fb9-4787-9fe3-fe0051a11e8e.png",
+            "isCorrect": true
+        }
+    ]
+}

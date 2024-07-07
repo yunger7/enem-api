@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2013",
+    "index": 150,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.\n\nNessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5/8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5/6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5/14",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

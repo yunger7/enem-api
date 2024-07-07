@@ -1,0 +1,47 @@
+{
+    "title": "Questão 170 - ENEM 2023",
+    "index": 170,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão ![](https://enem.dev/2023/questions/170/369b24e4-258e-4faf-b7df-0c2e3da3c22a.png) , em que os valores de x representam os dias do mês, variando de 1 a 30.\n\nUm dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário ![](https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png) arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.\n\n![](https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png)",
+    "files": [
+        "https://enem.dev/2023/questions/170/369b24e4-258e-4faf-b7df-0c2e3da3c22a.png",
+        "https://enem.dev/2023/questions/170/b158b079-eaf5-4f8c-84b1-99db8076a950.png",
+        "https://enem.dev/2023/questions/170/e7404490-a2b4-46e1-b1e6-3a8c828050fe.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No caso analisado, qual seria a classificação do desempenho da empresa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ótimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bom.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ruim.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Péssimo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

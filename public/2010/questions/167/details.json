@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2010",
+    "index": 167,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas do Mundo desde a Copa de 1930 até a de 2006.\n\n![](https://enem.dev/2010/questions/167/62dd2345-60b2-49ba-af99-ee935344a42d.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/167/62dd2345-60b2-49ba-af99-ee935344a42d.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir dos dados apresentados, qual a mediana das quantidades de gols marcados pelos artilheiros das Copas do Mundo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6 gols",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,5 gols",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "7 gols",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7,3 gols",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8,5 gols",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

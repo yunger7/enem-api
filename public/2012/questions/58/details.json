@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2012",
+    "index": 58,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A própolis é um produto natural conhecido por suas propriedades anti-inflamatórias e cicatrizantes. Esse material contém mais de 200 compostos identificados até o momento. Dentre eles, alguns são de estrutura simples,  \ncomo é o caso do C6H5CO2CH2CH3, cuja estrutura está mostrada a seguir.\n\n![](https://enem.dev/2012/questions/58/2bf52513-1616-418a-ac16-9297567f554c.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/58/2bf52513-1616-418a-ac16-9297567f554c.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O ácido carboxílico e o álcool capazes de produzir o éster em apreço por meio da reação de esterificação são,respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ácido benzoico e etanol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ácido propanoico e hexanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ácido fenilacético e metanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ácido propiônico e cicloexanol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido acético e álcool benzílico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

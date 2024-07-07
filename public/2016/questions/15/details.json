@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2016",
+    "index": 15,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Hoje, a indústria cultural assumiu a herança civilizatória da democracia de pioneiros e empresários, que tampouco desenvolvera uma fineza de sentido para os desvios espirituais. Todos são livres para dançar e para se divertir do mesmo modo que, desde a neutralização histórica da religião, são livres para entrar em qualquer uma das inúmeras seitas. Mas a liberdade de escolha da ideologia, que reflete sempre a coerção econômica, revela-se em todos os setores como a liberdade de escolher o que é sempre a mesma coisa.\n\nADORNO, T; HORKHEIMER, M. **Dialética do esclarecimento: fragmentos filosóficos**. Rio de Janeiro; Zahar, 1985",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A liberdade de escolha na civilização ocidental, de acordo com a análise do texto, é um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Legado social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Patrimônio politico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produto da moralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conquista da humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ilusão da contemporaneidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

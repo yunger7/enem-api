@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2021",
+    "index": 33,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021/questions/33/3f0c8ec0-de44-43da-a545-967701e6128f.jpg)\n\nLEMONS, A. **Artistas brasileiras**. Belo Horizonte Miguilim,2018.",
+    "files": [
+        "https://enem.dev/2021/questions/33/3f0c8ec0-de44-43da-a545-967701e6128f.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Função de apresentação do livro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Apelo emocional apoiado nas imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descrição do processo criativo da autora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Referência à mescla dos trabalhos manual e digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de elementos gráficos voltados para o público-alvo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

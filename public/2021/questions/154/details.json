@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2021",
+    "index": 154,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.\n\n![](https://enem.dev/2021/questions/154/06fed6e4-4341-487f-8c3a-6352bba5bfd1.jpg)\n\nSegundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.\n\nDisponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado)",
+    "files": [
+        "https://enem.dev/2021/questions/154/06fed6e4-4341-487f-8c3a-6352bba5bfd1.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,17",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,49",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,71",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,06",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3,32",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

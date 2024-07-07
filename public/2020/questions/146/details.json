@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2020",
+    "index": 146,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:\n\n\u00052_h_ + _b_ — 63,5\u0005 ≤ 1,5 e 16 ≤ _h_ ≤ 19,\n\nnas quais _h_ é a altura do degrau (denominada espelho) e _b_ é a profundidade da pisada, como mostra a figura. Por conveniência, escolheu-se a altura do degrau como sendo _h_ = 16. As unidades de _h_ e _b_ estão em centímetro.\n\n![](https://enem.dev/2020/questions/146/7b775aa4-0afa-4e70-b6d0-3a49cf66c41f.png)",
+    "files": [
+        "https://enem.dev/2020/questions/146/7b775aa4-0afa-4e70-b6d0-3a49cf66c41f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b) deve pertencer, para que as regras sejam satisfeitas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30 ≤ b",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30 ≤ b ≤ 31,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30 ≤ b ≤ 33",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "31,5 ≤ b ≤ 33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "B ≤ 33",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

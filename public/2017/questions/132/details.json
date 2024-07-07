@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2017",
+    "index": 132,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O que ocorre com as células presentes nos alimentos preservados com essa técnica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O sal adicionado diminui a concentração de solutos em seu interior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O sal adicionado desorganiza e destrói suas membranas plasmáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A adição de sal altera as propriedades de suas membranas plasmáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os íons Na+ e CI- provenientes da dissociação do sal entram livremente nelas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2009",
+    "index": 172,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nos últimos anos, o volume de petróleo exportado pelo Brasil tem mostrado expressiva tendência de crescimento, ultrapassando as importações em 2008. Entretanto, apesar de as importações terem se mantido praticamente no mesmo patamar desde 2001, os recursos gerados com as exportações ainda são inferiores àqueles despendidos com as importações, uma vez que o preço médio por metro cúbico do petróleo importado é superior ao do petróleo nacional. Nos primeiros cinco meses de 2009, foram gastos 2,84 bilhões de dólares com importações e gerada uma receita de 2,24 bilhões de dólares com as exportações. O preço médio por metro cúbico em maio de 2009 foi de 340 dólares para o petróleo importado e de 230 dólares para o petróleo exportado. O quadro a seguir mostra os dados consolidados de 2001 a 2008 e dos primeiros cinco meses de 2009.\n\n![](https://enem.dev/2009/questions/172/5f549378-e9d4-4d17-9950-19a0f32f95b7.jpg)\n\nConsidere que as importações e exportações de petróleo de junho a dezembro de 2009 sejam iguais a 7/5 das  \nimportações e exportações, respectivamente, ocorridas de janeiro a maio de 2009.",
+    "files": [
+        "https://enem.dev/2009/questions/172/5f549378-e9d4-4d17-9950-19a0f32f95b7.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse caso, supondo que os preços para importação e exportação não sofram alterações, qual seria o valor mais aproximado da diferença entre os recursos despendidos com as importações e os recursos gerados com as exportações em 2009?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "600 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "840 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,34 bilhão de dólares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,44 bilhão de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,00 bilhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

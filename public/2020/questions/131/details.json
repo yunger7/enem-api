@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2020",
+    "index": 131,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de  forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A + B + C → D (a reação ocorre a altas pressões).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A + B → C + D (a reação é fortemente endotérmica).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A +3B → C (a reação ocorre com uso de solvente orgânico).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3A + 2B → 2C → 3D + 2E (a reação ocorre sob pressão atmosférica).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A + 1/2 B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

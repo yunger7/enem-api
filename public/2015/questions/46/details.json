@@ -1,0 +1,45 @@
+{
+    "title": "Questão 46 - ENEM 2015",
+    "index": 46,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Hipoxia ou mal das alturas consiste na diminuição de oxigênio (O2) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO2) em equilíbrio no sangue, conforme a relação:\n\n![](https://enem.dev/2015/questions/46/be0a7ac3-da20-4e80-afe9-52a7f0062bcc.png)\n\n**Mal da montanha**. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2015/questions/46/be0a7ac3-da20-4e80-afe9-52a7f0062bcc.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevação da pressão arterial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da temperatura corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Redução da temperatura do ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Queda da pressão parcial de oxigênio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição da quantidade de hemácias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

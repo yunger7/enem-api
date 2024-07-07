@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2015",
+    "index": 4,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/4/bfee8dd7-2b58-4850-9c3a-59ea67faa73c.jpg)",
+    "files": [
+        "https://enem.dev/2015/questions/4/bfee8dd7-2b58-4850-9c3a-59ea67faa73c.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na charge há uma crítica ao processo produtivo agrícola brasileiro relacionada ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevado preço das mercadorias no comércio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da demanda por produtos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Crescimento da produção de alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hábito de adquirir derivados industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de agrotóxicos nas plantações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

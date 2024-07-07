@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2013",
+    "index": 49,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Glicose marcada com nuclídeos de carbono-11 é utilizada na medicina para se obter imagens tridimensionais do cérebro, por meio de tomografia de emissão de pósitrons. A desintegração do carbono-11 gera um pósitron, com tempo de meia-vida de 20,4 min, de acordo com a equação da reação nuclear\n\n![](https://enem.dev/2013/questions/49/86572122-3741-461a-b45c-123d565ad9d8.png)\n\nA partir da injeção de glicose marcada com esse nuclídeo, o tempo de aquisição de uma imagem de tomografia é de cinco meias-vidas.",
+    "files": [
+        "https://enem.dev/2013/questions/49/86572122-3741-461a-b45c-123d565ad9d8.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que o medicamento contém 1,00 g do carbono-11, a massa, em miligramas, do nuclídeo restante, após a aquisição da imagem, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,969.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "31,3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "200.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

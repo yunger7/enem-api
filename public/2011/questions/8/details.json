@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2011",
+    "index": 8,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um dos principais objetivos de se dar continuidade às pesquisas em erosão dos solos é o de procurar resolver os problemas oriundos desse processo, que, em última análise, geram uma série de impactos ambientais. Além disso, para a adoção de técnicas de conservação dos solos, é preciso conhecer como a água executa seu trabalho de remoção, transporte e deposição de sedimentos. A erosão causa, quase sempre, uma série de problemas ambientais, em nível local ou até mesmo em grandes áreas.\n\nGUERRA, A. J. T. Processos erosivos nas encostas. In: GUERRA, A. J. T.; CUNHA, S. B.  \n**Geomorfologia:** uma atualização de bases e conceitos.  \nRio de Janeiro: Bertrand Brasil, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A preservação do solo, principalmente em áreas de encostas, pode ser uma solução para evitar catástrofes em função da intensidade de fluxo hídrico. A prática humana que segue no caminho contrário a essa solução é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A aração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O terraceamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O pousio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A drenagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O desmatamento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2017",
+    "index": 150,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.\n\nPor um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizonte.\n\n![](https://enem.dev/2017/questions/150/e2c89b3e-9c0a-4707-86d9-ea6b70f3cd11.png)\n\nPara recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°",
+    "files": [
+        "https://enem.dev/2017/questions/150/e2c89b3e-9c0a-4707-86d9-ea6b70f3cd11.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90° no sentido horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "135° no sentido horário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "180° no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "270° no sentido anti-horário",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "315° no sentido horário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

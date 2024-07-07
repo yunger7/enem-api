@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2014",
+    "index": 60,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.\n\n_PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Tropical Plant Pathology, v. 36, n. 2, mar.-abr. 2011 (adaptado)._",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual dos processos biológicos mencionados indica uma relação ecológica de competição?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fixação de nitrogênio para o tomateiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Disponibilização de cálcio para o tomateiro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da quantidade de ferro disponível para o fungo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Liberação de substâncias que inibem o crescimento do fungo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Liberação de auxinas que estimulam o crescimento do tomateiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

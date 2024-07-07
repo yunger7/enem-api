@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2017",
+    "index": 129,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma cerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja letal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência elétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1000 Ω",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma resistência interna que, em relação à do corpo humano, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Praticamente nula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aproximadamente igual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Milhares de vezes maior.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Da ordem de 10 vezes maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da ordem de 10 vezes menor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

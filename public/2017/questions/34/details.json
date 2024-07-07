@@ -1,0 +1,45 @@
+{
+    "title": "Questão 34 - ENEM 2017",
+    "index": 34,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2017/questions/34/e4b37290-3bc4-4ef6-b757-9065f855a1e6.png)",
+    "files": [
+        "https://enem.dev/2017/questions/34/e4b37290-3bc4-4ef6-b757-9065f855a1e6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os textos publicitários são produzidos para cumprir determinadas funções comunicativas. Os objetivos desse cartaz estão voltados para a conscientização dos brasileiros sobre a necessidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As crianças frequentarem a escola regularmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A formação leitora começar na infância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A alfabetização acontecer na idade certa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A literatura ter o seu mercado consumidor ampliado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As escolas desenvolverem campanhas a favor da leitura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

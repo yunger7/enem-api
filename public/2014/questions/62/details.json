@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2014",
+    "index": 62,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/62/c6752fb8-7883-47db-bb64-a62d3c58658c.png)",
+    "files": [
+        "https://enem.dev/2014/questions/62/c6752fb8-7883-47db-bb64-a62d3c58658c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Maior pressão de vapor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Menor massa molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior compressibilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Menor energia de ativação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Menor capacidade calorífica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

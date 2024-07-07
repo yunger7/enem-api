@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2018",
+    "index": 144,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.\n\n![](https://enem.dev/2018/questions/144/c95def0f-e520-4774-9ff2-00ab5e8ab0c1.png)",
+    "files": [
+        "https://enem.dev/2018/questions/144/c95def0f-e520-4774-9ff2-00ab5e8ab0c1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um passageiro, ao chegar à sala de embarque desse aeroporto no instante indicado, visando esperar o menor tempo possível, deverá se dirigir à máquina",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2022",
+    "index": 123,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km.\n\nSCHWARZSCHILD, K. **On the Gravitational Field of a Mass Point According to** **Einstein’s Theory**. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eles se moveriam em direção ao centro do Buraco Negro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eles passariam a precessionar mais rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Eles manteriam suas órbitas inalteradas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

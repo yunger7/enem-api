@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2013",
+    "index": 20,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png)\n\nFORTUNA. Correio da Manhã, ano 65, n. 22 264, 2 nov. 1965.",
+    "files": [
+        "https://enem.dev/2013/questions/20/77cde162-61ef-4993-b7d9-b1f1f97ef523.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A imagem foi publicada no jornal Correio da Manhã, no dia de Finados de 1965. Sua relação com os direitos políticos existentes no período revela a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Extinção dos partidos nanicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Retomada dos partidos estaduais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Adoção do bipartidarismo regulado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Superação do fisiologismo tradicional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Valorização da representação parlamentar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

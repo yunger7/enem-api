@@ -1,0 +1,45 @@
+{
+    "title": "Questão 68 - ENEM 2010",
+    "index": 68,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/68/a0bb7b9d-65ff-4a3d-b370-d26ece33e59c.png)",
+    "files": [
+        "https://enem.dev/2010/questions/68/a0bb7b9d-65ff-4a3d-b370-d26ece33e59c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O valor a ser pago pelo consumo de energia elétrica registrado seria de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 42,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 42,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 43,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 43,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 44,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

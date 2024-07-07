@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2010",
+    "index": 15,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A usina hidrelétrica de Belo Monte será construída no rio Xingu, no município de Vitória de Xingu, no Pará. A usina será a terceira maior do mundo e a maior totalmente brasileira, com capacidade de 11,2 mil megawatts. Os índios do Xingu tomam a paisagem com seus cocares, arcos e flechas. Em Altamira, no Pará, agricultores fecharam estradas de uma região que será inundada pelas águas da usina.\n\nBACOCCINA, D. QUEIROZ, G.: BORGES, R. Fim do leilão, começo da confusão.  \n**Istoé Dinheiro.** Ano 13, n.o 655, 28 abri 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os impasses, resistências e desafios associados à construção da Usina Hidrelétrica de Belo Monte estão relacionados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao potencial hidrelétrico dos rios no norte e nordeste quando comparados às bacias hidrográficas das regiões Sul, Sudeste e Centro-Oeste do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "À necessidade de equilibrar e compatibilizar o investimento no crescimento do país com os esforços para a conservação ambiental.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "À grande quantidade de recursos disponíveis para as obras e à escassez dos recursos direcionados para o pagamento pela desapropriação das terras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao direito histórico dos indígenas à posse dessas terras e à ausência de reconhecimento desse direito por parte das empreiteiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao aproveitamento da mão de obra especializada disponível na região Norte e o interesse das construtoras na vinda de profissionais do Sudeste do país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2011",
+    "index": 147,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/147/2391aaed-b47a-4b2e-bb7f-4208c8cf56d4.png)",
+    "files": [
+        "https://enem.dev/2011/questions/147/2391aaed-b47a-4b2e-bb7f-4208c8cf56d4.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esta figura é uma representação de uma superfície de revolução chamada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pirâmide.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Semiesfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tronco de cone.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cone.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

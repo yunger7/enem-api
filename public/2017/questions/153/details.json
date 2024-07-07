@@ -1,0 +1,46 @@
+{
+    "title": "Questão 153 - ENEM 2017",
+    "index": 153,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A manchete demonstra que o transporte de grandes cargas representa cada vez mais preocupação quando feito em vias urbanas.\n\n**Caminhão entala em viaduto no Centro**\n\nUm caminhão de grande porte entalou embaixo do viaduto no cruzamento das avenidas Borges de Medeiros e Loureiro da Silva no sentido Centro-Bairro, próximo à Ponte de Pedra, na capital. Esse veículo vinha de São Paulo para Porto Alegre e transportava três grandes tubos, conforme ilustrado na foto.\n\n![](https://enem.dev/2017/questions/153/fab0cf9a-a91f-4842-8d0b-ea7d9cf7dab3.png)\n\nConsidere que o raio externo de cada cano da imagem seja 0,60 m e que eles estejam em cima de uma carroceria cuja parte superior está a 1,30 m do solo. O desenho representa a vista traseira do empilhamento dos canos.\n\n![](https://enem.dev/2017/questions/153/e76c0b65-e180-4f4a-9bd0-aef3b42965d8.png)\n\nA margem de segurança recomendada para que um veículo passe sob um viaduto é que a altura total do veículo com a carga seja, no mínimo, 0,50 m menor do que a altura do vão do viaduto.\n\nConsidere 1,7 como aproximação para (3)1/2",
+    "files": [
+        "https://enem.dev/2017/questions/153/fab0cf9a-a91f-4842-8d0b-ea7d9cf7dab3.png",
+        "https://enem.dev/2017/questions/153/e76c0b65-e180-4f4a-9bd0-aef3b42965d8.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual deveria ser a altura mínima do viaduto, em metro, para que esse caminhão pudesse passar com segurança sob seu vão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,82.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,52.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,70.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,02.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4,20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

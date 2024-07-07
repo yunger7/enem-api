@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2014",
+    "index": 5,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/5/90211721-9e1a-406f-b2d0-e1c736d43334.jpg)\n\nNEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.",
+    "files": [
+        "https://enem.dev/2014/questions/5/90211721-9e1a-406f-b2d0-e1c736d43334.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ideia de progresso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Concentração do capital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Noção de sustentabilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Organização dos sindicatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obsolescência dos equipamentos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

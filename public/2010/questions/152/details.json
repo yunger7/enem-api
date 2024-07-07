@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2010",
+    "index": 152,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/152/3b16b42f-5856-499b-a7f7-6512f1c1c219.png)\n\nUm cientista monitora o movimento desse satélite para controlar o seu afastamento do centro da Terra. Para isso, ele precisa calcular a soma dos valores de r, no apogeu e no perigeu, representada por S.",
+    "files": [
+        "https://enem.dev/2010/questions/152/3b16b42f-5856-499b-a7f7-6512f1c1c219.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O cientista deveria concluir que, periodicamente, S atinge o valor de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 765 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12 000 km",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "11 730 km",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 965 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 865 km",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

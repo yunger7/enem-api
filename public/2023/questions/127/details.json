@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2023",
+    "index": 127,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "**Toxicidade do cianeto**\n\nA produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons  \nprovenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o  \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química  \naltamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de  \nFe3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.\n\n![](https://enem.dev/2023/questions/127/97828514-9c7c-491c-9146-e4d8bf25778a.png)\n\nALBERTS, B. et al. **Biologia molecular da célula**. Porto Alegre: Artmed, 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2023/questions/127/97828514-9c7c-491c-9146-e4d8bf25778a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse bloqueio aumenta a concentração celular de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ATP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "NADH.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Dióxido de carbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Citocromo c oxidase.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

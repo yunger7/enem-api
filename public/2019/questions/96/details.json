@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2019",
+    "index": 96,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas por algumas espécies de seres vivos.\n\n![](https://enem.dev/2019/questions/96/0de2fce4-9bf1-49da-93ee-c5433ded2f95.png)",
+    "files": [
+        "https://enem.dev/2019/questions/96/0de2fce4-9bf1-49da-93ee-c5433ded2f95.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual estratégia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de uma área desmatada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma recolonização mais estável da área desmatada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

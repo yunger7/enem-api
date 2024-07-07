@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2019",
+    "index": 104,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Algumas toneladas de medicamentos para uso humano e veterinário são produzidas por ano. Os fármacos são desenvolvidos para serem estáveis, mantendo suas propriedades químicas de forma a atender a um propósito terapêutico. Após o consumo de fármacos, parte de sua dosagem é excretada de forma inalterada, persistindo no meio ambiente. Em todo o mundo, antibióticos, hormônios, anestésicos, anti-inflamatórios, entre outros, são detectados em concentrações preocupantes no esgoto doméstico, em águas superficiais e de subsolo. Dessa forma, a ocorrância de fármacos residuais no meio ambiente pode apresentar efeitos adversos em organismos aquáticos e terrestres.\n\nBILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente. **Química Nova**, v. 26, n. 4, ago. 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual ação minimiza a permanência desses contaminantes nos recursos hídricos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Utilização de esterco como fertilizante na agricultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação das redes de coleta de esgoto na zona urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descarte dos medicamentos fora do prazo de validade em lixões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desenvolvimento de novos processos nas estações de tratamento de efluentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reúso dos lodos provenientes das estações de tratamento de esgoto na agricultura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

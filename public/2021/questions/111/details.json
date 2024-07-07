@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2021",
+    "index": 111,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:\n\n1) Sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\n\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\n\n3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Filmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Divulgar na rádio local, no local impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2009",
+    "index": 157,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sabendo que a capacidade da caixa é de 13.824 cm³, então o número máximo de esferas que podem ser transportadas em uma caixa é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "32.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

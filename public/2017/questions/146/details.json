@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2017",
+    "index": 146,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da montanha.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantos segundos após a partida do bondinho B partiu o bondinho A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

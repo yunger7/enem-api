@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2011",
+    "index": 110,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/110/1fa1d245-9cd8-45d7-a8e9-21cb188c46da.png)\n\nLEIRNER, N. Tronco com cadeira (detalhe), 1964.  \nDisponível em: http://www.itaucultural.org.br. Acesso em: 27 jul. 2010.\n\nNessa estranha dignidade e nesse abandono, o objeto foi exaltado de maneira ilimitada e ganhou um significado que se pode considerar mágico. Daí sua “vida inquietante e absurda”. Tornou-se ídolo e, ao mesmo tempo, objeto de zombaria. Sua realidade intrínseca foi anulada.\n\nJAFFÉ, A. O simbolismo nas artes plásticas. In: JUNG, C.G. (org.). **O homem e os seus símbolos**. Rio de Janeiro: Nova Fronteira, 2008.",
+    "files": [
+        "https://enem.dev/2011/questions/110/1fa1d245-9cd8-45d7-a8e9-21cb188c46da.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A relação observada entre a imagem e o texto apresentados permite o entendimento da intenção de um artista contemporâneo. Neste caso, a obra apresenta características",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Funcionais e de sofisticação decorativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Futuristas e do abstrato geométrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Construtivistas e de estruturas modulares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abstracionistas e de releitura do objeto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Figurativas e de representação do cotidiano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

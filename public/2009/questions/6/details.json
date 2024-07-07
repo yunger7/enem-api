@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2009",
+    "index": 6,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ciclo biogeoquímico do carbono compreende diversos compartimentos, entre os quais a Terra, a atmosfera e os oceanos, e diversos processos que permitem a transferência de compostos entre esses reservatórios. Os estoques de carbono armazenados na forma de recursos não renováveis, por exemplo, o petróleo, são limitados, sendo de grande relevância que se perceba a importância da substituição de combustíveis fósseis por combustíveis de fontes renováveis.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A utilização de combustíveis fósseis interfere no ciclo do carbono, pois provoca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento da porcentagem de carbono contido na Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redução na taxa de fotossíntese dos vegetais superiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento da produção de carboidratos de origem vegetal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumento na quantidade de carbono presente na atmosfera.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Redução da quantidade global de carbono armazenado nos oceanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

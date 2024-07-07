@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2021",
+    "index": 101,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.\n\n![](https://enem.dev/2021/questions/101/0fe7f1b0-85ec-430e-b869-2956e9707dba.png)\n\nEm uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL. O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.",
+    "files": [
+        "https://enem.dev/2021/questions/101/0fe7f1b0-85ec-430e-b869-2956e9707dba.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O volume de etanol, em litro, obtido nesse processo é mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "64.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

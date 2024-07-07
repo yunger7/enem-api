@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2016",
+    "index": 87,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Tendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes insipidus?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alta taxa de glicose no sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da pressão arterial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ganho de massa corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Anemia crônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desidratação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

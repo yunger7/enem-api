@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2012",
+    "index": 12,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/12/83965490-d729-4348-9d55-ec54ac223f06.jpg)\n\nCartaz da Revolução Constitucionalista. (Foto: Disponível em: http://veja.abril.com.br. Acesso em: 29 jun. 2012)\n\nElaborado pelos partidários da Revolução Constitucionalista de 1932, o cartaz apresentado pretendia mobilizar a população paulista contra o governo federal.",
+    "files": [
+        "https://enem.dev/2012/questions/12/83965490-d729-4348-9d55-ec54ac223f06.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa mobilização utilizou-se de uma referência histórica, associando o processo revolucionário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À experiência francesa, expressa no chamado à luta contra a ditadura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aos ideais republicanos, indicados no destaque à bandeira paulista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ao protagonismo das Forças Armadas, representadas pelo militar que empunha a bandeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao bandeirantismo, símbolo paulista apresentado em primeiro plano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ao papel figurativo de Vargas na política, enfatizado pela pequenez de sua figura no cartaz.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

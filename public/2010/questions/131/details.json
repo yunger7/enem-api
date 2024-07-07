@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2010",
+    "index": 131,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após estudar na Europa, Anita Malfatti retornou ao Brasil com uma mostra que abalou a cultura nacional do início do século XX. Elogiada por seus mestres na Europa, Anita se considerava pronta para mostrar seu trabalho no Brasil, mas enfrentou as duras críticas de Monteiro Lobato. Com a intenção de criar uma arte que valorizasse a cultura brasileira, Anita Malfatti e outros artistas modernistas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Buscaram libertar a arte brasileira das normas acadêmicas europeias, valorizando as cores, a originalidade e os temas nacionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Defenderam a liberdade limitada de uso da cor, até então utilizada de forma irrestrita, afetando a criação artística nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Representaram a ideia de que a arte deveria copiar fielmente a natureza, tendo como finalidade a prática educativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mantiveram de forma fiel a realidade nas figuras retratadas, defendendo uma liberdade artística ligada a tradição acadêmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Buscaram a liberdade na composição de suas figuras, respeitando limites de temas abordados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

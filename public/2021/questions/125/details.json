@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2021",
+    "index": 125,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere a tirinha, na situação em que a temperatura do ambiente é inferior à temperatura corporal dos personagens.\n\n![](https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png)",
+    "files": [
+        "https://enem.dev/2021/questions/125/b977d1f8-d938-495f-9ead-68872c377b37.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dias úmidos,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A temperatura do vapor-d'água presente no ar é alta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O suor apresenta maior dificuldade para evaporar do corpo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A taxa de absorção de radiação pelo corpo torna-se maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O ar torna-se mau condutor e dificulta o processo de liberação de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O vapor-d'água presente no ar condensa-se ao entrar em contato com a pele.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

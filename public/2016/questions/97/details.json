@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2016",
+    "index": 97,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O _hoax_, como é chamado qualquer boato ou farsa na internet, pode espalhar vírus entre os seus contatos. Falsos sorteios de celulares ou frases que Clarice Lispector nunca disse são exemplos de _hoax_. Trata-se de boatos recebidos por e-mail ou compartilhados em redes sociais. Em geral, são mensagens dramáticas ou alarmantes que acompanham imagens chocantes, falam de crianças doentes ou avisam sobre falsos vírus. O objetivo de quem cria esse tipo de mensagem pode ser apenas se divertir com a brincadeira (de mau gosto), prejudicar a imagem de uma empresa ou espalhar uma ideologia política.\n\nSe o _hoax_ for do tipo phishing (derivado de fishing, pescaria, em inglês) o problema pode ser mais grave: o usuário que clicar pode ter seus dados pessoais ou bancários roubados por golpistas. Por isso é tão importante ficar atento.\n\nVIMERCATE, N.Disponível em: www.techtudo.com.br. Acesso em 1 maio 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao discorrer sobre os hoaxes, o texto sugere ao leitor, como estratégia para evitar essa ameaça,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recusar convites de jogos e brincadeiras feitos pela internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Analisar a linguagem utilizada nas mensagens recebidas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Classificar os contatos presentes em suas redes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Utilizar programas que identifiquem falsos vírus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desprezar mensagens que causem comoção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

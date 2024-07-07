@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2019",
+    "index": 153,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano 2000, era de R$ 1.250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2% em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10% maior do que foi em 2010.\n\n_IBGE. Censo 2010_. **Disponível em:** www.ibge.gov.br. Acesso em: 13 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Supondo que as projeções do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 1.340,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 1.349,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 1.375,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 1.465,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 1.474,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

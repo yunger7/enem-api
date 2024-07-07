@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2012",
+    "index": 63,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Há milhares de anos o homem faz uso da biotecnologia para a produção de alimentos como pães, cervejas e vinhos. Na fabricação de pães, por exemplo, são usados fungos unicelulares, chamados de leveduras, que são comercializados como fermento biológico. Eles são usados para promover o crescimento da massa, deixando-a leve e macia.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O crescimento da massa do pão pelo processo citado é resultante da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Liberação de gás carbônico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Formação de ácido lático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Formação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Produção de ATP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Liberação de calor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

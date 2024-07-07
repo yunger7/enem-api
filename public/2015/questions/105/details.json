@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2015",
+    "index": 105,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A emergência da sociedade da informação está associada a um conjunto de profundas transformações ocorridas desde as últimas duas décadas do século XX. Tais mudanças ocorrem em dimensões distintas da vida humana em sociedade, as quais interagem de maneira sinérgica e confluem para projetar a informação e o conhecimento como elementos estratégicos, dos pontos de vista econômico-produtivo, político e sociocultural.\n\nA sociedade da informação caracteriza-se pela crescente utilização de técnicas de transmissão, armazenamento de dados e informações a baixo custo, acompanhadas por inovações organizacionais, sociais e legais. Ainda que tenha surgido motivada por um conjunto de transformações na base técnico-científica, ela se investe de um significado bem mais abrangente.\n\nLEGEY, L.-R.; ALBAGLI, S. Disponível em: www.dgz.org.br. Acesso em: 4 dez. 2012 (adaptado).\n\nO mundo contemporâneo tem sido caracterizado pela crescente utilização das novas tecnologias e pelo acesso à informação cada vez mais facilitado.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a sociedade da informação corresponde a uma mudança na organização social porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Representa uma alternativa para a melhoria da qualidade de vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Associa informações obtidas instantaneamente por todos e em qualquer parte do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Propõe uma comunicação mais rápida e barata, contribuindo para a intensificação do comércio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Propicia a interação entre as pessoas por meio de redes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Representa um modelo em que a informação é utilizada intensamente nos vários setores da vida.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

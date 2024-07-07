@@ -1,0 +1,46 @@
+{
+    "title": "Questão 82 - ENEM 2010",
+    "index": 82,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns uma vez que uma considerável quantidade de cádmio é volatilizada e emitida para o meio ambiente quando as baterias gastas são incineradas como componente do lixo. Com o objetivo de evitar a emissão de cádmio para a atmosfera durante a combustão é indicada que seja feita a reciclagem dos materiais dessas baterias.\n\nUma maneira de separar o cádmio dos demais compostos presentes na bateria é realizar o processo de lixiviação ácida.Nela, tanto os metais (Cd, Ni e, eventualmente, Co) como os hidróxidos de ions metálicos Cd(OH)2(s), Ni(OH)2(s), Co(OH)2(s) presentes na bateria, reagem com uma mistura ácida e são solubilizados. Em função da baixa seletividade (todos os ions metálicos são solubilizados), após a digestão ácida, é realizada uma etapa de extração dos metais com solventes orgânicos de acordo com a reação:\n\n![](https://enem.dev/2010/questions/82/4176d2dd-3976-430c-85f8-68f6380b5dbb.jpg)\n\nOnde:  \nM2+ = Cd2+ , Ni2+ ou Co2+  \nHR = C16H34\\-PO2H : identificado no gráfico por X  \nHR = C12H12\\-PO2H : identificado no gráfico por Y  \nO gráfico mostra resultado de extração utilizando os solventes orgânicos X e Y em diferentes pH.\n\n![](https://enem.dev/2010/questions/82/8560bd4b-a670-4304-b5a1-8a6003323e93.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/82/4176d2dd-3976-430c-85f8-68f6380b5dbb.jpg",
+        "https://enem.dev/2010/questions/82/8560bd4b-a670-4304-b5a1-8a6003323e93.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A reação descrita no texto mostra o processo de extração dos metais por meio da reação com moléculas orgânicas, X e Y. Considerando-se as estruturas de X e Y e o processo de separação descrito, pode-se afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon H+ pelo cátion do metal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "As moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon H+ pelo cátion do metal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon PO2-2 pelo cátion do metal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon PO2-2 pelo cátion do metal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As moléculas X e Y fazem ligações com os ions metálicos resultando em compostos com caráter apolar o que justifica a eficácia da extração.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

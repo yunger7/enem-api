@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2015",
+    "index": 79,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As altas temperaturas de combustão e o atrito entre suas peças móveis são alguns dos fatores que provocam o aquecimento dos motores à combustão interna. Para evitar o superaquecimento e consequentes danos a esses motores, foram desenvolvidos os atuais sistemas de refrigeração, em que um fluido arrefecedor com propriedades especiais circula pelo interior do motor, absorvendo o calor que, ao passar pelo radiador, é transferido para a atmosfera.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual propriedade o fluido arrefecedor deve possuir para cumprir seu objetivo com maior eficiência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alto calor específico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Alto calor latente de fusão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Baixa condutividade térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Baixa temperatura de ebulição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Alto coeficiente de dilatação térmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

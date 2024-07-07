@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2011",
+    "index": 56,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manual de funcionamento de um captador de guitarra elétrica apresenta o seguinte texto:\n\nEsse captador comum consiste de uma bobina, fios condutores enrolados em torno de um ímã permanente. O campo magnético do ímã induz o ordenamento dos polos magnéticos na corda da guitarra, que está próxima a ele. Assim, quando a corda é tocada, as oscilações produzem variações, com o mesmo padrão, no fluxo magnético que atravessa a bobina. Isso induz uma corrente elétrica na bobina, que é transmitida até o amplificador e, dai, para o alto-falante.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um guitarrista trocou as cordas originais de sua guitarra, que eram feitas de aço, por outras feitas de náilon. Com o uso dessas cordas, o amplificador ligado ao instrumento não emitia mais som, porque a corda de náilon",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Isola a passagem de corrente elétrica da bobina para o alto-falante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Varia seu comprimento mais intensamente do que ocorre com o aço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apresenta uma magnetização desprezível sob a ação do ímã permanente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Induz correntes elétricas na bobina mais intensas que a capacidade do captador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Oscila com uma frequência menor do que a que pode ser percebida pelo captador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

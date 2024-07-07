@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2020",
+    "index": 153,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n\n*   seguir num ônibus, percorrendo 2,0 km;\n*   alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.\n\n![](https://enem.dev/2020/questions/153/e577551e-7571-4872-83d0-5cecc4a4d79d.jpeg)",
+    "files": [
+        "https://enem.dev/2020/questions/153/e577551e-7571-4872-83d0-5cecc4a4d79d.jpeg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Às segundas, quintas e sextas-feiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Às terças e quintas-feiras e aos sábados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Às segundas, quartas e sextas-feiras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Às terças, quartas e sextas-feiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Às terças e quartas-feiras e aos sábados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

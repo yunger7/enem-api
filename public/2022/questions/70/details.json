@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2022",
+    "index": 70,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\n**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação\n\n![](https://enem.dev/2022/questions/70/1539c835-a8b9-444d-949c-51d59d8d33fe.png)\n\n**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
+    "files": [
+        "https://enem.dev/2022/questions/70/1539c835-a8b9-444d-949c-51d59d8d33fe.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando o conceito apresentando no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Raça e gênero.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Etnia e habitação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Idade e nupcialidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Profissão e sexualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Escolaridade e fecundidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

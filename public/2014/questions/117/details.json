@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2014",
+    "index": 117,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Cordel resiste à tecnologia gráfica**\n\nO Cariri mantém uma das mais ricas tradições da cultura popular. É a literatura de cordel, que atravessa os séculos sem ser destruída pela avalanche de modernidade que invade o sertão lírico e telúrico. Na contramão do progresso, que informatizou a indústria gráfica, a Lira Nordestina, de Juazeiro do Norte, e a Academia dos Cordelistas do Crato conservam, em suas oficinas, velhas máquinas para impressão dos seus cordéis.\n\nA chapa para impressão do cordel é feita à mão, letra por letra, um trabalho artesanal que dura cerca de uma hora para confecção de uma página. Em seguida, a chapa é levada para a impressora, também manual, para imprimir. A manutenção desse sistema antigo de impressão faz parte da filosofia do trabalho. A outra etapa é a confecção da xilogravura para a capa do cordel.\n\nAs xilogravuras são ilustrações populares obtidas por gravuras talhadas em madeira. A origem da xilogravura nordestina até hoje é ignorada. Acredita-se que os missionários portugueses tenham ensinado sua técnica aos índios, como uma atividade extra-catequese, partindo do princípio religioso que defende a necessidade de ocupar as mãos para que a mente não fique livre, sujeita aos maus pensamentos, ao pecado. A xilogravura antecedeu ao clichê, placa fotomecanicamente gravada em relevo sobre metal, usualmente zinco, que era utilizada nos jornais impressos em rotoplanas.\n\nVICELMO, A. Disponível em: www.onordeste.com. Acesso em: 24 fev. 2013 (adaptado)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A estratégia gráfica constituída pela união entre as técnicas da impressão manual e da confecção da xilogravura na produção de folhetos de cordel",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realça a importância da xilogravura sobre o clichê.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oportuniza a renovação dessa arte na modernidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Demonstra a utilidade desses textos para a catequese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Revela a necessidade da busca das origens dessa literatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Auxilia na manutenção da essência identitária dessa tradição popular.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

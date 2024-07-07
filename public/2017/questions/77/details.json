@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2017",
+    "index": 77,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2017/questions/77/6f74082c-ebf5-4382-8a8e-4e4bb09c08cf.png)\n\nSALGADO-LABOURIAU, M. L. **História ecológica da Terra**. São Paulo: Edgard Blucher, 1994 (adaptado).",
+    "files": [
+        "https://enem.dev/2017/questions/77/6f74082c-ebf5-4382-8a8e-4e4bb09c08cf.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas imagens constam informações sobre a formação de brisas em áreas litorâneas. Esse processo é resultado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uniformidade do gradiente de pressão atmosférica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aquecimento diferencial da superfície.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Quedas acentuadas de médias térmicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mudanças na umidade relativa do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Variações altimétricas acentuadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

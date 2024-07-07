@@ -1,0 +1,45 @@
+{
+    "title": "Questão 79 - ENEM 2012",
+    "index": 79,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O armazenamento de certas vitaminas no organismo apresenta grande dependência de sua solubilidade. Por exemplo, vitaminas hidrossolúveis devem ser incluídas na dieta diária, enquanto vitaminas lipossolúveis são armazenadas em quantidades suficientes para evitar doenças causadas pela sua carência. A seguir são apresentadas as estruturas químicas de cinco vitaminas necessárias ao organismo.\n\n![](https://enem.dev/2012/questions/79/07bb88f5-01ce-431c-9e9b-5e32e2fe9938.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/79/07bb88f5-01ce-431c-9e9b-5e32e2fe9938.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dentre as vitaminas apresentadas na figura, aquela que necessita de maior suplementação diária é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

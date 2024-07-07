@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2009",
+    "index": 1,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A atmosfera terrestre é composta pelos gases nitrogênio (N2) e oxigênio (O2), que somam cerca de 99%, e por gases traços, entre eles o gás carbônico (CO2), vapor de água (H2O), metano (CH4), ozônio (O3) e o óxido nitroso (N2O), que compõem o restante 1% do ar que respiramos. Os gases traços, por serem constituídos por pelo menos três átomos, conseguem absorver o calor irradiado pela Terra, aquecendo o planeta. Esse fenômeno, que acontece  \nhá bilhões de anos, é chamado de efeito estufa. A partir da Revolução Industrial (século XIX), a concentração de gases traços na atmosfera, em particular o CO2, tem aumentado significativamente, o que resultou no aumento da temperatura em escala global. Mais recentemente, outro fator tornou-se diretamente envolvido no aumento da concentração de CO2 na atmosfera: o desmatamento.\n\nBROWN, I. F.; ALECHANDRE, A. S. Conceitos básicos sobre clima,carbono, florestas e comunidades. A.G. Moreira & S. Schwartzman. As mudanças climáticas globais e os ecossistemas brasileiros. Brasília: Instituto de Pesquisa Ambiental da Amazônia, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o texto, uma alternativa viável para combater o efeito estufa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduzir o calor irradiado pela Terra mediante a substituição da produção primária pela industrialização refrigerada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Promover a queima da biomassa vegetal, responsável pelo aumento do efeito estufa devido à produção de CH4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reduzir o desmatamento, mantendo-se, assim, o potencial da vegetação em absorver o CO2 da atmosfera.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar a concentração atmosférica de H2O, molécula capaz de absorver grande quantidade de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Remover moléculas orgânicas polares da atmosfera, diminuindo a capacidade delas de reter calor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

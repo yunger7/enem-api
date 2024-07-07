@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2011",
+    "index": 140,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/140/63404fc2-7491-4ee5-9975-d0c6857dd37a.png)",
+    "files": [
+        "https://enem.dev/2011/questions/140/63404fc2-7491-4ee5-9975-d0c6857dd37a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

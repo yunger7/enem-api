@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - ENEM 2011",
+    "index": 86,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/86/6df25b83-4479-4e34-8d15-a1beb7082020.png)",
+    "files": [
+        "https://enem.dev/2011/questions/86/6df25b83-4479-4e34-8d15-a1beb7082020.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Desprezando-se as forças dissipativas (resistência do ar e atrito), para que o salto atinja a maior altura possível, ou seja, o máximo de energia seja conservada, é necessário que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A energia cinética, representada na etapa I, seja totalmente convertida em energia potencial elástica representada na etapa IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A energia cinética, representada na etapa II, seja totalmente convertida em energia potencial gravitacional, representada na etapa IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A energia cinética, representada na etapa I, seja totalmente convertida em energia potencial gravitacional, representada na etapa III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A energia potencial gravitacional, representada na etapa II, seja totalmente convertida em energia potencial elástica, representada na etapa IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A energia potencial gravitacional, representada na etapa I, seja totalmente convertida em energia potencial elástica, representada na etapa III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

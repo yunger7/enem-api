@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2011",
+    "index": 70,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/70/5c44faae-09d8-42ab-bbe6-723d5385de19.png)",
+    "files": [
+        "https://enem.dev/2011/questions/70/5c44faae-09d8-42ab-bbe6-723d5385de19.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Tendo por base os esquemas mostrados, em quais casos a lâmpada acendeu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(1), (3), (6).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(3), (4), (5).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(1), (3), (5).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(1), (3), (7).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "(1), (2), (5).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

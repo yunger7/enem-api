@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2019",
+    "index": 124,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma das técnicas de reciclagem química do polímero PET \\[poli(tereftalato de etileno)\\] gera o tereftalato de metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\n\n![](https://enem.dev/2019/questions/124/24b5f137-a249-4cc7-aad5-0cfb8b5c94f9.png)",
+    "files": [
+        "https://enem.dev/2019/questions/124/24b5f137-a249-4cc7-aad5-0cfb8b5c94f9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O composto A, representado no esquema de reação, é o:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metanol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Éter metílico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ácido etanoico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido etanoico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

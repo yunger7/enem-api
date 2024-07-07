@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2019",
+    "index": 59,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png)",
+    "files": [
+        "https://enem.dev/2019/questions/59/6b33d355-b477-4f47-be06-98e65ef4abe8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A divisão política do mundo como apresentada na imagem seria possível caso o planeta fosse marcado pela estabilidade do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ciclo hidrológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Processo erosivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estrutura geológica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Índice pluviométrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pressão atmosférica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

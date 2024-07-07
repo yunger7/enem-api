@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2014",
+    "index": 130,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Em uma escala de 0 a 10, o Brasil está entre 3 e 4 no quesito segurança da informação. “Estamos começando a acordar para o problema. Nessa história de espionagem corporativa, temos muita lição a fazer. Falta consciência institucional e um longo aprendizado. A sociedade caiu em si e viu que é uma coisa que nos afeta”, diz S.P., pós-doutor em segurança da informação. Para ele, devem ser estabelecidos canais de denúncia para esse tipo de situação. De acordo com o conselheiro do Comitê Gestor da Internet (CGI), o Brasil tem condições de desenvolver tecnologia própria para garantir a segurança dos dados do país, tanto do governo quanto da população. “Há uma massa de conhecimento dentro das universidades e em empresas inovadoras que podem contribuir propondo medidas para que possamos mudar isso \\[falta de segurança\\] no longo prazo”. Ele acredita que o governo tem de usar o seu poder de compra de _softwares_ e _hardwares_ para a área da segurança cibernética, de forma a fomentar essas empresas, a produção de conhecimento na área e a construção de uma cadeia de produção nacional.\n\nSARRES, C. Disponível em: www.ebc.com.br. Acesso em: 22 nov. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando-se o surgimento da espionagem corporativa em decorrência do amplo uso da internet, o texto aponta uma necessidade advinda desse impacto, que se resume em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alertar a sociedade sobre os riscos de ser espionada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Promover a indústria de segurança da informação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Discutir a espionagem em fóruns internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Incentivar o aparecimento de delatores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Treinar o país em segurança digital.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

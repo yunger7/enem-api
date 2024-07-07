@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2011",
+    "index": 92,
+    "year": 2011,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Los fallos de _software_ en aparatos médicos, como marcapasos, van a ser una creciente amenaza para la salud pública, según el informe de _Software Freedom Law Center_ (SFLC) que ha sido presentado hoy en Portland (EEUU), en la _Open Source Convention_ (OSCON).\n\nLa ponencia “Muerto por el código: transparencia de _software_ en los dispositivos médicos implantables” aborda el riesgo potencialmente mortal de los defectos informáticos en los aparatos médicos implantados en las personas.\n\nSegún SFLC, millones de personas con condiciones crónicas del corazón, epilepsia, diabetes, obesidad e, incluso, la depresión dependen de implantes, pero el _software_ permanece oculto a los pacientesy sus médicos.\n\nLa SFLC recuerda graves fallos informáticos ocurridos en otros campos, como en elecciones, en la fabricación de coches, en las líneas aéreas comerciales o en los mercados financieros.\n\nDisponível em: http://www.elpais.com. Acesso em: 24 jul. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O título da palestra, citado no texto, antecipa o tema que será tratado e mostra que o autor tem a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Relatar novas experiências em tratamento de saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alertar sobre os riscos mortais de determinados softwares de uso médico para o ser humano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Denunciar falhas médicas na implantação de softwares em seres humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Divulgar novos softwares presentes em aparelhos médicos lançados no mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentar os defeitos mais comuns de softwares em aparelhos médicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

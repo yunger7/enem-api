@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2019",
+    "index": 93,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A esquistossomose (barriga-d’água) caracteriza-se pela inflamação do fígado e do baço causada pelo verme Schistosoma mansoni (esquistossomo). O contágio ocorre depois que larvas do verme são liberadas na água pelo caramujo do gênero Biomphalaria, seu hospedeiro intermediário, e penetram na pela humana. Após o diagnóstico, o tratamento tradicional utiliza medicamentos por via oral para matar o parasita dentro do corpo. Uma nova estratégia terapêutica baseia-se na utilização de uma vacina, feita a partir de uma proteína extraída do verme, que induz o organismo humano a produzir anticorpos para combater e prevenir a doença.\n\n**Instituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz)**. _Fiocruz anuncia nova fase de vacina para esquistossomose_.  \n**Disponível em:** http://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma vantagem da vacina em relação ao tratamento tradicional é que ela poderá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impedir a penetração do parasita pela pele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eliminar o caramujo para que não haja contágio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Impedir o acesso do esquistossomo especificamente para o fígado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eliminar o esquistossomo antes que ocorra contato com o organismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

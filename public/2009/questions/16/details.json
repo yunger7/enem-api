@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2009",
+    "index": 16,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura seguinte representa um modelo de transmissão da informação genética nos sistemas biológicos. No fim do processo, que inclui a replicação, a transcrição e a tradução, há três formas proteicas diferentes denominadas a, b e c.\n\n![](https://enem.dev/2009/questions/16/2c67a1f7-b788-445d-9a6c-ef9d499ff78b.png)",
+    "files": [
+        "https://enem.dev/2009/questions/16/2c67a1f7-b788-445d-9a6c-ef9d499ff78b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Depreende-se do modelo que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A única molécula que participa da produção de proteínas é o DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O fluxo de informação genética, nos sistemas biológicos, é unidirecional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As fontes de informação ativas durante o processo de transcrição são as proteínas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "É possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A molécula de DNA possui forma circular e as demais moléculas possuem forma de fita simples linearizadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2011",
+    "index": 141,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "– Enquanto você fala ao telefone, faça agachamentos: 100 calorias gastas em 20 minutos.  \n– Meia hora de supermercado: 100 calorias.  \n– Cuidar do jardim por 30 minutos: 200 calorias.  \n– Passear com o cachorro: 200 calorias em 30 minutos.  \n– Tirar o pó dos móveis: 150 calorias em 30 minutos.  \n– Lavar roupas por 30 minutos: 200 calorias.\n\nDisponível em: http://cyberdiet.terra.com.br. Acesso em: 27 abr. 2010 (adaptado).\n\nUma pessoa deseja executar essas atividades, porém, ajustando o tempo para que, em cada uma, gaste igualmente 200 calorias.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir dos ajustes, quanto tempo a mais será necessário para realizar todas as atividades?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "80 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "170 minutos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

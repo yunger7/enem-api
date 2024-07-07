@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2016",
+    "index": 177,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O LIRAa, Levantamento Rápido do Índice de Infestação por Aedes aegypti, consiste num mapeamento da infestação do mosquito Aedes aegypti. O LIRAa é dado pelo percentual do número de imóveis com focos do mosquito, entre os escolhidos de uma região em avaliação.\n\nO serviço de vigilância sanitária de um município, no mês de outubro do ano corrente, analisou o LIRAa de cinco bairros que apresentaram o maior índice de infestação no ano anterior. Os dados obtidos para cada bairro foram:\n\nI. 14 imóveis com focos de mosquito em 400 imóveis no bairro;  \nII. 6 imóveis com focos de mosquito em 500 imóveis no bairro;  \nIII. 13 imóveis com focos de mosquito em 520 imóveis no bairro;  \nIV. 9 imóveis com focos de mosquito em 360 imóveis no bairro;  \nV. 15 imóveis com focos de mosquito em 500 imóveis no bairro.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 28 out. 2015",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As ações de controle iniciarão pelo bairro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

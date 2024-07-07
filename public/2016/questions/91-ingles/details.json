@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2016",
+    "index": 91,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**Frankentissue: printable cell technology**\n\nIn November, researchers from the University of Wollongong in Australia announced a new bio-ink that is a step toward really printing living human tissue on an inkjet printer. It is like printing tissue dot-by-dot. A drop of bio-ink contains 10,000 to 30,000 cells. The focus of much of this research is the eventual production of tailored tissues suitable for surgery, like living Band-Aids, which could be printed on the inkjet.\n\nHowever, it is still nearly impossible to effectively replicate nature’s ingenious patterns on a home office accessory. Consider that the liver is a series of globules, the kidney a set of pyramids. Those kinds of structures demand 3D printers that can build them up, layer by layer. At the moment, skin and other flat tissues are most promising for the inkjet.\n\nDisponível em: http://discovermagazine.com. Acesso em 2 dez 2012",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto relata perspectivas no campo da tecnologia para cirurgias em geral, e a mais promissora para este momento enfoca o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uso de um produto natural com milhares de células para reparar tecidos humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criação de uma impressora especial para traçar mapas cirúrgicos detalhados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Desenvolvimento de uma tinta para produzir pele e tecidos humanos finos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Reprodução de células em 3D para ajudar nas cirurgias de recuperação dos rins.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Extração de glóbulos do fígado para serem reproduzidos em laboratório.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

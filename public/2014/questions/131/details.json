@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2014",
+    "index": 131,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/131/9fd59444-cee6-4cd1-b2c1-31587d29e28e.png)",
+    "files": [
+        "https://enem.dev/2014/questions/131/9fd59444-cee6-4cd1-b2c1-31587d29e28e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Opportunity é o nome de um veículo explorador que aterrissou em Marte com a missão de enviar informações à Terra. A charge apresenta uma crítica ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gasto exagerado com o envio de robôs a outros planetas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exploração indiscriminada de outros planetas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Circulação digital excessiva de autorretratos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Vulgarização das descobertas espaciais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mecanização das atividades humanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

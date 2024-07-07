@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2010",
+    "index": 105,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/105/465a663a-3aad-490d-9ea3-f727ebd02358.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/105/465a663a-3aad-490d-9ea3-f727ebd02358.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em busca de maior naturalismo em suas obras e fundamentando-se em novo conceito estético, Monet, Degas, Renoir e outros artistas passaram a explorar novas formas de composição artística, que resultaram no estilo denominado Impressionismo. Observadores atentos da natureza, esses artistas passaram a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Retratar, em suas obras, as cores que idealizavam de acordo com o reflexo da luz solar nos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Usar mais a cor preta, fazendo contornos nítidos, que melhor definiam as imagens e as cores do objeto representado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Retratar paisagens em diferentes horas do dia, recriando, em suas telas, as imagens por eles idealizadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Usar pinceladas rápidas de cores puras e dissociadas diretamente na tela, sem misturá-las antes na paleta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Usar as sombras em tons de cinza e preto e com efeitos esfumaçados, tal como eram realizadas no Renascimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

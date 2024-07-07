@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2022",
+    "index": 100,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água. Considere a aceleração da gravidade de 10 m ![](https://enem.dev/2022/questions/100/109f2a39-f073-4841-9cec-bed51e1c1f12.png)",
+    "files": [
+        "https://enem.dev/2022/questions/100/109f2a39-f073-4841-9cec-bed51e1c1f12.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O resultado que eles obtiveram foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,50 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,25 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4,00 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,50 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,00 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

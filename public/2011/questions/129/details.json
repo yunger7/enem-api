@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2011",
+    "index": 129,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/129/5e1eed51-8dca-463c-8587-c0578dda1639.png)\n\nVERÍSSIMO, L. F. **As cobras em: Se Deus existe que eu seja atingido por um raio**. Porto Alegre: L&PM, 1997.",
+    "files": [
+        "https://enem.dev/2011/questions/129/5e1eed51-8dca-463c-8587-c0578dda1639.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O humor da tira decorre da reação de uma das cobras com relação ao uso de pronome pessoal reto, em vez de pronome oblíquo. De acordo com a norma padrão da língua, esse uso é inadequado, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Contraria o uso previsto para o registro oral da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Contraria a marcação das funções sintáticas de sujeito e objeto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Gera inadequação na concordância com o verbo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Gera ambiguidade na leitura do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresenta dupla marcação de sujeito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

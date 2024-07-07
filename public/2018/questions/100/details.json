@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2018",
+    "index": 100,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula ã autodestruição.\n\nALBERTS, B. et ai. **Fundamentos da biologia celular.** Porto Alegre: Artmed, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A ausência dessa proteína poderá favorecer a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução da síntese de DNA, acelerando o ciclo celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Saída imediata do ciclo celular, antecipando a proteção do DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ativação de outras proteínas reguladoras, induzindo a apoptose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manutenção da estabilidade genética, favorecendo a longevidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Proliferação celular exagerada, resultando na formação de um tumor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

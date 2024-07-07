@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2012",
+    "index": 13,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O que o projeto governamental tem em vista é poupar à Nação o prejuízo irreparável do perecimento e da evasão do que há de mais precioso no seu patrimônio. Grande parte das obras de arte até mais valiosas e dos bens de maior interesse histórico, de que a coletividade brasileira era depositária, têm desaparecido ou se arruinado irremediavelmente. As obras de arte típicas e as relíquias da história de cada país não constituem o seu patrimônio privado, e sim um patrimônio comum de todos os povos.\n\nANDRADE, R. M. F. Defesa do patrimônio artístico e histórico. O Jornal, 30 out. 1936. In: ALVES FILHO, I. Brasil, 500 anos em documentos. Rio de Janeiro: Mauad, 1999 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A criação no Brasil do Serviço do Patrimônio Histórico Artístico Nacional (SPHAN), em 1937, foi orientada por ideias como as descritas no texto, que visavam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Submeter a memória e o patrimônio nacional ao controle dos órgãos públicos, de acordo com a tendência autoritária do Estado Novo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Transferir para a iniciativa privada a responsabilidade de preservação do patrimônio nacional, por meio de leis de incentivo fiscal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Definir os fatos e personagens históricos a serem cultuados pela sociedade brasileira, de acordo com o interesse público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resguardar da destruição as obras representativas da cultura nacional, por meio de políticas públicas preservacionistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Determinar as responsabilidades pela destruição do patrimônio nacional, de acordo com a  legislação brasileira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

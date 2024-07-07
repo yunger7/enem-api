@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2022",
+    "index": 167,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.  \nUma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a  \npagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 2,00 menor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "R$ 100,00 menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 200,00 menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 42,00 maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 80,00 maior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

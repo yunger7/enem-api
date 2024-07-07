@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2015",
+    "index": 161,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/161/f840c071-3522-4f1a-986f-6456acba44c9.png)\n\nEssa indústria recebeu a encomenda de uma malha de proteção solar para ser aplicada em um vidro retangular de 5 m de largura por 9 m de comprimento.",
+    "files": [
+        "https://enem.dev/2015/questions/161/f840c071-3522-4f1a-986f-6456acba44c9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A medida de d, em milímetros, para que a taxa de cobertura da malha seja de 75% é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11/3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4/3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2/3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

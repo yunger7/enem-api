@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2022",
+    "index": 170,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no  \nmercado imobiliário dessa cidade.\n\n![](https://enem.dev/2022/questions/170/be397d74-899b-444a-b587-931e9c3505ca.png)\n\nA rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.",
+    "files": [
+        "https://enem.dev/2022/questions/170/be397d74-899b-444a-b587-931e9c3505ca.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2005",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2007",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2009",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2011",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2013",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

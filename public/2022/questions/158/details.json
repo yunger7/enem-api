@@ -1,0 +1,46 @@
+{
+    "title": "Questão 158 - ENEM 2022",
+    "index": 158,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por ![](https://enem.dev/2022/questions/158/94d1c253-bab8-44b6-aa7a-7bd9552dc398.png), sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:\n\n![](https://enem.dev/2022/questions/158/e0b502d3-500e-42da-8e2b-431e83be58ff.png)\n\nA sugestäo dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, sequndo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.",
+    "files": [
+        "https://enem.dev/2022/questions/158/94d1c253-bab8-44b6-aa7a-7bd9552dc398.png",
+        "https://enem.dev/2022/questions/158/e0b502d3-500e-42da-8e2b-431e83be58ff.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A proposta escolhida foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

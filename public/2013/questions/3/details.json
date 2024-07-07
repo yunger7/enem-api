@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2013",
+    "index": 3,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No dia 1º de julho de 2012, a cidade do Rio de Janeiro tornou-se a primeira do mundo a receber o título da Unesco de Patrimônio Mundial como Paisagem Cultural. A candidatura, apresentada pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), foi aprovada durante a 36.ª Sessão do Comitê do Patrimônio Mundial. O presidente do Iphan explicou que “a paisagem carioca é a imagem mais explícita do que podemos chamar de civilização brasileira, com sua originalidade, desafios, contradições e possibilidades”. A partir de agora, os locais da cidade valorizados com o título da Unesco serão alvo de ações integradas visando à preservação da sua paisagem cultural.\n\nDisponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O reconhecimento da paisagem em questão como patrimônio mundial deriva da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Presença do corpo artístico local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imagem internacional da metrópole.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Herança de prédios da ex-capital do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diversidade de culturas presente na cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Relação sociedade-natureza de caráter singular.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2015",
+    "index": 6,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A língua de que usam, por toda a costa, carece de três letras; convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei, e dessa maneira vivem desordenadamente, sem terem além disto conta, nem peso, nem medida.\n\nGÂNGAVO, P M. **A primeira história do Brasil**: história da província de Santa Cruz a que vulgarmente chamamos Brasil. Rio de Janeiro: Zahar, 2004 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A observação do cronista português Pero de Magalhães de Gândavo, em 1576, sobre a ausência das letras F, L e R na língua mencionada, demonstra a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Simplicidade da organização social das tribos brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dominação portuguesa imposta aos índios no início da colonização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superioridade da sociedade europeia em relação à sociedade indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Incompreensão dos valores socioculturais indígenas pelos portugueses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Dificuldade experimentada pelos portugueses no aprendizado da língua nativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

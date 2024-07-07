@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2011",
+    "index": 137,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/137/71b536bf-1542-490f-96b7-6da5a37e0c08.png)\n\nOnde M0 é o momento sísmico (usualmente estimado a partir dos registros de movimento da superfície, através dos sismogramas), cuja unidade é o dina⋅cm. O terremoto de Kobe, acontecido no dia 17 de janeiro de 1995, foi um dos terremotos que causaram maior impacto no Japão e na comunidade científica internacional. Teve magnitude MW = 7,3.\n\n**U.S. GEOLOGICAL SURVEY**. Historic Earthquakes.  \nDisponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/137/71b536bf-1542-490f-96b7-6da5a37e0c08.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Mostrando que é possível determinar a medida por meio de conhecimentos matemáticos, qual foi o momento sísmico M0",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10-5,10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10-0,73",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1012,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1021,65",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1027,00",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

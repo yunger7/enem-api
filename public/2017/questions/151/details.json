@@ -1,0 +1,46 @@
+{
+    "title": "Questão 151 - ENEM 2017",
+    "index": 151,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:\n\n![](https://enem.dev/2017/questions/151/deda154b-bdf4-471b-b4a7-85c1dfae90c1.png)\n\nQuanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.\n\nDeterminado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.\n\n![](https://enem.dev/2017/questions/151/7ea7b9c7-5a2c-4d4e-899d-834c2b5f4af2.png)",
+    "files": [
+        "https://enem.dev/2017/questions/151/deda154b-bdf4-471b-b4a7-85c1dfae90c1.png",
+        "https://enem.dev/2017/questions/151/7ea7b9c7-5a2c-4d4e-899d-834c2b5f4af2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,38.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8,25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

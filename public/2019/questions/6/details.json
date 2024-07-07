@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2019",
+    "index": 6,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019/questions/6/cec1fc23-8701-42af-93d4-d1ca5aef4495.png)\n\n**Disponível em:** http://palavrastempoder.org. Acesso em: 20 abr. 2015",
+    "files": [
+        "https://enem.dev/2019/questions/6/cec1fc23-8701-42af-93d4-d1ca5aef4495.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Propagar a imagem positiva do Ministério Público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conscientizar a população que direitos implicam deveres.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Coibir violações de direitos humanos nos meios de comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Divulgar políticas sociais que combatem a intolerância e o preconceito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Instruir as pessoas sobre a forma correta de expressão nas redes sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

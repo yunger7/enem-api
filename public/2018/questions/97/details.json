@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2018",
+    "index": 97,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tecnologia de comunicação da etiqueta RFID (chamada de etiqueta inteligente) é usada há anos para rastrear gado, vagões de trem, bagagem aérea e carros nos pedágios. Um modelo mais barato dessas etiquetas pode funcionar sem baterias e é constituído por três componentes: um microprocessador de silício; uma bobina de metal, feita de cobre ou de alumínio, que é enrolada em um padrão circular; e um encapsulador, que é um material de vidro ou polímero envolvendo o microprocessador e a bobina. Na presença de um campo de radiofrequência gerado pelo leitor, a etiqueta transmite sinais. A distância de leitura é determinada pelo tamanho da bobina e pela potência da onda de rádio emitida pelo leitor.\n\nDisponível em: http://eletronicos.hsw.uol.com.br. Acesso em: 27 fev. 2012 (adaptado)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A etiqueta funciona sem pilhas porque o campo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elétrico da onda de rádio agita elétrons da bobina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Elétrico da onda de rádio cria uma tensão na bobina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Magnético da onda de rádio induz corrente na bobina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Magnético da onda de rádio aquece os fios da bobina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Magnético da onda de rádio diminui a ressonância no interior da bobina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

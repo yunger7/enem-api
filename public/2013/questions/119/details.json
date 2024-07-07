@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2013",
+    "index": 119,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/119/01e29074-f21d-4f84-a197-0f5b11f2f053.png)",
+    "files": [
+        "https://enem.dev/2013/questions/119/01e29074-f21d-4f84-a197-0f5b11f2f053.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa charge, o recurso morfossintático que colabora para o efeito de humor está indicado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Emprego de uma oração adversativa, que orienta a quebra da expectativa ao final.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Uso de conjunção aditiva, que cria uma relação de causa e efeito entre as ações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Retomada do substantivo \"mãe\", que desfaz a ambiguidade dos sentidos a ele atribuídos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Utilização da forma pronominal \"la\", que reflete um tratamento formal do filho em relação à \"mãe\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Repetição da forma verbal \"é\", que reforça a relação de adição existente entre as orações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

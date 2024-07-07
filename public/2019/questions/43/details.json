@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2019",
+    "index": 43,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019/questions/43/32c136c9-fe3c-4652-8d26-e17dabba619e.png)",
+    "files": [
+        "https://enem.dev/2019/questions/43/32c136c9-fe3c-4652-8d26-e17dabba619e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto tem o formato de uma carta de jogo e apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade. Essa apresentação subverte um gênero textual ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vincular áreas distintas do conhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Evidenciar a formação acadêmica do pesquisador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Relacionar o universo lúdico a informações biográficas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Especificar as contribuições mais conhecidas do pesquisador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Destacar o nome do pesquisador e sua imagem no início do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

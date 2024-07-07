@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2015",
+    "index": 136,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png)",
+    "files": [
+        "https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantas operações o investidor fez naquele dia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

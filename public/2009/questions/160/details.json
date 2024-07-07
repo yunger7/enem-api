@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2009",
+    "index": 160,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma cooperativa de colheita propôs a um fazendeiro um contrato de trabalho nos seguintes termos: a cooperativa forneceria 12 trabalhadores e 4 máquinas, em um regime de trabalho de 6 horas diárias, capazes de colher 20 hectares de milho por dia, ao custo de R$ 10,00 por trabalhador por dia de trabalho, e R$ 1.000,00 pelo aluguel diário de cada máquina. O fazendeiro argumentou que fecharia contrato se a cooperativa colhesse 180 hectares de milho em 6 dias, com gasto inferior a R$ 25.000,00.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para atender às exigências do fazendeiro e supondo que o ritmo dos trabalhadores e das máquinas seja constante, a cooperativa deveria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manter sua proposta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oferecer 4 máquinas a mais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Oferecer 6 trabalhadores a mais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar a jornada de trabalho para 9 horas diárias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reduzir em R$ 400,00 o valor do aluguel diário de uma máquina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2011",
+    "index": 92,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/92/cf4e6e0a-1f86-4e8f-a89b-a1cc1a445703.png)\n\nGLASBERGEN, R. **Today’s cartoon**. Disponível em: http://www.glasbergen.com. Acesso em: 23 jul. 2010.",
+    "files": [
+        "https://enem.dev/2011/questions/92/cf4e6e0a-1f86-4e8f-a89b-a1cc1a445703.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na fase escolar, é prática comum que os professores passem atividades extraclasse e marquem uma data para que as mesmas sejam entregues para correção. No caso da cena da charge, a professora ouve uma estudante apresentando argumentos para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Discutir sobre o conteúdo do seu trabalho já entregue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Elogiar o tema proposto para o relatório solicitado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sugerir temas para novas pesquisas e relatórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reclamar do curto prazo para entrega do trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Convencer de que fez o relatório solicitado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

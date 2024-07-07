@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2014",
+    "index": 171,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No caso de carga máxima, as cargas recebidas pelos três pontos de sustentação serão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,8 t; 8,4 t; 1,8 t.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,0 t; 6,0 t; 3,0 t.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,4 t; 7,2 t; 2,4 t.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3,6 t; 4,8 t; 3,6 t.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,2 t; 3,6 t; 4,2 t.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

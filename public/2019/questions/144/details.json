@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2019",
+    "index": 144,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.\n\n![](https://enem.dev/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png)",
+    "files": [
+        "https://enem.dev/2019/questions/144/258eca74-8b97-4a70-8abd-c6fb7b964db4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O teste que apresentou maior quantidade de acertos foi o aplicado na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Segunda-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quarta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quinta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

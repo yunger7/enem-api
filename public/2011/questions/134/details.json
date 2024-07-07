@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2011",
+    "index": 134,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/134/53cd2eeb-a4e4-4101-aab7-f57834e1d5c1.png)\n\nDisponível em: http://www.wordinfo.info. Acesso em: 27 abr. 2010.",
+    "files": [
+        "https://enem.dev/2011/questions/134/53cd2eeb-a4e4-4101-aab7-f57834e1d5c1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O argumento presente na charge consiste em uma metáfora relativa à teoria evolucionista e ao desenvolvimento tecnológico. Considerando o contexto apresentado, verifica-se que o impacto tecnológico pode ocasionar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O surgimento de um homem dependente de um novo modelo tecnológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A mudança do homem em razão dos novos inventos que destroem sua realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A problemática social de grande exclusão digital a partir da interferência da máquina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A invenção de equipamentos que dificultam o trabalho do homem, em sua esfera social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O retrocesso do desenvolvimento do homem em face da criação de ferramentas como lança, máquina e computador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

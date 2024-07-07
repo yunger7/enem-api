@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2014",
+    "index": 141,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/141/ed992f8e-53a4-461c-8d93-6d5c402836e3.png)",
+    "files": [
+        "https://enem.dev/2014/questions/141/ed992f8e-53a4-461c-8d93-6d5c402836e3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior. O candidato aprovado será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "K.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "M.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "N.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "P.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

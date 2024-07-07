@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2011",
+    "index": 65,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 1999, a geneticista Emma Whitelaw desenvolveu um experimento no qual ratas prenhes foram submetidas a uma dieta rica em vitamina B12, ácido fólico e soja. Os filhotes dessas ratas, apesar de possuírem o gene para obesidade, não expressaram essa doença na fase adulta. A autora concluiu que a alimentação da mãe, durante a gestação, silenciou o gene da obesidade. Dez anos depois, as geneticistas Eva Jablonka e Gal Raz listaram 100 casos comprovados de traços adquiridos e transmitidos entre gerações de organismos, sustentando, assim, epigenética, que estuda as mudanças na atividade dos genes que não envolvem alterações na sequência do DNA.\n\nA reabilitação do herege. Época. no 610, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Alguns cânceres esporádicos representam exemplos de alteração epigenética, pois são ocasionados por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aneuploidia do cromossomo sexual X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Polipoidia dos cromossomos autossômicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mutação em genes autossômicos com expressão dominante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Substituição no gene da cadeia beta da hemoglobina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Inativação de genes por meio de modificações nas bases nitrogenadas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

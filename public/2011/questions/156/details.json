@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2011",
+    "index": 156,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.\n\nDisponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se que y e x representam, respectivamente, as quantidades de trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o segundo, e assim por diante, a expressão algébrica que relaciona essas quantidades nesses meses é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y = 4 300x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y = 884 905x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y = 872 005 + 4 300x",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Y = 876 305 + 4 300x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Y = 880 605 + 4 300x",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

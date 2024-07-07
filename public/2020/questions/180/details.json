@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2020",
+    "index": 180,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.\n\n![](https://enem.dev/2020/questions/180/8948b408-24e2-478b-85df-5607625e26e8.png)\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados.",
+    "files": [
+        "https://enem.dev/2020/questions/180/8948b408-24e2-478b-85df-5607625e26e8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "T.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

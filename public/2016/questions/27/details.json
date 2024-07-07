@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2016",
+    "index": 27,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em 1935, o governo brasileiro começou a negar vistos a judeus. Posteriormente, durante o Estado Novo, uma circular secreta proibiu a concessão de vistos a “pessoas de origem semita”, inclusive turistas e negociantes, o que causou uma queda de 75% da imigração judaica ao longo daquele ano. Entretanto, mesmo com as imposições da lei, muitos judeus continuaram entrando ilegalmente no país durante a guerra e as ameaças de deportação em massa nunca foram concretizadas, apesar da extradição de alguns indivíduos por sua militância política.\n\nGRIMBERG, K. Nova língua interior. 500 anos de história dos judeus no Brasil. In: **IBGE, Brasil: 500 anos de povoamento**. Rio de Janeiro: IBGE, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma razão para a adoção da política de imigração mencionada no texto foi o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Receio do controle sionista sobre a economia nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reserva de postos de trabalho para a mão de obra local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Oposição do clero católico à expansão de novas religiões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apoio da diplomacia varguista às opiniões dos líderes árabes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Simpatia de membros da burocracia pelo projeto totalitário alemão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

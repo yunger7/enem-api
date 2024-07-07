@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2010",
+    "index": 40,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Homens da Inglaterra, por que arar para os senhores que  \nvos mantêm na miséria?\n\nPor que tecer com esforços e cuidado as ricas roupas que  \nvossos tiranos vestem?\n\nPor que alimentar, vestir e poupar do berço até o túmulo  \nesses parasitas ingratos que exploram vosso suor — ah,  \nque bebem vosso sangue?\n\nSHELLEY. Os homens da Inglaterra. Apud HUBERMAN, L.  \nHistória da Riqueza do Homem. Rio de Janeiro: Zahar, 1982.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A análise do trecho permite identificar que o poeta romântico Shelley (1792-1822) registrou uma contradição nas condições socioeconômicas da nascente classe trabalhadora inglesa durante a Revolução Industrial. Tal contradição está identificada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Na pobreza dos empregados, que estava dissociada da riqueza dos patrões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "No salário dos operários, que era proporcional aos seus esforços nas indústrias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Na burguesia, que tinha seus negócios financiados pelo proletariado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "No trabalho, que era considerado uma garantia de liberdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Na riqueza, que não era usufruída por aqueles que a produziam.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

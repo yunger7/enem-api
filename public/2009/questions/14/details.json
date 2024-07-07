@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2009",
+    "index": 14,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/14/524ed514-1e24-42fe-9a5f-efebf0ce3c6d.png)",
+    "files": [
+        "https://enem.dev/2009/questions/14/524ed514-1e24-42fe-9a5f-efebf0ce3c6d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustíveis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumentar a quantidade de combustível para queima na usina de força.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

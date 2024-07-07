@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2011",
+    "index": 95,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Es posible reducir la basura**\n\nEn México se producen más de 10 millones de m3 de basura mensualmente, depositados en más de 50 mil tiraderos de basura legales y clandestinos, que afectan de manera directa nuestra calidad de vida, pues nuestros recursos naturales son utilizados desproporcionalmente, como materias primas que luego desechamos y tiramos convirtiéndolos en materiales inútiles y focos de infección.\n\nTodo aquello que compramos y consumimos tiene una relación directa con lo que tiramos. Consumiendo racionalmente, evitando el derroche y usando sólo lo indispensable, directamente colaboramos con el cuidado del ambiente.\n\nSi la basura se compone de varios desperdicios y si como desperdicios no fueron basura, si los separamos adecuadamente, podremos controlarlos y evitar posteriores problemas. Reciclar se traduce en importantes ahorros de energía, ahorro de agua potable, ahorro de materias primas, menor impacto en los ecosistemas y sus recursos naturales y ahorro de tiempo, dinero y esfuerzo.\n\nEs necesario saber para empezar a actuar…\n\nDisponível em: http://www.tododecarton.com. Acesso em: 27 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir do que se afirma no último parágrafo: “Es necesario saber para empezar a actuar…”, pode-se constatar que o texto foi escrito com a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Informar o leitor a respeito da importância da reciclagem para a conservação do meio ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Indicar os cuidados que se deve ter para não consumir alimentos que podem ser focos de infecção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Denunciar o quanto o consumismo é nocivo, pois é o gerador dos dejetos produzidos no México.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ensinar como economizar tempo, dinheiro e esforço a partir dos 50 mil depósitos de lixo legalizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Alertar a população mexicana para os perigos causados pelos consumidores de matéria-prima reciclável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

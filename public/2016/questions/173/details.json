@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2016",
+    "index": 173,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/173/fdf8c101-992d-4af6-8a5a-fa7bb406d400.png)\n\nConsidere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.",
+    "files": [
+        "https://enem.dev/2016/questions/173/fdf8c101-992d-4af6-8a5a-fa7bb406d400.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "28",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

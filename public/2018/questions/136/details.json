@@ -1,0 +1,47 @@
+{
+    "title": "Questão 136 - ENEM 2018",
+    "index": 136,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Transferência Eletrônica Disponível (TED) é uma transação financeira de valores entre diferentes bancos. Um economista decide analisar os valores enviados por meio de TEDs entre cinco bancos (1, 2, 3, 4 e 5) durante um mês. Para isso, ele dispõe esses  valores em uma matriz A = \\[aij\\], em que ![1 \\leq i \\leq 5](https://enem.dev/2018/questions/136/23c2a29c-f447-4817-ac9b-03321d6090a0.latex) e ![1 \\leq j \\leq 5](https://enem.dev/2018/questions/136/c8fdaeee-1c56-433d-a4dc-b2c1e43a94a4.latex), e o elemento aij corresponde ao total proveniente das operações feitas via TED, em milhão de real, transferidos do banco _i_ para o banco _j_ durante o mês. Observe que os elementos a_ij_ \\= 0, uma vez que TED é uma transferência entre bancos distintos. Esta é a matriz obtida para essa análise:\n\n![](https://enem.dev/2018/questions/136/d3c26019-2157-4edf-8f8b-6e53f876deab.png)",
+    "files": [
+        "https://enem.dev/2018/questions/136/23c2a29c-f447-4817-ac9b-03321d6090a0.latex",
+        "https://enem.dev/2018/questions/136/c8fdaeee-1c56-433d-a4dc-b2c1e43a94a4.latex",
+        "https://enem.dev/2018/questions/136/d3c26019-2157-4edf-8f8b-6e53f876deab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, o banco que transferiu a maior quantia via TED é o banco",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

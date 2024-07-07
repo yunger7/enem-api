@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2013",
+    "index": 71,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Qual é o máximo volume da solução do medicamento que pode ser administrado a esse indivíduo, pela via intravenosa, de maneira que não ocorram hemorragias causadas pelo anticoagulante?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,7 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,7 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,0 mL",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "6,7 mL",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

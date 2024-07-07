@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2015",
+    "index": 89,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "_Euphorbia milii_ é uma planta ornamental amplamente disseminada no Brasil e conhecida como coroa-de-cristo. O estudo químico do látex dessa espécie forneceu o mais potente produto natural moluscicida, a miliamina L.\n\nMOREIRA, C. P. S.; ZANI, C. L.; ALVES, T. M. A. Atividade moluscicida do látex de Synadenium carinatum boiss. (Euphorbiaceae) sobre Biomphalaria glabrata e isolamento do constituinte majoritário. **Revista Eletrônica de Farmácia**, n. 3, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O uso desse látex em água infestada por hospedeiros intermediários tem potencial para atuar no controle da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Malária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Elefantíase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ascaridíase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Esquistossomose.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

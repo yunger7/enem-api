@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2009",
+    "index": 76,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Apesar do aumento da produção no campo e da integração entre a indústria e a agricultura, parte da população da América do Sul ainda sofre com a subalimentação, o que gera conflitos pela posse de terra que podem ser verificados em várias áreas e que frequentemente chegam a provocar mortes",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um dos fatores que explica a subalimentação na América do Sul é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A baixa inserção de sua agricultura no comércio mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A quantidade insuficiente de mão-de-obra para o trabalho agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A presença de estruturas agrárias arcaicas formadas por latifúndios improdutivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A situação conflituosa vivida no campo, que impede o crescimento da produção agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os sistemas de cultivo mecanizado voltados para o abastecimento do mercado interno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

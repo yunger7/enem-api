@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2010",
+    "index": 170,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Marco e Paulo foram classificados em um concurso. Para classificação no concurso o candidato deveria obter média aritmética na pontuação igual ou superior a 14. Em caso de empate na média, o desempate seria em favor da pontuação mais regular. No quadro a seguir são apresentados os pontos obtidos nas provas de Matemática, Português e Conhecimentos Gerais, a média, a mediana e o desvio padrão dos dois candidatos.  \nDados dos candidatos no concurso\n\n![](https://enem.dev/2010/questions/170/b91052ca-dc24-45b9-b953-9aa426b42f1a.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/170/b91052ca-dc24-45b9-b953-9aa426b42f1a.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O candidato com pontuação mais regular, portanto mais bem classificado no concurso, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Marco, pois a média e a mediana são iguais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Marco, pois obteve menor desvio padrão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Paulo, pois obteve a maior pontuação da tabela, 19 em Português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Paulo, pois obteve maior mediana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Paulo, pois obteve maior desvio padrão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2023",
+    "index": 10,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Se a interferência de contas falsas em discussões políticas nas redes sociais já representava um perigo para os sistemas democráticos, sua sofisticação e maior semelhança com pessoas reais têm agravado o problema pelo mundo.\n\nO perigo cresceu porque a tecnologia e os métodos evoluíram dos robôs, os “bots” — softwares com tarefas on-line automatizadas —, para os “ciborgues” ou “trolls”, contas controladas diretamente por humanos com ajuda de um pouco de automação.\n\nMas pesquisadores começam agora a observar outros padrões de comportamento: quando mensagens não são programadas, sua publicação se concentra só em horários de trabalho, já que é controlada por pessoas cuja profissão é exatamente essa, administrar um perfil falso durante o dia.\n\nOutra pista: a pobreza vocabular das mensagens publicadas por esses perfis. Um funcionário de uma empresa que supostamente produzia e vendia perfis falsos explica que às vezes “faltava criatividade” para criar mensagens distintas controlando tantos perfis falsos ao mesmo tempo.\n\nGRAGNANI, J. Disponível em: www.bbc.com. Acesso em: 16 dez. 2017.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a análise de características da linguagem empregada por perfis automatizados contribui para o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Controle da atuação dos profissionais de TI.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Desenvolvimento de tecnologias como os \"trolls\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Flexibilização dos turnos de trabalho dos controladores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade de regulamentação do funcionamento dos \"bots\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Identificação de padrões de disseminação de informações inverídicas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

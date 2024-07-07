@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - ENEM 2013",
+    "index": 86,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/86/23f946b2-3239-4257-99bb-96c0d984831b.png)",
+    "files": [
+        "https://enem.dev/2013/questions/86/23f946b2-3239-4257-99bb-96c0d984831b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

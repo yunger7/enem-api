@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2019",
+    "index": 109,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto “cortavam o céu”. Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.\n\n![](https://enem.dev/2019/questions/109/5d498d28-3127-485c-996e-67b04ab7be50.png)",
+    "files": [
+        "https://enem.dev/2019/questions/109/5d498d28-3127-485c-996e-67b04ab7be50.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com os fatos relatados, a velocidade angular do foguete em relação à Terra no ponto de reentrada era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Igual à da Terra e no mesmo sentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Superior à da Terra e no mesmo sentido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Inferior à da Terra e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Igual à da Terra e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Superior à da Terra e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

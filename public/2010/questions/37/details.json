@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2010",
+    "index": 37,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os meios de comunicação funcionam como um elo entre os diferentes segmentos de uma sociedade. Nas últimas décadas, acompanhamos a inserção de um novo meio de comunicação que supera em muito outros já existentes, visto que pode contribuir para a democratização da vida social e política da sociedade à medida que possibilita a instituição de mecanismos eletrônicos para a efetiva participação política e disseminação de informações.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Constitui o exemplo mais expressivo desse novo conjunto de redes informacionais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Internet.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fibra ótica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "TV digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Telefonia móvel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Portabilidade telefônica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

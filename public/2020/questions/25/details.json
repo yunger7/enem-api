@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2020",
+    "index": 25,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/25/600a478d-bf8d-46fb-9e38-cd71bcf3464c.png)\n\nA obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte\n\nKOSUTH J. _One and Three Chairs_. Museu Reina Sofia, Espanha, 1965.  \nDisponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018  \n(adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/25/600a478d-bf8d-46fb-9e38-cd71bcf3464c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo\nde arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não é a realidade, mas uma representação dela.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fundamenta-se na repetição, construindo variações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Não se define, pois depende da interpretação do fruidor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resiste ao tempo, beneficiada por múltiplas formas de registro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Redesenha a verdade, aproximando-se das definições lexicais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

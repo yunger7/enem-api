@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2023",
+    "index": 1,
+    "year": 2023,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n¿QUÉ ME PASA?:  \n¿PorQUE ME CUESTA TANTO ESTUDIAR?  \n¿PORQUE ME CUESTA TANTO CONCENTRARME?  \n¿PoRQUE……  \n¿PORQUÉ…..  \n¿PORQUÉ NO CONSIGO APRENDER COMO LOS DEMÁS?\n\n![](https://enem.dev/broken-image.svg)\n\nDisponível em: www.otrasvoceseneducacion.org. Acesso em: 8 nov. 2022.\n\n**ТЕХТО II**\n\nIshaan Awashi es un niño de 8 años cuyo mundo está plagado de maravillas que nadie más parece apreciar: colores, peces, perros y cometas, que simplemente no son importantes en la vida de los adultos, que parecen más interesados en cosas como los deberes, las notas o la limpieza. E Ishaan parece no poder hacer nada bien en clase. Cuando los problemas que ocasiona superan a sus padres, es internado en un colegio para que le disciplinen. Las cosas no mejoran en el nuevo colegio, donde Ishaan tiene además que aceptar estar lejos de sus padres. Hasta que un dia, el nuevo profesor de arte, Ram Shankar Nikumbh, entra en escena, se interesa por el pequeño Ishaan y todo cambia.\n\nDisponível em: https://elfinalde.com. Acesso em: 26 out. 2021 (adaptado)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O filme Como estrellas en la tierra aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Olhar diferenciado para com o outro gera mudanças.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Estudante com dislexia apresenta um tom questionador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Abordagem para lidar com a dislexia é pautada na disciplina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contato com os pais prejudica o acompanhamento da dislexia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mudança de interesses ocorre na transição da infância para a vida adulta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

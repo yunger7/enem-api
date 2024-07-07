@@ -1,0 +1,45 @@
+{
+    "title": "Questão 16 - ENEM 2012",
+    "index": 16,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/16/1312e0b2-76e8-4010-9462-344fd7d1271e.jpg)\n\nDisponível em: www.metmuseum.org. Acesso em: 14 set. 2011. (Foto: Enem)",
+    "files": [
+        "https://enem.dev/2012/questions/16/1312e0b2-76e8-4010-9462-344fd7d1271e.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A figura apresentada é de um mosaico, produzido por volta do ano 300 d.C., encontrado na cidade de Lod, atual Estado de Israel. Nela, encontram-se elementos que representam uma característica política dos romanos no período, indicada em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cruzadismo – conquista da terra santa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Patriotismo – exaltação da cultura local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Helenismo – apropriação da estética grega.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Imperialismo – selvageria dos povos dominados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expansionismo – diversidade dos territórios conquistados.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

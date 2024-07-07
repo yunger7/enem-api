@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2022",
+    "index": 180,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na figura estão destacadas duas trajetórias sobre a superfície do globo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano α é paralelo ao que contém a Linha do Equador.\n\n![](https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png)",
+    "files": [
+        "https://enem.dev/2022/questions/180/f3e0feaa-a265-4d9f-894f-63135acff616.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A vista superior da projeção ortogonal sobre o plano α dessas duas trajetórias é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/180/05cb2bb8-e0d9-4b65-b5cf-8b286af2b395.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/180/23fc7b65-ca58-4a35-967f-ac9c73b89e03.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/180/5be81d3b-c2c8-4856-a7b6-9f265a813436.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/180/c29e4144-4fce-43b2-a402-0ff7de72f3d0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/180/5e135009-dbc9-4b08-bdf9-ad95f8f3d14f.png",
+            "isCorrect": true
+        }
+    ]
+}

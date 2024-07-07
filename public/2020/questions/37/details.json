@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2020",
+    "index": 37,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\nBATISTELLA, C. **Abordagens contemporâneas do conceito de saúde**.\n\nDisponível em: www.dihs.ensp.fiocruz.br. Acesso em: 23 set. 2020.\n\n![](https://enem.dev/2020/questions/37/66ad553a-1aa0-423d-ba1c-c52e70be284d.png)",
+    "files": [
+        "https://enem.dev/2020/questions/37/66ad553a-1aa0-423d-ba1c-c52e70be284d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no conceito apresentado no texto, a saúde é consequência direta do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adoção de um estilo de vida ativo por parte dos indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Disponibilidade de emprego no mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Condição habitacional presente nas cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Acesso ao sistema educacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Forma de organização social.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

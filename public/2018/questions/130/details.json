@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2018",
+    "index": 130,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O grafeno é uma forma alotrópica do carbono constituído por uma folha planar (arranjo bidimensional) de átomos de carbono compactados e com a espessura de apenas um átomo. Sua estrutura é hexagonal, conforme a figura.\n\n![](https://enem.dev/2018/questions/130/f157dd85-9329-4b99-b81a-87bcc30eddad.png)",
+    "files": [
+        "https://enem.dev/2018/questions/130/f157dd85-9329-4b99-b81a-87bcc30eddad.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse arranjo, os átomos de carbono possuem hibridação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/130/d029f546-2caa-4c45-af74-7356a1af2896.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/130/ef61175f-00ef-4ff1-b880-6538aae6b88c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/130/aa335cca-aea9-48dc-a827-5f70251932e0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/130/cf09ab18-09eb-4f8b-9eea-9a279f075603.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/130/a920f72f-4765-460a-bc91-7181db910d5b.png",
+            "isCorrect": false
+        }
+    ]
+}

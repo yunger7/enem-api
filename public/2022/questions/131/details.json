@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2022",
+    "index": 131,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela.Associações similares ocorriam no passadoda história da químicaorgânica, quando os compostosditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\n\n![](https://enem.dev/2022/questions/131/ffcbcff6-5bd4-4fa3-a11b-17bd34a48ade.png)\n\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2022/questions/131/ffcbcff6-5bd4-4fa3-a11b-17bd34a48ade.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A característica estrutural dessa família de compostos é a presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ramificações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Insaturações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anel benzênico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Átomos de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Carbonos assimétricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

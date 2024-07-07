@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2012",
+    "index": 10,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Mas uma coisa ouso afirmar, porque há muitos testemunhos, e é que vi nesta terra de Veragua \\[Panamá\\] maiores indícios de ouro nos dois primeiros dias do que na Hispaniola em quatro anos, e que as terras da região não podem ser mais bonitas nem mais bem lavradas. Ali, se quiserem podem mandar extrair à vontade.\n\nCarta de Colombo aos reis da Espanha, julho de 1503. Apud AMADO, J.; FIGUEIREDO, L. C. Colombo e a América: quinhentos anos depois. São Paulo: Atual, 1991 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O documento permite identificar um interesse econômico espanhol na colonização da América a partir do século XV. A implicação desse interesse na ocupação do espaço americano está indicada na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expulsão dos indígenas para fortalecer o clero católico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Promoção das guerras justas para conquistar o território.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Imposição da catequese para explorar o trabalho africano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Opção pela policultura para garantir o povoamento ibérico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fundação de cidades para controlar a circulação de riquezas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

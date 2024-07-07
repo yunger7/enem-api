@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2010",
+    "index": 75,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/75/4cf500ff-ecc0-4f24-b1b2-a9055a92d633.jpg)\n\nDois pesquisadores percorreram os trajetos marcados no mapa. A tarefa deles foi analisar os ecossistemas e, encontrando problemas, relatar e propor medidas de recuperação. A seguir, são reproduzidos trechos aleatórios extraídos dos relatórios desses dois pesquisadores.\n\nTrechos aleatórios extraídos do relatório do pesquisador P1:\n\nI. “Por causa da diminuição drástica das espécies vegetais deste ecossistema, como os pinheiros, a gralha azul também está em processo de extinção”.  \nII. “As árvores de troncos tortuosos e cascas grossas que predominam nesse ecossistema estão sendo utilizadas em carvoarias”.  \nTrechos aleatórios extraídos do relatório do pesquisador P2:  \nIII. “Das palmeiras que predominam nesta região podem ser extraídas substâncias importantes para a economia regional”,  \nIV. “Apesar da aridez desta região, em que encontramos muitas plantas espinhosas, não se pode desprezar a sua biodiversidade”. Ecossistemas brasileiros: mapa de distribuição de ecossistemas.\n\nDisponível em: http://educacao.uol.com.br/ciencias/ult1686u52.jhtm. Acesso em: 20 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2010/questions/75/4cf500ff-ecc0-4f24-b1b2-a9055a92d633.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os trechos I, II, III e IV referem-se, pela ordem, aos seguintes ecossistemas:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Caatinga, Cerrado, Zona dos Cocais e Floresta Amazônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mata de Araucárias, Cerrado, Zona dos Cocais e Caatinga.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Manguezais, Zona dos Cocais, Cerrado e Mata Atlântica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Floresta Amazônica, Cerrado, Mata Atlântica e Pampas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mata Atlântica, Cerrado, Zona dos Cocais e Pantanal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

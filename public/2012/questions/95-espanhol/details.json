@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2012",
+    "index": 95,
+    "year": 2012,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**Las Malvinas son nuestras**\n\nSí, las islas son nuestras. Esta afirmación no se basa en sentimientos nacionalistas, sino en normas y princípios del derecho internacional que, si bien pueden suscitar interpretaciones en contrario por parte de los británicos, tienen la fuerza suficiente para imponerse.\n\nLos británicos optaron por sostener el derecho de autodeterminación de los habitantes de las islas, invocando la resolución 1514 de las Naciones Unidas, que acordó a los pueblos coloniales el derecho de independizarse de los Estados colonialistas. Pero esta tesitura es también indefendible. La citada resolución se aplica a los casos de pueblos sojuzgados por una potencia extranjera, que no es el caso de Malvinas, donde Gran Bretaña procedió a expulsar a los argentinos que residían en las islas, reemplazándolos por súbditos de la corona que pasaron a ser kelpers y luego ciudadanos británicos. Además, según surge de la misma resolución, el principio de autodeterminación no es de aplicación cuando afecta la integridad territorial de un país.\n\nFinalmente, en cuanto a qué haría la Argentina con los habitantes británicos de las islas en caso de ser recuperadas, la respuesta se encuentra en la cláusula transitória primera de la Constitución Nacional sancionada por la reforma de 1994, que impone respetar el modo de vida de los isleños, lo que además significa respetar sus intereses.\n\nMENEM, E. Disponível em: www.lanacion.com.ar. Acesso em: 18 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto apresenta uma opinião em relação à disputa entre e a Argentina e o Reino Unido pela soberania sobre as Ilhas Malvinas, ocupadas pelo Reino Unido em 1833. O autor dessa opinião apoia a reclamação argentina desse arquipélago, argumentando que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A descolonização das ilhas em disputa está contemplada na lei comum britânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As Nações Unidas estão desacreditadas devido à ambiguidade das suas resoluções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O princípio de autodeterminação carece de aplicabilidade no caso das Ilhas Malvinas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A população inglesa compreende a reivindicação nacionalista da administração argentina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os cidadãos de origem britânica assentados nas ilhas seriam repatriados para a Inglaterra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

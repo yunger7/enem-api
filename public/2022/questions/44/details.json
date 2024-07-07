@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2022",
+    "index": 44,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n![](https://enem.dev/2022/questions/44/510dde52-fd88-4c3a-88bd-cedac5510317.jpg)\n\nSILVEIRA, R. **In absentia**, 1983. Instalação, 17ª Bienal de São Paulo. Disponível em: www.bienal.org.br. Acesso em: set. 2016 (adaptado).\n\n**TEXTO II**\n\nO termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um tipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano, produzidos em massa, selecionados sem critérios estéticos e expostos como obras de arte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912, é uma roda de bicicleta montada sobre um banquinho  (Roda de bicicleta). Ao transformar qualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.\n\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado)",
+    "files": [
+        "https://enem.dev/2022/questions/44/510dde52-fd88-4c3a-88bd-cedac5510317.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A instalação In absentia propõe um diálogo com o ready-made Roda de bicicleta, demonstrando que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As formas de criticar obras do passado se repetem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A recorrência de temas marca a arte do final do século XX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As criações desmistificam os valores estéticos estabelecidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O distanciamento temporal permite a transformação dos referenciais estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O objeto ausente sugere a degradação da forma superando o modelo artístico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

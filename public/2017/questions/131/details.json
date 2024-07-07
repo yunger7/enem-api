@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2017",
+    "index": 131,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s². Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s². O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,90 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "15,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17,4 m.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

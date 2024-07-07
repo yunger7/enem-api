@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2017",
+    "index": 119,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKa = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKa = -log Ka, em que Ka é a constante ácida da reação de ionização do lapachol.\n\n![](https://enem.dev/2017/questions/119/cf7185d3-5e84-42ad-974b-2332feadd919.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/119/cf7185d3-5e84-42ad-974b-2332feadd919.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solução de Na2CO3 para formar um sal de lapachol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Solução-tampão ácido acético/acetato de sódio (pH = 4,5).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Solução de NaCI a fim de aumentar a força iônica do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Solução de Na2SO4 para formar um par iônico com lapachol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Solução de HCI a fim de extraí-lo por meio de reação ácido-base.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

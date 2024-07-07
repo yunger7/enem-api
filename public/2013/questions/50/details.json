@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2013",
+    "index": 50,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Milhares de pessoas estavam morrendo de varíola humana no final do século XVIII. Em 1796, o médico Edward Jenner (1749-1823) inoculou em um menino de 8 anos o pus extraído de feridas de vacas contaminadas com o vírus da varíola bovina, que causa uma doença branda em humanos. O garoto contraiu uma infecção benigna e, dez dias depois, estava recuperado. Meses depois, Jenner inoculou, no mesmo menino, o pus varioloso humano, que causava muitas mortes. O menino não adoeceu.\n\nDisponível em: www.bbc.co.uk. Acesso em: 5 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando o resultado do experimento, qual a contribuição desse médico para a saúde humana?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A prevenção de diversas doenças infectocontagiosas em todo o mundo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A compreensão de que vírus podem se multiplicar em matéria orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O tratamento para muitas enfermidades que acometem milhões de pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O estabelecimento da ética na utilização de crianças em modelos experimentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A explicação de que alguns vírus de animais podem ser transmitidos para os humanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

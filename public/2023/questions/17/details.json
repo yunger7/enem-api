@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2023",
+    "index": 17,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Como é bom reencontrar os leitores da _Revista da Cultura_ por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! _\\]cultura\\[_, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saídos das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes… nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê.\n\nHERZ, P. J _**\\]cultura\\[**_, n. 1, jun. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O uso não padrão dos colchetes para nomear a revista atribui-lhes uma nova função e está correlacionado ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Perfil de público-alvo, constituído por leitores exigentes e especializados em leitura acadêmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Propósito do editor, chamando a atenção para o rigor normativo nos textos da revista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exclusividade na seleção temática, direcionada para a área das ciências humanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Identidade da revista, voltada para a recepção e a promoção de ideias circulantes em livros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Padrão editorial dos artigos, organizados em torno de uma proposta de design inovador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

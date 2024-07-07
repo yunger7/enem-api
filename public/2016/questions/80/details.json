@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2016",
+    "index": 80,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Painel Intergovernamental de Mudanças Climáticas (na sigla em inglês, IPCC) prevê que nas próximas décadas o planeta passará por mudanças climáticas e propõe estratégias de mitigação e adaptação a elas. As _estratégias de mitigação_ são direcionadas à causa dessas mudanças, procurando reduzir a concentração de gases de efeito estufa na atmosfera. As _estratégias de adaptação_, por sua vez, são direcionadas aos efeitos dessas mudanças, procurando preparar os sistemas humanos às mudanças climáticas já em andamento, de modo a reduzir seus efeitos negativos.\n\nIPCC, 2014. **Climate Change 2014: synthesis report**. Disponível em: http://w5-syr.ipcc.ch. Acesso em: 22 out 2015 (adaptado)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando as informações do texto, qual ação representa uma estratégia de adaptação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Construção de usinas eólicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tratamento de resíduos sólidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento da eficiência dos veículos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adoção de agricultura sustentável de baixo carbono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criação de diques de contenção em regiões costeiras.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

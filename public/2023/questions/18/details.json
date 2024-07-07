@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2023",
+    "index": 18,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n**Alegria, alegria**  \nO sol nas bancas de revista  \nMe enche de alegria e preguiça  \nQuem lê tanta noticia  \nEu vou  \nPor entre fotos e nomes  \nOs olhos cheios de cores  \nO peito cheio de amores vãos  \nEu vou  \nPor que não, por que não?\n\nVELOSO, C. **Alegria, alegria**. Rio de Janeiro: Polygram, 1990 (fragmento)\n\n**ТЕХТО II**\n\n**Anjos tronchos**  \nUns anjos tronchos do Vale do Silício  \nDesses que vivem no escuro em plena luz  \nDisseram vai ser virtuoso no vício  \nDas telas dos azuis mais do que azuis\n\nAgora a minha história é um denso algoritmo  \nQue vende venda a vendedores reais  \nNeurônios meus ganharam novo outro ritmo  \nE mais, e mais, e mais, e mais, e mais\n\nVELOSO, C. **Meu coco**. Rio de Janeiro: Sony, 2021 (fragmento)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Embora oriundas de momentos históricos diferentes essas letras de canção têm em comum a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Referência às cores como elemento de crítica a hábitos contemporâneos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Percepção da profusão de informações gerada pela tecnologia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Contraposição entre os vícios e as virtudes da vida moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Busca constante pela liberdade de expressão individual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Crítica à finalidade comercial das notícias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

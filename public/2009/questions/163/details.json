@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2009",
+    "index": 163,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Segundo as regras da Fórmula 1, o peso mínimo do carro, de tanque vazio, com o piloto, é de 605 kg, e a gasolina deve ter densidade entre 725 e 780 gramas por litro. Entre os circuitos nos quais ocorrem competições dessa categoria, o mais longo é _Spa-Francorchamps_, na Bélgica, cujo traçado tem 7 km de extensão. O consumo médio de um carro da Fórmula 1 é de 75 litros para cada 100 km.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que um piloto de uma equipe específica, que utiliza um tipo de gasolina com densidade de 750 g/L, esteja no circuito de Spa-Francorchamps, parado no box para reabastecimento. Caso ele pretenda dar mais 16 voltas, ao ser liberado para retornar à pista, seu carro deverá pesar, no mínimo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "617 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "668 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "680 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "689 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "717 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

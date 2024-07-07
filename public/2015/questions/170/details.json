@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2015",
+    "index": 170,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/170/8e79e15b-e750-434f-9cba-7ae74d55e746.png)",
+    "files": [
+        "https://enem.dev/2015/questions/170/8e79e15b-e750-434f-9cba-7ae74d55e746.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A ordem de classificação final desse concurso é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A, B, C, E, D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B, A, C, E, D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "C, B, E, A, D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C, B, E, D, A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E, C, D, B, A.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

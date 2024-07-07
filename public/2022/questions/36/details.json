@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2022",
+    "index": 36,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose**\n\n_A doença é grave e vem causando preocupação na região metropolitana da capital mineira_\n\nEla é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro.\n\n**Disponível em: https://www.revistaencontro.com.br/. Acesso em: 11 dez. 2017.**",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essa notícia, além de cumprir sua função informativa, assume o papel de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fiscalizar as ações de saúde e saneamento da cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Defender os serviços gratuitos de atendimento à população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Conscientizar a população sobre grave problema de saúde pública.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Propor campanhas para a ampliação de acesso aos serviços públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Responsabilizar os agentes públicos pela demora na tomara de decisões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

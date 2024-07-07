@@ -1,0 +1,46 @@
+{
+    "title": "Questão 134 - ENEM 2017",
+    "index": 134,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O3), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\n![](https://enem.dev/2017/questions/134/473049c4-f31e-4efc-b18b-e808378bc090.png)\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n![](https://enem.dev/2017/questions/134/4ebacf49-d6c6-4b9d-a586-ed1b1cadd538.png)\n\nMARTINO, A. **Química, a ciência global.** Goiânia: Editora W, 2014 (adaptado)",
+    "files": [
+        "https://enem.dev/2017/questions/134/473049c4-f31e-4efc-b18b-e808378bc090.png",
+        "https://enem.dev/2017/questions/134/4ebacf49-d6c6-4b9d-a586-ed1b1cadd538.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quais são os produtos formados nessa reação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Benzaldeído e propanona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Propanal e benzaldeído.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2-fenil-etanal e metanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Benzeno e propanona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Benzaldeído e etanal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

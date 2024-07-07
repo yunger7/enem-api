@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2009",
+    "index": 45,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/45/391df735-013e-414c-a12f-3d626c8855ce.png)",
+    "files": [
+        "https://enem.dev/2009/questions/45/391df735-013e-414c-a12f-3d626c8855ce.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa situação, quais são as três lâmpadas que acendem com o mesmo brilho por apresentarem igual valor de corrente fluindo nelas, sob as quais devem se posicionar os três atores?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "L1, L2 e L3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "L2, L3 e L4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "L2, L5 e L7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "L4, L5 e L6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "L4, L7 e L8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

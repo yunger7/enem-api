@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2011",
+    "index": 49,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um paciente deu entrada em um pronto-socorro apresentando os seguintes sintomas: cansaço, dificuldade em respirar e sangramento nasal. O médico solicitou um hemograma ao paciente para definir um diagnóstico. Os resultados estão dispostos na tabela:\n\n![](https://enem.dev/2011/questions/49/f89f293e-0067-4618-80d8-facffa61b33e.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/49/f89f293e-0067-4618-80d8-facffa61b33e.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Relacionando os sintomas apresentados pelo paciente com os resultados de seu hemograma, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O sangramento nasal é devido à baixa quantidade de plaquetas, que são responsáveis pela coagulação sanguínea.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O cansaço ocorreu em função da quantidade de glóbulos brancos, que são responsáveis pela coagulação sanguínea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A dificuldade respiratória decorreu da baixa quantidade de glóbulos vermelhos, que são responsáveis pela defesa imunológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O sangramento nasal é decorrente da baixa quantidade de glóbulos brancos, que são responsáveis pelo transporte de gases no sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A dificuldade respiratória ocorreu pela quantidade de plaquetas, que são responsáveis pelo transporte de oxigênio no sangue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2015",
+    "index": 90,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png)",
+    "files": [
+        "https://enem.dev/2015/questions/90/b6d74701-5284-49ba-b450-a9600fdc18d9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação com a primeira?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Etapa única na síntese.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Obtenção do produto puro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ausência de reagentes oxidantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ausência de elementos metálicos no processo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Gasto de energia nulo na separação do produto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 119 - ENEM 2020",
+    "index": 119,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores  analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:\n\n![](https://enem.dev/2020/questions/119/af2a9279-03a1-4f50-82b8-260984294c04.png)\n\n> Valores limites permitidos para águas doces destinadas ao abaste cimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD≥5mgL–1 e DBO ≤ 5mgL–1.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas  locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\n\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado)",
+    "files": [
+        "https://enem.dev/2020/questions/119/af2a9279-03a1-4f50-82b8-260984294c04.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

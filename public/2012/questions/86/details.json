@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2012",
+    "index": 86,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Osmose é um processo espontâneo que ocorre em todos os organismos vivos e é essencial à manutenção da vida. Uma solução 0,15 mol/L de NaCℓ (cloreto de sódio) possui a mesma pressão osmótica das soluções presentes nas células humanas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A imersão de uma célula humana em uma solução 0,20 mol/L de NaCℓ tem, como consequência, a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adsorção de íons Na+ sobre a superfície da célula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Difusão rápida de íons Na+ para o interior da célula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da concentração das soluções presentes na célula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Transferência de íons Na+ da célula para a solução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transferência de moléculas de água do interior da célula para a solução.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

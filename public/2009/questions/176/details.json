@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2009",
+    "index": 176,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Joana frequenta uma academia de ginástica onde faz exercícios de musculação. O programa de Joana requer que ela faça 3 séries de exercícios em 6 aparelhos diferentes, gastando 30 segundos em cada série. No aquecimento, ela caminha durante 10 minutos na esteira e descansa durante 60 segundos para começar o primeiro exercício no primeiro aparelho. Entre uma série e outra, assim como ao mudar de aparelho, Joana descansa por 60 segundos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que, em determinado dia, Joana tenha iniciado seus exercícios às 10h30min e finalizado às 11h7min. Nesse dia e nesse tempo, Joana",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não poderia fazer sequer a metade dos exercícios e dispor dos períodos de descanso especificados em seu programa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Poderia ter feito todos os exercícios e cumprido rigorosamente os períodos de descanso especificados em seu programa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Poderia ter feito todos os exercícios, mas teria de ter deixado de cumprir um dos períodos de descanso especificados em seu programa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conseguiria fazer todos os exercícios e cumpriria todos os períodos de descanso especificados em seu programa, e ainda se permitiria uma pausa de 7 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Não poderia fazer todas as 3 séries dos exercícios especificados em seu programa; em alguma dessas séries deveria ter feito uma série a menos e não deveria ter cumprido um dos períodos de descanso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

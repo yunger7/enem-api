@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2013",
+    "index": 174,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/174/058b1a19-673e-41e2-864f-585fb4405de3.png)\n\nHá interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.",
+    "files": [
+        "https://enem.dev/2013/questions/174/058b1a19-673e-41e2-864f-585fb4405de3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse número é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor que 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior que 10 e menor que 20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior que 20 e menor que 30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior que 30 e menor que 40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

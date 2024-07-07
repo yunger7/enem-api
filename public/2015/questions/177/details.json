@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2015",
+    "index": 177,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/177/b816c051-5903-47d1-9b6d-4a005c997bb1.png)",
+    "files": [
+        "https://enem.dev/2015/questions/177/b816c051-5903-47d1-9b6d-4a005c997bb1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A dose diária, em miligramas, que esse felino deverá receber é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,624.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "52,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "156,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "750,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 201,9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

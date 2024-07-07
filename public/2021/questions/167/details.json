@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2021",
+    "index": 167,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.\n\nConsidere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para ![](https://enem.dev/2021/questions/167/42cbdc11-82db-44e3-8f1b-367c1b0e5853.png)",
+    "files": [
+        "https://enem.dev/2021/questions/167/42cbdc11-82db-44e3-8f1b-367c1b0e5853.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,48",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5,60",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

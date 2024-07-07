@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2015",
+    "index": 11,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/11/c5532328-dec0-4e18-81a8-dbf37e1dddcc.jpg)\n\nOs calendários são fontes históricas importantes, na medida em que expressam a concepção de tempo das sociedades. Essas imagens compõem um calendário medieval (1460-1475) e cada uma delas representa um mês, de janeiro a dezembro.",
+    "files": [
+        "https://enem.dev/2015/questions/11/c5532328-dec0-4e18-81a8-dbf37e1dddcc.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base na análise do calendário, apreende-se uma concepção de tempo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cíclica, marcada pelo mito arcaico do eterno retorno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Humanista, identificada pelo controle das horas de atividade por parte do trabalhador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escatológica, associada a uma visão religiosa sobre o trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Natural, expressa pelo trabalho realizado de acordo com as estações do ano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Romântica, definida por uma visão bucólica da sociedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

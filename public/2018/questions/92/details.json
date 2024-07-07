@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2018",
+    "index": 92,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O carro flex é uma realidade no Brasil. Estes veículos estão equipados com motor que tem a capacidade de funcionar com mais de um tipo de combustível. No entanto, as pessoas que têm esse tipo de veículo, na hora  \ndo abastecimento, têm sempre a dúvida: álcool ou gasolina? Para avaliar o consumo desses combustíveis, realizou-se um percurso com um veículo flex, consumindo 40 itros de gasolina e no percurso de volta utilizou-se etanol.  \nFoi considerado o mesmo consumo de energia tanto no percurso de ida quanto no de volta.  \nO quadro resume alguns dados aproximados sobre esses combustíveis.\n\n![](https://enem.dev/2018/questions/92/dbca9c70-1b1f-40c6-bd47-f112330a2434.png)",
+    "files": [
+        "https://enem.dev/2018/questions/92/dbca9c70-1b1f-40c6-bd47-f112330a2434.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O volume de etanol combustível, em litro, consumido no percurso de volta é mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "32.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "37.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "58.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "67.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

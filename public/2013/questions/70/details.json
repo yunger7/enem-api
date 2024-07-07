@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2013",
+    "index": 70,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Cinco casais alegavam ser os pais de um bebê. A confirmação da paternidade foi obtida pelo exame de DNA. O resultado do teste está esquematizado na figura, em que cada casal apresenta um padrão com duas bandas de DNA (faixas, uma para o suposto pai e outra para a suposta mãe), comparadas à do bebê.\n\n![](https://enem.dev/2013/questions/70/dce94780-d6f5-40bb-8f68-ec0ad9a53ebc.png)",
+    "files": [
+        "https://enem.dev/2013/questions/70/dce94780-d6f5-40bb-8f68-ec0ad9a53ebc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que casal pode ser considerado como pais biológicos do bebê?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

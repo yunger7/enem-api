@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2021",
+    "index": 135,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.\n\nROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. **Química Nova na Escola**. n. 12, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um exemplo desse polímero é representado pela estrutura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/135/92f582f4-0041-4251-a9d7-8feabaaa8bfa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/135/1d579e5b-921a-4afb-90f1-49618e3a2269.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/135/94c80fa9-2e44-4853-8079-0ae4478a6016.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/135/33d1ee01-ba72-4108-97ce-5e4307659fff.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/135/99804a25-fcf0-4a95-be82-d601f1e98a33.png",
+            "isCorrect": false
+        }
+    ]
+}

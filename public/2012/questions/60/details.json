@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2012",
+    "index": 60,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o gráfico de posição (eixo vertical) em função do tempo (eixo horizontal) que representa o movimento desse trem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/60/f75fbb9b-e2dd-4abf-8796-5b2fc09bb90d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/60/5cac9f80-9281-4486-9340-9d99e77b59b1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/60/38bf386c-b484-4f24-aea8-c351b55ab365.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/60/d72eb90a-ce8b-401a-97ab-a62e182a6fd3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/60/ef17337d-941b-4a83-9815-a2c35a3999d9.png",
+            "isCorrect": false
+        }
+    ]
+}

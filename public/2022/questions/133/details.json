@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2022",
+    "index": 133,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar uma vacina contra a doença usando uma variação do protozoário incapaz de desencadear a patologia (não patogênico). Para isso, realizaram uma modificação genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser  \nvista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário.\n\nDisponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual o mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Autoimunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hipersensibilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ativação da resposta inata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentação de antígeno específico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desencadeamento de processo anti-inflamatório.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

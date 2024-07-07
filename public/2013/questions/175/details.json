@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2013",
+    "index": 175,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/175/eb855bec-d0a6-4b05-b8d8-fcff4deae0a7.png)\n\nA torre deve estar situada em um local equidistante das três antenas.",
+    "files": [
+        "https://enem.dev/2013/questions/175/eb855bec-d0a6-4b05-b8d8-fcff4deae0a7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O local adequado para a construção dessa torre corresponde ao ponto de coordenadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(65 ; 35).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(53 ; 30).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(45 ; 35).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(50 ; 20).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(50 ; 30).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

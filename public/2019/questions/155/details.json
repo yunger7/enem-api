@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2019",
+    "index": 155,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada\n\ncontra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor.\n\n**Disponível em:** www.oficinabrasil.com.br. Acesso em: 25 ago. 2014 (adaptado).\n\nApós uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação\n\n1: rolamento, 2: pastilha de freio, 3: caixa de direção, 4: catalisador e 5: amortecedor.\n\nAo final obteve-se a sequência; 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4,… que apresenta um padrão de formação que consiste na repetição de um bloco de números.\n\nEssa sequência descreve a ordem em que os produtos apreendidos foram cadastrados.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O 2.015º. item cadastrado foi um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Rolamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Catalisador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Amortecedor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pastilha de freio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Caixa de direção.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

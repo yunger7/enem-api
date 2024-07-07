@@ -1,0 +1,46 @@
+{
+    "title": "Questão 172 - ENEM 2023",
+    "index": 172,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.\n\n![](https://enem.dev/2023/questions/172/dcdd2743-6ad6-44e8-94ae-d2adec3a3400.png)\n\nObserve que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).\n\nUm professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.\n\n![](https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png)\n\nA partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
+    "files": [
+        "https://enem.dev/2023/questions/172/dcdd2743-6ad6-44e8-94ae-d2adec3a3400.png",
+        "https://enem.dev/2023/questions/172/8bd02f79-d5fb-4b8d-9321-c57434be3374.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0° < a < 90°",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A = 90°",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "90° < a < 180°",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A = 180°",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "180° < a < 360°",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

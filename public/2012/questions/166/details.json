@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2012",
+    "index": 166,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/166/acff0d62-4e1d-4eb6-b58a-a91804ba997c.png)\n\nem que QO é quantidade de oferta, QD é a quantidade de demanda e P é o preço do produto.\n\nA partir dessas equações, de oferta e de demanda, os economistas encontram o preço de equilíbrio de mercado, ou seja, quando QO e QD se igualam.",
+    "files": [
+        "https://enem.dev/2012/questions/166/acff0d62-4e1d-4eb6-b58a-a91804ba997c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para a situação descrita, qual o valor do preço de equilíbrio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "13",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "23",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "33",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

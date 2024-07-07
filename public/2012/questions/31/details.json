@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2012",
+    "index": 31,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Não ignoro a opinião antiga e muito difundida de que o que acontece no mundo é decidido por Deus e pelo acaso. Essa opinião é muito aceita em nossos dias, devido às grandes transformações ocorridas, e que ocorrem diariamente, as quais escapam à conjectura humana. Não obstante, para não ignorar inteiramente o nosso livre-arbítrio, creio que se pode aceitar que a sorte decida metade dos nossos atos, mas \\[o livre-arbítrio\\] nos permite o controle sobre a outra metade.\n\n_MAQUIAVEL, N. O Príncipe. Brasília: EdUnB, 1979 (adaptado)._",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em O Príncipe, Maquiavel refletiu sobre o exercício do poder em seu tempo. No trecho citado, o autor demonstra o vínculo entre o seu pensamento político e o humanismo renascentista ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Valorizar a interferência divina nos acontecimentos definidores do seu tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Rejeitar a intervenção do acaso nos processos políticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Afirmar a confiança na razão autônoma como fundamento da ação humana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Romper com a tradição que valorizava o passado como fonte de aprendizagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Redefinir a ação política com base na unidade entre fé e razão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

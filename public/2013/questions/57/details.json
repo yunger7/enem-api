@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2013",
+    "index": 57,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/57/c6f54e13-8d47-41f4-a0e5-ace29cfe3ee6.png)",
+    "files": [
+        "https://enem.dev/2013/questions/57/c6f54e13-8d47-41f4-a0e5-ace29cfe3ee6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Como a pressão atmosférica interfere no escoamento da água, nas situações com a garrafa tampada e destampada, respectivamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impede a saída de água, por ser maior que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Impede a saída de água, por ser maior que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Impede a entrada de ar, por ser menor que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impede a saída de água, por ser maior que a pressão interna; regula a velocidade de escoamento, que só depende da pressão atmosférica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Impede a entrada de ar, por ser menor que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

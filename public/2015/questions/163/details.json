@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2015",
+    "index": 163,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/163/eb67eda1-2354-45e8-a0a6-d6834a7bcf73.png)\n\nPara controle das aplicações, definiu-se a unidade de insulina como 0,01 mL. Antes de cada aplicação, é necessário descartar 2 unidades de insulina, de forma a retirar possíveis bolhas de ar.\n\nA um paciente foram prescritas duas aplicações diárias: 10 unidades de insulina pela manhã e 10 à noite.",
+    "files": [
+        "https://enem.dev/2015/questions/163/eb67eda1-2354-45e8-a0a6-d6834a7bcf73.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual o número máximo de aplicações por refil que o paciente poderá utilizar com a dosagem prescrita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

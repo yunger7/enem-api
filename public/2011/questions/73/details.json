@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2011",
+    "index": 73,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/73/7a672448-cb1e-4ddc-865b-4f7c201c7323.png)",
+    "files": [
+        "https://enem.dev/2011/questions/73/7a672448-cb1e-4ddc-865b-4f7c201c7323.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que a aceleração da gravidade local é de 10 m/s², a densidade da água do lago, em g/cm³, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2016",
+    "index": 176,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/176/61a544a6-f994-4313-812d-2c4b7e563cc8.png)",
+    "files": [
+        "https://enem.dev/2016/questions/176/61a544a6-f994-4313-812d-2c4b7e563cc8.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De 0 a 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De 5 a 10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "De 5 a 15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De 15 a 25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "De 0 a 25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

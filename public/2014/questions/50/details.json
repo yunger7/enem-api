@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2014",
+    "index": 50,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "É comum aos fotógrafos tirar fotos coloridas em ambiente iluminados por lampadas fluorescentes, que contêm uma forte composição de luz verde. A consequências desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica. Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.\n\nDisponível em:http://nautilus.fis.uc.pt. Acesso em 20 maio 2014 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ciano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Amarelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Magenta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Vermelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2023",
+    "index": 96,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCI,. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCI, 2H,0. Considere a massa molar da água igual a 18 g mol-1, e a massa molar do cloreto de cálcio anidro igual a 111 g mol-1.\nNa hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "32%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "75%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

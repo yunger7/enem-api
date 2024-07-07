@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2018",
+    "index": 77,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações  \nsuperficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”.\n\nWEIBEL, L. Disponível em: http://biblioteca.ibge.gov.br. Acesso em: 8jul. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual tipo climático favorece o processo de alteração do solo descrito no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Árido, com déficit hídrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Subtropical, com baixas temperaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Temperado, com invernos frios e secos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tropical, com sazonalidade das chuvas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Equatorial, com pluviosidade abundante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

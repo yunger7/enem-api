@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2014",
+    "index": 72,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/72/ed8bebb8-7333-4efd-9b4e-6b2f639dbd0f.png)",
+    "files": [
+        "https://enem.dev/2014/questions/72/ed8bebb8-7333-4efd-9b4e-6b2f639dbd0f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Esquerda e o ímã para a direita com polaridade invertida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Direita e o ímã para a esquerda com polaridade invertida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Esquerda e o ímã para a esquerda com mesma polaridade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Direita e manter o ímã em repouso com polaridade invertida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Esquerda e manter o ímã em repouso com mesma polaridade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

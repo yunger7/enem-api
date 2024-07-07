@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2011",
+    "index": 82,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os vaga-lumes machos e fêmeas emitem sinais luminosos para se atraírem para o acasalamento. O macho reconhece a fêmea de sua espécie e, atraído por ela, vai ao seu encontro. Porém, existe um tipo de vaga-lume, o _Photuris_, cuja fêmea engana e atrai os machos de outro tipo, o _Photinus_, fingindo ser deste gênero. Quando o macho _Photinus_ se aproxima da fêmea _Photuris_, muito maior que ele, é atacado e devorado por ela.\n\nBERTOLDI, O. G.; VASCONCELLOS, J. R. **Ciência & sociedade**: a aventura da vida,  \na aventura da tecnologia. São Paulo: Scipione, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A relação descrita no texto, entre a fêmea do gênero Photuris e o macho do gênero Photinus, é um exemplo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comensalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inquilinismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cooperação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Predatismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Mutualismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

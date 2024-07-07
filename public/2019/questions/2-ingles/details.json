@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2019",
+    "index": 2,
+    "year": 2019,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "LETTER TO THE EDITOR: Sugar fear-mongering unhelpful\n\nBy The Washington Times Tuesday, June 25, 2013\n\nIn his recent piece “Is obesity a disease?” (Web, June 19), Dr. Peter Lind refers to high-fructose corn syrup and other “manufactured sugars” as “poison” that will “guarantee storage of fat in the body.” Current scientific research strongly indicates that obesity results from excessive calorie intake combined with a sedentary lifestyle. The fact is Americans are consuming more total calories now than ever before. According to the U.S. Department of Agriculture, our total per-capita daily caloric intake increased by 22 percent from 2,076 calories per day in 1970 to 2,534 calories per day in 2010 — an additional 458 calories, only 34 of which come from increased added sugar intake. A vast majority of these calories come from increased fats and flour/ cereals. Surprisingly, the amount of caloric sweeteners (i.e. sugar, high-fructose, corn syrup, honey, etc.). Americans consume has actually decreased over the past decade. We need to continue to study the obesity epidemic to see what more can be done, but demonizing one specific ingredient accomplishes nothing and raises unnecessary fears that get in the way of real solutions.\n\nJAMES M. RIPPE Shrewsbury, Mass.\n\n<p style=”text-align: right;”><strong>Dispon&iacute;vel em:</strong> www.washingtontimes.com. Acesso em: 29 jul. 2013 (adaptado).</p>",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao abordar o assunto “obesidade”, em uma seção de jornal, o autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Defende o consumo liberado de açúcar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aponta a gordura como o grande vilão da saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Demonstra acreditar que a obesidade não é preocupante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Indica a necessidade de mais pesquisas sobre o assunto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Enfatiza a redução de ingestão de calorias pelos americanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

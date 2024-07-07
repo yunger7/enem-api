@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2011",
+    "index": 22,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Até que ponto, a partir de posturas e interesses diversos, as oligarquias paulista e mineira dominaram a cena política nacional na Primeira República? A união de ambas foi um traço fundamental, mas que não conta toda a história do período. A união foi feita com a preponderância de uma ou de outra das duas frações. Com o tempo, surgiram as discussões e um grande desacerto final.\n\nFAUSTO, B. História do Brasil. São Paulo: EdUSP, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para a caracterização do processo político durante a Primeira República, utiliza-se com frequência a expressão Política do Café com Leite. No entanto, os textos apresentam a seguinte ressalva a sua utilização:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A riqueza gerada pelo café dava à oligarquia paulista a prerrogativa de indicar os candidatos à presidência, sem necessidade de alianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As divisões políticas internas de cada estado da federação invalidavam o uso do conceito de aliança entre estados para este período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As disputas políticas do período contradiziam a suposta estabilidade da aliança entre mineiros e paulistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A centralização do poder no executivo federal impedia a formação de uma aliança duradoura entre as oligarquias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A diversificação da produção e a preocupação com o mercado interno unificavam os interesses das oligarquias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

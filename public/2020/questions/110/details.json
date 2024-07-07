@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2020",
+    "index": 110,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A nanotecnologia pode ser caracterizada quando os compostos estão na ordem de milionésimos de milímetros, como na utilização de nanomateriais catalíticos nos processos industriais. O uso desses materiais aumenta a eficiência da produção, consome menos energia e gera menores quantidades de resíduos. O sucesso dessa aplicação tecnológica muitas vezes está relacionado ao aumento da velocidade da reação química envolvida.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O êxito da aplicação dessa tecnologia é por causa da realização de reações químicas que ocorrem em condições de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alta pressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alta temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Excesso de reagentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior superfície de contato.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Elevada energia de ativação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

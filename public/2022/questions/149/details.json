@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2022",
+    "index": 149,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.\n\n![](https://enem.dev/2022/questions/149/d92eba46-c91d-43d9-accf-ec06c4506ac1.png)",
+    "files": [
+        "https://enem.dev/2022/questions/149/d92eba46-c91d-43d9-accf-ec06c4506ac1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número que representa a mediana da quantidade de crianças por família nessa região é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

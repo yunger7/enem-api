@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2016",
+    "index": 45,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016/questions/45/ba036fce-0675-43b4-805e-3ad9e5131264.png)",
+    "files": [
+        "https://enem.dev/2016/questions/45/ba036fce-0675-43b4-805e-3ad9e5131264.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma consequência socioeconômica para os países que vivenciam o fenômeno demográfico ilustrado é a diminuição da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Oferta de mão de obra nacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Média de expectativa de vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Disponibilidade de serviços de saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Despesa de natureza previdenciária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Imigração de trabalhadores qualificados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2015",
+    "index": 58,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epóxi, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.\n\nSANTANA, V. M. S. A leitura e a química das substâncias. **Cadernos PDE**. Ivaiporã: Secretaria de Estado da Educação do Paraná (SEED); Universidade Estadual de Londrina, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Comprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

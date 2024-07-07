@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2012",
+    "index": 157,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "37",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "51",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "88",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "89",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "91",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

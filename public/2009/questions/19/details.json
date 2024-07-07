@@ -1,0 +1,46 @@
+{
+    "title": "Questão 19 - ENEM 2009",
+    "index": 19,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/19/ce14eccd-b5dd-4dde-a5a6-2e163d72fec9.png)\n\nA escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m²) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência.\n\n![](https://enem.dev/2009/questions/19/9747c953-2a43-411f-b7ee-49a4e4fd6429.png)",
+    "files": [
+        "https://enem.dev/2009/questions/19/ce14eccd-b5dd-4dde-a5a6-2e163d72fec9.png",
+        "https://enem.dev/2009/questions/19/9747c953-2a43-411f-b7ee-49a4e4fd6429.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em watts, será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.070.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4.270.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.320.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.390.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4.470.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

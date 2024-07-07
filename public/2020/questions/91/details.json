@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2020",
+    "index": 91,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png)\n\nDAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.",
+    "files": [
+        "https://enem.dev/2020/questions/91/2b4a24ac-8976-46b5-8eb0-67c6db97515d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Por qual motivo ocorre a eletrização ilustrada na tirinha?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Troca de átomos entre a calça e os pelos do gato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminuição do número de prótons nos pelos do gato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Criação de novas partículas eletrizadas nos pelos do gato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Movimentação de elétrons entre a calça e os pelos do gato.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Repulsão entre partículas elétricas da calça e dos pelos do gato.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

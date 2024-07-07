@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2023",
+    "index": 122,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.\nNo processo de concentração do produto, é utilizada energia proveniente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Somente do calor latente de vaporização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Somente do calor latente de condensação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Do calor sensível e do calor latente de vaporização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Do calor sensível e do calor latente de condensação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Do calor latente de condensação e do calor latente de vaporização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

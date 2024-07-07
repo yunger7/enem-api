@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2010",
+    "index": 43,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um banco inglês decidiu cobrar de seus clientes cinco libras toda vez que recorressem aos funcionários de suas agências. E o motivo disso é que, na verdade, não querem clientes em suas agências; o que querem é reduzir o número de agências, fazendo com que os clientes usem as máquinas automáticas em todo o tipo de transações. Em suma, eles querem se livrar de seus funcionários.\n\nHOBSBAWM, E. O novo século. São Paulo: Companhia das Letras,  \n2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O exemplo mencionado permite identificar um aspecto da adoção de novas tecnologias na economia capitalista contemporânea. Um argumento utilizado pelas empresas e uma consequência social de tal aspecto estão em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Qualidade total e estabilidade no trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pleno emprego e enfraquecimento dos sindicatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição dos custos e insegurança no emprego.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Responsabilidade social e redução do desemprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maximização dos lucros e aparecimento de empregos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2010",
+    "index": 20,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quem construiu a Tebas de sete portas?  \nNos livros estão nomes de reis.  \nArrastaram eles os blocos de pedra?  \nE a Babilônia várias vezes destruída. Quem a reconstruiu tantas vezes?  \nEm que casas da Lima dourada moravam os construtores?  \nPara onde foram os pedreiros, na noite em que a Muralha  \nda China ficou pronta?  \nA grande Roma está cheia de arcos do triunfo.  \nQuem os ergueu? Sobre quem triunfaram os césares?\n\nBRECHT, B. Perguntas de um trabalhador que lê.  \nDisponível em: http://recantodasletras.uol.com.br. Acesso em:  \n28 abr. 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Partindo das reflexões de um trabalhador que lê um livro de História, o autor censura a memória construída sobre determinados monumentos e acontecimentos históricos. A crítica refere-se ao fato de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os agentes históricos de uma determinada sociedade deveriam ser aqueles que realizaram feitos heroicos ou grandiosos e, por isso, ficaram na memória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A História deveria se preocupar em memorizar os nomes de reis ou dos governantes das civilizações que se desenvolveram ao longo do tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Grandes monumentos históricos foram construídos por trabalhadores, mas sua memória está vinculada aos governantes das sociedades que os construíram.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Os trabalhadores consideram que a História é uma ciência de difícil compreensão, pois trata de sociedades antigas e distantes no tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As civilizações citadas no texto, embora muito importantes, permanecem sem terem sido alvos de pesquisas históricas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

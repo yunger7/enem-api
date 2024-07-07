@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2021",
+    "index": 112,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os búfalos são animais considerados rústicos pelos criadores e, por isso, são deixados no campo sem controle reprodutivo. Por causa desse tipo de criação, a consanguinidade é favorecida, proporcionando o aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas.\n\nDAME,M. C. F. RIET-CORREA, F: SCHILF, A. L; **Pesq. Vet. Bras.**, n. 7. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual procedimento biotecnológico prévio é recomendado nessa situação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Transgenia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Terapia gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Vacina de DNA.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Clonagem terapêutica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mapeamento genético.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

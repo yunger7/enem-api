@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2013",
+    "index": 152,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/152/71519410-35b4-4dde-b1af-d908a8fa58cf.png)\n\nA função real que expressa a parábola, no plano cartesiano da figura, é dada pela lei ![](https://enem.dev/2013/questions/152/85174ec3-b696-45a5-afb4-1ad4fe440d34.png) onde C é a medida da altura do líquido contido na taça,  em centímetros. Sabe-se que o ponto V, na figura, representa o vértice da parábola, localizado sobre o eixo x.",
+    "files": [
+        "https://enem.dev/2013/questions/152/71519410-35b4-4dde-b1af-d908a8fa58cf.png",
+        "https://enem.dev/2013/questions/152/85174ec3-b696-45a5-afb4-1ad4fe440d34.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessas condições, a altura do líquido contido na taça, em centímetros, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

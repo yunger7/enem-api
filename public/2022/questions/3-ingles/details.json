@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2022",
+    "index": 3,
+    "year": 2022,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png)",
+    "files": [
+        "https://enem.dev/2022/questions/3-ingles/c2b657cf-791f-4472-ba79-e9690d806785.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa tirinha, o comportamento da mulher expressa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Revolta com a falta de sorte",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Gosto pela prática da leitura",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Receio pelo futuro do casamento",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entusiasmo com os livros de terror",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rejeição ao novo tipo de residência",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

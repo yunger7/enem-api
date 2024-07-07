@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2012",
+    "index": 146,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/146/f3712744-381c-4ed8-8f20-86b3e9a52be9.png)\n\nUma jogada consiste em:\n\n1º) o jogador apresenta um palpite sobre a cor da bola que será retirada por ele da urna 2;\n\n2º) ele retira, aleatoriamente, uma bola da urna 1 e a coloca na urna 2, misturando-a com as que lá estão;\n\n3º) em seguida ele retira, também aleatoriamente, uma bola da urna 2;\n\n4º) se a cor da última bola retirada for a mesma do palpite inicial, ele ganha o jogo.",
+    "files": [
+        "https://enem.dev/2012/questions/146/f3712744-381c-4ed8-8f20-86b3e9a52be9.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual cor deve ser escolhida pelo jogador para que ele tenha a maior probabilidade de ganhar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Branca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermelha.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

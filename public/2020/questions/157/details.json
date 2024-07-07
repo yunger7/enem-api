@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2020",
+    "index": 157,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Amigo secreto é uma brincadeira tradicional nas festas de fim de ano. Um grupo de amigos se reúne e cada um deles sorteia o nome da pessoa que irá presentear. No dia da troca de presentes, uma primeira pessoa presenteia seu amigo secreto. Em seguida, o presenteado revela seu amigo secreto e o presenteia. A brincadeira continua até que todos sejam presenteados, mesmo no caso em que o ciclo se fecha. Dez funcionários de uma empresa, entre eles um casal, participarão de um amigo secreto. A primeira pessoa a revelar será definida por sorteio.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a probabilidade de que a primeira pessoa a revelar o seu amigo secreto e a última presenteada sejam as duas pessoas do casal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/157/11963c8b-6d88-40b5-b189-58c6ea572472.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/157/a3ce0158-40d5-4e6e-b25e-399f3cc4aef3.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/157/c97483d0-179e-4411-9ea7-d2e2a997439a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/157/4e85053e-beba-4bc7-a878-b526b4ed5291.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/157/fab55269-3063-4362-b2e0-8bf56dfaf3e2.png",
+            "isCorrect": false
+        }
+    ]
+}

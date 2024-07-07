@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2023",
+    "index": 44,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/broken-image.svg)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa campanha publicitária do Ministério da Saúde visa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Divulgar um conjunto de benefícios proporcionados pela amamentação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Apresentar tratamentos para infecções respiratórias em bebês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Defender o direito das mulheres de amamentar em público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Orientar sobre os exercícios para uma boa amamentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Informar sobre o aumento de anticorpos nas mães.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

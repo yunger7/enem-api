@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2021",
+    "index": 169,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O instrumento da percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.\n\n![](https://enem.dev/2021/questions/169/d9c2223e-0155-480d-bfd2-0d0fd39cb200.png)\n\nUma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de uma triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.\n\nConsidere 1,7 como valor aproximado para √3.\n\nNessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é",
+    "files": [
+        "https://enem.dev/2021/questions/169/d9c2223e-0155-480d-bfd2-0d0fd39cb200.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9,07.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "13,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20,40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "27,18.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "36,24.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 66 - ENEM 2013",
+    "index": 66,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/66/3cd13166-7677-4ab2-9645-ac6c5d401cac.png)",
+    "files": [
+        "https://enem.dev/2013/questions/66/3cd13166-7677-4ab2-9645-ac6c5d401cac.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Por qual montagem o açougueiro deve optar e qual a justificativa desta opção?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

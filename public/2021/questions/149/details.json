@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2021",
+    "index": 149,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A receita R de uma empresa ao final de um mês é o volume de dinheiro captado com a venda de mercadorias ou com a prestação de serviços nesse mês, e a despesa D é todo a dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa registradas no mês. O gráfico apresenta as receitas e despesas, em milhão de real, de uma empresa ao final dos cinco primeiros meses de um dado ano\n\n![](https://enem.dev/2021/questions/149/2586c4f9-b00d-4ccf-8828-8e86a105d85b.png)",
+    "files": [
+        "https://enem.dev/2021/questions/149/2586c4f9-b00d-4ccf-8828-8e86a105d85b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A previsão para os próximos meses é que o lucro mensal não seja inferior ao maior lucro obtido até o mês de Maio.\nNessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do mês de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fevereiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Março.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

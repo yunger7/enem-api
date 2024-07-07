@@ -1,0 +1,45 @@
+{
+    "title": "Questão 71 - ENEM 2015",
+    "index": 71,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/71/92259437-a0d4-4aef-89fb-239bfdf8d060.png)",
+    "files": [
+        "https://enem.dev/2015/questions/71/92259437-a0d4-4aef-89fb-239bfdf8d060.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25 oC, qual é o valor numérico da constante de equilíbrio da reação I?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,5x10-26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5x105",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,8x10-9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,2x105",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,2x1026",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

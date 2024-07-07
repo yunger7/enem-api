@@ -1,0 +1,45 @@
+{
+    "title": "Questão 156 - ENEM 2023",
+    "index": 156,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:\n\n![](https://enem.dev/2023/questions/156/e9e0b793-5535-48e6-87c6-5516e6d7c8cd.png)",
+    "files": [
+        "https://enem.dev/2023/questions/156/e9e0b793-5535-48e6-87c6-5516e6d7c8cd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

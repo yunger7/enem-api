@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2014",
+    "index": 138,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/138/3fe2669a-4174-4db9-a85e-cee6c877f765.png)\n\nOs resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.\n\nA campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2014/questions/138/3fe2669a-4174-4db9-a85e-cee6c877f765.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As regiões brasileiras onde foram intensificadas campanhas na época são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Norte, Centro-Oeste e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Norte, Nordeste e Sudeste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Nordeste, Norte e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Nordeste, Sudeste e Sul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Centro-Oeste, Sul e Sudeste.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

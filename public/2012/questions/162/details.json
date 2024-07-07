@@ -1,0 +1,46 @@
+{
+    "title": "Questão 162 - ENEM 2012",
+    "index": 162,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/162/bd217549-d00a-441a-8605-f2ae4d33bd87.png)\n\nNeste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela.\n\n![](https://enem.dev/2012/questions/162/669dd1ca-6db2-4e87-a39c-808c517fc32e.png)",
+    "files": [
+        "https://enem.dev/2012/questions/162/bd217549-d00a-441a-8605-f2ae4d33bd87.png",
+        "https://enem.dev/2012/questions/162/669dd1ca-6db2-4e87-a39c-808c517fc32e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

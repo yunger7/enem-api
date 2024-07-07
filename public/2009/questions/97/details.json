@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2009",
+    "index": 97,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2009/questions/97/21bc16d2-a579-454e-ade1-28f57b52d15d.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/97/21bc16d2-a579-454e-ade1-28f57b52d15d.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto tem o objetivo de solucionar um problema social,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Descrevendo a situação do país em relação à gripe suína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alertando a população para o risco de morte pela Influenza A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informando a população sobre a iminência de uma pandemia de Influenza A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Orientando a população sobre os sintomas da gripe suína e procedimentos para evitar a contaminação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Convocando toda a população para se submeter a exames de detecção da gripe suína.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

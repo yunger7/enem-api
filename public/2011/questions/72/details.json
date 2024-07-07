@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2011",
+    "index": 72,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/72/a3993cf9-e8c8-4700-b189-e277ad950809.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/72/a3993cf9-e8c8-4700-b189-e277ad950809.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Carboxila do ácido cólico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aldeído do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Hidroxila do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cetona do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Éster do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

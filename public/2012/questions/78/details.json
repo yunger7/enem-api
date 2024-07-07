@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2012",
+    "index": 78,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os freios ABS são uma importante medida de segurança no trânsito, os quais funcionam para impedir o travamento das rodas do carro quando o sistema de freios é acionado, liberando as rodas quando estão no limiar do deslizamento. Quando as rodas travam, a força de frenagem é governada pelo atrito cinético.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As representações esquemáticas da força de atrito fat entre os pneus e a pista, em função da pressão ρ aplicada no pedal de freio, para carros sem ABS e com ABS, respectivamente, são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/78/642f46b9-6a48-4788-9c92-c6340a3c832e.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/78/47d7b6a2-f129-4456-9946-966f51f21323.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/78/8306a37e-6f93-45c8-984a-6190441316d6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/78/19c51806-866c-4272-9984-258e22b08a90.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/78/75781572-77f0-459a-b554-17642fa454d9.png",
+            "isCorrect": false
+        }
+    ]
+}

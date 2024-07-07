@@ -1,0 +1,45 @@
+{
+    "title": "Questão 55 - ENEM 2014",
+    "index": 55,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observe o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).\n\n![](https://enem.dev/2014/questions/55/e18f6b82-0ea7-4110-974b-632768f2c555.png)\n\nNessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.",
+    "files": [
+        "https://enem.dev/2014/questions/55/e18f6b82-0ea7-4110-974b-632768f2c555.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "69120.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "17280.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11520.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "8640.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2880.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

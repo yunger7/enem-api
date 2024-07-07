@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2013",
+    "index": 176,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/176/38cb8424-5409-40d1-bed1-ccff111fb5ea.png)\n\nNela identifica-se a representação de duas figuras geométricas tridimensionais.",
+    "files": [
+        "https://enem.dev/2013/questions/176/38cb8424-5409-40d1-bed1-ccff111fb5ea.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essas figuras são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Um tronco de cone e um cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Um cone e um cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um tronco de pirâmide e um cilindro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dois troncos de cone.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Dois cilindros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

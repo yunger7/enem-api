@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2013",
+    "index": 148,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem  \ne no funcionamento da suspensão do veículo, causas frequentes de acidentes.\n\nCiente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1 500 telhas ou 1 200 tijolos.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300 tijolos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "360 tijolos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "400 tijolos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "480 tijolos",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "600 tijolos",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

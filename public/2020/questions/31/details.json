@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2020",
+    "index": 31,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Mulher tem coração clinicamente partido após morte de cachorro**\n\nComo explica o _The New England Journal of Medicine_, a paciente, chamada Joanie Simpson, tinha sinais de infarto, como dores no peito e pressão alta, e apresentava problemas nas artérias coronárias. Ao fazerem um ecocardiograma, os médicos encontraram o problema: cardiomiopatia de Takotsubo, conhecido como síndrome do coração partido.\n\nEssa condição médica tipicamente acontece com mulheres em fase pós-menstrual e pode ser precedida por um evento muito estressante ou emotivo. Nesses casos, o coração apresenta um movimento discinético transitório da parede anterior do ventrículo esquerdo, com acentuação da cinética da base ventricular, de acordo com um artigo médico brasileiro que relata um caso semelhante. Simpson foi encaminhada para casa após dois dias e passou a tomar medicamentos regulares.\n\nAo _Washington Post_, ela contou que estava quase inconsolável após a perda do seu animal de estimação, um cão de raça yorkshire terrier. Recuperada após cerca de um ano, ela diz que não abrirá mão de ter um animal de estimação porque aprecia a companhia e o amor que os cachorros dão os humanos. O caso aconteceu em Houston, nos Estados Unidos.\n\nDisponível em: https://exame.abril.com.br. Acesso em: 1 dez. 2017.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Pelas características do texto lido, que trata das consequências da perda de um animal de estimação, considera-se que ele se enquadra no gênero",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conto, pois exibe a história de vida de Joanie Simpson.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Depoimento, pois expõe o sofrimento da dona do animal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reportagem, pois discute cientificamente a cardiomiopatia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relato, pois narra um fato estressante vivido pela paciente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Notícia, pois divulga fatos sobre a síndrome do coração partido.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2023",
+    "index": 114,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s2. Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e c assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s2, as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.\n\n![](https://enem.dev/2023/questions/114/e245e16d-8a95-4b2e-ab33-6dd299ff9474.png)",
+    "files": [
+        "https://enem.dev/2023/questions/114/e245e16d-8a95-4b2e-ab33-6dd299ff9474.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1 400 e T2 = 0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e T2 = 960.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e T2 = 1 040.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

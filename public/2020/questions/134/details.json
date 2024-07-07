@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2020",
+    "index": 134,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera  \na necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm–3, um investidor negocia a aquisição  \nde um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme  \nesquematizado.\n\n![](https://enem.dev/2020/questions/134/7910dbb6-4184-4a58-96eb-1068360a01b3.png)",
+    "files": [
+        "https://enem.dev/2020/questions/134/7910dbb6-4184-4a58-96eb-1068360a01b3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nos dados obtidos, o investidor adquiriu as moedas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A e B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "B e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "B e D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "C e D.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2013",
+    "index": 15,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na produção social que os homens realizam, eles entram em determinadas relações indispensáveis e independentes de sua vontade; tais relações de produção correspondem a um estágio definido de desenvolvimento das suas forças materiais de produção. A totalidade dessas relações constitui a estrutura econômica da sociedade — fundamento real, sobre o qual se erguem as superestruturas política e jurídica, e ao qual correspondem determinadas formas de consciência social.\n\n_MARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. Textos 3. São Paulo: Edições Sociais, 1977 (adaptado)._",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para o autor, a relação entre economia e política estabelecida no sistema capitalista faz com que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O proletariado seja contemplado pelo processo de mais-valia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O trabalho se constitua como o fundamento real da produção material.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A consolidação das forças produtivas seja compatível com o progresso humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A autonomia da sociedade civil seja proporcional ao desenvolvimento econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A burguesia revolucione o processo social de formação da consciência de classe.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2013",
+    "index": 140,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png)",
+    "files": [
+        "https://enem.dev/2013/questions/140/085223cd-1821-447a-a43f-41a21e311320.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A, A, A, A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A, B, A, B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A, B, B, A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "B, A, A, B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "B, B, B, B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2016",
+    "index": 130,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "É possível considerar as modalidades esportivas coletivas dentro de uma mesma lógica, pois possuem uma estrutura comum: seis princípios operacionais divididos em dois grupos, o ataque e a defesa. Os três princípios operacionais de ataque são: conservação individual e coletiva da bola, progressão da equipe com a posse da bola em direção ao alvo adversário e finalização da jogada, visando a obtenção de ponto. Os três princípios operacionais da defesa são: recuperação da bola, impedimento do avanço da equipe contrária com a posse da bola e proteção do alvo para impedir a finalização da equipe adversária.\n\nDAOLIO, J. Jogos esportivos coletivos: dos princípios operacionais aos gestos técnicos –  \nmodelo pendular a partir das ideias de Claude Bayer. **Revista Brasileira de Ciência e Movimento**,  \nout. 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando os princípios expostos no texto, o drible no handebol caracteriza o princípio de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recuperação da bola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Progressão da equipe.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Finalização da jogada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Proteção do próprio alvo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Impedimento do avanço adversário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

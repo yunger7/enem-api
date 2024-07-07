@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2023",
+    "index": 169,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo ![](https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png) a intensidade na sua superfície.\n\n![](https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png)\n\nConsidere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+    "files": [
+        "https://enem.dev/2023/questions/169/76239f15-d46d-4067-bb38-bb40ca2f87c0.png",
+        "https://enem.dev/2023/questions/169/3af229c8-e385-4ca2-891a-22bdf6b2d593.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/0ad62fa9-ccdd-40b7-95e6-024319a5c9bc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/74afb699-867b-4b47-8fa9-9c0fddd6db14.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/23fe5ab4-dc1d-4693-8a62-c17abdd5c5cb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/9394f679-b291-4e10-9384-b1f2c2dba975.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/169/5037e73b-aa7f-43fd-baa8-4f70d9f0f498.png",
+            "isCorrect": false
+        }
+    ]
+}

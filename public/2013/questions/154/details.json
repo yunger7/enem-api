@@ -1,0 +1,46 @@
+{
+    "title": "Questão 154 - ENEM 2013",
+    "index": 154,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/154/38290d8c-ee46-47f1-aaed-8518bc60fe1a.png)\n\nonde m1 e m2 correspondem às massas dos corpos, _d_ à distância entre eles, _G_ à constante universal da gravitação e _F_ à força que um corpo exerce sobre o outro.\n\nO esquema representa as trajetórias circulares de cinco satélites, de mesma massa, orbitando a Terra.\n\n![](https://enem.dev/2013/questions/154/e34b89e1-90df-47ef-bc5d-2eea3ebb4e65.png)",
+    "files": [
+        "https://enem.dev/2013/questions/154/38290d8c-ee46-47f1-aaed-8518bc60fe1a.png",
+        "https://enem.dev/2013/questions/154/e34b89e1-90df-47ef-bc5d-2eea3ebb4e65.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual gráfico expressa as intensidades das forças que a Terra exerce sobre cada satélite em função do tempo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/154/f711d5a2-7042-4918-86ec-97bcff750472.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/154/5e803db9-7db7-41b2-acdc-549a1dd0b2dd.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/154/88dc6559-bbfa-41fd-bc11-973ddfc7d4e3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/154/d404d377-17c5-4e8f-a946-965528114b43.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/154/4c8643e0-20cf-4d31-ae07-25365020362b.png",
+            "isCorrect": false
+        }
+    ]
+}

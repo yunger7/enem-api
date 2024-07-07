@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2019",
+    "index": 12,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019/questions/12/cbc6cd51-59ad-446d-823e-2bd9c979d5a1.png)\n\n**TEXTO II**\n\n**Quadrinista surda faz sucesso na CCXP com narrativas silenciosas**\n\nA área de artistas independentes da Comic Con Experience (CCXP) deste ano é a maior da história do evento geek, são mais de 450 quadrinistas e ilustradores no Artists’ Alley.\n\nE a diversidade vai além do estilo das HQ. Em uma das mesas na fila F, senta a quadrinista com deficiência auditiva Ju Loyola, com suas histórias que classifica como “narrativas silenciosas”. São histórias que podem ser compreendidas por crianças e adultos, e pessoas de qualquer nacionalidade, pelo simples motivo de não terem uma única palavra.\n\nA artista não escreve roteiros convencionais para suas obras. Sua experiência de ter que entender a comunicação pelo que vê faz com que ela se identifique muito mais com o que observa do que com o que as pessoas dizem.\n\nE basta folhear suas obras que fica claro que elas não são histórias em quadrinhos que perderam as palavras, mas sim que ganharam uma nova perspectiva.\n\n**Disponível em:** https://catracalivre.com.br. Acesso em: 8 dez. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/12/cbc6cd51-59ad-446d-823e-2bd9c979d5a1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O Texto I exemplifica a obra de uma artista surda, que promove uma experiência de leitura inovadora, divulgada no Texto II. Independentemente de seus objetivos, ambos os textos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Incentivam a produção de roteiros compostos por imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Colaboram para a valorização de enredos românticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Revelam o sucesso de um evento de cartunistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contribuem com o processo de acessibilidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Questionam o padrão tradicional das HQ.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

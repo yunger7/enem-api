@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2009",
+    "index": 145,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O controle de qualidade de uma empresa fabricante de telefones celulares aponta que a probabilidade de um aparelho de determinado modelo apresentar defeito de fabricação é de 0,2%. Se uma loja acaba de vender 4 aparelhos desse modelo para um cliente, qual é a probabilidade de esse cliente sair da loja com exatamente dois aparelhos defeituosos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 × (0,2%)4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 × (0,2%)2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 × (0,2%)2  × (99,8%)2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4 × (0,2%).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 × (0,2%) × (99,8%).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

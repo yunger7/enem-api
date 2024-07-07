@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2017",
+    "index": 116,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Visando explicar uma das propriedades da membrana plasmática, fusionou-se uma célula de camundongo com uma célula humana, formando uma célula híbrida. Em seguida, com o intuito de marcar as proteínas de membrana, dois anticorpos foram inseridos no experimento, um específico para as proteínas de membrana do camundongo e outro para as proteínas de membrana humana. Os anticorpos foram visualizados ao microscópio por meio de fluorescência de cores diferentes.\n\n![](https://enem.dev/2017/questions/116/40eeb203-2784-4815-91a7-0daaa4bee826.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/116/40eeb203-2784-4815-91a7-0daaa4bee826.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A mudança observada da etapa 3 para a etapa 4 do experimento ocorre porque as proteínas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Movimentam-se livremente no plano da bicamada lipídica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Permanecem confinadas em determinadas regiões da bicamada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Auxiliam o deslocamento dos fosfolipídios da membrana plasmática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "São mobilizadas em razão da inserção de anticorpos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "São bloqueadas pelos anticorpos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

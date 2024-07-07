@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2015",
+    "index": 97,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O _rap_, palavra formada pelas iniciais de _rhythm and poetry_ (ritmo e poesia), junto com as linguagens da dança (o _break dancing_) e das artes plásticas (o grafite), seria difundido, para além dos guetos, com o nome de cultura _hip hop_. O _break dancing_ surge como uma dança de rua. O grafite nasce de assinaturas inscritas pelos jovens com _sprays_ nos muros, trens e estações de metrô de Nova York. As linguagens do _rap_, do _break dancing_ e do grafite se tornaram os pilares da cultura _hip hop_.\n\nDAYRELL, J. **A música entra em cena**: o rap e o funk na socialização da juventude. Belo Horizonte: UFMG, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Entre as manifestações da cultura hip hop apontadas no texto, o break se caracteriza como um tipo de dança que representa aspectos contemporâneos por meio de movimentos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Retilíneos, como crítica aos indivíduos alienados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Improvisados, como expressão da dinâmica da vida urbana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Suaves, como sinônimo da rotina dos espaços públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ritmados pela sola dos sapatos, como símbolo de protesto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cadenciados, como contestação às rápidas mudanças culturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

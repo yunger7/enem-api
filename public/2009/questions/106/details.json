@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2009",
+    "index": 106,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A partir da metade do século XX, ocorreu um conjunto de transformações econômicas e sociais cuja dimensão é difícil de ser mensurada: a chamada explosão da informação. Embora essa expressão tenha surgido no contexto da informação científica e tecnológica, seu significado, hoje, em um contexto mais geral, atinge proporções gigantescas.  \nPor estabelecerem novas formas de pensamento e mesmo de lógica, a informática e a Internet vêm gerando impactos sociais e culturais importantes. A disseminação do microcomputador e a expansão da Internet vêm acelerando o processo de globalização tanto no sentido do mercado quanto no sentido das trocas simbólicas possíveis entre sociedades e culturas diferentes, o que tem provocado e acelerado o fenômeno de hibridização amplamente caracterizado como próprio da pós-modernidade.\n\nFERNANDES, M. F.; PARÁ, T. **A contribuição das novas tecnologias da informação na geração de conhecimento.** Disponível em: http://www.coep.ufrj.br.  \nAcesso em: 11 ago. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se o novo contexto social e econômico aludido no texto apresentado, as novas tecnologias de informação e comunicação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desempenham importante papel, porque sem elas não seria possível registrar os acontecimentos históricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Facilitam os processos educacionais para ensino de tecnologia, mas não exercem influência nas ciências humanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Limitam-se a dar suporte aos meios de comunicação, facilitando sobretudo os trabalhos jornalísticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contribuem para o desenvolvimento social, pois permitem o registro e a disseminação do conhecimento de forma mais democrática e interativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Estão em estágio experimental, particularmente na educação, área em que ainda não demonstraram potencial produtivo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

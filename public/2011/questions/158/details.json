@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2011",
+    "index": 158,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/158/1780f953-427b-4344-9cc8-3fc8908f62b0.png)\n\nConsidere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh.",
+    "files": [
+        "https://enem.dev/2011/questions/158/1780f953-427b-4344-9cc8-3fc8908f62b0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A diferença entre o gasto desses consumidores com 1kWh, depois da redução da tarifa de energia, mais aproximada, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 0,27.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 0,29.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 0,32.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 0,34.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 0,61.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

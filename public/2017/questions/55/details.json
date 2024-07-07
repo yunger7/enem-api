@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2017",
+    "index": 55,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O desgaste acelerado sempre existirá se o agricultor não tiver o devido cuidado de combater as causas, relacionadas a vários processos, tais como: empobrecimento químico e lixiviação provocados pelo esgotamento causado pelas colheitas e pela lavagem vertical de nutrientes da água que se infiltra no solo, bem como pela retirada de elementos nutritivos com as colheitas. Os nutrientes retirados, quando não repostos, são comumente substituídos por elementos tóxicos, como, por exemplo, o alumínio.\n\nLEPSCH, I. **Formação e conservação dos solos.** São Paulo: Oficina de Textos, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A dinâmica ambiental exemplificada no texto gera a seguinte consequência para o solo agricultável:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevação da acidez.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação da salinidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Formação de voçorocas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Remoção da camada superior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Intensificação do escoamento superficial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

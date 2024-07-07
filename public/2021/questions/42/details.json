@@ -1,0 +1,45 @@
+{
+    "title": "Questão 42 - ENEM 2021",
+    "index": 42,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021/questions/42/35808b01-8e6b-477b-a7c1-f9c562ab88e2.png)\n\nA obra, da década de 1960, pertence ao movimento artístico _Pop Art_, explora a beleza e a sensualidade do corpo feminino em uma situação de divertimento. Historicamente, a sociedade inventou e continua reinventando o corpo como objeto de intervenções sociais, buscando atender aos valores e costumes de cada época.\n\nLICHTENSTEIN, R. **Garota com bola**. Óleo sobre tela, 153 cm x 91,9 cm. Museu de Arte Moderna de nova York, 1961. Disponível em: www.moma.org. Acesso em: 4 dez. 2018.",
+    "files": [
+        "https://enem.dev/2021/questions/42/35808b01-8e6b-477b-a7c1-f9c562ab88e2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na produção desses preceitos, a erotização do corpo feminino tem sido constituída pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realização de exercícios físicos sistemáticos e excessivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utilização de medicamentos e produtos estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Educação do gesto, da vontade e do comportamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Construção de espaços para vivência de práticas corporais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Promoção de novas experiências de movimento humano no lazer.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

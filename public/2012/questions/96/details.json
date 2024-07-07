@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2012",
+    "index": 96,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/96/89e6740d-2faf-459f-a737-135fad99b641.png)\n\nNIEMAN, D. Exercício e saúde. São Paulo: Manole, 1999 (adaptado).",
+    "files": [
+        "https://enem.dev/2012/questions/96/89e6740d-2faf-459f-a737-135fad99b641.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A partir dos efeitos fisiológicos do exercício físico no organismo, apresentados na figura, são adaptações benéficas à saúde de um indivíduo:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuição da frequência cardíaca em repouso e aumento da oxigenação do sangue.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Diminuição da oxigenação do sangue e aumento da frequência cardíaca em repouso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da frequência cardíaca em repouso e aumento da gordura corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição do tônus muscular e aumento do percentual de gordura corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição da gordura corporal e aumento da frequência cardíaca em repouso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2009",
+    "index": 156,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para cada indivíduo, a sua inscrição no Cadastro de Pessoas Físicas (CPF) é composto por um número de 9 algarismos e outro número de 2 algarismos, na forma _d1_ e _d2_, em que os dígitos _d1_ e _d2_ são denominados dígitos verificadores. Os dígitos verificadores são calculados, a partir da esquerda, da seguinte maneira: os 9 primeiros algarismos são multiplicados pela sequência 10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10, o segundo por 9, e assim sucessivamente); em seguida, calcula-se o resto _r_ da divisão da soma dos resultados das multiplicações por 11, e se esse resto _r_ for 0 ou 1, _d1_ é zero, caso contrário _d1_ = (11 – r). O dígito _d2_ é calculado pela mesma regra, na qual os números a serem multiplicados pela sequência dada são contados a partir do segundo algarismo, sendo _d1_ o último algarismo, isto é, _d2_ é zero se o resto _s_ da divisão por 11 das somas das multiplicações for 0 ou 1, caso contrário, _d2_ = (11 – _s_).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Suponha que João tenha perdido seus documentos, inclusive o cartão de CPF e, ao dar queixa da perda na delegacia, não conseguisse lembrar quais eram os dígitos verificadores, recordando-se apenas que os nove primeiros algarismos eram 123.456.789. Neste caso, os dígitos verificadores d1 e d2 esquecidos são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0 e 9.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1 e 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 e 7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9 e 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0 e 1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

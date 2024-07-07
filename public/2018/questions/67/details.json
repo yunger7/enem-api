@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2018",
+    "index": 67,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2018/questions/67/cac2696c-8f19-4f55-8af9-6e4b75e686a6.png)",
+    "files": [
+        "https://enem.dev/2018/questions/67/cac2696c-8f19-4f55-8af9-6e4b75e686a6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do volume dos rios",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expansão do lençol freático",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição do índice de chuvas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Retração do nível dos reservatórios",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliação do escoamento superficial",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

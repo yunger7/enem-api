@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2020",
+    "index": 47,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As estatísticas mais recentes do Brasil rural revelam um paradoxo que interessa a toda sociedade: o emprego de natureza agrícola definha em praticamente todo o país, mas a população residente no campo voltou a crescer; ou pelo menos parou de cair. Esses sinais trocados sugerem que a dinâmica agrícola, embora fundamental, já não determina sozinha os rumos da demografia no campo. Esse novo cenário é explicado em parte pelo incremento do emprego não agrícola no campo. Ao mesmo tempo, aumentou a massa de desempregados, inativos e aposentados que mantêm residência rural.\n\nSILVA, J.G. Velhos e novos mitos do rural brasileiro. **Estudos Avançados**, n. 43, dez. 2001.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Sobre o espaço brasileiro, o texto apresenta argumentos que refletem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Heterogeneidade do modo de vida agrário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Redução do fluxo populacional nas cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Correlação entre força de trabalho e migração sazonal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Indissociabilidade entre local de moradia e acesso à renda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desregulamentação das propriedades nas zonas de fronteira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

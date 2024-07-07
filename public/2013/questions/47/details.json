@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2013",
+    "index": 47,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas.\n\nDisponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando-se o valor de 6 × 1023 mol–1 para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7,5 × 1021",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5 × 1022",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "7,5 × 1023",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,5 × 1025",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,8 × 1025",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

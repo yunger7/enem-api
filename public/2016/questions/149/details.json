@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2016",
+    "index": 149,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/149/555013c9-a224-4e98-8e48-a30e33d02321.png)\n\nCom base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.",
+    "files": [
+        "https://enem.dev/2016/questions/149/555013c9-a224-4e98-8e48-a30e33d02321.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuir em 2 unidades",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminuir em 4 unidades",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentar em 2 unidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aumentar em 4 unidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumentar em 8 unidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

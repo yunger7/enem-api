@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2023",
+    "index": 153,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um supermercado conta com cinco caixas disponíveis para pagamento. Foram instaladas telas que apresentam o tempo médio gasto por cada caixa para iniciar e finalizar o atendimento de cada cliente, e o número de pessoas presentes na fila de cada caixa em tempo real. Um cliente, na hora de passar sua compra, sabendo que cada um dos cinco caixas iniciará um novo atendimento naquele momento, pretende gastar o menor tempo possível de espera na fila. Ele observa que as telas apresentavam as informações a seguir.  \n• Caixa I: atendimento 12 minutos, 5 pessoas na fila.  \n• Caixa II: atendimento 6 minutos, 9 pessoas na fila.  \n• Caixa III: atendimento 5 minutos, 6 pessoas na fila.  \n• Caixa IV: atendimento 15 minutos, 2 pessoas na fila.  \n• Caixa V: atendimento 9 minutos, 3 pessoas na fila.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para alcançar seu objetivo, o cliente deverá escolher o caixa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

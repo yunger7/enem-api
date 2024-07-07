@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2020",
+    "index": 17,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma das mais contundentes críticas ao discurso da aptidão física relacionada à saúde está no caráter eminentemente individual de suas propostas, o que serve  \npara obscurecer outros determinantes da saúde. Ou seja, costuma-se apresentar o indivíduo como o problema e a mudança do estilo de vida como a solução. Argumenta-se ainda que o movimento da aptidão física relacionada à  \nsaúde considera a existência de uma cultura homogênea na qual todos seriam livres para escolher seus estilos de vida, o que não condiz com a realidade. O fato é que vivemos numa sociedade dividida em classes sociais, na qual nem todas as pessoas têm condições econômicas para adotar um estilo de vida ativo e saudável. Há desigualdades estruturais com raízes políticas, econômicas e sociais que dificultam a adoção desses estilos de vida.\n\nFERREIRA. M. S. Aptidão física e saúde na educação física escolar; ampliando o enfoque. **RBCE**, n. 2. jan. 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base no texto, a relação entre saúde e estilos de vida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Constrói a ideia de que a mudança individual de hábitos promove a saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Considera a homogeneidade da escolha de hábitos saudáveis pelos indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reforça a necessidade de solucionar os problemas de saúde da sociedade com a prática de exercícios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Problematiza a organização social e seu impacto na mudança de hábitos dos indivíduos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reproduz a noção de que a melhoria da aptidão física pela prática de exercícios promove a saúde.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

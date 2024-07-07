@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2022",
+    "index": 14,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**  \nA língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato de que a língua condensa as experiências de um dado povo.\n\nFIORIN, J. L Língua, modernidade e tradição. **Diversitas**, n. 2. mar-set 2014\n\n**TEXTO II**  \nAs expressões coloquiais ainda estão impregnadas de discriminação contra os negros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”, ser a “ovelha negra” da família ou praticar “magia negra”.\n\nDisponível em: https://brasil.elpais.com Acesso em: 22 maio 2018.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O Texto II exemplifica o que se afirma no Texto I, na medida em que defende a ideia de que as escolhas lexicais são resultantes de um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Recurso de expressão marcado pela objetividade que se requer na comunicação diária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

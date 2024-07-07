@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2019",
+    "index": 165,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O álcool é um depressor do sistema nervoso central e age diretamente em diversos órgãos. A concentração de álcool no sangue pode ser entendida como a razão entre a quantidade _**q**_ de álcool ingerido, medida em grama, e o volume de sangue, em litro, presente no organismo do indivíduo. Em geral, considera-se que esse volume corresponda ao valor numérico dado por 8% da massa corporal **_m_** desse indivíduo, medida em quilograma. De acordo com a Associação Médica Americana, uma concentração alcoólica superior a 0,4 grama por litro de sangue é capaz de trazer prejuízos à saúde do indivíduo.\n\n_Disponível em: http://cisa.org.br._ _Acesso em: 1 dez. 2018 (adaptado)._",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A expressão relacionando q e m que representa a concentração alcoólica prejudicial à saúde do indivíduo, de acordo com a Associação Médica Americana, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/165/ba0a23a6-915a-4461-8310-3aca3741ad1d.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/165/b0a0c5d2-4770-40fc-822a-d7d826a2132b.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/165/440296e3-1711-46e2-a640-4151c45ceee2.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/165/df0a84a8-428b-4d06-9346-b6a1c34f12c1.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/165/1a1d1fc2-bbc4-4442-a821-86875297945d.jpg",
+            "isCorrect": true
+        }
+    ]
+}

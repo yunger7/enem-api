@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2017",
+    "index": 163,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/163/b4c6dcfc-5f86-46af-9f78-dd94358a2301.png)\n\nO acesso aos elevadores tem os seguintes custos:  \n• Subir pelo elevador 1: R$ 0,15;  \n• Subir pelo elevador 2: R$ 1,80;  \n• Descer pelo elevador 1: R$ 0,10;  \n• Descer pelo elevador 2: R$ 2,30.\n\nO custo da passagem do teleférico partindo do topo do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do topo do mirante 2 para o topo do mirante 1 é de R$ 2,50.",
+    "files": [
+        "https://enem.dev/2017/questions/163/b4c6dcfc-5f86-46af-9f78-dd94358a2301.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o menor custo, em real, para uma pessoa visitar os topos dos dois mirantes e retornar ao solo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,90",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,35",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,45",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

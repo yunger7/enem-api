@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2010",
+    "index": 77,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/77/ccb7182d-278b-4d5d-9626-03df5e848ed4.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/77/ccb7182d-278b-4d5d-9626-03df5e848ed4.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O monofluoracetato de sódio pode ser obtido pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desidratação do ácido monofluoracético com liberação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hidrólise do ácido monofluoracético sem formação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Perda de íons hidroxila do ácido monofluoracético, com liberação de hidróxido de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Substituição dos íons hidrogênio por sódio na estrutura do ácido monofluoracético, sem formação de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

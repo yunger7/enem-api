@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2023",
+    "index": 1,
+    "year": 2023,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2023/questions/1-ingles/59a5b837-9914-48b0-a1b4-959562038c9a.png)",
+    "files": [
+        "https://enem.dev/2023/questions/1-ingles/59a5b837-9914-48b0-a1b4-959562038c9a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse cartaz de campanha sugere que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os lixões precisam de ampliação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O desperdício degrada o ambiente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Os mercados doam alimentos perecíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A desnutrição compromete o raciocínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As residências carecem de refrigeradores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

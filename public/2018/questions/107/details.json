@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2018",
+    "index": 107,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (_Annona cherimola_) com a fruta-pinha (_Annona squamosa_), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um dos benefícios dessa forma de plantio é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ampliação da variabilidade genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Produção de frutos das duas espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manutenção do genótipo da planta híbrida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Reprodução de clones das plantas parentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modificação do genoma decorrente da transgenia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

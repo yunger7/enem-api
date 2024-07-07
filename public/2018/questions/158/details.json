@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2018",
+    "index": 158,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um produtor de milho utiliza uma área de 160 hectares para as suas atividades agrícolas. Essa área é dividida em duas partes: uma de 40 hectares, com maior produtividade, e outra, de 120 hectares, com menor produtividade. A produtividade é dada pela razão entre a produção, em tonelada, e a área cultivada. Sabe-se que a área de 40 hectares tem produtividade igual a 2,5 vezes à  \nda outra. Esse fazendeiro pretende aumentar sua produção total em 15%,  aumentando o tamanho da sua propriedade. Para tanto, pretende comprar uma parte de uma fazenda vizinha, que possui a mesma produtividade da parte de 120 hectares de suas terras.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a área mínima, em hectare, em que o produtor precisará comprar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "33",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

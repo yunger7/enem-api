@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2017",
+    "index": 14,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "PROPAGANDA – O exame dos textos e mensagens de Propaganda revela que ele apresenta posições parciais, que refletem apenas o pensamento de uma minoria, como se exprimissem, em vez disso a convicção de uma população; trata-se, no fundo, de convencer o ouvinte ou leitor de que, em termos de opinião, está fora do caminho certo, e de induzi-lo a aderir às teses que lhes são apresentadas, por um mecanismo bem conhecido da psicologia social, o do conformismo induzido por pressões do grupo sobre o indivíduo isolado.\n\nBOBBIP, N.; MATTEUCCI, N.; PASQUINO, G. **Dicionário de política.** Brasília: UnB, 1998 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, as estratégias argumentativas e o uso da linguagem na produção da propaganda favorecem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reflexão da sociedade sobre os produtos anunciados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Difusão do pensamento e das preferências das grandes massas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Imposição das ideias e posições de grupos específicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Decisão consciente do consumidor a respeito de sua compra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Identificação dos interesses do responsável pelo produto divulgado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

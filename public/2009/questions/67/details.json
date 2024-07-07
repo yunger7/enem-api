@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2009",
+    "index": 67,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A prosperidade induzida pela emergência das máquinas de tear escondia uma acentuada perda de prestígio. Foi nessa idade de ouro que os artesãos, ou os tecelões temporários, passaram a ser denominados, de modo genérico, tecelões de teares manuais. Exceto em alguns ramos especializados, os velhos artesãos foram colocados lado a lado com novos imigrantes, enquanto pequenos fazendeiros-tecelões abandonaram suas pequenas propriedades para se concentrar na atividade de tecer. Reduzidos à completa dependência dos teares mecanizados ou dos fornecedores de matéria-prima, os tecelões ficaram expostos a sucessivas reduções dos rendimentos.\n\nTHOMPSON, E. P. **The making of the english working class.** Harmondsworth: Penguin Books, 1979 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com a mudança tecnológica ocorrida durante a Revolução Industrial, a forma de trabalhar alterou-se porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A invenção do tear propiciou o surgimento de novas relações sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os tecelões mais hábeis prevaleceram sobre os inexperientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os novos teares exigiam treinamento especializado para serem operados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os artesãos, no período anterior, combinavam a tecelagem com o cultivo de subsistência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Os trabalhadores não especializados se apropriaram dos lugares dos antigos artesãos nas fábricas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

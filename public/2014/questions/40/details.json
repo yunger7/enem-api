@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2014",
+    "index": 40,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Estrada de Ferro Noroeste do Brasil, que começa a ser construída apenas em 1905, foi criada, ao contrário das outras grandes ferrovias paulistas, para ser uma ferrovia de penetração, buscando novas áreas para a agricultura e povoamento. Até 1890, o café era quem ditava o traçado das ferrovias, que eram vistas apenas como auxiliadoras da produção cafeeira.\n\nCARVALHO, D. F. Café, ferrovias e crescimento populacional: o florescimento da região noroeste paulista. Disponível em: www.historica.arquivoestado.sp.gov.br. Acesso em: 2 ago. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa nova orientação dada à expansão ferroviária, durante a Primeira República, tinha como objetivo a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A articulação de polos produtores para exportação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criação de infraestrutura para atividade industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Integração de pequenas propriedades policultoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Valorização de regiões de baixa densidade demográfica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Promoção de fluxos migratórios do campo para a cidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

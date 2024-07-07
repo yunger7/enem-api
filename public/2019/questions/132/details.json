@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2019",
+    "index": 132,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A maioria das pessoas fica com a visão embaçada ao abrir os olhos debaixo d’água. Mas há uma exceção: o povo moken, que habita a costa da Tailândia. Essa característica se deve principalmente à adaptabilidade do olho e à plasticidade do cérebro, o que significa que você também, com algum treinamento, poderia enxergar relativamente bem debaixo d’água. Estudos mostraram que as pupilas de olhos de indivíduos moken sofrem redução significativa debaixo d’água, o que faz com que os raios luminosos incidam quase paralelamente ao eixo óptico da pupila.\n\n**GISLÉN, A. et al. Visual Training Improves Underwater Vision in Children. Vision Research, n. 46, 2006 (adaptado).**",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A acuidade visual associada à redução das pupilas é fisicamente explicada pela diminuição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Da intensidade luminosa incidente na retina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Da difração dos feixes luminosos que atravessam a pupila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Da intensidade dos feixes luminosos em uma direção por polarização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Do desvio dos feixes luminosos refratados no interior do olho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Das reflexões dos feixes luminosos no interior do olho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

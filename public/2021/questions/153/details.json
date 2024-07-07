@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2021",
+    "index": 153,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.\n\n![](https://enem.dev/2021/questions/153/6826c1c9-9c1c-401f-b721-af14ad303f2e.jpg)\n\nO castelo possui uma ponte de 38,4m de comprimento e 1,68m de largura. O artesão que trabalhou para o parque produziu a réplica do castelo, em escala. Nessa obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160cm e 7 cm.",
+    "files": [
+        "https://enem.dev/2021/questions/153/6826c1c9-9c1c-401f-b721-af14ad303f2e.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A escala utilizada para fazer a réplica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 576",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 240",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 : 4,2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 2,4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

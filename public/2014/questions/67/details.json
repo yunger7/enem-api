@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2014",
+    "index": 67,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png)",
+    "files": [
+        "https://enem.dev/2014/questions/67/3ce1157d-8591-4e39-9341-ab6cb3a23801.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

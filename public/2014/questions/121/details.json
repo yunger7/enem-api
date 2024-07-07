@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2014",
+    "index": 121,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A última edição deste periódico apresenta mais uma vez tema relacionado ao tratamento dado ao lixo caseiro, aquele que produzimos no dia a dia. A informação agora passa pelo problema do material jogado na estrada vicinal que liga o município de Rio Claro ao distrito de Ajapi. Infelizmente, no local em questão, a reportagem encontrou mais uma forma errada de destinação do lixo: material atirado ao lado da pista como se isso fosse o ideal. Muitos moradores, por exemplo, retiram o lixo de suas residências e, em vez de um destino correto, procuram dispensá-lo em outras regiões. Uma situação no mínimo incômoda. Se você sai de casa para jogar o lixo em outra localidade, por que não o fazer no local ideal? É muita falta de educação achar que aquilo que não é correto para sua região possa ser para outra. A reciclagem do lixo doméstico é um passo inteligente e de consciência. Olha o exemplo que passamos aos mais jovens! Quem aprende errado coloca em prática o errado. Um perigo!\n\nDisponível em: http://jornaldacidade.uol.com.br. Acesso em: 10 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse editorial faz uma leitura diferenciada de uma notícia veiculada no jornal. Tal diferença traz à tona uma das funções sociais desse gênero textual, que é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresentar fatos que tenham sido noticiados pelo próprio veículo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Chamar a atenção do leitor para temas raramente abordados no jornal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Provocar a indignação dos cidadãos por força dos argumentos apresentados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interpretar criticamente fatos noticiados e considerados relevantes para a opinião pública.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Trabalhar uma informação previamente apresentada com base no ponto de vista do autor da notícia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

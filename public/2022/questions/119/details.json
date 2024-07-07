@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2022",
+    "index": 119,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,25 A",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "0,33 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,75 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,00 A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,33 A",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

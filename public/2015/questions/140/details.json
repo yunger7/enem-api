@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2015",
+    "index": 140,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/140/b83a0d54-9959-4218-96b9-3b44ec7d745e.png)\n\nUma empresa vai lançar uma promoção utilizando apenas uma categoria nas classes A e B (A/B) e uma categoria nas classes C e D (C/D).",
+    "files": [
+        "https://enem.dev/2015/questions/140/b83a0d54-9959-4218-96b9-3b44ec7d745e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o resultado da pesquisa, para atingir o maior número de consumidores das classes A/B e C/D, a empresa deve realizar a promoção, respectivamente, via",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Correios e SMS.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Internet e Correios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Internet e internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Internet e mídias sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rádio/TV e rádio/TV.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

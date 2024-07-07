@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2019",
+    "index": 147,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma administração municipal encomendou a pintura de dez placas de sinalização para colocar em seu patio de estacionamento.\n\nO profissional contratado para o serviço inicial pintará o fundo de dez placas e cobrará um valor de acordo com a área total dessas placas. O formato de cada placa é um círculo de diâmetro d = 40 cm, que tangencia lados de um retângulo, sendo que o comprimento total da placa é h = 60 cm, conforme lustrado na figura. Use 3,14 como aproximação para π.\n\n![](https://enem.dev/2019/questions/147/c3302516-c198-425d-8d43-43cc3b344a8c.png)",
+    "files": [
+        "https://enem.dev/2019/questions/147/c3302516-c198-425d-8d43-43cc3b344a8c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a soma das medidas das áreas, em centímetros quadrados, das dez placas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16 628",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "22 280",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "28 560",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "41 120",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "66 240",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

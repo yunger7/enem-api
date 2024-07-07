@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2014",
+    "index": 145,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão da função y = f(x) a ser utilizada pelo professor é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/145/fb982b59-0d4c-4072-a3f3-0d07ba073215.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/145/b3e30fe0-d8fb-4cca-abc7-8d2723b68bcc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/145/e22c424c-ede8-4fc6-9030-a7293c0164df.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/145/f987fd5b-b6b5-44ae-a434-054759e16220.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/145/764cd798-3b7c-4607-9287-1364cfc323dc.png",
+            "isCorrect": false
+        }
+    ]
+}

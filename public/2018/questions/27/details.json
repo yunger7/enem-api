@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2018",
+    "index": 27,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Mais _big_ do que bang**\n\nA comunidade científica mundial recebeu, na semana passada, a confirmação oficial de uma descoberta sobre a qual se falava com enorme expectativa há alguns meses. Pesquisadores do Centro de Astrofísica Harvard-Smithsonian  \nrevelaram ter obtido a mais forte evidência até agora de que o universo em que vivemos começou mesmo pelo Big Bang, mas este não foi explosão, e sim uma súbita expansão de matéria e energia infinitas concentradas em um ponto microscópico que, sem muitas opções semânticas, os cientistas chamam de “singularidade”. Essa semente cósmica permanecia em estado latente e, sem que exista ainda uma explicação definitiva, começou a inchar rapidamente \\[…\\]. No intervalo de um piscar de olhos, por exemplo, seria possível, portanto, que ocorressem mais de 10 trilhões de Big Bangs.\n\nALLEGRETTI, F. **Veja**, 26 mar. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No título proposto para esse texto de divulgação científica, ao dissociar os elementos da expressão Big Bang, a autora revela a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evidenciar a descoberta recente que comprova a explosão de matéria e energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resumir os resultados de uma pesquisa que trouxe evidências para a teoria do Big Bang.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sintetizar a ideia de que a teoria da expansão de matéria e energia substitui a teoria da explosão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Destacar a experiência que confirma uma investigação anterior sobre a teoria de matéria e energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Condensar a conclusão de que a explosão de matéria e energia ocorre em um ponto microscópico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

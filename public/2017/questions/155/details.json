@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2017",
+    "index": 155,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado nesse curso, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova.\n\n![](https://enem.dev/2017/questions/155/fb7df640-ed2c-4e7f-99d5-93815129aa75.png)",
+    "files": [
+        "https://enem.dev/2017/questions/155/fb7df640-ed2c-4e7f-99d5-93815129aa75.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apenas o aluno Y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apenas o aluno Z",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Apenas os alunos x e y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apenas os alunos x e z",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os alunos x, y, z",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

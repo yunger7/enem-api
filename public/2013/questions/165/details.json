@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2013",
+    "index": 165,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png)",
+    "files": [
+        "https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

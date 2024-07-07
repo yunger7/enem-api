@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2017",
+    "index": 11,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2017/questions/11/55ed62f2-789b-4797-9449-8f163efcac59.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/11/55ed62f2-789b-4797-9449-8f163efcac59.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O consumidor do século XXI, chamado de novo consumidor social, tende a se comportar de modo diferente do consumidor tradicional. Pela associação das características apresentadas no diagrama, infere-se que esse novo consumidor sofre influência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cultura do comércio eletrônico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Busca constante pelo menor preço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divulgação de informações pelas empresas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade recorrente de consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Postura comum aos consumidores tradicionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

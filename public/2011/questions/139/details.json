@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2011",
+    "index": 139,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png)\n\nA medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.",
+    "files": [
+        "https://enem.dev/2011/questions/139/4b2c1448-7e79-415c-bd68-55a615705b89.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número obtido pela leitura em kWh, na imagem, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 614.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2 624.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 715.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 725.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 162.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

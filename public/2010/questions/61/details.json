@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2010",
+    "index": 61,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No ano de 2000, um vazamento em um duto de óleo na baía de Guanabara (RJ) causou um dos maiores acidentes ambientais do Brasil. Além de afetar a fauna e a flora, o acidente abalou o equilíbrio da cadeia alimentar de toda a baía. O petróleo forma uma película na superfície da água, o que prejudica as trocas gasosas da atmosfera com a água e desfavorece a realização de fotossíntese pelas algas, que estão na base da cadeia alimentar hídrica. Além disso, o derramamento de óleo contribuiu para o envenenamento das árvores e, consequentemente, para a intoxicação da fauna e flora aquáticas, bem como conduziu à morte diversas espécies de animais, entre outras formas de vida, afetando também a atividade pesqueira.\n\nLAUBIER, L. Diversidade da Maré Negra. In: Scientific American Brasil. 4(39), ago. 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A situação exposta no texto e suas implicações",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indicam a independência da espécie humana com relação ao ambiente marinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alertam para a necessidade do controle da poluição ambiental para a redução do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ilustram a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Indicam a alta resistência do meio ambiente à ação do homem, além de evidenciar a sua sustentabilidade  mesmo em condições extremas de poluição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Evidenciam a grande capacidade animal de se adaptar às mudanças ambientais, em contraste com a baixa capacidade das espécies vegetais, que estão na base da cadeia alimentar hídrica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

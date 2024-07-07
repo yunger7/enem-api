@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2022",
+    "index": 94,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png)\n\nOs riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.\n\nConsidere que houve o descarte indevido de dois conjuntos de substâncias:  \n(1) ácido clorídrico concentrado com cianeto de potássio;  \n(2) ácido nítrico concentrado com sacarose.\n\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2022/questions/94/a62bc797-e3bd-4754-bc9b-433469b0a49f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Liberação de gás tóxico e reação oxidativa forte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Reação oxidativa forte e liberação de gás tóxico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Formação de sais tóxicos e reação oxidativa forte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Liberação de gás tóxico e liberação de gás oxidante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Formação de sais tóxicos e liberação de gás oxidante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

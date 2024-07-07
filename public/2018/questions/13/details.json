@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2018",
+    "index": 13,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I** \n\n![](https://enem.dev/2018/questions/13/daed3973-7c5a-480b-b87a-a8891cad80aa.png)\n\nDisponível em: http://revistaiiqb.usac.edu.gt. Acesso em: 25 abr. 2018 (adaptado).\n\n**TEXTO II**  \nImaginemos um cidadão, residente na periferia de um grande centro urbano, que diariamente acorda às 5h para trabalhar, enfrenta em média 2 horas de transporte público, em geral lotado, para chegar às 8h ao trabalho.  \nTermina o expediente às 17h e chega em casa às 19h para, aí sim, cuidar dos afazeres domésticos, dos filhos etc. Como dizer a essa pessoa que ela deve praticar exercícios, pois é importante para sua saúde? Como ela irá entender a mensagem da importância do exercício físico? A probabilidade de essa pessoa praticar exercícios regularmente é significativamente menor que a de pessoas da classe média/alta que vivem outra realidade. Nesse caso, a abordagem individual do problema tende a fazer com que a pessoa se sinta impotente em não conseguir praticar exercícios e, consequentemente, culpada pelo fato de ser ou estar sedentária.\n\nFERREIRA, M. S. Aptidão física e saúde na educação física escolar: ampliando o enfoque. RBCE, n. 2,jan. 2001 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/13/daed3973-7c5a-480b-b87a-a8891cad80aa.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O segundo texto, que propõe uma reflexão sobre o primeiro acerca do impacto de mudanças no estilo de vida na saúde, apresenta uma visão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Medicalizada, que relaciona a prática de exercícios físicos por qualquer indivíduo à promoção da saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliada, que considera aspectos sociais intervenientes na prática de exercícios no cotidiano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Crítica, que associa a interferência das tarefas da casa ao sedentarismo do indivíduo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Focalizada, que atribui ao indivíduo a responsabilidade pela prevenção de doenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Geracional, que preconiza a representação do culto à jovialidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

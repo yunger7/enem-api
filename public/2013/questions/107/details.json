@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2013",
+    "index": 107,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Secretaria de Cultura** \n\n**EDITAL**\n\n**NOTIFICAÇÃO** – Síntese da resolução publicada no Diário Oficial da Cidade, 29/07/2011 – página 41 – 511.a Reunião Ordinária, em 21/06/2011.\n\n**Resolução n.o 08/2011 – TOMBAMENTO** dos imóveis da Rua Augusta. n.o 349 e n.o 353, esquina com a Rua Marquês de Paranaquá, n.o 315. n.o 327 e n.o 329 (Setor 010, Quadra 026, Lotes 0016-2 e 00170-0), bairro da Consolação. Subprefeitura da Sé, conforme o processo administrativo n.o 1991-0.005.365-1.\n\nFolha de S. Paulo, 5 ago. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um leitor interessado nas decisões governamentais escreve uma carta para o jornal que publicou o edital, concordando com a resolução sintetizada no Edital da Secretaria de Cultura. Uma frase adequada para expressar sua concordância é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Que sábia iniciativa! Os prédios em péssimo estado de conservação devem ser derrubados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Até que enfim! Os edifícios localizados nesse trecho descaracterizam o conjunto arquitetônico da Rua Augusta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Parabéns! O poder público precisa mostrar sua força como guardião das tradições dos moradores locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Justa decisão! O governo dá mais um passo rumo à eliminação do problema da falta de moradias populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Congratulações! O patrimônio histórico da cidade merece todo empenho para ser preservado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

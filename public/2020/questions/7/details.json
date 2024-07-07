@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2020",
+    "index": 7,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/7/8cae3db7-3d36-4e39-a58d-1ae299222289.png)\n\nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/7/8cae3db7-3d36-4e39-a58d-1ae299222289.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uso de uma marcação temporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imprecisão do referente de pessoa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Organização interrogativa da frase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Utilização de um verbo de ação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apagamento de uma preposição.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

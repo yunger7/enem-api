@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2010",
+    "index": 23,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Negro, filho de escrava e fidalgo português, o baiano Luiz Gama fez da lei e das letras suas armas na luta pela liberdade. Foi vendido ilegalmente como escravo pelo seu pai para cobrir dívidas de jogo. Sabendo ler e escrever, aos 18 anos de idade conseguiu provas de que havia nascido livre. Autodidata, advogado sem diploma, fez do direito o seu ofício e transformou-se, em pouco tempo, em proeminente advogado da causa abolicionista.\n\nAZEVEDO, E. O Orfeu de carapinha. In: Revista de  \nHistória.Ano 1, n.o 3. Rio de Janeiro:  \nBiblioteca Nacional, jan. 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A conquista da liberdade pelos afro-brasileiros na segunda metade do séc. XIX foi resultado de importantes lutas sociais condicionadas historicamente. A biografia de Luiz Gama exemplifica a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impossibilidade de ascensão social do negro forro em uma sociedade escravocrata, mesmo sendo alfabetizado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Extrema dificuldade de projeção dos intelectuais negros nesse contexto e a utilização do Direito como canal de luta pela liberdade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Rigidez de uma sociedade, assentada na escravidão, que inviabilizava os mecanismos de ascensão social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Possibilidade de ascensão social, viabilizada pelo apoio das elites dominantes, a um mestiço filho de pai português.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Troca de favores entre um representante negro e a elite agrária escravista que outorgara o direito advocatício ao mesmo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

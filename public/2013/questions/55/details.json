@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2013",
+    "index": 55,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A pílula anticoncepcional é um dos métodos contraceptivos de maior segurança, sendo constituída basicamente de dois hormônios sintéticos semelhantes aos hormônios produzidos pelo organismo feminino, o estrogênio (E) e a progesterona (P). Em um experimento médico, foi analisado o sangue de uma mulher que ingeriu ininterruptamente um comprimido desse medicamento por dia durante seis meses.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual gráfico representa a concentração sanguínea desses hormônios durante o período do experimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/55/0eb7cde6-4cb0-41e1-be62-f1b89da96fe8.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/55/393900eb-c7a3-4029-81aa-9d239b245aaf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/55/37c4ce43-ffb7-4f90-ab8b-1c60dcdc77c4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/55/c4987b7b-86b9-4639-b00f-411f9ff2a79b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/55/8c70acab-8fef-4ead-b349-d2a1d8b76581.png",
+            "isCorrect": false
+        }
+    ]
+}

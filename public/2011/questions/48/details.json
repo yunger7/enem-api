@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2011",
+    "index": 48,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A produção de soro antiofídico é feita por meio da extração da peçonha de serpentes que, após tratamento é introduzida em um cavalo. Em seguida são feitas sangrias para avaliar a concentração de anticorpos produzidos pelo cavalo. Quando essa concentração atinge o valor desejado, é realizada a sangria final para obtenção do soro. As hemácias são devolvidas ao animal, por meio de uma técnica denominada plasmaferese, a fim de reduzir os efeitos colaterais provocados pela sangria.\n\nDisponível em: http://www.infobibos.com. Acesso em: 28 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A plasmaferese é importante, pois, se o animal ficar com uma baixa quantidade de hemácias, poderá apresentar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Febre alta e constante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redução de imunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento da pressão arterial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quadro de leucemia profunda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Problemas no transporte de oxigênio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

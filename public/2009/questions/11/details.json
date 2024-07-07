@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2009",
+    "index": 11,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para que todos os órgãos do corpo humano funcionem em boas condições, é necessário que a temperatura do corpo fique sempre entre 36ºC e 37ºC. Para manter-se dentro dessa faixa, em dias de muito calor ou durante intensos exercícios físicos, uma série de mecanismos fisiológicos é acionada.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pode-se citar como o principal responsável pela manutenção da temperatura corporal humana o sistema",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Digestório, pois produz enzimas que atuam na quebra de alimentos calóricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imunológico, pois suas células agem no sangue, diminuindo a condução do calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Nervoso, pois promove a sudorese, que permite perda de calor por meio da evaporação da água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Reprodutor, pois secreta hormônios que alteram a temperatura, principalmente durante a menopausa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Endócrino, pois fabrica anticorpos que, por sua vez, atuam na variação do diâmetro dos vasos periféricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

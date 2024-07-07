@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2018",
+    "index": 143,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza. Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000. Um ourives possui 10 gramas de prata 925 e deseja obter 40 gramas de prata 950 para produção de uma joia.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem ser fundidos com os 10 gramas de prata 925?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "29,25 e 0,75",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "28,75 e 1,25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "28,50 e 1,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "27,75 e 2,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25,00 e 5,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

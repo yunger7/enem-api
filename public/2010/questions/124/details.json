@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2010",
+    "index": 124,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**Choque a 36 000 km/h**\n\nA faixa que vai de 160 quilômetros de altitude em volta da terra assemelha-se a uma avenida congestionada  onde orbitam 3 000 satélites ativos. Eles disputam espaço com 17 000 fragmentos de artefatos lançados pela  Terra e que se desmancharam – foguetes, satélites desativados e até ferramentas perdidas por astronautas. Com um tráfego celeste tão intenso, era questão de tempo para que acontecesse um acidente de grandes proporções, como o da semana passada. Na terça-feira, dois satélites em órbita desde os anos 90 colidiram em um ponto 790 quilômetros acima da Sibéria. A trombada dos satélites chama a atenção para os riscos que oferece a montanha de lixo espacial em órbita. Como os objetos viajam a grande velocidade, mesmo um  pequeno fragmento de 10 centímetros poderia causar estragos consideráveis no telescópio Hubble ou na estação espacial Internacional — nesse caso pondo em risco a vida dos astronautas que lá trabalham.\n\n**Revista Veja.** 18 set. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Levando-se em consideração os elementos constitutivos de um texto jornalístico, infere-se que o autor teve como objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exaltar o emprego da língua figurada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criar suspense e despertar temor no leitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Influenciar a opinião dos leitores sobre o tema, com as marcas argumentativas de seu posicionamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Induzir o leitor a pensar que os satélites artificiais representam um grande perigo para toda a humanidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Exercitar a ironia ao empregar “avenida congestionada”; “tráfego celeste tão intenso”; “montanha de lixo”.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

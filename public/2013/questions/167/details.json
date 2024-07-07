@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2013",
+    "index": 167,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Disponível em: www.arq.ufsc.br. Acesso em: 3 mar. 2012.\n\nSuponha que uma peça, quando moldada em argila, possuía uma base retangular cujos lados mediam 30 cm e 15 cm. Após o cozimento, esses lados foram reduzidos em 20%.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação à área original, a área da base dessa peça, após o cozimento, ficou reduzida em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "36%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "64%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "96%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2019",
+    "index": 8,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Meu caro Sherlock Holmes, algo horrível aconteceu às três da manhã no Jardim Lauriston. Nosso homem que estava na vigia viu uma luz às duas da manhã saindo de uma casa vazia. Quando se aproximou, encontrou a porta aberta e, na sala da frente, o corpo de um cavalheiro bem vestido. Os cartões que estavam em seu bolso tinham o nome de Enoch J. Drebber, Cleveland, Ohio, EUA. Não houve assalto e nosso homem não conseguiu encontrar algo que indicasse como ele morreu. Não havia marcas de sangue, nem feridas nele. Não sabemos como ele entrou na casa vazia. Na verdade, todo assunto é um quebra-cabeça sem fim. Se puder vir até a casa seria ótimo, se não, eu lhe conto os detalhes e gostaria muito de saber sua opinião. Atenciosamente, Tobias Gregson.\n\n**DOYLE, A. C.** _Um estudo em vermelho_. Cotia: Pé de Letra, 2017",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o objetivo da carta de Tobias Gregson, a sequência de enunciados negativos presente nesse texto tem a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Restringir a investigação, deixando-a sob a responsabilidade do autor da carta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Refutar possíveis causas da morte do cavalheiro, auxiliando na investigação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Identificar o local da cena do crime, localizando-o no Jardim Lauriston.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Introduzir o destinatário da carta, caracterizando sua personalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentar o vigia, incluindo-o entre os suspeitos do assassinato.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

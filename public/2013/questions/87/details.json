@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2013",
+    "index": 87,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um dia sem vento, ao saltar de um avião, um paraquedista cai verticalmente até atingir a velocidade limite. No instante em que o paraquedas é aberto (instante TA), ocorre a diminuição de sua velocidade de queda. Algum tempo após a abertura do paraquedas, ele passa a ter velocidade de queda constante, que possibilita sua aterrissagem em segurança",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Que gráfico representa a força resultante sobre o paraquedista, durante o seu movimento de queda?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/87/4f8b0ada-6d51-47a7-a70e-e34ffcc300a7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/87/d3ed2f2f-5c06-4aeb-9f24-5d76bb01a111.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/87/36abe86d-fe7d-4400-9fee-99de6602a337.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/87/5a456a8a-c6a9-4a62-b94a-d623937af626.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/87/30438e52-cbce-4c18-bda0-5aa8ae08f2d9.png",
+            "isCorrect": false
+        }
+    ]
+}

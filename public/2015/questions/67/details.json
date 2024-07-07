@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2015",
+    "index": 67,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa situação o sistema excretor dos estudantes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumentou a filtração glomerular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Produziu maior volume de urina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produziu urina com menos ureia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Produziu urina com maior concentração de sais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reduziu a reabsorção de glicose e aminoácidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

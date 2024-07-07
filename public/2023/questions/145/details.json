@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2023",
+    "index": 145,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q1 representa a posição de um jogador que está com a bola, os pontos Q2, Q3, Q4 , Q5 e Q6  \ntambém indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1 B.\n\n![](https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png)",
+    "files": [
+        "https://enem.dev/2023/questions/145/f338280e-33fe-4896-b296-cfb94ca78430.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o jogador que receberá a bola?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/145/b794885b-0519-4e72-87e0-93de02461252.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/145/57b5461f-1924-4599-9914-4b148b722d7c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/145/d7e46a12-9912-4fad-8d9d-225859b42312.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/145/7a03bf64-9ae1-4137-924d-e1c6110fd1a3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/145/5be53460-7a9a-4138-8d62-ac01b26993d6.png",
+            "isCorrect": false
+        }
+    ]
+}

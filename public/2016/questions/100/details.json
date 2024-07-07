@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2016",
+    "index": 100,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Soneto VII\n\nOnde estou? Este sítio desconheço:  \nQuem fez tão diferente aquele prado?  \nTudo outra natureza tem tomado;  \nE em contemplá-lo tímido esmoreço.\n\nUma fonte aqui  houve; eu  não  me esqueço  \nDe estar a ela um dia reclinado:  \nAli em vale um monte está mudado:  \nQuando pode dos anos o progresso!\n\nÁrvores  aqui vi  tão  florescentes  \nQue faziam perpétua a primavera:  \nNem troncos vejo agora decadentes.\n\nEu me  engano: a região esta  não era;  \nMas que venho a estranhar, se estão presentes  \nMeus males, com que tudo degenera.\n\n(COSTA, C.M. **Poemas**. Disponível em  www.dominiopublico.gov.br. Acesso em 7 jul  2012)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No soneto de  Claudio Manuel da Costa, a cangústia provocada pela sensação de solidão.ontemplação da  paisagem permite  ao  eu  lírico uma reflexão em que transparece uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Angústia provocada pela sensação de solidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resignação diante das  mudanças do  meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dúvida existencial em  face do espaço desconhecido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intenção de recriar o passado por meio da paisagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Empatia entre os sofrimentos do eu e  a agonia da terra.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

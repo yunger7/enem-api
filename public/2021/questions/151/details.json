@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2021",
+    "index": 151,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um casal está planejando comprar um apartamento  \nde dois quartos num bairro de uma cidade e consultou  \na página de uma corretora de imóveis, encontrando  \n105 apartamentos de dois quartos à venda no bairro  \ndesejado. Eles usaram um aplicativo da corretora para  \ngerar a distribuição dos preços do conjunto de imóveis  \nselecionados.  \nO gráfico ilustra a distribuição de frequências dos  \npreços de venda dos apartamentos dessa lista (em  \nmil reais), no qual as faixas de preço são dadas por  \n\\]300, 400\\], \\]400, 5001, \\]500, 600\\], \\]00, 700\\], \\]700, 800\\],  \n\\]800, 900\\], \\]900, 1 000\\], \\]1 000, 1 100\\], \\]1 100, 1 200\\] e  \n\\]1 200, 1 300\\].  \nA mesma corretora anuncia que cerca de 50% dos  \napartamentos de dois quartos nesse bairro, publicados  \nem sua página, têm preço de venda inferior a 550 mil reais.  \nNo entanto, o casal achou que essa última informação  \nnão era compatível com o gráfico obtido.\n\n![](https://enem.dev/2021/questions/151/53a174a0-d119-4132-ade4-2cc79b864ee2.png)",
+    "files": [
+        "https://enem.dev/2021/questions/151/53a174a0-d119-4132-ade4-2cc79b864ee2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base no gráfico obtido, o menor preço, p (em mil reais), para o qual pelo menos 50% dos apartamentos apresenta preço inferior a p",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "800.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "900.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

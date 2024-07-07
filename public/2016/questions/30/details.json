@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2016",
+    "index": 30,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O bioma Cerrado foi considerado recentemente um dos 25 _hotspots_ de biodiversidade do mundo segundo uma análise em escala mundial das regiões biogeográficas sobre áreas globais prioritárias para conservação. O conceito de hotspot foi criado tendo em vista a escassez de recursos direcionados para conservação, com o objetivo de apresentar os chamados “pontos quentes”, ou seja, locais para os quais existe maior necessidade de direcionamento de esforços, buscando evitar a extinção de muitas espécies que estão altamente ameaçadas por ações antrópicas.\n\nPINTO, PP: DINIZ-FILHO, J. A. F. In: ALMEIDA, M. G. (Org.). **Tantos cerrados: múltiplas abordagens sobre a biogeodiversidade e singularidade Cultural Goiânia**: Vieira, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A necessidade desse tipo de ação na área mencionada tem como causa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Intensificação da atividade turística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Implantação de parques ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Exploração dos recursos minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Elevação do extrativismo vegetal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expansão da fronteira agrícola.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2022",
+    "index": 80,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Advento da _Polis_, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solidário das estruturas sociais e mentais próprias da cidade grega. Assim recolocada na história, a filosofia despoja-se desse caráter de revelação absoluta que às vezes lhe foi atribuído, saudando, na jovem ciência dos jônios, a razão intemporal que veio encarnar-se no Tempo. A escola de Mileto não viu nascer a Razão; ela construiu uma Razão, uma primeira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea.\n\n**VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.**",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os estoicos, dedicados à superação dos infortúnios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os sofistas, comprometidos com o ensino da retórica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Os peripatéticos, empenhados na dinâmica do ensino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os poetas rapsodos, responsáveis pela narrativa do mito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

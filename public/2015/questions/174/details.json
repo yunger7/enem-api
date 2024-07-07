@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2015",
+    "index": 174,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/174/9ac3cd8a-2315-450e-96c0-25cb9cd65cdd.png)",
+    "files": [
+        "https://enem.dev/2015/questions/174/9ac3cd8a-2315-450e-96c0-25cb9cd65cdd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quando o estudante obtém o maior número possível de bactérias, a temperatura no interior da estufa está classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Muito baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Muito alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

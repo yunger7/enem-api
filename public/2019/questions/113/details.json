@@ -1,0 +1,45 @@
+{
+    "title": "Questão 113 - ENEM 2019",
+    "index": 113,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica q é lançado em uma região de campo magnético constante B, descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo t de voo para N voltas do íon. Logo, com base nos valores q, B, N e t, pode-se determinar a massa do íon.\n\n![](https://enem.dev/2019/questions/113/988df221-f38a-45ba-89fb-5d2bf6c64827.png)",
+    "files": [
+        "https://enem.dev/2019/questions/113/988df221-f38a-45ba-89fb-5d2bf6c64827.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A massa do íon medida por esse dispositivo será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/113/90260e82-408f-4f7d-9429-1bced3630c1b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/113/c2f00b60-beef-40fb-8ce6-14ac89ccb2c5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/113/2e09d165-05b0-4d34-874a-b4432b320dd3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/113/499d8917-c7d3-46e5-b807-096495515377.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/113/cbf0771b-53f9-45cd-a27c-d92e7bf5a0fe.png",
+            "isCorrect": false
+        }
+    ]
+}

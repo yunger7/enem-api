@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2010",
+    "index": 179,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ronaldo é um garoto que adora brincar com números. Numa dessas brincadeiras, empilhou caixas numeradas de acordo com a sequência conforme mostrada no esquema a seguir.\n\n![](https://enem.dev/2010/questions/179/0fc82f4a-dc92-411f-8f14-995159be0c16.jpg)\n\nEle percebeu que a soma dos números em cada linha tinha uma propriedade e que, por meio dessa propriedade, era possível prever a soma de qualquer linha posterior às já construídas.",
+    "files": [
+        "https://enem.dev/2010/questions/179/0fc82f4a-dc92-411f-8f14-995159be0c16.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir dessa propriedade, qual será a soma da 9a linha da sequência de caixas empilhadas por Ronaldo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "64",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "81",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "285",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

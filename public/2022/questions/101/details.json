@@ -1,0 +1,46 @@
+{
+    "title": "Questão 101 - ENEM 2022",
+    "index": 101,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação.\n\nNo quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.\n\n![](https://enem.dev/2022/questions/101/afa4fc86-8d89-4713-a690-8306324d23ed.png)\n\nPretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg ![](https://enem.dev/2022/questions/101/d492e2a3-b988-4c38-802d-20d5f73c3b72.png) de microrganismos presentes na cana-de-açúcar.\n\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2022/questions/101/afa4fc86-8d89-4713-a690-8306324d23ed.png",
+        "https://enem.dev/2022/questions/101/d492e2a3-b988-4c38-802d-20d5f73c3b72.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual tipo de cana-de-açúcar deve ser escolhido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "RB72",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "RB84",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "RB92",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "SP79",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "SP80",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2017",
+    "index": 114,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:\n\n![](https://enem.dev/2017/questions/114/edc31bcf-bb5f-438b-8349-9b5eb2945835.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/114/edc31bcf-bb5f-438b-8349-9b5eb2945835.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A função química presente no produto que representa o biodiesel é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Éter.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Éster.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cetona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido carboxílico",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

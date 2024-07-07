@@ -1,0 +1,46 @@
+{
+    "title": "Questão 153 - ENEM 2018",
+    "index": 153,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.\n\n![](https://enem.dev/2018/questions/153/222ea15d-d436-4e73-8297-5e4a490f851a.png)\n\nO passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os raios, pois o chafariz está cheio, um engenheiro fez a seguinte medição: esticou uma trena tangente ao chafariz, medindo a distância entre dois pontos _A_ e _B_, conforme a figura. Com isso, obteve a medida do segmento de reta _AB_: 16 m.\n\n![](https://enem.dev/2018/questions/153/1d6e5ac1-393a-426c-95c0-c70622ddc252.png)\n\nDispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado.",
+    "files": [
+        "https://enem.dev/2018/questions/153/222ea15d-d436-4e73-8297-5e4a490f851a.png",
+        "https://enem.dev/2018/questions/153/1d6e5ac1-393a-426c-95c0-c70622ddc252.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A medida encontrada pelo engenheiro foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "48π.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "64π.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "192π.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

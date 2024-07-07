@@ -1,0 +1,48 @@
+{
+    "title": "Questão 179 - ENEM 2018",
+    "index": 179,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.\n\n![](https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png)\n\nUma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm.\n\n![](https://enem.dev/2018/questions/179/3fc75c6b-0e16-4686-857b-155ddd7ad50c.png) ![](https://enem.dev/2018/questions/179/5eabdb02-5a5d-4cc2-befb-903521158327.png) ![](https://enem.dev/2018/questions/179/6cbaacc0-e621-4e81-9314-bbd6d9120ad2.png)",
+    "files": [
+        "https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png",
+        "https://enem.dev/2018/questions/179/3fc75c6b-0e16-4686-857b-155ddd7ad50c.png",
+        "https://enem.dev/2018/questions/179/5eabdb02-5a5d-4cc2-befb-903521158327.png",
+        "https://enem.dev/2018/questions/179/6cbaacc0-e621-4e81-9314-bbd6d9120ad2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/179/cffd9e29-a8e1-4ab9-8e46-24ec536138c5.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/179/80266f09-674e-4edd-a349-05c7d22ad5fc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/179/8d325c60-94d7-4eb0-a780-db03877a4d0b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/179/2e70100e-b60a-4924-adfc-ed2d2a8e6ea4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/179/4903bfee-6848-4a2f-b393-2a45fa498cef.png",
+            "isCorrect": false
+        }
+    ]
+}

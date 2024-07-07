@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2020",
+    "index": 155,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.\n\n![](https://enem.dev/2020/questions/155/616a68ac-c5eb-4ba7-9ee9-d77bf3e76567.png)\n\nO quadrado _PRST_, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente.",
+    "files": [
+        "https://enem.dev/2020/questions/155/616a68ac-c5eb-4ba7-9ee9-d77bf3e76567.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/155/a5ad527d-b464-4305-bf0f-ea26a64a918e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/155/e4dc8aff-576c-4a0b-8c94-34032a22579f.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/155/d93d2235-0dab-4fe1-bab4-2404d153f893.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/155/cc6d3cae-5262-44ea-8556-e2ce886bdda2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/155/8fbc6313-98de-4749-9887-04d7816cb7f6.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Questão 156 - ENEM 2022",
+    "index": 156,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:  \n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n\n![](https://enem.dev/2022/questions/156/2b1f4d30-ed72-40af-824d-6d394c9d948d.png)\n\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto _R_, sobre o segmento _OM_, sendo  o ponto médio do lado do quadrado original, de modo que ![](https://enem.dev/2022/questions/156/2a89a0e4-1a8b-4b3f-a678-97fa60066bcc.png), traçar um arco de circunferência de raio medindo ![](https://enem.dev/2022/questions/156/1665e780-8437-449e-b389-8d9729b2980c.png) com centro no ponto _R_, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n\n![](https://enem.dev/2022/questions/156/bf9a172b-bd1e-4e83-9d95-6bc3fd29eadc.png)",
+    "files": [
+        "https://enem.dev/2022/questions/156/2b1f4d30-ed72-40af-824d-6d394c9d948d.png",
+        "https://enem.dev/2022/questions/156/2a89a0e4-1a8b-4b3f-a678-97fa60066bcc.png",
+        "https://enem.dev/2022/questions/156/1665e780-8437-449e-b389-8d9729b2980c.png",
+        "https://enem.dev/2022/questions/156/bf9a172b-bd1e-4e83-9d95-6bc3fd29eadc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/538392d5-583a-4aa5-a47c-61ee0bc6b98d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/78436952-5965-4c7f-80c3-ca2eee79bb4e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/ddf97279-7187-4bc2-be7b-25bd70510a73.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/b09ad37a-893e-4709-8b48-bded413fc77f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/156/c3221442-88b6-455d-bf9f-5097c75188a2.png",
+            "isCorrect": false
+        }
+    ]
+}

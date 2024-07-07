@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2009",
+    "index": 29,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2009/questions/29/8b64e737-d832-4707-9ffe-9eb28b3f7b1c.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/29/8b64e737-d832-4707-9ffe-9eb28b3f7b1c.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Entre 12 e 24 nêutrons a menos que o número de prótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exatamente o mesmo número de prótons e nêutrons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 0 e 12 nêutrons a mais que o número de prótons.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre 12 e 24 nêutrons a mais que o número de prótons.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Entre 0 e 12 nêutrons a menos que o número de prótons.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2014",
+    "index": 140,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/140/4c998d12-4067-468b-8789-037afc8b6503.png)",
+    "files": [
+        "https://enem.dev/2014/questions/140/4c998d12-4067-468b-8789-037afc8b6503.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se cada brasileiro adotar o consumo de água indicado no quadro, mantendo o mesmo consumo nas demais atividades, então economizará diariamente, em média, em litros de água,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "69,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100,4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "130,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "170,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

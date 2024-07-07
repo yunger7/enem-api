@@ -1,0 +1,48 @@
+{
+    "title": "Questão 109 - ENEM 2018",
+    "index": 109,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A hidroxilamina ![](https://enem.dev/2018/questions/109/66c4ffd0-6613-4eeb-814b-bbc1af14dc03.png) é extremamente reativa em reações de substituição nucleofílica, justificando sua utilização em diversos processos. A reação de substituição nucleofílica entre o anidrido acético e a hidroxilamina está representada.\n\n![](https://enem.dev/2018/questions/109/c76a25db-af2f-4985-8997-70ef8cd8ee8c.png)\n\nO produto A é favorecido em relação ao B, por um fator de![](https://enem.dev/2018/questions/109/2c759bdf-637c-482b-9454-e0e5763ddfba.png). Em um estudo de possível substituição do uso de hidroxilamina, foram testadas as moléculas numeradas de 1 a 5.\n\n![](https://enem.dev/2018/questions/109/d38bf50f-c0b3-47ab-9561-6d571044de07.png)",
+    "files": [
+        "https://enem.dev/2018/questions/109/66c4ffd0-6613-4eeb-814b-bbc1af14dc03.png",
+        "https://enem.dev/2018/questions/109/c76a25db-af2f-4985-8997-70ef8cd8ee8c.png",
+        "https://enem.dev/2018/questions/109/2c759bdf-637c-482b-9454-e0e5763ddfba.png",
+        "https://enem.dev/2018/questions/109/d38bf50f-c0b3-47ab-9561-6d571044de07.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre as moléculas testadas, qual delas apresentou menor reatividade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

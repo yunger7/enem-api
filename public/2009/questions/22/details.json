@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2009",
+    "index": 22,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um medicamento, após ser ingerido, atinge a corrente sanguínea e espalha-se pelo organismo, mas, como suas moléculas “não sabem” onde é que está o problema, podem atuar em locais diferentes do local “alvo” e desencadear efeitos além daqueles desejados. Não seria perfeito se as moléculas dos medicamentos soubessem exatamente onde está o problema e fossem apenas até aquele local exercer sua ação? A técnica conhecida como iontoforese, indolor e não invasiva, promete isso. Como mostram as figuras, essa nova técnica baseia-se na aplicação de uma corrente elétrica de baixa intensidade sobre a pele do paciente, permitindo que fármacos permeiem membranas biológicas e alcancem a corrente sanguínea, sem passar pelo estômago. Muitos pacientes relatam apenas um formigamento no local de aplicação. O objetivo da corrente elétrica é formar poros que permitam a passagem do fármaco de interesse. A corrente elétrica é distribuída por eletrodos, positivo e negativo, por meio de uma solução aplicada sobre a pele. Se a molécula do medicamento tiver carga elétrica positiva ou negativa, ao entrar em contato com o eletrodo de carga de mesmo sinal, ela será repelida e forçada a entrar na pele (eletrorrepulsão – A). Se for neutra, a molécula será forçada a entrar na pele juntamente com o fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose – B).\n\n![](https://enem.dev/2009/questions/22/5109eb3c-8a36-48f7-a9e5-b71fcc02ec6d.png)",
+    "files": [
+        "https://enem.dev/2009/questions/22/5109eb3c-8a36-48f7-a9e5-b71fcc02ec6d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com as informações contidas no texto e nas figuras, o uso da iontoforese",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio da pele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminui o efeito colateral dos medicamentos, se comparados com aqueles em que a ingestão se faz por via oral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Deve ser eficaz para medicamentos constituídos de moléculas polares e ineficaz, se essas forem apolares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

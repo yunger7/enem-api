@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2015",
+    "index": 61,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas.\n\nADUAN, R. E. et al. **Os grandes ciclos biogeoquímicos do planeta**. Planaltina: Embrapa, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Animais garantem suas necessidades metabólicas desse elemento pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Absorção do gás nitrogênio pela respiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ingestão de moléculas de carboidratos vegetais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incorporação de nitritos dissolvidos na água consumida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Transferência da matéria orgânica pelas cadeias tróficas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Protocooperação com microrganismos fixadores de nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

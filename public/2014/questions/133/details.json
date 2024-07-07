@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2014",
+    "index": 133,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "No Brasil, a origem do _funk_ e do _hip-hop_ remonta aos anos 1970, quando da proliferação dos chamados “bailes _black_” nas periferias dos grandes centros urbanos. Embalados pela _black music_ americana, milhares de jovens encontravam nos bailes de final de semana uma alternativa de lazer antes inexistente. Em cidades como o Rio de Janeiro ou São Paulo, formavam-se equipes de som que promoviam bailes onde foi se disseminando um estilo que buscava a valorização da cultura negra, tanto na música como nas roupas e nos penteados. No Rio de Janeiro ficou conhecido como “_Black_ Rio”. A indústria fonográfica descobriu o filão e, lançando discos de “equipe” com as músicas de sucesso nos bailes, difundia a moda pelo restante do país.\n\nDAYRELL, J. **A música entra em cena**: o _rap_ e o _funk_ na socialização da juventude.Belo Horizonte: UFMG, 2005.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A presença da cultura hip-hop no Brasil caracteriza-se como uma forma de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Lazer gerada pela diversidade de práticas artísticas nas periferias urbanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Entretenimento inventada pela indústria fonográfica nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Subversão de sua proposta original já nos primeiros bailes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Afirmação de identidade dos jovens que a praticam.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reprodução da cultura musical norte-americana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

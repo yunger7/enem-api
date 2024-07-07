@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2018",
+    "index": 165,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em design e tecnologia.  \nDisponível em: http://g1.globo.com. Acesso em: 4 fev. 2015 (adaptado).\n\nUma montadora pretende participar desse evento com dois estandes, um na entrada e outro na região central do salão, expondo, em cada um deles, um carro compacto e uma caminhonete. Para compor os estandes, foram disponibilizados pela montadora quatro carros compactos, de modelos distintos, e seis caminhonetes de diferentes cores para serem escolhidos aqueles que serão expostos. A posição dos carros dentro de cada estande é irrelevante.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma expressão que fornece a quantidade de maneiras diferentes que os estandes podem ser compostos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/165/8a4d9acc-9b18-4293-9f6c-497c494f016d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/165/2ebeb5be-8227-4178-9641-4b0a73914b53.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/165/e6a7bd56-205b-4909-b7e2-997d45edf6d5.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/165/a309bdb0-fe6a-4deb-86a0-2b602347e266.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/165/af3980ac-cba2-48cd-aa9c-75da41077140.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2011",
+    "index": 142,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/142/29f02ac4-b2ab-4397-b8f4-de763ed2079f.png)",
+    "files": [
+        "https://enem.dev/2011/questions/142/29f02ac4-b2ab-4397-b8f4-de763ed2079f.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "17°C, 17°C e 13,5°C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "17°C, 18°C e 13,5°C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "17°C, 13,5°C e 18°C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "17°C, 18°C e 21,5°C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17°C, 13,5°C e 21,5°C.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

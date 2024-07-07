@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2020",
+    "index": 97,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

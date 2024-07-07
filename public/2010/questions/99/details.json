@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2010",
+    "index": 99,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**S.O.S Português**\n\nPor que pronunciamos muitas palavras de um jeito diferente da escrita? Pode-se refletir sobre esse aspecto da língua com base em duas perspectivas. Na primeira delas, fala e escrita são dicotômicas, o que restringe o ensino da língua ao código. Daí vem o entendimento de que a escrita é mais complexa que a fala, e seu ensino restringe-se ao conhecimento das regras gramaticais, sem a preocupação com situações de uso. Outra abordagem permite encarar as diferenças como um produto distinto de duas modalidades da língua: a oral e a escrita. A questão é que nem sempre nos damos conta disso.\n\nS.O.S Português. **Nova Escola.** São Paulo: Abril, Ano XXV, nº- 231, abr. 2010 (fragmento adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O assunto tratado no fragmento é relativo à língua portuguesa e foi publicado em uma revista destinada a professores. Entre as características próprias desse tipo de texto, identificam-se marcas linguísticas próprias do uso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Regional, pela presença de léxico de determinada região do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Literário, pela conformidade com as normas da gramática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Técnico, por meio de expressões próprias de textos científicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Coloquial, por meio do registro de informalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Oral, por meio do uso de expressões típicas da oralidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

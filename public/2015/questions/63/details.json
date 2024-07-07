@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2015",
+    "index": 63,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A dificuldade extra para reabrir a geladeira ocorre porque o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Volume de ar dentro da geladeira diminuiu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Motor da geladeira está funcionando com potência máxima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Força exercida pelo imã fixado na porta da geladeira aumenta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pressão no interior da geladeira está abaixo da pressão externa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2021",
+    "index": 155,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400g de frango, 600g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:\n\n![](https://enem.dev/2021/questions/155/0eb41d8c-7cd8-4398-96c2-b160d666be33.png)\n\nEm relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.",
+    "files": [
+        "https://enem.dev/2021/questions/155/0eb41d8c-7cd8-4398-96c2-b160d666be33.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "28,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "70,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

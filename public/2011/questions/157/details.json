@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2011",
+    "index": 157,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/157/162fac65-ca53-4c63-a21f-9aea8a41af78.png)",
+    "files": [
+        "https://enem.dev/2011/questions/157/162fac65-ca53-4c63-a21f-9aea8a41af78.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para o jovem investidor, ao final de um mês, a aplicação mais vantajosa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A poupança, pois totalizará um montante de R$ 502,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A poupança, pois totalizará um montante de R$ 500,56.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O CDB, pois totalizará um montante de R$ 504,38.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O CDB, pois totalizará um montante de R$ 504,21.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E o CDB, pois totalizará um montante de R$ 500,87.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

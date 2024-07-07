@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2014",
+    "index": 164,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A probabilidade de o teste terminar na quinta pergunta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,02048.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,08192.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,24000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,40960.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,49152.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

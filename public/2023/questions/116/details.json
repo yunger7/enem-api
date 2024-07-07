@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2023",
+    "index": 116,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.\n\n![](https://enem.dev/2023/questions/116/aab4b4fe-505c-4eda-a772-42a363f6ba8a.png)",
+    "files": [
+        "https://enem.dev/2023/questions/116/aab4b4fe-505c-4eda-a772-42a363f6ba8a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

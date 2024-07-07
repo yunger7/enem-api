@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2020",
+    "index": 128,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26°C a 28°C), bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam-se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ kg–1 K–1 e a densidade 1 kg L–1.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se o sistema de aquecimento for desligado por 1 h, qual o valor mais próximo para a redução da temperatura da água do aquário?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,0ºC",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,6°C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,9°C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "0,6°C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,3°C",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

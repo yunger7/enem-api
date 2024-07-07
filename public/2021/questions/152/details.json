@@ -1,0 +1,48 @@
+{
+    "title": "Questão 152 - ENEM 2021",
+    "index": 152,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo ![](https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png) e estrela \\*, definidas sobre o conjunto dos números reais por x![](https://enem.dev/2021/questions/152/60957aae-73c8-44ad-8f75-7191b1d65c70.png)y = x² + xy – y² e x \\* y = xy + x.\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma da duas maiores soluções da equação (a![](https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png)b)\\*(b![](https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png)a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.\n\nUm navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada b=1.",
+    "files": [
+        "https://enem.dev/2021/questions/152/566c5d72-c957-4664-b7f7-e1b92f024e70.png",
+        "https://enem.dev/2021/questions/152/60957aae-73c8-44ad-8f75-7191b1d65c70.png",
+        "https://enem.dev/2021/questions/152/b78eb0e6-f154-443d-a6f5-1ffeb2ff1252.png",
+        "https://enem.dev/2021/questions/152/54a56c94-9682-42f3-98b2-fc5a0fef2dba.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dessa forma, o valor recebido pelo navio receptor será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/152/c1747ad2-3295-4d07-af4a-018d7c412877.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/152/e3a76aed-69fd-4c41-a7ac-532a64efbcf3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/152/2340c837-a802-4570-be90-91fc8a3a0a6f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/152/fc88fa35-1166-4a50-8b3e-98825f086b76.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/152/51026f4e-2d93-4516-b1e1-65e937a6e88a.png",
+            "isCorrect": false
+        }
+    ]
+}

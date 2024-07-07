@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2015",
+    "index": 132,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015/questions/132/f752e297-25de-418f-83dd-500f299f5219.jpg)\n\nDisponível em: www.behance.net. Acesso em: 21 fev. 2013 (adaptado).\n\nA rapidez é destacada como uma das qualidades do serviço anunciado, funcionando como estratégia de persuasão em relação ao consumidor do mercado gráfico.",
+    "files": [
+        "https://enem.dev/2015/questions/132/f752e297-25de-418f-83dd-500f299f5219.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O recurso da linguagem verbal que contribui para esse destaque é o emprego",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Do termo \"fácil\" no início do anúncio, com foco no processo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De adjetivos que valorizam a nitidez da impressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Das formas verbais no futuro e no pretérito, em sequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Da expressão intensificadora \"menos do que\" associada à qualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da locução \"do mundo\" associada a \"melhor\", que quantifica a ação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

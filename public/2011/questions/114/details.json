@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2011",
+    "index": 114,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/114/f1377ead-441b-47bf-a1f3-25e20beac813.png)\n\nPICASSO, P. **Guernica**. Óleo sobre tela. 349 X 777 cm. Museu Reina Sofia, Espanha, 1937.  \nDisponível em: http://www.fddreis.files.wordpress.com. Acesso em: 26 jul. 2010.",
+    "files": [
+        "https://enem.dev/2011/questions/114/f1377ead-441b-47bf-a1f3-25e20beac813.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O pintor espanhol Pablo Picasso (1881-1973), um dos mais valorizados no mundo artístico, tanto em termos financeiros quanto históricos, criou a obra Guernica em protesto ao ataque aéreo à pequena cidade basca de mesmo nome. A obra, feita para integrar o Salão Internacional de Artes Plásticas de Paris, percorreu toda a Europa, chegando aos EUA e instalando-se no MoMA, de onde sairia apenas em 1981. Essa obra cubista apresenta elementos plásticos identificados pelo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Painel ideográfico, monocromático, que enfoca várias dimensões de um evento, renunciando à realidade, colocando-se em plano frontal ao espectador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Horror da guerra de forma fotográfica, com o uso da perspectiva clássica, envolvendo o espectador nesse exemplo brutal de crueldade do ser humano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Uso das formas geométricas no mesmo plano, sem emoção e expressão, despreocupado com o volume, a perspectiva e a sensação escultórica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Esfacelamento dos objetos abordados na mesma narrativa, minimizando a dor humana a serviço da objetividade, observada pelo uso do claro-escuro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de vários ícones que representam personagens fragmentados bidimensionalmente, de forma fotográfica livre de sentimentalismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

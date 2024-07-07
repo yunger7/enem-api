@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2009",
+    "index": 46,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Egito é visitado anualmente por milhões de turistas de todos os quadrantes do planeta, desejosos de ver com os próprios olhos a grandiosidade do poder esculpida em pedra há milênios: as pirâmides de Gizeh, as tumbas do Vale dos Reis e os numerosos templos construídos ao longo do Nilo.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O que hoje se transformou em atração turística era, no passado, interpretado de forma muito diferente, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Significava, entre outros aspectos, o poder que os faraós tinham para escravizar grandes contingentes populacionais que trabalhavam nesses monumentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Representava para as populações do alto Egito a possibilidade de migrar para o sul e encontrar trabalho nos canteiros faraônicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Significava a solução para os problemas econômicos, uma vez que os faraós sacrificavam aos deuses suas riquezas, construindo templos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Representava a possibilidade de o faraó ordenar a sociedade, obrigando os desocupados a trabalharem em obras públicas, que engrandeceram o próprio Egito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Significava um peso para a população egípcia, que condenava o luxo faraônico e a religião baseada em crenças e superstições.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

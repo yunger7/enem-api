@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2017",
+    "index": 111,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os botos-cinza (Sotalia guianensis), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.\n\nMARCOLINO, B. **Sentinelas do mar.** Disponível em:  http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os botos-cinza acumulam maior concentração dessas substâncias porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "São animais herbívoros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "São animais detritívoros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "São animais de grande porte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Digerem o alimento lentamente",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estão no topo da cadeia alimentar",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

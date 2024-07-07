@@ -1,0 +1,45 @@
+{
+    "title": "Questão 37 - ENEM 2017",
+    "index": 37,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2017/questions/37/4d4a90d7-9743-432c-8710-dacb137ea2d5.png)",
+    "files": [
+        "https://enem.dev/2017/questions/37/4d4a90d7-9743-432c-8710-dacb137ea2d5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A instalação Dengo transformou a sala do MAM-SP em um ambiente singular, explorando como principal característica artística a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Participação do público na interação lúdica com a obra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Distribuição de obstáculos no espaço da exposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Representação simbólica de objetos oníricos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interpretação subjetiva da lei da gravidade",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Valorização de técnicas de artesanato.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

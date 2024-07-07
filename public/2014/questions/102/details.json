@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2014",
+    "index": 102,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Era um dos meus primeiros dias na sala de música. A fim de descobrirmos o que deveríamos estar fazendo ali, propus à classe um problema. Inocentemente perguntei: — O que é música?\n\nPassamos dois dias inteiros tateando em busca de uma definição. Descobrimos que tínhamos de rejeitar todas as definições costumeiras porque elas não eram suficientemente abrangentes.\n\nO simples fato é que, à medida que a crescente margem a que chamamos de vanguarda continua suas explorações pelas fronteiras do som, qualquer definição se torna difícil. Quando John Cage abre a porta da sala de concerto e encoraja os ruídos da rua a atravessar suas composições, ele ventila a arte da música com conceitos novos e aparentemente sem forma.\n\nSCHAFER, R. M. **O ouvido pensante.** São Paulo: Unesp, 1991 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A frase “Quando John Cage abre a porta da sala de concerto e encoraja os ruídos da rua a atravessar suas composições”, na proposta de Schafer de formular uma nova conceituação de música, representa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Acessibilidade à sala de concerto como metáfora, num momento em que a arte deixou de ser elitizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Abertura da sala de concerto, que permitiu que a música fosse ouvida do lado de fora do teatro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Postura inversa à música moderna, que desejava se enquadrar em uma concepção conformista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intenção do compositor de que os sons extramusicais sejam parte integrante da música.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Necessidade do artista contemporâneo de atrair maior público para o teatro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

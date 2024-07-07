@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2012",
+    "index": 168,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = _k_⋅m2/3, em que _k_ é uma constante positiva.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "∛16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "√24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "64",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

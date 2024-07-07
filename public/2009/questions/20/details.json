@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2009",
+    "index": 20,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/20/a5b76cbb-b0e8-42a4-ba0f-ca81b7abdcb7.png)",
+    "files": [
+        "https://enem.dev/2009/questions/20/a5b76cbb-b0e8-42a4-ba0f-ca81b7abdcb7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capacidade de geração da usina?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduzir a quantidade de combustível fornecido à usina para ser queimado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reduzir o volume de água do lago que circula no condensador de vapor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Usar o calor liberado com os gases pela chaminé para mover um outro gerador.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

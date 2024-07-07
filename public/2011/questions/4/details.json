@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2011",
+    "index": 4,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.\n\nAB’SABER, A. Amazônia: do discurso à práxis. São Paulo: EdUSP, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão do Projeto Grande Carajás, com incentivos à chegada de novas empresas mineradoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Difusão do cultivo da soja com a implantação de monoculturas mecanizadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Construção da rodovia Transamazônica, com o objetivo de interligar a região Norte ao restante do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Criação de áreas extrativistas do látex das seringueiras para os chamados povos da floresta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliação do polo industrial da Zona Franca de Manaus, visando atrair empresas nacionais e estrangeiras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

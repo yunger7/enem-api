@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2018",
+    "index": 145,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Comissão Interna de Prevenção de Acidentes (CIPA) de uma empresa,  observando os altos custos com os frequentes acidentes de trabalho ocorridos, fez, a pedido da diretoria, uma pesquisa do número de acidentes sofridos por funcionários. Essa pesquisa, realizada com uma amostra de 100 funcionários, norteará as ações da empresa na política de segurança no trabalho.  \nOs resultados obtidos estão no quadro.\n\n![](https://enem.dev/2018/questions/145/bc57dd00-a683-42ea-95a4-b3ffd7949f55.png)",
+    "files": [
+        "https://enem.dev/2018/questions/145/bc57dd00-a683-42ea-95a4-b3ffd7949f55.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A média do número de acidentes por funcionário na amostra que a CIPA apresentará à diretoria da empresa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,11.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2,22.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

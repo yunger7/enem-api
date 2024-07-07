@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2013",
+    "index": 110,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/110/31fe6a6e-8c30-48fb-af8a-ad8ce7660434.png)\n\nCAULOS. Disponível em: www.caulos.com. Acesso em 24 set. 2011. (Foto: Reprodução)",
+    "files": [
+        "https://enem.dev/2013/questions/110/31fe6a6e-8c30-48fb-af8a-ad8ce7660434.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O cartum faz uma crítica social. A figura destacada está em oposição às outras e representa a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A opressão das minorias sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Carência de recursos tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Falta de liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Defesa da qualificação profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reação ao controle do pensamento coletivo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

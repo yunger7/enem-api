@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2011",
+    "index": 23,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O acidente nuclear de Chernobyl revela brutalmente os limites dos poderes técnico-científicos da humanidade e as “marchas-à-ré” que a “natureza” nos pode reservar. É evidente que uma gestão mais coletiva se impõe para orientar as ciências e as técnicas em direção a finalidades mais humanas.\n\nGUATTARI, F. **As três ecologias.** São Paulo: Papirus, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto trata do aparato técnico-científico e as suas consequências para a humanidade, propondo que esse desenvolvimento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Defina seus projetos a partir dos interesses coletivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Guie-se por interesses econômicos, prescritos pela lógica do mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Priorize a evolução da tecnologia, se apropriando da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promova a separação entre natureza e sociedade tecnológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tenha gestão própria, com o objetivo de melhor apropriação da natureza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

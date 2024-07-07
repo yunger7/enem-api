@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2018",
+    "index": 123,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As células e os organismos precisam realizar trabalho para permanecerem vivos e se reproduzirem. A energia metabólica necessária para a realização desse trabalho é oriunda da oxidação de combustíveis, gerados no ciclo do carbono, por meio de processos capazes de interconverter diferentes formas da energia.\n\n![](https://enem.dev/2018/questions/123/3977558a-4f02-4074-8df4-aaba2d29cf9c.png)",
+    "files": [
+        "https://enem.dev/2018/questions/123/3977558a-4f02-4074-8df4-aaba2d29cf9c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse ciclo, a formação de combustíveis está vinculada à conversão de energia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Térmica em cinética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Química em térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eletroquímica em calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cinética em eletromagnética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Eletromagnética em química.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

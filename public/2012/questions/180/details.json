@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2012",
+    "index": 180,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%.\n\n_Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado)._",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Levando em consideração o processo de cozimento e a contração sofrida, o volume V de uma travessa de argila, de forma cúbica de aresta a, diminui para um valor que é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36% menor que V, porque a área da base diminui de a2 para ((1 − 0,2)a)².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "48,8% menor que V, porque o volume diminui de a3 para (0,8a)³.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "51,2% menor que V, porque cada lado diminui para 80% do comprimento original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60% menor que V, porque cada lado diminui 20%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

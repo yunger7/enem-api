@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2020",
+    "index": 161,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/161/b1c014ca-a24a-413c-94fa-3a9738e43d15.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/161/82d66f6a-b63c-4dbe-aff4-db60a505a377.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/161/44c4f327-14d4-4977-aba5-fc772822fab0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/161/88450c4c-cd06-4802-b378-c9fd4157e5d9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/161/f2ebf7bd-9cea-4c0c-b51b-3ab66f0856b2.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2019",
+    "index": 51,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em sentido geral e fundamental, Direito é a técnica da coexistência humana, isto é, a técnica voltada a tornar possível a coexistência dos homens. Como técnica, o Direito se concretiza em um conjunto de regras (que, nesse caso, são leis ou normais); e tais regras têm por objeto o comportamento intersubjetivo, isto é, o comportamento recíproco dos homens entre si.\nABBAGNANO, N. Dicionário de Filosofia. São Paulo: Martins Fontes, 2007.\n \nO sentido geral e fundamental do Direito, conforme foi destacado, refere-se à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aplicação de códigos legais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Regulação do convívio social.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Legitimação de decisões políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mediação de conflitos econômicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Representação da autoridade constituída.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

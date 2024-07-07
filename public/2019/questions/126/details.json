@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2019",
+    "index": 126,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma casa tem um cabo elétrico mal dimensionado, de resistência igual a 10, que a conecta à rede elétrica de 120V. Nessa casa, cinco lâmpadas, de resistência igual a 200, estão conectadas ao mesmo circuito que uma televisão de resistência igual a 50, conforme ilustrado no esquema. A televisão funciona apenas com tensão entre 90V e 130V.\n\n![](https://enem.dev/2019/questions/126/cd4b4ead-40f5-4d46-9f98-a30a4849cd5e.png)",
+    "files": [
+        "https://enem.dev/2019/questions/126/cd4b4ead-40f5-4d46-9f98-a30a4849cd5e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número máximo de lâmpadas que podem ser ligadas sem que a televisão pare de funcionar é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 2015",
+    "index": 60,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/60/93af8634-f0ad-42f2-950c-77604c549440.png)",
+    "files": [
+        "https://enem.dev/2015/questions/60/93af8634-f0ad-42f2-950c-77604c549440.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os produtos obtidos na oxidação do alceno representado, em solução aquosa de KMnO4, são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ácido benzoico e ácido etanoico",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ácido benzoico e ácido propanoico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ácido etanoico e ácido 2-feniletanoico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ácido 2-feniletanoico e ácido metanoico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido 2-feniletanoico e ácido propanoico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

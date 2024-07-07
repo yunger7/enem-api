@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2020",
+    "index": 101,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações Dl e D2.\n\n![](https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png)",
+    "files": [
+        "https://enem.dev/2020/questions/101/aa85fb73-5f76-41ff-958e-c194b4a9a3eb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A representação indica que, no momento D, na situação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dl ocorre um novo fator de isolamento geográfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dl existe uma única população distribuída em gradiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dl ocorrem duas populações separadas por isolamento reprodutivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D2 coexistem duas populações com características fenotípicas distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "D2 foram preservadas as mesmas características fenotípicas da população original A.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2011",
+    "index": 11,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/11/bcc2c6b7-572b-4b88-9071-d9769f02e339.jpg)\n\nDisponível em: http://www.ra-bugio.org.br. Acesso em: 28 jul. 2010.",
+    "files": [
+        "https://enem.dev/2011/questions/11/bcc2c6b7-572b-4b88-9071-d9769f02e339.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A imagem retrata a araucária, árvore que faz parte de um importante bioma brasileiro que, no entanto, já foi bastante degradado pela ocupação humana. Uma das formas de intervenção humana relacionada à degradação desse bioma foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O avanço do extrativismo de minerais metálicos voltados para a exportação na região Sudeste.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A contínua ocupação agrícola intensiva de grãos na região Centro-Oeste do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O processo de desmatamento motivado pela expansão da atividade canavieira no Nordeste brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O avanço da indústria de papel e celulose a partir da exploração da madeira, extraída principalmente no Sul do Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O adensamento do processo de favelização sobre áreas da Serra do Mar na região Sudeste.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

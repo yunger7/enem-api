@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2013",
+    "index": 106,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O sociólogo espanhol Manuel Castells sustenta que “a comunicação de valores e a mobilização em torno do sentido são fundamentais. Os movimentos culturais (entendidos como movimentos que têm como objetivo defender ou propor modos próprios de vida e sentido) constroem-se em torno de sistemas de comunicação – essencialmente a internet e os meios de comunicação – porque esta é a principal via que esses movimentos encontram para chegar àquelas pessoas que podem eventualmente partilhar os seus valores, e a partir daqui atuar na consciência da sociedade no seu conjunto”.\n\nDisponível em: www.compolitica.org. Acesso em: 2 mar. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em 2011, após uma forte mobilização popular via redes sociais, houve a queda do governo de Hosni Mubarak no Egito. Esse evento ratifica o argumento de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A internet atribui verdadeiros valores culturais aos seus usuários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A consciência das sociedades foi estabelecida com o advento da internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A revolução tecnológica tem como principal objetivo a deposição de governantes antidemocráticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os sistemas de comunicação são mecanismos importantes, de adesão e compartilhamento de valores sociais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

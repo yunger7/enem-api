@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2013",
+    "index": 56,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A imagem representa uma ilustração retirada do livro De Motu Cordis, de autoria do médico inglês Willian Harvey, que fez importantes contribuições para o entendimento do processo de circulação do sangue no corpo humano. No experimento ilustrado, Harvey, após aplicar um torniquete (A) no braço de um voluntário e esperar alguns vasos incharem, pressionava-os em um ponto (H). Mantendo o ponto pressionado, deslocava o conteúdo de sangue em direção ao cotovelo, percebendo que um trecho do vaso sanguíneo permanecia vazio após esse processo (H-O).\n\n![](https://enem.dev/2013/questions/56/39abafba-13f7-4385-89b6-9d4edaab466e.png)",
+    "files": [
+        "https://enem.dev/2013/questions/56/39abafba-13f7-4385-89b6-9d4edaab466e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A demonstração de Harvey permite estabelecer a relação entre circulação sanguínea e",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pressão arterial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Válvulas venosas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Circulação linfática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contração cardíaca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transporte de gases.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

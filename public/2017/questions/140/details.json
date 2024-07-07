@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2017",
+    "index": 140,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 cm e 5 cm, respectivamente.\n\n![](https://enem.dev/2017/questions/140/40dd65c7-1ff1-420a-a8b1-27f26691f08b.png)",
+    "files": [
+        "https://enem.dev/2017/questions/140/40dd65c7-1ff1-420a-a8b1-27f26691f08b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "192.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "300.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "304.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "320.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "400.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

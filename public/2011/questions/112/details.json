@@ -1,0 +1,46 @@
+{
+    "title": "Questão 112 - ENEM 2011",
+    "index": 112,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n![](https://enem.dev/2011/questions/112/0c0d18b7-d2f7-473a-b14a-84793118256f.png)\n\nToca do Salitre – Piauí  \nDisponível em: http://www.fumdham.org.br. Acesso em: 27 jul. 2010.\n\n**TEXTO II**\n\n![](https://enem.dev/2011/questions/112/afb1243e-488a-4092-a586-01e503a45818.png)\n\nArte Urbana. Foto: Diego Singh  \nDisponível em: http://www.diaadia.pr.gov.br. Acesso em: 27 jul. 2010.",
+    "files": [
+        "https://enem.dev/2011/questions/112/0c0d18b7-d2f7-473a-b14a-84793118256f.png",
+        "https://enem.dev/2011/questions/112/afb1243e-488a-4092-a586-01e503a45818.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O grafite contemporâneo, considerado em alguns momentos como uma arte marginal, tem sido comparado às pinturas murais de várias épocas e às escritas pré-históricas. Observando as imagens apresentadas, é possível reconhecer elementos comuns entre os tipos de pinturas murais, tais como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A preferência por tintas naturais, em razão de seu efeito estético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A inovação na técnica de pintura, rompendo com modelos estabelecidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O registro do pensamento e das crenças das sociedades em várias épocas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A repetição dos temas e a restrição de uso pelas classes dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O uso exclusivista da arte para atender aos interesses da elite.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

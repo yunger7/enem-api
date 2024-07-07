@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2009",
+    "index": 124,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Oximoro, ou paradoxismo, é uma figura de retórica em que se combinam palavras de sentido oposto que parecem excluir-se mutuamente, mas que, no contexto, reforçam a expressão.\n\n**Dicionário Eletrônico Houaiss da Língua Portuguesa.**",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando a definição apresentada, o fragmento poético da obra Cantares, de Hilda Hilst, publicada em 2004, em que pode ser encontrada a referida figura de retórica é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Dos dois contemplo  rigor e fixidez.  Passado e sentimento  me contemplam” (p. 91).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“De sol e lua  De fogo e vento  Te enlaço” (p. 101).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Areia, vou sorvendo  A água do teu rio” (p. 93).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Ritualiza a matança  de quem só te deu vida.  E me deixa viver  nessa que morre” (p. 62).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "“O bisturi e o verso.  Dois instrumentos  entre as minhas mãos” (p. 95).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

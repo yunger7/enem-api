@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2012",
+    "index": 159,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/159/4889b43a-36e3-4b29-91b2-ab87fda455d7.png)",
+    "files": [
+        "https://enem.dev/2012/questions/159/4889b43a-36e3-4b29-91b2-ab87fda455d7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Avaliando-se todas as informações, serão necessários",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Quatro unidades do tipo A e nenhuma unidade do tipo B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Três unidades do tipo A e uma unidade do tipo B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Duas unidades do tipo A e duas unidades do tipo B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Uma unidade do tipo A e três unidades do tipo B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nenhuma unidade do tipo A e quatro unidades do tipo B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

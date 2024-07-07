@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2017",
+    "index": 147,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linhas. Nele, a profundidade h, registrada às 13 horas, não foi anotada e, a partir de h, cada unidade sobre o eixo vertical representa um metro.\n\n![](https://enem.dev/2017/questions/147/285302d4-e938-4376-a2f3-3f320be38b8c.png)\n\nFoi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10%.",
+    "files": [
+        "https://enem.dev/2017/questions/147/285302d4-e938-4376-a2f3-3f320be38b8c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Às 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

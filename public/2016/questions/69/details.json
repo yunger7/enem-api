@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2016",
+    "index": 69,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Recentemente um estudo feito em campos de trigo mostrou que níveis elevados do dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.\n\nBloom, A J et al. Nitrate assimilation is inhibited by elevated CO2 in field grown wheat. **Nature Climate Change**, n. 4., abr 2014, adaptado.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse contexto, a qualidade nutricional do grão de trigo será modificada primeiramente pela redução de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Amido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Frutose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Lipídeos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Celulose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Proteínas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

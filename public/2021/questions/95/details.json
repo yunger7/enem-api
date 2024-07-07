@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2021",
+    "index": 95,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os pesticidas organoclorados foram amplamente empregados na agricultura, contudo, em razão das suas elevadas toxicidades e persistências no meio ambiente, eles foram banidos. Considere a aplicação de 500 g de um pesticida organoclorado em uma cultura e que, em certas condições, o tempo de meia-vida do pesticida no solo seja de 5 anos.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A massa do pesticida no decorrer de 35 anos será mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,9 g.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "31, 2 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "62,5 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "125,0 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "250,0 g.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

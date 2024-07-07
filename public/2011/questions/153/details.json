@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2011",
+    "index": 153,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Observe as dicas para calcular a quantidade certa de alimentos e bebidas para as festas de fim de ano:\n\n*   Para o prato principal, estime 250 gramas de carne para cada pessoa.\n*   Um copo americano cheio de arroz rende o suficiente para quatro pessoas.\n*   Para a farofa, calcule quatro colheres de sopa por convidado.\n*   Uma garrafa de vinho serve seis pessoas.\n*    Uma garrafa de cerveja serve duas.\n*    Uma garrafa de espumante serve três convidados.\n\nQuem organiza festas faz esses cálculos em cima do total de convidados, independente do gosto de cada um.\n\nQuantidade certa de alimentos e bebidas evita o desperdício da ceia.  \n**Jornal Hoje** 17 dez. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Um anfitrião decidiu seguir essas dicas ao se preparar para receber 30 convidados para a ceia de Natal. Para seguir essas orientações à risca, o anfitrião deverá dispor de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "120\tkg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "75 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7,5 kg de carne, 7 copos americanos de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7,5 kg de carne, 7 copos americanos e meio de arroz arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

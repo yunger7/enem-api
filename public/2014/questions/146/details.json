@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2014",
+    "index": 146,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O número de divisores de N, diferentes de N, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X. y. z",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(x+ 1).(y + 1)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "X . y . z - 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(x + 1).(y + 1).z",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(x + 1).(y + 1).(z + 1) - 1",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

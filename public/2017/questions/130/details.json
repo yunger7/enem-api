@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2017",
+    "index": 130,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes com a fase estacionária migram mais lentamente.\n\nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\nRIBEIRO, N.M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel, **Química Nova na Escola**, n.29, ago. 2008 (adaptado).\n\n![](https://enem.dev/2017/questions/130/5e013833-b780-40ce-ae64-9f1dd61cb6fa.png)",
+    "files": [
+        "https://enem.dev/2017/questions/130/5e013833-b780-40ce-ae64-9f1dd61cb6fa.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A substância presente na mistura que migra mais lentamente é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Licopeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Α-caroteno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Γ-caroteno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Capsorubina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Α-criptoxantina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

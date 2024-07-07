@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2013",
+    "index": 51,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativos.\n\nCORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hidrelétricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Termelétricas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Usinas geotérmicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fontes de energia solar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fontes de energia eólica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

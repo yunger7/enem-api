@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2014",
+    "index": 11,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira.\n\n_VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand Brasil, 1992 (adaptado)._",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Isonomia — igualdade de tratamento aos cidadãos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Transparência — acesso às informações governamentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tripartição — separação entre os poderes políticos estatais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Equiparação — igualdade de gênero na participação política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Elegibilidade — permissão para candidatura aos cargos públicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

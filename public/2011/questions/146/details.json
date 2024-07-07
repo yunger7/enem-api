@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2011",
+    "index": 146,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Sabe-se que a distância real, em linha reta, de uma cidade A, localizada no estado de São Paulo, a uma cidade B, localizada no estado de Alagoas, é igual a 2 000 km. Um estudante, ao analisar um mapa, verificou com sua régua que a distância entre essas duas cidades, A e B, era 8 cm.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os dados nos indicam que o mapa observado pelo estudante está na escala de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 250.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 2 500.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 25 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 250 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 25 000 000.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

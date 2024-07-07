@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2019",
+    "index": 157,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos.  \nUma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas. Uma dessas secções está indicada na figura.\n\n![](https://enem.dev/2019/questions/157/e0eaf50b-03c5-42bc-832c-97f1431e7887.jpg)",
+    "files": [
+        "https://enem.dev/2019/questions/157/e0eaf50b-03c5-42bc-832c-97f1431e7887.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa luminária terá por faces",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 hexágonos regulares e 4 triângulos equiláteros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2 hexágonos regulares e 4 triângulos equiláteros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 quadriláteros e 4 triângulos isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 quadriláteros e 4 triângulos isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 hexágonos regulares e 4 triângulos equiláteros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

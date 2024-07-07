@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2023",
+    "index": 149,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um controlador de voo dispõe de um instrumento que descreve a altitude de uma aeronave em voo, em função da distância em solo. Essa distância em solo é a medida na horizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, em voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida.\n\nA tela do instrumento representa proporcionalmente as dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado de cada quadradinho da malha igual a 1 cm.\n\n![](https://enem.dev/2023/questions/149/a88a534d-3ee0-4b70-aba7-1b3e7c46b5f3.png)",
+    "files": [
+        "https://enem.dev/2023/questions/149/a88a534d-3ee0-4b70-aba7-1b3e7c46b5f3.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 55.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 5000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 500 000.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2016",
+    "index": 105,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016/questions/105/65d578ec-20a8-4ba0-ac09-0ab3460af118.png)\n\n**National Geographic Brasil**, n. 151, out. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016/questions/105/65d578ec-20a8-4ba0-ac09-0ab3460af118.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa campanha publicitária, para estimular a economia de água, o leitor é incitado a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adotar práticas de consumo consciente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Alterar hábitos de higienização pessoal e residencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Contrapor-se a formas indiretas de exportação de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Optar por vestuário produzido com matéria-prima reciclável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Conscientizar produtores rurais sobre os custos de produção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

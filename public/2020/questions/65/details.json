@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2020",
+    "index": 65,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2020/questions/65/e01ad380-5dc4-48fd-82c4-9e01c26796e9.png)\n\nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como uma regulação específica.\n\nLIMA, R. C.; PENHA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). **Confins**, n.26, fev. 2016.",
+    "files": [
+        "https://enem.dev/2020/questions/65/e01ad380-5dc4-48fd-82c4-9e01c26796e9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alteração da matriz econômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Substituição do modal hidroviário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Retração do contingente demográfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Projeção do escoamento produtivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Estagnação de lavouras policultoras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

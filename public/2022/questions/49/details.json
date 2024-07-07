@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2022",
+    "index": 49,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2022/questions/49/ba3420e0-0e8e-42b0-bf25-a995abbb85d2.png)\n\n**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
+    "files": [
+        "https://enem.dev/2022/questions/49/ba3420e0-0e8e-42b0-bf25-a995abbb85d2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nível altimétrico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ciclo hidrológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Padrão climático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tectônica das placas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estrutura das rochas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

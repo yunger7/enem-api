@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2016",
+    "index": 46,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em sua formulação, o spray de pimenta contém porcentagens variadas de oleorresina de Capsicum, cujo princípio ativo é a capsaicina, e um solvente (um álcool como etanol ou isopropanol). Em contato com os olhos, pele ou vias respiratórias, a capsaicina causa um efeito inflamatório que gera uma sensação de dor e ardor, levando à cegueira temporária. O processo é desencadeado pela liberação de neuropeptídios das terminações nervosas.\n\n**Como funciona o gás de pimenta**. Disponível em: http://pessoas.hsw.uol.com.br. Acesso em: 1 mar. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quando uma pessoa é atingida com o spray de pimenta nos olhos ou na pele, a lavagem da região atingida com água é ineficaz porque a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reação entre etanol e água libera calor, intensificando o ardor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Solubilização do óleo em água causa um maior espalhamento além das áreas atingidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

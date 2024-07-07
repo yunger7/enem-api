@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2019",
+    "index": 116,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fluidez da membrana celular é caracterizada pela capacidade de movimento das moléculas componentes dessa estrutura. Os seres vivos mantêm essa propriedade de duas formas: controlando a temperatura e/ou alterando a composição lipídica da membrana. Neste último aspecto, o tamanho e o grau de insaturação das caudas hidrocarbônicas dos fosfolipídios, conforme representados na figura, influenciam significativamente a fluidez. Isso porque quanto maior for a magnitude das interações entre os fosfolipídios, menor será a fluidez da membrana.\n\n![](https://enem.dev/2019/questions/116/5a999021-a208-4ea8-a24b-dc0b566cb336.png)",
+    "files": [
+        "https://enem.dev/2019/questions/116/5a999021-a208-4ea8-a24b-dc0b566cb336.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual das bicamadas lipídicas apresentadas possui maior fluidez?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2013",
+    "index": 62,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Lisossomo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mitocôndria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Peroxissomo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Complexo golgiense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Retículo endoplasmático.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

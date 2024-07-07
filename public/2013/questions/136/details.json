@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2013",
+    "index": 136,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/136/2b7178ab-7991-4b9d-9232-a6f9dadd475c.png)",
+    "files": [
+        "https://enem.dev/2013/questions/136/2b7178ab-7991-4b9d-9232-a6f9dadd475c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Utilizando 0,26 como valor aproximado para a tangente de 15° e duas casas decimais nas operações, descobre-se que a área da base desse prédio ocupa na avenida um espaço",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor que 100 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Entre 100 m² e 300 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Entre 300 m² e 500 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Entre 500 m² e 700 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 700 m²",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

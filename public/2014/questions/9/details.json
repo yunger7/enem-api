@@ -1,0 +1,45 @@
+{
+    "title": "Questão 9 - ENEM 2014",
+    "index": 9,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/9/de4e7360-b8c8-4652-a4a9-b54cfd9a7683.jpg)\n\n**TEXTO II**\n\nA Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de crédito ou telefones celulares ou cobrar contas em atraso.\n\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2014/questions/9/de4e7360-b8c8-4652-a4a9-b54cfd9a7683.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao relacionar os textos, a explicação para o processo de territorialização descrito está no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aceitação das diferenças culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adequação da posição geográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incremento do ensino superior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Qualidade da rede logística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Custo da mão de obra local.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

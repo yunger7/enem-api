@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2009",
+    "index": 114,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2009/questions/114/210b6d6d-83b0-4ea3-9e5e-f132e9192614.jpg)\n\nVocê sabia que as metrópoles são as grandes consumidoras dos produtos feitos com recursos naturais da Amazônia? Você pode diminuir os impactos à floresta adquirindo produtos com selos de certificação. Eles são encontrados em itens que vão desde lápis e embalagens de papelão até móveis, cosméticos e materiais de construção. Para receber os selos esses produtos devem ser fabricados sob 10 princípios éticos, entre eles o respeito à legislação ambiental e aos direitos de povos indígenas e populações que vivem em nossas matas nativas.\n\n**Vida simples**. Ed. 74, dez. 2008.",
+    "files": [
+        "https://enem.dev/2009/questions/114/210b6d6d-83b0-4ea3-9e5e-f132e9192614.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto e a imagem têm por finalidade induzir o leitor a uma mudança de comportamento a partir do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Consumo de produtos naturais provindos da Amazônia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cuidado na hora de comprar produtos alimentícios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Verificação da existência do selo de padronização de produtos industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Certificação de que o produto foi fabricado de acordo com os princípios éticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Verificação da garantia de tratamento dos recursos naturais utilizados em cada produto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

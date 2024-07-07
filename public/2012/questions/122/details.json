@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2012",
+    "index": 122,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/122/56b6ba08-f28d-4c6e-9548-dae589b81f9c.png)\n\nCapa do LP **Os Mutantes**, 1968.  \nDisponível em: http://mutantes.com. Acesso em: 28 fev. 2012.",
+    "files": [
+        "https://enem.dev/2012/questions/122/56b6ba08-f28d-4c6e-9548-dae589b81f9c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A capa do LP Os Mutantes, de 1968, ilustra o movimento da contracultura. O desafio à tradição nessa criação musical é caracterizado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Letras e melodias com características amargas e depressivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Arranjos baseados em ritmos e melodias nordestinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sonoridades experimentais e confluência de elementos populares e eruditos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Temas que refletem situações domésticas ligadas à tradição popular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ritmos contidos e reservados em oposição aos modelos estrangeiros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

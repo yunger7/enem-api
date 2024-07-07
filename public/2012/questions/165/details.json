@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2012",
+    "index": 165,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/165/3fbde9b0-ee25-43f8-8514-0b3b42bd2adc.png)\n\nO deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C.",
+    "files": [
+        "https://enem.dev/2012/questions/165/3fbde9b0-ee25-43f8-8514-0b3b42bd2adc.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O desenho que Bruno deve fazer é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/165/8889758c-e418-4553-8e26-b602b0862a7e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/165/38082c65-4727-4561-8ea3-0de04aa0346b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/165/8b2481ca-b8ca-4958-8eec-be9f7ce78448.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/165/2adf001e-6960-46c9-91bc-fa1ca2b925f9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/165/1332407d-5c97-49e1-b94a-2a46220809ac.png",
+            "isCorrect": true
+        }
+    ]
+}

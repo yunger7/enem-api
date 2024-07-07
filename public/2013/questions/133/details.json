@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2013",
+    "index": 133,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png)",
+    "files": [
+        "https://enem.dev/2013/questions/133/52fff104-0a57-491a-a13e-80f4ca2c1da6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Analisando-se as informações verbais e a imagem associada a uma cabeça humana, compreende-se que a venda",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Faz uma denúncia quanto às informações que são omitidas dos usuários da rede, sendo empregada no sentido conotativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diz respeito a um buraco negro digital, onde estão escondidas as informações buscadas pelo usuário nos sites que acessa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Está associada a um conjunto de restrições sociais presentes na vida daqueles que estão sempre conectados à internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Remete às bases de dados da web, protegidas por senhas ou assinaturas e às quais o navegador não tem acesso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

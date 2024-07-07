@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2017",
+    "index": 142,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um casal realiza sua mudança de domicílio e necessita colocar numa caixa de papelão um objeto cúbico, de 80 cm de aresta, que não pode ser desmontado. Eles têm à disposição cinco caixas, com diferentes dimensões, conforme descrito:\n\n• Caixa 1: 86 cm x 86 cm x 86 cm  \n• Caixa 2: 75 cm x 82 cm x 90 cm  \n• Caixa 3: 85 cm x 82 cm x 90 cm  \n• Caixa 4: 82 cm x 95 cm x 82 cm  \n• Caixa 5: 80 cm x 95 cm x 85 cm\n\nO casal precisa escolher uma caixa na qual o objeto caiba, de modo que sobre o menor espaço livre em seu interior.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A caixa escolhida pelo casal deve ser a de número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

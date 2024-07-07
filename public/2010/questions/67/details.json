@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2010",
+    "index": 67,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O abastecimento de nossas necessidades energéticas futuras dependerá certamente do desenvolvimento de tecnologias para aproveitar a energia solar com maior eficiência. A energia solar é a maior fonte de energia mundial. Num dia ensolarado, por exemplo, aproximadamente 1 kJ de energia solar atinge cada metro quadrado de superfície terrestre por segundo. No entanto, o aproveitamento dessa energia é difícil porque ela é diluída (distribuída por uma área muito extensa) e oscila com o horário e as condições climáticas. O uso efetivo da energia solar depende de formas de estocar a energia coletada para o uso posterior.\n\nBROWN, T. **Química e Ciência Central**. São Paulo: Pearson Prentice Hall, 2005.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Atualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH4(g)+ H2O(v) + calor ↔CO(g) + 3H2(g) e analisando-a como potencial mecanismo para aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Insatisfatória, pois a reação apresentada não permite que a energia presente no meio externo seja absorvida pelo sistema para ser utilizada posteriormente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Insatisfatória, uma vez que há formação de gases poluentes e com potencial poder explosivo, tornando-a uma reação perigosa e de difícil controle.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Insatisfatória, uma vez que a a formação do gás CO que não possui conteúdo energético passível de ser aproveitado posteriormente e é considerado um gás poluente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para a obtenção de energia e realização de trabalho útil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Satisfatória, uma vez que a reação direta ocorre com liberação de calor havendo ainda a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para a obtenção de energia a realização de trabalho útil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2016",
+    "index": 40,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A mundialização introduz o aumento da produtividade do trabalho sem acumulação de capital, justamente pelo caráter divisível da forma técnica molecular digital do que resulta a permanência da má distribuição da renda: exemplificando mais uma vez, os vendedores de refrigerantes às portas dos estádios viram sua produtividade aumentada graças ao _just in time_ dos fabricantes e distribuidores de bebidas, mas para realizar o valor de tais mercadorias, a forma do trabalho dos vendedores é a mais primitiva. Combinam-se, pois, acumulação molecular-digital com o puro uso da força de trabalho.\n\nOLIVEIRA, F. **Crítica à razão dualista e o ornitorrinco**. Campinas Boitempo, 2003.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os aspectos destacados no texto afetam diretamente questões como emprego e renda, sendo possível explicar essas transformações pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Crise bancária e o fortalecimento do capital industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inovação toyotista e a regularização do trabalho formal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Impacto da tecnologia e as modificações na estrutura produtiva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Emergência da globalização e a expansão do setor secundário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição do tempo de trabalho e a necessidade do diploma superior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

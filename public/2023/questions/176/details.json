@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2023",
+    "index": 176,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n\n![](https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png)",
+    "files": [
+        "https://enem.dev/2023/questions/176/d21e916b-a5fc-441e-b782-d2d4aca3522b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O oitavo número pentagonal é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "59",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "83",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "89",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "92",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

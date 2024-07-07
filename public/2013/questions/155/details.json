@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2013",
+    "index": 155,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma indústria tem um reservatório de água com capacidade para 900 m³. Quando há necessidade de limpeza do reservatório, toda a água precisa ser escoada. O escoamento da água é feito por seis ralos, e dura 6 horas quando o reservatório está cheio. Esta indústria construirá um novo reservatório, com capacidade de 500 m³, cujo escoamento da água deverá ser realizado em 4 horas, quando o reservatório estiver cheio. Os ralos utilizados no novo reservatório deverão ser idênticos aos do já existente.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantidade de ralos do novo reservatório deverá ser igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

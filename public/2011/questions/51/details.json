@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2011",
+    "index": 51,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para evitar o desmatamento da Mata Atlântica nos arredores da cidade de Amargosa, no Recôncavo da Bahia, o Ibama tem atuado no sentido de fiscalizar, entre outras, as pequenas propriedades rurais que dependem da lenha proveniente das matas para a produção da farinha de mandioca, produto típico da região. Com isso, pequenos produtores procuram alternativas como o gás de cozinha, o que encarece a farinha.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma alternativa viável, em curto prazo, para os produtores de farinha em Amargosa, que não cause danos à Mata Atlântica nem encareça o produto é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Construção, nas pequenas propriedades, de grandes fornos elétricos para torrar a mandioca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Plantação, em suas propriedades, de árvores para serem utilizadas na produção de lenha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Permissão, por parte do Ibama, da exploração da Mata Atlântica apenas pelos pequenos produtores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Construção de biodigestores, para a produção de gás combustível a partir de resíduos orgânicos da região.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Coleta de carvão de regiões mais distantes, onde existe menor intensidade de fiscalização do Ibama.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

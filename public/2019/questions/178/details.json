@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2019",
+    "index": 178,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\n\n![](https://enem.dev/2019/questions/178/91a4ab56-2851-496f-9121-d38813d52781.png)\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da ultima semana.\n\nQuanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da ultima semana.",
+    "files": [
+        "https://enem.dev/2019/questions/178/91a4ab56-2851-496f-9121-d38813d52781.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "27.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "44.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "55.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "71.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2020",
+    "index": 138,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa d’água tem dimensões 2 cm x 3,51 cm x 4 cm.\n\nDado: 1 dm3 = 1 L",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A escala usada pelo arquiteto foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 100",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1 : 1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 10 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 100 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

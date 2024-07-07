@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2020",
+    "index": 43,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2.000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme.\n\nO exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada.\n\n**Disponível em:** https://tab.uol.com.br. _Acesso em: 11 ago. 2017 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Agilidade dos softwares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Passar dos anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Linguagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Preconceito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Educação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

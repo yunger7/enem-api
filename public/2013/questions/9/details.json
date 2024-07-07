@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2013",
+    "index": 9,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De todas as transformações impostas pelo meio técnico-científico-informacional à logística de transportes, interessa-nos mais de perto a intermodalidade. E por uma razão muito simples: o potencial que tal “ferramenta logística” ostenta permite que haja, de fato, um sistema de transportes condizente com a escala geográfica do Brasil.\n\nHUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. **Revista Transporte y Territorio**, Universidade de Buenos Aires, n. 3, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A necessidade de modais de transporte interligados, no território brasileiro, justifica-se pela(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Variações climáticas no território, associadas à interiorização da produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Grandes distâncias e a busca da redução dos custos de transporte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Formação geológica do país, que impede o uso de um único modal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Proximidade entre a área de produção agrícola intensiva e os portos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição dos fluxos materiais em detrimento de fluxos imateriais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

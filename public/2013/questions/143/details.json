@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2013",
+    "index": 143,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/143/99ee084f-6759-467b-b6fc-c898787ae9c4.png)",
+    "files": [
+        "https://enem.dev/2013/questions/143/99ee084f-6759-467b-b6fc-c898787ae9c4.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quantos quilômetros esse aluno percorreu na fase de implantação do programa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2011",
+    "index": 171,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/171/98aac117-ec69-4337-8b51-b97af4d14763.png)",
+    "files": [
+        "https://enem.dev/2011/questions/171/98aac117-ec69-4337-8b51-b97af4d14763.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Escolhendo-se, aleatoriamente, um domicílio pesquisado, qual a chance de haver banda larga de conexão de pelo menos 1 Mbps neste domicílio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,42",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,22",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,15",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

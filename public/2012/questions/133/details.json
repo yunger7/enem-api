@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2012",
+    "index": 133,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/133/882acc28-987a-4ffa-9dbb-d7b96a263b60.png)\n\nDisponível em: www.portaldapropaganda.com.br. Acesso em: 1 mar. 2012.",
+    "files": [
+        "https://enem.dev/2012/questions/133/882acc28-987a-4ffa-9dbb-d7b96a263b60.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A publicidade, de uma forma geral, alia elementos verbais e imagéticos na constituição de seus textos. Nessa peça publicitária, cujo tema é a sustentabilidade, o autor procura convencer o leitor a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Assumir uma atitude reflexiva diante dos fenômenos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Evitar o consumo excessivo de produtos reutilizáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aderir à onda sustentável, evitando o consumo excessivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abraçar a campanha, desenvolvendo projetos sustentáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Consumir produtos de modo responsável e ecológico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

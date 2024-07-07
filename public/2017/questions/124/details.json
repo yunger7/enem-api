@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2017",
+    "index": 124,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α\\-Fe2O3), a magnetita (Fe3O4) e a wustita (FeO). Na siderurgia, o ferro gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:  \n\nFeO (s) + CO (g) –>  Fe (s) + CO2 (g)  \n\nConsidere as seguintes equações termoquímicas:  \nFe2O3 (s) + 3 CO (g) –> 2 Fe (s) + 3 CO2 (g) ∆rH = –25 kJ/mol de Fe2O3  \n3 FeO (s) + CO2 (g) –> Fe3O4 (s) + CO (g) ∆rH = –36 kJ/mol de CO2  \n2 Fe3O4 (s) + CO2 (g)  –> 3 Fe2O3 (s) + CO (g) ∆rH = +47 kJ/mol de CO2",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor mais próximo de ∆rH em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "-14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "-17",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "-50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "-64",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "-100",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

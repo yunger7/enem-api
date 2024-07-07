@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2019",
+    "index": 125,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.\n\n![](https://enem.dev/2019/questions/125/b5c83454-33b7-446f-968d-3992812178ee.png)",
+    "files": [
+        "https://enem.dev/2019/questions/125/b5c83454-33b7-446f-968d-3992812178ee.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

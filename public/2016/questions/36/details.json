@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2016",
+    "index": 36,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016/questions/36/c563d84a-ec91-40d9-9f16-cbcd00de3075.png)",
+    "files": [
+        "https://enem.dev/2016/questions/36/c563d84a-ec91-40d9-9f16-cbcd00de3075.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Conforme a análise do documento cartográfico, a área de concentração das usinas de dessalinização é explicada pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pioneirismo tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Condição hidropedológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escassez de água potável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Efeito das mudanças climáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Busca da sustentabilidade ambiental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

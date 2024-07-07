@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2019",
+    "index": 78,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I  \n**\n\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\n\n**KANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).**\n\n**TEXTO II**\n\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\n\n**FONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.**",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Possibilidade da liberdade e obrigação da ação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aprioridade do juízo e importância da natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Necessidade da boa vontade e crítica da metafísica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Prescindibilidade do empírico e autoridade da razão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interioridade da norma e fenomenalidade do mundo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

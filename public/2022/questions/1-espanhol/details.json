@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2022",
+    "index": 1,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022/questions/1-espanhol/b8e76f18-f22d-4401-bf90-fd34c74e07e5.jpg)\n\nDisponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018.",
+    "files": [
+        "https://enem.dev/2022/questions/1-espanhol/b8e76f18-f22d-4401-bf90-fd34c74e07e5.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse cartaz tem a função social de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difundi a arte iconográfica indígena mexicana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resgatar a literatura popular produzida em língua zapoteca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Questionar o conhecimento do povo mexicano sobre as línguas ameríndias",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Destacar o papel dos órgãos governamentais na conservação das línguas no México.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Defender a preservação das línguas originárias garantindo a diversidade linguística mexicana.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2010",
+    "index": 139,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "6 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

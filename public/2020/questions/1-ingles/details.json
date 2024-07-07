@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2020",
+    "index": 1,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png)",
+    "files": [
+        "https://enem.dev/2020/questions/1-ingles/6e1ca12e-9bc4-472b-8809-84e7e394714a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os reursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criticar o tipo de tratamento dado à mulher.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Rever o desempenho da mulher no trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Questionar a sobrecarga de atribuições da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Analisar as pesquisas acerca dos direitos da mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Censurar a mulher pelo uso de determinadas palavras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

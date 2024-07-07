@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2012",
+    "index": 83,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Aumentar a eficiência na queima de combustível dos motores a combustão e reduzir suas emissões de poluentes é a meta de qualquer fabricante de motores. É também o foco de uma pesquisa brasileira que envolve experimentos com plasma, o quarto estado da matéria e que está presente no processo de ignição. A interação da faísca emitida pela vela de ignição com as moléculas de combustível gera o plasma que provoca a explosão liberadora de energia que, por sua vez, faz o motor funcionar.\n\nDisponível em: www.inovacaotecnologica.com.br. Acesso em: 22 jul. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No entanto, a busca da eficiência referenciada no texto apresenta como fator limitante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O tipo de combustível, fóssil, que utilizam. Sendo um insumo não renovável, em algum momento estará esgotado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Um dos princípios da termodinâmica, segundo o qual o rendimento de uma máquina térmica nunca atinge o ideal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O funcionamento cíclico de todos os motores. A repetição contínua dos movimentos exige que parte da energia seja transferida ao próximo ciclo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As forças de atrito inevitável entre as peças. Tais forças provocam desgastes contínuos que com o tempo levam qualquer material à fadiga e ruptura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A temperatura em que eles trabalham. Para atingir o plasma, é necessária uma temperatura maior que a de fusão do aço com que se fazem os motores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

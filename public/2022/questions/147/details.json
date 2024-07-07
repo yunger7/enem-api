@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2022",
+    "index": 147,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado  \npara a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados:\n\n• rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00;\n\n• rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que  \nclicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00.\n\nPor experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão o anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão o produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio.  \nO responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o  \nresponsável pelo produto adotou o seguinte critério:\n\n• Q ≤ 60%: não satisfatório;  \n• 60% < Q ≤ 100%: regular;  \n• 100% < Q ≤ 150%: bom;  \n• 150% < Q ≤ 190%: muito bom;  \n• 190% < Q ≤ 200%: excelente",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação\nao que foi registrado com a primeira divulgação, foi classificado como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não satisfatório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Regular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Bom.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Muito bom.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Excelente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

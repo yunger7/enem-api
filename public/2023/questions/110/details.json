@@ -1,0 +1,46 @@
+{
+    "title": "Questão 110 - ENEM 2023",
+    "index": 110,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(l) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg2(NO3)2 dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg2Cl2 tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:\n\n![](https://enem.dev/2023/questions/110/9874e4c1-d246-4697-8798-52f1577c2542.png)\n\nNa dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada em cada frasco, como apresentado no quadro.\n\n![](https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png)\n\nO produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg2Cl2 obtida em cada frasco. A massa molar do Hg2(NO3)2 é 525 g mol\\-1, a do NaCl é 58 g mol\\-1 e a do Hg2Cl2 é 472 g mol\\-1.",
+    "files": [
+        "https://enem.dev/2023/questions/110/9874e4c1-d246-4697-8798-52f1577c2542.png",
+        "https://enem.dev/2023/questions/110/f0ce2b28-d6bf-456a-945d-64bc0518a241.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual foi o gráfico obtido pelo assistente de laboratório?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/110/99a5e7f5-0a09-4d57-b9e8-363cbe34924d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/110/23a075d7-b302-4605-accc-f200e9ce2bc2.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/110/b8bb098b-e8e0-4dae-b576-ca32f3e68aa5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/110/42caae88-c341-45b5-ba72-92c8c605bb60.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/110/8366e6b5-7909-4fdd-9106-4cef546cb54b.png",
+            "isCorrect": false
+        }
+    ]
+}

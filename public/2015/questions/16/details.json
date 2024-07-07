@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2015",
+    "index": 16,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimento, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.\n\nHUME, D. **Investigação sobre o entendimento humano**. São Paulo: Abril Cultural, 1995.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Hume estabelece um vínculo entre pensamento e impressão ao considerar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os conteúdos das ideias no intelecto têm origem na sensação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O espírito é capaz de classificar os dados da percepção sensível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As ideias fracas resultam de experiências sensoriais determinadas pelo acaso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os sentimentos ordenam como os pensamentos devem ser processados na memória.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

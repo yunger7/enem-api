@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2010",
+    "index": 74,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A eletrólise é muito empregada na indústria com o objetivo de reaproveitar parte dos metais sucateados. O cobre, por exemplo, é um dos metais com maior rendimento no processo de eletrólise, com uma recuperação de aproximadamente 99,9%. Por ser um metal de alto valor comercial e de múltiplas aplicações, sua recuperação torna-se viável economicamente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Suponha que, em um processo de recuperação de cobre puro, tenha-se eletrolisado uma solução de sulfato de cobre (II) (CuSO4) durante 3h, empregando-se uma corrente elétrica de intensidade igual a 10A. A massa de cobre puro recuperada é de aproximadamente\nDados: Constante de Faraday F = 96500C/mol; Massa molar em g/mol: Cu = 63,5",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,02 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,04 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,40 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35,5 g",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "71,0 g",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

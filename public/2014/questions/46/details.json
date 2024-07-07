@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2014",
+    "index": 46,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.\n\nYODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comprimento da haste seja mantido constante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Massa do corpo suspenso pela haste seja pequena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Material da haste possua alta condutividade térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Amplitude da oscilação seja constante a qualquer temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Energia potencial gravitacional do corpo suspenso se mantenha constante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2018",
+    "index": 174,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.  \nUma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100 000 transistores distribuídos em 0,25 cm² de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos (Lei de Moore).\n\nDisponível em: www.pocket-lint.com. Acesso em: 1 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considere 0,30 como aproximação para \nEm que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1999",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2002",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2022",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2026",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2146",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

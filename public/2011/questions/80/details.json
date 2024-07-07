@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2011",
+    "index": 80,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Segundo dados do Balanço Energético Nacional de 2008, do Ministério das Minas e Energia, a matriz energética brasileira é composta por hidrelétrica (80%), termelétrica (19,9%) e eólica (0,1%). Nas termelétricas, esse percentual é dividido conforme o combustível usado, sendo: gás natural (6,6%), biomassa (5,3%), derivados de petróleo (3,3%), energia nuclear (3,1%) e carvão mineral (1,6%). Com a geração de eletricidade da biomassa, pode-se considerar que ocorre uma compensação do carbono liberado na queima do material vegetal pela absorção desse elemento no crescimento das plantas. Entretanto, estudos indicam que as emissões de metano (CH4) das hidrelétricas podem ser comparáveis às emissões de CO2 das termelétricas.\n\n**MORET, A. S.; FERREIRA, I. A. As hidrelétricas do Rio Madeira e os impactos socioambientais. Revista Ciência Hoje. V. 45, n° 265, 2009 (adaptado).**",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No Brasil, em termos do impacto das fontes de energia no crescimento do efeito estufa, quanto à emissão de gases, as hidrelétricas seriam consideradas como uma fonte",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Limpa de energia, contribuindo para minimizar os efeitos deste fenômeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eficaz de energia, tomando-se o percentual de oferta e os benefícios verificados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Limpa de energia, não afetando ou alterando os níveis dos gases do efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Poluidora, colaborando com níveis altos de gases de efeito estufa em função de seu potencial de oferta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Alternativa, tomando-se por referência a grande emissão de gases de efeito estufa das demais fontes geradoras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

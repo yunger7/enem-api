@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2013",
+    "index": 4,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Há já algum tempo eu me apercebi de que, desde meus primeiros anos, recebera muitas falsas opiniões como verdadeiras, e de que aquilo que depois eu fundei em princípios tão mal assegurados não podia ser senão mui duvidoso e incerto. Era necessário tentar seriamente, uma vez em minha vida, desfazer-me de todas as opiniões a que até então dera crédito, e começar tudo novamente a fim de estabelecer um saber firme e inabalável.\n\n_DESCARTES, R. Meditações concernentes à Primeira Filosofia. São Paulo: Abril Cultural, 1973 (adaptado)._\n\nTEXTO II\n\nÉ o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\n\n_SILVA, F. L. Descartes: a metafísica da modernidade. São Paulo: Moderna, 2001 (adaptado)._",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A exposição e a análise do projeto cartesiano indicam que, para viabilizar a reconstrução radical do conhecimento, deve-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Retomar o método da tradição para edificar a ciência com legitimidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Questionar de forma ampla e profunda as antigas ideias e concepções.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Investigar os conteúdos da consciência dos homens menos esclarecidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Buscar uma via para eliminar da memória saberes antigos e ultrapassados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Encontrar ideias e pensamentos evidentes que dispensam ser questionados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

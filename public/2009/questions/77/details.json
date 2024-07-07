@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2009",
+    "index": 77,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A luta pela terra no Brasil é marcada por diversos aspectos que chamam a atenção. Entre os aspectos positivos, destaca-se a perseverança dos movimentos do campesinato e, entre os aspectos negativos, a violência que manchou de sangue essa história. Os movimentos pela reforma agrária articularam-se por todo o território nacional, principalmente entre 1985 e 1996, e conseguiram de maneira expressiva a inserção desse tema nas discussões pelo acesso à terra.O mapa seguinte apresenta a distribuição dos conflitos agrários em todas as regiões do Brasil nesse período, e o número de mortes ocorridas nessas lutas.\n\n![](https://enem.dev/2009/questions/77/0148040b-fcc5-4e8c-a19f-4c41b9041a27.jpg)\n\nOLIVEIRA, A. U. A longa marcha do campesinato brasileiro: movimentos sociais, conflitos e reforma agrária.  **Revista Estudos Avançados.** Vol. 15 n. 43, São Paulo, set./dez. 2001.",
+    "files": [
+        "https://enem.dev/2009/questions/77/0148040b-fcc5-4e8c-a19f-4c41b9041a27.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações do mapa acerca dos conflitos pela posse de terra no Brasil, a região",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conhecida historicamente como das Missões Jesuíticas é a de maior violência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Do Bico do Papagaio apresenta os números mais expressivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Conhecida como oeste baiano tem o maior número de mortes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Do norte do Mato Grosso, área de expansão da agricultura mecanizada, é a mais violenta do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da Zona da Mata mineira teve o maior registro de mortes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

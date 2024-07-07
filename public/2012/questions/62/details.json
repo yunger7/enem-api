@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2012",
+    "index": 62,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Não é de hoje que o homem cria, artificialmente, variedades de peixes por meio da hibridação. Esta é uma técnica muito usada pelos cientistas e pelos piscicultores porque os híbridos resultantes, em geral, apresentam maior valor comercial do que a média de ambas as espécies parentais, além de reduzir a sobrepesca no ambiente natural.\n\nTerra da Gente, ano 4, n. 47, mar. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sem controle, esses animais podem invadir rios e lagos naturais, se reproduzir e",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Originar uma nova espécie poliploide.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Substituir geneticamente a espécie natural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ocupar o primeiro nível trófico no hábitat aquático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impedir a interação biológica entre as espécies parentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Produzir descendentes com o código genético modificado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

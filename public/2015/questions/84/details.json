@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2015",
+    "index": 84,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/84/f01c8f0e-3be3-4688-9b93-b14f6e4abd76.png)",
+    "files": [
+        "https://enem.dev/2015/questions/84/f01c8f0e-3be3-4688-9b93-b14f6e4abd76.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "-106.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "-94,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "-82,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "-21,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "-16,4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

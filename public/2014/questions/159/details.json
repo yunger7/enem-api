@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2014",
+    "index": 159,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número máximo de mudas que essa pessoa poderá plantar no espaço disponível é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

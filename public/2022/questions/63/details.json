@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2022",
+    "index": 63,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a ação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais, como é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são mostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da caridade deriva da natureza das fontes do século VI.\n\n**SILVA, M.C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set-dez. 2016 (Adaptado).**",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Da nobreza, proveniente da obrigação de proteção ao campenisnato livre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Das corporações, procedente do padrão assistencialista previsto nas normas estatutárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

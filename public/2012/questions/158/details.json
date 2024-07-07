@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2012",
+    "index": 158,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/158/1f4ff459-e739-491b-abba-8350d8dd458b.png)",
+    "files": [
+        "https://enem.dev/2012/questions/158/1f4ff459-e739-491b-abba-8350d8dd458b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O que aconteceria com o nível da água se colocássemos no tanque um objeto cujo volume fosse de 2 400 cm³?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O nível subiria 0,2 cm, fazendo a água ficar com 20,2 cm de altura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O nível subiria 1 cm, fazendo a água ficar com 21 cm de altura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O nível subiria 2 cm, fazendo a água ficar com 22 cm de altura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O nível subiria 8 cm, fazendo a água transbordar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O nível subiria 20 cm, fazendo a água transbordar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 69 - ENEM 2012",
+    "index": 69,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2012/questions/69/1244206c-a1ed-4211-82c2-11fbd57ae05b.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/69/1244206c-a1ed-4211-82c2-11fbd57ae05b.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dentre os materiais listados, quais são apropriados para amenizar esse odor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Álcool ou sabão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Suco de limão ou álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Suco de limão ou vinagre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Suco de limão, leite ou sabão",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sabão ou carbonato de sódio/barrilha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

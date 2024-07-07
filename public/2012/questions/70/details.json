@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2012",
+    "index": 70,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma planície, ocorreu um acidente ambiental em decorrência do derramamento de grande quantidade de um hidrocarboneto que se apresenta na  \nforma pastosa à temperatura ambiente. Um químico ambiental utilizou uma quantidade apropriada de uma solução de para-dodecil-benzenossulfonato de  \nsódio, um agente tensoativo sintético, para diminuir os impactos desse acidente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa intervenção produz resultados positivos para o ambiente porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promove uma reação de substituição no hidrocarboneto, tornando-o menos letal ao ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A hidrólise do para-dodecil-benzenossulfonato de sódio produz energia térmica suficiente para vaporizar o hidrocarboneto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A mistura desses reagentes provoca a combustão do hidrocarboneto, o que diminui a quantidade dessa substância na natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A solução de para-dodecil-benzenossulfonato possibilita a solubilização do hidrocarboneto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O reagente adicionado provoca uma solidificação do hidrocarboneto, o que facilita sua retirada do ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2009",
+    "index": 5,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na linha de uma tradição antiga, o astrônomo grego Ptolomeu (100-170 d.C.) afirmou a tese do geocentrismo, segundo a qual a Terra seria o centro do universo, sendo que o Sol, a Lua e os planetas girariam em seu redor em órbitas circulares. A teoria de Ptolomeu resolvia de modo razoável os problemas astronômicos da sua época. Vários séculos mais tarde, o clérigo e astrônomo polonês Nicolau Copérnico (1473-1543), ao encontrar inexatidões na teoria de Ptolomeu, formulou a teoria do heliocentrismo, segundo a qual o Sol deveria ser considerado o centro do universo, com a Terra, a Lua e os planetas girando circularmente em torno dele. Por fim, o astrônomo e matemático alemão Johannes Kepler (1571- 1630), depois de estudar o planeta Marte por cerca de trinta anos, verificou que a sua órbita é elíptica. Esse resultado generalizou-se para os demais planetas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A respeito dos estudiosos citados no texto, é correto afirmar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ptolomeu apresentou as ideias mais valiosas, por serem mais antigas e tradicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Copérnico desenvolveu a teoria do heliocentrismo inspirado no contexto político do Rei Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Copérnico viveu em uma época em que a pesquisa científica era livre e amplamente incentivada pelas autoridades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Kepler estudou o planeta Marte para atender às necessidades de expansão econômica e científica da Alemanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Kepler apresentou uma teoria científica que, graças aos métodos aplicados, pôde ser testada e generalizada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

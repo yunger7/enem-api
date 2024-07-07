@@ -1,0 +1,47 @@
+{
+    "title": "Questão 159 - ENEM 2017",
+    "index": 159,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma bicicleta do tipo mountain bike tem uma coroa com 3 engrenagens e uma catraca com 6 engrenagens, que, combinadas entre si, determinam 18 marchas (número de engrenagens da coroa vezes o número de engrenagens da catraca).\n\n![](https://enem.dev/2017/questions/159/c66f38e4-cac9-40bd-ab40-dcc28709d1f2.png)\n\nOs números de dentes das engrenagens das coroas e das catracas dessa bicicleta estão listados no quadro.\n\n![](https://enem.dev/2017/questions/159/71fe199d-31a3-491a-9ed1-4f4266bcec67.png)\n\nSabe-se que o número de voltas efetuadas pela roda traseira a cada pedalada é calculado dividindo-se a quantidade de dentes da coroa pela quantidade de dentes da catraca.\n\nDurante um passeio em uma bicicleta desse tipo, deseja-se fazer um percurso o mais devagar possível, escolhendo, para isso, uma das seguintes combinações de engrenagens (coroa x catraca):\n\n![](https://enem.dev/2017/questions/159/1e1958eb-584c-47db-9aff-348f62def6d6.png)",
+    "files": [
+        "https://enem.dev/2017/questions/159/c66f38e4-cac9-40bd-ab40-dcc28709d1f2.png",
+        "https://enem.dev/2017/questions/159/71fe199d-31a3-491a-9ed1-4f4266bcec67.png",
+        "https://enem.dev/2017/questions/159/1e1958eb-584c-47db-9aff-348f62def6d6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A combinação escolhida para realizar esse passeio da forma desejada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

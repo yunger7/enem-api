@@ -1,0 +1,45 @@
+{
+    "title": "Questão 19 - ENEM 2018",
+    "index": 19,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018/questions/19/e9e97833-6ef2-45a7-b0c7-d33310784f2c.png)\n\nBRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30jun. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/19/e9e97833-6ef2-45a7-b0c7-d33310784f2c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A internet proporcionou o surgimento de novos paradigmas sociais e impulsionou a modificação de outros já estabelecidos nas esferas da comunicação e da informação. A principal consequência criticada na tirinha sobre esse processo é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criação de memes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação da blogosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Supremacia das ideias cibernéticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comercialização de pontos de vista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Banalização do comércio eletrônico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

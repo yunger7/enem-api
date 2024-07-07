@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2019",
+    "index": 42,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**A ciência do Homem-Aranha**\n\n    Muitos dos superpoderes do querido Homem-Aranha de fato se assemelham às habilidades biológicas das aranhas e são objeto de estudo para produção de novos materiais.\n\n    O “sentido-aranha” adquirido por Peter Parker funciona quase como um sexto sentido, uma espécie de habilidade premonitória e, por isso, soa como um mero elemento ficcional. No entanto, as aranhas realmente têm um sentido mais aguçado. Na verdade, elas têm um dos sistemas sensoriais mais impressionais da natureza.\n\n    Os pelos sensoriais das aranhas, que estão espalhados por todo o corpo, funcionam como uma forma muito boa de perceber o mundo e captar informações do ambiente. Em muitas espécies, esse tato por meio dos pelos tem papel mais importante que a própria visão, uma vez que muitas aranhas conseguem prender e atacar suas presas na completa escuridão. E por que os pelos humanos não são tão eficientes como órgãos sensoriais como os das aranhas? Primeiro, porque um ser humano tem em média 60 fios de pelo em cada cm2 do corpo, enquanto algumas espécies de aranha podem chegar a ter 40 mil pelos por cm2, segundo, porque cada pelo das aranhas possui até 3 nervos para fazer a comunicação entre a sensação percebida e o cérebro, enquanto nós, seres humanos, temos apenas 1 nervo por pelo.\n\n**Disponível em:** http://cienciahoje.org.br. Acesso em; 11 dez. 2018. (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Como estratégia de progressão do texto, o autor simula uma interlocução com o público leitor ao recorrer à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Revelação do “sentido-aranha” adquirido pelo super-herói como um sexto sentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Caracterização do afeto do público pelo super-herói marcado pela palavra “querido”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Comparação entre os poderes do super-herói e as habilidades biológicas das aranhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pergunta retórica na introdução das causas da eficiência do sistema sensorial das aranhas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Comprovação das diferenças entre a constituição física do homem e da aranha por meio de dados numéricos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

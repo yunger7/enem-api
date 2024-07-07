@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2011",
+    "index": 135,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**O que é possível dizer em 140 caracteres?**\n\n_Sucesso do Twitter no Brasil é oportunidade única de compreender a importância da concisão nos gêneros de escrita_\n\nA máxima “menos é mais” nunca fez tanto sentido como no caso do _microblog_ Twitter, cuja premissa é dizer algo — não importa o quê — em 140 caracteres. Desde que o serviço foi criado, em 2006, o número de usuários da ferramenta é cada vez maior, assim como a diversidade de usos que se faz dela. Do estilo “querido diário” à literatura concisa, passando por aforismos, citações, jornalismo, fofoca, humor etc., tudo ganha o espaço de um _tweet_ (“pio” em inglês), e entender seu sucesso pode indicar um caminho para o aprimoramento de um recurso vital à escrita: a concisão.\n\nDisponível em: http://www.revistalingua.com.br. Acesso em: 28 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O Twitter se presta a diversas finalidades, entre elas, à comunicação concisa, por isso essa rede social",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "É um recurso elitizado, cujo público precisa dominar a língua padrão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Constitui recurso próprio para a aquisição da modalidade escrita da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "É restrita à divulgação de textos curtos e pouco significativos e, portanto, é pouco útil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interfere negativamente no processo de escrita e acaba por revelar uma cultura pouco reflexiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimula a produção de frases com clareza e objetividade, fatores que potencializam a comunicação interativa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

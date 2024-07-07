@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2015",
+    "index": 92,
+    "year": 2015,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015/questions/92-ingles/2b92ee42-e2f1-4c77-8590-77d029f00d3b.jpg)\n\nRIDGWAY, L. Disponível em: http://fborfw.com. Acesso em: 23 fev. 2012.",
+    "files": [
+        "https://enem.dev/2015/questions/92-ingles/2b92ee42-e2f1-4c77-8590-77d029f00d3b.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na tira da série For better or for worse, a comunicação entre as personagens fica comprometida em um determinado momento porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As duas amigas divergem de opinião sobre futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Uma das amigas desconsidera as preferências da outra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Uma das amigas ignora que o outono é temporada de futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uma das amigas desconhece a razão pela qual a outra a maltrata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As duas amigas atribuem sentidos diferentes à palavra season.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

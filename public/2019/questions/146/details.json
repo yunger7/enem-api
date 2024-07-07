@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2019",
+    "index": 146,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O serviço de meteorologia de uma cidade emite relatórios diários com a previsão do tempo. De posse dessas informações, a prefeitura emite três tipos de alertas para a população:\n\n• Alerta cinza: deverá ser emitido sempre que a previsão do tempo estimar que a temperatura será\n\ninferior a 10 °C, e a umidade relativa do ar for inferior a 40%;\n\n• Alerta laranja: deverá ser emitido sempre que a previsão do tempo estimar que a temperatura deve\n\nvariar entre 35 °C e 40 °C, e a umidade relativa do ar deve ficar abaixo de 30%;\n\n• Alerta vermelho: deverá ser emitido sempre que a previsão do tempo estimar que a temperatura será superior a 40 ºC, e a umidade relativa do ar for inferior a 25%.\n\nUm resumo da previsão do tempo nessa cidade, para um período de 15 dias, foi apresentado no gráfico.\n\nDecorridos os 15 dias de validade desse relatório, um funcionário percebeu que, no período a que se refere o gráfico, foram emitidos os seguintes alertas:\n\n• Dia 1: alerta cinza;\n\n• Dia 12: alerta laranja;\n\n• Dia 13: alerta vermelho.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s) corretamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 e 12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 e 13.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1, 12 e 13.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

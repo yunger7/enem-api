@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2012",
+    "index": 67,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2012/questions/67/de5aa54b-10c0-4375-b9fd-90d3c3b8bfe9.png)",
+    "files": [
+        "https://enem.dev/2012/questions/67/de5aa54b-10c0-4375-b9fd-90d3c3b8bfe9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor da pressão da água na ducha está associado à altura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "H4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "H5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

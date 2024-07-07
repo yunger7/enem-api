@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2011",
+    "index": 53,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O vírus do papiloma humano (HPV, na sigla em inglês) causa o aparecimento de verrugas e infecção persistente, sendo o principal fator ambiental do câncer de colo de útero nas mulheres. O vírus pode entrar pela pele ou por mucosas do corpo, o qual desenvolve anticorpos contra a ameaça, embora em alguns casos a defesa natural do organismo não seja suficiente. Foi desenvolvida uma vacina contra o HPV, que reduz em até 90% as verrugas e 85,6% dos casos de infecção persistente em comparação com pessoas não vacinadas.\n\nDisponível em: http://g1.globo.com. Acesso em: 12 jun. 2011.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O benefício da utilização dessa vacina é que pessoas vacinadas, em comparação com as não vacinadas, apresentam diferentes respostas ao vírus HPV em decorrência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alta concentração de macrófagos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Elevada taxa de anticorpos específicos anti-HPV circulantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento na produção de hemácias após a infecção por vírus HPV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rapidez na produção de altas concentrações de linfócitos matadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Presença de células de memória que atuam na resposta secundária.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

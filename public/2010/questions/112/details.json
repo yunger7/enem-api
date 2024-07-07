@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2010",
+    "index": 112,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**O dia em que o peixe saiu de graça**\n\nUma operação do Ibama para combater a pesca ilegal na divisa entre os Estados do Pará, Maranhão e Tocantins incinerou 110 quilômetros de redes usadas por pescadores durante o período em que os peixes se reproduzem. Embora tenha um impacto temporário na atividade econômica da região, a medida visa preservá-la ao longo prazo, evitando o risco de extinção dos animais. Cerca de 15 toneladas de peixes foram apreendidas e doadas para instituições de caridade.\n\n**Época,** 23 mar. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A notícia, do ponto de vista de seus elementos constitutivos,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresenta argumentos contrários à pesca ilegal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Tem um título que resume o conteúdo do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informa sobre uma ação, a finalidade que a motivou e o resultado dessa ação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dirige-se aos órgãos governamentais dos estados envolvidos na referida operação do Ibama.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Introduz um fato com a finalidade de incentivar movimentos sociais em defesa do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

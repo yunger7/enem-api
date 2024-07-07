@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2017",
+    "index": 125,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A reação em cadeia da polimerase (PCR, na sigla em inglês) é uma técnica de biologia molecular que permite replicação in vitro do DNA de forma rápida. Essa técnica surgiu na década de 1980 e permitiu avanços científicos em todas as áreas de investigação genômica. A dupla hélice é estabilizada por ligações hidrogênio, duas entre as bases adenina (A) e timina (T) e três entre as bases guanina (G) e citosina (C). Inicialmente, para que o DNA possa ser replicado, a dupla hélice precisa ser totalmente desnaturada (desenrolada) pelo aumento da temperatura, quando são desfeitas as ligações hidrogênio entre as diferentes bases nitrogenadas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual dos segmentos de DNA será o primeiro a desnaturar totalmente durante o aumento da temperatura na reação de PCR?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/125/4cf7ed2b-5dd0-4ee4-a842-aca98c5ac7bb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/125/c9c1114a-0c2f-49ad-be9f-c5123b8e582d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/125/56c6d4eb-6ae6-4b2d-bca7-a465b55787df.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/125/79db4b1a-8421-4150-b28e-06eda705aa85.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/125/65370191-7b6c-4fd2-a6e7-d947cad08c97.png",
+            "isCorrect": false
+        }
+    ]
+}

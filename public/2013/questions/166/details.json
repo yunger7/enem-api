@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2013",
+    "index": 166,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere 0,3 como aproximação para log10 2.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "54",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2014",
+    "index": 66,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meio artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fissão do material radioativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Condensação do vapor-d’água no final do processo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Conversão de energia das turbinas pelos geradores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aquecimento da água líquida para gerar vapor-d’água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Lançamento do vapor-d’água sobre as pás das turbinas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

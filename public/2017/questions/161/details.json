@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2017",
+    "index": 161,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.\n\n![](https://enem.dev/2017/questions/161/1ab19169-92f4-402e-9e53-2eedef827715.png)",
+    "files": [
+        "https://enem.dev/2017/questions/161/1ab19169-92f4-402e-9e53-2eedef827715.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quais devem ser os valores de X e de Y, em metro, para que a área da base do viveiro seja máxima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 49",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 99",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10 e 10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25 E 25",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "50 E 50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

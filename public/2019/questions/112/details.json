@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2019",
+    "index": 112,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.\n\n![](https://enem.dev/2019/questions/112/ecd7cf64-31bd-4565-9589-443027a3f75b.png)",
+    "files": [
+        "https://enem.dev/2019/questions/112/ecd7cf64-31bd-4565-9589-443027a3f75b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Suas densidades são maiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O número de ramificações é maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sua solubilidade no petróleo é maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As forças intermoleculares são mais intensas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A cadeia carbônica é mais difícil de ser quebrada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

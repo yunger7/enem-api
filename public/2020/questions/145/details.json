@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2020",
+    "index": 145,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fixadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fica centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base.\n\n![](https://enem.dev/2020/questions/145/e67a686b-079d-4129-b359-4e99d93e616e.png)\n\nA miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível.",
+    "files": [
+        "https://enem.dev/2020/questions/145/e67a686b-079d-4129-b359-4e99d93e616e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A medida da altura, em centímetro, dessa caixa de vidro deverá ser igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2011",
+    "index": 44,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/44/05efa7d4-ad52-4143-b3c0-7964355d84ae.jpg)\n\nSILVA, E. S. O. Circuito espacial de produção e comercialização da produção familiar de tomate no município de São José de Ubá (RJ). In: RIBEIRO, M. A.; MARAFON, G. J. (orgs.).  \n**A metrópole e o interior fluminense**: simetrias e assimetrias geométricas.  \nFoto: Rio de Janeiro: Gramma, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/44/05efa7d4-ad52-4143-b3c0-7964355d84ae.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O organograma apresenta os diversos atores que integram uma cadeia agroindustrial e a intensa relação entre os setores primário, secundário e terciário. Nesse sentido, a disposição dos atores na cadeia agroindustrial demonstra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A autonomia do setor primário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A importância do setor financeiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O distanciamento entre campo e cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A subordinação da indústria à agricultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A horizontalidade das relações produtivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

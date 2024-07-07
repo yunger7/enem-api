@@ -1,0 +1,43 @@
+{
+    "title": "Questão 36 - ENEM 2013",
+    "index": 36,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Até hoje admitia-se que nosso conhecimento se devia regular pelos objetos; porém, todas as tentativas para descobrir, mediante conceitos, algo que ampliasse nosso conhecimento, malogravam-se com esse pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento.\n\n_KANT, I. Crítica da razão pura. Lisboa: Calouste-Gulbenkian, 1994 (adaptado)._",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O trecho em questão é uma referência ao que ficou conhecido como revolução copernicana na filosofia. Nele, confrontam-se duas posições filosóficas que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Assumem pontos de vista opostos acerca da natureza do conhecimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Defendem que o conhecimento é impossível, restando-nos somente o ceticismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

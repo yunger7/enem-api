@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2014",
+    "index": 75,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cubo de batata em solução com pH = 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pedaço de carne em solução com pH = 5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Clara de ovo cozida em solução com pH = 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Porção de macarrão em solução com pH = 5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Bolinha de manteiga em solução com pH = 9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

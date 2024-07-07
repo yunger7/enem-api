@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2015",
+    "index": 83,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma das características a que o texto se refere é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reprodução por viviparidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Respiração pulmonar nos adultos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Regulação térmica por endotermia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cobertura corporal delgada e altamente permeável.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Locomoção por membros anteriores e posteriores desenvolvidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

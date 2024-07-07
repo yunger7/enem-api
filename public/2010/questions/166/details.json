@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2010",
+    "index": 166,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear.\n\n![](https://enem.dev/2010/questions/166/37362de0-ff1e-4e1d-b6f7-4c3c35252fcd.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/166/37362de0-ff1e-4e1d-b6f7-4c3c35252fcd.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor que 1 150.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "218 unidades maior que em 2004.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior que 1 150 e menor que 1 200.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "177 unidades maior que em 2010.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior que 1 200.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2016",
+    "index": 172,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/172/3fe1c831-6ce3-4efe-babc-02de4a8381b4.png)",
+    "files": [
+        "https://enem.dev/2016/questions/172/3fe1c831-6ce3-4efe-babc-02de4a8381b4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considere 1,4 e 1,7 como aproximações para √2 e √3 , respectivamente.\nPara que seja atingido o seu objetivo, qual dos exemplares de serra copo o marceneiro deverá escolher?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

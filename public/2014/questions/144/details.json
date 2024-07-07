@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2014",
+    "index": 144,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual deverá ser a forma do adesivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/144/44526171-b101-4a97-acc1-054ba72d0fa7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/144/a2d14544-a249-440f-b625-70e5ac48098c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/144/1cb65586-4441-4648-95ca-f2d2d2219c50.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/144/d9792780-c879-4c1d-921c-dd1b1ac88884.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/144/fda755b2-ba2a-4f7f-84a5-6a29fb07e1e0.png",
+            "isCorrect": true
+        }
+    ]
+}

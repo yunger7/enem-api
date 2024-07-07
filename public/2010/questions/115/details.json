@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2010",
+    "index": 115,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Resta saber o que ficou nas línguas indígenas no Português do Brasil. Serafim da Silva Neto afirma: “No Brasil não há, positivamente, influência das línguas africanas ou ameríndias”. Todavia, é difícil de aceitar que um longo período de bilinguismo de dois séculos não deixasse marcas no português do Brasil.\n\nELIA, S. **Fundamentos Histórico-Linguísticos do Português do Brasil.**Rio de Janeiro: Lucerna, 2003 (adaptado).\n\nNo final do século XVIII, no norte do Egito, foi descoberta a Pedra de Roseta, que continha um texto escrito em egípcio antigo, uma versão desse texto chamada “demótico”, e o mesmo texto escrito em grego. Até então, a antiga escrita egípcia não estava decifrada. O inglês Thomas Young estudou o objeto e fez algumas descobertas como, por exemplo, a direção em que a leitura deveria ser feita. Mais tarde, o francês Jean-François Champollion voltou a estudá-la e conseguiu decifrar a antiga escrita egípcia a partir do grego, provando que, na verdade, o grego era a língua original do texto e que o egípcio era uma tradução.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base na leitura dos textos conclui-se, sobre as línguas, que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cada língua é única e intraduzível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Elementos de uma língua são preservados, ainda que não haja mais falantes dessa língua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A língua escrita de determinado grupo desaparece quando a sociedade que a produzia é extinta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O egípcio antigo e o grego apresentam a mesma estrutura gramatical, assim como as línguas indígenas brasileiras e o português do Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O egípcio e o grego apresentavam letras e palavras similares, o que possibilitou a comparação linguística, o mesmo que aconteceu com as línguas indígenas brasileiras e o português do Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

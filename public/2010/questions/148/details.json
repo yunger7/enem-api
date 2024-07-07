@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2010",
+    "index": 148,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/148/210f09db-531d-4eb1-ac47-95d5ef68d963.png)",
+    "files": [
+        "https://enem.dev/2010/questions/148/210f09db-531d-4eb1-ac47-95d5ef68d963.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no gráfico, o gasto militar no ínicio da guerra no Iraque foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "U$ 4.174.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "U$ 41.740.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "U$ 417.400.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "U$ 41.740.000.000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "U$ 417.400.000.000,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

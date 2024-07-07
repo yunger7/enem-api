@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2012",
+    "index": 141,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png)",
+    "files": [
+        "https://enem.dev/2012/questions/141/e150aff4-41c0-4f6b-9a19-232d978fc497.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2xy",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15 − 3x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15 − 5y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "−5y − 3x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5y + 3x − xy",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

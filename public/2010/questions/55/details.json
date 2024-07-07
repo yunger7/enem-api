@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2010",
+    "index": 55,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em visita a uma usina sucroalcooleira, um grupo de alunos pôde observar a série de processos de beneficiamento da cana-de-açúcar, entre os quais se destacam:  \n1\\. A cana chega cortada da lavoura por meio de caminhões e é despejada em mesas alimentadoras que a conduzem para as moendas. Antes de ser esmagada  \npara a retirada do caldo açucarado, toda a cana é transportada por esteiras e passada por um eletroímã para a retirada de materiais metálicos.  \n2\\. Após se esmagar a cana, o bagaço segue para as caldeiras, que geram vapor e energia para toda a usina.  \n3\\. O caldo primário, resultante do esmagamento, é passado por filtros e sofre tratamento para transformar-se em açúcar refinado e etanol.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nos destaques da observação dos alunos, quais operações físicas de separação de materiais foram realizadas nas etapas de beneficiamento da cana-de-açúcar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Separação mecânica, extração, decantação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Separação magnética, combustão, filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Separação magnética, extração, filtração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Imantação, combustão, peneiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Imantação, destilação, filtração.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

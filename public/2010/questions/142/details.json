@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2010",
+    "index": 142,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Acompanhando o crescimento do filho, um casal constatou que, de 0 a 10 anos, a variação da sua altura se dava de forma mais rápida do que dos 10 aos 17 anos e, a partir de 17 anos, essa variação passava a ser cada vez menor, até se tornar imperceptível. Para ilustrar essa situação, esse casal fez um gráfico relacionando as alturas do filho nas idades consideradas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual gráfico melhor representa a altura do filho desse casal em função da idade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/142/fb5ec95b-7bca-4809-8d74-42fc28187a78.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/142/da24640c-cede-4773-afc4-43c2e1dbe83d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/142/06ba9bf4-5a2b-4a7b-b0c2-2044bcf7ee47.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/142/c2c0f326-4762-4bf5-a296-09433a66d6b1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/142/f9d1e289-c5ae-4438-927c-88b7ca5f62ef.png",
+            "isCorrect": false
+        }
+    ]
+}

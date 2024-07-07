@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2023",
+    "index": 148,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.\n\n![](https://enem.dev/2023/questions/148/c6c6b6c4-3fba-4a68-99c6-014bb190c456.png)",
+    "files": [
+        "https://enem.dev/2023/questions/148/c6c6b6c4-3fba-4a68-99c6-014bb190c456.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os cabos de aço formam um ângulo a com o plano do chão. Por medida de segurança, há apenas três opções de instalação:\n• opção I: h = 11 m e a = 30°\n• opção II: h = 12 m e a = 45°\n• opção III: h = 18 m e a = 60°\nA opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.\nQual será a medida, em metro, de cada um dos cabos a serem instalados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/148/5caf269a-1856-41a0-8c13-b8ad7c53b935.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/148/43a6cfb3-4059-4789-b8cc-5c60dc86d06c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/148/16d931ae-49d5-4a30-9acf-8c5ad6e8eabb.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/148/5de1f078-227d-45d8-9c32-d593632fbd05.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/148/a642bb31-dc04-4195-beb4-3a3dfbade22c.png",
+            "isCorrect": false
+        }
+    ]
+}

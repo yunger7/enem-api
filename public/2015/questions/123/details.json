@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2015",
+    "index": 123,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Azeite de oliva e óleo de linhaça: uma dupla imbatível**\n\n_Rico em gorduras do bem, ela combate a obesidade, dá um chega pra lá no diabete e ainda livra o coração de entraves_\n\nNinguém precisa esquentar a cabeça caso não seja possível usar os dois óleos juntinhos, no mesmo dia. Individualmente, o duo também bate um bolão. Segundo um estudo recente do grupo EurOlive, formado por instituições de cinco países europeus, os polifenóis do azeite de oliva ajudam a frear a oxidação do colesterol LDL, considerado perigoso. Quando isso ocorre, reduzse o risco de placas de gordura na parede dos vasos, a temida aterosclerose – doença por trás de encrencas como o infarto.\n\nMANARINI, T. **Saúde é vital,** n. 347, fev. 2012 (adaptado).\n\nPara divulgar conhecimento de natureza científica para um público não especializado, Manarini recorre à associação entre vocabulário formal e vocabulário informal.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Altera-se o grau de formalidade do segmento no texto, sem alterar o sentido da informação, com a substituição de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\"dá um chega pra lá no diabete\" por \"manda embora o diabete\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "\"esquentar a cabeça\" por \"quebrar a cabeça\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "\"bate um bolão\" por \"é um show\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "\"juntinhos\" por \"misturadinhos\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "\"por trás de encrencas\" por \"causadora de problemas\".",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

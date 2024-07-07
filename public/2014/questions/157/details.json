@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2014",
+    "index": 157,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/157/0036f173-2e12-4c90-9b1b-9eb2fb4de45b.png)\n\nPara quantificar os sapatos pela cor, os donos representaram a cor branca pelo número 0 e a cor preta pelo número 1. Sabe-se que a média da distribuição desses zeros e uns é igual a 0,45.\n\nOs donos da loja decidiram que a numeração dos sapatos com maior número de reclamações e a cor com maior número de reclamações não serão mais vendidas.",
+    "files": [
+        "https://enem.dev/2014/questions/157/0036f173-2e12-4c90-9b1b-9eb2fb4de45b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A loja encaminhou um ofício ao fornecedor dos sapatos, explicando que não serão mais encomendados os sapatos de cor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Branca e os de número 38.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Branca e os de número 37.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Branca e os de número 36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Preta e os de número 38.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Preta e os de número 37.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

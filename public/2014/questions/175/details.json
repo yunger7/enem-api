@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2014",
+    "index": 175,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com as informações, o intervalo das porcentagens que representam a variação total possível de P é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[35 ; 63].",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "[40 ; 63].",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "[50 ; 70].",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "[50 ; 90].",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "[70 ; 90].",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

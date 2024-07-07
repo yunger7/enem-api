@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2011",
+    "index": 178,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png)",
+    "files": [
+        "https://enem.dev/2011/questions/178/eaed6fd4-dacb-43e7-87ab-33f40ac3efba.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se S como a resistência, a representação algébrica que exprime essa relação é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "S = k . b . d",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "S = b . d²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "S = k . b . d²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "S = (k . b)/d",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "S = (k . d²)/b",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2013",
+    "index": 76,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação ao movimento dessa pessoa, quais são a direção e o sentido da força de atrito mencionada no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Perpendicular ao plano e no mesmo sentido do movimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Paralelo ao plano e no sentido contrário ao movimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Paralelo ao plano e no mesmo sentido do movimento",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Horizontal e no mesmo sentido do movimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vertical e sentido para cima.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

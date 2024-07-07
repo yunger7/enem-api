@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2017",
+    "index": 117,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal.\n\nRICHARDS, C. S. et al. The American Journal of Human Genetics, n. 4, 1990 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A diferença na manifestação da DMD entre as gêmeas pode ser explicada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dominância incompleta do alelo mutante em relação ao alelo normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Falha na separação dos cromossomos X no momento da separação dos dois embriões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

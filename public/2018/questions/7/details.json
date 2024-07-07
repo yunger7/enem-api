@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2018",
+    "index": 7,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018/questions/7/7bcf9917-4bb9-4438-ba33-4ae59c970478.png)\n\nDisponível em: www.facebook.com/minsaude. Acesso em: 14 fev. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/7/7bcf9917-4bb9-4438-ba33-4ae59c970478.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A utilização de determinadas variedades linguísticas em campanhas educativas tem a função de atingir o público-alvo de forma mais direta e eficaz. No caso desse texto, identifica-se essa estratégia pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Discurso formal da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Registro padrão próprio da língua escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Seleção lexical restrita à esfera da medicina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fidelidade ao jargão da linguagem publicitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de marcas linguísticas típicas da oralidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

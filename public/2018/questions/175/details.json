@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2018",
+    "index": 175,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não ê dado desconto em nenhuma das situações.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "29",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "58",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 22 - ENEM 2020",
+    "index": 22,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/22/e2bb4218-b673-46d0-8ba4-70eefe576fae.png)\n\nDisponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017",
+    "files": [
+        "https://enem.dev/2020/questions/22/e2bb4218-b673-46d0-8ba4-70eefe576fae.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divulgar para a população as novas regras complementares para as torcidas de futebol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Informar ao público masculino as consequências de condutas ofensivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Regulamentar normas de boa convivência nos estádios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

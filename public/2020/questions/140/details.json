@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2020",
+    "index": 140,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir.\n\n*   Caixas do tipo A: 4 unidades de piso, R$ 35,00;\n*   Caixas do tipo B: 3 unidades de piso, R$ 27,00.\n\nNa instalação do porcelanato, as peças podem ser recortadas e devem ser assentadas sem espaçamento entre elas, aproveitando-se ao máximo os recortes feitos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A compra que atende às necessidades do proprietário, proporciona a menor sobra de pisos e resulta no menor preço é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 caixas do tipo A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 caixa do tipo A e 4 caixas do tipo B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 caixas do tipo A e 1 caixa do tipo B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5 caixas do tipo A e 1 caixa do tipo B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 caixas do tipo B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

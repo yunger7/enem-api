@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2021",
+    "index": 164,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10kg.\n\nEm duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n\n![](https://enem.dev/2021/questions/164/eab2c90e-a45f-482b-997d-a5c2f6931726.png)\n\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.",
+    "files": [
+        "https://enem.dev/2021/questions/164/eab2c90e-a45f-482b-997d-a5c2f6931726.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a quantidade máxima de camisetas que essa pessoa poderá levar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "39",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

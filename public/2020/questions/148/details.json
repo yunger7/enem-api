@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2020",
+    "index": 148,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.\n\n![](https://enem.dev/2020/questions/148/c9d3a77b-08a1-449b-9aac-b59928d168ba.png)\n\nDisponível em: http://noticias.uol.com.br. Acesso em 20 ago. 2014.",
+    "files": [
+        "https://enem.dev/2020/questions/148/c9d3a77b-08a1-449b-9aac-b59928d168ba.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "114 708.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "164 076.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "213 444.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "284 592.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "291 582.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

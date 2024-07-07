@@ -1,0 +1,45 @@
+{
+    "title": "Questão 113 - ENEM 2017",
+    "index": 113,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A farinha de linhaça dourada é um produto natural que oferece grandes benefícios para o nosso organismo. A maior parte dos nutrientes da linhaça encontra-se no óleo desta semente, rico em substâncias lipossolúveis com massas moleculares elevadas. A farinha também apresenta altos teores de fibras proteicas insolúveis em água, celulose, vitaminas lipossolúveis e sais minerais hidrossolúveis.\n\nConsidere o esquema, que resume um processo de separação dos componentes principais da farinha de linhaça dourada.\n\n![](https://enem.dev/2017/questions/113/22e78b2d-34e1-436e-b7d9-0b3f44a11dc7.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/113/22e78b2d-34e1-436e-b7d9-0b3f44a11dc7.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O óleo de linhaça será obtido na fração",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Destilado 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Destilado 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Resíduo 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resíduo 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Resíduo 4.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

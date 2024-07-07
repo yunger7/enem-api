@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2023",
+    "index": 107,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O coquetel de inibidores impediu o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Formação do pronúcleo masculino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Início da divisão mitótica do zigoto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Término da segunda divisão meiótica do ovócito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Passagem do espermatozoide pela corona radiata e zona pelúcida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fusão das membranas plasmáticas do ovócito e do espermatozoide.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2012",
+    "index": 154,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png)",
+    "files": [
+        "https://enem.dev/2012/questions/154/81fbfbc5-0f6b-40ed-a17e-9afc89d413fa.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,20 m e 1,45 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,20 m e 1,40 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,25 m e 1,35 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,25 m e 1,30 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,45 m e 1,20 m.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2023",
+    "index": 39,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A petição on-line criada por um cidadão paulista surtiu efeito: casado há três anos com seu companheiro, ele pedia a alteração da definição de “casamento” no tradicional dicionário _Michaelis_ em português. Na definição anterior, casamento aparecia como “união legítima entre homem e mulher” e “união legal entre homem e mulher, para constituir família”.\n\nO novo verbete não traz em nenhum momento as palavras homem ou mulher — agora a definição de casamento se refere a “pessoas”.\n\nPara o diretor de comunicação do site onde a petição foi publicada, a iniciativa mostra a “eficiência da mobilização”. “Em dois dias, mudou-se uma definição que permanecia a mesma há décadas”, afirma. E conclui: “A plataforma serve para todos os tipos de causas, para as mudanças que importam para as pessoas.”.\n\nSENRA, R. Disponível em: www.bbc.com. Acesso em: 29 out. 2015.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A notícia trata da mudança ocorrida em um dicionário da língua portuguesa. Segundo o texto, essa mudança foi impulsionada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inclusão de informações no verbete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Relevância social da instituição casamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Utilização pública da petição pelos cidadãos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Rapidez na disseminação digital do verbete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Divulgação de plataformas para a criação de petição",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

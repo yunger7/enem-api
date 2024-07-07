@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2013",
+    "index": 79,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um circuito em série é formado por uma pilha, uma lâmpada incandescente e uma chave interruptora. Ao se ligar a chave, a lâmpada acende quase instantaneamente, irradiando calor e luz. Popularmente, associa-se o fenômeno da irradiação de energia a um desgaste da corrente elétrica, ao atravessar o filamento da lâmpada, e à rapidez com que a lâmpada começa a brilhar. Essa explicação está em desacordo com o modelo clássico de corrente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o modelo mencionado, o fato de a lâmpada acender quase instantaneamente está relacionado à rapidez com que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O fluido elétrico se desloca no circuito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As cargas negativas móveis atravessam o circuito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A bateria libera cargas móveis para o filamento da lâmpada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O campo elétrico se estabelece em todos os pontos do circuito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "As cargas positivas e negativas se chocam no filamento da lâmpada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2019",
+    "index": 140,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A gripe é uma infecção respiratória aguda de curtaduração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.\n\n_Disponível em: www.gripenet.pt._\n\n_Acesso em: 2 nov. 2013 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em notação científica, o diâmetro interno do vírus influenza, em mm, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,1x10​−1​​",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,1x10​−2​​",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,1x10​−3​​",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,1x10​−4​​",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1,1x10​−5​​",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

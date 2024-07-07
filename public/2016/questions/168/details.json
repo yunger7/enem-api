@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2016",
+    "index": 168,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para cadastrar-se em um _site_, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.\n\nDisponível em: www.infowester.com. Acesso em: 14 dez. 2012.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O número total de senhas possíveis para o cadastramento nesse site é dado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/168/9c64c46b-2045-4d24-b6fe-4910a0fa92c6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/168/71faed84-26d8-4498-af67-d92759a194fc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/168/4afeb4f7-4f38-4401-b874-8386eef6b19c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/168/81a766be-84c7-4074-ac24-ee3ef4a57a20.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/168/2e697e5f-81cd-4458-877d-a18c3082d73e.png",
+            "isCorrect": true
+        }
+    ]
+}

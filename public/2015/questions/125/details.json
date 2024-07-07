@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2015",
+    "index": 125,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Posso mandar por e-mail?**  \nAtualmente, é comum “disparar” currículos na interent com a expectativa de alcançar o maior número possível de selecionadores. Essa, no entanto, é uma ideia equivocada: é preciso saber quem vai receber seu currículo e se a vaga é realmente indicada para seu perfil, sob risco de estar “queimando o filme” com um futuro empregador. Ao enviar o currículo por e-mail, tente saber quem vai recebê-lo e faça um texto sucinto de apresentação, com a sugestão a seguir:\n\n**Assunto:** Currículo para a vaga de gerente de marketing  \n**Mensagem:** Boa tarde. Meu nome é José da Silva e gostaria de me candidatar à vaga de gerente de marketing. Meu currículo segue anexo.\n\nGuia da língua 2010: modelos e técnicas. **Língua Portuguesa**, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto integra um guia de modelos e técnicas de elaboração de textos e cumpre a função social de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Divulgar padrão oficial de redação e envio de currículos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Indicar um modelo de currículo para pleitear uma vaga de emprego.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Instruir o leitor sobre como ser eficiente no envio de currículo por e-mail.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Responder a uma pergunta de um assinante da revista sobre o envio de currículo por e-mail.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Orientar o leitor sobre como alcançar o maior número possível de selecionadores de currículos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

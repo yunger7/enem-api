@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2020",
+    "index": 84,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na borda do continente, composto por rochas vulcânicas acompanhado de deformações e metamorfismo tanto de rochas preexistentes como de parte das rochas formadas no processo.\n\nTEIXEIRA, W. et al. (Org.). **Decifrando a Terra**. São Paulo: Oficina de Textos, 2000.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual feição fisiográfica é gerada pelo processo tectônico apresentado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Planícies abissais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Planaltos cristalinos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Depressões absolutas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Bacias sedimentares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dobramentos modernos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2018",
+    "index": 125,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Afigura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho. Incide num flime para fotografia colorida, revelando três pontos.\n\n![](https://enem.dev/2018/questions/125/faf4306c-e3a9-448e-9c71-e0e9cf89cf0f.png)",
+    "files": [
+        "https://enem.dev/2018/questions/125/faf4306c-e3a9-448e-9c71-e0e9cf89cf0f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Observando os pontos luminosos revelados no flime, de baixo para cima, constatam-se as seguintes cores:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vermelha, verde, azul.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Verde, vermelha, azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Azul, verde, vermelha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Verde, azul, vermelha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Azul, vermelha, verde.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2010",
+    "index": 125,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**A carreira do crime**\n\nEstudo feito por pesquisadores da Fundação Oswaldo Cruz sobre adolescentes recrutados pelo tráfico de drogas nas favelas cariocas expõe as bases sociais dessas quadrilhas, contribuindo para explicar as dificuldades que o Estado enfrenta no combate ao crime organizado.\n\nO tráfico oferece ao jovem de escolaridade precária (nenhum dos entrevistados havia completado o ensino fundamental) um plano de carreira bem estruturado, com salários que variam de R$ 400,00 a R$ 12.000 mensais. Para uma base de comparação, convém notar que, segundo dados do IBGE de 2001, 59% da população brasileira com mais de dez anos que declara ter uma atividade remunerada ganha no máximo o ‘piso salarial’ oferecido pelo crime. Dos traficantes ouvidos pela pesquisa, 25% recebiam mais de R$ 2.000 mensais; já na população brasileira essa taxa não ultrapassa 6%.\n\nTais rendimentos mostram que as políticas sociais compensatórias, como o Bolsa-Escola (que paga R$ 15 mensais por aluno matriculado), são por si só incapazes de impedir que o narcotráfico continue aliciando crianças provenientes de estratos de baixa renda: tais políticas aliviam um pouco o orçamento familiar e incentivam os pais a manterem os filhos estudando, o que de modo algum impossibilita a opção pela deliquência. No mesmo sentido, os programas voltados aos jovens vulneráveis ao crime organizado (circo-escola, oficinas de cultura, escolinhas de futebol) são importantes, mas não resolvem o problema.\n\nA única maneira de reduzir a atração exercida pelo tráfico é a repressão, que aumenta os riscos para os que escolhem esse caminho. Os rendimentos pagos aos adolescentes provam isso: eles são elevados precisamente porque a possibilidade de ser preso não é desprezível. É preciso que o Executivo federal e os estaduais desmontem as organizações paralelas erguidas pelas quadrilhas, para que a certeza de punição elimine o fascínio dos salários do crime.\n\nEditorial. **Folha de São Paulo.** 15 jan. 2003.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nos argumentos do autor, o texto aponta para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uma denúncia de quadrilhas que se organizam em torno do narcotráfico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A constatação de que o narcotráfico restringe-se aos centros urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A informação de que as políticas sociais compensatórias eliminarão a atividade criminosa a longo prazo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O convencimento do leitor de que para haver a superação do problema do narcotráfico é preciso aumentar a ação policial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Uma exposição numérica realizada com o fim de mostrar que o negócio do narcotráfico é vantajoso e sem riscos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

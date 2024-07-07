@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2009",
+    "index": 73,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2009/questions/73/c8b4cebd-dcd5-4090-b0ea-049c96a392c7.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/73/c8b4cebd-dcd5-4090-b0ea-049c96a392c7.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir do mapa apresentado, é possível inferir que nas últimas décadas do século XX, registraram-se processos que resultaram em transformações na distribuição das atividades econômicas e da população sobre o território brasileiro, com reflexos no PIB por habitante. Assim,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As desigualdades econômicas existentes entre regiões brasileiras desapareceram, tendo em vista a modernização tecnológica e o crescimento vivido pelo país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os novos fluxos migratórios instaurados em direção ao Norte e ao Centro-Oeste do país prejudicaram o desenvolvimento socioeconômico dessas regiões, incapazes de atender ao crescimento da demanda por postos de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O Sudeste brasileiro deixou de ser a região com o maior PIB industrial a partir do processo de desconcentração espacial do setor, em direção a outras regiões do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O avanço da fronteira econômica sobre os estados da região Norte e do Centro-Oeste resultou no desenvolvimento e na introdução de novas atividades econômicas, tanto nos setores primário e secundário, como no terciário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O Nordeste tem vivido, ao contrário do restante do país, um período de retração econômica, como consequência da falta de investimentos no setor industrial com base na moderna tecnologia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

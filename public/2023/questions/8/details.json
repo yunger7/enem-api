@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2023",
+    "index": 8,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**De quem é esta língua?**\n\nUma pequena editora brasileira, a Urutau, acaba de lançar em Lisboa uma “antologia antirracista de poetas estrangeiros em Portugal”, com o título Volta para a tua terra.\n\nO livro denuncia as diversas formas de racismo a que os imigrantes estão sujeitos. Alguns dos poetas brasileiros antologiados queixam-se do desdém com que um grande número de portugueses acolhe o português brasileiro. É uma queixa frequente.\n\n“Aqui em Portugal eles dizem / — eles dizem – / que nosso português é errado, que nós não falamos português”, escreve a poetisa paulista Maria Giulia Pinheiro, para concluir: “Se a sua linguagem, a lusitana, / ainda conserva a palavra da opressão / ela não é a mais bonita do mundo./ Ela é uma das mais violentas”.\n\nAGUALUSA, J. E. Disponível em: https.iloglobo.globo.com Acesso em: 22 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto de Agualusa tematiza o preconceito em relação ao português brasileiro. Com base no trecho citado pelo autor, infere-se que esse preconceito se deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À dificuldade de consolidação da literatura brasileira em outros países.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aos diferentes graus de instrução formal entre os falantes de língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À existência de uma língua ideal que alguns falantes lusitanos creem ser a falada em Portugal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Ao intercâmbio cultural que ocorre entre os povos dos diferentes países de língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "À distância territorial entre os falantes do português que vivem em Portugal e no Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

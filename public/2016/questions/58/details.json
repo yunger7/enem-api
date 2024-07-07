@@ -1,0 +1,46 @@
+{
+    "title": "Questão 58 - ENEM 2016",
+    "index": 58,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/58/99a5812b-100d-4591-a496-2762c9cac26f.png)\n\nem que n corresponde ao número de mols. O metanol pode ser obtido pela reação entre brometo de metila e hidróxido de sódio, conforme a equação química:\n\n![](https://enem.dev/2016/questions/58/e7997a8a-16ac-40aa-8909-dbbd285ffade.png)",
+    "files": [
+        "https://enem.dev/2016/questions/58/99a5812b-100d-4591-a496-2762c9cac26f.png",
+        "https://enem.dev/2016/questions/58/e7997a8a-16ac-40aa-8909-dbbd285ffade.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As massas molares (em g/mol) desses elementos são: H = 1; C = 12; O = 16; Na = 23; Br = 80.\nO rendimento molar da reação, em que 32 g de metanol foram obtidos a partir de 142,5 g de brometo de metila e 80 g de hidróxido de sódio, é mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "40%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "67%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "75%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

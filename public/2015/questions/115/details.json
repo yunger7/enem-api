@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2015",
+    "index": 115,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "As narrativas indígenas se sustentam e se perpetuam por uma tradição de transmissão oral (sejam as histórias verdadeiras dos seus antepassados, dos fatos e guerras recentes ou antigos; sejam as histórias de ficção, como aquelas da onça e do macaco). De fato, as comunidades indígenas nas chamadas “terras baixas da América do Sul” (o que exclui as montanhas dos Andes, por exemplo) não desenvolveram sistemas de escrita como os que conhecemos, sejam alfabéticos (como a escrita do português), sejam ideogramáticos (como a escrita dos chineses) ou outros. Somente nas sociedades indígenas com estratificação social (ou seja, já divididas em classes), como foram os astecas e os maias, é que surgiu algum tipo de escrita. A história da escrita parece mesmo mostrar claramente isso: que ela surge e se desenvolve – em qualquer das formas – apenas em sociedades estratificadas (sumérios, egípcios, chineses, gregos, etc.). O fato é que os povos indígenas no Brasil, por exemplo, não empregavam um sistema de escrita, mas garantiram a conservação e continuidade dos conhecimentos acumulados, das histórias passadas e, também, das narrativas que sua tradição criou, através da transmissão oral. Todas as tecnologias indígenas se transmitiram e se desenvolveram assim. E não foram poucas: por exemplo, foram os índios que domesticaram plantas silvestres e, muitas vezes, venenosas, criando o milho, a mandioca (ou macaxeira), o amendoim, as morangas e muitas outras mais (e também as desenvolveram muito; por exemplo, somente do milho criaram cerca de 250 variedades diferentes em toda a América).\n\nD’Angelis, W. R. **Histórias dos índios lá em casa**: narrativas indígenas e tradição oral popular no Brasil. Disponível em: www.portalkaingang.org. Acesso em: 5 dez. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A escrita e a oralidade, nas diversas culturas, cumprem diferentes objetivos. O fragmento aponta que, nas sociedades indígenas brasileiras, a oralidade possibilitou",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A conservação e a valorização dos grupos detentores de certos saberes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A preservação e a transmissão dos saberes e da memória cultural dos povos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A manutenção e a reprodução dos modelos estratificados de organização social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A restrição e a limitação do conhecimento acumulado a determinadas comunidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O reconhecimento e a legitimação da importância da fala como meio de comunicação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

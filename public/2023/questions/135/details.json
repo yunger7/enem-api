@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2023",
+    "index": 135,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso\n\n![](https://enem.dev/2023/questions/135/11f4c343-9f23-4f60-a61f-10d4dbc2eb6c.png)",
+    "files": [
+        "https://enem.dev/2023/questions/135/11f4c343-9f23-4f60-a61f-10d4dbc2eb6c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A velocidade do som na camada líquida, em metro por segundo, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "270.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "540.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "818.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 500.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 800.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

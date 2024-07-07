@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2021",
+    "index": 172,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n\n![](https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png)\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx), que, por sua vez, é determinada pela fórmula:\n\nFc máx. = 220 – idades,\n\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).",
+    "files": [
+        "https://enem.dev/2021/questions/172/604532ed-546c-43dc-a7eb-3b0b3bfca440.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Leve no plano, forte no plano, subida moderada e subida forte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Leve no plano, forte no plano e subida moderada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Forte no plano, subida moderada e subida forte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Forte no plano e subida moderada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Leve no plano e subida forte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

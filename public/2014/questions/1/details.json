@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2014",
+    "index": 1,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png)",
+    "files": [
+        "https://enem.dev/2014/questions/1/7ff93437-729f-4032-a3ce-01846f3169bb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Permitiria aos índios se apropriarem da telefonia móvel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliaria o contato entre a diversidade de povos indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Faria a comunicação sem ruídos entre grupos sociais distintos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Restringiria a sua área de atendimento aos estados do norte do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Possibilitaria a integração das diferentes regiões do território nacional.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

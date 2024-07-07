@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2015",
+    "index": 179,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando-se essas probabilidades, obtém-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P(I) < P(III) < P(II)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "P(II) < P(I) < P(III)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P(I) < P(II) = P(III)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P(I) = P(II) < P(III)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P(I) = P(II) = P(III)",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

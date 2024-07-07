@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2018",
+    "index": 163,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O artigo 33 da lei brasileira sobre drogas prevê a pena de reclusão de 5 a 15 anos para qualquer pessoa que seja condenada por tráfico ilícito ou produção não autorizada de drogas. Entretanto, caso o condenado seja réu primário, com bons antecedentes criminais, essa pena pode sofrer uma redução de um sexto a dois terços.\n\nSuponha que um réu primário, com bons antecedentes criminais, foi condenado pelo artigo 33 da lei brasileira sobre drogas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após o benefício da redução de pena, sua pena poderá variar de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 ano e 8 meses a 12 anos e 6 meses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1 ano e 8 meses a 5 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 anos e 4 meses a 10 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 anos e 2 meses a 5 anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 anos e 2 meses a 12 anos e 6 meses.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

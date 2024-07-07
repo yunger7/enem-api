@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2014",
+    "index": 35,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A convecção na Região Amazônica é um importante mecanismo da atmosfera tropical e sua variação, em termos de intensidade e posição, tem um papel importante na determinação do tempo e do clima dessa região. A nebulosidade e o regime de precipitação determinam o clima amazônico.\n\nFISCH, G.; MARENGO, J. A.; NOBRE, C. A. Uma revisão geral sobre o clima da Amazônia. **Acta Amazônica**, v. 28, n. 2, 1998 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O mecanismo climático regional descrito está associado à característica do espaço físico de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Resfriamento da umidade da superfície.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Variação da amplitude de temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dispersão dos ventos contra-alísios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Existência de barreiras de relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Convergência de fluxos de ar.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

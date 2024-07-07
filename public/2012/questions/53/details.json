@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2012",
+    "index": 53,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O rótulo de um desodorante aerossol informa ao consumidor que o produto possui em sua composição os gases isobutano, butano e propano, dentre outras  \nsubstâncias. Além dessa informação, o rótulo traz, ainda,a inscrição “Não contém CFC”. As reações a seguir, que ocorrem na estratosfera, justificam a não utilização de CFC (clorofluorcarbono ou Freon) nesse desodorante:\n\n![](https://enem.dev/2012/questions/53/4a839552-84aa-48ea-a374-1e2d8fd807cd.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/53/4a839552-84aa-48ea-a374-1e2d8fd807cd.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A preocupação com as possíveis ameaças à camada de ozônio (O3) baseia-se na sua principal função: proteger a matéria viva na Terra dos efeitos prejudiciais dos raios solares ultravioleta. A absorção da radiação ultravioleta pelo ozônio estratosférico é intensa o suficiente para eliminar boa parte da fração de ultravioleta que é prejudicial à vida. \nA finalidade da utilização dos gases isobutano, butano e propano neste aerossol é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Substituir o CFC, pois não reagem com o ozônio, servindo como gases propelentes em aerossóis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Servir como propelentes, pois, como são muito reativos, capturam o Freon existente livre na atmosfera, impedindo a destruição do ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reagir com o ar, pois se decompõem espontaneamente em dióxido de carbono (CO2 ) e água (H2O), que não atacam o ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impedir a destruição do ozônio pelo CFC, pois os hidrocarbonetos gasosos reagem com a radiação UV, liberando hidrogênio (H2 ), que reage com o oxigênio do ar (O2 ), formando água (H2O).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Destruir o CFC, pois reagem com a radiação UV, liberando carbono (C), que reage com o oxigênio do ar (O2 ), formando dióxido de carbono (CO2 ), que é inofensivo para a camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

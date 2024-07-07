@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2016",
+    "index": 174,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "34",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2017",
+    "index": 168,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/168/24aef861-9c64-4357-ab76-d58d4bf20931.png)",
+    "files": [
+        "https://enem.dev/2017/questions/168/24aef861-9c64-4357-ab76-d58d4bf20931.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual a medida da altura H, em metro, indicada na Figura 2?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16/3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "31/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25/3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "75/2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

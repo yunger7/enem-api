@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2011",
+    "index": 97,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/97/bd1b0936-b39f-42aa-a4ea-0744b73dc320.png)\n\nCOSTA, C. **Superinteressante**. Fev. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/97/bd1b0936-b39f-42aa-a4ea-0744b73dc320.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os amigos são um dos principais indicadores de bem-estar na vida social das pessoas. Da mesma forma que em outras áreas, a internet também inovou as maneiras de vivenciar a amizade. Da leitura do infográfico, depreendem-se dois tipos de amizade virtual, a simétrica e a assimétrica, ambas com seus prós e contras. Enquanto a primeira se baseia na relação de reciprocidade, a segunda",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reduz o número de amigos virtuais, ao limitar o acesso à rede.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Parte do anonimato obrigatório para se difundir.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reforça a configuração de laços mais profundos de amizade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Facilita a interação entre pessoas em virtude de interesses comuns.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Tem a responsabilidade de promover a proximidade física.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Questão 47 - ENEM 2016",
+    "index": 47,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A usina de Itaipu é uma das maiores hidrelétricas do mundo em geração de energia. Com 20 unidades geradoras e 14 000 MW de potência total instalada, apresenta uma queda de 118,4 m e vazão nominal de 690 m³/s por unidade geradora. O cálculo da potência teórica leva em conta a altura da massa de água represada pela barragem, a gravidade local (10 m/s²) e a densidade da água (1 000 kg/m³). A diferença entre a potência teórica e a instalada é a potência não aproveitada.\n\nDisponível em: www.itaipu.gov.br. Acesso em: 11 maio 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a potência, em MW, não aproveitada em cada unidade geradora de Itaipu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "116,96",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "816,96",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "13 183,04",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

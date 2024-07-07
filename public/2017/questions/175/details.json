@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2017",
+    "index": 175,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/175/76855355-588b-40de-adfa-78c67373b3cd.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/175/f0b54cb7-a0b0-4661-a2e2-afda4b8d2135.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/175/b7396163-6b89-41cf-b08b-473d800ef585.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/175/486162c7-f43b-49a2-9476-dddf8af7bdf4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/175/744d3069-d18a-4930-9697-45171bee53b2.png",
+            "isCorrect": false
+        }
+    ]
+}

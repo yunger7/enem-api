@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2010",
+    "index": 102,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Testes**\n\nDia desses resolvi fazer um teste proposto por um _site_ da internet. O nome do teste era tentador: “O que Freud diria de você”. Uau. Respondi a todas as perguntas e o resultado foi o seguinte: “Os acontecimentos da sua infância a marcaram até os doze anos, depois disso você buscou conhecimento intelectual para seu amadurecimento”. Perfeito! Foi exatamente o que aconteceu comigo. Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise, e ele acertou na mosca.\n\nEstava com tempo sobrando, e curiosidade é algo que não me falta, então resolvi voltar ao teste e responder tudo diferente do que havia respondido antes. Marquei umas alternativas esdrúxulas, que nada tinham a ver com minha personalidade. E fui conferir o resultado, que dizia o seguinte: “Os acontecimentos da sua infância a marcaram até os 12 anos, depois disso você buscou conhecimento intelectual para seu amadurecimento”.\n\nMEDEIROS, M. **Doidas e santas.** Porto Alegre, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quanto às influências que a internet pode exercer sobre os usuários, a autora expressa uma reação irônica no trecho:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Marquei umas alternativas esdrúxulas, que nada tinham a ver”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“Os acontecimentos da sua infância a marcaram até os doze anos”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Dia desses resolvi fazer um teste proposto por um site da internet”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Respondi a todas as perguntas e o resultado foi o seguinte”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise”.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

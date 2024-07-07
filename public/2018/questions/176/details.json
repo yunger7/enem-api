@@ -1,0 +1,46 @@
+{
+    "title": "Questão 176 - ENEM 2018",
+    "index": 176,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.  \nO atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares atê aquele momento.\n\n![](https://enem.dev/2018/questions/176/858eaa5e-d8db-41d2-b16e-b2a312bb6f29.png)\n\nEle precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.\n\n![](https://enem.dev/2018/questions/176/404191f9-8cdb-4a30-80b6-b7d08af2d364.png)\n\nO atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.",
+    "files": [
+        "https://enem.dev/2018/questions/176/858eaa5e-d8db-41d2-b16e-b2a312bb6f29.png",
+        "https://enem.dev/2018/questions/176/404191f9-8cdb-4a30-80b6-b7d08af2d364.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando essas condições, o salto que o atleta deverá escolher é o de tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "T1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "T2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "T3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "T4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "T5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

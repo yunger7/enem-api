@@ -1,0 +1,43 @@
+{
+    "title": "Questão 31 - ENEM 2017",
+    "index": 31,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "No esporte-participação ou esporte popular, a manifestação ocorre no princípio do prazer lúdico, que tem como finalidade o bem-estar social dos seus praticantes. Está associado intimamente com o lazer e o tempo livre e ocorre em espaços não comprometidos com o tempo e fora das obrigações da vida diária. Tem como propósitos a descontração, a diversão, o desenvolvimento pessoal e o relacionamento com as pessoas. Pode-se afirmar que o esporte-participação, por ser a dimensão social do esporte mais inter-relacionada com os caminhos democráticos, equilibra o quadro de desigualdades de oportunidades esportivas encontrado na dimensão esporte-performance. Enquanto o esporte-performance só permite sucesso aos talentos ou àqueles que tiveram condições, o esporte-participação favorece o prazer a todos que dele desejarem tomar parte.\n\nGODTSFRIEDT, J. **Esporte e sua relação com a sociedade: uma síntese bibliográfica.** EFDeportes, n. 142, mar. 2010.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O sentido de esporte-participação construído no texto está fundamentalmente presente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nos Jogos Olímpicos, uma vez que reúnem diversos países na disputa de diferentes modalidades esportivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nas competições de esportes individuais, uma vez que o sucesso de um indivíduo incentiva a participação dos demais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Nos campeonatos oficiais de futebol, regionais e nacionais, por se tratar de uma modalidade esportiva muito popular no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Nas competições promovidas pelas federações e confederações, cujo objetivo é a formação e a descoberta de talentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nas modalidades esportivas adaptadas, cujo objetivo é o maior engajamento dos cidadãos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

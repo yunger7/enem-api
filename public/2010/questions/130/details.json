@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2010",
+    "index": 130,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Flamengo começou a partida no ataque, **enquanto** o Botafogo procurava fazer uma forte marcação no meio campo e tentar lançamentos para Victor Simões, isolado entre os zagueiros rubro-negros. **Mesmo** com mais posse de bola, o time dirigido por Cuca tinha grande dificuldade de chegar à área alvinegra **por causa do** bloqueio montado pelo Botafogo na frente da sua área.\n\n**No entanto**, na primeira chance rubro-negra, saiu o gol. **Após** cruzamento da direita de Ibson, a zaga alvinegra rebateu a bola de cabeça para o meio da área. Kléberson apareceu na jogada e cabeceou por cima do goleiro Renan. Ronaldo Angelim apareceu nas costas da defesa e empurrou para o fundo da rede quase que em cima da linha: Flamengo 1 a 0.\n\nDisponível em: http://momentodofutebol.blogspot.com (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto, que narra uma parte do jogo final do Campeonato Carioca de futebol, realizado em 2009, contém vários conectivos, sendo que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Após é conectivo de causa, já que apresenta o motivo de a zaga alvinegra ter rebatido a bola de cabeça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Enquanto conecta duas opções possíveis para serem aplicadas no jogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "No entanto tem significado de tempo, porque ordena os fatos observados no jogo em ordem cronológica de ocorrência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mesmo traz ideia de concessão, já que “com mais posse de bola\", ter dificuldade não é algo naturalmente esperado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Por causa de indica consequência, porque as tentativas de ataque do Flamengo motivaram o Botafogo a fazer um bloqueio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

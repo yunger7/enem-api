@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2019",
+    "index": 57,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg)\n\nSALGADO-LABOURIAL, M.L., História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/57/01e91aee-fbc7-4703-8454-c17c702d8064.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Existência de superfícies de intensa refletividade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Preponderância de altas pressões atmosféricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Influência de umidade das áreas florestais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Predomínio de correntes marinhas frias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ausência de massas de ar continentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

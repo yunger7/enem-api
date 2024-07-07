@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2012",
+    "index": 138,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "600, 550, 350",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "300, 300, 150",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "300, 250, 200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "200, 200, 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100, 100, 50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2020",
+    "index": 92,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros biodegradáveis.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não são tóxicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Não precisam ser reciclados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Não causam poluição ambiental quando descartados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "São degradados em um tempo bastante menor que os convencionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Apresentam propriedades mecânicas semelhantes aos convencionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

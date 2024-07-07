@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2016",
+    "index": 101,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O senso comum é que só os seres humanos são capazes de rir. Isso não é verdade?\n\nNão. O riso básico – o da brincadeira, da diversão, da expressão física do riso, do movimento da face e da vocalização — nós compartilhamos com diversos animais. Em ratos, já foram observadas vocalizações ultrassônicas – que nós não somos capazes de perceber – e que eles emitem quando estão brincando de “rolar no chão”. Acontecendo de o cientista provocar um dano em um local específico no cérebro, o rato deixa de fazer essa vocalização e a brincadeira vira briga séria. Sem o riso, o outro pensa que está sendo atacado. O que nos diferencia dos animais é que não temos apenas esse mecanismo básico. Temos um outro mais evoluído. Os animais têm o senso de brincadeira, como nós, mas não têm senso de humor. O córtex, a parte superficial do cérebro deles, não é tão evoluído como o nosso. Temos mecanismos corticais que nos permitem, por exemplo, interpretar uma piada.\n\nDisponível em http://globonews.globo.com. Acesso em 31 maio 2012 (adaptado)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A coesão textual é responsável por estabelecer relações entre as partes do texto. Analisando o trecho “Acontecendo de o cientista provocar um dano em um local específico no cérebro”, verifica-se que ele estabelece com a oração seguinte uma relação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Finalidade, porque os danos causados ao cérebro têm por finalidade provocar a falta de vocalização dos ratos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oposição, visto que o dano causado em um local específico no cérebro é contrário à vocalização dos ratos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Condição, pois é preciso que se tenha lesão específica no cérebro para que não haja vocalização dos ratos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Consequência, uma vez que o motivo de não haver mais vocalização dos ratos é o dano causado no cérebro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Proporção, já que à medida que se lesiona o cérebro não é mais possível que haja vocalização dos ratos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

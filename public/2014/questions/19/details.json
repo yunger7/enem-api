@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2014",
+    "index": 19,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Olhamos o homem alheio às atividades públicas não como alguém que cuida apenas de seus próprios interesses, mas como um inútil; nós, cidadãos atenienses, decidimos as questões públicas por nós mesmos na crença de que não é o debate que é empecilho à ação, e sim o fato de não se estar esclarecido pelo debate antes de chegar a hora da ação.\n\n_TUCÍDIDES. História da Guerra do Peloponeso. Brasília: UnB, 1987 (adaptado)._\n\nTEXTO II\n\nUm cidadão integral pode ser definido nada menos que pelo direito de administrar justiça e exercer funções públicas; algumas destas, todavia, são limitadas quanto ao tempo de exercício, de tal modo que não podem de forma alguma ser exercidas duas vezes pela mesma pessoa, ou somente podem sê-lo depois de certos intervalos de tempo prefixados.\n\n_ARISTÓTELES. Política. Brasília: UnB, 1985._",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Comparando os textos I e II, tanto para Tucídides (no século V a.C.) quanto para Aristóteles (no século IV a.C.), a cidadania era definida pelo(a):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prestígio social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Acúmulo de riqueza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Participação política.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Local de nascimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Grupo de parentesco.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

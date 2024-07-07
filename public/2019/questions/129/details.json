@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2019",
+    "index": 129,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos parâmetros de controle de qualidade de polpas de frutas destinadas ao consumo como bebida é a acidez total expressa em ácido cítrico, que corresponde à massa dessa substância em 100 gramas de polpa de fruta. O ácido cítrico é uma molécula orgânica que apresenta três hidrogênios ionizáveis (ácido triprótico) e massa molar 192 g mol^{-1 }​−1​​. O quadro indica o valor mínimo desse parâmetro de qualidade para polpas comerciais de algumas frutas.\n\nA acidez total expressa em ácido cítrico de uma amostra comercial de polpa de fruta foi determinada. No procedimento, adicionou-se água destilada a 2,2 g da amostra e, após a solubilização do ácido cítrico, o sólido remanescente foi filtrado. A solução obtida foi titulada com solução de hidróxido de sódio 0,01 mol L–1, em que se consumiram 24 mL da solução básica (titulante).\n\n**BRASIL. Ministério da Agricultura e do Abastecimento. Instrução normativa n. 1, de 7 de janeiro de 2000. Disponível em: [www.agricultura.gov.br](http://www.agricultura.gov.br/). Acesso em: 9 maio 2019 (adaptado).**\n\n![](https://enem.dev/2019/questions/129/fb68419e-94f4-4764-b522-2f6e20300d02.png)",
+    "files": [
+        "https://enem.dev/2019/questions/129/fb68419e-94f4-4764-b522-2f6e20300d02.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre as listadas, a amostra analisada pode ser de qual polpa de fruta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apenas caju.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apenas maracujá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caju ou graviola.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Acerola ou cupuaçu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cupuaçu ou graviola.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

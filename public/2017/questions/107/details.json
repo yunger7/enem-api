@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2017",
+    "index": 107,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A epilação a laser (popularmente conhecida como depilação a laser) consiste na aplicação de uma fonte de luz para aquecer e causar uma lesão localizada e controlada nos folículos capilares. Para evitar que outros tecidos sejam danificados, selecionam-se comprimentos de onda que são absorvidos pela melanina presente nos pelos, mas que não afetam a oxi-hemoglobina do sangue e a água dos tecidos da região em que o tratamento será aplicado. A figura mostra como é a absorção de diferentes comprimentos de onda pela melanina, oxi-hemoglobina e água.\n\n![](https://enem.dev/2017/questions/107/d7140b05-a8ee-4974-a104-7a6097572b07.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/107/d7140b05-a8ee-4974-a104-7a6097572b07.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o comprimento de onda, em nm, ideal para a epilação a laser?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "700",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "900",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

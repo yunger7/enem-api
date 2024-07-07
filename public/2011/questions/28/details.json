@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2011",
+    "index": 28,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Subindo morros, margeando córregos ou penduradas em palafitas, as favelas fazem parte da paisagem de um terço dos municípios do país, abrigando mais de 10 milhões de pessoas, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE).\n\nMARTINS, A. R. **A favela como um espaço da cidade.** Disponível em: http://www.revistaescola.abril.com.br. Acesso em: 31 jul. 2010.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A situação das favelas no país reporta a graves problemas de desordenamento territorial. Nesse sentido, uma característica comum a esses espaços tem sido",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O planejamento para a implantação de infraestruturas urbanas necessárias para atender as necessidades básicas dos moradores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A organização de associações de moradores interessadas na melhoria do espaço urbano e financiadas pelo poder público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A presença de ações referentes à educação ambiental com consequente preservação dos espaços naturais circundantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A ocupação de áreas de risco suscetíveis a enchentes ou desmoronamentos com consequentes perdas materiais e humanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O isolamento socioeconômico dos moradores ocupantes desses espaços com a resultante multiplicação de políticas que tentam reverter esse quadro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

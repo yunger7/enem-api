@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2017",
+    "index": 179,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,075",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,150",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,325",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "0,600",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,800",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2023",
+    "index": 162,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço _y_ do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume _x_ de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A expressão que representa o preço y em função do volume x, em metro cúbico, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y = 250x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y = 500x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y = 750x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Y = 250x + 500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Y = 500x + 250",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2011",
+    "index": 2,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O brasileiro tem noção clara dos comportamentos éticos e morais adequados, mas vive sob o espectro da corrupção, revela pesquisa. Se o país fosse resultado dos padrões morais que as pessoas dizem aprovar, pareceria mais com a Escandinávia do que com Bruzundanga (corrompida nação fictícia de Lima Barreto).\n\nFRAGA, P. **Ninguém é inocente.** Folha de S. Paulo, 4 out. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O distanciamento entre “reconhecer” e “cumprir” efetivamente o que é moral constitui uma ambiguidade inerente ao humano, porque as normas morais são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Decorrentes da vontade divina e, por esse motivo, utópicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Parâmetros idealizados, cujo cumprimento é destituído de obrigação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Amplas e vão além da capacidade de o indivíduo conseguir cumpri-las integralmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Criadas pelo homem, que concede a si mesmo a lei à qual deve se submeter",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Cumpridas por aqueles que se dedicam inteiramente a observar as normas jurídicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

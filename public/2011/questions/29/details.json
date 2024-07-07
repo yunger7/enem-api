@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2011",
+    "index": 29,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/29/9c6575c2-ed04-4ff6-8142-d9a41415b6f5.png)\n\nFoto de Militão, São Paulo, 1879. ALENCASTRO, L. F. (org). História da vida privada no Brasil. Império: a corte e a modernidade nacional. São Paulo: Cia. das Letras, 1997. (Foto: Reprodução/Enem)",
+    "files": [
+        "https://enem.dev/2011/questions/29/9c6575c2-ed04-4ff6-8142-d9a41415b6f5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que aspecto histórico da escravidão no Brasil do séc. XIX pode ser identificado a partir da análise do vestuário do casal retratado acima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O uso de trajes simples indica a rápida incorporação dos ex-escravos ao mundo do trabalho urbano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A presença de acessórios como chapéu e sombrinha aponta para a manutenção de elementos culturais de origem africana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O uso de sapatos é um importante elemento de diferenciação social entre negros libertos ou em melhores condições na ordem escravocrata.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A utilização do paletó e do vestido demonstra a tentativa de assimilação de um estilo europeu como forma de distinção em relação aos brasileiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A adoção de roupas próprias para o trabalho doméstico tinha como finalidade demarcar as fronteiras da exclusão social naquele contexto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

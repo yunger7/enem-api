@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2009",
+    "index": 150,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5ª nação mais rica do planeta, o Brasil é a 10ª, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007.\n\n![](https://enem.dev/2009/questions/150/345210ee-8d51-4c8d-b6ca-05541e682160.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/150/345210ee-8d51-4c8d-b6ca-05541e682160.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inferior a 300 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Superior a 600 milhões de dólares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 147 - ENEM 2021",
+    "index": 147,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se comunicar com seus generais.  \nNo método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás) de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.\n\n![](https://enem.dev/2021/questions/147/114ddf31-06d9-41cf-a588-a987226385e6.png)\n\nPara quebrar um código como esse, a análise de frequências das letras de um texto é uma ferramenta importante.  \nUma análise do texto do romance O guarani, de José de Alencar, que é composto por 491 631 letras, gerou o seguinte gráfico de frequências:\n\n![](https://enem.dev/2021/questions/147/a5256e30-3984-4503-aaa0-41b95d681d71.png)",
+    "files": [
+        "https://enem.dev/2021/questions/147/114ddf31-06d9-41cf-a588-a987226385e6.png",
+        "https://enem.dev/2021/questions/147/a5256e30-3984-4503-aaa0-41b95d681d71.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após codificar esse texto com a regra do exemplo fornecido, faz-se nova analise de frequência no texto codificado.\nAs quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A,E,O e S.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "D, E, F e G.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "D, E, F e G.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D,H,R e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "X, B L e P.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

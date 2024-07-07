@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2017",
+    "index": 148,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia, conforme Figura 1. A estrutura de sustentação de cada uma dessas cabanas está representada na Figura 2. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza\n\n![](https://enem.dev/2017/questions/148/aff2b260-7282-4164-b347-1cd2ebdf4951.png)",
+    "files": [
+        "https://enem.dev/2017/questions/148/aff2b260-7282-4164-b347-1cd2ebdf4951.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A forma geométrica da superfície cujas arestas estão representadas na Figura 2 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tetraedro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pirâmide retangular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tronco de pirâmide retangular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Prisma quadrangular reto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Prisma triangular reto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2017",
+    "index": 149,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura ilustra uma partida de Campo Minado, o jogo presente em praticamente todo computador pessoal. Quatro quadrados em um tabuleiro 16 x 16 foram abertos, e os números em suas faces indicam quantos dos seus 8 vizinhos contêm minas (a serem evitadas). O número 40 no canto inferior direito é o número total de minas no tabuleiro, cujas posições foram escolhidas ao acaso, de forma uniforme, antes de se abrir qualquer quadrado.\n\n![](https://enem.dev/2017/questions/149/d94daac4-0e76-47a6-bdec-90200af5b3c0.png)\n\nEm sua próxima jogada, o jogador deve escolher dentre os quadrados marcados com as letras P, Q, R, S e T um para abrir, sendo que deve escolher aquele com a menor probabilidade de conter uma mina.",
+    "files": [
+        "https://enem.dev/2017/questions/149/d94daac4-0e76-47a6-bdec-90200af5b3c0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O jogador deverá abrir o quadrado marcado com a letra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Q.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "S.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "T.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

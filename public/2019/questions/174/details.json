@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2019",
+    "index": 174,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana).\n\nOs gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.\n\n![](https://enem.dev/2019/questions/174/0daf8f71-8278-440e-bd88-2dbf13acb2e0.png)",
+    "files": [
+        "https://enem.dev/2019/questions/174/0daf8f71-8278-440e-bd88-2dbf13acb2e0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o acordo, qual município receberá o investimento extra?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

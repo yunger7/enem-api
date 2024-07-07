@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2010",
+    "index": 60,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A lavoura arrozeira na planície costeira da região sul do Brasil comumente sofre perdas elevadas devido a salinização da água de irrigação, que ocasiona prejuízos diretos, como a redução de produção da lavoura. Solos com processo de salinização avançado não são indicados, por exemplo, para o cultivo de arroz. As plantas retiram a água do solo quando as forças de embebição dos tecidos das raízes são superiores às forças com que a água é retida no solo.\n\nWINKEL, H.L.; TSCHIEDEL, M. Cultura do arroz: salinização de solos em cultivo do arroz.  \nDisponível em: http://agropage.tripod.com/saliniza.hml. Acesso em: 25 jun. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A presença de sais na solução do solo faz com que seja dificultada a absorção de água pelas plantas, o que provoca o fenômeno conhecido por seca fisiológica, caracterizado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento da salinidade, em que a água do solo atinge uma concentração de sais maior que a das células das raízes das plantas, impedindo, assim, que a água seja absorvida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da salinidade, em que o solo atinge um nível muito baixo de água, e as plantas não tem força de sucção para absorver a água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da salinidade, que atinge um nível em que as plantas não têm força de sucção, fazendo com que a água não seja absorvida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumento da salinidade, que atinge um nível em que as plantas têm muita sudação, não tendo força de sucção para superá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição da salinidade, que atinge um nível em que as plantas ficam túrgidas e não têm força de sudação para superá-la.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

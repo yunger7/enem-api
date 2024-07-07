@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2012",
+    "index": 129,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**O léxico e a cultura**\n\nPotencialmente, todas as línguas de todos os tempos podem candidatar-se a expressar qualquer conteúdo. A pesquisa linguística do século XX demonstrou que não há diferença qualitativa entre os idiomas do mundo — ou seja, não há idiomas gramaticalmente mais primitivos ou mais desenvolvidos. Entretanto, para que possa ser efetivamente utilizada, essa igualdade potencial precisa realizar-se na prática histórica do idioma, o que nem sempre acontece. Teoricamente, uma língua com pouca tradição escrita (como as línguas indígenas brasileiras) ou uma língua já extinta (como o latim ou o grego clássicos) podem ser empregadas para falar sobre qualquer assunto, como, digamos, física quântica ou biologia molecular. Na prática, contudo, não é possível, de uma hora para outra, expressar tais conteúdos em camaiurá ou latim, simplesmente porque não haveria vocabulário próprio para esses conteúdos. É perfeitamente possível desenvolver esse vocabulário específico, seja por meio de empréstimos de outras línguas, seja por meio da criação de novos termos na língua em questão, mas tal tarefa não se realizaria em pouco tempo nem com pouco esforço.\n\nBEARZOTI FILHO, P. **Miniaurélio**: o dicionário da língua portuguesa. Manual do professor. Curitiba: Positivo, 2004 (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Estudos contemporâneos mostram que cada língua possui sua própria complexidade e dinâmica de funcionamento. O texto ressalta essa dinâmica, na medida em que enfatiza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A inexistência de conteúdo comum a todas as línguas, pois o léxico contempla visão de mundo particular específica de uma cultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A existência de línguas limitadas por não permitirem ao falante nativo se comunicar perfeitamente a respeito de qualquer conteúdo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A tendência a serem mais restritos o vocabulário e a gramática de línguas indígenas, se comparados com outras línguas de origem europeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A existência de diferenças vocabulares entre os idiomas, especificidades relacionadas à própria cultura dos falantes de uma comunidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A atribuição de maior importância sociocultural às línguas contemporâneas, pois permitem que sejam abordadas quaisquer temáticas, sem dificuldades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

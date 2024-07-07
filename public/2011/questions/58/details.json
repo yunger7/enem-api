@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2011",
+    "index": 58,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/58/d80676e3-424b-494d-bbf9-eac96350b56b.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/58/d80676e3-424b-494d-bbf9-eac96350b56b.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A retenção de água na superfície da pele promovida pelos hidratantes é consequência da interação dos grupos hidroxila dos agentes umectantes com a umidade contida no ambiente por meio de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ligações iônicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Forças de London.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ligações covalentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Forças dipolo-dipolo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ligações de hidrogênio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2012",
+    "index": 136,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas.  \nUm professor de Educação Física, ao discutir com a turma o texto sobre a capacidade do maratonista americano, desenhou na lousa uma pista reta de 60 centímetros, que representaria o percurso referido.\n\n_Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1:700",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1:7 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1:70 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1:700 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1:7 000 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

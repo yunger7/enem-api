@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2017",
+    "index": 128,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A retina é um tecido sensível à luz, localizado na parte posterior do olho, onde ocorre o processo de formação de imagem. Nesse tecido, encontram-se vários tipos celulares específicos. Um desses tipos celulares são cones, os quais convertem os diferentes comprimentos de onda da luz visível em sinais elétricos, que são transmitidos pelo nervo óptico até o cérebro.\n\nDisponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em relação à visão, a degeneração desse tipo celular irá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comprometer a capacidade de visão em cores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Impedir a projeção dos raios luminosos na retina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Provocar a formação de imagens invertidas na retina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Causar dificuldade de visualização de objetos próximos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Acarretar a perda da capacidade de alterar o diâmetro da pupila.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

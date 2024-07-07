@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2020",
+    "index": 173,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura.\n\n![](https://enem.dev/2020/questions/173/b1116282-c341-4b8e-a3a4-9b589e302201.png)\n\nUm arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia.",
+    "files": [
+        "https://enem.dev/2020/questions/173/b1116282-c341-4b8e-a3a4-9b589e302201.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "26.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "52.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

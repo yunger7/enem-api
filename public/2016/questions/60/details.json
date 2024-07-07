@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2016",
+    "index": 60,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No caso apresentado, entre o adsorvente e a substância adsorvida ocorre a formação de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ligações dissulfeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ligações covalentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ligações de hidrogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interações dipolo induzido – dipolo induzido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Interações dipolo permanente – dipolo permanente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

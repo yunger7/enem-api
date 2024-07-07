@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2020",
+    "index": 158,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.\n\n![](https://enem.dev/2020/questions/158/2acb1f87-4c3a-442e-9900-eba934e304ea.png)\n\nAndré deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita (→) ou para cima (↑), segundo o esquema da figura.",
+    "files": [
+        "https://enem.dev/2020/questions/158/2acb1f87-4c3a-442e-9900-eba934e304ea.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "48",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

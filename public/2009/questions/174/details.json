@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2009",
+    "index": 174,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja Q a projeção ortogonal de P sobre o eixo x, como mostra a figura, e suponha que o ponto P percorra, no sentido anti-horário, uma distância d ≤ r sobre a circunferência.\n\n![](https://enem.dev/2009/questions/174/29dd5a77-8236-4be7-bdf2-fe2a3bfc482c.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/174/29dd5a77-8236-4be7-bdf2-fe2a3bfc482c.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Então, o ponto Q percorrerá, no eixo x, uma distância dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R( 1 - sen d/r ).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R( 1 - cos d/r ).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R( 1 - tag d/r ).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rsen (r/d).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rcos (r/d).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

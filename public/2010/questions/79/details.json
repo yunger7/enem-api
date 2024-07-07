@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2010",
+    "index": 79,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As mobilizações para promover um planeta melhor para as futuras gerações são cada vez frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200g de dióxido de carbono por km percorrido.\n\nRevista Aquecimento Global. Ano 2, no 8. Publicação do Instituto Brasileiro de Cultura Ltda.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um dos principais constituintes da gasolina é o octano (C8H18). Por meio da combustão do octano é possível a liberação de energia, permitindo que o carro entre em movimento. A equação que representa a reação química desse processo demonstra que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "No processo há liberação de oxigênio, sob a forma de O2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O coeficiente estequiométrico para a água é de 8 para 1 do octano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "No processo há consumo de água, para que haja liberação de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O coeficiente estequiométrico para o oxigênio é de 12,5 para 1 do octano.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O coeficiente estequiométrico para o gás carbônico é de 9 para 1 do octano",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

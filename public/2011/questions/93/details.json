@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2011",
+    "index": 93,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**How’s your mood?**\n\n![](https://enem.dev/2011/questions/93/148fb6fd-27c9-409e-a187-3038678c5e33.png)\n\nFor an interesting attempt to measure cause and effect try Mappiness, a project run by the London School of Economics, which offers a phone app that prompts you to record your mood and situation.\n\nThe Mappiness website says: “We’re particularly interested in how people’s happiness is affected by their local environment — air pollution, noise, green spaces, and so on — which the data from Mappiness will be absolutely great for investigating.”\n\nWill it work? With enough people, it might. But there are other problems. We’ve been using happiness and well-being interchangeably. Is that ok? The difference comes out in a sentiment like: “We were happier during the war.” But was our well-being also greater then?\n\nDisponível em: http://www.bbc.co.uk. Acesso em: 27 jun. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/93/148fb6fd-27c9-409e-a187-3038678c5e33.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O projeto Mappiness, idealizado pela London School of Economics, ocupa-se do tema relacionado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao nível de felicidade das pessoas em tempos de guerra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "À dificuldade de medir o nível de felicidade das pessoas a partir de seu humor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ao nível de felicidade das pessoas enquanto falam ao celular com seus familiares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "À relação entre o nível de felicidade das pessoas e o ambiente no qual se encontram.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "À influência das imagens grafitadas pelas ruas no aumento do nível de felicidade das pessoas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2015",
+    "index": 43,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.\n\nMANNHEIM, K. **Ideologia e utopia**. Porto Alegre: Globo 1950 (adaptado)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ilustrando uma proposição básica da sociologia do conhecimento, o argumento de Karl Mannheim defende que o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conhecimento sobre a realidade é condicionado socialmente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Submissão ao grupo manipula o conhecimento do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Divergência é um privilégio de indivíduos excepcionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Educação formal determina o conhecimento do idioma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Domínio das línguas universaliza o conhecimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

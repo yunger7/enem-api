@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2021",
+    "index": 129,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nutrição para o fruto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reserva para o embrião.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Revestimento para a semente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Proteção para o megagametófito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vascularização para a planta jovem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

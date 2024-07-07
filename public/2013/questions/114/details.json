@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2013",
+    "index": 114,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/114/aac80934-559a-4244-bca8-133d8a9b4aa4.png)",
+    "files": [
+        "https://enem.dev/2013/questions/114/aac80934-559a-4244-bca8-133d8a9b4aa4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Pertencentes ao patrimônio cultural brasileiro, a carta de Pero Vaz de Caminha e a obra de Portinari retratam a chegada dos portugueses ao Brasil. Da leitura dos textos, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A carta de Pero Vaz de Caminha representa uma das primeiras manifestações artísticas dos portugueses em terras brasileiras e preocupa-se apenas com a estética literária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A tela de Portinari retrata indígenas nus com corpos pintados, cuja grande significação é a afirmação da arte acadêmica brasileira e a contestação de uma linguagem moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A carta, como testemunho histórico-político, mostra o olhar do colonizador sobre a gente da terra, e a pintura destaca, em primeiro plano, a inquietação dos nativos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "As duas produções, embora usem linguagens diferentes — verbal e não verbal —, cumprem a mesma função social e artística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A pintura e a carta de Caminha são manifestações de grupos étnicos diferentes, produzidas em um mesmo momento histórico, retratando a colonização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

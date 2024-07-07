@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2023",
+    "index": 179,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.\n\n![](https://enem.dev/2023/questions/179/d2b83dd3-33ef-40d6-944a-b98d17f6411b.png)",
+    "files": [
+        "https://enem.dev/2023/questions/179/d2b83dd3-33ef-40d6-944a-b98d17f6411b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Okosa okosa urapum e okosa okosa okosa okosa urapum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Okosa okosa urapum e okosa okosa okosa urapum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Okosa urapum urapum e okosa urapum okosa urapum urapum.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Okosa okosa urapum e okosa okosa okosa okosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

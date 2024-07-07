@@ -1,0 +1,46 @@
+{
+    "title": "Questão 169 - ENEM 2011",
+    "index": 169,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png)\n\nNo quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.\n\n![](https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png)",
+    "files": [
+        "https://enem.dev/2011/questions/169/138c3e55-cb8f-43d0-8303-23e8a9f9686f.png",
+        "https://enem.dev/2011/questions/169/4546f26f-0929-46e6-9960-fe66371e66a7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1estando ambos na categoria de sobrepeso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2014",
+    "index": 179,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A quantia que essa pessoa levava semanalmente para fazer a compra era",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 166,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 156,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 84,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 46,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 24,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

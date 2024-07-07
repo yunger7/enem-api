@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2014",
+    "index": 158,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/158/f3fb8087-ffc9-4624-9550-cb84254ac99f.png)\n\nBENSEÑOR, I. M.; LOTUFO, P. A. **Epidemologia**: abordagem prática.\n\nSão Paulo: Sarvier, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2014/questions/158/f3fb8087-ffc9-4624-9550-cb84254ac99f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o quadro do teste proposto, a sensibilidade dele é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "47,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "85,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86,3%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "94,4%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "95,0%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2021",
+    "index": 98,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante o desenvolvimento embrionário humano ocorre uma comunicação entre os átrios direito e esquerdo através do forame oval (ou forame de Botal). Essa comunicação não causa prejuízos à circulação do bebê em formação, exceto se ela perdurar após o nascimento.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os prejuízos no período embrionário são evitados porque a circulação fetal se assemelha à dos (as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aves, porque a pequena circulação e a grande circulação estão presentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Répteis, porque a mistura de sangue é minimizada por um metabolismo lento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

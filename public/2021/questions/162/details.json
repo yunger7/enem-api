@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2021",
+    "index": 162,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (l).\n\n![](https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png)",
+    "files": [
+        "https://enem.dev/2021/questions/162/cc601335-5c45-493b-aa9d-b7c58c7b107a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor representa essa relação é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/162/41839cfc-4413-4111-b228-b6f835d314f6.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/162/8e1d0658-17c6-447f-8852-a80221b9661f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/162/070fd147-aeb8-4211-9ace-d2ddecb2bc76.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/162/a69d9997-7244-40d9-b945-11e7ac108a91.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/162/b9498a83-138e-4d4e-8eb9-b9ec50dcf5f4.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2012",
+    "index": 48,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O milho transgênico é produzido a partir da manipulação do milho original, com a transferência, para este, de um gene de interesse retirado de outro organismo de espécie diferente.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A característica de interesse será manifestada em decorrência",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Do incremento do DNA a partir da duplicação do gene transferido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Da transcrição do RNA transportador a partir do gene transferido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Da expressão de proteínas sintetizadas a partir do DNA não hibridizado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Da síntese de carboidratos a partir da ativação do DNA do milho original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da tradução do RNA mensageiro sintetizado a partir do DNA recombinante.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

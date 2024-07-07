@@ -1,0 +1,46 @@
+{
+    "title": "Questão 156 - ENEM 2020",
+    "index": 156,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.\n\n![](https://enem.dev/2020/questions/156/8a18ed35-dc64-41c5-961c-a30d5064606f.png)\n\n![](https://enem.dev/2020/questions/156/0628f04c-0a96-4da1-877a-93da372b77e9.png)\n\nDados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro.",
+    "files": [
+        "https://enem.dev/2020/questions/156/8a18ed35-dc64-41c5-961c-a30d5064606f.png",
+        "https://enem.dev/2020/questions/156/0628f04c-0a96-4da1-877a-93da372b77e9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

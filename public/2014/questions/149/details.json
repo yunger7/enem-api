@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2014",
+    "index": 149,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o tempo mínimo para que todos passem pelas catracas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 hora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 hora e 15 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 horas e 15 minutos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

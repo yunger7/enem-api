@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2011",
+    "index": 179,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de telefone fixa oferece dois planos aos seus clientes: no plano K, o cliente paga R$ 29,90 por  200 minutos mensais e R$ 0,20 por cada minuto excedente; no plano Z, paga R$ 49,90 por 300 minutos mensais e R$ 0,10 por cada minuto excedente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O gráfico que representa o valor pago, em reais, nos dois planos em função dos minutos utilizados é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2011/questions/179/433b6b47-1dce-4ea0-9776-2b3740985df2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2011/questions/179/ec7e7857-fd93-4ba2-ac72-a86af3feb3de.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2011/questions/179/b244cafb-d3e4-4e73-9377-ed74b129890c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2011/questions/179/108be4dc-5c66-4214-8524-c5f5c32e2dab.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2011/questions/179/949bee07-2abc-4dfc-8b47-1e012203652e.png",
+            "isCorrect": false
+        }
+    ]
+}

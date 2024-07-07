@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2016",
+    "index": 157,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png)",
+    "files": [
+        "https://enem.dev/2016/questions/157/a509eb59-7fd2-4a42-a356-e1be71c628f2.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual deve ser o lucro mínimo da empresa no mês de junho, em milhares de reais, para o gerente continuar no cargo no próximo semestre?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "29",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "31",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "35",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

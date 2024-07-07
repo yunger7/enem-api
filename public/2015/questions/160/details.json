@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2015",
+    "index": 160,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/160/1efe6cb5-d767-4175-b0c3-39e98266f7cd.png)",
+    "files": [
+        "https://enem.dev/2015/questions/160/1efe6cb5-d767-4175-b0c3-39e98266f7cd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A largura e o comprimento reais da pegada, em centímetros, são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,9 e 7,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8,6 e 9,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14,2 e 15,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "26,4 e 40,8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "27,5 e 42,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

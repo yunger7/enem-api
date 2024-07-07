@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2013",
+    "index": 67,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sabe-se que o aumento da concentração de gases como CO2, CH4 e N2O na atmosfera é um dos fatores responsáveis pelo agravamento do efeito estufa. A agricultura é uma das atividades humanas que pode contribuir tanto para a emissão quanto para o sequestro desses gases, dependendo do manejo da matéria orgânica do solo.\n\nROSA, A. H.; COELHO, J. C. R. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 5, nov. 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De que maneira as práticas agrícolas podem ajudar a minimizar o agravamento do efeito estufa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evitando a rotação de culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Liberando o CO2 presente no solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentando a quantidade de matéria orgânica do solo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Queimando a matéria orgânica que se deposita no solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Atenuando a concentração de resíduos vegetais do solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

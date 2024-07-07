@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2009",
+    "index": 142,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A suspeita de que haveria uma relação causal entre tabagismo e câncer de pulmão foi levantada pela primeira vez a partir de observações clínicas. Para testar essa possível associação, foram conduzidos inúmeros estudos epidemiológicos. Dentre esses, houve o estudo do número de casos de câncer em relação ao número de cigarros consumidos por dia, cujos resultados são mostrados no gráfico a seguir.\n\n![](https://enem.dev/2009/questions/142/c56fbd08-b377-40bd-831c-b571ed7638fe.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/142/c56fbd08-b377-40bd-831c-b571ed7638fe.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as informações do gráfico,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

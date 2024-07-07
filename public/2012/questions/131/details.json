@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2012",
+    "index": 131,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/131/b9d98d9e-3a0b-4ec3-88f4-05fc7d517e47.png)\n\nBARDI, P. M. **Em torno da escultura no Brasil**. São Paulo: Banco Sudameris Brasil, 1989.",
+    "files": [
+        "https://enem.dev/2012/questions/131/b9d98d9e-3a0b-4ec3-88f4-05fc7d517e47.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com contornos assimétricos, riqueza de detalhes nas vestes e nas feições, a escultura barroca no Brasil tem forte influência do rococó europeu e está representada aqui por um dos profetas do pátio do Santuário do Bom Jesus de Matosinho, em Congonhas (MG), esculpido em pedra-sabão por Aleijadinho. Profundamente religiosa, sua obra revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Liberdade, representando a vida de mineiros à procura da salvação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Credibilidade, atendendo a encomendas dos nobres de Minas Gerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Simplicidade, demonstrando compromisso com a contemplação do divino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Personalidade, modelando uma imagem sacra com feições populares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Singularidade, esculpindo personalidades do reinado nas obras divinas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

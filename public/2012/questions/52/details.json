@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2012",
+    "index": 52,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Medidas de saneamento básico são fundamentais no processo de promoção de saúde e qualidade de vida da população. Muitas vezes, a falta de saneamento está relacionada com o aparecimento de várias doenças. Nesse contexto, um paciente dá entrada em um pronto atendimento relatando que há 30 dias teve contato com águas de enchente. Ainda informa que nesta localidade não há rede de esgoto e drenagem de águas pluviais e que a coleta de lixo é inadequada. Ele apresenta os seguintes sintomas: febre, dor de cabeça e dores musculares.\n\nDisponível em: http://portal.saude.gov.br. Acesso em: 27 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Relacionando os sintomas apresentados com as condições sanitárias da localidade, há indicações de que o paciente apresenta um caso de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difteria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Botulismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tuberculose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Leptospirose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Meningite meningocócica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

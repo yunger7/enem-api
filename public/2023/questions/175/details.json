@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2023",
+    "index": 175,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual o preço, em real, de uma cartela de tíquetes vermelhos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,68",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,30",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9,30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,65",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

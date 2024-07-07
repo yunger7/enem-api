@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2017",
+    "index": 167,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/167/7bf9f382-d44e-49aa-b785-8f24191c1fb5.png)",
+    "files": [
+        "https://enem.dev/2017/questions/167/7bf9f382-d44e-49aa-b785-8f24191c1fb5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para atingir todos os seus objetivos, o chefe deverá cortar a calota do melão numa altura h, em centímetro, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 - √91/2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 - √91",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

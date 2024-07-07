@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2014",
+    "index": 74,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/74/3f62e0c4-4374-4c49-b60b-304948d19b0f.jpg)\n\nNo heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.",
+    "files": [
+        "https://enem.dev/2014/questions/74/3f62e0c4-4374-4c49-b60b-304948d19b0f.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é o padrão de herança observado para essa doença?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dominante autossômico, pois a doença aparece em ambos os sexos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

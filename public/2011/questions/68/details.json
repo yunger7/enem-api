@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2011",
+    "index": 68,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um instituto de pesquisa norte-americano divulgou recentemente ter criado uma “célula sintética”, uma bactéria chamada de _Mycoplasma mycoides_. Os pesquisadores montaram uma sequência de nucleotídeos, que formam o único cromossomo dessa bactéria, o qual foi introduzido em outra espécie de bactéria, a _Mycoplasma capricolum._ Após a introdução, o cromossomo da _M. capricolum_ foi neutralizado e o e o cromossomo artificial da _M. mycoides_ começou a gerenciar a célula, produzindo suas proteínas.\n\nGILBSON et al. Creation of a Bacterial Cell Controlled by a Chemically synthesized Genome.  \nScience v. 329, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A importância dessa inovação tecnológica para a comunidade científica se deve à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Possibilidade de sequenciar os genomas de bactérias para serem usados como receptoras de cromossomos artificiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Capacidade de criação, pela ciência, de novas formas de vida, utilizando substâncias como carboidratos e lipídios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Possibilidade de produção em massa da bactéria Mycoplasma capricolum para sua distribuição em ambientes naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Possibilidade de programar geneticamente microrganismos ou seres mais complexos para produzir medicamentos, vacinas e combustíveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Capacidade da bactéria Mycoplasma capricolum de expressar suas proteínas na bactéria sintética e estas serem usadas na indústria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

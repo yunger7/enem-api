@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2013",
+    "index": 151,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Durante uma aula de Matemática, o professor sugere aos alunos que seja fixado um sistema de coordenadas cartesianas (x, y) e representa na lousa a descrição de cinco conjuntos algébricos, I, II, III, IV e V, como se segue:\n\nI — é a circunferência de equação x2 + y2 = 9;  \nII — é a parábola de equação y = − x2 − 1, com x variando de −1 a 1;  \nIII — é o quadrado formado pelos vértices (−2, 1), (−1, 1), (−1, 2) e (−2, 2);  \nIV — é o quadrado formado pelos vértices (1, 1), (2, 1), (2, 2) e (1, 2);  \nV — é o ponto (0, 0).\n\nA seguir, o professor representa corretamente os cinco conjuntos sobre uma mesma malha quadriculada, composta de quadrados com lados medindo uma unidade de comprimento, cada, obtendo uma figura.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual destas figuras foi desenhada pelo professor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/151/f9eb65fe-85e3-44ee-8a08-76815609cfaf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/151/e55374e0-5345-4883-b02b-0501bb462716.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/151/e0329894-ff51-4113-9a03-73a775fec7e7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/151/7ffe259a-2172-4ab1-b921-c91fd35989fa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/151/d362f4ac-dda0-4c50-9c5b-8cd7582bfe09.png",
+            "isCorrect": true
+        }
+    ]
+}

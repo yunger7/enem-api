@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2012",
+    "index": 121,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/121/0906b53b-6578-4bbf-9544-7d5946fec2ae.png)\n\nPicasso, P. **Les Demoiselles d’Avignon**. Nova York, 1907.  \nARGAN, G. C. **Arte moderna**: do Iluminismo aos movimentos contemporâneos.  \nSão Paulo: Companhia das Letras, 1992.",
+    "files": [
+        "https://enem.dev/2012/questions/121/0906b53b-6578-4bbf-9544-7d5946fec2ae.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O quadro Les Demoiselles d’Avignon (1907), de Pablo Picasso, representa o rompimento com a estética clássica e a revolução da arte no início do século XX. Essa nova tendência se caracteriza pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pintura de modelos em planos irregulares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Mulher como temática central da obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cena representada por vários modelos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Oposição entre tons claros e escuros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nudez explorada como objeto de arte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

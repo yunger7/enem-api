@@ -1,0 +1,45 @@
+{
+    "title": "Questão 34 - ENEM 2014",
+    "index": 34,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg)",
+    "files": [
+        "https://enem.dev/2014/questions/34/619ab96f-baec-4f4c-b9e6-8eb8fe6adf54.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A imagem indica pontos com ativo uso de tecnologia, correspondentes a que processo de intervenção no espaço?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão das áreas agricultáveis, com uso intensivo de maquinário e insumos agrícolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Recuperação de águas eutrofizadas em decorrência da contaminação por esgoto doméstico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ampliação da capacidade de geração de energia, com alteração do ecossistema local.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Impermeabilização do solo pela construção civil nas áreas de expansão urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criação recente de grandes parques industriais de mediano potencial poluidor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

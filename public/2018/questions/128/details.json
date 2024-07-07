@@ -1,0 +1,47 @@
+{
+    "title": "Questão 128 - ENEM 2018",
+    "index": 128,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em desenhos animados é comum vermos a personagem tentando impulsionar um barco soprando ar contra a vela para compensar a falta de vento. Algumas vezes usam o próprio fôlego, foles ou ventiladores. Estudantes de um laboratório didático resolveram investigar essa possibilidade. Para isso, usaram dois pequenos carros de plástico, **A** e **B**, instalaram sobre estes pequenas ventoinhas e fixaram verticalmente uma cartolina de curvatura  \nparabólica para desempenhar uma função análoga á vela de um barco. No carro **B** inverteu-se o sentido da ventoinha e manteve-se a vela, a fim de manter as características físicas do barco, massa e formato da cartolina. As figuras representam os carros produzidos. A montagem do carro **A** busca simular a situação dos desenhos  \nanimados, pois a ventoinha está direcionada para a vela.\n\n![](https://enem.dev/2018/questions/128/d495fbfc-cf80-4e39-b7c7-6f0535ddac0a.png)\n\nCom os carros orientados de acordo com as figuras, os estudantes ligaram as ventoinhas, aguardaram o fluxo de ar ficar permanente e determinaram os módulos das velocidades médias dos carros ![](https://enem.dev/2018/questions/128/05a5be22-7db9-49d7-bfef-aa2c714bdfad.png) e ![](https://enem.dev/2018/questions/128/db724714-6e79-48e0-b29d-63add6f356cc.png) para o mesmo intervalo de tempo.",
+    "files": [
+        "https://enem.dev/2018/questions/128/d495fbfc-cf80-4e39-b7c7-6f0535ddac0a.png",
+        "https://enem.dev/2018/questions/128/05a5be22-7db9-49d7-bfef-aa2c714bdfad.png",
+        "https://enem.dev/2018/questions/128/db724714-6e79-48e0-b29d-63add6f356cc.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A respeito das intensidades das velocidades médias e do sentido de movimento do carro A, os estudantes observaram que:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/128/ede4adfd-1e77-4e98-bb85-8bffcad6e198.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/128/ceda7adf-3ef3-4eba-8a94-29e2860b55c7.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/128/491fca7f-e493-4082-9fba-5f11c5a99b7d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/128/b8ef24ad-f22f-44e5-af5c-18e94e3c8a10.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/128/c7002ed9-1acb-47ef-b652-132264c0402f.png",
+            "isCorrect": false
+        }
+    ]
+}

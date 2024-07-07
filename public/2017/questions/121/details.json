@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2017",
+    "index": 121,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a construção de lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e fluorescentes. Em um experimento de laboratório, pretende-se associar duas pilhas em série para acender um LED azul que requer 3,6 volts para o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro.\n\n![](https://enem.dev/2017/questions/121/a24d966d-cf85-4572-b774-9251fc9796a2.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/121/a24d966d-cf85-4572-b774-9251fc9796a2.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/121/86a80a3b-6080-46e4-99c8-64b4eb832c77.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/121/4c1e5d4d-b2e8-4266-9afc-b5dac98cbef3.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/121/d93462f7-9b7f-4e55-b51c-2f9947a093a7.jpg",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/121/4a41471d-247d-41ec-86a5-c0f04324dda7.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/121/6f8788ab-6f51-4ae4-93b6-bc0a3d0ecf42.jpg",
+            "isCorrect": false
+        }
+    ]
+}

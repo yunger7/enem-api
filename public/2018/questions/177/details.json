@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2018",
+    "index": 177,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha\n\n![](https://enem.dev/2018/questions/177/386a9f9b-dd80-4081-9bde-da2ac43d1940.png)",
+    "files": [
+        "https://enem.dev/2018/questions/177/386a9f9b-dd80-4081-9bde-da2ac43d1940.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

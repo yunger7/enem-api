@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2014",
+    "index": 85,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/85/115d18ee-069d-4b89-9d94-9ce280c41de8.png)",
+    "files": [
+        "https://enem.dev/2014/questions/85/115d18ee-069d-4b89-9d94-9ce280c41de8.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Embora sejam produzidos e utilizados em situações distintas, os imunobiológicos I e II atuam de forma semelhante nos humanos e equinos, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conferem imunidade passiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Transferem células de defesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Suprimem a resposta imunológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estimulam a produção de anticorpos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desencadeiam a produção de antígenos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

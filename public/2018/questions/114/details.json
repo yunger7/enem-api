@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2018",
+    "index": 114,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Por meio de reações químicas que envolvem carboidratos, lipídeos e proteínas, nossas células obtêm energia e produzem gás carbônico e água. A oxidação da glicose no organismo humano libera energia, conforme ilustra a equação química, sendo que aproximadamente 40% dela é disponibilizada para atividade muscular.\n\n![](https://enem.dev/2018/questions/114/b62114db-3b79-4fb5-a23e-59488db9d92c.png)",
+    "files": [
+        "https://enem.dev/2018/questions/114/b62114db-3b79-4fb5-a23e-59488db9d92c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na oxidação de 1,0 grama de glicose, a energia obtida para atividade muscular, em quilojoule, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6,2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "15,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "70,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "622,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 120,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

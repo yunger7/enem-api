@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2012",
+    "index": 109,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/109/b14d5915-3369-4982-bc3e-820b65efe31e.png)\n\nBROWNE, D. **Folha de S. Paulo**, 13 ago. 2011.",
+    "files": [
+        "https://enem.dev/2012/questions/109/b14d5915-3369-4982-bc3e-820b65efe31e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As palavras e as expressões são mediadoras dos sentidos produzidos nos textos. Na fala de Hagar, a expressão “é como se” ajuda a conduzir o conteúdo enunciado para o campo da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conformidade, pois as condições meteorológicas evidenciam um acontecimento ruim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reflexibilidade, pois o personagem se refere aos tubarões usando um pronome reflexivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Condicionalidade, pois a atenção dos personagens é a condição necessária para a sua sobrevivência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Possibilidade, pois a proximidade dos tubarões leva à suposição do perigo iminente para os homens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Impessoalidade, pois o personagem usa a terceira pessoa para expressar o distanciamento dos fatos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2014",
+    "index": 95,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**If You Can’t Master English, Try Globish**\n\nPARIS — It happens all the time: during an airport delay the man to the left, a Korean perhaps, starts talking to the man opposite, who might be Colombian, and soon they are chatting away in what seems to be English. But the native English speaker sitting between them cannot understand a word.\n\nThey don’t know it, but the Korean and the Colombian are speaking Globish, the latest addition to the 6,800 languages that are said to be spoken across the world. Not that its inventor, Jean-Paul Nerrière, considers it a proper language.\n\n“It is not a language, it is a tool,” he says. “A language is the vehicle of a culture. Globish doesn’t want to be that at all. It is a means of communication.”\n\nNerrière doesn’t see Globish in the same light as utopian efforts such as Kosmos, Volapuk, Novial or staunch Esperanto. Nor should it be confused with barbaric Algol (for Algorithmic language). It is a sort of English lite: a means of simplifying the language and giving it rules so it can be understood by all.\n\nBLUME, M. Disponível em: www.nytimes.com. Acesso em: 28 out. 2013 (fragmento)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando as ideias apresentadas no texto, o Globish (Global English) é uma variedade da língua inglesa que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tem status de língua por refletir uma cultura global.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Facilita o entendimento entre o falante nativo e o não nativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tem as mesmas características de projetos utópicos como o esperanto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Altera a estrutura do idioma para possibilitar a comunicação internacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Apresenta padrões de fala idênticos aos da variedade usada pelos falantes nativos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

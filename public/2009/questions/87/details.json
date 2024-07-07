@@ -1,0 +1,45 @@
+{
+    "title": "Questão 87 - ENEM 2009",
+    "index": 87,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na figura, observa-se uma classificação de regiões da América do Sul segundo o grau de aridez verificado.\n\n![](https://enem.dev/2009/questions/87/951db800-9e06-49b2-b3ab-3589923ae034.jpg)\n\nDisponível em: http:// www.mutirao.com.br.  \nAcesso em: 5 ago. 2009.",
+    "files": [
+        "https://enem.dev/2009/questions/87/951db800-9e06-49b2-b3ab-3589923ae034.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em relação às regiões marcadas na figura, observa-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A existência de áreas superáridas, áridas e semiáridas é resultado do processo de desertificação, de intensidade variável, causado pela ação humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O emprego de modernas técnicas de irrigação possibilitou a expansão da agricultura em determinadas áreas do semiárido, integrando-as ao comércio internacional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O semiárido, por apresentar déficit de precipitação, passou a ser habitado a partir da Idade Moderna, graças ao avanço científico e tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As áreas com escassez hídrica na América do Sul se restringem às regiões tropicais, onde as médias de temperatura anual são mais altas, justificando a falta de desenvolvimento e os piores indicadores sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O mesmo tipo de cobertura vegetal é encontrado nas áreas superáridas, áridas e semiáridas, mas essa cobertura, embora adaptada às condições climáticas, é desprovida de valor econômico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

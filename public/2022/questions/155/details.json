@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2022",
+    "index": 155,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:  \n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;  \n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;  \n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/155/4e4d5692-b3ea-4434-aaef-74309d2d3b2a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/155/2b0fcee8-c3b1-4c03-ac2a-342792f7ab28.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/155/e2dfe176-9a1a-49e7-aee5-62794ac8242b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/155/0681d716-28d4-4521-801f-5a20871829e5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/155/027b58bd-d5b6-4ab1-afb6-a17dd85e31c8.png",
+            "isCorrect": false
+        }
+    ]
+}

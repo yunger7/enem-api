@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2014",
+    "index": 163,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De quantas formas distintas a estratégia desse cliente poderá ser posta em prática?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/163/d5d5048f-7ee3-40c6-b96b-ba9980dc7d05.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/163/41b3be85-5bb9-46db-9a3b-867bd95c514a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/163/c02a3e9d-3cd7-4b47-91d5-d99aa1ee7b5d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/163/2940ac08-b920-4111-9d2c-1d107c65df28.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/163/17d5d462-0b07-4324-9f98-61f36a9f808c.png",
+            "isCorrect": false
+        }
+    ]
+}

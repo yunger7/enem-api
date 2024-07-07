@@ -1,0 +1,45 @@
+{
+    "title": "Questão 133 - ENEM 2011",
+    "index": 133,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/133/168ef904-86aa-483b-bd25-2895db4b6dd6.png)\n\nDisponível em: http://www.wordinfo.info. Acesso em: 27 abr. 2010.",
+    "files": [
+        "https://enem.dev/2011/questions/133/168ef904-86aa-483b-bd25-2895db4b6dd6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O homem evoluiu. Independentemente de teoria, essa evolução ocorreu de várias formas. No que concerne à evolução digital, o homem percorreu longo trajeto da pedra lascada ao mundo virtual. Tal fato culminou em um problema físico habitual, ilustrado na imagem, que propicia uma piora na qualidade de vida do usuário, uma vez que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A evolução ocorreu e com ela evoluíram as dores de cabeça, o estresse e a falta de atenção à família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A vida sem o computador tornou-se quase inviável, mas se tem diminuído problemas de visão cansada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A utilização demasiada do computador tem proporcionado o surgimento de cientistas que apresentam lesão por esforço repetitivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O homem criou o computador, que evoluiu, e hoje opera várias ações antes feitas pelas pessoas, tornando-as sedentárias ou obesas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O uso contínuo do computador de forma inadequada tem ocasionado má postura corporal.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

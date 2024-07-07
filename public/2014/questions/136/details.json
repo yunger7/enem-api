@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2014",
+    "index": 136,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/136/48b68b51-310d-4654-b637-5fece87a050f.png)\n\nSuponha que a taxa de desemprego oculto do mês de dezembro de 2012 tenha sido a metade da mesma taxa em junho de 2012 e que a taxa de desemprego total em dezembro de 2012 seja igual a essa taxa em dezembro de 2011.\n\nDisponível em: dieese.org.br. Acesso em: 1 ago. 2012 (fragmento).",
+    "files": [
+        "https://enem.dev/2014/questions/136/48b68b51-310d-4654-b637-5fece87a050f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse caso, a taxa de desemprego aberto de dezembro de 2012 teria sido, em termos percentuais, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7,9.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

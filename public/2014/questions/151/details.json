@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2014",
+    "index": 151,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/151/f01eefec-e89d-4de0-881e-3bf1249199ff.png)\n\nSerá produzida uma nova lata, com os mesmos formato e volume, de tal modo que as dimensões de sua base sejam 25% maiores que as da lata atual.",
+    "files": [
+        "https://enem.dev/2014/questions/151/f01eefec-e89d-4de0-881e-3bf1249199ff.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para obter a altura da nova lata, a altura da lata atual deve ser reduzida em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14,4%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "32,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36,0%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "64,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

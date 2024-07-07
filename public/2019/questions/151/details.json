@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2019",
+    "index": 151,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três sócios resolveram fundar uma fábrica. O investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial.\n\nAlgum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos, investiram mais R$ 800 000,00 na fábrica. Cada um deles contribuiu com um quarto desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido feito. Os sócios decidiram então dividir o montante de R$ 1 800 000,00 obtido com a venda, de modo proporcional à quantia total investida por cada sócio.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos més sócios iniciais e o quarto sócio, respectivamente, receberam?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "29,60 e 11,11.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "28,70 e 13,89.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25,00 e 25,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18,52 e 11,11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12,96 e 13,89.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Questão 151 - ENEM 2018",
+    "index": 151,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Ecofont possui _design_ baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.\n\n![](https://enem.dev/2018/questions/151/e405bd59-e5e2-4ca8-885b-52cd9a249d2d.png)\n\nSuponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio ![](https://enem.dev/2018/questions/151/57de2d97-79b3-412f-b898-74d8da95dc5f.png) Para que a área a ser pintada seja reduzida a ![](https://enem.dev/2018/questions/151/54cbb144-7f20-4ae7-aeb6-f1d179294f74.png) da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.",
+    "files": [
+        "https://enem.dev/2018/questions/151/e405bd59-e5e2-4ca8-885b-52cd9a249d2d.png",
+        "https://enem.dev/2018/questions/151/57de2d97-79b3-412f-b898-74d8da95dc5f.png",
+        "https://enem.dev/2018/questions/151/54cbb144-7f20-4ae7-aeb6-f1d179294f74.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, o tamanho adequado da fonte será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "48.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "21.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2009",
+    "index": 83,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No mundo contemporâneo, as reservas energéticas tornam-se estratégicas para muitos países no cenário internacional. Os gráficos apresentados mostram os dez países com as maiores reservas de petróleo e gás natural em reservas comprovadas até janeiro de 2008.\n\n![](https://enem.dev/2009/questions/83/ad2f947f-ee8f-4f33-b73f-6eeeaf728bb1.jpg)\n\nDisponível em: http://indexmundi.com. Acesso em: 12 ago. 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2009/questions/83/ad2f947f-ee8f-4f33-b73f-6eeeaf728bb1.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As reservas venezuelanas figuram em ambas as classificações porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A Venezuela já está integrada ao MERCOSUL.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "São reservas comprovadas, mas ainda inexploradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Podem ser exploradas sem causarem alterações ambientais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Já estão comprometidas com o setor industrial interno daquele país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A Venezuela é uma grande potência energética mundial.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

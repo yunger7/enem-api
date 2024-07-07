@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2011",
+    "index": 54,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Certas ligas estanho-chumbo com composição específica formam um estético simples, o que significa que uma liga com essas características se comporta como uma substância pura, com um ponto de fusão definido, no caso 183 ºC. Essa é uma temperatura inferior mesmo ao ponto de fusão dos metais que compõem esta liga (o estanho puro funde a 232 ºC e o chumbo puro a 320 ºC), o que justifica sua ampla utilização na soldagem de componentes eletrônicos, em que o excesso de aquecimento deve sempre ser evitado. De acordo com as normas internacionais, os valores mínimo e máximo das densidades para essas ligas são de 8,74 g/mL e 8,82 g/mL, respectivamente. As densidades do estanho e do chumbo são 7,3 g/mL e 11,3 g/mL, respectivamente.\n\nUm lote contendo 5 amostras de solda estanho-chumbo foi analisado por um técnico, por meio da determinação de sua composição percentual em massa, cujos resultados estão mostrados no quadro a seguir.\n\n![](https://enem.dev/2011/questions/54/64333d1a-422a-4677-b3bf-911c48bf81fd.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/54/64333d1a-422a-4677-b3bf-911c48bf81fd.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base no texto e na análise realizada pelo técnico, as amostras que atendem às normas internacionais são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "III e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IV e V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

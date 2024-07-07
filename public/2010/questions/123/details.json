@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2010",
+    "index": 123,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "“Todas as manhãs quando acordo, experimento um prazer supremo: o de ser Salvador Dalí.”\n\nNÉRET, G. **Salvador Dalí.** Taschen, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Assim escreveu o pintor dos “relógios moles” e das “girafas em chamas” em 1931. Esse artista excêntrico deu apoio ao general Franco durante a Guerra Civil Espanhola e, por esse motivo, foi afastado do movimento surrealista por seu líder, André Breton. Dessa forma, Dalí criou seu próprio estilo, baseado na interpretação dos sonhos e nos estudos de Sigmund Freud, denominado “método de interpretação paranoico”. Esse método era constituído por textos visuais que demonstram imagens",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Do fantástico, impregnado de civismo pelo governo espanhol, em que a busca pela emoção e pela dramaticidade desenvolveram um estilo incomparável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Do onírico, que misturava sonho com realidade e inconsciente como um universo único ou pessoal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Da linha inflexível da razão, dando vazão a uma forma de produção despojada no traço, na temática e nas formas vinculadas ao real.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Do reflexo que, apesar do termo \"paranoico\", possui sobriedade e elegância advindas de uma técnica de cores discretas e desenhos precisos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da expressão e intensidade entre o consciente e a liberdade, declarando o amor pela forma de conduzir o enredo histórico dos personagens retratados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

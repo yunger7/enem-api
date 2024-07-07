@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2023",
+    "index": 180,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados:  \n• outubro/2020: ImPC = 250 mm;  \n• novembro/2020: ImPC = 150 mm;  \n• dezembro/2020: ImPC = 200 mm;  \n• janeiro/2021: ImPC = 450 mm;  \n• fevereiro/2021: ImPC = 100 mm;  \n• março/2021: ImPC = 200 mm.\n\nCom base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No início de qual desses meses o produtor deverá plantar esse tipo de semente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Outubro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Novembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dezembro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fevereiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

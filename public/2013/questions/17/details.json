@@ -1,0 +1,45 @@
+{
+    "title": "Questão 17 - ENEM 2013",
+    "index": 17,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png)",
+    "files": [
+        "https://enem.dev/2013/questions/17/95a763c8-c858-47ef-a9dc-c783306f156d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na imagem, estão representados dois modelos de produção. A possibilidade de uma crise de superprodução é distinta entre eles em função do seguinte fator:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Origem da matéria-prima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Qualificação da mão de obra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Velocidade de processamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade de armazenamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Amplitude do mercado consumidor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

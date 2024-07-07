@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2015",
+    "index": 18,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.\n\nTAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. **Reforma política no Brasil**. Belo Horizonte: UFMG, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em relação ao regime democrático no país, a instituição analisada teve o seguinte papel:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Implementou o voto direto para presidente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Combateu as fraudes sistemáticas nas apurações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Alterou as regras para as candidaturas na ditadura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impulsionou as denúncias de corrupção administrativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expandiu a participação com o fim do critério censitário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

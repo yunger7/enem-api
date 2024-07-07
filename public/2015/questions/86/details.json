@@ -1,0 +1,43 @@
+{
+    "title": "Questão 86 - ENEM 2015",
+    "index": 86,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa diferenciação se deve principalmente ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Intensidade sonora do som de cada instrumento musical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Potência sonora do som emitido pelos diferentes instrumentos musicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diferente velocidade de propagação do som emitido por cada instrumento musical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Altura do som, que possui diferentes frequências para diferentes instrumentos musicais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

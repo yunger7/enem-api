@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2011",
+    "index": 138,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/138/5a4afd15-b676-441f-8758-76185e535a3e.png)",
+    "files": [
+        "https://enem.dev/2011/questions/138/5a4afd15-b676-441f-8758-76185e535a3e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,23 e 0,16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,3 e 1,6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "23 e 16.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "230 e 160.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 300 e 1 600.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

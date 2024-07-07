@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2010",
+    "index": 72,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Todos os organismos necessitam de água e grande parte deles vive em rios, lagos e oceanos. Os processos biológicos, como respiração e fotossíntese, exercem profunda influência na química das águas naturais em todo o planeta. O oxigênio é ator dominante na química e na bioquímica da hidrosfera. Devido a sua baixa solubilidade em água (9,0 mg/l a 20 °C) a disponibilidade de oxigênio nos ecossistemas aquáticos estabelece o limite entre a vida aeróbica e anaeróbica. Nesse contexto, um parâmetro chamado Demanda Bioquímica de Oxigênio (DBO) foi definido para medir a quantidade de matéria orgânica presente em um sistema hídrico. A DBO corresponde à massa de O2 em miligramas necessárias para realizar a oxidação total do carbono orgânico em um litro de água.  \n**BAIRD, C. **Química Ambiental**. Ed. Bookmam, 2005 (adaptado).**\n\nDados: Massas molares em g/mol: C = 12; H = 1; O = 16.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Suponha que 10 mg de açúcar (fórmula mínima CH2O e massa molar a 30 g/mol) são dissolvidos em um litro de água; em quanto a DBO será aumentada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,4 mg de O2/litro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,7 mg de O2/litro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,7 mg de O2/litro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9,4 mg de O2/litro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,7 mg de O2/litro",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

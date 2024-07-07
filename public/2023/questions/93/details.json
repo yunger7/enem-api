@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2023",
+    "index": 93,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.\nA geração dessa energia tem como característica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Formar resíduos facilmente recicláveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Promover o aumento do desmatamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Contribuir para a produção de chuva ácida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Emitir gases tóxicos que são lançados no ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Produzir calor sem o consumo de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 46 - ENEM 2013",
+    "index": 46,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Músculos artificiais são dispositivos feitos com plásticos inteligentes que respondem a uma corrente elétrica com um movimento mecânico. A oxidação e redução de um polímero condutor criam cargas positivas e/ou negativas no material, que são compensadas com a inserção ou expulsão de cátions ou ânions. Por exemplo, na figura os filmes escuros são de polipirrol e o filme branco é de um eletrólito polimérico contendo um sal inorgânico. Quando o polipirrol sofre oxidação, há a inserção de ânions para compensar a carga positiva no polímero e o filme se expande. Na outra face do dispositivo o filme de polipirrol sofre redução, expulsando ânions, e o filme se contrai. Pela montagem, em sanduíche, o sistema todo se movimenta de forma harmônica, conforme mostrado na figura.\n\nDE PAOLI, M. A. Cadernos Temáticos de Química Nova na Escola, São Paulo, maio 2001 (adaptado).\n\n![](https://enem.dev/2013/questions/46/b9b4edc4-b6f3-4238-964f-b540640be8de.png)",
+    "files": [
+        "https://enem.dev/2013/questions/46/b9b4edc4-b6f3-4238-964f-b540640be8de.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A camada central de eletrólito polimérico é importante porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Absorve a irradiação de partículas carregadas, emitidas pelo aquecimento elétrico dos filmes de polipirrol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Permite a difusão dos íons promovida pela aplicação de diferença de potencial, fechando o circuito elétrico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Mantém um gradiente térmico no material para promover a dilatação/contração térmica de cada filme de polipirrol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Permite a condução de elétrons livres, promovida pela aplicação de diferença de potencial, gerando corrente elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Promove a polarização das moléculas poliméricas, o que resulta no movimento gerado pela aplicação de diferença de potencial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2012",
+    "index": 163,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/163/75b75570-0067-4c97-98b4-9742aaccb113.png)\n\nO gerente de atendimento deseja identificar os dias da semana em que o nível de eficiência pode ser considerado muito bom, ou seja, os dias em que o número de reclamações resolvidas excede o número de reclamações recebidas.\n\n_Disponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado)._",
+    "files": [
+        "https://enem.dev/2012/questions/163/75b75570-0067-4c97-98b4-9742aaccb113.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gerente de atendimento pôde concluir, baseado no conceito de eficiência utilizado na empresa e nas informações do gráfico, que o nível de eficiência foi muito bom na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Segunda e na terça-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Terça e na quarta-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Terça e na quinta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quinta-feira, no sábado e no domingo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Segunda, na quinta e na sexta-feira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

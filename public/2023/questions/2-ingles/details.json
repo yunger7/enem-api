@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2023",
+    "index": 2,
+    "year": 2023,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "No man is an island,  \nEntire of itself;  \nEvery man is a piece of the continent,  \nA part of the main.  \n\\[…\\]  \nAny man’s death diminishes me,  \nBecause I am involved in mankind.\n\nDONNE, J. **The Works of John Donne**. Londres: John W. Parker, 1839 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse poema, a expressão “No man is an island” ressalta o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Medo da morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ideia de conexão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Conceito de solidão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Risco de devastação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Necessidade de empatia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

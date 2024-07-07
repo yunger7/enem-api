@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2021",
+    "index": 122,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A imagem apresenta as etapas do funcionamento de uma estação individual para tratamento do esgoto residencial.\n\n![](https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png)\n\nTAVARES, K. **Estações de tratamento de esgoto individuais permitem a reutilização da água.** Disponível em: https://extra.globo.com. Acesso em: 18 nov 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/122/17802e92-7e27-4479-b0ba-f8a3b4c951a8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em qual etapa decanta-se o lodo a ser separado do esgoto residencial?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

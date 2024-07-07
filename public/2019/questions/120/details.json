@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2019",
+    "index": 120,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\n![](https://enem.dev/2019/questions/120/49763061-1751-455a-9126-53c2a7c968dd.png)",
+    "files": [
+        "https://enem.dev/2019/questions/120/49763061-1751-455a-9126-53c2a7c968dd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A propriedade comum às estruturas que confere cor a esses compostos é a presença de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cadeia conjugada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cadeia ramificada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Átomos de carbonos terciários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ligações duplas de configuração cis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Átomos de carbonos de hibridação sp³.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

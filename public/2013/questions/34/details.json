@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2013",
+    "index": 34,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Embora haja dados comuns que dão unidade ao fenômeno da urbanização na África, na Ásia e na América Latina, os impactos são distintos em cada continente e mesmo dentro de cada país, ainda que as modernizações se deem com o mesmo conjunto de inovações.\n\nELIAS, D. Fim do século e urbanização no Brasil. **Revista Ciência Geográfica**, ano IV, n. 11, set./dez. 1988.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto aponta para a complexidade da urbanização nos diferentes contextos socioespaciais. Comparando a organização socioeconômica das regiões citadas, a unidade desse fenômeno é perceptível no aspecto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Espacial, em função do sistema integrado que envolve as cidades locais e globais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cultural, em função da semelhança histórica e da condição de modernização econômica e política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Demográfico, em função da localização das maiores aglomerações urbanas e continuidade do fluxo campo-cidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Territorial, em função da estrutura de organização e planejamento das cidades que atravessam as fronteiras nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Econômico, em função da revolução agrícola que transformou o campo e a cidade e contribuiu para fixação do homem ao lugar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 30 - ENEM 2020",
+    "index": 30,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/30/bc547f7a-bd4f-429d-b888-d64bbd7fbd0b.png)\n\nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.",
+    "files": [
+        "https://enem.dev/2020/questions/30/bc547f7a-bd4f-429d-b888-d64bbd7fbd0b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metáfora de que as mulheres precisam defender-se do assédio masculino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Constrangimento pelo qual passam as mulheres e sua tentativa de esconderem-se.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Necessidade que as mulheres têm de passarem despercebidas para evitar o assédio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Incapacidade de as mulheres protegerem-se da agressão verbal dos assediadores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

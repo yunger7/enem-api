@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2021",
+    "index": 146,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um zootecnista pretende testar se uma nova ração  \npara coelhos é mais eficiente do que a que ele vem  \nutilizando atualmente. A ração atual proporciona uma  \nmassa média de 10 kg por coelho, com um desvio padrão  \nde 1 kg, alimentado com essa ração durante um período  \nde três meses.  \nO zootecnista selecionou uma amostra de coelhos e  \nos alimentou com a nova ração pelo mesmo período de  \ntempo. Ao final, anotou a massa de cada coelho, obtendo  \num desvio padrão de 1,5 kg para a distribuição das  \nmassas dos coelhos dessa amostra.  \nPara avaliar a eficiência dessa ração, ele utilizará  \no coeficiente de variação (CV) que é uma medida de  \ndispersão definida por CV =S/X, em que s representa o  \ndesvio padrão X, a média das massas dos coelhos que  \nforam alimentados com uma determinada ração.  \nO zootecnista substituirá a ração que vinha utilizando  \npela nova, caso o coeficiente de variação da distribuição  \ndas massas dos coelhos que foram alimentados com a  \nnova ração for menor do que o coeficiente de variação  \nda distribuição das massas dos coelhos que foram  \nalimentados com a ração atual.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "15,0.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

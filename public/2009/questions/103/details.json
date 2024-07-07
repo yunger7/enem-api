@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2009",
+    "index": 103,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Saúde, no modelo atual de qualidade de vida, é o resultado das condições de alimentação, habitação, educação, renda, trabalho, transporte, lazer, serviços médicos e acesso à atividade física regular. Quanto ao acesso à atividade física, um dos elementos essenciais é a aptidão física, entendida como a capacidade de a pessoa utilizar seu corpo — incluindo músculos, esqueleto, coração, enfim, todas as partes —, de forma eficiente em suas atividades cotidianas; logo, quando se avalia a saúde de uma pessoa, a aptidão física deve ser levada em conta.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir desse contexto, considera-se que uma pessoa tem boa aptidão física quando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresenta uma postura regular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pode se exercitar por períodos curtos de tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pode desenvolver as atividades físicas do dia-a-dia, independentemente de sua idade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Pode executar suas atividades do dia a dia com vigor, atenção e uma fadiga de moderada a intensa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pode exercer atividades físicas no final do dia, mas suas reservas de energia são insuficientes para atividades intelectuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2023",
+    "index": 146,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg)",
+    "files": [
+        "https://enem.dev/2023/questions/146/74e0c851-b2af-410d-9f19-3348dd8f883a.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.\nNas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

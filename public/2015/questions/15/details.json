@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2015",
+    "index": 15,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.\n\nLOPES, R. J. O novo mapa da floresta. **Folha de S. Paulo**, 7 maio 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão da fronteira agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Remoção de populações nativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Superação da condição de pobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Valorização de identidades coletivas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Implantação de modernos projetos agroindustriais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

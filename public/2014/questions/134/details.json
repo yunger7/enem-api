@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2014",
+    "index": 134,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A forte presença de palavras indígenas e africanas e de termos trazidos pelos imigrantes a partir do século XIX é um dos traços que distinguem o português do Brasil e o português de Portugal. Mas, olhando para a história dos empréstimos que o português brasileiro recebeu de línguas europeias a partir do século XX, outra diferença também aparece: com a vinda ao Brasil da família real portuguesa (1808) e, particularmente, com a Independência, Portugal deixou de ser o intermediário obrigatório da assimilação desses empréstimos e, assim, Brasil e Portugal começaram a divergir, não só por terem sofrido influências diferentes, mas também pela maneira como reagiram a elas.\n\nILARI, R.; BASSO, R. **O português da gente**: a língua que estudamos, a língua que falamos. São Paulo: Contexto, 2006.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os empréstimos linguísticos, recebidos de diversas línguas, são importantes na constituição do português do Brasil porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Deixaram marcas da história vivida pela nação, como a colonização e a imigração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Transformaram em um só idioma línguas diferentes, como as africanas, as indígenas e as europeias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Promoveram uma língua acessível a falantes de origens distintas, como o africano, o indígena e o europeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Guardaram uma relação de identidade entre os falantes do português do Brasil e os do português de Portugal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tornaram a língua do Brasil mais complexa do que as línguas de outros países que também tiveram colonização portuguesa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

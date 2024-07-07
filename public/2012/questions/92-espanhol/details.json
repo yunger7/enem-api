@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2012",
+    "index": 92,
+    "year": 2012,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**Excavarán plaza ceremonial del frontis norte de**  \n**huaca de la Luna**\n\nTrujillo, feb. 25 (ANDINA). Tras limpiar los escombros del saqueo colonial y de las excavaciones de los últimos años en huaca de la Luna, este año se intervendrá la plaza ceremonial del frontis norte, en donde se ubica la gran fachada del sitio arqueológico ubicado en Trujillo, La Libertad, informaron hoy fuentes culturales. Después de varias semanas de trabajo, el material fue sacado del sitio arqueológico para poder apreciar mejor la extensión y forma del patio que, según las investigaciones, sirvió hace unos 1 500 como escenario de extraños rituales.\n\nEl codirector del Proyecto Arqueológico Huacas del Sol y la Luna, Ricardo Morales Gamarra, sostuvo que con la zona limpia de escombros, los visitantes conocerán la verdadera proporción de la imponente fachada, tal y como la conocieron los moches. Por su parte, el arqueólogo Santiago Uceda, también codirector del proyecto, dijo que las excavaciones se iniciarán este año para determinar qué otros elementos componían dicha área. “Hace poco nos sorprendió encontrar un altar semicircular escalonado. Era algo que no esperábamos. Por lo tanto, es difícil saber qué es lo que aún está escondido en la zona que exploraremos”, señaló Uceda a la Agencia Andina.\n\nLa huaca de la Luna se localiza en el distrito trujillano de Moche. Es una pirámide de adobe adornada, en sus murales, con impresionantes imágenes mitológicas, muchas de ellas en alto relieve.\n\nDisponível em: www.andina.com.pe. Acesso em: 23 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto apresenta informações sobre um futuro trabalho de escavação de um sítio arqueológico peruano. Sua leitura permite inferir que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A pirâmide huaca de la Luna foi construída durante o período colonial peruano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O sítio arqueológico contém um altar semicircular bastante deteriorado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A pirâmide huaca de la Luna foi construída com cerâmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O sítio arqueológico possui um pátio que foi palco de rituais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O sítio arqueológico mantém escombros deixados pela civilização moche.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

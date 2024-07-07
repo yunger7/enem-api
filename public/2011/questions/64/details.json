@@ -1,0 +1,45 @@
+{
+    "title": "Questão 64 - ENEM 2011",
+    "index": 64,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/64/9d597bbb-7e1e-4be9-8724-a983ffe36ac7.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/64/9d597bbb-7e1e-4be9-8724-a983ffe36ac7.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O mapa mostra a área de ocorrência da malária no mundo. Considerando-se sua distribuição na América do Sul, a malária pode ser classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Endemia, pois se concentra em uma área geográfica restrita desse continente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Peste, já que ocorre nas regiões mais quentes do continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Epidemia, já que ocorre na maior parte do continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Surto, pois apresenta ocorrência em áreas pequenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pandemia, pois ocorre em todo o continente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

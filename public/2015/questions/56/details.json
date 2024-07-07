@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2015",
+    "index": 56,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa especiação não ocorre devido ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Oscilação genética das raças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Convergência adaptativa das raças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Isolamento geógrafico entre as raças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Seleção natural que ocorre entre as raças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manutenção do fluxo gênico entre as raças.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 78 - ENEM 2016",
+    "index": 78,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/78/07838468-d80e-4417-9c08-a5700e6f32ed.png)",
+    "files": [
+        "https://enem.dev/2016/questions/78/07838468-d80e-4417-9c08-a5700e6f32ed.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre as substâncias listadas no quadro, aquela capaz de remover com maior eficiência os gases poluentes é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fenol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Piridina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Metilamina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hidrogenofosfato de potássio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Hidrogenosulfato de potássio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

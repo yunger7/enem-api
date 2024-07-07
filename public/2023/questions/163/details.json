@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2023",
+    "index": 163,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de segurança domiciliar oferece o serviço de patrulha noturna, no qual vigilantes em motocicletas fazem o monitoramento periódico de residências. A empresa conta com uma base, de onde acompanha o trajeto realizado pelos vigilantes durante as patrulhas e orienta o deslocamento de equipes de reforço quando necessário. Numa patrulha rotineira, sem ocorrências, um vigilante conduziu sua motocicleta a uma velocidade constante durante todo o itinerário estabelecido, levando 30 minutos para conclusão. De acordo com os registros do GPS alocado na motocicleta, a distância da posição do vigilante à base, ao longo do tempo de realização do trajeto, é descrita pelo gráfico.\n\n![](https://enem.dev/2023/questions/163/ff0caefb-56e7-4c17-bae7-b65b91037e9c.png)",
+    "files": [
+        "https://enem.dev/2023/questions/163/ff0caefb-56e7-4c17-bae7-b65b91037e9c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A vista superior da trajetória realizada pelo vigilante durante a patrulha registrada no gráfico é descrita pela representação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/163/71c51165-c400-4d10-bb4b-c03ed19ff5ad.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/163/e04c3016-712a-4e6b-a9e5-be3505a57d41.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/163/1706f84a-c72a-48c1-982b-708ed91bcc8a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/163/d49e3db4-31ee-4123-9a19-599e0b473503.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/163/7f6e3bbf-ef4c-4a6f-9fdb-407513158e78.png",
+            "isCorrect": false
+        }
+    ]
+}

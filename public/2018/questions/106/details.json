@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2018",
+    "index": 106,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O processo de formação de novas espécies é lento e repleto de nuances e estágios intermediários, havendo uma diminuição da viabilidade entre cruzamentos. Assim, plantas originalmente de uma mesma espécie que não cruzam mais entre si podem ser consideradas como uma espécie se diferenciando. Um pesquisador realizou cruzamentos entre nove populações — denominadas de acordo com a localização onde são encontradas — de uma espécie de orquídea (_Epidendrum denticulatum_). No diagrama estão os resultados dos cruzamentos entre as populações.  \nConsidere que o doador fornece o pólen para o receptor\n\nFIORAVANTI, C. Os primeiros passos de novas espécies: plantas e animais se diferenciam por meio de mecanismos surpreendentes. **Pesquisa Fapesp**, out. 2013 (adaptado).\n\n![](https://enem.dev/2018/questions/106/063ee41c-e579-4b75-b0df-878aa83a732e.png)",
+    "files": [
+        "https://enem.dev/2018/questions/106/063ee41c-e579-4b75-b0df-878aa83a732e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em populações de quais localidades se observa um processo de especiação evidente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Bertioga e Marambaia; Alcobaça e Olivença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Itirapina e Itapeva; Marambaia e Massambaba.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Itirapina e Marambaia; Alcobaça e Itirapina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Itirapina e Peti; Alcobaça e Marambaia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Itirapina e Olivença; Marambaia e Peti.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2015",
+    "index": 21,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.\n\nSCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As ações tomadas pelos países contra a espionagem revelam preocupação com o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Subsídio industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hegemonia cultural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Protecionismo dos mercados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desemprego tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Segurança dos dados.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

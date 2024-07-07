@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2016",
+    "index": 72,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma pessoa é responsável pela manutenção de uma sauna úmida. Todos os dias cumpre o mesmo ritual: colhe folhas de capim-cidreira e algumas folhas de eucalipto. Em seguida, coloca as folhas na saída do vapor da sauna, aromatizando-a, conforme mostrado na figura.\n\n![](https://enem.dev/2016/questions/72/99b15188-22b8-4a01-a936-bb8307f50c4c.png)",
+    "files": [
+        "https://enem.dev/2016/questions/72/99b15188-22b8-4a01-a936-bb8307f50c4c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual processo de separação é responsável pela aromatização promovida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Filtração simples.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Destilação simples.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Extração por arraste.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Sublimação fracionada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Decantação sólido-líquido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

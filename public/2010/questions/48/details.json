@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2010",
+    "index": 48,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/48/b750cefc-08d5-423f-bba9-7e5e64aed3dc.png)",
+    "files": [
+        "https://enem.dev/2010/questions/48/b750cefc-08d5-423f-bba9-7e5e64aed3dc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um farol usa uma lâmpada de gás halogênio de 55 W de potência que opera com 36 V. Os dois faróis são ligados separadamente, com um fusível para cada um, mas, após um mau funcionamento, o motorista passou a conectá-los em paralelo, usando apenas um fusível. Dessa forma, admitindo-se que a fiação suporte a carga dos dois faróis, o menor valor de fusível adequado para proteção desse novo circuito é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Preto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Laranja.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Amarelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

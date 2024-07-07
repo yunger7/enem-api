@@ -1,0 +1,45 @@
+{
+    "title": "Questão 7 - ENEM 2013",
+    "index": 7,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/7/e7849157-525a-481c-873b-9d0abe4b1e46.png)",
+    "files": [
+        "https://enem.dev/2013/questions/7/e7849157-525a-481c-873b-9d0abe4b1e46.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O processo registrado no gráfico gerou a seguinte consequência demográfica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Decréscimo da população absoluta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redução do crescimento vegetativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da proporção de adultos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Expansão de políticas de controle da natalidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumento da renovação da população economicamente ativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

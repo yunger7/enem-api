@@ -1,0 +1,45 @@
+{
+    "title": "Questão 17 - ENEM 2014",
+    "index": 17,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/17/ba0d4ad6-8315-45aa-929a-783040398f38.png)\n\nPAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014",
+    "files": [
+        "https://enem.dev/2014/questions/17/ba0d4ad6-8315-45aa-929a-783040398f38.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Civis, como o direito à vida, à liberdade de expressão e à propriedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sociais, como direito à educação, ao trabalho e à proteção à maternidade e à infância.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Difusos, como direito à paz, ao desenvolvimento sustentável e ao meio ambiente saudável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Coletivos, como direito à organização sindical, à participação partidária e à expressão religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Políticos, como o direito de votar e ser votado, à soberania popular e à participação democrática.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

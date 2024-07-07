@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2019",
+    "index": 177,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão esta representado na figura.\n\ndescreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.\n\nO valor do parâmetro β, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t = 0), a altura da base do pistão alcance por três vezes o valor de 6 cm.\n\nPara os cálculos, utilize 3 como aproximação para π.\n\n![](https://enem.dev/2019/questions/177/000e6ab5-5267-4411-a21d-3c05d89f2832.png)",
+    "files": [
+        "https://enem.dev/2019/questions/177/000e6ab5-5267-4411-a21d-3c05d89f2832.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O menor valor inteiro a ser atribuído ao parâmetro β, de forma que o motor a ser construído tenha boa potência, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2021",
+    "index": 166,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\n\nEm relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n\n–  Fornecedor I: “O dobro, tanto para as paredes quanto para o piso”.\n\n– Fornecedor II: “O dobro para as paredes e quatro vezes para o piso”.\n\n– Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”\n\n– Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”\n\n– Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”\n\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para aquisição do material?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

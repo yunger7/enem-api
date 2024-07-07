@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2016",
+    "index": 179,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O filtro descartado é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "F1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "F2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "F3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "F4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "F5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

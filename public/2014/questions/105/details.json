@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2014",
+    "index": 105,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/105/c3c3913e-0f62-4c09-ba7f-702ab87e0c31.png)\n\nOs meios de comunicação podem contribuir para a resolução de problemas sociais, entre os quais o da violência sexual infantil.",
+    "files": [
+        "https://enem.dev/2014/questions/105/c3c3913e-0f62-4c09-ba7f-702ab87e0c31.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse sentido, a propaganda usa a metáfora do pesadelo para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Informar crianças vítimas de abuso sexual sobre os perigos dessa prática, contribuindo para erradicá-la.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Denunciar ocorrências de abuso sexual contra meninas, com o objetivo de colocar criminosos na cadeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dar a devida dimensão do que é o abuso sexual para uma criança, enfatizando a importância da denúncia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Destacar que a violência sexual infantil predomina durante a noite, o que requer maior cuidado dos responsáveis nesse período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Chamar a atenção para o fato de o abuso infantil ocorrer durante o sono, sendo confundido por algumas crianças com um pesadelo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

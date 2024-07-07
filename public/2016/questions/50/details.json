@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2016",
+    "index": 50,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "-1090.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "-150.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "-50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "+157.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "+470.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

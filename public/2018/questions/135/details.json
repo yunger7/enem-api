@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2018",
+    "index": 135,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O alemão Fritz Haber recebeu o Prêmio Nobel de química de 1918 pelo desenvolvimento de um processo viável para a síntese da amônia (NH3). Em seu discurso de premiação, Haber justificou a importância do feito dizendo que:  \n“Desde a metade do século passado, tornou-se  \nconhecido que um suprimento de nitrogênio é uma  \nnecessidade básica para o aumento das safras de  \nalimentos; entretanto, também se sabia que as plantas  \nnão podem absorver o nitrogênio em sua forma simples,  \nque é o principal constituinte da atmosfera. Elas precisam  \nque o nitrogênio seja combinado \\[…\\] para poderem  \nassimilá-lo.  \nEconomias agrícolas basicamente mantêm o balanço do nitrogênio ligado. No entanto, com o advento da era industrial, os produtos do solo são levados de onde cresce a colheita para lugares distantes, onde são consumidos, fazendo com que o nitrogênio ligado não retorne ã terra da qual foi retirado.  \nIsso tem gerado a necessidade econômica mundial de abastecer o solo com nitrogênio ligado. \\[…\\] A demanda por nitrogênio, tal como a do carvão, indica quão diferente nosso modo de vida se tornou com relação ao das pessoas que, com seus próprios corpos, fertilizam o solo que cultivam.  \nDesde a metade do último século, nós vínhamos aproveitando o suprimento de nitrogênio do salitre que a natureza tinha depositado nos desertos montanhosos do Chile. Comparando o rápido crescimento da demanda com a extensão calculada desses depósitos, ficou claro que em meados do século atual uma emergência seríssima seria inevitável, a menos que a química encontrasse uma saída.”\n\nHABER, F. **The Synthesis of Ammonia from its Elements.** Disponível em: www.nobelprize.org. Acesso em: 13jul. 2013 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com os argumentos de Haber, qual fenômeno teria provocado o desequilíbrio no “balanço do nitrogênio ligado”?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O esgotamento das reservas de salitre no Chile.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O aumento da exploração de carvão vegetal e carvão mineral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A redução da fertilidade do solo nas economias agrícolas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A intensificação no fluxo de pessoas do campo para as cidades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A necessidade das plantas de absorverem sais de nitrogênio disponíveis no solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

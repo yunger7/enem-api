@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2017",
+    "index": 141,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1/3 de polpa de acerola.\n\nPara o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês, passando a custar R$ 15,30.\n\nPara não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem da polpa de morango.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A redução, em real, no preço da embalagem da polpa de morango deverá ser de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,30",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

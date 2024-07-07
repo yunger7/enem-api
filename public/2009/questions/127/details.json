@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2009",
+    "index": 127,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2009/questions/127/798e9623-046e-493b-8d10-455dffae35db.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/127/798e9623-046e-493b-8d10-455dffae35db.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Diante dos recursos argumentativos utilizados, depreende-se que o texto apresentado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Se dirige aos líderes comunitários para tomarem a iniciativa de combater a dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conclama toda a população a participar das estratégias de combate ao mosquito da dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Se dirige aos prefeitos, conclamando-os a organizarem iniciativas de combate à dengue.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Tem como objetivo ensinar os procedimentos técnicos necessários para o combate ao mosquito da dengue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apela ao governo federal, para que dê apoio aos governos estaduais e municipais no combate ao mosquito da dengue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

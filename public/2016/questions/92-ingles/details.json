@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2016",
+    "index": 92,
+    "year": 2016,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016/questions/92-ingles/6ca4335b-6800-4f05-8d18-bee5cc7d068b.png)\n\nDisponível em: www.ct.gov. Acesso em: 30 jul. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2016/questions/92-ingles/6ca4335b-6800-4f05-8d18-bee5cc7d068b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Orientações à população são encontradas também em sites oficiais. Ao clicar no endereço eletrônico mencionado no cartaz disponível na internet, o leitor tem acesso aos (às)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ações do governo local referentes a calamidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Relatos de sobreviventes em tragédias marcantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tipos de desastres naturais possíveis de acontecer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Informações sobre acidentes ocorridos em Connecticut.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Medidas de emergência a serem tomadas em catástrofes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

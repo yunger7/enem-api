@@ -1,0 +1,45 @@
+{
+    "title": "Questão 41 - ENEM 2018",
+    "index": 41,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018/questions/41/a991a226-d7fd-4f72-8e96-b32ce8bb0036.png)\n\nDisponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/41/a991a226-d7fd-4f72-8e96-b32ce8bb0036.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indicação de diversos canais de atendimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Divulgação do Centro de Defesa da Mulher.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informação sobre a duração da campanha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentação dos diversos apoiadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Utilização da imagem das três mulheres.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

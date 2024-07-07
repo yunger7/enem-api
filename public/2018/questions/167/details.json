@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2018",
+    "index": 167,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.\n\nContudo, após depositar vinte perguntas de diferentes níveis na urna, ele observou que 25% delas eram de nível fácil. Querendo que as perguntas de nível fácil sejam a maioria, o gerente decidiu acrescentar mais perguntas de nível fácil à urna, de modo que a probabilidade de o primeiro participante retirar, aleatoriamente, uma pergunta de nível fácil seja de 75%.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "35.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "45.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

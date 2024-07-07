@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2023",
+    "index": 155,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.\n\n![](https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png)",
+    "files": [
+        "https://enem.dev/2023/questions/155/05746583-c107-4dd6-8a3b-7e7d0da99377.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a medida da área, em metro quadrado, ocupada pela calçada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "900",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "600",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "400",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

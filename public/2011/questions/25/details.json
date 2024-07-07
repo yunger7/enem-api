@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2011",
+    "index": 25,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/25/6dffcf26-68e1-4c76-9a0a-d0a5a5ccb33d.png)\n\nGOMES, A. et al. A República no Brasil. Rio de Janeiro: Nova Fronteira, 2002.",
+    "files": [
+        "https://enem.dev/2011/questions/25/6dffcf26-68e1-4c76-9a0a-d0a5a5ccb33d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A análise da tabela permite identificar um intervalo de tempo no qual uma alteração na proporção de eleitores inscritos resultou de uma luta histórica de setores da sociedade brasileira. O intervalo de tempo e a conquista estão associados, respectivamente, em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1940-1950 – direito de voto para os ex-escravos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1950-1960 – fim do voto secreto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1960-1970 – direito de voto para as mulheres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1970-1980 – fim do voto obrigatório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1980-1996 – direito de voto para os analfabetos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2015",
+    "index": 34,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e, enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: _Tudo é um_.\n\nNIETZSCHE, F. Crítica moderna. In: **Os pré-socráticos**. São Paulo: Nova Cultural, 1999.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O desejo de explicar, usando metáforas, a origem dos seres e das coisas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A ambição de expor, de maneira metódica, as diferenças entre as coisas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A tentativa de justificar, a partir de elementos empíricos, o que existe no real.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2016",
+    "index": 137,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A altura, a largura e a profundidade do desenho impresso para a apresentação serão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22,00 cm, 12,00 cm e 5,00 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "27,50 cm, 15,00 cm e 6,25 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "34,37 cm, 18,75 cm e 7,81 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35,20 cm, 19,20 cm e 8,00 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "44,00 cm, 24,00 cm e 10,00 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

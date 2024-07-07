@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2015",
+    "index": 27,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/27/af64ab57-929e-4de7-9a89-f628c99a5a85.jpg)",
+    "files": [
+        "https://enem.dev/2015/questions/27/af64ab57-929e-4de7-9a89-f628c99a5a85.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tropical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Litorâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Equatorial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Semiárido.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Subtropical.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

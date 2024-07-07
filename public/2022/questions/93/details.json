@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2022",
+    "index": 93,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus  \nda Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%.\n\n**Parque Solar Lapa entra em operação**. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000 000 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "500 000 m²",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "250 000 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "100 000 m²",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20 000 m²",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

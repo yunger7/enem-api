@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2011",
+    "index": 101,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**  \n**Onde está a honestidade?**\n\nVocê tem palacete reluzente  \nTem joias e criados à vontade  \nSem ter nenhuma herança ou parente  \nSó anda de automóvel na cidade…\n\nE o povo pergunta com maldade:  \nOnde está a honestidade?  \nOnde está a honestidade?\n\nO seu dinheiro nasce de repente  \nE embora não se saiba se é verdade  \nVocê acha nas ruas diariamente  \nAnéis, dinheiro e felicidade…\n\nVassoura dos salões da sociedade  \nQue varre o que encontrar em sua frente  \nPromove festivais de caridade  \nEm nome de qualquer defunto ausente…\n\nROSA, N. Disponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.\n\n**TEXTO II**\n\nUm vulto da história da música popular brasileira, reconhecido nacionalmente, é Noel Rosa. Ele nasceu em 1910, no Rio de Janeiro; portanto, se estivesse vivo, estaria completando 100 anos. Mas faleceu aos 26 anos de idade, vítima de tuberculose, deixando um acervo de grande valor para o patrimônio cultural brasileiro. Muitas de suas letras representam a sociedade contemporânea, como se tivessem sido escritas no século XXI.\n\nDisponível em: http://www.mpbnet.com.br. Acesso em: abr. 2010.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Um texto pertencente ao patrimônio literário-cultural brasileiro é atualizável, na medida em que ele se refere a valores e situações de um povo. A atualidade da canção Onde está a honestidade?, de Noel Rosa, evidencia-se por meio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Da ironia, ao se referir ao enriquecimento de origem duvidosa de alguns.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Da crítica aos ricos que possuem joias, mas não têm herança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Da maldade do povo a perguntar sobre a honestidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Do privilégio de alguns em clamar pela honestidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da insistência em promover eventos beneficentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

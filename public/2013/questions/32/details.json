@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2013",
+    "index": 32,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ninguém desconhece a necessidade que todos os fazendeiros têm de aumentar o número de seus trabalhadores. E como até há pouco supriam-se os fazendeiros dos braços necessários? As fazendas eram alimentadas pela aquisição de escravos, sem o menor auxílio pecuniário do governo. Ora, se os fazendeiros se supriam de braços à sua custa, e se é possível obtê-los ainda, posto que de outra qualidade, por que motivo não hão de procurar alcançá-los pela mesma maneira, isto é, à sua custa?\n\nResposta de Manuel Felizardo de Souza e Mello, diretor geral das Terras Públicas,ao Senador Vergueiro. In: ALENCASTRO, L.F. (Org.) **História da vida privada no Brasil**. São Paulo:Cia das Letras, 1998 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O fragmento do discurso dirigido ao parlamentar do Império refere-se às mudanças então em curso no campo brasileiro, que confrontaram o Estado e a elite agrária em torno do objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fomentar ações públicas para ocupação das terras do interior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adotar o regime assalariado para proteção da mão de obra estrangeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Definir uma política de subsídio governamental para o fomento da imigração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Regulamentar o tráfico interprovincial de cativos para sobrevivência das fazendas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Financiar a fixação de famílias camponesas para estímulo da agricultura de subsistência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

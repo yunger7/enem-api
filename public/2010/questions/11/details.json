@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2010",
+    "index": 11,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A evolução do processo de transformação de matérias-primas em produtos acabados ocorreu em três estágios: artesanato, manufatura e maquinofatura.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um desses estágios foi o artesanato, em que se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trabalhava conforme o ritmo das máquinas e de maneira padronizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Empregavam fontes de energia abundantes para o funcionamento das máquinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Realizava parte da produção por cada operário, com uso de máquinas e trabalho assalariado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Faziam interferência do processo produtivo por técnicos e gerentes com vistas a determinar o ritmo de produção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

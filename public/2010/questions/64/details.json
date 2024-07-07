@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2010",
+    "index": 64,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausência de olhos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamark. Ao adotar esse ponto de vista, ele diria que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As características citadas no texto foram originadas pela seleção natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O corpo anelado é uma característica fortemente adaptativa, mas transmitida apenas à primeira geração de descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitidas aos descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

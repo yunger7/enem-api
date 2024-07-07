@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2014",
+    "index": 112,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/112/4cd68c46-084c-4144-8e81-7a4a64e13bda.jpg)",
+    "files": [
+        "https://enem.dev/2014/questions/112/4cd68c46-084c-4144-8e81-7a4a64e13bda.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto introduz uma reportagem a respeito do futuro da televisão, destacando que as tecnologias a ela incorporadas serão responsáveis por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estimular a substituição dos antigos aparelhos de TV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Contemplar os desejos individuais com recursos de ponta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Transformar a televisão no principal meio de acesso às redes sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Renovar técnicas de apresentação de programas e de captação de imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Minimizar a importância dessa ferramenta como meio de comunicação de massa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

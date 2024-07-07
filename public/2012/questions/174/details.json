@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2012",
+    "index": 174,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/174/c9dc1c65-f17e-44ce-85fc-f4a36584a37f.png)\n\nUm investidor deseja comprar duas das empresas listadas na tabela. Para tal, ele calcula a média da receita bruta anual dos últimos três anos (de 2009 até 2011) e escolhe as duas empresas de maior média anual.",
+    "files": [
+        "https://enem.dev/2012/questions/174/c9dc1c65-f17e-44ce-85fc-f4a36584a37f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As empresas que este investidor escolhe comprar são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Balas W e Pizzaria Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Chocolates X e Tecelagem Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pizzaria Y e Alfinetes V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pizzaria Y e Chocolates X.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Tecelagem Z e Alfinetes V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

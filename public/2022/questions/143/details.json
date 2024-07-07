@@ -1,0 +1,46 @@
+{
+    "title": "Questão 143 - ENEM 2022",
+    "index": 143,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.\n\n![](https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg)\n\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.\n\n![](https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg)",
+    "files": [
+        "https://enem.dev/2022/questions/143/4da64c40-da53-4205-b673-aa5b6274e3e2.jpg",
+        "https://enem.dev/2022/questions/143/a05cd294-5321-4c85-a081-a86ed7aa3e39.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/37b0d8a0-5992-4fac-8f58-93924c6877e2.jpg",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/c2a2bae5-e20a-4bdb-af9e-b6d37b0cdc81.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/bfd0a9ed-5ff2-444f-b297-e2f37eba789b.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/b76f04c7-e485-4c93-8e57-60d5ce9f5623.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/143/2e478466-a3b6-4a44-8c04-a6187dc164df.jpg",
+            "isCorrect": false
+        }
+    ]
+}

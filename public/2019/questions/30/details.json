@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2019",
+    "index": 30,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n**Estratos**\n\nNa passagem de uma língua para outra, algo sempre permanece, mesmo que não haja ninguém para se lembrar desse algo. Pois um idioma retém em si mais memórias que os seus falantes e, como uma chapa mineral marcada por camadas de uma história mais antiga do que aquela dos seres viventes, inevitavelmente carrega em si a impressão das eras pelas quais passou. Se as “línguas são arquivos da história”, elas carecem de livros de registro e catálagos. Aquilo que contêm pode apenas ser consultado em parte, fornecendo ao pesquisador menos os elementos de uma biografia do que um estudo geológico de uma sedimentação realizada em um período sem começo ou sem fim definido.\n\n**HELLER-ROAZEN, D**. _Ecolalias: sobre o esquecimento das línguas_. Campinas: Unicamp, 2010.\n\n**TEXTO II**\n\nNa reflexão gramatical dos séculos XVI e XVII, a influência árabe aparece pontualmente, e se reveste sobretudo de item bélico fundamental na atribuição de rudeza aos idiomas português e castelhano por seus respectivos detratores. Parecer com o árabe, assim, é uma acusação de dessemelhança com o latim.\n\n**SOUZA, M. P**. _Linguística histórica_. Campinas: Unicamp, 2006.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Relacionando-se as ideias dos textos a respeito da história e memória das línguas, quanto à formação da língua portuguesa, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A presença de elementos de outras línguas no português foi historicamente avaliada como um índice de riqueza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B o estudioso da língua pode identificar com precisão os elementos deixados por outras línguas na transformação da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O português é o resultado da influência de outras línguas no passado e carrega marcas delas em suas múltiplas camadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O árabe e o latim estão na formação escolar e na memória dos falantes brasileiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A influência de outras línguas no português ocorreu de maneira uniforme ao longo da história.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

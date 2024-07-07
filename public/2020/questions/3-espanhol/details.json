@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2020",
+    "index": 3,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**La violencia como bella arte**\n\nPues bien, ‘Relatos Salvajes’, de Damián Szifrón, es  \nsobre todo un brilhante esfuerzo por poner rostro, por  \nfotografiar, a la parte de la violencia que tanto cuesta ver  \nen el cine. De repente, el director argentino coloca la  \nespectador ante el espectáculo, digamos putrefacto, de  \nuna sociedad enferma de su propia indolencia,  \nanestesiada por su ira, incapaz de entender el origen de  \nla insatisfacción que la habita. ¿Cómo se quedan? Sí,  \nestamos delante de la una película vocacionalmente  \nviolenta, obligadamente salvaje, pero, y sobre todo,  \ndeslumbrante en su claridad.  \nMás allá del esplendor sabio de una producción  \nperfecta, lo que más duele, lo que más divierte, lo que  \nmás conmueve es la sensación de reconocimiento. Cada  \nuno de los damnificados, pese a su acento marcadamente  \nargentino, somos nosotros. O, mejor, cada insulto  \nproferido, y no siempre entendido, es nuestro, en algún  \nmomento ha salido de nuestra boca. O saldrá.  \nLa violencia no es sólo eso que tanto desagrada a los  \nprofesionales del buen gusto, a los programadores de  \nópera o a los filósofos de la nada; la violencia, la  \nrealmente insoportable, es también una cuestión de  \nactitud, un simple gesto. Y esa violencia está por todas  \npartes, está dentro. Y Szifrón acierta a retrataria tan  \nfielmente que no queda otra cosa que romper a reír.  \nAunque sólo sea de simple desesperación. Brillante,  \nmagistral incluso.\n\n**MARTÍNEZ, L**. Disponível em: www.elmundo.es. _Acesso em: 13 abr. 2015_ (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa resenha crítica acerca do filme Relatos Salvajes, o autor evidencia o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cômico como fuga da sociedade diante de situações violentas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estado de apatia da sociedade perante a violência rotineira do mundo atual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Empecilho para o espectador vivenciar a violência bruta na realidade e na ficção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sotaque reforçado dos personagens a fim de marca.r o espaço do cinema argentino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Autorreconhecimento diante dos diversos tipos de comportamento humano frente à violência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

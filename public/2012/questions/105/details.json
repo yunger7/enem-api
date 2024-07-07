@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2012",
+    "index": 105,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**O senhor**\n\nCarta a uma jovem que, estando em uma roda em que dava aos presentes o tratamento de você, se dirigiu ao autor chamando-o “o senhor”:  \nSenhora:  \nAquele a quem chamastes senhor aqui está, de peito magoado e cara triste, para vos dizer que senhor ele não é, de nada, nem de ninguém.  \nBem o sabeis, por certo, que a única nobreza do plebeu está em não querer esconder sua condição, e esta nobreza tenho eu. Assim, se entre tantos senhores ricos e nobres a quem chamáveis você escolhestes a mim para tratar de senhor, é bem de ver que só poderíeis ter encontrado essa senhoria nas rugas de minha testa e na prata de meus cabelos. Senhor de muitos anos, eis aí; o território onde eu mando é no país do tempo que foi. Essa palavra “senhor”, no meio de uma frase, ergueu entre nós um muro frio e triste.  \nVi o muro e calei: não é de muito, eu juro, que me acontece essa tristeza; mas também não era a vez primeira.\n\nBRAGA, R. **A borboleta amarela**. Rio de Janeiro: Record, 1991.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A escolha do tratamento que se queira atribuir a alguém geralmente considera as situações específicas de uso social. A violação desse princípio causou um mal-estar no autor da carta. O trecho que descreve essa violação é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“Essa palavra, ‘senhor’, no meio de uma frase ergueu entre nós um muro frio e triste.”",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "“A única nobreza do plebeu está em não querer esconder a sua condição.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Só poderíeis ter encontrado essa senhoria nas rugas de minha testa.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“O território onde eu mando é no país do tempo que foi.”",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Não é de muito, eu juro, que acontece essa tristeza; mas também não era a vez primeira.”",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

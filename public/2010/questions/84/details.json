@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2010",
+    "index": 84,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de cientistas liderado por pesquisadores do instituto de Tecnologia da Califórnia (Caltech), nos Estados Unidos, construiu o primeiro metamaterial que apresenta valor negativo do índice de refração relativo para a luz visível. Denomina-se metamaterial um material óptico artificial, tridimensional, formado por pequenas estruturas menores do que o comprimento de onda da luz, o que lhe dá propriedades e comportamentos que não são encontrados em materiais naturais. Esse material tem sido chamado de “canhoto”.\n\nDisponível em: http://www.invocaçãotecnologica.com.br. Acesso em: 28 abr. (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando o comportamento atípico desse metamaterial, qual é a figura que representa a refração da luz ao passar do ar para esse meio?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/84/c79b38d7-6730-4f9c-9ecd-1afe898f868e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/84/e9a2a50f-7259-413d-a68e-748f26f9bd93.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/84/ae9996a3-2b96-48b9-9fb0-63529cfd6059.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/84/6a342700-2e07-4f06-92e9-e96e35418f2b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/84/3302afe8-7fca-45b0-b1c3-59e696c5865f.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 18 - ENEM 2009",
+    "index": 18,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/18/984c1d41-ccbd-4532-b8aa-b39dfefb0649.png)",
+    "files": [
+        "https://enem.dev/2009/questions/18/984c1d41-ccbd-4532-b8aa-b39dfefb0649.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considere-se que um auditório possua capacidade para 40 pessoas, cada uma produzindo uma quantidade média\nde calor, e que praticamente todo o calor que flui para fora do auditório o faz por meio dos aparelhos de ar condicionado. Nessa situação, entre as informações listadas, aquelas essenciais para se determinar quantos e/ou quais aparelhos de ar-condicionado são precisos para manter, com lotação máxima, a temperatura interna do auditório agradável e constante, bem como determinar a espessura da fiação do circuito elétrico para a ligação desses aparelhos, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vazão de ar e potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vazão de ar e corrente elétrica - ciclo frio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eficiência energética e potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Capacidade de refrigeração e frequência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Capacidade de refrigeração e corrente elétrica - ciclo frio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

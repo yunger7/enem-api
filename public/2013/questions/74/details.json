@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2013",
+    "index": 74,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Eu também podia decompor a água, se fosse salgada ou acidulada, usando a pilha de Daniell como fonte de força. Lembro o prazer extraordinário que sentia ao decompor um pouco de água em uma taça para ovos quentes, vendo-a separar-se em seus elementos, o oxigênio em um eletrodo, o hidrogênio no outro. A eletricidade de uma pilha de 1 volt parecia tão fraca, e no entanto podia ser suficiente para desfazer um composto químico, a água…\n\nSACKS, O. Tio Tungstênio: memórias de uma infância química. São Paulo: Cia. das Letras, 2002",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O fragmento do romance de Oliver Sacks relata a separação dos elementos que compõem a água. O princípio do método apresentado é utilizado industrialmente na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Obtenção de ouro a partir de pepitas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Obtenção de calcário a partir de rochas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Obtenção de alumínio a partir da bauxita.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Obtenção de ferro a partir de seus óxidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obtenção de amônia a partir de hidrogênio e nitrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

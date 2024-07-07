@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2016",
+    "index": 81,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/81/fab74d42-ab21-42bc-bc5f-ed99d86be779.png)",
+    "files": [
+        "https://enem.dev/2016/questions/81/fab74d42-ab21-42bc-bc5f-ed99d86be779.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em relação ao coeficiente de partição da testosterona, as lipofilias dos compostos 1 e 2 são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor e menor que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Menor e maior que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior e menor que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior e maior que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Menor e igual que a lipofilia da testosterona.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

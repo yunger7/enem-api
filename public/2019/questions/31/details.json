@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2019",
+    "index": 31,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019/questions/31/a6382a77-122a-4202-8123-9f9e5e2b8cc1.png)",
+    "files": [
+        "https://enem.dev/2019/questions/31/a6382a77-122a-4202-8123-9f9e5e2b8cc1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na obra Cabeça de touro, o material descartado torna-se objeto de arte por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reciclagem da matéria-prima original.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Complexidade da combinação de formas abstratas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Perenidade dos elementos que constituem a escultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mudança da funcionalidade pela integração dos objetos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fragmentação da imagem no uso de elementos diversificados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

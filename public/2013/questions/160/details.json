@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2013",
+    "index": 160,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/160/c7425191-f428-4a64-bb30-70e95b899200.png)",
+    "files": [
+        "https://enem.dev/2013/questions/160/c7425191-f428-4a64-bb30-70e95b899200.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O empresário decidiu comprar a empresa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "F",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "G",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "H",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "M",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

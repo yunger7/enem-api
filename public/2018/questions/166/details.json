@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2018",
+    "index": 166,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os alunos da disciplina de estatística, em um curso universitário, realizam quatro avaliações por semestre com os pesos de 20%, 10%, 30% e 40%, respectivamente.  \nNo final do semestre, precisam obter uma média nas quatro avaliações de, no mínimo, 60 pontos para serem aprovados. Um estudante dessa disciplina obteve os seguintes pontos nas três primeiras avaliações: 46, 60 e 50, respectivamente.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "29,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "71,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "74,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "75,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "84,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

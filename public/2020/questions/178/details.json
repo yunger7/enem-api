@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2020",
+    "index": 178,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado:\n\n*   EC do pneu I: com chuva 6, sem chuva 3;\n*   EC do pneu II: com chuva 7, sem chuva –4;\n*   EC do pneu III: com chuva –2, sem chuva 10;\n*   EC do pneu IV: com chuva 2, sem chuva 8;\n*   EC do pneu V: com chuva –6, sem chuva 7.\n\nO coeficiente de rendimento climático (CRC) de um pneu é calculado como a soma dos produtos dos fatores de EC, com ou sem chuva, pelas correspondentes probabilidades de se ter tais condições climáticas: ele é utilizado para determinar qual pneu deve ser selecionado para uma dada corrida, escolhendo-se o pneu que apresentar o maior CRC naquele dia. No dia de certa corrida, a probabilidade de chover era de 70% e o chefe da equipe calculou o CRC de cada um dos cinco tipos de pneu.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O pneu escolhido foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

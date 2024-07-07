@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2015",
+    "index": 95,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/95/2e3724ac-f078-47d1-a283-79f20a0c641c.jpg)\n\nTransportation Security Administration. Disponível em: www.tsa.gov. Acesso em: 13 jan. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2015/questions/95/2e3724ac-f078-47d1-a283-79f20a0c641c.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As instituições públicas fazem uso de avisos como instrumento de comunicação com o cidadão. Esse aviso, voltado a passageiros, tem o objetivo de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solicitar que as malas sejam apresentadas para inspeção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Notificar o passageiro pelo transporte de produtos proibidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Informar que a mala foi revistada pelos oficiais de segurança.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Dar instruções de como arrumar malas de forma a evitar inspeções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentar desculpas pelo dano causado à mala durante a viagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

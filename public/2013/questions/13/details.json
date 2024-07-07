@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2013",
+    "index": 13,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg)",
+    "files": [
+        "https://enem.dev/2013/questions/13/a2cb9ca2-4278-46e0-a138-a16824f116bc.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na imagem, da década de 1930, há uma crítica à conquista de um direito pelas mulheres, relacionado com a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redivisão do trabalho doméstico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Liberdade de orientação sexual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Garantia da equiparação salarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aprovação do direito ao divórcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obtenção da participação eleitoral.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

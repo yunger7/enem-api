@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2012",
+    "index": 169,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/169/b957b116-b45b-4ac5-8ee8-3a2519ae6e1f.png)",
+    "files": [
+        "https://enem.dev/2012/questions/169/b957b116-b45b-4ac5-8ee8-3a2519ae6e1f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para obter essas médias, ele multiplicou a matriz obtida a partir da tabela por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/169/ac49b2a2-c8b9-47db-aa0b-e3c194aa1553.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/169/f19cc62d-cb14-407a-bbd9-20d5c116cb11.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/169/07f396c3-1c1c-46aa-bbef-156e0aa6e668.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/169/943f11ff-0f7b-4ad1-8dea-915abf2ed0e7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/169/c2bcaf1c-20e6-43b6-801f-19302b2260bb.png",
+            "isCorrect": true
+        }
+    ]
+}

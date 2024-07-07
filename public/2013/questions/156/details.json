@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2013",
+    "index": 156,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a _y_  centímetros. Essas placas são vendidas em caixas com _N_ unidades e, na caixa, é  \nespecificada a área máxima _S_ que pode ser coberta pelas _N_ placas.\n\nDevido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta _S_ não fosse alterada.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A quantidade X, de placas do novo modelo, em cada nova caixa será igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N/9",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "N/6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "N/3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9N",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

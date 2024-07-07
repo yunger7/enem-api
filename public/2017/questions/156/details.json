@@ -1,0 +1,46 @@
+{
+    "title": "Questão 156 - ENEM 2017",
+    "index": 156,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma desenhista projetista deverá desenhar uma tampa de panela em forma circular. Para realizar esse desenho, ela dispõe, no momento, de apenas um compasso, cujo comprimento das hastes é de 10 cm, um transferidor e uma folha de papel com um plano cartesiano. Para esboçar o desenho dessa tampa, ela afastou as hastes do compasso de forma que o ângulo formado por elas fosse de 120o. A ponta seca está representada pelo ponto C, a ponta do grafite está representada pelo ponto B e a cabeça do compasso está representada pelo ponto A conforme a figura.\n\n![](https://enem.dev/2017/questions/156/85a380fd-271f-48cc-99fd-ebb68a0032bc.png)\n\nApós concluir o desenho, ela o encaminha para o setor de produção. Ao receber o desenho com a indicação do raio da tampa, verificará em qual intervalo este se encontra e decidirá o tipo de material a ser utilizado na sua fabricação, de acordo com os dados.\n\n![](https://enem.dev/2017/questions/156/9fbeb0c5-eaec-4613-89d7-585bc786b147.png)",
+    "files": [
+        "https://enem.dev/2017/questions/156/85a380fd-271f-48cc-99fd-ebb68a0032bc.png",
+        "https://enem.dev/2017/questions/156/9fbeb0c5-eaec-4613-89d7-585bc786b147.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O tipo de material a ser utilizado pelo setor de produção será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

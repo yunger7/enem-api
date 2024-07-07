@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2016",
+    "index": 65,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A formação de coágulos sanguíneos em veias e artérias é um dos fatores responsáveis pela ocorrência de doenças cardiovasculares, como varizes, infarto e acidentes vasculares cerebrais. A prevenção e o tratamento dessas doenças podem ser feitos com drogas anticoagulantes. A indústria farmacêutica estimula a pesquisa de toxinas animais com essa propriedade.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando as adaptações relacionadas aos hábitos alimentares, os animais adequados ao propósito dessas pesquisas são os(as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Moluscos fitófagos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Moscas saprófagas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pássaros carnívoros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Morcegos frugívoros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mosquitos hematófagos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

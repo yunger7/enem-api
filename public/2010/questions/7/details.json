@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2010",
+    "index": 7,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Pensando nas correntes e prestes a entrar no braço que deriva da Corrente do Golfo para o norte, lembrei-me de um vidro de café solúvel vazio. Coloquei no vidro uma nota cheia de zeros, uma bola cor rosa-choque. Anotei a posição e data: Latitude 49º49′ N, Longitude 23º49′ W. Tampei e joguei na água. Nunca imaginei que receberia uma carta com a foto de um menino norueguês, segurando a bolinha e a estranha nota.\n\nKLINK, A. **Parati: entre dois pólos.** São Paulo: Companhia das Letras, 1998 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No texto, o autor anota sua coordenada geográfica, que é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A relação que se estabelece entre as distâncias representadas no mapa e as distâncias reais da superfície cartografada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O registro de que os paralelos são verticais e o convergem para os polos, e os meridianos são círculos imaginários, horizontais e equidistantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A informação de um conjunto de linhas imaginárias que permitem localizar um ponto ou acidente geográfico na superfície terrestre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A latitude como distância em graus entre um ponto e o Meridiano de Greenwich, e a longitude como a distância em graus entre um ponto e o Equador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A forma de projeção cartográfica, usado para navegação, onde os meridianos e paralelos distorcem a superfície do planeta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

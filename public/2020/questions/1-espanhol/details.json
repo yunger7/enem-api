@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2020",
+    "index": 1,
+    "year": 2020,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**Pablo Pueblo**\n\nRegresa un hombre en silencio  \nDe su trabajo cansado  \nSu paso no lleva prisa  \nSu sombra nunca lo alcanza\n\nLo espera el barrio de siempre  \nCon el farol en la esquina  \nCon la basura allá en frente  \nY el ruido de la cantina\n\nPablo Pueblo  \nllega hasta el zaguán oscuro  \nY vuelve a ver las paredes  \nCon las viejas papeletas  \nQue prometían futuros  \nen lides politiqueras  \nY en su cara se dibuja  \nla decepción de la espera.\n\n**BLADES. R.** DisponíveI em: http://rubenblades.com. _Acesso em: 26 jun. 2012 (fragmento)_",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Rubén Blades é um compositor panamenho de canções socialmente engajadas. O título Pablo Pueblo, associado ao conteúdo da letra da canção, revela uma crítica social ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Contrapor a individualidade de um sujeito a uma estrutura social marcada pela decepção na atuação política.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Demonstrar que o problema sofrido pelo indivíduo atinge toda a comunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Relativizar a importância que se dá ao sofrimento individual em uma estrutura social baseada na exploração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Descrever a vida de um sujeito que nunca resolve suas inquietações e, por isso, mantém-se silencioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Usar um apelido jocoso para designar a atuação de um indivíduo em seu próprio bairro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

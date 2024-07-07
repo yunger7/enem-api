@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2014",
+    "index": 148,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/148/925f6a93-dd23-47d0-9176-6aa8754c38dd.png)\n\nNa figura, considere o plano cartesiano que contém a trajetória do assento do balanço, no qual a origem está localizada no topo do suporte do balanço, o eixo _X_ é paralelo ao chão do parque, e o eixo _Y_ tem orientação positiva para cima.",
+    "files": [
+        "https://enem.dev/2014/questions/148/925f6a93-dd23-47d0-9176-6aa8754c38dd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A curva determinada pela trajetória do assento do balanço é parte do gráfico da função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/148/b3d12a51-2044-42f4-9140-e1f94db0869a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/148/a6615a80-066b-48bb-b21f-e7afe60a2bb8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/148/b27e051a-39e5-4a70-a1fa-416e9ede79de.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/148/94b0c3ef-ada7-4aff-8d8e-7f0f5e4b0328.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/148/03e71b23-821a-4ec1-b825-ea5526695497.png",
+            "isCorrect": false
+        }
+    ]
+}

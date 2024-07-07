@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2016",
+    "index": 144,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/144/3c5cca0b-8c29-4ca2-9a1f-eba9121870b2.png)\n\nAvaliando os resultados, o conselho diretor da empresa decidiu comprar, nos dois meses subsequentes, a mesma quantidade de matéria-prima comprada no mês em que o lucro mais se aproximou da média dos lucros mensais dessa empresa nesse período de sete meses.",
+    "files": [
+        "https://enem.dev/2016/questions/144/3c5cca0b-8c29-4ca2-9a1f-eba9121870b2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nos próximos dois meses, essa empresa deverá comprar a mesma quantidade de matéria-prima comprada no mês",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "V",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "VII",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

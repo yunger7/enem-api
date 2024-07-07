@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2010",
+    "index": 132,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/132/994f2dab-541c-4f37-bc65-2fa8baa0b506.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/132/994f2dab-541c-4f37-bc65-2fa8baa0b506.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo pesquisas recentes, é irrelevante a diferença entre sexos para se avaliar a inteligência. Com relação às tendências para áreas do conhecimento, por sexo, levando em conta a matrícula em cursos universitários brasileiros,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os homens estão matriculados em menor proporção em cursos de Matemática que em Medicina por lidarem melhor com pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As mulheres estão matriculadas em maior percentual em cursos que exigem capacidade de compreensão dos seres humanos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "As mulheres estão matriculadas em percentual maior em Física que em Mineração por tenderem a trabalhar melhor com abstrações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As homens e as mulheres estão matriculados na mesma proporção em cursos que exigem habilidades semelhantes na mesma área.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As mulheres estão matriculadas em menor número em Psicologia por sua habilidade de lidarem melhor com coisas que com sujeitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

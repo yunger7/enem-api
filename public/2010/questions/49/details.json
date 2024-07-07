@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2010",
+    "index": 49,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A cárie dental resulta da atividade de bactérias que degradam os açúcares e os transformam em ácidos que corroem a porção mineralizada dos dentes. O flúor, juntamente com o cálcio e um açúcar chamado xilitol, agem inibindo esse processo. Quando não se escovam os dentes corretamente e neles acumulam-se restos de alimentos, as bactérias que vivem na boca aderem aos dentes, formando a placa bacteriana ou biofilme. Na placa, elas transformam o açúcar dos restos de alimentos em ácidos, que corroem o esmalte do dente formando uma cavidade, que é a cárie. Vale lembrar que a placa bacteriana se forma mesmo na ausência de ingestão de carboidratos fermentáveis, pois as bactérias possuem polissacarídeos intracelulares de reserva.\n\nDisponível em: http://www.diariodasaude.com.br. Acesso em: 11 ago. 2010 (adaptado).\n\n**cárie 1.** destruição de um osso por corrosão progressiva.  \n\\* cárie dentária: efeito da destruição da estrutura dentária por bactérias.\n\nHOUAISS, Antônio. Dicionário eletrônico. Versão 1.0. Editora  \nObjetiva, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partir da leitura do texto, que discute as causas do aparecimento de cáries, e da sua relação com as informações do dicionário, conclui-se que a cárie dental resulta, principalmente, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Falta de flúor e de cálcio na alimentação diária da população brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consumo exagerado do xilitol, um açúcar, na dieta alimentar diária do indivíduo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Redução na proliferação bacteriana quando a saliva é desbalanceada pela má alimentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uso exagerado do flúor, um agente que em alta quantidade torna-se tóxico à formação dos dentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Consumo excessivo de açúcares na alimentação e má higienizaçao bucal, que contribuem para a proliferação de bactérias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

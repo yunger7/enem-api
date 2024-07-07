@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2021",
+    "index": 71,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Desde os primórdios da formação da crosta terrestre até os dias de hoje, as rochas formadas vêm sendo continuamente destruídas. Os produtos resultantes da destruição das rochas são transportados pela água, vento e gelo a toda superfície terrestre, acionados pelo calor e pela gravidade. Cessada a energia transportadora, são depositados nas regiões mais baixas da crosta, podendo formar pacotes rochosos.\n\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As transformações na superfície terrestre, conforme descritas no texto, compõem o seguinte processo geomorfológico:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ciclo sedimentar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Instabilidade sísmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intemperismo biológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Derramamento basáltico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Compactação superficial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2016",
+    "index": 151,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/151/b9e723b5-a63c-4c11-b026-d686e0c3c807.png)\n\nUma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50.",
+    "files": [
+        "https://enem.dev/2016/questions/151/b9e723b5-a63c-4c11-b026-d686e0c3c807.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "23,5%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "21,2%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "19,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11,8%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

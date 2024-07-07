@@ -1,0 +1,45 @@
+{
+    "title": "Questão 44 - ENEM 2020",
+    "index": 44,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/44/2676a98e-0b86-425d-a2ed-429ede0b2438.png)",
+    "files": [
+        "https://enem.dev/2020/questions/44/2676a98e-0b86-425d-a2ed-429ede0b2438.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A família que adota é mais feliz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A adoção tardia é muito positiva.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "As famílias preferem adotar bebês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A adoção de adolescentes é mais simples.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os filhos adotivos são companheiros dos pais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

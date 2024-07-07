@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2020",
+    "index": 136,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. No artigo que se refere às dimensões da Bandeira, observa-se:\n\n“Para cálculos das dimensões, será tomada por base a largura, dividindo-a em 14 (quatorze) partes iguais, sendo que cada uma das partes será considerada uma medida ou um módulo (M). Os demais requisitos dimensionais seguem o critério abaixo:\n\n1.  Comprimento será de vinte módulos (20 M);\n2.  A distância dos vértices do losango amarelo ao quadro externo será de um módulo e sete décimos (1,7 M);\n3.  O raio do círculo azul no meio do losango amarelo será de três módulos e meio (3,5 M).”\n\nBRASIL, Lei n. 5.700, de 1° de setembro de 1971. Disponível em: www.planalto.gov.br. Acesso em: 15 set. 2015.\n\nA figura indica as cores da bandeira do Brasil e localiza o quadro externo a que se refere a Lei n. 5.700.\n\n![](https://enem.dev/2020/questions/136/d4125f5f-361b-4d70-b868-340dde832d81.png)\n\nUm torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e  \namarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde.",
+    "files": [
+        "https://enem.dev/2020/questions/136/d4125f5f-361b-4d70-b868-340dde832d81.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para confecção do círculo da bandeira desejada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "32",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "53",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "63",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "90",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

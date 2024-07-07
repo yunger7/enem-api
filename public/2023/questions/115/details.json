@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2023",
+    "index": 115,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.\nDentro do corpo do vegetal, esses contaminantes serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Digeridos por enzimas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Acumulados nos tecidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Eliminados pelos estômatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Metabolizados por glândulas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Utilizados como fonte energética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

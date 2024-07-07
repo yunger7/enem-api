@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2022",
+    "index": 120,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H2O2), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n\n![](https://enem.dev/2022/questions/120/b54f40a5-6770-42c7-8756-63acaa5dcbd1.jpg)",
+    "files": [
+        "https://enem.dev/2022/questions/120/b54f40a5-6770-42c7-8756-63acaa5dcbd1.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os diferentes resultados dos ensaios justificam-se pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Variação do pH do meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da energia de ativação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Consumo da enzima durante o ensaio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição da concentração do substrato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modificação da estrutura tridimensional da enzima.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

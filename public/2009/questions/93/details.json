@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2009",
+    "index": 93,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Analise as seguintes avaliações de possíveis resultados de  \num teste na Internet.\n\n![](https://enem.dev/2009/questions/93/78a6b697-0241-4008-8983-636d150e26a1.png)",
+    "files": [
+        "https://enem.dev/2009/questions/93/78a6b697-0241-4008-8983-636d150e26a1.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Depreende-se, a partir desse conjunto de informações, que o teste que deu origem a esses resultados, além de estabelecer um perfil para o usuário de sites de relacionamento, apresenta preocupação com hábitos e propõe mudanças de comportamento direcionadas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao adolescente que acessa sites de entretenimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ao profissional interessado em aperfeiçoamento tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À pessoa que usa os sites de relacionamento para complementar seu círculo de amizades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao usuário que reserva mais tempo aos sites de relacionamento do que ao convívio pessoal com os amigos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ao leitor que se interessa em aprender sobre o funcionamento de diversos tipos de sites de relacionamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

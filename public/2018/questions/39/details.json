@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2018",
+    "index": 39,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018/questions/39/eabfb56c-3b85-4116-8d13-645cbf5f0a13.png)\n\nDisponível em: www.facebook.com/omeusegredinho.Acesso em: 9 dez. 2017 (adaptado)",
+    "files": [
+        "https://enem.dev/2018/questions/39/eabfb56c-3b85-4116-8d13-645cbf5f0a13.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa imagem ilustra a reação dos celíacos (pessoas sensíveis ao glúten) ao ler rótulos de alimentos sem glúten. Essas reações indicam que, em geral, os rótulos desses produtos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trazem informações explícitas sobre a presença do glúten.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oferecem várias opções de sabor para esses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Classificam o produto como adequado para o consumidor celíaco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Influenciam o consumo de alimentos especiais para esses consumidores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Variam na forma de apresentação de informações relevantes para esse público.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

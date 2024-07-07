@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2012",
+    "index": 90,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Aspartame é um edulcorante artificial (adoçante dietético) que apresenta potencial adoçante 200 vezes maior que o açúcar comum, permitindo seu uso em pequenas quantidades. Muito usado pela indústria alimentícia, principalmente nos refrigerantes diet, tem valor energético que corresponde a 4 calorias/grama. É contraindicado a portadores de fenilcetonúria, uma doença genética rara que  \nprovoca o acúmulo da fenilalanina no organismo, causando retardo mental. O IDA (índice diário aceitável) desse adoçante é 40 mg/kg de massa corpórea.\n\nDisponível em: http://boaspraticasfarmaceuticas.blogspot.com. Acesso em: 27 fev. 2012",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações do texto, a quantidade máxima recomendada de aspartame, em mol, que uma pessoa de 70 kg de massa corporal pode ingerir por dia é mais próxima de\nDado: massa molar do aspartame = 294 g/mol",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,3 × 10–4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9,5 × 10–3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4 × 10–2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "823.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

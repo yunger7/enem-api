@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2019",
+    "index": 154,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Charles Richter e Beno Gutenberg desenvolveram a escala Richter, que mede a magnitude de um terremoto.  \nEssa escala pode variar de 0 a 10, com possibilidades de valores maiores.\n\nO quadro mostra a escala de magnitude local (Ms) de um terremoto que é utilizada para descrevê-lo.\n\n![](https://enem.dev/2019/questions/154/1532ad8f-b399-4a11-8717-06b7620d0082.jpg)\n\nPara se calcular a magnitude local, usa-se a fórmula Ms = 3,30 + log(A.f), em que A representa a amplitude máxima da onda registrada por um sismógrafo em micrômetro (um) e f representa a frequência da onda, em hertz (Hz).\n\nOcorreu um terremoto com amplitude máxima de 2 000 μm e frequência de 0,2 Hz.\n\n**Disponivel em:** http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/154/1532ad8f-b399-4a11-8717-06b7620d0082.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Utilize 0,3 como aproximação para log 2. De acordo com os dados fornecidos, o terremoto ocorrido pode ser descrito como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pequeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ligeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Moderado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Grande.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Extremo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

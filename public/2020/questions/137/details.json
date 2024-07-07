@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2020",
+    "index": 137,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.\n\nNa imagem tem-se a informação dos assentos já vendidos e dos assentos ainda disponíveis em um determinado instante.\n\n![](https://enem.dev/2020/questions/137/ff9b404e-91ec-42e5-af3a-e9aa62f10112.png)",
+    "files": [
+        "https://enem.dev/2020/questions/137/ff9b404e-91ec-42e5-af3a-e9aa62f10112.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na image, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/137/17b0e46c-f67a-4fdb-88d2-c3c62f028274.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/137/231c1dc0-6132-49f1-96e9-6122a7ea609b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/137/08971458-249f-4b7b-a76e-58ba41f9b9fa.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/137/6387c790-e6aa-43b8-96a5-608f7df083cf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/137/1e9528c7-0911-4685-a8c0-657950a04b5f.png",
+            "isCorrect": false
+        }
+    ]
+}

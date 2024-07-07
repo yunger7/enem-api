@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2013",
+    "index": 127,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/127/6c4ad328-1883-4e39-a89b-cd5369e58862.png)",
+    "files": [
+        "https://enem.dev/2013/questions/127/6c4ad328-1883-4e39-a89b-cd5369e58862.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A contemporaneidade identificada na performance / instalação do artista mineiro Paulo Nazareth reside principalmente na forma como ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Resgata conhecidas referências do modernismo mineiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utiliza técnicas e suportes tradicionais na construção das formas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Articula questões de identidade, território e códigos de linguagens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Imita o papel das celebridades no mundo contemporâneo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Camufla o aspecto plástico e a composição visual de sua montagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

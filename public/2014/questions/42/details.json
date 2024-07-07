@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2014",
+    "index": 42,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\nO presidente do jornal de maior circulação do país destacava também os avanços econômicos obtidos naqueles vinte anos, mas, ao justificar sua adesão aos militares em 1964, deixava clara sua crença de que a intervenção fora imprescindível para a manutenção da democracia.\n\nDisponivel em: **http://oglobo.globo.com**. Acesso em: 1 set. 2013 (adaplado).\n\n**TEXTO II**\n\nNada pode ser colocado em compensação à perda das liberdades individuais. Não existe nada de bom quando se aceita uma solução autoritária.\n\nFICO, C. **A educação e o golpe de 1964**. Disponivel em: www.brasilrecente.com.Acesso em: 4 abro 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Embora enfatizem a defesa da democracia, as visões do movimento político-militar de 1964 divergem ao focarem, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Razões de Estado – Soberania popular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Ordenação da Nação – Prerrogativas religiosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Imposição das Forças Armadas – Deveres sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Normatização do Poder Judiciário – Regras morais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Contestação do sistema de governo – Tradições culturais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2011",
+    "index": 115,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "No Brasil, a condição cidadã, embora dependa da leitura e da escrita, não se basta pela enunciação do direito, nem pelo domínio desses instrumentos, o que, sem dúvida, viabiliza melhor participação social. A condição cidadã depende, seguramente, da ruptura com o ciclo da pobreza, que penaliza um largo contingente populacional.\n\n**Formação de leitores e construção da cidadania, memória e presença do PROLER**. Rio de Janeiro: FBN, 2008.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao argumentar que a aquisição das habilidades de leitura e escrita não são suficientes para garantir o exercício da cidadania, o autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Critica os processos de aquisição da leitura e da escrita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fala sobre o domínio da leitura e da escrita no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incentiva a participação efetiva na vida da comunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Faz uma avaliação crítica a respeito da condição cidadã do brasileiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Define instrumentos eficazes para elevar a condição social da população do Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

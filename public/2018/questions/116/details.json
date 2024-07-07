@@ -1,0 +1,49 @@
+{
+    "title": "Questão 116 - ENEM 2018",
+    "index": 116,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Células solares à base de![](https://enem.dev/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png) sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de silício. Nessas células, o corante adsorvido sobre o ![](https://enem.dev/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png) é responsável por absorver a energia luminosa ![](https://enem.dev/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png), e o corante excitado (S\\*) é capaz de transferir elétrons para o ![](https://enem.dev/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png). Um esquema dessa célula e os processos envolvidos estão ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.\n\n![](https://enem.dev/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png)",
+    "files": [
+        "https://enem.dev/2018/questions/116/2d27898b-8b13-4d5b-bb48-e79640308974.png",
+        "https://enem.dev/2018/questions/116/6e7c4773-4fd4-43cf-baae-47d2e874e74c.png",
+        "https://enem.dev/2018/questions/116/9a3c2e7d-6301-4343-bb7c-cd88c3bedc79.png",
+        "https://enem.dev/2018/questions/116/c41d5271-b539-48b4-b4b1-118459e8e8e0.png",
+        "https://enem.dev/2018/questions/116/53bc5276-aff8-461d-9dfc-57f3d1fe0731.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/3eaf75c7-ef77-48b0-aad3-94a8b52a6ce2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/b6068734-cd1c-4dc6-ab56-a68d692dc4ea.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/6d6ead61-fc78-43c3-8636-bd86b858325b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/8f024003-e8cd-4bc0-8000-464bdf4a0778.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/116/85dd2cd6-fc8f-4f02-802f-7a0b7d0533c1.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Questão 106 - ENEM 2020",
+    "index": 106,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n![](https://enem.dev/2020/questions/106/3801fbf6-0a3e-4c46-8fc4-c4320a301b21.png)\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n![](https://enem.dev/2020/questions/106/10dde44b-2cca-4b56-ac19-e02b9ad8c6ed.png)\n\nConsidere que a aceleração da gravidade seja igual a ![](https://enem.dev/2020/questions/106/94dd406d-624c-48ad-9818-0e3a20f7b55e.png) e que a densidade da água seja de ![](https://enem.dev/2020/questions/106/c214e00c-3d72-464f-80b7-0bcf86eeae14.png).",
+    "files": [
+        "https://enem.dev/2020/questions/106/3801fbf6-0a3e-4c46-8fc4-c4320a301b21.png",
+        "https://enem.dev/2020/questions/106/10dde44b-2cca-4b56-ac19-e02b9ad8c6ed.png",
+        "https://enem.dev/2020/questions/106/94dd406d-624c-48ad-9818-0e3a20f7b55e.png",
+        "https://enem.dev/2020/questions/106/c214e00c-3d72-464f-80b7-0bcf86eeae14.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

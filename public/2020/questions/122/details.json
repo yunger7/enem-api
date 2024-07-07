@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2020",
+    "index": 122,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O exame parasitológico de fezes é utilizado para detectar  \novos de parasitos. Um dos métodos utilizados,  \ndenominado de centrífugo-flutuação, considera a  \ndensidade dos ovos em relação a uma solução de  \ndensidade 1,15 g mL–1. Assim, ovos que flutuam na  \nsuperfície dessa solução são detectados. Os dados de  \ndensidade dos ovos de alguns parasitos estão  \napresentados na tabela.\n\n![](https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png)",
+    "files": [
+        "https://enem.dev/2020/questions/122/6d38b272-e416-4b4c-a0cf-ff0b323bd6ae.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se a densidade dos ovos e da solução, ovos\nde quais parasitos podem ser detectados por esse método?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A. lumbricoides, A. suum e S. mansoni.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "S. mansoni, T. saginata e Ancylostoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ancylostoma, A. lumbricoides e A. suum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "T. saginata, S. mansoni e A. lumbricoides.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A. lumbricoides, A. suum e T. saginata",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2019",
+    "index": 61,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\nOuve o barulho do rio, meu filho  \nDeixa esse som te embalar  \nAs folhas que caem no rio, meu filho  \nTerminam nas águas do mar  \nQuando amanhã por acaso faltar  \nUma alegria no seu coração  \nLembra do som dessas águas de lá  \nFaz desse rio a sua oração.\n\n**MONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: Sony: Universal Music, 2006 (fragmento).**\n\n**TEXTO II**\n\nO atrativo ecoturístico não é somente o banho de cachoeira, sentar e caminhar pela praia, cavalgar, mas conhecer a biodiversidade, às vezes supostamente em extinção. Observar baleias, nadar com o golfinho, tocar em corais, sair ao encontro de dezenas de jacarés em seu hábitat natural são símbolos que fascinam um ecoturista. A natureza é transformada em espetáculo diferente da vida urbana moderna.\n\n**SANTANA, P. V. Ecoturismo: uma indústria sem chaminé? São Paulo: Labur Edições, 2008.**",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "São identificadas nos textos, respectivamente, as seguintes posturas em relação à natureza:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exploração e romantização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sacralização e profanação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Preservação e degradação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Segregação e democratização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Idealização e mercantilização.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

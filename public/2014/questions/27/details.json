@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2014",
+    "index": 27,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A urbanização brasileira, no início da segunda metade do século XX, promoveu uma radical alteração nas cidades. Ruas foram alargadas, túneis e viadutos foram construídos. O bonde foi a primeira vítima fatal. O destino do sistema ferroviário não foi muito diferente. O transporte coletivo saiu definitivamente dos trilhos.\n\nJANOT, L. F. **A caminho de Guaratiba.** Disponível em: www.iab.org.br. Acesso em: 9 jan. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A relação entre transportes e urbanização é explicada, no texto, pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Retirada dos investimentos estatais aplicados em transporte de massa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Demanda por transporte individual ocasionada pela expansão da mancha urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Presença hegemônica do transporte alternativo localizado nas periferias das cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aglomeração do espaço urbano metropolitano impedindo a construção do transporte metroviário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

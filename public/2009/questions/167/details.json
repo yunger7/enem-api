@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2009",
+    "index": 167,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta informações da área aproximada de cada bioma brasileiro.\n\n![](https://enem.dev/2009/questions/167/2e45ce65-e1cb-4d1c-975d-1a4c2feade5f.jpg)\n\nÉ comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas",
+    "files": [
+        "https://enem.dev/2009/questions/167/2e45ce65-e1cb-4d1c-975d-1a4c2feade5f.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.400",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "140.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1.400.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14.000.000",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

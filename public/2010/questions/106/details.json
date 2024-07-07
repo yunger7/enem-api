@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2010",
+    "index": 106,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O folclore é o retrato da cultura de um povo. A dança popular e folclórica é uma forma de representar a cultura regional, pois retrata seus valores, crenças, trabalho conhecê-la, é de alguma forma se apropriar dela, é enriquecer a própria cultura.\n\nBREGOLATO, R. A. **Cultura Corporal da Dança**. São Paulo: Ícone, 2007.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As manifestações folclóricas perpetuam uma tradição cultural, é obra de um povo que a cria, recria e a perpetua. Sob essa abordagem deixa-se de identificar como dança folclórica brasileira",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O Bumba-meu-boi, que é uma dança teatral onde personagens contam uma história envolvendo crítica social, morte e ressurreição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A Quadrilha das festas juninas, que associam festejos religiosos a celebrações de origens pagãs envolvendo as colheitas e a fogueira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O Congado, que é uma representação de um reinado africano onde se homenageia santos através de música, cantos e dança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O Balé, em que se utilizam músicos, bailarinos e vários outros profissionais para contar uma história em forma de espetáculo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O Carnaval, em que o samba derivado do batuque africano é utilizado com o objetivo de contar ou recriar uma história nos desfiles.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

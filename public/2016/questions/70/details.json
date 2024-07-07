@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2016",
+    "index": 70,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisadores recuperaram DNA de ossos de mamute (_Mammuthus primigenius_) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos confirmada pela técnica do carbono-14.\n\nFAPESP. **DNA de mamute é revelado**. Disponível em: http://agencia.fapesp.br. Acesso em: 13 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A técnica de datação apresentada no texto só é possível devido à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Decomposição de todo o carbono-12 presente no organismo após a morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fixação maior do carbono-14 nos tecidos de organismos após a morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Emissão de carbono-12 pelos tecidos de organismos após a morte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transformação do carbono-12 em carbono-14 ao longo dos anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

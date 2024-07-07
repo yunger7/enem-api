@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2012",
+    "index": 155,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/155/2e31c69a-4a2e-40f7-be2d-de13087cb5c0.png)",
+    "files": [
+        "https://enem.dev/2012/questions/155/2e31c69a-4a2e-40f7-be2d-de13087cb5c0.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "27",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

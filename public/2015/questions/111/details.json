@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2015",
+    "index": 111,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Ao se apossarem do novo território, os europeus ignoraram um universo de antiga sabedoria, povoado por homens e bens unidos por um sistema integrado. A recusa em se inteirar dos valores culturais dos primeiros habitantes levou-os a uma descrição simplista desses grupos e à sua sucessiva destruição.\n\nNa verdade, não existe uma distinção entre a nossa arte e aquela produzida por povos tecnicamente menos desenvolvidos. As duas manifestações devem ser encaradas como expressões diferentes dos modos de sentir e pensar das várias sociedades, mas também como equivalentes, por resultarem de impulsos humanos comuns.\n\nSCATAMACHIA, M. C. M. In: AGUILAR, N. (Org.). **Mostra do redescobrimento: arqueologia**. São Paulo: Fundação Bienal de São Paulo – Associação Brasil 500 anos artes visuais, 2000.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, inexiste distinção entre as artes produzidas pelos colonizadores e pelos colonizados, pois ambas compartilham o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Suporte artístico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nível tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Base antropológica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Concepção estética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Referencial temático.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

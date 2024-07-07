@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2010",
+    "index": 155,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma escola recebeu do governo uma verba de R$ 1000,00 para enviar dois tipos de folhetos pelo correio. O diretor da escola pesquisou que tipos de selos deveriam ser utilizados. Concluiu que, para o primeiro tipo de folheto, bastava um selo de R$ 0,65 enquanto para folhetos do segundo tipo seriam necessários três selos, um de R$ 0,65, um de R$ 0,60 e um de R$ 0,20. O diretor solicitou que se comprassem selos de modo que fossem postados exatamente 500 folhetos do segundo tipo e uma quantidade restante de selos que permitisse o envio do máximo possível de folhetos do primeiro tipo.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantos selos de R$ 0,65 foram comprados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "476",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "675",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "923",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "965",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1538",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

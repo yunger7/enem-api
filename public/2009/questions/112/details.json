@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2009",
+    "index": 112,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2009/questions/112/4d3d4611-5050-4e7e-8329-d76f2c17ca69.jpg)\n\nA feição deles é serem pardos, maneira d’avermelhados, de bons rostos e bons narizes, bem feitos. Andam nus, sem nenhuma cobertura, nem estimam nenhuma cousa cobrir, nem mostrar suas vergonhas. E estão acerca disso com tanta inocência como têm em mostrar o rosto.\n\nCAMINHA, P. V. **A carta.** Disponível em: www.dominiopublico.gov.br.  \nAcesso em: 12 ago. 2009.",
+    "files": [
+        "https://enem.dev/2009/questions/112/4d3d4611-5050-4e7e-8329-d76f2c17ca69.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao se estabelecer uma relação entre a obra de Eckhout e o trecho do texto de Caminha, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ambos se identificam pelas características estéticas marcantes, como tristeza e melancolia, do movimento romântico das artes plásticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O artista, na pintura, foi fiel ao seu objeto, representando-o de maneira realista, ao passo que o texto é apenas fantasioso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A pintura e o texto têm uma característica em comum, que é representar o habitante das terras que sofreriam processo colonizador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O texto e a pintura são baseados no contraste entre a cultura europeia e a cultura indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Há forte direcionamento religioso no texto e na pintura, uma vez que o índio representado é objeto da catequização jesuítica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

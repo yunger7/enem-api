@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2010",
+    "index": 89,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Deseja-se instalar uma estação de geração de energia elétrica em um município localizado no interior de um pequeno vale cercado de altas montanhas de difícil acesso. A cidade é cruzada por um rio, que é fonte de água para consumo, irrigação das lavouras de subsistência e pesca. Na região, que possui pequena extensão territorial, a incidência solar é alta o ano todo. A estação em questão irá abastecer apenas o município apresentado.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual forma de obtenção de energia, entre as apresentadas, é a mais indicada para ser implantada nesse município de modo a causar o menor impacto ambiental?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Termoelétrica, pois é possível utilizar a água do rio no sistema de refrigeração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eólica, pois a geografia do local é própria para a captação desse tipo de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Nuclear, pois o modo de resfriamento de seus sistemas não afetariam a população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fotovoltaica, pois é possível aproveitar a energia solar que chega à superfície do local.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Hidrelétrica, pois o rio que corta o município é suficiente para abastecer a usina construída.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

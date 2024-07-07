@@ -1,0 +1,45 @@
+{
+    "title": "Questão 146 - ENEM 2009",
+    "index": 146,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pousada oferece pacotes promocionais para atrair casais a se hospedarem por até oito dias. A hospedagem seria em apartamento de luxo e, nos três primeiros dias, a diária custaria R$ 150,00, preço da diária fora da promoção. Nos três dias seguintes, seria aplicada uma redução no valor da diária, cuja taxa média de variação, a cada dia, seria de R$ 20,00. Nos dois dias restantes, seria mantido o preço do sexto dia. Nessas condições, um modelo para a promoção idealizada é apresentado no gráfico a seguir, no qual o valor da diária é função do tempo medido em número de dias.\n\n![](https://enem.dev/2009/questions/146/6e823a1c-778f-4d1a-89e6-06619fba287a.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/146/6e823a1c-778f-4d1a-89e6-06619fba287a.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com os dados e com o modelo, comparando o preço que um casal pagaria pela hospedagem por sete dias fora da promoção, um casal que adquirir o pacote promocional por oito dias fará uma economia de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 90,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "R$ 110,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 130,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 150,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 170,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

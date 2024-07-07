@@ -1,0 +1,41 @@
+{
+    "title": "Questão 105 - ENEM 2021",
+    "index": 105,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme  ![](https://enem.dev/2021/questions/105/81f45a24-eda2-40b3-8e46-768ee75a8807.jpg), da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade ![](https://enem.dev/2021/questions/105/57f95cd7-65b6-4b83-8f6d-f86599749ee5.jpg) que atua na região.\n\n![](https://enem.dev/2021/questions/105/6e9bf09f-092e-49cf-b2f9-2885d0f29c26.jpg)",
+    "files": [
+        "https://enem.dev/2021/questions/105/81f45a24-eda2-40b3-8e46-768ee75a8807.jpg",
+        "https://enem.dev/2021/questions/105/57f95cd7-65b6-4b83-8f6d-f86599749ee5.jpg",
+        "https://enem.dev/2021/questions/105/6e9bf09f-092e-49cf-b2f9-2885d0f29c26.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as cargas penetram na região de campo magnético, está representado em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/105/687ce5ec-dd77-42de-b36f-2783bcb67736.jpg",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/105/91a18cde-42ad-42f5-862d-b78c16ee7f0a.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/105/67c0a2c9-deab-456f-8508-1099c98277f8.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/105/b68b115c-a5ed-4665-99a7-01cdc4305c38.jpg",
+            "isCorrect": false
+        }
+    ]
+}

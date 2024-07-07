@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2015",
+    "index": 54,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um importante princípio da biologia, relacionado à transmissão de caracteres e à embriogênese humana, foi quebrado com a descoberta do microquimerismo fetal. Microquimerismo é o nome dado ao fenômeno biológico referente a uma pequena população de células ou DNA presente em um indivíduo, mas derivada de um organismo geneticamente distinto. Investigando-se a presença do cromossomo Y, foi revelado que diversos tecidos de mulheres continham células masculinas. A análise do histórico médico revelou uma correlação extremamente curiosa: apenas as mulheres que antes tiveram filhos homens apresentaram microquimerismo masculino. Essa correlação levou à interpretação de que existe uma troca natural entre células do feto e maternas durante a gravidez.\n\nMUOTRI, A. **Você não é só você**: carregamos células maternas na maioria de nossos órgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O princípio contestado com essa descoberta, relacionado ao desenvolvimento do corpo humano, é o de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O fenótipo das nossas células pode mudar por influência do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A dominância genética determina a expressão de alguns genes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As mutações genéticas introduzem variabilidade no genoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As mitocôndrias e o seu DNA provêm do gameta materno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As nossas células corporais provêm de um único zigoto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

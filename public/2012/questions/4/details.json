@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2012",
+    "index": 4,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/4/ac453b4a-3dcd-43a8-a8d4-88471ae096ca.jpg)\n\nDisponível em: http://quadro-a-quadro.blog.br. Acesso em: 27 jan. 2012.\n\nCom sua entrada no universo dos gibis, o Capitão chegaria para apaziguar a agonia, o autoritarismo militar e combater a tirania. Claro que, em tempos de guerra, um gibi de um herói com uma bandeira americana no peito aplicando um sopapo no Fürer só poderia ganhar destaque, e o sucesso não demoraria muito a chegar.\n\nCOSTA, C. Capitão América, o primeiro vingador: crítica. Disponível em: www.revistastart.com.br.  \nAcesso em: 27 jan. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2012/questions/4/ac453b4a-3dcd-43a8-a8d4-88471ae096ca.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A capa da primeira edição norte-americana da revista do Capitão América demonstra sua associação com a participação dos Estados Unidos na luta contra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A Tríplice Aliança, na Primeira Guerra Mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os regimes totalitários, na Segunda Guerra Mundial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O poder soviético, durante a Guerra Fria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O movimento comunista, na Guerra do Vietnã.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O terrorismo internacional, após 11 de setembro de 2001.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

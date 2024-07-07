@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2010",
+    "index": 8,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/8/a4c1596f-3cc7-4a97-966e-ccc2d1b0db88.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/8/a4c1596f-3cc7-4a97-966e-ccc2d1b0db88.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O esquema mostra depósitos em que aparecem fósseis de animais do Período Jurássico. As rochas em que se encontram esses fósseis são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Magmáticas, pois a ação de vulcões causou as maiores extinções desses animais já conhecidas ao longo da história terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sedimentares, pois os restos podem ter sido soterrados e litificados com o restante dos sedimentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Magmáticas, pois são as rochas mais facilmente erodidas, possibilitando a formação de tocas que foram posteriormente lacradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sedimentares, já que cada uma das camadas encontradas na figura simboliza um evento de erosão dessa área representada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Metamórficas, pois os animais representados precisavam estar perto de locais quentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

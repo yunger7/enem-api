@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2012",
+    "index": 26,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A maior parte dos veículos de transporte atualmente é movida por motores a combustão que utilizam derivados de petróleo. Por causa disso, esse setor é o maior consumidor de petróleo do mundo, com altas taxas de crescimento ao longo do tempo. Enquanto outros setores têm obtido bons resultados na redução do consumo, os transportes tendem a concentrar ainda mais o uso de derivados do óleo.\n\nMURTA, A. **Energia**: o vício da civilização. Rio de Janeiro: Garamond, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um impacto ambiental da tecnologia mais empregada pelo setor de transportes e uma medida para promover a redução do seu uso, estão indicados, respectivamente, em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento da poluição sonora – construção de barreiras acústicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incidência da chuva ácida – estatização da indústria automobilística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Derretimento das calotas polares – incentivo aos transportes de massa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Propagação de doenças respiratórias – distribuição de medicamentos gratuitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Elevação das temperaturas médias – criminalização da emissão de gás carbônico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

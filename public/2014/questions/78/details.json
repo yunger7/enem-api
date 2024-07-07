@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2014",
+    "index": 78,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.\n\nERENO, D. Plásticos de vegetais. **Pesquisa Fapesp**, n. 179, jan. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesses plásticos, a fragmentação da resina polimérica é facilitada porque os carboidratos presentes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dissolvem-se na água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Absorvem água com facilidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caramelizam por aquecimento e quebram.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "São digeridos por organismos decompositores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Decompõem-se espontaneamente em contato com água e gás carbônico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

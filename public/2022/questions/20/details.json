@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2022",
+    "index": 20,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Seis em cada dez pessoas com 15 anos ou mais não praticam esporte ou atividade física. São mais de 100 milhões de sedentários. Esses são dados do estudo _Práticas de esporte e atividade física_, da Pnad 2015, realizado pelo IBGE. A falta de tempo e de interesse são os principais motivos apontados para o sedentarismo. Paralelamente, 73,3% das pessoas de 15 anos ou mais afirmaram que o poder público deveria investir em esporte ou atividades físicas. Observou-se uma relação direta entre escolaridade e renda na realização de esportes ou atividades físicas. Enquanto 17,3% das pessoas que não tinham instrução realizavam diversas práticas corporais, esse percentual chegava a 56,7% das pessoas com superior completo. Entre as pessoas que têm práticas de esporte e atividade física regulares, o percentual de praticantes ia de 31,1%, na classe sem rendimento, a 65,2%, na classe de cinco salários mínimos ou mais. A falta de tempo foi mais declarada pela população adulta, com destaque entre as pessoas de 25 a 39 anos. Entre os adolescentes de 15 a 17 anos, o principal motivo foi não gostarem ou não quererem. Já o principal motivo para praticar esporte, declarado por 11,2 milhões pessoas, foi relaxar ou se divertir, seguido de melhorar a qualidade de vida ou o bem-estar. A falta de instalação esportiva acessível ou nas proximidades foi um motivo pouco citado, demonstrando que a não prática estaria menos associada à infraestrutura disponível.\n\n**Disponível em: www.esporte.gov.br. Acesso em: 9 ago. 2017 (adaptado).**",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base na pesquisa e em uma visão ampliada de saúde, para a prática regular de exercícios ter influência significativa na saúde dos brasileiros, é necessário o desenvolvimento de estratégias que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promovam a melhoria da aptidão da população, dedicando-se mais tempo aos esportes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Combatam o sedentarismo presente em parcela significativa da população no território nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Facilitem a adoção da prática de exercícios, com ações relacionadas à educação e à distribuição de renda.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Auxiliem na construção de mais instalações esportivas e espaços adequados para a prática de atividades físicas e esportes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimulem o incentivo fiscal para a iniciativa privada destinar verbas aos programas nacionais de promoção da saúde pelo esporte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

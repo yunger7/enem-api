@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2021",
+    "index": 123,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar o caule das roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A utilização de auxinas no método de estaquia das roseiras contribui para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Floração da planta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Produção de gemas laterais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Formação de folhas maiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Formação de raízes adventícias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Produção de compostos energéticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

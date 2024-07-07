@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2016",
+    "index": 88,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A elevação de temperatura descrita ocorre porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "As nanopartículas interagem magneticamente com as células do corpo, transferindo calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

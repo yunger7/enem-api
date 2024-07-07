@@ -1,0 +1,53 @@
+{
+    "title": "Questão 115 - ENEM 2021",
+    "index": 115,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material da sua área A, da diferença de temperatura ![](https://enem.dev/2021/questions/115/2d6e91e5-edc0-42dc-8b15-14cf474b9dff.png)T e da espessura d do material, sendo dada pela relação ![](https://enem.dev/2021/questions/115/cdd13f89-f9a8-4c42-9a4b-2a687770790a.jpg). Em panelas com dois materiais, a taxa de condução é dada por ![](https://enem.dev/2021/questions/115/196bcb78-55e8-43c8-bd2c-4e6634418379.jpg), em que ![](https://enem.dev/2021/questions/115/e648c99c-9415-48a9-9b60-81d772fe7be5.jpg) e ![](https://enem.dev/2021/questions/115/db100305-3044-4e95-951d-2a7f9486e2fc.jpg) são as espessuras dos dois materiais, e ![](https://enem.dev/2021/questions/115/c00b2af8-4e60-4741-9aea-ec1ced38dc3c.jpg) e ![](https://enem.dev/2021/questions/115/03cf9ca5-959a-491c-bf13-23843a84270c.jpg) são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro (k = 8 W/m K) e ao aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\n\nCompara-se uma panela de ferro, uma de alumínio e uma composta de ![](https://enem.dev/2021/questions/115/6022cc3f-b163-4fd4-b19d-c53afe7aa71b.jpg) da espessura em cobre e ![](https://enem.dev/2021/questions/115/6f91e72e-1734-445a-8e8d-13678bcefe0e.jpg) da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.",
+    "files": [
+        "https://enem.dev/2021/questions/115/2d6e91e5-edc0-42dc-8b15-14cf474b9dff.png",
+        "https://enem.dev/2021/questions/115/cdd13f89-f9a8-4c42-9a4b-2a687770790a.jpg",
+        "https://enem.dev/2021/questions/115/196bcb78-55e8-43c8-bd2c-4e6634418379.jpg",
+        "https://enem.dev/2021/questions/115/e648c99c-9415-48a9-9b60-81d772fe7be5.jpg",
+        "https://enem.dev/2021/questions/115/db100305-3044-4e95-951d-2a7f9486e2fc.jpg",
+        "https://enem.dev/2021/questions/115/c00b2af8-4e60-4741-9aea-ec1ced38dc3c.jpg",
+        "https://enem.dev/2021/questions/115/03cf9ca5-959a-491c-bf13-23843a84270c.jpg",
+        "https://enem.dev/2021/questions/115/6022cc3f-b163-4fd4-b19d-c53afe7aa71b.jpg",
+        "https://enem.dev/2021/questions/115/6f91e72e-1734-445a-8e8d-13678bcefe0e.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A ordem crescente da mais econômica para a menos econômica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cobre-aço, alumínio e ferro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alumínio, cobre-aço e ferro",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Cobre-aço, ferro e alumínio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alumínio, ferro e cobre-aço",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ferro, alumínio e cobre-aço",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

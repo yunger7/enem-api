@@ -1,0 +1,45 @@
+{
+    "title": "Questão 104 - ENEM 2018",
+    "index": 104,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As pessoas que utilizam objetos cujo princípio de funcionamento é o mesmo do das alavancas aplicam uma força, chamada de força potente, em um dado ponto da barra, para superar ou equilibrar uma segunda força, chamada de resistente, em outro ponto da barra. Por causa das diferentes distâncias entre os pontos de aplicação das forças, potente e resistente, os seus efeitos também são diferentes. Afigura mostra alguns exemplos desses objetos.\n\n![](https://enem.dev/2018/questions/104/8ce5728c-b0b2-4dc8-b70a-e1342e906abc.png)",
+    "files": [
+        "https://enem.dev/2018/questions/104/8ce5728c-b0b2-4dc8-b70a-e1342e906abc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual dos objetos a força potente é maior que a força resistente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pinça.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Alicate.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quebra-nozes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Carrinho de mão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Abridor de garrafa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

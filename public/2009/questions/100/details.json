@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2009",
+    "index": 100,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2009/questions/100/8d5cbf39-b768-437a-a494-eb718d3f64a5.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/100/8d5cbf39-b768-437a-a494-eb718d3f64a5.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Tendo em vista a segunda fala do personagem entrevistado, constata-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O entrevistado deseja convencer o jornalista a não publicar um livro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O principal objetivo do entrevistado é explicar o significado da palavra motivação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "São utilizados diversos recursos da linguagem literária, tais como a metáfora e a metonímia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O entrevistado deseja informar de modo objetivo o jornalista sobre as etapas de produção de um livro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O principal objetivo do entrevistado é evidenciar seu sentimento com relação ao processo de produção de um livro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

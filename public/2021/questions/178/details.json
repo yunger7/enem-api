@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2021",
+    "index": 178,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma unidade de medida comum usada para a expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nas condições estabelecidas, o valor total, em real, obtido, pelo fazendeiro com a venda de todos os terrenos será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "700 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 600 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 900 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 200 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 800 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

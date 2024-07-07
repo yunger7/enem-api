@@ -1,0 +1,43 @@
+{
+    "title": "Questão 67 - ENEM 2016",
+    "index": 67,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Primeiro, em relação àquilo a que chamamos água, quando congela, parece-nos estar a olhar para algo que se tornou pedra ou terra, mas quando derrete e se dispersa, esta torna-se bafo e ar; o ar, quando é queimado, torna-se fogo; e, inversamente, o fogo, quando se contrai e se extingue, regressa à forma do ar; o ar, novamente concentrado e contraído, torna-se nuvem e nevoeiro, mas, a partir destes estados, se for ainda mais comprimido, torna-se água corrente, e de água torna-se novamente terra e pedras; e deste modo, como nos parece, dão geração uns aos outros de forma cíclica.\n\nPLATÃO. **Timeu-Crítias**. Coimbra: CECH, 2011.\n\nDo ponto de vista da ciência moderna, os “quatro elementos” descritos por Platão correspondem, na verdade, às fases sólida, líquida, gasosa e plasma da matéria. As transições entre elas são hoje entendidas como consequências macroscópicas de transformações sofridas pela matéria em escala microscópica.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Excetuando-se a fase de plasma, essas transformações sofridas pela matéria, em nível microscópico, estão associadas a uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Troca de átomos entre as diferentes moléculas do material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Transmutação nuclear dos elementos químicos do material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Redistribuição de prótons entre os diferentes átomos do material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mudança na estrutura espacial formada pelos diferentes constituintes do material.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Alteração nas proporções dos diferentes isótopos de cada elemento presente no material.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

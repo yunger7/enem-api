@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2012",
+    "index": 35,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A experiência que tenho de lidar com aldeias de diversas nações me tem feito ver, que nunca índio fez grande confiança de branco e, se isto sucede com os que estão já civilizados, como não sucederá o mesmo com esses que estão ainda brutos.\n\nNORONHA, M. Carta a J. Caldeira Brant. 2 jan.1751. Apud CHAIM, M. M. Aldeamentos indígenas (Goiás: 1749-1811). São Paulo: Nobel, Brasília: INL, 1983 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em 1749, ao separar-se de São Paulo, a capitania de Goiás foi governada por D. Marcos de Noronha, que atendeu às diretrizes da política indigenista pombalina que incentivava a criação de aldeamentos em função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Das constantes rebeliões indígenas contra os brancos colonizadores, que ameaçavam a produção de ouro nas regiões mineradoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Da propagação de doenças originadas do contato com os colonizadores, que dizimaram boa parte da população indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Do empenho das ordens religiosas em proteger o indígena da exploração, o que garantiu a sua supremacia na administração colonial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Da política racista da Coroa Portuguesa, contrária à miscigenação, que organizava a sociedade em uma hierarquia dominada pelos brancos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Da necessidade de controle dos brancos sobre a população indígena, objetivando sua adaptação às exigências do trabalho regular.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

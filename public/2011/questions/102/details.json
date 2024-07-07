@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2011",
+    "index": 102,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Quem é pobre, pouco se apega, é um giro-o-giro no vago dos gerais, que nem os pássaros de rios e lagoas. O senhor vê: o Zé-Zim, o melhor meeiro meu aqui, risonho e habilidoso. Pergunto: — Zé-Zim, por que é que você não cria galinhas-d’angola, como todo o mundo faz? — Quero criar nada não… — me deu resposta: — Eu gosto muito de mudar… \\[…\\] Belo um dia, ele tora. Ninguém discrepa. Eu, tantas, mesmo digo. Eu dou proteção. \\[…\\] Essa não faltou também à minha mãe, quando eu era menino, no sertãozinho de minha terra. \\[…\\] Gente melhor do lugar eram todos dessa família Guedes, Jidião Guedes; quando saíram de lá, nos trouxeram junto, minha mãe e eu. Ficamos existindo em território baixio da Sirga, da outra banda, ali onde o de-Janeiro vai no São Francisco, o senhor sabe.\n\nROSA, J. G. **Grande Sertão**: Veredas. Rio de Janeiro: José Olympio (fragmento).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na passagem citada, Riobaldo expõe uma situação decorrente de uma desigualdade social típica das áreas rurais brasileiras marcadas pela concentração de terras e pela relação de dependência entre agregados e fazendeiros. No texto, destaca-se essa relação porque o personagem-narrador",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Relata a seu interlocutor a história de Zé-Zim, demonstrando sua pouca disposição em ajudar seus agregados, uma vez que superou essa condição graças à sua força de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Descreve o processo de transformação de um meeiro — espécie de agregado — em proprietário de terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Denuncia a falta de compromisso e a desocupação dos moradores, que pouco se envolvem no trabalho da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mostra como a condição material da vida do sertanejo é dificultada pela sua dupla condição de homem livre e, ao mesmo tempo, dependente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Mantém o distanciamento narrativo condizente com sua posição social, de proprietário de terras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

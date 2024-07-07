@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2011",
+    "index": 173,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/173/2001a836-e42e-40a0-9858-00d6ac482132.png)\n\nEsse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais.",
+    "files": [
+        "https://enem.dev/2011/questions/173/2001a836-e42e-40a0-9858-00d6ac482132.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o gráfico, o período de queda ocorreu entre os anos de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1998 e 2001",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2001 e 2003",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2003 e 2006",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2003 e 2007",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2003 e 2008",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

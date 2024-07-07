@@ -1,0 +1,46 @@
+{
+    "title": "Questão 77 - ENEM 2016",
+    "index": 77,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/77/49b1ba7f-e030-4a6f-a45b-904746c94fec.png)\n\n![](https://enem.dev/2016/questions/77/e6446caa-3305-4442-841d-2fd1af3e86d0.png)",
+    "files": [
+        "https://enem.dev/2016/questions/77/49b1ba7f-e030-4a6f-a45b-904746c94fec.png",
+        "https://enem.dev/2016/questions/77/e6446caa-3305-4442-841d-2fd1af3e86d0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "250,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "300,0 g",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "450,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "600,0 g",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

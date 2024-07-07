@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2012",
+    "index": 47,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos problemas ambientais vivenciados pela agricultura hoje em dia é a compactação do solo, devida ao intenso tráfego de máquinas cada vez mais pesadas, reduzindo a produtividade das culturas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma das formas de prevenir o problema de compactação do solo é substituir os pneus dos tratores por pneus mais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Largos, reduzindo a pressão sobre o solo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Estreitos, reduzindo a pressão sobre o solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Largos, aumentando a pressão sobre o solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estreitos, aumentando a pressão sobre o solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Altos, reduzindo a pressão sobre o solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

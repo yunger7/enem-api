@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2020",
+    "index": 169,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na presença ou ausência de dois antígenos, A e B, na superfície das células vermelhas do sangue. Como dois antígenos estão envolvidos, os quatro tipos sanguíneos distintos são:\n\n*   Tipo A: apenas o antígeno A está presente;\n*   Tipo B: apenas o antígeno B está presente;\n*   Tipo AB: ambos os antígenos estão presentes;\n*   Tipo O: nenhum dos antígenos está presente.\n\nDisponível em: http://saude.hsw.uol.com.br. Acesso em: 15 abr. 2012 (adaptado).\n\nForam coletadas amostras de sangue de 200 pessoas e, após análise laboratorial, foi identificado que em 100 amostras está presente o antígeno A, em 110 amostras há presença do antígeno B e em 20 amostras nenhum dos antígenos está presente.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dessas pessoas que foram submetidas à coleta de sangue, o número das que possuem o tipo sanguíneo A é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "70.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

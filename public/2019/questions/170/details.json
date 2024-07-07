@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2019",
+    "index": 170,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 mg desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 kg pelo período de 5 dias.\n\nEsse medicamento pode ser comprado em frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento.\n\nConsidere que 1 g desse medicamento ocupe um volume de 1 cm³.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A capacidade do frasco, em mililitro, que esses pais deverão comprar é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "250",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

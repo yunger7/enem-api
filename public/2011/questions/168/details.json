@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2011",
+    "index": 168,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida).\n\nO jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada.\n\nArthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Arthur, pois a soma que escolheu é a menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Caio, pois a soma que escolheu é a maior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

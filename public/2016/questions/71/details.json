@@ -1,0 +1,43 @@
+{
+    "title": "Questão 71 - ENEM 2016",
+    "index": 71,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As características descritas referem-se a plantas adaptadas ao bioma:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cerrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pampas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pantanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Manguezal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Mata de Cocais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

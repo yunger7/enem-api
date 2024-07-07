@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2013",
+    "index": 178,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/178/402e3690-ae8e-4967-a6fb-169619428b3a.png)",
+    "files": [
+        "https://enem.dev/2013/questions/178/402e3690-ae8e-4967-a6fb-169619428b3a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considere que AC = 7/5 BD e que l é a medida de um dos lados da base da bandeja.\nQual deve ser o menor valor da razão lBD para que uma bandeja tenha capacidade de portar exatamente quatro copos de uma só vez?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14/5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24/5",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "28/5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2021",
+    "index": 177,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binárias, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:\n\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\n\n![](https://enem.dev/2021/questions/177/e82478b8-f2bb-43db-88d0-49359625343c.png)",
+    "files": [
+        "https://enem.dev/2021/questions/177/e82478b8-f2bb-43db-88d0-49359625343c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "101",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1101",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1111",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10101",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "11001",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

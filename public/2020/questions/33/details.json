@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2020",
+    "index": 33,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nO caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos.\n\n**TEXTO II**\n\n![](https://enem.dev/2020/questions/33/b55ca6dc-ef55-4bdb-b9d7-a91df9eb6d6f.png)\n\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/33/b55ca6dc-ef55-4bdb-b9d7-a91df9eb6d6f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Disseminação da arte poética em um veículo não convencional.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Manutenção da expectativa das pessoas ao andarem pelas ruas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Necessidade de exposição de poemas pequenos em diferentes suportes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Característica corriqueira do suporte lambe-lambe, muito comum nas ruas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Exposição da beleza escondida das esquinas da cidade de Belo Horizonte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

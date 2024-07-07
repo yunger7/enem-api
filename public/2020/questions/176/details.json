@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2020",
+    "index": 176,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura\n\n![](https://enem.dev/2020/questions/176/a2a0721b-5aab-4802-a096-4da3fd68828b.png)\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.",
+    "files": [
+        "https://enem.dev/2020/questions/176/a2a0721b-5aab-4802-a096-4da3fd68828b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/176/12650113-adeb-44d9-bab9-5f322b12a945.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/176/0d5af792-b0f2-4d56-bb8f-263822707a1e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/176/32d4ff53-fb72-426e-b6f1-4ecb7cca2855.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/176/80664cc4-530f-455b-83b9-2cc381ef7bec.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/176/4a0cbbd6-844f-445a-b758-4b01e2711e39.png",
+            "isCorrect": true
+        }
+    ]
+}

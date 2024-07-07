@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2012",
+    "index": 89,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Quando colocados em água, os fosfolipídeos tendem a formar lipossomos, estruturas formadas por uma bicamada lipídica, conforme mostrado na figura. Quando rompida, essa estrutura tende a se reorganizar em um novo lipossomo.\n\n![](https://enem.dev/2012/questions/89/1ed05b97-f090-4859-b41f-6f2154fc6bbd.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/89/1ed05b97-f090-4859-b41f-6f2154fc6bbd.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse arranjo característico se deve ao fato de os fosfolipídios apresentarem uma natureza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Polar, ou seja, serem inteiramente solúveis em água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apolar, ou seja, não serem solúveis em solução aquosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Anfotérica, ou seja, podem comportar-se como ácidos e bases.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Insaturada, ou seja, possuírem duplas ligações em sua estrutura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Anfifílica, ou seja, possuírem uma parte hidrofílica e outra hidrofóbica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

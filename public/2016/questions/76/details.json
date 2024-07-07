@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2016",
+    "index": 76,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/76/d04791bb-ac0a-454a-b9c3-d52906fd5345.png)",
+    "files": [
+        "https://enem.dev/2016/questions/76/d04791bb-ac0a-454a-b9c3-d52906fd5345.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A reação de SN entre metóxido de sódio (Nu– = CH3O–) e brometo de metila fornece um composto orgânico pertencente à função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Éter.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Éster.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Haleto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hidrocarboneto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

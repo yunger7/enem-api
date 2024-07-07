@@ -1,0 +1,45 @@
+{
+    "title": "Questão 62 - ENEM 2011",
+    "index": 62,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/62/64a9d484-ee63-442b-83cb-9a1a44fa5d5a.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "N.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "P.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CO2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "PO43-.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

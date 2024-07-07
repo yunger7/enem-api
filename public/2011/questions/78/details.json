@@ -1,0 +1,45 @@
+{
+    "title": "Questão 78 - ENEM 2011",
+    "index": 78,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/78/321e751e-8b01-4e24-b49e-c72ed36b4df7.png)",
+    "files": [
+        "https://enem.dev/2011/questions/78/321e751e-8b01-4e24-b49e-c72ed36b4df7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A característica de funcionamento que garante essa economia é devida",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À altura do sifão de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ao volume do tanque de água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "À altura do nível de água no vaso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao diâmetro do distribuidor de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "À eficiência da válvula de enchimento do tanque.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

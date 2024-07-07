@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2017",
+    "index": 2,
+    "year": 2017,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**El virus del papiloma humano (HPV) también es un problema de hombres**\n\nPara algunos hombres, el virus del papiloma humano (HPV) es algo muy lejano. Se olvidan de que ellos también se infectan y de que, al contagiarnos, nos están regalando un pasaporte mágico para el cáncer cérvico-uterino — segunda causa de muerte entre las mujeres de México —; incluso me ha tocado escuchar en boca de algunos de ellos que “sólo se trata de una infeccioncita”. Pues bien, el HPV también es un problema de hombres, no sólo porque propaga la infección entre la población femenina, sino también porque este virus produce otros problemas de salud tanto en hombres como en mujeres, incluyendo verrugas genitales y cáncer de boca y garganta que, si bien no son tan conocidos o alarmantes por su cantidad, como otros tipos de cáncer, también constituyen un riesgo. Por lo anterior, la Academia Americana de Pediatría decidió enfrentarse al HPV mediante vacunas que se ponen tanto a mujeres como hombres. Los especialistas afirman que la vacuna es más efectiva si se administra antes de que el niño se vuelva sexualmente activo, y responde mejor en el organismo de varones entre 9 y 15 años.\n\nALBITER, K. Disponível em: http://vivirmexico.com. Acesso em: 10 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto aborda a temática do HPV. Ao discorrer sobre o contágio e a prevenção do papiloma humano, a autora informa aos leitores que esse vírus é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estudado pela Academia Americana de Pediatria por seus efeitos em crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Responsável pelo aumento de casos de câncer na população jovem mexicana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ignorado pelos homens por se restringir à população feminina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Combatido por vacinas que devem ser aplicadas tanto em mulheres quanto em homens.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Classificado como um problema superável pela facilidade com que se enfrenta a infecção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

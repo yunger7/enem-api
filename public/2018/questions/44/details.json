@@ -1,0 +1,43 @@
+{
+    "title": "Questão 44 - ENEM 2018",
+    "index": 44,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Farejador de Plágio: uma ferramenta contra a cópia ilegal No mundo acadêmico ou nos veículos de comunicação, as cópias ilegais podem surgir de diversas maneiras, sendo integrais, parciais ou paráfrases. Para ajudar a combater esse crime, o professor Maximiliano Zambonatto Pezzin, engenheiro de computação, desenvolveu junto com os seus alunos o programa Farejador de Plágio. O programa é capaz de detectar: trechos contínuos e fragmentados, frases soltas, partes de textos reorganizadas, frases reescritas, mudanças na ordem dos períodos e erros fonéticos e sintáticos. Mas como o programa realmente funciona? Considerando o texto como uma sequência de palavras, a ferramenta analisa e busca trecho por trecho nos sites de busca, assim como um professor desconfiado de um aluno faria. A diferença é que o programa permite que se pesquise em vários buscadores, gerando assim muito mais resultados.\n\nDisponível em: http://reporterunesp.jor.br. Acesso em: 19 mar. 2018",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo o texto, a ferramenta Farejador de Plágio alcança seu objetivo por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Seleção de cópias integrais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Busca em sites especializados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Simulação da atividade docente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comparação de padrões estruturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Identificação de sequência de fonemas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

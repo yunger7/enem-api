@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2015",
+    "index": 157,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As exportações de soja do Brasil totalizaram 4,129 milhões de toneladas no mês de julho de 2012, e registraram um aumento em relação ao mês de julho de 2011, embora tenha havido uma baixa em relação ao mês de maio de 2012.\n\nDisponível em: www.noticiasagricolas.com.br. Acesso em: 2 ago. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantidade, em quilogramas, de soja exportada pelo Brasil no mês de julho de 2012 foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,129 x 10³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,129 x 106",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,129 x 109",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4,129 x 1012",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,129 x 1015",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

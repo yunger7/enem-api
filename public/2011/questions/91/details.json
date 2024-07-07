@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2011",
+    "index": 91,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Going to university seems to reduce the risk of dying from coronary heart disease. An American study that involved 10 000 patients from around the world has found that people who leave school before the age of 16 are five times more likely to suffer a heart attack and die than university graduates.\n\nWorld Report News. **Magazine Speak Up**. Ano XIV, n° 170. Editora Camelot, 2001.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em relação às pesquisas, a utilização da expressão university graduates evidencia a intenção de informar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As doenças do coração atacam dez mil pacientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As doenças do coração ocorrem na faixa dos dezesseis anos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As pesquisas sobre doenças são divulgadas no meio acadêmico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Jovens americanos são alertados dos riscos de doenças do coração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior nível de estudo reduz riscos de ataques do coração.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

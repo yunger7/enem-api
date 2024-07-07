@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2009",
+    "index": 140,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O governo cedeu terrenos para que famílias construíssem suas residências com a condição de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. Ao receber o terreno retangular ABCD, em que AB= BC/2 , Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual AE = AB/5 é lado do quadrado.\n\n![](https://enem.dev/2009/questions/140/ef5fc6bc-3de0-4ee7-ae4c-cdbca574c187.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/140/ef5fc6bc-3de0-4ee7-ae4c-cdbca574c187.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse caso, a área definida por Antônio atingiria exatamente o limite determinado pela condição se ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Duplicasse a medida do lado do quadrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Triplicasse a medida do lado do quadrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Triplicasse a área do quadrado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Ampliasse a medida do lado do quadrado em 4%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliasse a área do quadrado em 4%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

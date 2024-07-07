@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2012",
+    "index": 42,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O uso da água aumenta de acordo com as necessidades da população no mundo. Porém, diferentemente do que se possa imaginar, o aumento do consumo de água superou em duas vezes o crescimento populacional durante o século XX.\n\nTEIXEIRA, W. et al. **Decifrando a Terra**. São Paulo: Cia. Editora Nacional, 2009.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma estratégia socioespacial que pode contribuir para alterar a lógica de uso da água apresentada no texto é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ampliação de sistemas de reutilização hídrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Expansão da irrigação por aspersão das lavouras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intensificação do controle do desmatamento de florestas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adoção de técnicas tradicionais de produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criação de incentivos fiscais para o cultivo de produtos orgânicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

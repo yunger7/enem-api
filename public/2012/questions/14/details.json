@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2012",
+    "index": 14,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A soma do tempo gasto por todos os navios de carga na espera para atracar no porto de Santos é igual a 11 anos — isso, contando somente o intervalo de janeiro a outubro de 2011. O problema não foi registrado somente neste ano. Desde 2006 a perda de tempo supera uma década.\n\n**Folha de S. Paulo**, 25 dez. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A situação descrita gera consequências em cadeia, tanto para a produção quanto para o transporte. No que se refere à territorialização da produção no Brasil contemporâneo, uma dessas consequências é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realocação das exportações para o modal aéreo em função da rapidez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dispersão dos serviços financeiros em função da busca de novos pontos de importação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Redução da exportação de gêneros agrícolas em função da dificuldade para o escoamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Priorização do comércio com países vizinhos em função da existência de fronteiras terrestres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estagnação da indústria de alta tecnologia em função da concentração de investimentos na infraestrutura de circulação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2020",
+    "index": 114,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Dois engenheiros estão verificando se uma cavidade perfurada no solo está de acordo com o planejamento de uma obra, cuja profundidade requerida é de 30 m. O teste é feito por um dispositivo denominado oscilador de áudio de frequência variável, que permite relacionar a profundidade com os valores da frequência de duas ressonâncias consecutivas, assim como em um tubo sonoro fechado. A menor frequência de ressonância que o aparelho mediu foi 135 Hz. Considere que a velocidade do som dentro da cavidade perfurada é de 360 m s–1.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se a profundidade estiver de acordo com o projeto, qual será o valor da próxima frequência de ressonância que\nserá medida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "137 Hz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "138 Hz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "141 Hz.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "144 Hz",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "159 Hz",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

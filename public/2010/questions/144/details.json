@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2010",
+    "index": 144,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/144/e6f27641-d27b-4c0b-b5f0-d8d74429aecb.png)",
+    "files": [
+        "https://enem.dev/2010/questions/144/e6f27641-d27b-4c0b-b5f0-d8d74429aecb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As figuras mostram que as proporcionalidades existentes entre resistência (R) e comprimento (ℓ), resistência (R) e área da secção transversal (A), e entre comprimento (ℓ) e área da secção transversal (A) são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Direta, direta e direta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Direta, direta e inversa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Direta, inversa e direta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Inversa, direta e direta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Inversa, direta e inversa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

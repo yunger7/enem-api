@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2018",
+    "index": 127,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere, em um fragmento ambiental, uma árvore matriz com frutos (M) e outras cinco que produziram flores e são apenas doadoras de pólen (DP1, DP2, DP3, DP4 e DP5). Foi excluída a capacidade de autopolinização das árvores. Os genótipos da matriz, da semente (S1) e das prováveis fontes de pólen foram obtidos pela análise de dois locos (loco A e loco B) de marcadores de DNA, conforme a figura.\n\n![](https://enem.dev/2018/questions/127/df359b30-1d9a-49fd-859e-e609f90c2f0f.png)",
+    "files": [
+        "https://enem.dev/2018/questions/127/df359b30-1d9a-49fd-859e-e609f90c2f0f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A progênie S1 recebeu o pólen de qual doadora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "DP1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "DP2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "DP3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "DP4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "DP5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

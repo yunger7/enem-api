@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2022",
+    "index": 84,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**  \nUma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro.\n\n**MERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.**\n\nTEXTO II  \nOs grandes autores de cinema nos pareceram confrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos.\n\n**DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).**",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Admitindo o belo como fenômeno transcendental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reafirmando a vivência estética como juízo de gosto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Considerando o olhar como experiência de conhecimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Apontando as formas de expressão como auxiliares da razão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estabelecendo a inteligência como implicação das representações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2022",
+    "index": 177,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.  \nCinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.\n\n![](https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png)",
+    "files": [
+        "https://enem.dev/2022/questions/177/fb1d11e4-76d3-4657-b78f-84e7bcd81f6c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

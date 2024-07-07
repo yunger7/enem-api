@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2023",
+    "index": 125,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "**Pais com síndrome de Down**\n\nA síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz uma menina sem a síndrome de Down\n\nMORENO, T. **Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia**. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê.\nO médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Todos normais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Todos tetrassômicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apenas normais ou tetrassômicos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apenas trissômicos ou tetrassômicos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Normais, trissômicos ou tetrassômicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2010",
+    "index": 14,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No dia 28 de fevereiro de 1985, era inaugurada a Estrada de Ferro Carajás, pertencente e diretamente operada pela Companhia Vale do Rio Doce (CVRD), na região Norte do país, ligando o interior ao principal porto da região, em São Luís. Por seus, aproximadamente, 900 quilômetros de linha, passam, hoje, 5353 vagões e 100 locomotivas.\n\nDísponivel em: http://www.transportes.gov.br. Acesso em 27 jul. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A ferrovia em questão é de extrema importância para a logística do setor primário da economia brasileira, em especial para porções dos estados do Pará e Maranhão. Um argumento que destaca a importância estratégica dessa porção do território é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Produção de energia para as principais áreas industriais do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Produção sustentável de recursos minerais não metálicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Capacidade de produção de minerais metálicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Logística de importação de matérias-primas industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Produção de recursos minerais energéticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 99 - ENEM 2018",
+    "index": 99,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A identificação de riscos de produtos perigosos para o transporte rodoviário é obrigatória e realizada por meio da sinalização composta por um painel de segurança, de cor alaranjada, e um rótulo de risco. As informações inseridas no painel de segurança e no rótulo de risco, conforme determina a legislação, permitem que se identifique o produto transportado e os perigos a ele associados.\n\nA sinalização mostrada identifica uma substância que está sendo transportada em um caminhão.\n\n![](https://enem.dev/2018/questions/99/8e53b4cc-eb8c-4b19-bc30-da15e9d6dc2f.png)\n\nOs três algarismos da parte superior do painel indicam o “Número de risco”. O número 268 indica tratar-se de um gás (2), tóxico (6) e corrosivo (8). Os quatro dígitos da parte inferior correspondem ao “Número ONU”, que identifica o produto transportado.\n\nBRASIL. **Resolução n. 420**, de 12/02/2004, da Agência Nacional de Transportes Terrestres (ANTT)/Ministério dos Transportes (adaptado).\n\nABNT. **NBR 7500**: identificação para o transporte terrestre, manuseio, movimentação e  \narmazenamento de produtos. Rio de Janeiro, 2004 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/99/8e53b4cc-eb8c-4b19-bc30-da15e9d6dc2f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando a identificação apresentada no caminhão, o código 1005 corresponde à substância",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/99/15d1914c-bd03-4dfb-93fb-00ea59ffa5c2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/99/39217f9f-218c-48c6-bf9c-788e6509d8d5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/99/06a8896c-bc0f-48ab-b602-78665e39653d.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/99/2cce7be0-9e94-4b6f-aad6-687db7f435a2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/99/8de912e3-67b5-430a-8408-165fc86858ac.png",
+            "isCorrect": false
+        }
+    ]
+}

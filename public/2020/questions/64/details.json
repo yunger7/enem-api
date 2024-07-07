@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2020",
+    "index": 64,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É difícil imaginar que nos anos 1990, num país com setores da população na pobreza absoluta e sem uma rede de benefícios sociais em que se apoiar, um governo possa abandonar o papel de promotor de programas de geração de emprego, de assistência social, de desenvolvimento da infraestrutura e de promoção de regiões excluídas, na expectativa de que o mercado venha algum dia a dar uma resposta adequada a tudo isso.\n\nSORJ, B. **A nova sociedade brasileira**. Rio de Janeiro: Jorge Zahar, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse contexto, a criticada postura dos governos frente à situação social do país coincidiu com a priorização de que medidas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão dos investimentos nas empresas públicas e nos bancos estatais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Democratização do crédito habitacional e da aquisição de moradias populares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Enxugamento da carga fiscal individual e da contribuição tributária empresarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reformulação do acesso ao ensino superior e do financiamento científico nacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

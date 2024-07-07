@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2018",
+    "index": 25,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018/questions/25/19eb3de3-07ba-4000-89ca-e2e07755b526.png)\n\nROSA, R. **Grande sertão: veredas**: adaptação da obra de João Guimarães Rosa.  \nSão Paulo: Globo, 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/25/19eb3de3-07ba-4000-89ca-e2e07755b526.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A imagem integra uma adaptação em quadrinhos da obra Grande sertão: veredas, de Guimarães Rosa. Na representação gráfica, a inter-relação de diferentes linguagens caracteriza-se por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Romper com a linearidade das ações da narrativa literária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ilustrar de modo fidedigno passagens representativas da história.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Articular a tensão do romance à desproporcionalidade das formas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Potencializar a dramaticidade do episódio com recursos das artes visuais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Desconstruir a diagramação do texto literário pelo desequilíbrio da composição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

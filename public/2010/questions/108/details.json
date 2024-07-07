@@ -1,0 +1,46 @@
+{
+    "title": "Questão 108 - ENEM 2010",
+    "index": 108,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/108/ecaceb52-a03d-4701-b44b-271cb3ba06db.jpg)\n\n![](https://enem.dev/2010/questions/108/a42bfa42-04ec-4b0c-b9f2-ded7c031a3b0.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/108/ecaceb52-a03d-4701-b44b-271cb3ba06db.jpg",
+        "https://enem.dev/2010/questions/108/a42bfa42-04ec-4b0c-b9f2-ded7c031a3b0.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A capa da revista Época de 12 de outubro de 2009 traz um anúncio sobre o lançamento do livro digital no Brasil. Já o texto II traz informações referentes à abrangência de acessibilidade das tecnologias de comunicação e informação nas diferentes regiões do país. A partir da leitura dos dois textos, infere-se que o advento do livro digital no Brasil",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Possibilitará o acesso das diferentes regiões do país às informações antes restritas, uma vez que eliminará as distâncias, por meio da distribuição virtual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criará a expectativa de viabilizar a democratização da leitura, porém, esbarra na insuficiência do acesso à internet por meio da telefonia celular, ainda deficiente no país.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Fará com que os livros impressos tornem-se obsoletos, em razão da diminuição dos gastos com os produtos digitais gratuitamente distribuídos pela internet.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Garantirá a democratização dos usos da tecnologia no país, levando em consideração as características de cada região no que se refere aos hábitos de leitura e acesso à informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Impulsionará o crescimento da qualidade da leitura dos brasileiros, uma vez que as características do produto permitem que a leitura aconteça a despeito das adversidades geopolíticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

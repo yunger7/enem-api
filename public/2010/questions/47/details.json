@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2010",
+    "index": 47,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As ondas eletromagnéticas, como a luz visível e as ondas de rádio, viajam em linha reta em um meio homogêneo. Então, as ondas de rádio emitidas na região litorânea do Brasil não alcançariam a região amazônica do Brasil por causa da curvatura da Terra. Entretanto sabemos que é possível transmitir ondas de rádio entre essas localidades devido à ionosfera.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com ajuda da ionosfera, a transmissão de ondas planas entre o litoral do Brasil e a região amazônica é possível por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reflexão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Polarização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interferência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

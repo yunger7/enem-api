@@ -1,0 +1,45 @@
+{
+    "title": "Questão 120 - ENEM 2018",
+    "index": 120,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos manuais de instalação de equipamentos de som há o alerta aos usuários para que observem a correta polaridade dos fios ao realizarem as conexões das caixas de som. As figuras ilustram o esquema de conexão das caixas de som de um equipamento de som mono, no qual os alto-falantes emitem as mesmas ondas. No primeiro caso, a ligação obedece às especificações do fabricante e no segundo mostra uma ligação na qual a polaridade está invertida.\n\n![](https://enem.dev/2018/questions/120/e403cea9-6388-436a-b720-04624eb01c32.png)",
+    "files": [
+        "https://enem.dev/2018/questions/120/e403cea9-6388-436a-b720-04624eb01c32.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O que ocorre com os alto-falantes E e D se forem conectados de acordo com o segundo esquema?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O alto-falante E funciona normalmente e o D entra em curto-circuito e não emite som.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O alto-falante E emite ondas sonoras com frequências ligeiramente diferentes do alto-falante D provocando o fenômeno de batimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O alto-falante E emite ondas sonoras com frequências e fases diferentes do alto-falante D provocando o fenômeno conhecido como ruído.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O alto-falante E emite ondas sonoras que apresentam um lapso de tempo em relação às emitidas pelo alto-falante D provocando o fenômeno de reverberação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O alto-falante E emite ondas sonoras em oposição de fase às emitidas pelo alto-falante D provocando o fenômeno de interferência destrutiva nos pontos equidistantes aos alto-falantes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

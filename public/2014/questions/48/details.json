@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2014",
+    "index": 48,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/48/4b2624ac-087f-43e1-8654-e47e9593c1e0.png)",
+    "files": [
+        "https://enem.dev/2014/questions/48/4b2624ac-087f-43e1-8654-e47e9593c1e0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

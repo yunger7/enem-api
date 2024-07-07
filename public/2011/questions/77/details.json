@@ -1,0 +1,45 @@
+{
+    "title": "Questão 77 - ENEM 2011",
+    "index": 77,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/77/66d5c063-86bf-470d-b505-2ad354f815c2.png)",
+    "files": [
+        "https://enem.dev/2011/questions/77/66d5c063-86bf-470d-b505-2ad354f815c2.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distância percorrida pela régua aumenta mais rapidamente que o tempo de reação porque a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Energia mecânica da régua aumenta, o que a faz cair mais rápido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Resistência do ar aumenta, o que faz a régua cair com menor velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aceleração de queda da régua varia, o que provoca um movimento acelerado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Força peso da régua tem valor constante, o que gera um movimento acelerado.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Velocidade da régua é constante, o que provoca uma passagem linear de tempo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

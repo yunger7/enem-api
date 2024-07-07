@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2020",
+    "index": 154,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.\n\n![](https://enem.dev/2020/questions/154/6dd0ecd2-2d2d-4039-88e5-9f2728158724.png)\n\nA escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro.",
+    "files": [
+        "https://enem.dev/2020/questions/154/6dd0ecd2-2d2d-4039-88e5-9f2728158724.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Usando notação científica, qual é a representação do comprimento dessa miniatura, em metro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 x 10-1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,0 x 10-3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,0 x 10-4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,0 x 10-6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,0 x 10-7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

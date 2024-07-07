@@ -1,0 +1,45 @@
+{
+    "title": "Questão 48 - ENEM 2013",
+    "index": 48,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/48/c5d6d8a0-0501-49c7-b4e9-2300ccca31aa.png)",
+    "files": [
+        "https://enem.dev/2013/questions/48/c5d6d8a0-0501-49c7-b4e9-2300ccca31aa.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Igual no aquecimento e igual no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior no aquecimento e igual no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Menor no aquecimento e igual no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior no aquecimento e menor no resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior no aquecimento e maior no resfriamento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

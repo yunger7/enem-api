@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2009",
+    "index": 37,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sabe-se que o olho humano não consegue diferenciar componentes de cores e vê apenas a cor resultante, diferentemente do ouvido, que consegue distinguir, por exemplo, dois instrumentos diferentes tocados simultaneamente. Os raios luminosos do espectro visível, que têm comprimento de onda entre 380 nm e 780 nm, incidem na córnea, passam pelo cristalino e são projetados na retina. Na retina, encontram-se dois tipos de fotorreceptores, os cones e os bastonetes, que convertem a cor e a intensidade da luz recebida em impulsos nervosos. Os cones distinguem as cores primárias: vermelho, verde e azul, e os bastonetes diferenciam apenas níveis de intensidade, sem separar comprimentos de onda. Os impulsos nervosos produzidos são enviados ao cérebro por meio do nervo óptico, para que se dê a percepção da imagem.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um indivíduo que, por alguma deficiência, não consegue captar as informações transmitidas pelos cones, perceberá um objeto branco, iluminado apenas por luz vermelha, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Um objeto indefinido, pois as células que captam a luz estão inativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Um objeto rosa, pois haverá mistura da luz vermelha com o branco do objeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um objeto verde, pois o olho não consegue diferenciar componentes de cores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Um objeto cinza, pois os bastonetes captam luminosidade, porém não diferenciam cor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Um objeto vermelho, pois a retina capta a luz refletida pelo objeto, transformando-a em vermelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

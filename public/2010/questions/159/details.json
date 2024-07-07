@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2010",
+    "index": 159,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/159/d9f06afe-c730-4e5a-ab08-dfb562d30d85.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/159/d9f06afe-c730-4e5a-ab08-dfb562d30d85.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se uma menina, com 64 kg de massa, apresenta IMC igual a 25 kg/m2, então ela possui RIP igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,4 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,5 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20 cm/kg1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40 cm/kg1/3.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

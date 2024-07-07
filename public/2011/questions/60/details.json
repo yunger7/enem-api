@@ -1,0 +1,45 @@
+{
+    "title": "Questão 60 - ENEM 2011",
+    "index": 60,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/60/4d540a4d-d54f-4c26-836a-710921f4cbbd.png)\n\nUma pessoa adquiriu um chuveiro do modelo A e, ao ler o manual, verificou que precisava ligá-lo a um disjuntor de 50 amperes. No entanto, intrigou-se com o fato de que o disjuntor a ser utilizado para uma correte instalação de um chuveiro do modelo B devia possuir amperagem 40% menor.",
+    "files": [
+        "https://enem.dev/2011/questions/60/4d540a4d-d54f-4c26-836a-710921f4cbbd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se os chuveiros de modelos A e B, funcionando à mesma potência de 4 400 W, a razão entre as suas respectivas resistências elétricas, RA e RB, que justifica a diferença de dimensionamento dos disjuntores, é mais próxima de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "0,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

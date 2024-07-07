@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2014",
+    "index": 53,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Embora seja um conceito fundamental da Biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Modificação de características.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Incremento no tamanho corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Complexificação de seus sistemas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Melhoria de processos e estruturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Especialização para uma determinada finalidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

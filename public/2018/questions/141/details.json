@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2018",
+    "index": 141,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A prefeitura de um pequeno município do interior decide colocar postes para  iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$512 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$520 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$528 000,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R$552 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$584 000,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

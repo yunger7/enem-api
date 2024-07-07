@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2020",
+    "index": 130,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de  temperatura maior para uma determinada faixa de frequências.\n\nSAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado).\n\nPara verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente.\n\n![](https://enem.dev/2020/questions/130/dd0c4cef-83b4-4f1f-b3ad-61655da87a3a.png)",
+    "files": [
+        "https://enem.dev/2020/questions/130/dd0c4cef-83b4-4f1f-b3ad-61655da87a3a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em qual dos recipientes a água terá maior temperatura ao final do experimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

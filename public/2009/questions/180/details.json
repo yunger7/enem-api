@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2009",
+    "index": 180,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um médico está estudando um novo medicamento que combate um tipo de câncer em estágios avançados. Porém, devido ao forte efeito dos seus componentes, a cada dose administrada há uma chance de 10% de que o paciente sofra algum dos efeitos colaterais observados no estudo, tais como dores de cabeça, vômitos ou mesmo agravamento dos sintomas da doença. O médico oferece tratamentos compostos por 3, 4, 6, 8 ou 10 doses do medicamento, de acordo com o risco que o paciente pretende assumir.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se um paciente considera aceitável um risco de até 35% de chances de que ocorra algum dos efeitos colaterais durante o tratamento, qual é o maior número admissível de doses para esse paciente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 doses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 doses.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6 doses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8 doses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10 doses.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

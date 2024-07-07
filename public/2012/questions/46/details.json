@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2012",
+    "index": 46,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para diminuir o acúmulo de lixo e o desperdício de materiais de valor econômico e, assim, reduzir a exploração de recursos naturais, adotou-se, em escala internacional, a política dos três erres: Redução, Reutilização e Reciclagem.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um exemplo de reciclagem é a utilização de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Garrafas de vidro retornáveis para cerveja ou refrigerante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Latas de alumínio como material para fabricação de lingotes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Sacos plásticos de supermercado como acondicionantes de lixo caseiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Embalagens plásticas vazias e limpas para acondicionar outros alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Garrafas PET recortadas em tiras para fabricação de cerdas de vassouras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

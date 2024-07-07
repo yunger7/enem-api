@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2014",
+    "index": 88,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).\n\nCaCO3(s) + SO2(g) → CaSO3(s) + CO2(g) (1)\n\nPor sua vez, o sulfito de cálcio formado por ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.\n\n2 CaSO3(s) + O2(g) → 2CaSO4(s) (2)\n\nAs massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol e 40 g/mol, respectivamente.\n\nBAIRD, C. **Química ambiental**. Porto Alegre: Bookman, 2002 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "108.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "122.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "136.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "245.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

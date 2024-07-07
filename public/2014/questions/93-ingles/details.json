@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2014",
+    "index": 93,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**The Road Not Taken (by Robert Frost)**\n\nTwo roads diverged in a wood, and I —  \nI took the one less traveled by,  \nAnd that has made all the difference.\n\nDisponível em: www.poetryfoundation.org. Acesso em: 29 nov. 2011 (fragmento).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Estes são os versos finais do famoso poema The Road Not Taken, do poeta americano Robert Frost. Levando-se em consideração que a vida é comumente metaforizada como uma viagem, esses versos indicam que o autor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Festeja o fato de ter sido ousado na escolha que fez em sua vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Lamenta por ter sido um viajante que encontrou muitas bifurcações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Viaja muito pouco e que essa escolha fez toda a diferença em sua vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reconhece que as dificuldades em sua vida foram todas superadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Percorre várias estradas durante as diferentes fases de sua vida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

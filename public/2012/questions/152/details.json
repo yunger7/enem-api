@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2012",
+    "index": 152,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em exposições de artes plásticas, é usual que estátuas sejam expostas sobre plataformas giratórias. Uma medida de segurança é que a base da escultura esteja integralmente apoiada sobre a plataforma. Para que se providencie o equipamento adequado, no caso de uma base quadrada que será fixada sobre uma plataforma circular, o auxiliar técnico do evento deve estimar a medida _R_ do raio adequado para a plataforma em termos da medida _L_ do lado da base da estátua.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual relação entre R e L o auxiliar técnico deverá apresentar de modo que a exigência de segurança seja cumprida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/152/1dc33ce8-535d-4502-917d-b1d1ca52d5ab.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/152/66e7c13b-a7c4-431d-a72c-9f63b3b4f1f9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/152/32ffdfbb-dd66-41a9-b2c2-cc6ed1cc2668.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/152/0b5a0e31-232e-4214-a9f3-cd4fff19cc9d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2012/questions/152/9026b0e8-1acb-4887-ada6-e1889a31ff04.png",
+            "isCorrect": false
+        }
+    ]
+}

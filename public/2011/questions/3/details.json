@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2011",
+    "index": 3,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/3/4f4821ed-38b4-43e9-aa4b-274ef546b8ed.png)\n\nDisponível em: http://www1.folha.uol.com.br. Acesso em: 17 abr. 2010 (adaptado). (Foto: Reprodução/Enem)\n\nO movimento representado na imagem, do início dos anos de 1990, arrebatou milhares de jovens no Brasil.",
+    "files": [
+        "https://enem.dev/2011/questions/3/4f4821ed-38b4-43e9-aa4b-274ef546b8ed.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse contexto, a juventude, movida por um forte sentimento cívico,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aliou-se aos partidos de oposição e organizou a campanha Diretas Já.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Manifestou-se contra a corrupção e pressionou pela aprovação da Lei da Ficha Limpa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Engajou-se nos protestos relâmpago e utilizou a internet para agendar suas manifestações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Espelhou-se no movimento estudantil de 1968 e protagonizou ações revolucionárias armadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tornou-se porta-voz da sociedade e influenciou no processo de impeachment do então presidente Collor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

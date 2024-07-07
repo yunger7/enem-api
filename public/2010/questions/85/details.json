@@ -1,0 +1,43 @@
+{
+    "title": "Questão 85 - ENEM 2010",
+    "index": 85,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Decisão de asfaltamento da rodovia MG-010, acompanha da introdução de espécies exóticas, e a prática de incêndios criminosos, ameaçam o sofisticado ecossistema do campo rupestre da reserva da Serra do Espinhaço. As plantas nativas desta região, altamente adaptadas a uma alta concentração de alumínio, que inibe o crescimento das raízes e dificultam a absorção de nutrientes e água, estão sendo substituídas por espécies invasoras que não teriam naturalmente adaptação para este ambiente, no entanto elas estão dominando as margens da rodovia, equivocadamente chamada de “estrada ecológica”. Possivelmente a entrada de espécies de plantas exóticas neste ambiente foi provocada pelo uso, neste empreendimento, de um tipo de asfalto (cimento-solo), que possui uma mistura rica em cálcio, que causou modificações químicas aos solos adjacentes à rodovia MG-010.\n\nScientific American. Brasil. Ano 7, nº 79. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa afirmação baseia-se no uso de cimento-solo, mistura rica em cálcio que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inibe a toxicidade do alumínio, elevando o pH dessas áreas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Inibe a toxicidade do alumínio, reduzindo o pH dessas áreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumenta a toxicidade do alumínio, elevando o pH dessas áreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumenta a toxicidade do alumínio, reduzindo o pH dessas áreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Neutraliza a toxicidade do alumínio, reduzindo o pH dessas áreas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

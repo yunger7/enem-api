@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2023",
+    "index": 150,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.\n\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C = 0,9q",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "C = 0,1q",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C = 1 − 0,1q",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C = 1 − 0,9q",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C = q − 10",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

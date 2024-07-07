@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2014",
+    "index": 47,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.\n\n_O Hoje, 15 out. 2011 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para suprir o déficit nutricional a que os produtos rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vitaminas A e E.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Frutose e sacarose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aminoácidos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aminoácidos essenciais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ácidos graxos saturados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

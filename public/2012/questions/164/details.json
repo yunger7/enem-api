@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2012",
+    "index": 164,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "16 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "75 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

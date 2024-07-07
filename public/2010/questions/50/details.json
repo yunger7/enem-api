@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2010",
+    "index": 50,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em nosso cotidiano, utilizamos as palavras “calor” e “temperatura” de forma diferente de como elas são usadas no meio científico. Na linguagem corrente, calor é identificado como “algo quente” e temperatura mede a “quantidade de calor de um corpo”. Esses significados, no entanto, não conseguem explicar diversas situações que podem ser verificadas na prática.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Do ponto de vista científico, que situação prática mostra a limitação dos conceitos corriqueiros de calor e temperatura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A temperatura da água pode ficar constante durante o tempo em que estiver fervendo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Uma mãe coloca a mão na água da banheira do bebê para verificar a temperatura da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A chama de um fogão pode ser usada para aumentar a temperatura da água em uma panela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A água quente que está em uma caneca é passada para outra caneca a fim de diminuir sua temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Um forno pode fornecer calor para uma vasilha de água que está em seu interior com menor temperatura do que a dele.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

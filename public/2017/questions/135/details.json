@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2017",
+    "index": 135,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A terapia celular tem sido amplamente divulgada como revolucionária, por permitir a regeneração de tecidos a partir de células novas. Entretanto, a técnica de se introduzirem novas células em um tecido, para o tratamento de enfermidades em indivíduos, já era aplicada rotineiramente em hospitais.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A que técnica refere-se o texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vacina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Biópsia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Hemodiálise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Quimioterapia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transfusão de sangue.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

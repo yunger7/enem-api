@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2020",
+    "index": 100,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura.\n\n![](https://enem.dev/2020/questions/100/be9ac81e-eeb8-4ad2-b10d-25c4c422d759.png)\n\nPara realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico.",
+    "files": [
+        "https://enem.dev/2020/questions/100/be9ac81e-eeb8-4ad2-b10d-25c4c422d759.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cl2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CO",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CO2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "HCl",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

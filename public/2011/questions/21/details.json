@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2011",
+    "index": 21,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A ação democrática consiste em todos tomarem parte do processo decisório sobre aquilo que terá consequência na vida de toda coletividade.\n\nGALLO, S. etal. Ética e Cidadania. Caminhos da Filosofia. Campinas: Papirus, 1997 (adaptado).\n\nTEXTO II\n\nÉ necessário que haja liberdade de expressão, fiscalização sobre órgãos governamentais e acesso por parte da população às informações trazidas a público pela imprensa.\n\nDisponível em: http://www.observatoriodaimprensa.com.br. Acesso em: 24 abr. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Partindo da perspectiva de democracia apresentada no Texto I, os meios de comunicação, de acordo com o Texto II, assumem um papel relevante na sociedade por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Orientarem os cidadãos na compra dos bens necessários à sua sobrevivência e bem-estar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fornecerem informações que fomentam o debate político na esfera pública.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Apresentarem aos cidadãos a versão oficial dos fatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Propiciarem o entretenimento, aspecto relevante para conscientização política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Promoverem a unidade cultural, por meio das transmissões esportivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

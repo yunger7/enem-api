@@ -1,0 +1,43 @@
+{
+    "title": "Questão 47 - ENEM 2017",
+    "index": 47,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Após a Declaração Universal dos Direitos Humanos pela ONU, em 1948, a Unesco publicou estudos de cientistas de todo o mundo que desqualificaram as doutrinas racistas e demonstraram a unidade do gênero humano. Desde então, a maioria dos próprios cientistas europeus passou a reconhecer o caráter discriminatório da pretensa superioridade racial do homem branco e a condenar as aberrações cometidas em seu nome.\n\nSILVEIRA, R. Os selvagens e a massa: papel do racismo científico na montagem da hegemonia ocidental. Afro-Ásia, n. 23, 1999 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A posição assumida pela Unesco, a partir de 1948, foi motivada por acontecimentos então recentes, dentre os quais se destacava o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ataque feito pelos japoneses à base militar americana de Pearl Harbor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Desencadeamento da Guerra Fria e de novas rivalidades entre nações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Morte de milhões de soldados nos combates da Segunda Guerra Mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Execução de judeus e eslavos presos em guetos e campos de concentração nazistas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Lançamento de bombas atômicas em Hiroshima e Nagasaki pelas forças norte-americanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

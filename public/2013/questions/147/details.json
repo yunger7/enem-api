@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2013",
+    "index": 147,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/147/3167f5c3-7c37-42fc-9abf-e5b01abc1bea.png)",
+    "files": [
+        "https://enem.dev/2013/questions/147/3167f5c3-7c37-42fc-9abf-e5b01abc1bea.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

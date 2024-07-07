@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2013",
+    "index": 43,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.\n\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. **Folha de S. Paulo**, 2 dez. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução da utilização elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação do uso bioenergético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Expansão das fontes renováveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Contenção da demanda urbano-industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Intensificação da dependência geotérmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

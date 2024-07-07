@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2022",
+    "index": 118,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2002, foi publicado um artigo científico que  \nrelacionava alterações na produção de hormônios sexuais  \nde sapos machos expostos à atrazina, um herbicida, com  \no desenvolvimento anômalo de seus caracteres sexuais  \nprimários e secundários. Entre os animais sujeitos à  \ncontaminação, observaram-se casos de hermafroditismo  \ne desmasculinização da laringe. O estudo em questão  \ncomparou a concentração de um hormônio específico  \nno sangue de machos expostos ao agrotóxico com a de  \noutros machos e fêmeas que não o foram (controles).  \nOs resultados podem ser vistos na figura.\n\n![](https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png)\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to  \nthe Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of**  \n**the National Academy of Sciences**, n. 8, 2002 (adaptado).",
+    "files": [
+        "https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas informações do texto, qual é o hormônio\ncujas concentrações estão representadas na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estrogênio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Feromônio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Testosterona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Somatotrofina",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hormônio folículo estimulante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

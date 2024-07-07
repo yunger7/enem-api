@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2020",
+    "index": 4,
+    "year": 2020,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**A Minor Bird**\n\nI have wished a bird would fly away,  \nAnd not sing by my house all day;\n\nHave clapped my hands at him from the door  \nWhen it seemed as if I could bear no more.  \nThe fault must partly have been in me.  \nThe bird was not to blame for his keys.\n\nAnd of course there must be something wrong  \nIn waiting to silence any song.\n\nFROST, R. West-running Brook. New York: Henry Holt and Company, 1928.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No poema de Robert Frost, as palavras fault e blame revelam por parte do eu lírico uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Culpa por não poder cuidar do pássaro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Atitude errada por querer matar o pássaro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Necessidade de entender o silêncio do pássaro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sensibilização com relação à natureza do pássaro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Irritação quanto à persistência do canto do pássaro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

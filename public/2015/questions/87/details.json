@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2015",
+    "index": 87,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O formato das células de organismos pluricelulares é extremamente variado. Existem células discoides, como é o caso das hemácias, as que lembram uma estrela, como os neurônios, e ainda algumas alongadas, como as musculares.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em um mesmo organismo, a diferenciação dessas células ocorre por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Produzirem mutações específicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Possuírem DNA mitocondrial diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apresentarem conjunto de genes distintos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Expressarem porções distintas do genoma.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Terem um número distinto de cromossomos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

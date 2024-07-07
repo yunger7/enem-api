@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2017",
+    "index": 79,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\nSólon é o primeiro nome grego que nos vem à mente quando terra e dívida são mencionadas juntas. Logo depois de 600 a.C., ele foi designado “legislador” em Atenas, com poderes sem precedentes, porque a exigência de redistribuição de terras e o cancelamento das dívidas não podiam continuar bloqueados pela oligarquia dos proprietários de terra por meio da força ou de pequenas concessões.\n\nFINLEY, M. **Economia e sociedade na Grécia antiga**. São Paulo: WMF Martins Fontes, 2013 (adaptado).\n\n**TEXTO II**\n\nA “Lei das Doze Tábuas” se tornou um dos textos fundamentais do direito romano, uma das principais heranças romanas que chegaram até nós. A publicação dessas leis, por volta de 450 a.C., foi importante, pois o conhecimento das “regras do jogo” da vida em sociedade é um instrumento favorável ao homem comum e potencialmente limitador da hegemonia e arbítrio dos poderosos.\n\nFUNARI, P. P. **Grécia e Roma**. São Paulo: Contexto, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O ponto de convergência entre as realidades sociopolíticas indicadas nos textos consiste na ideia de que a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Discussão de preceitos formais estabeleceu a democracia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Invenção de códigos jurídicos desarticulou as aristocracias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Formulação de regulamentos oficiais instituiu as sociedades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Definição de princípios morais encerrou os conflitos de interesses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criação de normas coletivas diminuiu as desigualdades de tratamento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

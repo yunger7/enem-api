@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2009",
+    "index": 104,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Diferentemente do texto escrito, que em geral compele os leitores a lerem numa onda linear – da esquerda para a direita e de cima para baixo, na página  \nimpressa – hipertextos encorajam os leitores a moverem-se de um bloco de texto a outro, rapidamente e não sequencialmente. Considerando que o hipertexto oferece uma multiplicidade de caminhos a seguir, podendo ainda o leitor incorporar seus caminhos e suas decisões como novos caminhos, inserindo informações novas, o leitor-navegador passa a ter um papel mais ativo e uma oportunidade diferente da de um leitor de texto impresso. Dificilmente dois leitores de hipertextos farão os mesmos caminhos e tomarão as mesmas decisões.\n\nMARCUSCHI, L. A. **Cognição, linguagem e práticas interacionais.**  \nRio: Lucerna, 2007.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No que diz respeito à relação entre o hipertexto e o conhecimento por ele produzido, o texto apresentado deixa claro que o hipertexto muda a noção tradicional de autoria, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "É o leitor que constrói a versão final do texto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O autor detém o controle absoluto do que escreve.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aclara os limites entre o leitor e o autor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Propicia um evento textual-interativo em que apenas o autor é ativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Só o autor conhece o que eletronicamente se dispõe para o leitor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

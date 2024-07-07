@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2014",
+    "index": 139,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A razão entre a largura da nova porta e a largura da porta anterior é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7/8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8/7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8/9",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9/8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

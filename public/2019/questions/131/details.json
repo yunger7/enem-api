@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2019",
+    "index": 131,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A agricultura de precisão reúne técnicas agrícolas que consideram particularidades locais do solo ou lavoura a fim de otimizar o uso de recursos. Uma das formas de adquirir informações sobre essas particularidades é a fotografia aérea de baixa altitude realizada por um veículo aéreo não tripulado (vant). Na fase de aquisição é importante determinar o nível de sobreposição entre as fotografias. A figura ilustra como uma sequência de imagens é coletada por um vant e como são formadas as sobreposições frontais.\n\nO operador do vant recebe uma encomenda na qual as imagens devem ter uma sobreposição frontal de 20% em um terreno plano. Para realizar a aquisição das imagens, seleciona uma altitude H fixa de voo de 1 000 m, a uma velocidade constante de 50 m s–1. A abertura da câmera fotográfica do vant é de 90º. Considere tg (45°) = 1.\n\n**Natural Resources Canada. Concepts of Aerial Photography. Disponível em: [www.nrcan.gc.ca](http://www.nrcan.gc.ca/). Acesso em: 26 abr. 2019 (adaptado).**\n\n![](https://enem.dev/2019/questions/131/a2265fd0-0e5f-4119-baf0-00d89418d62c.png)",
+    "files": [
+        "https://enem.dev/2019/questions/131/a2265fd0-0e5f-4119-baf0-00d89418d62c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com que intervalo de tempo o operador deve adquirir duas imagens consecutivas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "40 segundos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "32 segundos",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "28 segundos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16 segundos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8 segundos",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

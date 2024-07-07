@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2020",
+    "index": 109,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento da pressão interna e os riscos de explosão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dilatação da panela e a desconexão com sua tampa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Perda da qualidade nutritiva do alimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Deformação da borracha de vedação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Consumo de gás desnecessário.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2011",
+    "index": 69,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os sintomas mais sérios da Gripe A, causada pelo vírus H1N1, foram apresentados por pessoas mais idosas e por gestantes. O motivo aparente é a menor imunidade desses grupos contra o vírus. Para aumentar a imunidade populacional relativa ao vírus da gripe A, o governo brasileiro distribuiu vacinas para os grupos mais suscetíveis.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A vacina contra o H1N1, assim como qualquer outra vacina contra agentes causadores de doenças infecto-contagiosas aumenta a imunidade das pessoas porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Possui anticorpos contra o agente causador da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Possui proteínas que eliminam o agente causador da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estimula a produção de glóbulos vermelhos pela medula óssea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Possui linfócitos B e T que neutralizam o agente causador da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimula a produção de anticorpos contra o agente causador da doença.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

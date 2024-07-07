@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2010",
+    "index": 162,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados\n\n![](https://enem.dev/2010/questions/162/3a48f3aa-f9b3-457a-9ffc-a48f280a2e19.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/162/3a48f3aa-f9b3-457a-9ffc-a48f280a2e19.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para que a propaganda seja fidedigna à porcentagem da área que aparece na divulgação, a medida do lado do retângulo que representa os 4%, deve ser de aproximadamente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17 mm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "160 mm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "167 mm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

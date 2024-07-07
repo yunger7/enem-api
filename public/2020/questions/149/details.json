@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2020",
+    "index": 149,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (_f_) de uma palavra em um dado texto com o seu ranking (_r_). Ela é dada por\n\n![](https://enem.dev/2020/questions/149/2d8babc0-0742-463e-81ce-b59315ecfef6.png)\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, _r_ = 1 para a palavra mais frequente, _r_ = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\n\nDisponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/149/2d8babc0-0742-463e-81ce-b59315ecfef6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nos valores de X = log (r) e Y = log (f), é possível estimar valores para A e B.\nNo caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/149/2d21dea0-30c0-4149-80c4-e787a1ea4b0a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/149/3da19e5d-4355-4e19-8ca2-f2350bd05c81.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/149/967ee169-6628-4c0b-b11d-52892773875f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/149/86c3898b-ea61-4713-9f98-8f45bb6e81b7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/149/4f3b7abd-f603-4692-9c84-7db33533c78c.png",
+            "isCorrect": false
+        }
+    ]
+}

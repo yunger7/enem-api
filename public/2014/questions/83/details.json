@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2014",
+    "index": 83,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png)",
+    "files": [
+        "https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O ambiente que necessita de biorremediação é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solo I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solo II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Água I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Água II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Água III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

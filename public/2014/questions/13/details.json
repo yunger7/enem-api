@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2014",
+    "index": 13,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.\n\nSAINT-EXUPÉRY, A. **O Pequeno Príncipe.** Rio de Janeiro: Agir, 1996.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A diferença espacial citada é causada por qual característica física da Terra?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Achatamento de suas regiões polares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Movimento em torno de seu próprio eixo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Arredondamento de sua forma geométrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Variação periódica de sua distância do Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Inclinação em relação ao seu plano de órbita.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

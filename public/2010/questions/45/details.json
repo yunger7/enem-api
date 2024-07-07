@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2010",
+    "index": 45,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/45/a703a5c4-df7b-46c0-9a46-17f2771dbf24.jpg)\n\nDemocracia: “regime político no qual a soberania é  \nexercida pelo povo, pertence ao conjunto dos cidadãos.”\n\nJAPIASSÚ, H.; MARCONDES, D. Dicionário Básico de Filosofia. Rio de Janeiro: Zahar, 2006.",
+    "files": [
+        "https://enem.dev/2010/questions/45/a703a5c4-df7b-46c0-9a46-17f2771dbf24.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma suposta “vacina” contra o despotismo, em um contexto democrático, tem por objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impedir a contratação de familiares para o serviço público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reduzir a ação das instituições constitucionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Combater a distribuição equilibrada de poder.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Evitar a escolha de governantes autoritários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Restringir a atuação do Parlamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

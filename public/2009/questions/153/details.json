@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2009",
+    "index": 153,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Suponha que, na escultura do artista Emanoel Araújo, mostrada na figura a seguir, todos os prismas numerados em algarismos romanos são retos, com bases triangulares, e que as faces laterais do poliedro II são perpendiculares à sua própria face superior, que, por sua vez, é um triângulo congruente ao triângulo base dos prismas. Além disso, considere que os prismas I e III são perpendiculares ao prisma IV e ao poliedro II.\n\n![](https://enem.dev/2009/questions/153/0aaaf8f3-e87d-435c-901f-40781e411de9.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/153/0aaaf8f3-e87d-435c-901f-40781e411de9.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Imagine um plano paralelo à face α do prisma I, mas que passe pelo ponto P pertencente à aresta do poliedro II, indicado na figura. A interseção desse plano imaginário com a escultura contém",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dois triângulos congruentes com lados correspondentes paralelos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Dois retângulos congruentes e com lados correspondentes paralelos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dois trapézios congruentes com lados correspondentes perpendiculares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Dois paralelogramos congruentes com lados correspondentes paralelos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dois quadriláteros congruentes com lados correspondentes perpendiculares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2018",
+    "index": 94,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Anabolismo e catabolismo são processos celulares antagônicos, que são controlados principalmente pela ação hormonal. Por exemplo, no fígado a insulina atua como um hormônio com ação anabólica, enquanto o glucagon tem ação catabólica e ambos são secretados em resposta ao nível de glicose sanguínea.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em caso de um indivíduo com hipoglicemia, o hormônio citado que atua no catabolismo induzirá o organismo a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realizar a fermentação lática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metabolizar aerobicamente a glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produzir aminoácidos a partir de ácidos graxos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Transformar ácidos graxos em glicogênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimular a utilização do glicogênio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

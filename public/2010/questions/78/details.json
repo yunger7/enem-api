@@ -1,0 +1,43 @@
+{
+    "title": "Questão 78 - ENEM 2010",
+    "index": 78,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Duas irmãs que dividem o mesmo quarto de estudos combinaram de comprar duas caixas com tampas para guardarem seus pertences dentro de suas caixas, evitando, assim, a bagunça sobre a mesa de estudos. Uma delas comprou uma metálica, e a outra, uma caixa de madeira de área e espessura lateral diferentes, para facilitar a identificação. Um dia as meninas foram estudar para a prova de Física e, ao se acomodarem na mesa de estudos, guardarem seus celulares ligados dentro de suas caixas. Ao longo desse dia, uma delas recebeu ligações telefônicas, enquanto os amigos da outra tentavam ligar e recebiam a mensagem de que o celular estava fora da área de cobertura ou desligado.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para explicar essa situação, um físico deveria afirmar que o material da caixa, cujo telefone celular não recebeu as ligações é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Madeira, e o telefone não funcionava porque a madeira não é um bom condutor de eletricidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metal, e o telefone não funcionava devido à blindagem eletrostática que o metal proporcionava.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Metal, e o telefone não funcionava porque o metal refletia todo tipo de radiação que nele incidia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Metal, e o telefone não funcionava porque a área lateral da caixa de metal era maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Madeira, e o telefone não funcionava porque a espessura desta caixa era maior que a espessura da caixa de metal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

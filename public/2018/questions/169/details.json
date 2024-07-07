@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2018",
+    "index": 169,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os valores possíveis para X são, apenas,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X > 1 500.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "X < 3 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 500 < X < 2 250.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 500 < X < 3 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 250 < X < 3 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

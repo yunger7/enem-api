@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2017",
+    "index": 65,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A representação de Demócrito é semelhante à de Anaxágoras, na medida em que um infinitamente múltiplo é a origem; mas nele a determinação dos princípios fundamentais aparece de maneira tal que contém aquilo que para o que foi formado não é, absolutamente, o aspecto simples para si. Por exemplo, partículas de carne e de ouro seriam princípios que, através de sua concentração, formam aquilo que aparece como figura.\n\nHEGEL, G.W. Crítica moderna. In:SOUZA, J.C. (Org.). Os pré-socráticos: vida e obra. São Paulo: Nova Cultural, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto faz uma apresentação crítica acerca do pensamento de Demócrito, segundo o qual o “princípio constitutivo das coisas” estava representado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Número, que fundamenta a criação dos deuses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Devir, que simboliza o constante movimento dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Água, que expressa a causa material da origem do universo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Imobilidade, que sustenta a existência do ser atemporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Átomo, que explica o surgimento dos entes.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

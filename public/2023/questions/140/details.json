@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2023",
+    "index": 140,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.\n\n![](https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png)",
+    "files": [
+        "https://enem.dev/2023/questions/140/846c1155-c9f0-48ad-a862-f9bf883c3935.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mediana = média < moda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mediana = moda < média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mediana < média < moda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Moda < média < mediana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Moda < mediana < média.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

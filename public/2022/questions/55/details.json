@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2022",
+    "index": 55,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Solos salinos ou alomórficos apresentam como característica comum uma concentração muito alta de sais solúveis e/ou de sódio trocável. Eles ocorrem nos locais mais baixos do relevo, em regiões áridas e semiáridas e próximas do mar. Em regiões semiáridas, por exemplo, o polígono das secas do Nordeste brasileiro, os locais menos elevados recebem água que se escoa dos declives adjacentes, durante as chuvas que caem em alguns meses do ano. Essa água traz soluções de sais minerais e evapora-se rapidamente antes de infiltrar-se totalmente, havendo então, cada vez que esse processo é repetido, um pequeno acúmulo de sais no horizonte superficial que, com o passar dos anos, provoca a salinização do solo. Nas últimas décadas, a expansão das atividades agrícolas na região tem ampliado esse processo.\n\n**LEPSCH, |. F. Solos: formação e conservação. São Paulo: Melhoramentos, 1993 (adaptado).**",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As atividades agrícolas, desenvolvidas na região mencionada, intensificam o problema ambiental exposto ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realizar florestamentos de pinus, desrespeitando a prática do pousio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Utilizar sistemas de irrigação, desprezando uma drenagem adequada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Instalar açudes nos grotões, retardando a velocidade da vazão fluvial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desmatar áreas de preservação permanente, causando assoreamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aplicar fertilizantes de origem orgânica, modificando a química da terra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

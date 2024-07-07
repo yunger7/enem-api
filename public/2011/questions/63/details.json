@@ -1,0 +1,46 @@
+{
+    "title": "Questão 63 - ENEM 2011",
+    "index": 63,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png)\n\n![](https://enem.dev/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png)",
+    "files": [
+        "https://enem.dev/2011/questions/63/b1d6b8a8-5a09-4f2e-878c-4babac69b332.png",
+        "https://enem.dev/2011/questions/63/6abf1b0d-f8c8-4cc2-ad35-8e177d6ae1c6.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual a cor da substância que deu origem ao espectro da Figura 1?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Violeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Laranja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermelho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

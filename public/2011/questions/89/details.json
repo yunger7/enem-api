@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2011",
+    "index": 89,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante as estações chuvosas, aumentam no Brasil as campanhas de prevenção à dengue, que têm como objetivo a redução da proliferação do mosquito Aedes aegypti, transmissor do vírus da dengue.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que proposta preventiva poderia ser efetivada para diminuir a reprodução desse mosquito?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Colocação de telas nas portas e janelas, pois o mosquito necessita de ambientes cobertos e fechados para a sua reprodução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Substituição das casas de barro por casas de alvenaria, haja vista que o mosquito se reproduz na parede das casas de barro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Remoção dos recipientes que possam acumular água, porque as larvas do mosquito se desenvolvem nesse meio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Higienização adequada de alimentos, visto que as larvas do mosquito se desenvolvem nesse tipo de substrato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Colocação de filtros de água nas casas, visto que a reprodução do mosquito acontece em águas contaminadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

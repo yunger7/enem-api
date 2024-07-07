@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2015",
+    "index": 73,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A bomba  \nreduz neutros e neutrinos, e abana-se com o leque da  \nreação em cadeia\n\nANDRADE, C. D. **Poesia completa e prosa**. Rio de Janeiro: Aguilar, 1973 (fragmento)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fissão do 235U ocorre liberação de grande quantidade de calor, que dá continuidade à reação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fissão do 235U ocorre liberação de energia, que vai desintegrando o isótopo 238U, enriquecendo-o em mais 235U.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fissão do 235U ocorre uma liberação de nêutrons, que bombardearão outros núcleos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Fusão do 235U com 238U ocorre formação de neutrino, que bombardeará outros núcleos radioativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fusão do 235U com 238U ocorre formação de outros elementos radioativos mais pesados, que desencadeiam novos processos de fusão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

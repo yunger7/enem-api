@@ -1,0 +1,45 @@
+{
+    "title": "Questão 71 - ENEM 2014",
+    "index": 71,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema representa reações que ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho. O excesso de dióxido de carbono na atmosfera pode afetar os recifes de corais.\n\n![](https://enem.dev/2014/questions/71/e948057c-b97b-4224-872f-475907a0faeb.png)",
+    "files": [
+        "https://enem.dev/2014/questions/71/e948057c-b97b-4224-872f-475907a0faeb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O resultado desse processo nos corais é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Seu branqueamento, levando à sua morte e extinção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Excesso de fixação de cálcio, provocando calcificação indesejável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Menor incorporação de carbono, afetando seu metabolismo energético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estímulo da atividade enzimática, evitando a descalcificação dos esqueletos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

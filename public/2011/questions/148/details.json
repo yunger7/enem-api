@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2011",
+    "index": 148,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos.\n\nCinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6 000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados.\n\nDisponível em: http://www1.folha.uol.com.br. Acesso em: 21 abr. 2010 (adaptado).\n\nConsidere que 1 metro equivale a aproximadamente 3,3 pés.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 390 pés",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9 390 pés",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11 200 pés",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "19 800 pés",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 800 pés",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

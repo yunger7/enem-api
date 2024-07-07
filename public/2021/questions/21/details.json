@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2021",
+    "index": 21,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Texto I**\n\n**O mito da estiagem em São Paulo**\n\nOs estoques de água doce são inesgotáveis, na medida em que são alimentados principalmente pelos oceanos, infinitos via evaporação e precipitação, ou seja, pelo ciclo hidrológico, que depende de forças físicas as quais o homem nunca poderá interromper. Enquanto existirem, o ciclo funcionará e os estoques de água doce nos continentes serão repostos indefinidamente.  \nObviamente que a água não se distribui equitativamente pelo planeta. Há regiões com muita água, normalmente na zona tropical, na qual a evaporação é maior, e regiões áridas, onde, por razões específicas da dinâmica climática, as taxas de evaporação são maiores do que a precipitação, gerando déficit de reposição de estoques de água doce.\n\nDisponível em: www.cartanaescola.com.br. Acesso em: 17 jan. 2015 (adaptado)\n\n**Texto II**\n\nO processo de sedimentação no fundo do lago de reservatório é um processo lento. Os sedimentos vão formando argila, que é uma rocha impermeável. Então, a água daquele lago não vai alimentar os aquíferos. Mesmo tendo muita quantidade de água superficial, ela não consegue penetrar no solo para alimentar os aquíferos. Se não for usada no consumo, ela vai simplesmente evaporar e vai cair em outro lugar, qual os aquíferos não conseguem recuperar seu nível, porque não recebem água.\n\nDisponível em: www.jornalopcao.com.br. Acesso em: 17 jan. 2015 (adaptado)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os textos I e II abordam a situação dos reservatórios de água doce do planeta. Entretanto, a divergência entre eles está na ideia de que é possível",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Manter os estoques de água doce.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Utilizar a água superficial para o consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Repor os estoques de água doce em regiões áridas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reduzir as taxas de precipitação e evaporação da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Equalizar a distribuição de água doce nas diferentes regiões",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

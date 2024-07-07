@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2019",
+    "index": 172,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.\n\n![](https://enem.dev/2019/questions/172/4edb5f3b-3acb-4c8a-8f39-bdd23d843061.png)\n\nSabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.\n\nO gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012.",
+    "files": [
+        "https://enem.dev/2019/questions/172/4edb5f3b-3acb-4c8a-8f39-bdd23d843061.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fevereiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Março.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Maio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

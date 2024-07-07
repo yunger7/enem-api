@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2011",
+    "index": 164,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4 800 W consome 4,8 kW por hora.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11,2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "33,6",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

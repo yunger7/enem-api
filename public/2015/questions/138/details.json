@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2015",
+    "index": 138,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/138/386a223a-c3a3-4465-9197-ec9ac1d2fc9d.png)",
+    "files": [
+        "https://enem.dev/2015/questions/138/386a223a-c3a3-4465-9197-ec9ac1d2fc9d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor pago na locadora Q é menor ou igual àquele pago na locadora P para distâncias, em quilômetros, presentes em qual(is) intervalo(s)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De 20 a 100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De 80 a 130.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "De 100 a 160.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De 0 a 20 e de 100 a 160.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "De 40 a 80 e de 130 a 160.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

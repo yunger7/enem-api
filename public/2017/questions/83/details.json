@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2017",
+    "index": 83,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No período anterior ao golpe militar de 1964, os documentos episcopais indicavam para os bispos que o desenvolvimento econômico, e claramente o desenvolvimento capitalista, orientando-se no sentido da justa distribuição da riqueza, resolveria o problema da miséria rural e, consequentemente, suprimiria a possibilidade do proselitismo e da expansão comunista entre os camponeses. Foi nesse sentido que o golpe de Estado, de 31 de março de 1964, foi acolhido pela Igreja.\n\nMARTINS, J. S. **A política do Brasil**: lúmpen e místico. São Paulo: Contexto, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em que pesem as divergências no interior do clero após a instalação da ditadura civil-militar, o posicionamento mencionado no texto fundamentou-se no entendimento da hierarquia católica de que o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Luta de classes é estimulada pelo livre mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Poder oligárquico é limitado pela ação do Exército.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Doutrina cristã é beneficiada pelo atraso do interior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Espaço político é dominado pelo interesse empresarial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manipulação ideológica é favorecida pela privação material.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

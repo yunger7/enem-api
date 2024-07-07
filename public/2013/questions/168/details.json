@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2013",
+    "index": 168,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/168/a837d05f-4fe2-4d97-8542-fbcea6679fe9.png)",
+    "files": [
+        "https://enem.dev/2013/questions/168/a837d05f-4fe2-4d97-8542-fbcea6679fe9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Excelente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bom.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Regular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ruim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Péssimo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

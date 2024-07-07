@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2017",
+    "index": 69,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A instalação de uma refinaria obedece a diversos fatores técnicos. Um dos mais importantes é a localização, que deve ser próxima tanto dos centros de consumo como das áreas de produção. A Petrobras possui refinarias estrategicamente distribuídas pelo país. Elas são responsáveis pelo processamento de milhões de barris de petróleo por dia, suprindo o mercado com derivados que podem ser obtidos a partir de petróleo nacional ou importado.\n\nMurta, Energia: o vício da civilização, crise energética e alternativas sustentáveis. Rio de Janeiro Caramond 2011",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A territorialização de uma unidade produtiva depende de diversos fatores locacionais. A partir da leitura do texto, o fator determinante para a instalação das refinarias de petróleo é a proximidade a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sedes de empresas petroquímicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Zonas de importação de derivados",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Polos de desenvolvimento tecnológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Áreas de aglomerações de mão de obra",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Espaços com infraestrutura de circulação",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

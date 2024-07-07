@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2015",
+    "index": 65,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/65/55ff38f3-4de4-4f06-9fe0-224c35d485f0.png)\n\nPara atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10°C e outra a 40°C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16°C.",
+    "files": [
+        "https://enem.dev/2015/questions/65/55ff38f3-4de4-4f06-9fe0-224c35d485f0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual selo deveria ser posto na garrafa térmica testada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

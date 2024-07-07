@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2017",
+    "index": 29,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nFundamentam-se as regras da Gramática Normativa nas obras dos grandes escritores, em cuja linguagem as classes ilustradas põem o seu ideal de perfeição, porque nela é que se espelha o que o uso idiomático estabilizou e consagrou.\n\nLIMA, C. H. R. Gramática normativa da língua portuguesa, Rio de Janeiro José Olympio, 1989\n\n**TEXTO II**\n\nGosto de dizer. Direi melhor: gosto de palavrar. As palavras são para mim corpos tocáveis, sereias visíveis, sensualidades incorporadas. Talvez porque a sensualidade real não tem para mim interesse de nenhuma espécie – nem sequer mental ou de sonho -, transmudou-se-me o desejo para aquilo que em mim Cria ritmos Verbais, ou os escuta de Outros. Estremeço se dizem bem. Tal página de Fialho, tal página de Chateaubriand, fazem formigar toda a minha vida em todas as veias, fazem-me raivar tremulamente quieto de um prazer inatingível que estou tendo. Tal página, até, de Vieira, na sua fria perfeição de engenharia sintáctica, me faz tremer como um ramo ao vento, num delírio passivo de coisa movida.\n\nPESSOA, F. O livro do desassossego São Paulo Brasiliense, 1986",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A linguagem cumpre diferentes funções no processo de comunicação. A função que predomina nos textos I e II",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Destaca o “como” se elabora a mensagem, Considerando-se a seleção, Combinação e sonoridade do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Coloca o foco no “Com o quê” se constrói a mensagem, sendo o código utilizado o seu próprio objeto.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Focaliza o “quem” produz a mensagem, mostrando seu posicionamento e suas impressões pessoais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O orienta-se no “para quem” se dirige a mensagem, estimulando a mudança de seu comportamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Enfatiza sobre “o quê” versa a mensagem, apresentada com palavras precisas e objetivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

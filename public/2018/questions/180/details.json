@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2018",
+    "index": 180,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma 30° com a borda inferior. O raio da base do cilindro mede 6/π cm, e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura.\n\n![](https://enem.dev/2018/questions/180/aefa4129-634d-4a56-9c4b-704b4c98c97b.png)",
+    "files": [
+        "https://enem.dev/2018/questions/180/aefa4129-634d-4a56-9c4b-704b4c98c97b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor da medida da altura do cilindro, em centímetro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/180/790c259f-eca9-4bdb-b3ec-55577fcedf9c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/180/da175caf-5e27-4ecf-8caa-f4ac6440c4bb.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/180/6dab86df-3603-49cd-b6a0-b25f4906eb77.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/180/6fc6dddc-7fe1-4dab-85c8-e43fa3eda51c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/180/6f7a278d-b55a-499d-a86c-5afdf99a748c.png",
+            "isCorrect": false
+        }
+    ]
+}

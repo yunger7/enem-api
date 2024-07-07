@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2019",
+    "index": 176,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para construir uma piscina, cuja área total da superfície interna é igual a 40 m², uma construtora apresentou o seguinte orçamento:\n\n• R$ 10 000,00 pela elaboração do projeto;\n\n• R$ 40 000,00 pelos custos fixos;\n\n• R$ 2 500,00 por metro quadrado para construção da área interna da piscina.\n\nApós a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50%, mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25%. Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10% em relação ao total inicial.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O percentual de desconto que a construtora deverá conceder nos custos fixos é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "23,3%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "87,5%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "100,0%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

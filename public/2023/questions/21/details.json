@@ -1,0 +1,43 @@
+{
+    "title": "Questão 21 - ENEM 2023",
+    "index": 21,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um grupo de pesquisadores da Universidade Federal do Ceará desenvolveu um dicionário para traduzir sintomas de doenças da linguagem popular para os termos médicos. Defruço, chanha e piloura, por exemplo, podem ser termos conhecidos para muitos, mas, durante uma consulta médica, o desconhecimento pode significar um diagnóstico errado.\n“Isso é um registro histórico e pode ser muito útil para estudos dessas comunidades, na abordagem médica delas. É de certa forma pioneiro no Brasil e, sem dúvida, um instrumento de trabalho importante, porque a comunicação é fundamental na relação médico-paciente”, avalia o reitor da instituição.\nDisponível em: https://gl.globo.com. Acesso em: 1 nov. 2021 (adaptado).\nAo registrarem usos regionais de termos da área médica, Pesquisadores",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apontaram erros motivados pelo desconhecimento da variedade linguística local.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Explicaram problemas provocados pela incapacidade de comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descobriram novos sintomas de doenças existentes na comunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Propiciaram melhor compreensão dos sintomas dos pacientes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Divulgaram um novo rol de doenças características da localidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

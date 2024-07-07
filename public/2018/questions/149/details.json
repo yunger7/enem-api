@@ -1,0 +1,46 @@
+{
+    "title": "Questão 149 - ENEM 2018",
+    "index": 149,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x centímetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x%, como no exemplo da figura:\n\n![](https://enem.dev/2018/questions/149/7cd35de7-0953-4f3c-81c7-91d49f3e2f05.png)\n\nA figura apresenta um projeto de uma rampa de acesso a uma garagem residencial cuja base, situada 2 metros abaixo do nível da rua, tem 8 metros de comprimento.\n\n![](https://enem.dev/2018/questions/149/f33abdb8-3adb-4c94-8a4f-6e477d249440.png)\n\nDepois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde ela está localizada exigem que a inclinação máxima de uma rampa de acesso a uma garagem residencial seja de 20%.  \nSe a rampa projetada tiver inclinação superior a 20%, o nível da garagem deverá ser alterado para diminuir o percentual de inclinação, mantendo o comprimento da base da rampa.",
+    "files": [
+        "https://enem.dev/2018/questions/149/7cd35de7-0953-4f3c-81c7-91d49f3e2f05.png",
+        "https://enem.dev/2018/questions/149/f33abdb8-3adb-4c94-8a4f-6e477d249440.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para atender às normas técnicas do município, o nível da garagem deverá ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elevado em 40 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Elevado em 50 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mantido no mesmo nível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Rebaixado em 40 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rebaixado em 50 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

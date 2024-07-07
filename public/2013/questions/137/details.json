@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2013",
+    "index": 137,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/137/53209063-0069-498a-9bb1-2a6e28fcbaec.png)",
+    "files": [
+        "https://enem.dev/2013/questions/137/53209063-0069-498a-9bb1-2a6e28fcbaec.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor. A nova média, em relação à média anterior, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,25 ponto maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,00 ponto maior.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,00 ponto menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,25 ponto maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,00 pontos menor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

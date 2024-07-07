@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2012",
+    "index": 30,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Experimentei algumas vezes que os sentidos eram enganosos, e é de prudência nunca se fiar inteiramente em quem já nos enganou uma vez.\n\n_DESCARTES, R. Meditações Metafísicas. São Paulo: Abril Cultural, 1979._\n\nTEXTO II\n\nSempre que alimentarmos alguma suspeita de que uma ideia esteja sendo empregada sem nenhum significado, precisaremos apenas indagar: de que impressão deriva esta suposta ideia? E se for impossível atribuir-lhe qualquer impressão sensorial, isso servirá para confirmar nossa suspeita.\n\n_HUME, D. Uma investigação sobre o entendimento. São Paulo: Unesp, 2004 (adaptado)._",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nos textos, ambos os autores se posicionam sobre a natureza do conhecimento humano. A comparação dos excertos permite assumir que Descartes e Hume",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Defendem os sentidos como critério originário para considerar um conhecimento legítimo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Entendem que é desnecessário suspeitar do significado de uma ideia na reflexão filosófica e crítica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "São legítimos representantes do criticismo quanto à gênese do conhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Concordam que conhecimento humano é impossível em relação às ideias e aos sentidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Atribuem diferentes lugares ao papel dos sentidos no processo de obtenção do conhecimento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

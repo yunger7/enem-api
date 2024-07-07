@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2011",
+    "index": 36,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/36/fa0373ec-c282-4296-be2a-0816e7bdce2a.png)\n\nSMITH, D. Atlas da Situação Mundial. São Paulo: Cia. Editora Nacional, 2007 (adaptado). (Foto: Reprodução/Enem)",
+    "files": [
+        "https://enem.dev/2011/questions/36/fa0373ec-c282-4296-be2a-0816e7bdce2a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma explicação de caráter histórico para o percentual da religião com maior número de adeptos declarados no Brasil foi a existência, no passado colonial e monárquico, da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Incapacidade do cristianismo de incorporar aspectos de outras religiões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incorporação da ideia de liberdade religiosa na esfera pública.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Permissão para o funcionamento de igrejas não cristãs.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relação de integração entre Estado e Igreja.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Influência das religiões de origem africana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

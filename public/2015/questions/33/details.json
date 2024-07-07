@@ -1,0 +1,43 @@
+{
+    "title": "Questão 33 - ENEM 2015",
+    "index": 33,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Tanto potencial poderia ter ficado pelo caminho, se não fosse o reforço em tecnologia que um gaúcho buscou. Há pouco mais de oito anos, ele usava o bico da botina para cavoucar a terra e descobrir o nível de umidade do solo, na tentativa de saber o momento ideal para acionar os pivôs de irrigação. Até que conheceu uma estação meteorológica que, instalada na propriedade, ajuda a determinar a quantidade de água de que a planta necessita. Assim, quando inicia um plantio, o agricultor já entra no _site_ do sistema e cadastra a área, o pivô, a cultura, o sistema de plantio, o espaçamento entre linhas e o número de plantas, para então receber recomendações diretamente dos técnicos da universidade.\n\nCAETANO, M. O valor de cada gota. **Globo Rural**, n. 312, out. 2011.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A implementação das tecnologias mencionadas no texto garante o avanço do processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Monitoramento da produção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Valorização do preço da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Correção dos fatores climáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Divisão de tarefas na propriedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estabilização da fertilidade do solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

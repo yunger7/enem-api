@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2012",
+    "index": 1,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/1/a10f997f-9601-4fa1-8733-f344a15d1849.jpg)\n\nCharge anônima. BURKE, P. A fabricação do rei. Rio de Janeiro: Zahar, 1994. (Foto: Enem)",
+    "files": [
+        "https://enem.dev/2012/questions/1/a10f997f-9601-4fa1-8733-f344a15d1849.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na França, o rei Luís XIV teve sua imagem fabricada por um conjunto de estratégias que visavam sedimentar uma determinada noção de soberania. Neste sentido, a charge apresentada demonstra",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A humanidade do rei, pois retrata um homem comum, sem os adornos próprios à vestimenta real.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A unidade entre o público e o privado, pois a figura do rei com a vestimenta real representa o público e sem a vestimenta real, o privado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O vínculo entre monarquia e povo, pois leva ao conhecimento do público a figura de um rei  despretensioso e distante do poder político.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O gosto estético refinado do rei, pois evidencia a elegância dos trajes reais em relação aos de outros membros da corte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A importância da vestimenta para a constituição simbólica do rei, pois o corpo político adornado esconde os defeitos do corpo pessoal.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

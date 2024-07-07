@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2020",
+    "index": 105,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os manuais de refrigerador apresentam a recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão e aquecedores, ou em local onde incida diretamente a luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O não atendimento dessa recomendação resulta em aumento do consumo de energia porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O fluxo de calor por condução no condensador sofre considerável redução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A temperatura da substância refrigerante no condensador diminui mais rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O fluxo de calor promove significativa elevação da temperatura no interior do refrigerador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A liquefação da substância refrigerante no condensador exige mais trabalho do compressor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "As correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

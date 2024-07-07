@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2015",
+    "index": 148,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/148/971eb9cd-abf9-48be-994d-d1e0f2bdcc60.png)\n\nDe acordo com as normas desse porto, os contêineres deverão ser empilhados de forma a não sobrarem espaços nem ultrapassarem a área delimitada",
+    "files": [
+        "https://enem.dev/2015/questions/148/971eb9cd-abf9-48be-994d-d1e0f2bdcc60.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após o empilhamento total da carga e atendendo à norma do porto, a altura mínima a ser atingida por essa pilha de contêineres é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12,5 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "17,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "25,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "22,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "32,5 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

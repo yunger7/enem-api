@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2017",
+    "index": 122,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:\n\n![](https://enem.dev/2017/questions/122/49f07218-d755-44c2-90b2-00ce72f5f81e.jpg)\n\nApós a síntese, o AAS é purificado e o rendimento flnal é de aproximadamente 50%. Devido às suas propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.",
+    "files": [
+        "https://enem.dev/2017/questions/122/49f07218-d755-44c2-90b2-00ce72f5f81e.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "293",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "345",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "414",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "690",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "828",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2018",
+    "index": 132,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido _9-hidroxidec-2-enoico_, enquanto as abelhas-operárias produzem ácido _10-hidroxidec-2-enoico_.  \nNós podemos distinguir as abelhas-operárias e rainhas  \npor sua aparência, mas, entre si, elas usam essa  \nsinalização química para perceber a diferença. Pode-se  \ndizer que veem por meio da química.\n\nLE COUTEUR, R; BURRESON, J. **Os botões de Napoleão**: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fórmula estrutural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fórmula molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Identificação dos tipos de ligação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contagem do número de carbonos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Identificaçáo dos grupos funcionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

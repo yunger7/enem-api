@@ -1,0 +1,43 @@
+{
+    "title": "Questão 17 - ENEM 2015",
+    "index": 17,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Ora, em todas as coisas ordenadas a algum fim, é preciso haver algum dirigente, pelo qual se atinja diretamente o devido fim. Com efeito, um navio, que se move para diversos lados pelo impulso dos ventos contrários, não chegaria ao fim de destino, se por indústria do piloto não fosse dirigido ao porto; ora, tem o homem um fim, para o qual se ordenam toda a sua vida e ação. Acontece, porém, agirem os homens de modos diversos em vista do fim, o que a própria diversidade dos esforços e ações humanas comprova. Portanto, precisa o homem de um dirigente para o fim.\n\nAQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. **Escritos políticos de São Tomás de Aquino**. Petrópolis: Vozes, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No trecho citado, Tomás de Aquino justifica a monarquia como o regime de governo capaz de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Refrear os movimentos religiosos contestatórios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Promover a atuação da sociedade civil na vida política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Unir a sociedade tendo em vista a realização do bem comum.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Reformar a religião por meio do retorno à tradição helenística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dissociar a relação política entre os poderes temporal e espiritual.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

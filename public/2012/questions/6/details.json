@@ -1,0 +1,43 @@
+{
+    "title": "Questão 6 - ENEM 2012",
+    "index": 6,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nós nos recusamos a acreditar que o banco da justiça é falível. Nós nos recusamos a acreditar que há capitais insuficientes de oportunidade nesta nação. Assim nós viemos trocar este cheque, um cheque que nos dará o direito de reclamar as riquezas de liberdade e a segurança da justiça.\n\nKING Jr., M. L. Eu tenho um sonho, 28 ago. 1963. Disponível em: www.palmares.gov.br. Acesso em: 30 nov. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O cenário vivenciado pela população negra, no sul dos Estados Unidos nos anos 1950, conduziu à mobilização social. Nessa época, surgiram reivindicações que tinham como expoente Martin Luther King e objetivavam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A conquista de direitos civis para a população negra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O apoio aos atos violentos patrocinados pelos negros em espaço urbano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A supremacia das instituições religiosas em meio à comunidade negra sulista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A incorporação dos negros no mercado de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A aceitação da cultura negra como representante do modo de vida americano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

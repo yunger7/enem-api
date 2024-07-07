@@ -1,0 +1,45 @@
+{
+    "title": "Questão 161 - ENEM 2019",
+    "index": 161,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo.\n\nDiariamente, durante 60 dias, foram anotadas as quantidades de garrafas fora dessas especificações. O resultado está apresentado no quadro.\n\n![](https://enem.dev/2019/questions/161/c315e1f9-d185-4689-9452-7113ed739e0e.jpg)",
+    "files": [
+        "https://enem.dev/2019/questions/161/c315e1f9-d185-4689-9452-7113ed739e0e.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A média diária de garrafas fora das especificações no período considerado é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2021",
+    "index": 139,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma rede de hamburgueria tem três franquias em  \ncidades distintas. Visando incluir um novo tipo de lanche  \nno cardápio, o gerente de marketing da rede sugeriu que  \nfossem colocados à venda cinco novos tipos de lanche,  \nem edições especiais. Os lanches foram oferecidos pelo  \nmesmo período de tempo em todos os franqueados,  \nO tipo que apresentasse a maior média por franquia  \nseria incluído definitivamente no cardápio. Terminado o  \nperíodo de experiência, a gerência recebeu um relatório  \ndescrevendo as quantidades vendidas, em unidade, de  \ncada um dos cinco tipos de lanche nas três franquias\n\n![](https://enem.dev/2021/questions/139/0c2cb7d1-b950-436a-8eab-6051b344e8ab.png)",
+    "files": [
+        "https://enem.dev/2021/questions/139/0c2cb7d1-b950-436a-8eab-6051b344e8ab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

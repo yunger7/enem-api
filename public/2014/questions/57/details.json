@@ -1,0 +1,45 @@
+{
+    "title": "Questão 57 - ENEM 2014",
+    "index": 57,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/57/98797c3b-9330-4122-b07a-008ab7156638.png)",
+    "files": [
+        "https://enem.dev/2014/questions/57/98797c3b-9330-4122-b07a-008ab7156638.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "B, pois a corrente será maior nesse caso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B, pois a potência total será maior nesse caso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A, pois a resistência equivalente será menor nesse caso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B, pois o gerador fornecerá uma maior tensão nesse caso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A, pois a potência dissipada pelo gerador será menor nesse caso.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

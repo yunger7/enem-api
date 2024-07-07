@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2019",
+    "index": 95,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios físicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O2. Entretanto, em alguns casos, as células musculares podem sofrer um déficit de O2 e a glicose ser convertida em duas moléculas de ácido lático. As equações termoquí micas para a combustão dá glicose e do ácido lático são, respectivamente, mostradas a seguir:\n\n![](https://enem.dev/2019/questions/95/a5f7a986-8041-4c8b-b522-7d5a67648fbd.png)",
+    "files": [
+        "https://enem.dev/2019/questions/95/a5f7a986-8041-4c8b-b522-7d5a67648fbd.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O processo anaeróbico é menos vantajoso energeticamente porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Libera 112 kJ por mol de glicose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Libera 467 kJ por mol de glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Libera 2 688 kJ por mol de glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Absorve 1 344 kJ por mol de glicose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Absorve 2 800 kJ por mol de glicose.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

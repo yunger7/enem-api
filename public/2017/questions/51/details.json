@@ -1,0 +1,45 @@
+{
+    "title": "Questão 51 - ENEM 2017",
+    "index": 51,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2017/questions/51/5a5e8107-449f-49a6-84c0-67a4db52eb4f.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/51/5a5e8107-449f-49a6-84c0-67a4db52eb4f.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fotografia, datada de 1860, é um indício da cultura escravista no Brasil, ao expressara",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ambiguidade do trabalho doméstico exercido pela ama de leite, desenvolvendo uma relação de proximidade e subordinação em relação aos senhores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Integração dos escravos aos valores das classes médias, cultivando a família como pilar da sociedade imperial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Melhoria das condições de vida dos escravos observada pela roupa luxuosa, associando o trabalho doméstico a privilégios para os cativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Esfera da vida privada, centralizando a figura feminina para afirmar o trabalho da mulher na educação letrada dos infantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Distinção étnica entre senhores e escravos, demarcando a convivência entre estratos sociais como meio para superar a mestiçagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

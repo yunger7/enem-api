@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2016",
+    "index": 115,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no fim do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego **pyr**, significando “fogo”, e **lampas**, “candeia”.\n\nFERREIRA, M. B. **Caminhos do português**: exposição comemorativa do Ano Europeu das Linguas. Portugal: Biblioteca Nacional, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto descreve a mudança ocorrida na nomeação do inseto, por questões de tabu linguístico. Esse tabu diz respeito à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recuperação histórica do significado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação do sentido de uma palavra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produção imprópria de poetas portugueses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Denominação científica com base em termos gregos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Restrição ao uso de um vocábulo pouco aceito socialmente.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

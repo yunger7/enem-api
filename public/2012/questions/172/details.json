@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2012",
+    "index": 172,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/172/a1bd4967-d16c-4d09-b0c0-cd11524f5d94.png)",
+    "files": [
+        "https://enem.dev/2012/questions/172/a1bd4967-d16c-4d09-b0c0-cd11524f5d94.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,25 × 102 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,25 × 103 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,25 × 104 km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,25 × 105 km.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3,25 × 106 km.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

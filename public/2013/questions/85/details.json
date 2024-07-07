@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2013",
+    "index": 85,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/85/9fd5468f-a0c7-485b-896d-1abdc758e911.png)",
+    "files": [
+        "https://enem.dev/2013/questions/85/9fd5468f-a0c7-485b-896d-1abdc758e911.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A intensidade do campo magnético, para que o dispositivo funcione corretamente, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 × 10–1 T.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5 × 10–2 T.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5 × 101  T.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 × 10–2 T.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 × 100  T.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

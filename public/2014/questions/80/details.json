@@ -1,0 +1,45 @@
+{
+    "title": "Questão 80 - ENEM 2014",
+    "index": 80,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/80/9dca1d8e-381f-4b07-ba36-17afcccfb4ad.png)",
+    "files": [
+        "https://enem.dev/2014/questions/80/9dca1d8e-381f-4b07-ba36-17afcccfb4ad.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ventilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Decantação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Evaporação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Destilação fracionada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

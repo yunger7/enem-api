@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2017",
+    "index": 139,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.\n\n![](https://enem.dev/2017/questions/139/cae1675d-9ef1-41d5-b0c6-f0a0df4b56b7.png)",
+    "files": [
+        "https://enem.dev/2017/questions/139/cae1675d-9ef1-41d5-b0c6-f0a0df4b56b7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

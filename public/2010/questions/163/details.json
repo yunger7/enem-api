@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2010",
+    "index": 163,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A ideia de usar rolos circulares para deslocar objetos pesados provavelmente surgiu com os antigos egípcios ao construírem as pirâmides.\n\n![](https://enem.dev/2010/questions/163/ad5073a3-52ed-4a3a-b2f4-5c88f216e795.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/163/ad5073a3-52ed-4a3a-b2f4-5c88f216e795.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Representando por R o raio da base dos rolos cilíndricos, em metros, a expressão do deslocamento horizontal y do bloco de pedra em função de R, após o rolo ter dado uma volta completa sem deslizar, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y = R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y = 2R.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y = πR.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Y = 2πR.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Y = 4πR.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

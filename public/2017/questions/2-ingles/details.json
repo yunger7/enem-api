@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2017",
+    "index": 2,
+    "year": 2017,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**British Government to Recruit Teens as Next Generation of Spies**\n\nIn the 50 years since the first James Bond movie created a lasting impression of a British secret agent, a completely different character is about to emerge. Britain’s intelligence agencies are to recruit their next generation of cyber spies by harnessing the talents of the “Xbox generation”.  \nIn an expansion of a pilot program, Foreign Secretary William Hague announced Thursday that up to 100 18-year-olds will be given the chance to train for a career in Britain’s secret services. The move to recruit school-leavers marks a break with the past, when agencies mainly drew their staff from among university graduates.  \n“Young people are the key to our country’s future success, just as they were during the War”, Hague said. “Today we are not at war, but I see evidence every day of deliberate, organized attacks against intellectual property and government networks in the United Kingdom.”  \nThe new recruitment program, called the Single Intelligence Account apprenticeship scheme will enable students with suitable qualifications in science, technology or engineering, to spend two years learning about communications, security and engineering through formal education, technical training and work placements.\n\nJEARY, P. Disponível em: http://worldnews.nbcnews.com. Acesso em: 19 nov. 2012.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo informações veiculadas pela NBC News, a geração digital já tem seu espaço conquistado nas agências britânicas de inteligência. O governo britânico decidiu que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Enfrentará a guerra vigente e deliberada contra a propriedade intelectual no Reino Unido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Abandonará a política de contratação de universitários como agentes secretos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Recrutará jovens jogadores de Xbox como ciberespiões das agências de inteligência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Implantará um esquema de capacitação de adolescentes para atuarem como agentes secretos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Anunciará os nomes dos jovens a serem contratados pelas agências de inteligência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

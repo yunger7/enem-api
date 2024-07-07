@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2012",
+    "index": 94,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/94/3521ef6d-f96a-4fca-9cf2-59d49b83cc04.png)\n\nQUINO.Disponível em: http://mafalda.dreamers.com. Acesso em: 27 fev. 2012.",
+    "files": [
+        "https://enem.dev/2012/questions/94/3521ef6d-f96a-4fca-9cf2-59d49b83cc04.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A personagem Susanita, no último quadro, inventa o vocábulo mujerez, utilizando-se de um recurso de formação de palavra existente na língua espanhola. Na concepção da personagem, o sentido do vocábulo mujerez remete à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Falta de feminilidade das mulheres que não se dedicam às tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Valorização das mulheres que realizam todas as tarefas domésticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Inferioridade das mulheres que praticam as tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relevância social das mulheres que possuem empregados para realizar as tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Independência das mulheres que não se prendem apenas às tarefas domésticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

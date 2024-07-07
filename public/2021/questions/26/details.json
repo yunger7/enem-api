@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2021",
+    "index": 26,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Os velhos papéis, quando não são consumidos pelo fogo, às vezes acordam de seu sono para contar notícias do passado.  \nÉ assim que se descobre algo novo de um nome antigo, sobre o qual já se julgava saber tudo, como Machado de Assis.  \nPor exemplo, você provavelmente não sabe que o autor carioca, morto em 1908, escreveu uma letra do hino nacional em 1867 — e não poderia saber mesmo, porque os versos seguiam inéditos. Até hoje.  \nEssa letra acaba de ser descoberta, em um jornal antigo de Florianópolis, pelo pesquisador independente Felipe Rissato.  \n“Das florestas em que habito/ Solto um canto varonil:/ Em honra e glória de Pedro/ O gigante do Brasil”, diz o começo do hino, composto de sete estrofes em redondilhas maiores, ou seja, versos de sete sílabas poéticas. O trecho também é o refrão da música.  \nO Pedro mencionado é o imperador Dom Pedro II. O bruxo do Cosme Velho compôs a letra para o aniversário de 42 anos do monarca, em 2 de dezembro daquele ano — o hino seria apresentado naquele dia no teatro da cidade de Desterro, antigo nome de Florianópolis.\n\n**Disponível em: www.revistaprosaversoarte.com. Acesso em 4 dez. 2018 (adaptado).**",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se as operações de retomada de informações do texto, há interdependência entre as expressões",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\"Os velho papéis\" e \"É assim\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "\"algo novo\" e \"sobre o qual.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "\"um nome antiga\" e \"Por exemplo.\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "\"O gigante do Brasil\" e \"O Pedro mencionado.\"",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "\"o imperador Dom Pedro II\" e \"O bruxo do Cosme Velho\".",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

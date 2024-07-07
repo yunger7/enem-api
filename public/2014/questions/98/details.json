@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2014",
+    "index": 98,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Uso de suplementos alimentares por adolescentes**\n\nEvidências médicas sugerem que a suplementação alimentar pode ser benéfica para um pequeno grupo de pessoas, aí incluídos atletas competitivos, cuja dieta não seja balanceada. Tem-se observado que adolescentes envolvidos em atividade física ou atlética estão usando cada vez mais tais suplementos. A prevalência desse uso varia entre os tipos de esportes, aspectos culturais, faixas etárias (mais comum em adolescentes) e sexo (maior prevalência em homens). Poucos estudos se referem a frequência, tipo e quantidade de suplementos usados, mas parece ser comum que as doses recomendadas sejam excedidas.\n\nA mídia é um dos importantes estímulos ao uso de suplementos alimentares ao veicular, por exemplo, o mito do corpo ideal. Em 2001, a indústria de suplementos alimentares investiu globalmente US$ 46 bilhões em propaganda, como meio de persuadir potenciais consumidores a adquirir seus produtos. Na adolescência, período de autoafirmação, muitos deles não medem esforços para atingir tal objetivo.\n\nALVES, C.; LIMA, R. J. **Pediatr**. v.85, n.4, 2009 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sobre a associação entre a prática de atividades físicas e o uso de suplementos alimentares, o texto informa que a ingestão desses suplementos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "É indispensável para as pessoas que fazem atividades físicas regularmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "É estimulada pela indústria voltada para adolescentes que buscam um corpo ideal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "É indicada para atividades físicas como a musculação com fins de promoção da saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Direciona-se para adolescentes com distúrbios metabólicos e que praticam atividades físicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Melhora a saúde do indivíduo que não tem uma dieta balanceada e nem pratica atividades físicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 55 - ENEM 2011",
+    "index": 55,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No processo de industrialização da mamona, além do óleo que contém vários ácidos graxos, é obtida uma massa orgânica, conhecida como torta de mamona. Esta massa tem potencial para ser utilizada como fertilizante para o solo e como complemento em rações animais devido a seu elevado valor proteico. No entanto, a torta apresenta compostos tóxicos e alergênicos diferentemente do óleo da mamona. Para que a torta possa ser utilizada na alimentação animal, é necessário um processo de descontaminação.  \nRevista Química Nova na Escola. V. 32, no1, 2010 (adaptado)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A característica presente nas substâncias tóxicas e alergênicas, que inviabiliza sua solubilização no óleo de mamona, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Lipofilia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hidrofilia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Hipocromia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cromatofilia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hiperpolarização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

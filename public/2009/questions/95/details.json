@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2009",
+    "index": 95,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "No programa do balé Parade, apresentado em 18 de maio de 1917, foi empregada publicamente, pela primeira vez, a palavra _sur-realisme_. Pablo Picasso desenhou o cenário e a indumentária, cujo efeito foi tão surpreendente que se sobrepôs à coreografia. A música de Erik Satie era uma mistura de _jazz_, música popular e sons reais tais como tiros de pistola, combinados com as imagens do balé de Charlie Chaplin, caubóis e vilões, mágica chinesa e _Ragtime_. Os tempos não eram propícios para receber a nova mensagem cênica demasiado provocativa devido ao repicar da máquina de escrever, aos zumbidos de sirene e dínamo e aos rumores de aeroplano previstos por Cocteau para a partitura de Satie. Já a ação coreográfica confirmava a tendência marcadamente teatral da gestualidade cênica, dada pela justaposição, colagem de ações isoladas seguindo um estímulo musical.\n\nSILVA, S. M. **O surrealismo e a dança**. GUINSBURG, J.; LEIRNER (Org.). O surrealismo. São Paulo: Perspectiva, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As manifestações corporais na história das artes da cena muitas vezes demonstram as condições cotidianas de um determinado grupo social, como se pode observar na descrição acima do balé Parade, o qual reflete",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A falta de diversidade cultural na sua proposta estética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A alienação dos artistas em relação às tensões da Segunda Guerra Mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Uma disputa cênica entre as linguagens das artes visuais, do figurino e da música.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As inovações tecnológicas nas partes cênicas, musicais, coreográficas e de figurino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Uma narrativa com encadeamentos claramente lógicos e lineares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

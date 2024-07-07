@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2018",
+    "index": 150,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para ganhar um prêmio, uma pessoa deverá retirar, sucessivamente e sem reposição, duas bolas pretas de uma mesma urna.  \nInicialmente, as quantidades e cores das bolas são como descritas a seguir:  \n• Urna A – Possui três bolas brancas, duas bolas pretas e uma bola verde;  \n• Urna B – Possui seis bolas brancas, três bolas pretas e uma bola verde;  \n• Urna C – Possui duas bolas pretas e duas bolas verdes;  \n• Urna D – Possui três bolas brancas e três bolas pretas.  \nA pessoa deve escolher uma entre as cinco opções apresentadas:  \n• Opção 1 – Retirar, aleatoriamente, duas bolas da urna A;  \n• Opção 2 – Retirar, aleatoriamente, duas bolas da urna B;  \n• Opção 3 – Passar, aleatoriamente, uma bola da urna C para a urna A; após isso, retirar, aleatoriamente, duas bolas da urna A;  \n• Opção 4 – Passar, aleatoriamente, uma bola da urna D para a urna C; após isso, retirar, aleatoriamente, duas bolas da urna C;  \n• Opção 5 – Passar, aleatoriamente, uma bola da urna C para a urna D; após isso, retirar, aleatoriamente, duas bolas da urna D.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com o objetivo de obter a maior probabilidade possível de ganhar o prêmio, a pessoa deve escolher a opção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

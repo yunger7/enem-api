@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2009",
+    "index": 80,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O homem construiu sua história por meio do constante processo de ocupação e transformação do espaço natural. Na verdade, o que variou, nos diversos momentos da experiência humana, foi a intensidade dessa exploração.\n\nDisponível em: http://www.simposioreformaagraria.propp.ufu.br.  \nAcesso em: 09 jul. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma das consequências que pode ser atribuída à crescente intensificação da exploração de recursos naturais, facilitada pelo desenvolvimento tecnológico ao longo da história, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A diminuição do comércio entre países e regiões, que se tornaram autossuficientes na produção de bens e serviços.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A ocorrência de desastres ambientais de grandes proporções, como no caso de derramamento de óleo por navios petroleiros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A melhora generalizada das condições de vida da população mundial, a partir da eliminação das desigualdades econômicas na atualidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O desmatamento, que eliminou grandes extensões de diversos biomas improdutivos, cujas áreas passaram a ser ocupadas por centros industriais modernos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O aumento demográfico mundial, sobretudo nos países mais desenvolvidos, que apresentam altas taxas de crescimento vegetativo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

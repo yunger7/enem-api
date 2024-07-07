@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2015",
+    "index": 29,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No final do século XX e em razão dos avanços da ciência, produziu-se um sistema presidido pelas técnicas da informação, que passaram a exercer um papel de elo entre as demais, unindo-as e assegurando ao novo sistema uma presença planetária. Um mercado que utiliza esse sistema de técnicas avançadas resulta nessa globalização perversa.\n\nSANTOS, M. **Por uma outra globalização**. Rio de Janeiro: Record, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma consequência para o setor produtivo e outra para o mundo do trabalho advindas das transformações citadas no texto estão presentes, respectivamente, em:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Eliminação das vantagens locacionais e ampliação da legislação laboral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Limitação dos fluxos logísticos e fortalecimento de associações sindicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição dos investimentos industriais e desvalorização dos postos qualificados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Concentração das áreas manufatureiras e redução da jornada semanal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Automatização dos processos fabris e aumento dos níveis de desemprego.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

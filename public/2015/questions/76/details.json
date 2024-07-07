@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2015",
+    "index": 76,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); ZnO (81 g/mol); SO2 (64 g/mol); CO (28 g/mol); CO2 (44 g/mol); e Zn (65 g/mol).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "40",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "54",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

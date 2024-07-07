@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2017",
+    "index": 120,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns tipos de dessalinizadores usam o processo de osmose reversa para obtenção de água potável a partir da água salgada. Nesse método, utiliza-se um recipiente contendo dois compartimentos separados por uma membrana semipermeável: em um deles coloca-se água salgada e no outro recolhe-se a água potável. A aplicação de pressão mecânica no sistema faz a água fluir de um compartimento para o outro. O movimento das moléculas de água através da membrana é controlado pela pressão osmótica e pela pressão mecânica aplicada.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para que ocorra esse processo é necessário que as resultantes das pressões osmótica e mecânica apresentem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mesmo sentido e mesma intensidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sentidos opostos e mesma intensidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sentidos opostos e maior intensidade da pressão osmótica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mesmo sentido e maior intensidade da pressão osmótica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sentidos opostos e maior intensidade da pressão mecânica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

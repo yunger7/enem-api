@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2020",
+    "index": 151,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 quadrados e 4 retângulos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 retângulo e 4 triângulos isósceles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 quadrados e 4 trapézios isósceles.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 retângulos, 2 quadrados e 2 trapézios retângulos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

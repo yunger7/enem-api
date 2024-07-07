@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2016",
+    "index": 73,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os ecossistemas degradados por intensa atividade agrícola apresentam geralmente, diminuição de sua a estabilidade. Nesse contexto, o uso integrado de árvores aos sistemas agrícolas (sistemas agroflorestais) pode cumprir um papel inovador ao buscar a aceleração do processo sucessional e, ao mesmo tempo, uma produção escalonada e diversificada.\n\nDisponível em: saf.cnpgc.embrapa.br. Acesso em 21 jan. 2012 (adaptado)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essa é uma estratégia de conciliação entre recuperação ambiental e produção agrícola, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Substitui gradativamente as espécies cultiváveis por espécies arbóreas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Intensifica a fertilização do solo com o uso de técnicas apropriadas e biocidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Promove maior diversidade de vida no solo como aumento da matéria orgânica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

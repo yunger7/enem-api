@@ -1,0 +1,43 @@
+{
+    "title": "Questão 58 - ENEM 2010",
+    "index": 58,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sob pressão normal (ao nível do mar), a água entra em ebulição à temperatura de 100 °C. Tendo por base essa afirmação, um garoto residente em uma cidade litorânea fez a seguinte experiência:\n\n*   – Colocou uma caneca metálica contendo água no fogareiro do fogão de sua casa.\n*   – Quando a água começou a ferver, encostou, cuidadosamente, a extremidade mais estreita de uma seringa de injeção, desprovida de agulha, na superfície do líquido e, erguendo o êmbolo da seringa, aspirou certa quantidade de água para seu interior, tampando-a em seguida.\n*   – Verificando após alguns instantes que a água da seringa havia parado de ferver, ele ergueu o êmbolo da seringa, constatando, intrigado, que a água voltou a ferver após um pequeno deslocamento do êmbolo.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando o procedimento anterior, a água volta a ferver porque esse deslocamento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Permite a entrada de calor do ambiente externo para o interior da seringa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Provoca, por atrito, um aquecimento da água contida na seringa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produz um aumento de volume que aumenta o ponto de ebulição da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Possibilita uma diminuição da densidade da água que facilita sua ebulição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

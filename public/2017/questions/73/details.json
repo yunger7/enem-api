@@ -1,0 +1,43 @@
+{
+    "title": "Questão 73 - ENEM 2017",
+    "index": 73,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O fenômeno da mobilidade populacional vem, desde as últimas décadas do século XX, apresentando transformações significativas no seu comportamento, não só no Brasil como também em outras partes do mundo. Esses novos processos se materializam, entre outros aspectos, na dimensão interna, pelo redirecionamento dos fluxos migratórios para as cidades médias, em detrimento dos grandes centros urbanos; pelos deslocamentos de curta duração e a distâncias menores; pelos movimentos pendulares, que passam a assumir maior relevância nas estratégias de sobrevivência, não mais restritos aos grandes aglomerados urbanos.\n\nOLIVEIRA, L. A. P. **Reflexões sobre os deslocamentos populacionais no Brasil.** Rio de Janeiro: IBGE, 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A redefinição dos fluxos migratórios internos no Brasil, no período apontado no texto, tem como causa a intensificação do processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Descapitalização do setor primário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação da economia informal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tributação da área residencial citadina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desconcentração da atividade industrial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Saturação de empregabilidade do setor terciário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

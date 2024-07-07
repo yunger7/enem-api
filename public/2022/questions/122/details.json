@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2022",
+    "index": 122,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1,  \na partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado.\n\nJULIÃO, A. **Técnica modifica proteína do veneno de cascavel e permite**  \n**criar fármaco que modula a coagulação sanguínea**. Disponível em:  \nhttps://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse novo medicamento apresenta potencial aplicação para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Regular a oscilação da pressão arterial, característica dos quadros de hipertensão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

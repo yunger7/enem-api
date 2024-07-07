@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2021",
+    "index": 126,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez. Ele dispõe das lâmpadas, de fios, uma bateria e dois interruptores, como ilustrado, junto com seu símbolo de três pontos. Quando esse interruptor fecha AB, abre BC e vice-versa.\n\n![](https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png)",
+    "files": [
+        "https://enem.dev/2021/questions/126/0628bf6f-7d5c-4dc6-befa-149ef1567926.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/126/25d6d416-c4fd-44ab-a585-e6bfc841f167.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/126/0a7dfcb5-69d0-4c21-b3e9-8d8c3e3855d6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/126/870e3957-2d89-4115-ba0b-653d28d95f19.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/126/1557b1da-03f1-4bd4-a456-05a62bebb592.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/126/d9e73712-b6a3-4e5d-afd8-ce5a8cfa379f.png",
+            "isCorrect": false
+        }
+    ]
+}

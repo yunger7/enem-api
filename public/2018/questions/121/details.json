@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2018",
+    "index": 121,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manejo adequado do solo possibilita a manutenção de sua fertilidade à medida que as trocas de nutrientes entre matéria orgânica, água, solo e o ar são mantidas para garantir a produção. Algumas espécies iônicas de alumínio são tóxicas, não só para a planta, mas para muitos organismos como as bactérias responsáveis pelas transformações no ciclo do nitrogênio. O alumínio danifica as membranas das células das raízes e restringe a expansão de suas paredes, com isso, a planta não cresce adequadamente. Para promover benefícios para a produção agrícola, é recomendada a remediação do solo utilizando calcário ![](https://enem.dev/2018/questions/121/be0e44ab-e93f-421a-9834-2ca269bffbe2.png)\n\nBRADY, N. C.; WEIL, R. R. **Elementos da natureza e propriedades dos solos**. Porto Alegre: Bookman, 2013 (adaptado)",
+    "files": [
+        "https://enem.dev/2018/questions/121/be0e44ab-e93f-421a-9834-2ca269bffbe2.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa remediação promove no solo o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuição do pH, deixando-o fértil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solubilização do alumínio, ocorrendo sua lixiviação pela chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Interação do íon cálcio com o íon alumínio, produzindo uma liga metálica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reação do carbonato de cálcio com os íons alumínio, formando alumínio metálico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumento da sua alcalinidade, tornando os íons alumínio menos disponíveis.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2018",
+    "index": 161,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "45.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "68.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

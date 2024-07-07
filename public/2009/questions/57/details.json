@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2009",
+    "index": 57,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na década de 30 do século XIX, Tocqueville escreveu as seguintes linhas a respeito da moralidade nos EUA: “A opinião pública norte-americana é particularmente dura com a falta de moral, pois esta desvia a atenção frente à busca do bem-estar e prejudica a harmonia doméstica, que é tão essencial ao sucesso dos negócios. Nesse sentido, pode-se dizer que ser casto é uma questão de honra”.\n\nTOCQUEVILLE, A. Democracy in America. Chicago: Encyclopædia Britannica, Inc., Great Books 44, 1990 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Do trecho, infere-se que, para Tocqueville, os norte- americanos do seu tempo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Buscavam o êxito, descurando as virtudes cívicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tinham na vida moral uma garantia de enriquecimento rápido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Valorizavam um conceito de honra dissociado do comportamento ético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Relacionavam a conduta moral dos indivíduos com o progresso econômico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Acreditavam que o comportamento casto perturbava a harmonia doméstica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

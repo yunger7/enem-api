@@ -1,0 +1,48 @@
+{
+    "title": "Questão 144 - ENEM 2022",
+    "index": 144,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Cada número que identifica uma agência bancária tem quatro dígitos: ![](https://enem.dev/2022/questions/144/2c8c344f-3729-4f6b-bbb9-24097d77f58a.jpg),![](https://enem.dev/2022/questions/144/6af5740b-feed-4fd4-bde9-486ad2f96240.jpg),![](https://enem.dev/2022/questions/144/4af33750-a0d5-4acc-abe1-c004f5d8451e.jpg),![](https://enem.dev/2022/questions/144/ea762333-b644-495d-bd01-3c0bf752599a.jpg) mais um dígito verificador ![](https://enem.dev/2022/questions/144/f4712f57-56ec-4a65-9e2e-f7c34f4b775f.jpg).\n\n![](https://enem.dev/2022/questions/144/f88bc2d5-7b64-49cf-bd9d-28ddde048358.jpg)\n\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se  \nordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 ![](https://enem.dev/2022/questions/144/981157e8-d269-4be5-8aba-f496109d3f31.jpg)\\+ 4 ![](https://enem.dev/2022/questions/144/89772d85-6273-49c5-95e4-569b4014ca22.jpg)\\+ 3 ![](https://enem.dev/2022/questions/144/164c2b6f-8be5-4ca3-88f7-12fe5a5e872c.jpg)\\+ 2 ![](https://enem.dev/2022/questions/144/ad29c509-a515-4ae6-9d86-451780d68e14.jpg). Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.  \nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+    "files": [
+        "https://enem.dev/2022/questions/144/2c8c344f-3729-4f6b-bbb9-24097d77f58a.jpg",
+        "https://enem.dev/2022/questions/144/6af5740b-feed-4fd4-bde9-486ad2f96240.jpg",
+        "https://enem.dev/2022/questions/144/4af33750-a0d5-4acc-abe1-c004f5d8451e.jpg",
+        "https://enem.dev/2022/questions/144/ea762333-b644-495d-bd01-3c0bf752599a.jpg",
+        "https://enem.dev/2022/questions/144/f4712f57-56ec-4a65-9e2e-f7c34f4b775f.jpg",
+        "https://enem.dev/2022/questions/144/f88bc2d5-7b64-49cf-bd9d-28ddde048358.jpg",
+        "https://enem.dev/2022/questions/144/981157e8-d269-4be5-8aba-f496109d3f31.jpg",
+        "https://enem.dev/2022/questions/144/89772d85-6273-49c5-95e4-569b4014ca22.jpg",
+        "https://enem.dev/2022/questions/144/164c2b6f-8be5-4ca3-88f7-12fe5a5e872c.jpg",
+        "https://enem.dev/2022/questions/144/ad29c509-a515-4ae6-9d86-451780d68e14.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o dígito verificador N5 dessa agência bancária?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

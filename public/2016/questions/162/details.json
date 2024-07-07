@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2016",
+    "index": 162,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/162/2d6250c2-b7ea-457b-8798-db4253b32235.png)",
+    "files": [
+        "https://enem.dev/2016/questions/162/2d6250c2-b7ea-457b-8798-db4253b32235.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nas informações do gráfico, o floricultor verificou que poderia plantar essa flor rara.\nO mês escolhido para o plantio foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fevereiro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Agosto",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Novembro",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dezembro",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

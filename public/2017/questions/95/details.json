@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2017",
+    "index": 95,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\n![](https://enem.dev/2017/questions/95/e4765f64-939a-40ef-a345-e9ca0d1a3c8b.png)",
+    "files": [
+        "https://enem.dev/2017/questions/95/e4765f64-939a-40ef-a345-e9ca0d1a3c8b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No processo eletrolítico ilustrado, o produto secundário obtido é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vapor de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Oxigênio molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Hipoclorito de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hidrogênio molecular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Cloreto de hidrogênio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

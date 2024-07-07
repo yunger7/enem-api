@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2013",
+    "index": 89,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70 °C. No entanto, a temperatura ideal da água para um banho é de 30 °C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25 °C.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,111.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,125.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,357.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,428.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,833.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

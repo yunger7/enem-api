@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2013",
+    "index": 103,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/103/1e52e81d-f67f-4767-92a9-363e81f41e52.png)\n\nDisponível em: http://orion-oblog.blogspot.com.br. Acesso em: 6 jun. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2013/questions/103/1e52e81d-f67f-4767-92a9-363e81f41e52.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O cartaz aborda a questão do aquecimento global. A relação entre os recursos verbais e não verbais nessa propaganda revela que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O discurso ambientalista propõe formas radicais de resolver os problemas climáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A preservação da vida na Terra depende de ações de dessalinização da água marinha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A acomodação da topografia terrestre desencadeia o natural degelo das calotas polares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O descongelamento das calotas polares diminui a quantidade de água doce potável do mundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A agressão ao planeta é dependente da posição assumida pelo homem frente aos problemas ambientais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

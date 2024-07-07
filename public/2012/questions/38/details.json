@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2012",
+    "index": 38,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A irrigação da agricultura é responsável pelo consumo de mais de 2/3 de toda a água retirada dos rios, lagos e lençóis freáticos do mundo. Mesmo no Brasil, onde achamos que temos muita água, os agricultores que tentam produzir alimentos também enfrentam secas periódicas e uma competição crescente por água.\n\nMARAFON, G. J. et al. **O desencanto da terra**: produção de alimentos, ambiente e sociedade. Rio de Janeiro: Garamond, 2011.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No Brasil, as técnicas de irrigação utilizadas na agricultura produziram impactos socioambientais como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do custo de produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Agravamento da poluição hídrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Compactação do material do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aceleração da fertilização natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Redirecionamento dos cursos fluviais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

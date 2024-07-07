@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2018",
+    "index": 147,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O colesterol total de uma pessoa é obtido pela soma da taxa do seu “colesterol bom” com a taxa do seu “colesterol ruim”. Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de “colesterol bom”, porém, taxa do “colesterol ruim” (também chamado LDL) de 280 mg/dL. O quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.\n\n![](https://enem.dev/2018/questions/147/38704883-6fae-4379-b321-b5d918656a3a.png)\n\nO paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.",
+    "files": [
+        "https://enem.dev/2018/questions/147/38704883-6fae-4379-b321-b5d918656a3a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ótima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Próxima de ótima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Limite",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Muito alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

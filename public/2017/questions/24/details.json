@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2017",
+    "index": 24,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "E aqui, antes de continuar este espetáculo, e necessário que façamos uma advertência a todos e a cada um. Neste momento, achamos fundamental que cada um tome uma posição definida. Sem que cada um tome uma posição definida, não é possível continuarmos. É fundamental que cada um tome uma posição, seja para a esquerda, seja para a direita. Admitimos mesmo que alguns tomem uma posição neutra, fiquem de braços cruzados. Mas é preciso que cada um, uma vez tomada sua posição, fique nela! Porque senão, companheiros, as cadeiras do teatro rangem muito e ninguém ouve nada.\n\nFERNANDES, M.; RANGEL, F. **Liberdade, liberdade**. Porto Alegre: L&PM, 2009,",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A peça Liberdade, liberdade, encenada em 1964, apresenta o impasse vivido pela sociedade brasileira em face do regime vigente. Esse impasse é representado no fragmento pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Barulho excessivo produzido pelo ranger das cadeiras do teatro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Indicação da neutralidade como a melhor opção ideológica naquele momento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Constatação da censura em função do engajamento social do texto dramático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Correlação entre o alinhamento politico e a posição corporal dos espectadores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Interrupção do espetáculo em virtude do comportamento inadequado do público.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2020",
+    "index": 56,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A demanda mundial para a produção de alimentos aumenta progressivamente a taxas muito altas. Atualmente, na maioria dos países, continentes e regiões, a água consumida na agricultura é de cerca de 70% da disponibilidade total.\n\n**TUNDISI, J. G. Recursos hídricos no futuro: problemas e soluções. Estudos Avançados, n. 63, 2008 (adaptado).**",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para que haja a redução da pressão sobre o recurso natural mencionado, a expansão da agricultura demanda melhorias no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fertilização química do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escoamento hídrico do terreno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manutenção de poços artesianos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eficiência das técnicas de irrigação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Velocidade das máquinas colheitadeiras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

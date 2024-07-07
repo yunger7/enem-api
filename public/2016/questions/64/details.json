@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2016",
+    "index": 64,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "TEXTO I\n\nBiocélulas combustíveis são uma alternativa tecnológica para substituição das baterias convencionais. Em uma biocélula microbiológica, bactérias catalisam reações de oxidação de substratos orgânicos. Liberam elétrons produzidos na respiração celular para um eletrodo, onde fluem por um circuito elétrico até o cátodo do sistema, produzindo corrente elétrica. Uma reação típica que ocorre em biocélulas microbiológicas utiliza o acetato como substrato.\n\nAQUINO NETO, S. **Preparação e caracterização de bioanodos para biocélula a combustível etanol/O2** . Disponível em: www.teses.usp.br. Acesso em: 23 jun. 2015 (adaptado).\n\nTEXTO II\n\nEm sistemas bioeletroquímicos, os potenciais padrão (E°’) apresentam valores característicos. Para as biocélulas de acetato, considere as seguintes semirreações de redução e seus respectivos potenciais:\n\n2 CO2 + 7H+ + 8e– → CH3COO– + 2H2O               E°’ = -0,3 V\n\nO2 + 4H+ + 4e– → 2H2O                                             E°’ = 0,8V.\n\nSCOTT, K.; YU, E. H. **Microbial electrochemical and fuel cells: fundamentals and applications**. Woodhead Publishing Series in Energy, n. 88, 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de 4,4 V?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

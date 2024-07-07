@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2011",
+    "index": 154,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/154/10f8a6b9-37c7-4d75-99dd-24b07602b503.png)",
+    "files": [
+        "https://enem.dev/2011/questions/154/10f8a6b9-37c7-4d75-99dd-24b07602b503.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14,6%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18,2%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18,4%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "19,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "21,0%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

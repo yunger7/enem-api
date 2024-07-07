@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2022",
+    "index": 148,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A luminosidade _L_ de uma estrela está relacionada com o raio _R_ e com a temperatura _T_ dessa estrela segundo a Lei de Stefan-Boltzmann: ![](https://enem.dev/2022/questions/148/00e98ef8-6901-4d38-91f1-1fa1afda8b14.png) em que c é uma constante igual para todas as estrelas.\n\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado)\n\nConsidere duas estrelas _E_ e _F_, sendo que a estrela _E_ tem metade do raio da estrela _F_ e o dobro da temperatura de _F_.",
+    "files": [
+        "https://enem.dev/2022/questions/148/00e98ef8-6901-4d38-91f1-1fa1afda8b14.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Indique por LE  e LF suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/148/623219f3-b839-4f65-b990-99e2416e78ac.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/148/ac0ff64f-89bb-4e7c-a004-f3a22719d728.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/148/282300db-f32c-4e24-b4ec-da66e734e9c4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/148/2e2fa9f3-4c51-4920-8048-790d9f42ed80.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/148/c37d4dda-0f9a-4756-a282-99e7ddd27c64.png",
+            "isCorrect": false
+        }
+    ]
+}

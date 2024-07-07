@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2012",
+    "index": 88,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nossa pele possui células que reagem à incidência de luz ultravioleta e produzem uma substância chamada melanina, responsável pela pigmentação da pele. Pensando em se bronzear, uma garota vestiu um biquíni, acendeu a luz de seu quarto e deitou-se exatamente abaixo da lâmpada incandescente. Após várias horas ela percebeu que não conseguiu resultado algum.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O bronzeamente não ocorreu porque a luz emitida pela lâmpada incandescente é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Baixa intensidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Baixa frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Um espectro contínuo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Amplitude inadequada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Curto comprimento de onda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

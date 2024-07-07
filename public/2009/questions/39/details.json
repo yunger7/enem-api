@@ -1,0 +1,45 @@
+{
+    "title": "Questão 39 - ENEM 2009",
+    "index": 39,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A invenção da geladeira proporcionou uma revolução no aproveitamento dos alimentos, ao permitir que fossem armazenados e transportados por longos períodos. A figura apresentada ilustra o processo cíclico de funcionamento de uma geladeira, em que um gás no interior de uma tubulação é forçado a circular entre o congelador e a parte externa da geladeira. É por meio dos processos de compressão, que ocorre na parte externa, e de expansão, que ocorre na parte interna, que o gás proporciona a troca de calor entre o interior e o exterior da geladeira.\n\nDisponível em: http://home.howstuffworks.com. Acesso em: 19 out. 2008 (adaptado).\n\n![](https://enem.dev/2009/questions/39/6991cb0b-0677-4966-9b10-126fa676fe93.png)",
+    "files": [
+        "https://enem.dev/2009/questions/39/6991cb0b-0677-4966-9b10-126fa676fe93.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nos processos de transformação de energia envolvidos no funcionamento da geladeira,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A expansão do gás é um processo que cede a energia necessária ao resfriamento da parte interna da geladeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O calor flui de forma não-espontânea da parte mais fria, no interior, para a mais quente, no exterior da geladeira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A quantidade de calor cedida ao meio externo é igual ao calor retirado da geladeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A eficiência é tanto maior quanto menos isolado termicamente do ambiente externo for o seu compartimento interno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A energia retirada do interior pode ser devolvida à geladeira abrindo-se a sua porta, o que reduz seu consumo de energia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

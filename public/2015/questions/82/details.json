@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2015",
+    "index": 82,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/82/2770dcce-7280-4fcb-8da9-0ef2e43f53b7.png)",
+    "files": [
+        "https://enem.dev/2015/questions/82/2770dcce-7280-4fcb-8da9-0ef2e43f53b7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa situação, qual foi a massa da barra obtida pelos alunos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,00 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,75 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,00 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,00 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "15,00 kg",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

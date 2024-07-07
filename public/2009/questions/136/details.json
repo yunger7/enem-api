@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2009",
+    "index": 136,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dados da Associação Nacional de Empresas de Transportes Urbanos (ANTU) mostram que o número de passageiros transportados mensalmente nas principais regiões metropolitanas do país vem caindo sistematicamente. Eram 476,7 milhões de passageiros em 1995, e esse número caiu para 321,9 milhões em abril de 2001. Nesse período, o tamanho da frota de veículos mudou pouco, tendo no final de 2008 praticamente o mesmo tamanho que tinha em 2001.  \nO gráfico a seguir mostra um índice de produtividade utilizado pelas empresas do setor, que é a razão entre o total de passageiros transportados por dia e o tamanho da frota de veículos.\n\n![](https://enem.dev/2009/questions/136/dcd1ac1c-61ef-4937-bc83-ee7b4a18f667.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/136/dcd1ac1c-61ef-4937-bc83-ee7b4a18f667.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Supondo que as frotas totais de veículos naquelas regiões metropolitanas em abril de 2001 e em outubro de 2008 eram do mesmo tamanho, os dados do gráfico permitem inferir que o total de passageiros transportados no mês de outubro de 2008 foi aproximadamente igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "355 milhões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "400 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "426 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "441 milhões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "477 milhões.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

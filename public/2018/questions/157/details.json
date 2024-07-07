@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2018",
+    "index": 157,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.  \nCerto mapa tem escala 1 : 58 000 000.\n\n![](https://enem.dev/2018/questions/157/4eb455e0-2c2e-46d3-83d6-d589c334a2c3.png)\n\nConsidere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 cm.",
+    "files": [
+        "https://enem.dev/2018/questions/157/4eb455e0-2c2e-46d3-83d6-d589c334a2c3.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A medida real, em quilômetro, desse segmento de reta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 408.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "7 632.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "44 080.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "76 316.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "440 800.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

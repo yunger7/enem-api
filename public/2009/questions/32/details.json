@@ -1,0 +1,45 @@
+{
+    "title": "Questão 32 - ENEM 2009",
+    "index": 32,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/32/2f78c8cf-ff4d-40a1-ad8a-fd513f7001c3.png)",
+    "files": [
+        "https://enem.dev/2009/questions/32/2f78c8cf-ff4d-40a1-ad8a-fd513f7001c3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dentre os fenômenos decorrentes da interação entre a radiação e os átomos do indivíduo que permitem a obtenção desta imagem inclui-se a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Maior refração ao atravessar os átomos de carbono que os átomos de cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Maior ionização de moléculas de água que de átomos de carbono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 141 - ENEM 2013",
+    "index": 141,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/141/3cf638d1-7d15-4696-b092-de676c4e6701.png)",
+    "files": [
+        "https://enem.dev/2013/questions/141/3cf638d1-7d15-4696-b092-de676c4e6701.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Utilize 1,7 como aproximação para √3\nO valor de R, em centímetros, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "65,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "74,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "81,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "91,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

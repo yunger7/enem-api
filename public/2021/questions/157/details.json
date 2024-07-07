@@ -1,0 +1,49 @@
+{
+    "title": "Questão 157 - ENEM 2021",
+    "index": 157,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = ![](https://enem.dev/2021/questions/157/8c6e4e74-df9c-40f8-8252-dbdeaea6b052.png), i, j ![](https://enem.dev/2021/questions/157/be8d14c5-515d-49fd-ac32-96ff68aec07f.png) {1, 2, 3, 4, 5}, em que o elemento ![](https://enem.dev/2021/questions/157/d9158cca-6b4e-48a2-bfdb-ffe3e0bc450d.png) corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento ![](https://enem.dev/2021/questions/157/9e0b26da-8c61-4aad-b6d1-2266960860e0.png) é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n\n![](https://enem.dev/2021/questions/157/7d732410-1899-40e4-ab0d-c9cac5de4aeb.png)",
+    "files": [
+        "https://enem.dev/2021/questions/157/8c6e4e74-df9c-40f8-8252-dbdeaea6b052.png",
+        "https://enem.dev/2021/questions/157/be8d14c5-515d-49fd-ac32-96ff68aec07f.png",
+        "https://enem.dev/2021/questions/157/d9158cca-6b4e-48a2-bfdb-ffe3e0bc450d.png",
+        "https://enem.dev/2021/questions/157/9e0b26da-8c61-4aad-b6d1-2266960860e0.png",
+        "https://enem.dev/2021/questions/157/7d732410-1899-40e4-ab0d-c9cac5de4aeb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual região foi selecionada para o investimento da construtora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

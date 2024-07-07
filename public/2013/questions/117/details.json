@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2013",
+    "index": 117,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Mesmo tendo a trajetória do movimento interrompida com a prisão de seus dois líderes, o tropicalismo não deixou de cumprir seu papel de vanguarda na música popular brasileira. A partir da década de 70 do século passado, em lugar do produto musical de exportação de nível internacional prometido pelos baianos com a “retomada da linha evolutória”, instituiu-se nos meios de comunicação e na indústria do lazer uma nova era musical.\n\nTINHORÃO, J. R. **Pequena história da música popular**: da modinha ao tropicalismo. São Paulo: Art, 1986 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A nova era musical mencionada no texto evidencia um gênero que incorporou a cultura de massa e se adequou à realidade brasileira. Esse gênero está representado pela obra cujo trecho da letra é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A estrela d'alva / No céu desponta / E a lua anda tonta / Com tamanho esplendor. (As pastorinhas, Noel Rosa e João de Barro)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Hoje / Eu quero a rosa mais linda que houver / Quero a primeira estrela que vier / Para enfeitar a noite do meu bem. (A noite do meu bem, Dolores Duran)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "No rancho fundo / Bem pra lá do fim do mundo / Onde a dor e a saudade / Contam coisas da cidade. (No rancho fundo, Ary Barroso e Lamartine Babo)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Baby Baby / Não adianta chamar / Quando alguém está perdido / Procurando se encontrar. (Ovelha negra, Rita Lee)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Pois há menos peixinhos a nadar no mar / Do que os beijinhos que eu darei / Na sua boca. (Chega de saudade, Tom Jobim e Vinicius de Moraes)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

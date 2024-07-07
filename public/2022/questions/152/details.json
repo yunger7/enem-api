@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2022",
+    "index": 152,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:  \n• Distância mínima (Dmín) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.  \n• Distância máxima (Dmáx) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.  \nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\n\n![](https://enem.dev/2022/questions/152/f182fb95-a05f-4d8d-bd7d-bbf7adf3d95b.png)\n\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas,  \nampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.",
+    "files": [
+        "https://enem.dev/2022/questions/152/f182fb95-a05f-4d8d-bd7d-bbf7adf3d95b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantas fileiras de poltronas a sala comportará após essa ampliação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "28",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "29",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "35",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

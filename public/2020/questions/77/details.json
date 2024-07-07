@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2020",
+    "index": 77,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todas as ações de todos os homens são praticadas com vistas ao que lhe parece um bem; se todas as comunidades visam algum bem, é evidente que a mais importante de todas elas e que inclui todas as outras tem mais que todas este objetivo e visa ao mais importante de todos os bens.\n\n**ARISTÓTELES Política**. Brasília: UnB,1988.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ética e política, pois conduzem à eudaimonia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Retórica e linguagem, pois cuidam dos discursos na ágora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Metafísica e ontologia, pois tratam da filosofia primeira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Democracia e sociedade, pois se referem a relações sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Geração e corrupção, pois abarcam o campo da physis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

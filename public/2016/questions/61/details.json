@@ -1,0 +1,45 @@
+{
+    "title": "Questão 61 - ENEM 2016",
+    "index": 61,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/61/0ebdcee7-9e70-490b-90de-f5702770667f.jpg)\n\nO pesquisador concluiu corretamente que os peixes controlam a densidade dos(as)",
+    "files": [
+        "https://enem.dev/2016/questions/61/0ebdcee7-9e70-490b-90de-f5702770667f.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Algas, estimulando seu crescimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cracas, predando especialmente animais pequenos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mexilhões, predando especialmente animais pequenos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Quatro espécies testadas, predando indivíduos pequenos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ascídias, apesar de não representarem os menores organismos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

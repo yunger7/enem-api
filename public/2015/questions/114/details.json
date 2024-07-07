@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2015",
+    "index": 114,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Rede social pode prever desempenho profissional, diz pesquisa**\n\nPense duas vezes antes de postar qualquer item em seu perfil nas redes sociais. O conselho, repetido à exaustão por consultores de carreira por aí, acaba de ganhar um status, digamos, mais científico. De acordo com resultados da pesquisa, uma rápida análise do perfil nas redes sociais pode prever o desempenho profissional do candidato a uma oportunidade de emprego. Para chegar a essa conclusão, uma equipe de pesquisadores da Northern Illinois University, University of Evansville e Auburn University pediu a um professor universitário e dois alunos para analisarem perfis de um grupo de universitários.\n\nApós checar fotos, postagens, número de amigos e interesses por 10 minutos, o trio considerou itens como consciência, afabilidade, extroversão, estabilidade emocional e receptividade. Seis meses depois, as impressões do grupo foram comparadas com a análise de desempenho feita pelos chefes dos jovens que tiveram seus perfis analisados. Os pesquisadores encontraram uma forte correlação entre as características descritas a partir dos dados da rede e o comportamento dos universitários no ambiente de trabalho.\n\nDisponível em: http://exame.abril.com.br. Acesso em: 29 fev. 2012 (adaptado).\n\nAs redes sociais são espaços de comunicação e interação _on-line_ que possibilitam o conhecimento de aspectos da privacidade de seus usuários.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo o texto, no mundo do trabalho, esse conhecimento permite",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Identificar a capacidade física atribuída ao candidato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Certificar a competência profissional do candidato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Controlar o comportamento virtual e real do candidato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Avaliar informações pessoais e comportamentais sobre o candidato.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Aferir a capacidade intelectual do candidato na resolução de problemas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

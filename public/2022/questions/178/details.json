@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2022",
+    "index": 178,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro.  \nA cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

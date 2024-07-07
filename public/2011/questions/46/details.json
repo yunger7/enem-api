@@ -1,0 +1,45 @@
+{
+    "title": "Questão 46 - ENEM 2011",
+    "index": 46,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/46/47ffbebd-35fe-40ff-b7f6-c1ede9958539.png)",
+    "files": [
+        "https://enem.dev/2011/questions/46/47ffbebd-35fe-40ff-b7f6-c1ede9958539.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A explicação para a necessidade do uso da engrenagem com trava é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O travamento do motor, para que ele não se solte aleatoriamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A seleção da velocidade, controlada pela pressão nos dentes da engrenagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O controle do sentido da velocidade tangencial, permitindo, inclusive, uma fácil leitura do seu valor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A determinação do movimento, devido ao caráter aleatório, cuja tendência é o equilíbrio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A escolha do ângulo a ser girado, sendo possível, inclusive, medi-lo pelo número de dentes da engrenagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

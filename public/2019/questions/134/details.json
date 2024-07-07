@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2019",
+    "index": 134,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um experimento simples, que pode ser realizado com materiais encontrados em casa, é realizado da seguinte forma: adiciona-se um volume de etanol em um copo de vidro e, em seguida, uma folha de papel. Com o passar do tempo, observa-se um comportamento peculiar: o etanol se desloca sobre a superfície do papel, superando a gravidade que o atrai no sentido oposto, como mostra a imagem. Para parte dos estudantes, isso ocorre por causa da absorção do líquido pelo papel.\n\n![](https://enem.dev/2019/questions/134/daffa203-f0b6-42ad-aab7-0441961a2ed3.png)",
+    "files": [
+        "https://enem.dev/2019/questions/134/daffa203-f0b6-42ad-aab7-0441961a2ed3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Do ponto de vista científico, o que explica o movimento do líquido é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evaporação do líquido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diferença de densidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Reação química com o papel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Capilaridade nos poros do papel.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Resistência ao escoamento do líquido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

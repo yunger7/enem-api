@@ -1,0 +1,46 @@
+{
+    "title": "Questão 159 - ENEM 2009",
+    "index": 159,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um experimento consiste em colocar certa quantidade de bolas de vidro idênticas em um copo com água até certo nível e medir o nível da água, conforme ilustrado na figura a seguir. Como resultado do experimento, concluiu-se que o nível da água é função do número de bolas de vidro que são colocadas dentro do copo.\n\n![](https://enem.dev/2009/questions/159/c49b9a82-ca97-42ec-89a8-0d08a9c8abd3.jpg)\n\nO quadro a seguir mostra alguns resultados do experimento realizado.\n\n![](https://enem.dev/2009/questions/159/09fc439a-a96c-466c-a8a7-0928313480ae.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/159/c49b9a82-ca97-42ec-89a8-0d08a9c8abd3.jpg",
+        "https://enem.dev/2009/questions/159/09fc439a-a96c-466c-a8a7-0928313480ae.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual a expressão algébrica que permite calcular o nível da água (y) em função do número de bolas (x)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y = 30x.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y = 25x + 20,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y = 1,27x.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Y = 0,7x.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Y = 0,07x + 6.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

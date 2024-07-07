@@ -1,0 +1,46 @@
+{
+    "title": "Questão 139 - ENEM 2018",
+    "index": 139,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por 12 semirretas com extremidades na origem, separadas por ângulos de ![](https://enem.dev/2018/questions/139/d84b3e68-0894-4239-a9ec-c8e469562e5c.png) conforme a figura.\n\n![](https://enem.dev/2018/questions/139/156b89f8-d720-4f70-a5d9-81bbfe878262.png)\n\nSuponha que os objetos se desloquem apenas pelas semirretas e pelas circunferências dessa malha, não podendo passar pela origem (0;0).  \nConsidere o valor de _π_ com aproximação de, pelo menos, uma casa decimal.",
+    "files": [
+        "https://enem.dev/2018/questions/139/d84b3e68-0894-4239-a9ec-c8e469562e5c.png",
+        "https://enem.dev/2018/questions/139/156b89f8-d720-4f70-a5d9-81bbfe878262.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para realizar o percurso mais curto possível ao longo da malha, do ponto B até o ponto A, um objeto deve percorrer uma distância igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/139/1d1d2cb9-d3f2-40bd-8788-ceb1aaaf1252.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/139/3d56d354-9153-49b1-bfe6-34dba6a2b043.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/139/6adf9c16-37c7-4686-89e7-dc05a22c1a47.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/139/8161d961-7997-4971-b30d-427924fc0ac8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/139/aa89cb88-6296-4a65-8d57-ebe259edc4b0.png",
+            "isCorrect": false
+        }
+    ]
+}

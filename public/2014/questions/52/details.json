@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2014",
+    "index": 52,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.\n\n_COELHO, F. A. S. Fármacos e quiralidade. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 3, maio 2001 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa malformação congênita ocorre porque esses enantiômeros",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reagem entre si.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Não podem ser separados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Não estão presentes em partes iguais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interagem de maneira distinta com o organismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "São estruturas com diferentes grupos funcionais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2017",
+    "index": 108,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O brinquedo pula-pula (cama elástica) é composto por uma lona circular flexível horizontal presa por molas à sua borda. As crianças brincam pulando sobre ela, alterando e alternando suas formas de energia. Ao pular verticalmente, desprezando o atrito com o ar e os movimentos de rotação do corpo enquanto salta, uma criança realiza um movimento periódico vertical em torno da posição de equilíbrio da lona (h = 0), passando pelos pontos de máxima e de mínima alturas, hmáx e hmin, respectivamente.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esquematicamente, o esboço do gráfico da energia cinética da criança em função de sua posição vertical na situação descrita é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/108/24461a0d-95e8-462d-a82d-22ac13dff808.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/108/7d2c21e5-6f18-45ed-83c0-f21311f084a2.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/108/11f3a959-f625-48d7-9f8c-b9b76d20cded.jpg",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/108/b34b792f-d948-477c-b7db-7fdd8749a507.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/108/36bdb8ae-b187-4ae8-bc1d-21c475dc645b.jpg",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2017",
+    "index": 28,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2017/questions/28/de217b18-c918-4279-a59c-131b0d8f4276.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/28/de217b18-c918-4279-a59c-131b0d8f4276.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Campanhas publicitárias podem evidenciar problemas sociais. O Cartaz tem como finalidade",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Alertar os homens agressores sobre as consequências de seus atos,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conscientizar a população sobre a necessidade de denunciar a violência doméstica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Instruir as mulheres sobre o que fazer em casos de agressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Despertar nas crianças a capacidade de reconhecer atos de violência doméstica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Exigir das autoridades ações preventivas contra a Violência doméstica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

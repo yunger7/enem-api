@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2014",
+    "index": 84,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O fenômeno descrito é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Polarização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interferência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ressonância.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

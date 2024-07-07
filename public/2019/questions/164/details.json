@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2019",
+    "index": 164,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um mestre de obras deseja fazer uma laje com espessura de 5 cm utilizando concreto usinado, conforme as dimensões do projeto dadas na figura. O concreto para fazer a laje será fornecido por uma usina que utiliza caminhões com capacidades máximas de 2m³, 5m³ e 10m³ de concreto.\n\n![](https://enem.dev/2019/questions/164/ed128607-487b-4154-8a1b-3cc1bcc02a35.jpg)",
+    "files": [
+        "https://enem.dev/2019/questions/164/ed128607-487b-4154-8a1b-3cc1bcc02a35.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a menor quantidade de caminhões, utilizando suas capacidades máximas, que o mestre de obras deverá pedir à usina de concreto para fazer a laje?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Dez caminhões com capacidade máxima de 10 m³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cinco caminhões com capacidade máxima de 10 m³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um caminhão com capacidade máxima de 5 m³.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Dez caminhões com capacidade máxima de 2 m³.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Um caminhão com capacidade máxima de 2 m³.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

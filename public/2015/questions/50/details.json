@@ -1,0 +1,46 @@
+{
+    "title": "Questão 50 - ENEM 2015",
+    "index": 50,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/50/8fe7b2bf-2b9e-45ce-b602-02f97af15325.png)\n\nPara selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\n![](https://enem.dev/2015/questions/50/e0f1ee0e-3b76-4274-b048-49cd8c8fc7ca.png)\n\nConsidere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10\\-9 m.",
+    "files": [
+        "https://enem.dev/2015/questions/50/8fe7b2bf-2b9e-45ce-b602-02f97af15325.png",
+        "https://enem.dev/2015/questions/50/e0f1ee0e-3b76-4274-b048-49cd8c8fc7ca.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O filtro solar que a pessoa deve selecionar é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

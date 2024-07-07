@@ -1,0 +1,43 @@
+{
+    "title": "Questão 79 - ENEM 2011",
+    "index": 79,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Moradores sobreviventes da tragédia que destruiu aproximadamente 60 casas no Morro do Bumba, na Zona Norte de Niterói (RJ), ainda defendem a hipótese de o deslizamento ter sido causado por uma explosão provocada por gás metano, visto que esse local foi um lixão entre os anos 1960 e 1980.\n\n**Jornal Web. Disponível em: http://www.ojornalweb.com. Acesso em: 12 abr. 2010 (adaptado).**",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gás mencionado no texto é produzido",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Como subproduto da respiração aeróbia bacteriana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pela degradação anaeróbia de matéria orgânica por bactérias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Como produto da fotossíntese de organismos pluricelulares autotróficos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pela transformação química do gás carbônico em condições anaeróbias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pela conversão, por oxidação química, do gás carbônico sob condições aeróbias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

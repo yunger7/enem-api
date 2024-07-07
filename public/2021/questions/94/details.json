@@ -1,0 +1,49 @@
+{
+    "title": "Questão 94 - ENEM 2021",
+    "index": 94,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura foi extraída de um antigo jogo de computadores, chamado _Bang! Bang!_\n\n![](https://enem.dev/2021/questions/94/5a37495e-68a2-43fb-ac41-13a2fcc55e79.png)\n\nNo jogo, dois competidores controlam os canhões  **A**  e  **B**  , disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo de velocidade inicial de disparo ![](https://enem.dev/2021/questions/94/435840f2-c28e-427b-82f4-c210044547ee.png)   e para o ângulo de disparo ![](https://enem.dev/2021/questions/94/708a0541-6e2f-4256-ab6e-24d3b0a9a668.png).\n\nEm determinado momento de uma partida, o competidor  **B**  deve disparar; ele sabe que a bala disparada anteriormente, = 53 °, Passou tangenciando o Ponto  **P**  .\n\nNo jogo,  ![](https://enem.dev/2021/questions/94/c86c266a-40df-44d7-bc37-00fb42361fd1.png) é igual a 10 m / s 2. Considere sen 53 ° = 0,8, cos 53 ° = 0,6 e desprezível a ação de dissipativas.\n\nDisponível em:  [http://mebdownloads.butzke.net.br](http://mebdownloads.butzke.net.br/) . Acesso em: 18 abr. 2015 (adaptado).\n\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de   ![](https://enem.dev/2021/questions/94/0fea5329-7b51-4107-b32c-9e80dbb06407.png) que permitiria ao disparo pelo canhão  **B**  atingir o canhão  **A?**",
+    "files": [
+        "https://enem.dev/2021/questions/94/5a37495e-68a2-43fb-ac41-13a2fcc55e79.png",
+        "https://enem.dev/2021/questions/94/435840f2-c28e-427b-82f4-c210044547ee.png",
+        "https://enem.dev/2021/questions/94/708a0541-6e2f-4256-ab6e-24d3b0a9a668.png",
+        "https://enem.dev/2021/questions/94/c86c266a-40df-44d7-bc37-00fb42361fd1.png",
+        "https://enem.dev/2021/questions/94/0fea5329-7b51-4107-b32c-9e80dbb06407.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de que permitiria ao disparo pelo canhão  B  atingir o canhão  A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30 m/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "35 m/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "40 m/s",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "45 m/s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 m/s",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

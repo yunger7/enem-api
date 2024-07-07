@@ -1,0 +1,45 @@
+{
+    "title": "Questão 159 - ENEM 2018",
+    "index": 159,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "_Minecraft_ é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma. É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento de cubinhos.  \nUm jogador deseja construir um cubo com dimensões 4 x 4 x 4. Ele já empilhou alguns dos cubinhos necessários, conforme a figura.\n\n![](https://enem.dev/2018/questions/159/3165700a-a712-45c3-9e96-cbcc942d98e7.png)\n\nOs cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peça única, capaz de completar a tarefa.",
+    "files": [
+        "https://enem.dev/2018/questions/159/3165700a-a712-45c3-9e96-cbcc942d98e7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O formato da peça capaz de completar o cubo 4 x 4 x 4 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/159/7e00d062-f3ef-413c-a6c6-8101297adb78.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/159/fac127c0-476f-4865-95e1-fc57636f7213.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/159/cbc5a41d-a91a-4869-b508-c47eab7acea0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/159/2f93160d-cde0-4da6-914c-8be65a4cf0e6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/159/e953ba55-bf4d-433f-8d1a-514afba2a67e.png",
+            "isCorrect": false
+        }
+    ]
+}

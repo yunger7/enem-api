@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2016",
+    "index": 56,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs _in vitro_ é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para qual organela?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Núcleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mitocôndria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Peroxissomo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Complexo golgiense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Retículo endoplasmático.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

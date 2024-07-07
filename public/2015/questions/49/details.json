@@ -1,0 +1,45 @@
+{
+    "title": "Questão 49 - ENEM 2015",
+    "index": 49,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/49/8e90f92f-f8c7-4383-a642-b48dfef28550.png)\n\nConsidere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m² , que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.",
+    "files": [
+        "https://enem.dev/2015/questions/49/8e90f92f-f8c7-4383-a642-b48dfef28550.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Desprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4,0 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33 s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "300 s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

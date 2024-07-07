@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2020",
+    "index": 90,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\nO aumento de casos suspeitos de febre amarela em Minas pode estar relacionado à tragédia de Mariana, em 2015, segundo a bióloga da Fiocruz Márcia Chame. A hipótese tem como ponto de partida a localização das cidades mineiras que identificaram até o momento casos de pacientes com sintomas da doença. Grande parte está na região próxima do Rio Doce, afetado pelo rompimento da Barragem de Fundão, em novembro de 2015.\n\nFORMENTI, L. Para a bióloga, surto de febre amarela pode ter relação com tragédia de Mariana. **O Estado de São Paulo**, 14 jan. 2017.\n\n**TEXTO II**\n\nPor outros lado, Servio Ribeiro considera remota a possibilidade de influência da tragédia de Mariana (MG) neste surto de febre amarela em Minas Gerais. “A febre amarela é uma doença de interior de floresta. O mosquito que a transmite põe ovos em cavidades de árvores e em bromélias. É um mosquito da estrutura da floresta. Ele não se relaciona muito com grandes corpos-d’água e com rios. As cidades afetadas pela doença estão em uma região onde os rejeitos não chegaram com força para derrubar a floresta”, diz o biólogo.\n\nRODRIGUES, L. Especialistas investigam relação entre febre amarela e degradação ambiental. **Agência Brasil**, 25 jan. 2017.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sobre a tragédia de Mariana, os textos apresentam divergência quanto ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Poluição dos rios locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Identificação da área afetada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Destruição da vegetação nativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aparecimento de enfermidade endêmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Surgimento de comunidades desabrigadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

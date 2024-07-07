@@ -1,0 +1,45 @@
+{
+    "title": "Questão 8 - ENEM 2012",
+    "index": 8,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/8/88114786-6c63-4f7d-9f2d-9d38e58eaaab.jpg)\n\nLord Willingdon’s Dilemma (Disponível em: www.gandhiserve.org. Acesso em: 21 nov.2011.)",
+    "files": [
+        "https://enem.dev/2012/questions/8/88114786-6c63-4f7d-9f2d-9d38e58eaaab.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O cartum, publicado em 1932, ironiza as consequências sociais das constantes prisões de Mahatma Gandhi pelas autoridades britânicas, na Índia, demonstrando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A ineficiência do sistema judiciário inglês no território indiano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O apoio da população hindu à prisão de Gandhi.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O caráter violento das manifestações hindus frente à ação inglesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A impossibilidade de deter o movimento liderado por Gandhi.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A indiferença das autoridades britânicas frente ao apelo popular hindu.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

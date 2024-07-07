@@ -1,0 +1,45 @@
+{
+    "title": "Questão 50 - ENEM 2011",
+    "index": 50,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/50/eaf14b98-b405-49df-aa42-3b0df75a4075.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Benzeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Glicose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Octano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Etanol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

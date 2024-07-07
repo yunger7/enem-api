@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2010",
+    "index": 81,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Durante uma obra em um clube, um grupo de trabalhadores teve de remover uma escultura de ferro maciço colocada no fundo de uma piscina vazia. Cinco trabalhadores amarraram cordas à escultura e tentaram puxá-la para cima, sem sucesso.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se a piscina for preenchida com água, ficará mais fácil para os trabalhadores removerem a escultura, pois a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Escultura flutuará, desta forma, os homens não precisarão fazer força para remover a escultura do fundo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escultura ficará como peso menor. Desta forma, a intensidade da força necessária para elevar a escultura será menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Água exercerá uma força na escultura proporcional a sua massa, e para cima. Esta força se somará à força que os trabalhadores fazem para anular a ação da força peso da escultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Água exercerá uma força na escultura para baixo, e esta passará a receber uma força ascendente do piso da piscina. Esta força ajudará a anular a ação da força peso na escultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Água exercerá uma força na escultura proporcional ao seu volume, e para cima. Esta força se somará à força que os trabalhadores fazem, podendo resultar em uma força ascendente maior que o peso da escultura.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

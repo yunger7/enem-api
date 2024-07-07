@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2015",
+    "index": 28,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O que implica o sistema da _pólis_ é uma extraordinária preeminência da palavra sobre todos os outros instrumentos do poder. A palavra constitui o debate contraditório, a discussão, a argumentação e a polêmica. Torna-se a regra do jogo intelectual, assim como do jogo político.\n\nVERNANT, J. P. **As origens do pensamento grego**. Rio de Janeiro: Bertrand, 1992 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na configuração política da democracia grega, em especial a ateniense, a ágora tinha por função",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Agregar os cidadãos em torno de reis que governavam em prol da cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

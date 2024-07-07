@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2012",
+    "index": 81,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Paleontólogos estudam fósseis e esqueletos de dinossauros para tentar explicar o desaparecimento desses animais. Esses estudos permitem afirmar que esses animais foram extintos há cerca de 65 milhões de anos. Uma teoria aceita atualmente é a de que um asteroide colidiu com a Terra, formando uma densa nuvem de poeira na atmosfera.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com essa teoria, a extinção ocorreu em função de modificações no planeta que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desestabilizaram o relógio biológico dos animais, causando alterações no código genético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Reduziram a penetração da luz solar até a superfície da Terra, interferindo no fluxo energético das teias tróficas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Causaram uma série de intoxicações nos animais, provocando a bioacumulação de partículas de poeira nos organismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resultaram na sedimentação das partículas de poeira levantada com o impacto do meteoro, provocando o desaparecimento de rios e lagos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Evitaram a precipitação de água até a superfície da Terra, causando uma grande seca que impediu a retroalimentação do ciclo hidrológico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

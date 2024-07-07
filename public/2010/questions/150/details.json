@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2010",
+    "index": 150,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A loja Telas & Molduras cobra 20 reais por metro quadrado de tela, 15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais. Uma artista plástica precisa encomendar telas e molduras a essa loja, suficientes para 8 quadros retangulares (25 cm × 50 cm). Em seguida, fez uma segunda encomenda, mas agora para 8 quadros retangulares (50 cm × 100 cm).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor da segunda encomenda será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior do que o valor da primeira encomenda, mas não o dobro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Menor do que o valor da primeira encomenda, mas não a metade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

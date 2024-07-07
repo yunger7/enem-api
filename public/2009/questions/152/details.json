@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2009",
+    "index": 152,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "**Técnicos concluem mapeamento do aquífero Guarani**\n\nO aquífero Guarani localiza-se no subterrâneo dos territórios da Argentina, Brasil, Paraguai e Uruguai, com extensão total de 1.200.000 quilômetros quadrados, dos quais 840.000 quilômetros quadrados estão no Brasil. O aquífero armazena cerca de 30 mil quilômetros cúbicos de água e é considerado um dos maiores do mundo.  \nNa maioria das vezes em que são feitas referências à água, são usadas as unidades metro cúbico e litro, e não as unidades já descritas. A Companhia de Saneamento Básico do Estado de São Paulo (SABESP) divulgou, por exemplo, um novo reservatório cuja capacidade de armazenagem é de 20 milhões de litros.\n\nDisponível em: http://noticias.terra.com.br. Acesso em: 10 jul. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Comparando as capacidades do aquífero Guarani e desse novo reservatório da SABESP, a capacidade do aquífero Guarani é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,5 x 102 vezes a capacidade do reservatório novo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5 x 103 vezes a capacidade do reservatório novo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,5 x 106 vezes a capacidade do reservatório novo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,5 x 108 vezes a capacidade do reservatório novo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,5 x 109 vezes a capacidade do reservatório novo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

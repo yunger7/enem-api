@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2011",
+    "index": 16,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Estamos testemunhando o reverso da tendência histórica da assalariação do trabalho e socialização da produção, que foi característica predominante na era industrial. A nova organização social e econômica baseada nas tecnologias da informação visa à administração descentralizadora, ao trabalho individualizante e aos mercados personalizados. As novas tecnologias da informação possibilitam, ao mesmo tempo, a descentralização das tarefas e sua coordenação em uma rede interativa de comunicação em tempo real, seja entre continentes, seja entre os andares de um mesmo edifício.\n\nCASTELLS, M. **A sociedade em rede.** São Paulo: Paz e Terra, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No contexto descrito, as sociedades vivenciam mudanças constantes nas ferramentas de comunicação que afetam os processos produtivos nas empresas. Na esfera do trabalho, tais mudanças têm provocado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O aprofundamento dos vínculos dos operários com as linhas de montagem sob influência dos modelos orientais de gestão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O aumento das formas de teletrabalho como solução de larga escala para o problema do desemprego crônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O avanço do trabalho flexível e da terceirização como respostas às demandas por inovação e com vistas à mobilidade dos investimentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A autonomização crescente das máquinas e computadores em substituição ao trabalho dos especialistas técnicos e gestores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O fortalecimento do diálogo entre operários, gerentes, executivos e clientes com a garantia de harmonização das relações de trabalho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

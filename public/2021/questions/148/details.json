@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2021",
+    "index": 148,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala de Richter, ocorridos em nosso planeta nos anos 2000 e 2011.\n\n![](https://enem.dev/2021/questions/148/4e954c86-a11f-49f4-b82b-b9cee8375883.png)",
+    "files": [
+        "https://enem.dev/2021/questions/148/4e954c86-a11f-49f4-b82b-b9cee8375883.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período. Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17,5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

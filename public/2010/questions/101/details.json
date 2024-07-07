@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2010",
+    "index": 101,
+    "year": 2010,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010/questions/101/28db87e9-37b3-49bb-ac74-ecdb20dad7ef.png)",
+    "files": [
+        "https://enem.dev/2010/questions/101/28db87e9-37b3-49bb-ac74-ecdb20dad7ef.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao circularem socialmente, os textos realizam-se como práticas de linguagem, assumindo configurações específicas, formais e de conteúdo. Considerando o contexto em que circula o texto publicitário, seu objetivo básico é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Influenciar o comportamento do leitor, por meio de apelos que visam à adesão ao consumo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Definir regras de comportamento social pautadas no combate ao consumismo exagerado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Defender a importância do conhecimento de informática pela população de baixo poder aquisitivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Facilitar o uso de equipamentos de informática pelas classes sociais economicamente desfavorecidas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Questionar o fato de o homem ser mais inteligente que a máquina, mesmo a mais moderna.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

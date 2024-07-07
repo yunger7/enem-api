@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2021",
+    "index": 89,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg)",
+    "files": [
+        "https://enem.dev/2021/questions/89/e99742b0-7668-451c-8ee6-7f98be4183a4.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Norte",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sul",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Leste",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Oeste",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Nordeste",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

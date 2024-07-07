@@ -1,0 +1,45 @@
+{
+    "title": "Questão 23 - ENEM 2019",
+    "index": 23,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019/questions/23/8bf66e27-d571-42d2-8e89-6c219f136985.png)",
+    "files": [
+        "https://enem.dev/2019/questions/23/8bf66e27-d571-42d2-8e89-6c219f136985.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse cartaz, o uso da imagem do calçado aliada ao texto verbal tem o objetivo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criticar as difíceis condições de vida dos refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Revelar a longa trajetória percorrida pelos refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incentivar a campanha de doações para os refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Denunciar a situação de carência vivida pelos refugiados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Simbolizar a necessidade de adesão à causa dos refugiados.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2011",
+    "index": 43,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/43/51607de2-1ed6-44e3-ad79-cd4c1d6237c6.png)\n\nCharge capa da revista “O Malho”, de 1904. Disponível em: http://1.bp.blogspot.com. (Foto: Reprodução/Enem)",
+    "files": [
+        "https://enem.dev/2011/questions/43/51607de2-1ed6-44e3-ad79-cd4c1d6237c6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A imagem representa as manifestações nas ruas da cidade do Rio de Janeiro, na primeira década do século XX, que integraram a Revolta da Vacina. Considerando o contexto político-social da época, essa revolta revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A insatisfação da população com os benefícios de uma modernização urbana autoritária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A consciência da população pobre sobre a necessidade de vacinação para a erradicação das epidemias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A garantia do processo democrático instaurado com a República, através da defesa da liberdade de expressão da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O planejamento do governo republicano na área de saúde, que abrangia a população em geral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O apoio ao governo republicano pela atitude de vacinar toda a população em vez de privilegiar a elite.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2011",
+    "index": 172,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/172/4e50e4d6-244a-45ad-8eae-0d21b0a2090e.png)",
+    "files": [
+        "https://enem.dev/2011/questions/172/4e50e4d6-244a-45ad-8eae-0d21b0a2090e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "K, I e F.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "K, J, I, G, L e F.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "K, L, G, I, J, H e F.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "K, J, H, I, G, L e F.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "K, L, G, I, H, J e F.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

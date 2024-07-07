@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2020",
+    "index": 142,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio.\n\n![](https://enem.dev/2020/questions/142/b2b35329-a61a-40a8-a643-097c520ea8bb.png)",
+    "files": [
+        "https://enem.dev/2020/questions/142/b2b35329-a61a-40a8-a643-097c520ea8bb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/142/5815f253-790c-489e-aa9e-8b734eca7eba.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/142/28e9c57b-3044-4216-8654-9b6058c015f3.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/142/168da0c8-5c83-4d49-a935-878c5999aef4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/142/a70cee23-ba5d-4f3c-b76d-8a86b13bdb6b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/142/c1567e92-2b0f-4ee8-9b31-81dc1cdc1be6.png",
+            "isCorrect": true
+        }
+    ]
+}

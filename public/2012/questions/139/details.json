@@ -1,0 +1,45 @@
+{
+    "title": "Questão 139 - ENEM 2012",
+    "index": 139,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico a seguir apresenta o resultado da enquete.\n\n![](https://enem.dev/2012/questions/139/d676f9b1-2c82-461a-9863-f38aacafed80.png)\n\nO administrador do _blog_ irá sortear um livro entre os visitantes que opinaram na postagem “Contos de Halloween”.",
+    "files": [
+        "https://enem.dev/2012/questions/139/d676f9b1-2c82-461a-9863-f38aacafed80.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sabendo que nenhum visitante votou mais de uma vez, a probabilidade de uma pessoa escolhida ao acaso entre as que opinaram ter assinalado que o conto “Contos de Halloween” é “Chato” é mais aproximada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,09.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,14.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,15.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,18.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

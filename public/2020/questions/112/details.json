@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2020",
+    "index": 112,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:\n\n![](https://enem.dev/2020/questions/112/3a5d84b5-cdc6-4ede-b856-91cf1b9bd52d.png)",
+    "files": [
+        "https://enem.dev/2020/questions/112/3a5d84b5-cdc6-4ede-b856-91cf1b9bd52d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Como você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Resfriaria no congelador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Borrifaria com spray de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Envolveria com papel alumínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aqueceria com secador de cabelos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Embrulharia em guardanapo de papel.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2017",
+    "index": 101,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.\n\nUm arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.\n\n![](https://enem.dev/2017/questions/101/0e9fcc06-6aa7-443d-bfaa-0485813ea263.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/101/0e9fcc06-6aa7-443d-bfaa-0485813ea263.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Haleto metálico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tungstênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mercúrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Xênon.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "LED",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

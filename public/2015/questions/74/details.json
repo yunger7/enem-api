@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2015",
+    "index": 74,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A palavra “biotecnologia” surgiu no século XX, quando o cientista Herbert Boyer introduziu a informação responsável pela fabricação da insulina humana em uma bactéria, para que ela passasse a produzir a substância.\n\nDisponível em: www.brasil.gov.br. Acesso em: 28 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As bactérias modificadas por Herbert Boyer passaram a produzir insulina humana porque receberam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A sequência de DNA codificante de insulina humana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A proteína sintetizada por células humanas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um RNA recombinante de insulina humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O RNA mensageiro de insulina humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Um cromossomo da espécie humana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

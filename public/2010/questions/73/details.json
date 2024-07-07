@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2010",
+    "index": 73,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/73/77d2c218-f8ec-4aba-83d2-701db70cdd89.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/73/77d2c218-f8ec-4aba-83d2-701db70cdd89.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo as condições do processo apresentado para a obtenção de carbonato de chumbo (II) por meio da lixiviação por carbonato de sódio e considerando uma massa de pasta residual de uma bateria de 6 kg, qual quantidade aproximada, em quilogramas, de PbCO3 é obtida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,7 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,9 Kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,9 Kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3,3 Kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,6 Kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - ENEM 2016",
+    "index": 86,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/86/52add56c-e390-4125-8e61-d553591f9b1c.png)",
+    "files": [
+        "https://enem.dev/2016/questions/86/52add56c-e390-4125-8e61-d553591f9b1c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com a figura, que posições correspondem a dois pontos consecutivos da manteiga derretida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "I e V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II e V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2019",
+    "index": 171,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas  numerações, conforme ilustrado na figura.\n\n![](https://enem.dev/2019/questions/171/c821eb9f-30e3-4fe1-84e7-8522a706223d.png)",
+    "files": [
+        "https://enem.dev/2019/questions/171/c821eb9f-30e3-4fe1-84e7-8522a706223d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C412 x C312 x C312 x C212",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C412 + C38 + C35 + C22",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C412 x 2 x C38 x C25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C412 + 2 + C312 + C312",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C412 x C38 x C35 x C22",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

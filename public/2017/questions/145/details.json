@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2017",
+    "index": 145,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\nOs dados sobre as pesquisas são os seguintes:\n\n![](https://enem.dev/2017/questions/145/2cf08ed8-74ba-469c-9e95-8e264b79394b.png)\n\nem que σ é um parâmetro e N é o número de pessoas  \nentrevistadas pela pesquisa.",
+    "files": [
+        "https://enem.dev/2017/questions/145/2cf08ed8-74ba-469c-9e95-8e264b79394b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual pesquisa deverá ser utilizada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "P2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "P5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

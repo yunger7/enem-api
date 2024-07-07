@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2021",
+    "index": 114,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos exames clínicos mais tradicionais para medir a capacidade reflexa dos indivíduos é o exame do reflexo patelar. Esse exame consiste na estimulação da patela, um pequeno osso localizado na parte anterior da articulação do joelho, com um pequeno martelo. A resposta reflexa ao estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual região específica do sistema nervoso coordena essa resposta?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ponte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Medula.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Cerebelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hipotálamo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Neuro-hipófise.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

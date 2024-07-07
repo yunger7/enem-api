@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2009",
+    "index": 61,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O autor da constituição de 1937, Francisco Campos, afirma no seu livro, O Estado Nacional, que o eleitor seria apático; a democracia de partidos conduziria à desordem; a independência do Poder Judiciário acabaria em injustiça e ineficiência; e que apenas o Poder Executivo, centralizado em Getúlio Vargas, seria capaz de dar racionalidade imparcial ao Estado, pois Vargas teria providencial intuição do bem e da verdade, além de ser um gênio político.\n\nCAMPOS, F. O Estado nacional. Rio de Janeiro: José Olympio, 1940 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo as ideias de Francisco Campos,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os eleitores, políticos e juízes seriam mal-intencionados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O governo Vargas seria um mal necessário, mas transitório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Vargas seria o homem adequado para implantar a democracia de partidos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A Constituição de 1937 seria a preparação para uma futura democracia liberal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vargas seria o homem capaz de exercer o poder de modo inteligente e correto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

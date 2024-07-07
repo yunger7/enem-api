@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2012",
+    "index": 59,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No Japão, um movimento nacional para a promoção da luta contra o aquecimento global leva o slogan: **1 pessoa, 1 dia, 1 kg de CO<sub>2</sub> a menos!** A ideia é cada pessoa reduzir em 1 kg a quantidade de CO<sub>2</sub> emitida todo dia, por meio de pequenos gestos ecológicos, como diminuir a queima de gás de cozinha.\n\nUm hamburguer ecológico? É pra já! Disponível em: http://lqes.iqm.unicamp.br.  \nAcesso em: 24 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando um processo de combustão completa de um gás de cozinha composto exclusivamente por butano\n(C4H10), a mínima quantidade desse gás que um japonês deve deixar de queimar para atender à meta diária,apenas com esse gesto, é de \nDados: CO2 (44 g/mol); C4H10 (58 g/mol)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,25 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,33 kg.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,0 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,3 kg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,0 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

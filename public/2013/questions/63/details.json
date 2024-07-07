@@ -1,0 +1,43 @@
+{
+    "title": "Questão 63 - ENEM 2013",
+    "index": 63,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No Brasil, cerca de 80% da energia elétrica advém de hidrelétricas, cuja construção implica o represamento de rios. A formação de um reservatório para esse fim, por sua vez, pode modificar a ictiofauna local. Um exemplo é o represamento do Rio Paraná, onde se observou o desaparecimento de peixes cascudos quase que simultaneamente ao aumento do número de peixes de espécies exóticas introduzidas, como o mapará e a corvina, as três espécies com nichos ecológicos semelhantes.\n\nPETESSE, M. L.; PETRERE JR., M. Ciência Hoje, São Paulo, n. 293, v. 49, jun. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa modificação da ictiofauna, o desaparecimento de cascudos é explicado pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do fluxo gênico da espécie nativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminuição da competição intraespecífica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento da competição interespecífica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Isolamento geográfico dos peixes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Extinção de nichos ecológicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

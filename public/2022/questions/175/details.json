@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2022",
+    "index": 175,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus  \nalgarismos.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O número escrito pelo estudante foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "135 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 350 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13 500 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "135 000 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 350 000 000,00",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

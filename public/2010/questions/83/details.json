@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2010",
+    "index": 83,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao colocar um pouco de açúcar ma água e mexer até a obtenção de uma só fase, prepara-se uma solução. O mesmo acontece ao se adicionar um pouquinho de sal à água e misturar bem. Uma substância capaz de dissolver o soluto é denominada solvente; por exemplo, a água é um solvente para o açúcar, para o sal e para várias outras substâncias. A figura a seguir ilustra essa citação.\n\n![](https://enem.dev/2010/questions/83/8b75906e-8371-440b-b712-7c31b6241295.png)",
+    "files": [
+        "https://enem.dev/2010/questions/83/8b75906e-8371-440b-b712-7c31b6241295.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que uma pessoa, para adoçar seu cafezinho, tenha utilizado 3,42 g de sacarose (massa molar igual a 342 g/mol) para uma xícara de 50 mℓ do líquido. Qual é a concentração final em mol/ℓ de sacarose nesse cafezinho?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,02",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

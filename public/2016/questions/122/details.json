@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2016",
+    "index": 122,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Qual é a segurança do sangue?**\n\nPara que o sangue esteja disponível para aqueles que necessitam, os indivíduos saudáveis devem criar o hábito de doar sangue e encorajar amigos e familiares saudáveis a praticarem o mesmo ato.  \nA prática de selecionar criteriosamente os doadores, bem como as rígidas normas aplicadas para testar, transportar, estocar e transfundir o sangue doado fizeram dele um produto muito mais seguro do que já foi anteriormente.  \nApenas pessoas saudáveis e que não sejam de risco para adquirir doenças infecciosas transmissíveis pelo sangue, como hepatites B e C, HIV, sífilis e Chagas, podem doar sangue.  \nSe você acha que sua saúde ou comportamento pode colocar em risco a vida de quem for receber seu sangue, ou tem a real intenção de apenas realizar o teste para o vírus HIV, NÃO DOE SANGUE.  \nCumpre destacar que apesar de o sangue doado ser testado para as doenças transmissíveis conhecidas no momento, existe um período chamado de janela imunológica em que um doador contaminado por um determinado vírus pode transmitir a doença através do seu sangue.  \nDA SUA HONESTIDADE DEPENDE A VIDA DE QUEM VAI RECEBER SEU SANGUE.\n\nDisponível em: www.prosangue.sp.gov.br. Acesso em: 24 abr. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa campanha, as informações apresentadas têm como objetivo principal",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Conscientizar o doador de sua corresponsabilidade pela qualidade do sangue.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Garantir a segurança de pessoas de grupos de risco durante a doação de sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Esclarecer o público sobre a segurança do processo de captação do sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alertar os doadores sobre as dificuldades enfrentadas na coleta de sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliar o número de doadores para manter o banco de sangue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

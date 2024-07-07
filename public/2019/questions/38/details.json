@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2019",
+    "index": 38,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "“O computador, dando prioridade à busca pela própria felicidade, parou de trabalhar para os humanos”. E assim que termina o conto O dia em que um computador escreveu um conto, escrito por uma inteligência artificial com a ajuda de cientistas humanos.\nOs cientistas selecionaram palavras e frases que seriam usadas na narrativa, e definiram um roteiro geral da história, que serviria como guia para a inteligência artificial. A partir daí, o computador criou o texto combinando as frases e seguindo as diretrizes que os cientistas impuseram. Os juízes não sabem quais textos são escritos por humanos e quais são feitos por computadores, o que mostra que o conto estava bem escrito. O dia só não passou para as próximas etapas porque, de acordo com os juízes, os personagens não foram muito bem descritos, embora o texto estivesse estruturalmente impecável.\nA ideia dos cientistas é continuar desenvolvendo a criatividade da IA para que ela se pareça cada vez mais com a humana. Simular esse tipo de resposta é difícil, porque o computador precisa ter, primeiro, um banco de dados vasto vinculado a uma programação específica para cada tipo de projeto – escrita, pintura, música, desenho e por aí vai.\nDANGELO, H. Disponível em: https: /isuper.abril.com.br. Acesso em: 5 dez. 2018\n \nO êxito e as limitações da tecnologia utilizada na composição do conto evidencia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indistinção entre personagens produzidos por máquinas e seres humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Necessidade de reformulação da base de dados elaborada por cientistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Autonomia de programas computacionais no desenvolvimento ficcional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diferença entre a estrutura e a criatividade da linguagem humana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Qualidade artística de textos produzidos por computadores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

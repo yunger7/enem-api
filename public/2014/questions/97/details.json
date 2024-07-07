@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2014",
+    "index": 97,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O boxe está perdendo cada vez mais espaço para um fenômeno relativamente recente do esporte, o MMA. E o maior evento de Artes Marciais Mistas do planeta é o _Ultimate Fighting Championship_, ou simplesmente UFC. O ringue, com oito cantos, foi desenhado para deixar os lutadores com mais espaço para as lutas. Os atletas podem usar as mãos e aplicar golpes de jiu-jitsu. Muitos podem falar que a modalidade é uma espécie de vale-tudo, mas isso já ficou no passado: agora, a modalidade tem regras e acompanhamento médico obrigatório para que o esporte apague o estigma negativo.\n\nCORREIA, D. UFC: saiba como o MMA nocauteou o boxe em oito golpes. **Veja**, 10 jun. 2011 (fragmento)\n\nO processo de modificação das regras do MMA retrata a tendência de redimensionamento de algumas práticas corporais, visando enquadrá-las em um determinado formato.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual o sentido atribuído a essas transformações incorporadas historicamente ao MMA?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A modificação das regras busca associar valores lúdicos ao MMA, possibilitando a participação de diferentes populações como atividade de lazer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As transformações do MMA aumentam o grau de violência das lutas, favorecendo a busca de emoções mais fortes tanto aos competidores como ao público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As mudanças de regras do MMA atendem à necessidade de tornar a modalidade menos violenta, visando sua introdução nas academias de ginástica na dimensão da saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As modificações incorporadas ao MMA têm por finalidade aprimorar as técnicas das diferentes artes marciais, favorecendo o desenvolvimento da modalidade enquanto defesa pessoal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As transformações do MMA visam delimitar a violência das lutas, preservando a integridade dos atletas e enquadrando a modalidade no formato do esporte de espetáculo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

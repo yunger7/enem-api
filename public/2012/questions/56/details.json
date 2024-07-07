@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2012",
+    "index": 56,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura representa um dos modelos de um sistema de interações entre seres vivos. Ela apresenta duas propriedades, P1 e P2, que interagem em I, para afetar uma terceira propriedade, P3, quando o sistema é alimentado por uma fonte de energia, E. Essa figura pode simular um sistema de campo em que P1 representa as plantas verdes; P2 um animal herbívoro e P3, um animal onívoro.\n\n![](https://enem.dev/2012/questions/56/82c93acd-892a-4110-8fdb-6dbd060df328.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/56/82c93acd-892a-4110-8fdb-6dbd060df328.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A função interativa I representa a proporção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Herbivoria entre P1 e P2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Polinização entre P1 e P2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P3 utilizada na alimentação de P1 e P2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P1 ou P2 utilizada na alimentação de P3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Energia de P1 e de P2 que saem do sistema.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2018",
+    "index": 45,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\n![](https://enem.dev/2018/questions/45/40054947-ada4-41a2-b1fe-0bb9db118b2f.png)\n\nBRACCO, A; LOSCHI, M. Quando rotas se tornam arte. **Retratos: a revista do IBGE**. Rio de Janeiro, n. 3, set. 2017 (adaptado).\n\n**TEXTO II**\n\nStephen Lund, artista canadense, morador em Victoria, capital da Colúmbia Britânica (Canadá), transformou-se em fenômeno mundial produzindo obras de arte virtuais pedalando sua _bike_. Seguindo rotas traçadas com o auxílio de um dispositivo de GPS, ele calcula ter percorrido mais de 10 mil quilômetros.\n\nDisponível em: www.booooooom.com. Acesso em: 9 dez. 2017 (adaptado)",
+    "files": [
+        "https://enem.dev/2018/questions/45/40054947-ada4-41a2-b1fe-0bb9db118b2f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os textos destacam a inovação artística proposta por Stephen Lund a partir do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Deslocamento das tecnologias de suas funções habituais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Perspectiva de funcionamento do dispositivo de GPS.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ato de guiar sua bicicleta pelas ruas da cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Análise dos problemas de mobilidade urbana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Foco na promoção cultural da sua cidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

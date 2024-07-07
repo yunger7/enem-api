@@ -1,0 +1,45 @@
+{
+    "title": "Questão 28 - ENEM 2018",
+    "index": 28,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018/questions/28/63a801c5-ebb7-4094-8bac-6c625e98f18d.png)\n\nDisponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2018/questions/28/63a801c5-ebb7-4094-8bac-6c625e98f18d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reaproveitamento de material.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Facilidade na separação do lixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Melhoria da condição do catador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Preservação de recursos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Geração de renda para o trabalhador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

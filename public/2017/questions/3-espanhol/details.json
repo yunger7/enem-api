@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2017",
+    "index": 3,
+    "year": 2017,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Aquí estoy establecido,  \nEn los Estados Unidos,  \nDiez años pasaron ya,  \nEn que crucé de mojado,  \nPapeles no he arreglado,  \nSigo siendo un ilegal.  \nTengo mi esposa y mis hijos,  \nQue me los traje muy chicos,  \nY se han olvidado ya,  \nDe mi México querido,  \nDel que yo nunca me olvido,  \nY no puedo regresar.  \n\\[…\\]  \nMis hijos no hablan conmigo,  \nOtro idioma han aprendido,  \nY olvidado el español,  \nPiensan como americanos,  \nNiegan que son mexicanos,  \nAunque tengan mi color.\n\nLOS TIGRES DEL NORTE. **Jaula de oro**. Woodland Hills, Califórnia: Fonovisa, 1986 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A letra de canção coloca em cena um dilema por vezes vivenciado por imigrantes. Esse dilema se configura no sentimento do pai em relação ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diluição de sua identidade latino-americana, advinda do contato cotidiano com o outro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Distanciamento dos filhos, gerado pela apropriação da língua e da cultura do outro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Preconceito étnico-racial sofrido pelos imigrantes mexicanos no novo país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desejo de se integrar à nova cultura e de se comunicar na outra língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vergonha perante os filhos de viver ilegalmente em outro país.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

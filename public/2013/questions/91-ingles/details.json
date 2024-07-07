@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2013",
+    "index": 91,
+    "year": 2013,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "**After prison blaze kills hundreds in Honduras,** **UN warns on overcrowding**\n\n       15 February 2012\n\n       A United Nations human rights official today called on Latin American countries to tackle the problem of prison overcrowding in the wake of an overnight fire at a jail in Honduras that killed hundreds of inmates. More than 300 prisoners are reported to have died in the blaze at the prison, located north of the capital, Tegucigalpa, with dozens of others still missing and presumed dead. Antonio Maldonado, human rights adviser for the UN system in Honduras, told UN Radio today that overcrowding may have contributed to the death toll. “But we have to wait until a thorough investigation is conducted so we can reach a precise cause,” he said. “But of course there is a problem of overcrowding in the prison system, not only in this country, but also in many other prisons in Latin America.”\n\nDisponível em: www.un.org. Acesso em: 22 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os noticiários destacam acontecimentos diários, que são veiculados em jornal impresso, rádio, televisão e internet. Nesse texto, o acontecimento reportado é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ocorrência de um incêndio em um presídio superlotado em Honduras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Questão da superlotação nos presídios em Honduras e na América Latina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Investigação da morte de um oficial das Nações Unidas em visita a um presídio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conclusão do relatório sobre a morte de mais de trezentos detentos em Honduras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Causa da morte de doze detentos em um presídio superlotado ao norte de Honduras.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

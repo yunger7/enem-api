@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2013",
+    "index": 112,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Jogar limpo**\n\nArgumentar não é ganhar uma discussão a qualquer preço. Convencer alguém de algo é, antes de tudo, uma alternativa à prática de ganhar uma questão no grito ou na violência física — ou não física. Não física, dois pontos. Um político que mente descaradamente pode cativar eleitores. Uma publicidade que joga baixo pode constranger multidões a consumir um produto danoso ao ambiente. Há manipulações psicológicas não só na religião. E é comum pessoas agirem emocionalmente, porque vítimas de ardilosa — e cangoteira — sedução. Embora a eficácia a todo preço não seja argumentar, tampouco se trata de admitir só verdades científicas — formar opinião apenas depois de ver a demonstração e as evidências, como a ciência faz. Argumentar é matéria da vida cotidiana, uma forma de retórica, mas é um raciocínio que tenta convencer sem se tornar mero cálculo manipulativo, e pode ser rigoroso sem ser científico.\n\nLíngua Portuguesa, São Paulo, ano 5, n. 66, abr. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No fragmento, opta-se por uma construção linguística bastante diferente em relação aos padrões normalmente empregados na escrita. Trata-se da frase “Não física, dois pontos”. Nesse contexto, a escolha por se representar por extenso o sinal de pontuação que deveria ser utilizado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Enfatiza a metáfora de que o autor se vale para desenvolver seu ponto de vista sobre a arte de argumentar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "É um recurso estilístico que promove satisfatoriamente a sequenciação de ideias, introduzindo apostos exemplificativos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Ilustra a flexibilidade na estruturação do gênero textual, a qual se concretiza no emprego da linguagem conotativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Prejudica a sequência do texto, provocando estranheza no leitor ao não desenvolver explicitamente o raciocínio a partir de argumentos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2010",
+    "index": 5,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/5/0507e0cd-2002-4267-8a14-b1061254b765.jpg)\n\nTEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.",
+    "files": [
+        "https://enem.dev/2010/questions/5/0507e0cd-2002-4267-8a14-b1061254b765.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O esquema representa um processo de erosão em encosta. Que prática realizada por um agricultor pode resultar em aceleração desse processo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Plantio direto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Associação de culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Implantação de curvas de nível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aração do solo, do topo ao vale.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Terraceamento na propriedade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

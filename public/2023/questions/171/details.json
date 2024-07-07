@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2023",
+    "index": 171,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.\n\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "741",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 040",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 460",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 200",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

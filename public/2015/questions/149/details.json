@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2015",
+    "index": 149,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas informações, qual é a quantidade de cores que serão utilizadas na pintura das faces do troféu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

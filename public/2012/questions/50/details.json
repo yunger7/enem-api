@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2012",
+    "index": 50,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os carrinhos de brinquedo podem ser de vários tipos. Dentre eles, há os movidos a corda, em que uma mola em seu interior é comprimida quando a criança puxa o carrinho para trás. Ao ser solto, o carrinho entra em movimento enquanto a mola volta à sua forma inicial.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O processo de conversão de energia que ocorre no carrinho descrito também é verificado em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Um dínamo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Um freio de automóvel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um motor a combustão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uma usina hidroelétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uma atiradeira (estilingue).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

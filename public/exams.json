@@ -1,0 +1,469 @@
+[
+    {
+        "title": "ENEM 2023",
+        "year": 2023,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2022",
+        "year": 2022,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2021",
+        "year": 2021,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2020",
+        "year": 2020,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2019",
+        "year": 2019,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2018",
+        "year": 2018,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2017",
+        "year": 2017,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2016",
+        "year": 2016,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2015",
+        "year": 2015,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2014",
+        "year": 2014,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2013",
+        "year": 2013,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2012",
+        "year": 2012,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2011",
+        "year": 2011,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2010",
+        "year": 2010,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2009",
+        "year": 2009,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": []
+    }
+]

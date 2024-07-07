@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2009",
+    "index": 4,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um experimento, preparou-se um conjunto de plantas por técnica de clonagem a partir de uma planta original que apresentava folhas verdes. Esse conjunto foi dividido em dois grupos, que foram tratados de maneira idêntica, com exceção das condições de iluminação, sendo um grupo exposto a ciclos de iluminação solar natural e outro mantido no escuro. Após alguns dias, observou-se que o grupo exposto à luz apresentava folhas verdes como a planta original e o grupo cultivado no escuro apresentava folhas amareladas.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao final do experimento, os dois grupos de plantas apresentaram",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os genótipos e os fenótipos idênticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os genótipos idênticos e os fenótipos diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diferenças nos genótipos e fenótipos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O mesmo fenótipo e apenas dois genótipos diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O mesmo fenótipo e grande variedade de genótipos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 35 - ENEM 2009",
+    "index": 35,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/35/9d8b484b-e10a-414e-9a44-bd803c5169f6.png)",
+    "files": [
+        "https://enem.dev/2009/questions/35/9d8b484b-e10a-414e-9a44-bd803c5169f6.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando que a distância entre a borda inferior e a borda superior da superfície refletora tenha 6 m de largura e que focaliza no receptor os 800 watts/m² de radiação provenientes do Sol, e que o calor específico da água é 1 cal g-1 ºC-1 = 4.200 J kg-1 ºC-1, então o comprimento linear do refletor parabólico necessário para elevar a temperatura de 1 m³ (equivalente a 1 t) de água de 20 °C para 100 °C, em uma hora, estará entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15 m e 21 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "22 m e 30 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "105 m e 125 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "680 m e 710 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6.700 m e 7.150 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

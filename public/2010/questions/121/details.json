@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2010",
+    "index": 121,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O presidente Lula assinou, em 29 de setembro de 2008, decreto sobre o Novo Acordo Ortográfico da Língua Portuguesa. As novas regras afetam principalmente o uso dos acentos agudos e circunflexo, do trema e do hífen.\n\nLonge de um consenso, muita polêmica tem-se levantado em Macau e nos oito países de língua portuguesa: Brasil, Angola, Cabo Verde, Guiné-Bissau, Moçambique, Portugal, São Tomé e Príncipe e Timor Leste.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Comparando as diferentes opiniões sobre a validade de se estabelecer o acordo para fins de unificação o argumento que, em grande parte, foge a essa discussão é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "\"A academia (Brasileira de Letras) encara essa aprovação como um marco histórico. Inscreve-se, finalmente, a Língua Portuguesa no rol daquelas que conseguiram beneficiar-se há mais tempo da unificação de seu sistema de grafar, numa demonstração de consciência da política do idioma e de maturidade na defesa, difusão e ilustração da língua da Lusofonia.” SANDRONI, C. Presidente da ABL. Disponível em: http://www.academia.org.br. Acesso em: 10 nov. 2008.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "\"Acordo Ortográfico? Não, obrigado. Sou contra. Visceralmente contra. Filosoficamente contra. Linguisticamente contra. Eu gosto do \"c\" do \"actor\" e o \"p\" de \"cepticismo\". Representam um patrimônio, uma pegada etimológica que faz parte de uma identidade cultural. A pluralidade é um valor que deve ser estudado e respeitado. Aceitar essa aberração significa apenas que a irmandade entre Portugal e Brasil continua a ser a irmandade do atraso. COUTINHO, J. P. Folha de São Paulo. Ilustrada. 28 set.2008, E1 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "\"Há um conjunto de necessidades políticas  e econômicas que visa a internacionalização do português como identidade e marca econômica\". \"É possível que o Fernando (Pessoa), como produtor de exportação, valha mais do que a PT (Portugal Telecom). Tem um valor econômico único.\" RIBEIRO, J. A. P. Ministro da Cultura de Portugal. Disponível em: http://ultimahora.publico.clix.pt. Acesso em: 10 nov. 2008.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "\"É um acto cívico batermo-nos contra o Acordo Ortográfico.\" \"O Acordo não leva a unidade nenhuma.\" \"Não se pode aplicar na ordem interna um instrumento que não está aceito internacionalmente” e nem assegura “a defesa da língua como património, como prevê a Constituição nos artigos 9º e 68º.” MOURA, V. G. Escritor e eurodeputado. Disponível em: www.mundoportugues.org. Acesso em: 10 nov. 2008.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Se é para ter uma lusofonia, o conceito [unificação da língua] deve ser mais abrangente e temos de estar em paridade. Unidade não significa que temos que andar todos ao mesmo passo. Não é necessário que nos tornemos homogéneos. Até porque o que enriquece a língua portuguesa são as diversas literaturas e formas de utilização.” RODRIGUES, M. H. Presidente do Instituto Português do Oriente, sediado em Macau. Disponível em: http://taichungpou.blogspot.com. Acesso em: 10 nov. 2008 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

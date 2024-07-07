@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2023",
+    "index": 104,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.\n\n**Atualização da recomendação da Sociedade Portuguesa de Neonatologia.**  \nDisponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vidro do frasco for translúcido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Concentração de gluconato de cálcio for alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Frasco de vidro apresentar uma maior espessura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Vidro for previamente esterilizado em altas temperaturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reação do alumínio com gluconato de cálcio for endotérmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

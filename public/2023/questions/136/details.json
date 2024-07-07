@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2023",
+    "index": 136,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.\n\n![](https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png)\n\nEm seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  \nO tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
+    "files": [
+        "https://enem.dev/2023/questions/136/565c2d5a-96a0-4468-9bb1-2710707a40fd.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a massa, em grama, dessa escultura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.198,8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1.296,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1.360,8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.665,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4.860,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

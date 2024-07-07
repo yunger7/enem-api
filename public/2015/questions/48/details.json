@@ -1,0 +1,43 @@
+{
+    "title": "Questão 48 - ENEM 2015",
+    "index": 48,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Muitos estudos de síntese e endereçamento de proteínas utilizam aminoácidos marcados radioativamente para acompanhar as proteínas, desde fases iniciais de sua produção até seu destino final. Esses ensaios foram muito empregados para estudo e caracterização de células secretoras.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após esses ensaios de radioatividade, qual o gráfico que representa a evolução temporal da produção de proteínas e sua localização em uma célula secretora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/48/a0420351-2ef4-4350-b87d-a981e53cb803.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/48/9ac61859-d0e6-4afa-88a8-f79258b1f54d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/48/0a8633af-74c1-4373-8f3e-425dde9748d3.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/48/3ab18620-6564-4cf9-8eda-d0f33fd7f131.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/48/d68afb79-6de2-441b-b9e2-ce74660b28cb.png",
+            "isCorrect": false
+        }
+    ]
+}

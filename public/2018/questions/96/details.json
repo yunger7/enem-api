@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2018",
+    "index": 96,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apoiar e são insolúveis em água.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esses ácidos atuam no processo de modo a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hidrolisar os lipídios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Agir como detergentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Tornar os lipídios anfifílicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promover a secreção de lipases.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estimular o trânsito intestinal dos lipídios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2011",
+    "index": 174,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar  \nos interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75 913 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "31",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "32",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "88",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "89",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

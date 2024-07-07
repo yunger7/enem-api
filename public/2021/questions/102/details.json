@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2021",
+    "index": 102,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.\n\n![](https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg)",
+    "files": [
+        "https://enem.dev/2021/questions/102/17f47198-3b4c-42ca-bedf-c8b41c41b0d6.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/102/35f28219-f7b0-4365-a7fc-58c08c95b366.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/102/a1addbaa-02a6-44a3-9499-fec69b941fb5.jpg",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/102/cf629285-ed23-44ed-8e08-fa20b10594c2.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/102/b1484eea-6e7c-4966-93fb-08f6170457d2.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2021/questions/102/be16054b-4b26-4819-b0cb-b9f6b17c3f36.jpg",
+            "isCorrect": false
+        }
+    ]
+}

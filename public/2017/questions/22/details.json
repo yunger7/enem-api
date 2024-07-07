@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2017",
+    "index": 22,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nA língua ticuna é o idioma mais falado entre os indígenas brasileiros. De acordo com o pesquisador Aryon Rodrigues, há 40 mil índios que falam o idioma. A maioria mora ao longo do Rio Solimões, no Alto Amazonas. É a maior nação indígena do Brasil, sendo também encontrada no Peru e na Colômbia. Os ticunas falam uma língua considerada isolada, que não mantém semelhança com nenhuma outra língua indígena e apresenta complexidades em sua fonologia e sintaxe.\n\nSua característica principal é o uso de diferentes alturas na voz.\n\nO uso intensivo da língua não chega a ser ameaçado pela proximidade de cidades ou mesmo pela convivência com falantes de outras línguas no interior da própria área ticuna: nas aldeias, esses outros falantes são minoritários e acabam por se submeter à realidade ticuna, razão pela qual, talvez, não representem uma ameaça linguística.\n\nLingua Portuguesa, n. 52, few 2010 (adaptado)\n\n**TEXTO II**\n\n**Riqueza da língua**\n\n“O inglês está destinado a ser uma língua mundial em sentido mais amplo do que o latim foi na era passada e o francês é na presente”, dizia o presidente americano John Adams no século XVIII. A profecia se cumpriu o inglês é hoje a língua franca da globalização. No extremo oposto da economia linguística mundial, estão as línguas de pequenas comunidades declinantes. Calcula-se que hoje se falem de 6 000 a 7 000 línguas no mundo todo. Quase metade delas deve desaparecer nos próximos 100 anos, A última edição do Ethnologue – o mais abrangente estudo sobre as línguas mundiais -, de 2005, listava 516 línguas em risco de extinção.\n\nVeja, n. 36, set 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os textos tratam de línguas de culturas completamente diferentes, cujas realidades se aproximam em função do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Semelhança no modo de expansão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Preferência de uso na modalidade falada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Modo de organização das regras sintáticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Predomínio em relação às outras línguas de contato.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fato de motivarem o desaparecimento de línguas minoritárias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

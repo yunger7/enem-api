@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2017",
+    "index": 166,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/166/41a14ec3-8c43-4dc3-b116-be74098827c0.png)",
+    "files": [
+        "https://enem.dev/2017/questions/166/41a14ec3-8c43-4dc3-b116-be74098827c0.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A função P(t) obtida, por este cientista, ao analisar o caso específico foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P(t) = 99 + 21cos(3πt)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "P(t) = 78 + 42cos(3πt)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P(t) = 99 + 21cos(2πt)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P(t) = 99 + 21cos(t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P(t) = 78 + 42cos(t)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

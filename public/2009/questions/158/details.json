@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2009",
+    "index": 158,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura a seguir mostra as medidas reais de uma aeronave que será fabricada para utilização por companhias de transporte aéreo. Um engenheiro precisa fazer o desenho desse avião em escala de 1:150.\n\n![](https://enem.dev/2009/questions/158/ee2af503-e5d1-45f8-b7f1-372e3cec5e11.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/158/ee2af503-e5d1-45f8-b7f1-372e3cec5e11.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para o engenheiro fazer esse desenho em uma folha de papel, deixando uma margem de 1 cm em relação às bordas da folha, quais as dimensões mínimas, em centímetros, que essa folha deverá ter?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,9 cm × 3,4 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,9 cm × 4,4 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20 cm × 25 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "21 cm × 26 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "192 cm × 242 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

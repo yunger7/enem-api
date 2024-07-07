@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2010",
+    "index": 52,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10°C de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O forno mais eficiente foi aquele que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Forneceu a maior quantidade de energia às amostras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cedeu energia à amostra de maior massa em mais tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Forneceu a maior quantidade de energia em menos tempo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Cedeu energia à amostra de menor calor específico mais lentamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Forneceu a menor quantidade de energia às amostras em menos tempo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

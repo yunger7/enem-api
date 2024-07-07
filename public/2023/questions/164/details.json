@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2023",
+    "index": 164,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde.\n\n![](https://enem.dev/2023/questions/164/194cf28a-b40d-493d-b106-8f71aee57f51.png)\n\nÉpoca, 26 abr. 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2023/questions/164/194cf28a-b40d-493d-b106-8f71aee57f51.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Gestantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Doentes crônicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adultos entre 20 e 29 anos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Crianças de 6 meses a 2 anos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

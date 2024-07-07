@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2019",
+    "index": 149,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O _slogan_ “Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.\n\n![](https://enem.dev/2019/questions/149/a18bc8fd-0b53-499d-a163-89abcc439a57.png)\n\nSuponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015.",
+    "files": [
+        "https://enem.dev/2019/questions/149/a18bc8fd-0b53-499d-a163-89abcc439a57.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "150",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "450",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "550",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "700",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "800",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

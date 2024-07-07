@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2013",
+    "index": 162,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/162/7abe2076-bc00-4223-af44-4a621459fc52.png)",
+    "files": [
+        "https://enem.dev/2013/questions/162/7abe2076-bc00-4223-af44-4a621459fc52.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor mediano da diária, em reais, para o quarto padrão de casal nessa cidade, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "345,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "350,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "375,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "400,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

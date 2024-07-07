@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2018",
+    "index": 172,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na teoria das eleições, o Método de Borda sugere que, em vez de escolher um candidato, cada juiz deve criar um _ranking_ de sua preferência para os concorrentes (isto é, criar uma lista com a ordem de classificação dos concorrentes). A este ranking é associada uma pontuação: um ponto para o último colocado no _ranking_, dois pontos para o penúltimo, três para o antepenúltimo, e assim sucessivamente. Ao final, soma-se a pontuação atribuída a cada concorrente por cada um dos juízes.\n\nEm uma escola houve um concurso de poesia no qual cinco alunos concorreram a um prêmio, sendo julgados por 25 juízes. Para a escolha da poesia vencedora foi utilizado o Método de Borda. Nos quadros, estão apresentados os _rankings_ dos juízes e a frequência de cada _ranking_.\n\n![](https://enem.dev/2018/questions/172/36a8ea01-988a-4748-8a82-5c9a2607cbdb.png)",
+    "files": [
+        "https://enem.dev/2018/questions/172/36a8ea01-988a-4748-8a82-5c9a2607cbdb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A poesia vencedora foi a de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Edu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dani.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Bia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ana.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

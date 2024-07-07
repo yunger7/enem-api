@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2009",
+    "index": 30,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "É possível, com 1 litro de gasolina, usando todo o calor produzido por sua combustão direta, aquecer 200 litros de água de 20 °C a 55 °C. Pode-se efetuar esse mesmo aquecimento por um gerador de eletricidade, que consome 1 litro de gasolina por hora e fornece 110 V a um resistor de 11 Ω, imerso na água, durante um certo intervalo de tempo. Todo o calor liberado pelo resistor é transferido à água.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando que o calor específico da água é igual a 4,19 J g-1 °C-1, aproximadamente qual a quantidade de gasolina consumida para o aquecimento de água obtido pelo gerador, quando comparado ao obtido a partir da combustão?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A quantidade de gasolina consumida é igual para os dois casos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A quantidade de gasolina consumida pelo gerador é duas vezes maior que a consumida na combustão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A quantidade de gasolina consumida pelo gerador é duas vezes menor que a consumida na combustão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A quantidade de gasolina consumida pelo gerador é sete vezes maior que a consumida na combustão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A quantidade de gasolina consumida pelo gerador é sete vezes menor que a consumida na combustão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

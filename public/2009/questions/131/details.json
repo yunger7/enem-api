@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2009",
+    "index": 131,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Texto I**  \nAcompanhando os navegadores, colonizadores e comerciantes portugueses em todas as suas incríveis viagens, a partir do século XV, o português se transformou na língua de um império. Nesse processo, entrou em contato — forçado, o mais das vezes; amigável, em alguns casos — com as mais diversas línguas, passando por processos de variação e de mudança linguística. Assim, contar a história do português do Brasil é mergulhar na sua história colonial e de país independente, já que as línguas não são mecanismos desgarrados dos povos que as utilizam. Nesse cenário, são muitos os aspectos da estrutura linguística que não só expressam a diferença entre Portugal e Brasil como também definem, no Brasil, diferenças regionais e sociais.\n\nPAGOTTO, E. P. **Línguas do Brasil.** Disponível em: http://cienciaecultura.bvs.br.  \nAcesso em: 5 jul. 2009 (adaptado).\n\n**Texto II**  \nBarbarismo é vício que se comete na escritura de cada uma das partes da construção ou na pronunciação. E em nenhuma parte da Terra se comete mais essa figura da pronunciação que nestes reinos, por causa das muitas nações que trouxemos ao jugo do nosso serviço. Porque bem como os Gregos e Romanos haviam por _bárbaras_ todas as outras nações estranhas a eles, por não poderem formar sua linguagem, assim nós podemos dizer que as nações de África, Guiné, Ásia, Brasil barbarizam quando querem imitar a nossa.\n\nBARROS, J. **Gramática da língua portuguesa.** Porto: Porto Editora, 1957 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os textos abordam o contato da língua portuguesa com outras línguas e processos de variação e de mudança decorridos desse contato. Da comparação entre os textos, conclui-se que a posição de João de Barros (Texto II), em relação aos usos sociais da linguagem, revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Atitude crítica do autor quanto à gramática que as nações a serviço de Portugal possuíam e, ao mesmo tempo, de benevolência quanto ao conhecimento que os povos tinham de suas línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Atitude preconceituosa relativa a vícios culturais das nações sob domínio português, dado o interesse dos falantes dessa línguas em copiar a língua do império, o que implicou a falência do idioma falado em Portugal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O desejo de conservar, em Portugal, as estruturas da variante padrão da língua grega — em oposição às consideradas bárbaras —, em vista da necessidade de preservação do padrão de correção dessa língua à época.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Adesão à concepção de língua como entidade homogênea e invariável, e negação da ideia de que a língua portuguesa pertence a outros povos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Atitude crítica, que se estende à própria língua portuguesa, por se tratar de sistema que não disporia de elementos necessários para a plena inserção sociocultural de falantes não nativos do português.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

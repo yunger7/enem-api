@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2015",
+    "index": 53,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2015/questions/53/f6577ff9-b0f3-41b3-9e2a-43ab4aa243a7.png)",
+    "files": [
+        "https://enem.dev/2015/questions/53/f6577ff9-b0f3-41b3-9e2a-43ab4aa243a7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Expressa em termos do comprimento de onda (λ), a espessura mínima é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Λ / 4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Λ / 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3λ / 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Λ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2λ.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

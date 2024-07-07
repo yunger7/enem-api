@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2010",
+    "index": 143,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/143/2d869c09-18da-48f9-95c3-deca759a0c3d.png)",
+    "files": [
+        "https://enem.dev/2010/questions/143/2d869c09-18da-48f9-95c3-deca759a0c3d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se que até 2009 o desmatamento cresceu 10,5% em relação aos dados de 2004, o desmatamento médio por estado em 2009 está entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100 km² e 900 km².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 000 km² e 2 700 km².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 800 km² e 3 200 km².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 300 km² e 4 000 km².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 100 km² e 5 800 km².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

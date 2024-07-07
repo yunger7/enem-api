@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2016",
+    "index": 142,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/142/27a20fd0-d2a2-46da-972f-c621f3cbdce8.png)",
+    "files": [
+        "https://enem.dev/2016/questions/142/27a20fd0-d2a2-46da-972f-c621f3cbdce8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A família pretende que esse imóvel tenha a mesma distância de percurso até o local de trabalho da mãe, localizado na rua 6 com a rua E, o consultório do pai, na rua 2 com a rua E, e a escola das crianças, na rua 4 com a rua A.\nCom base nesses dados, o imóvel que atende as pretensões da família deverá ser localizado no encontro das ruas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 e C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 e C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 e D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4 e E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 e C",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

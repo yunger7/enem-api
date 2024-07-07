@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2017",
+    "index": 138,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo X com a sua superfície, conforme indica a figura.\n\nEm determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k . sen(x)\n\nsendo k uma constante, e supondo-se que X está entre 0° e 90º.\n\n![](https://enem.dev/2017/questions/138/7d715e4d-7f9b-43a6-8f5e-4f0e1e782780.png)",
+    "files": [
+        "https://enem.dev/2017/questions/138/7d715e4d-7f9b-43a6-8f5e-4f0e1e782780.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quando x = 30º, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "33%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "57%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "70%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "86%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

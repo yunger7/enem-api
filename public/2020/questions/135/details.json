@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2020",
+    "index": 135,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os diferentes tipos de café que consumimos nem sempre vêm da mesma espécie de planta. As duas espécies de café mais utilizadas são _Coffea canephora_ e _Coffea arabica_. A primeira é diploide (2n = 22) e a segunda é tetraploide (2n  \n\\= 44). Acredita-se que a espécie tetraploide surgiu de um cruzamento natural entre _C. canephora_ e _C. eugenioides_, ambas diploides, há milhões de anos. De fato, as análises genéticas atuais nos cromossomos de _C. arabica_ detectam os alelos de ambas as origens.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A alteração cromossômica que poderia explicar o surgimento do café da espécie C. arabica é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Duplicação em uma das plantas parentais antes do cruzamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Inversão durante a meiose gamética em ambas as plantas parentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Separação desigual na meiose gamética de uma das plantas parentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Falha na separação durante a meiose gamética em ambas as plantas parentais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Deleções durante as primeiras mitoses zigóticas na planta descendente C. arabica",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

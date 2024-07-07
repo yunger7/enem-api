@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2013",
+    "index": 30,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\nA nossa luta é pela democratização da propriedade da terra, cada vez mais concentrada em nosso país. Cerca de 1% de todos os proprietários controla 46% das terras. Fazemos pressão por meio da ocupação de latifúndios improdutivos e grandes propriedades, que não cumprem a função social, como determina a Constituição de 1988. Também ocupamos as fazendas que têm origem na grilagem de terras públicas.\n\nDisponível em: www.mst.org.br. Acesso em: 25 ago. 2011 (adaptado).\n\n**TEXTO II**\n\nO pequeno proprietário rural é igual a um pequeno proprietário de loja: quanto menor o negócio mais difícil de manter, pois tem de ser produtivo e os encargos são difíceis de arcar. Sou a favor de propriedades produtivas e sustentáveis e que gerem empregos. Apoiar uma empresa produtiva que gere emprego é muito mais barato e gera muito mais do que apoiar a reforma agrária.\n\nLESSA, C. Disponível em: www.observadorpolitico.org.br. Acesso em: 25 ago. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nos fragmentos dos textos, os posicionamentos em relação à reforma agrária se opõem. Isso acontece porque os autores associam a reforma agrária, respectivamente, à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do inchaço urbano e à crítica ao minifúndio camponês.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação da renda nacional e à prioridade ao mercado externo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Contenção da mecanização agrícola e ao combate ao êxodo rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Privatização de empresas estatais e ao estímulo ao crescimento econômico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Correção de distorções históricas e ao prejuízo ao agronegócio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

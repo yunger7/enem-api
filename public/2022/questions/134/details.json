@@ -1,0 +1,46 @@
+{
+    "title": "Questão 134 - ENEM 2022",
+    "index": 134,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sinal sonoro oriundo da queda de um grande bloco de gelo de uma geleira é detectado por dois dispositivos situados em um barco, sendo que o detector A está imerso em água e o B, na proa da embarcação. Sabe-se que a velocidade do som na água é de 1 540 m/s e no ar é de 340 m/s.\n\n![](https://enem.dev/2022/questions/134/6f7c3bcf-80c1-4d07-b043-70cbb639bb8f.jpg)\n\nOs gráficos indicam, em tempo real, o sinal sonoro detectado pelos dois dispositivos, os quais foram ligados simultaneamente em um instante anterior à queda do bloco de gelo. Ao comparar pontos correspondentes desse sinal em cada dispositivo, é possível obter informações sobre a onda sonora.\n\n![](https://enem.dev/2022/questions/134/01e05752-c516-4e12-a9f8-bcbe4b1e0296.jpg)",
+    "files": [
+        "https://enem.dev/2022/questions/134/6f7c3bcf-80c1-4d07-b043-70cbb639bb8f.jpg",
+        "https://enem.dev/2022/questions/134/01e05752-c516-4e12-a9f8-bcbe4b1e0296.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A distância L, em metro, entre o barco e a geleira é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "339 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "78 900.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14 400.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 240.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

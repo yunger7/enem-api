@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2013",
+    "index": 158,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 900,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 1 200,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 2 100,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 3 900,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 5 100,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

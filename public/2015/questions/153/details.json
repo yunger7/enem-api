@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2015",
+    "index": 153,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/153/867b7f6a-c261-459f-b335-19447fabfce0.png)",
+    "files": [
+        "https://enem.dev/2015/questions/153/867b7f6a-c261-459f-b335-19447fabfce0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Entre esses polígonos, o único que satisfaz as condições necessárias para representar a ingestão correta de diferentes tipos de alimentos é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Triângulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Losango.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pentágono.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Hexágono.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Octógono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

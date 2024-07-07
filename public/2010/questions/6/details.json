@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2010",
+    "index": 6,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/6/aa83a948-e33c-4b98-b195-2e781566a1f4.jpg)\n\nTEIXEIRA. W. et al. (Orgs). **Decifrando a Terra.** São Paulo: Companhia Editora Nacional, 2009.",
+    "files": [
+        "https://enem.dev/2010/questions/6/aa83a948-e33c-4b98-b195-2e781566a1f4.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Muitos processos erosivos se concentram nas encostas, principalmente aqueles motivados pela água e pelo vento. No entanto, os reflexos também são sentidos nas áreas de baixada, onde geralmente há ocupação urbana. Um exemplo desses reflexos na vida cotidiana de muitas cidades brasileiras é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A maior ocorrência de enchentes, já que os rios assoreados comportam menos água em seus leitos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A contaminação da população pelos sedimentos trazidos pelo rio e carregados de matéria orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O desgaste do solo nas áreas urbanas, causado pela redução do escoamento superficial pluvial na encosta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A maior facilidade de captação de água potável para o abastecimento público, já que é maior o efeito do escoamento sobre a infiltração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O aumento da incidência de doenças como a amebíase na população urbana, em decorrência do escoamento de água poluída do topo das encostas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

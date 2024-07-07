@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2009",
+    "index": 7,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um novo método para produzir insulina artificial que utiliza tecnologia de DNA recombinante foi desenvolvido por pesquisadores do Departamento de Biologia Celular da Universidade de Brasília (UnB) em parceria com a iniciativa privada. Os pesquisadores modificaram geneticamente a bactéria Escherichia coli para torná-la capaz de sintetizar o hormônio. O processo permitiu fabricar insulina em maior quantidade e em apenas 30 dias, um terço do tempo necessário para obtê-la pelo método tradicional, que consiste na extração do hormônio a partir do pâncreas de animais abatidos.\n\nCiência Hoje, 24 abr. 2001. Disponível em: http://cienciahoje.uol.com.br (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A produção de insulina pela técnica do DNA recombinante tem, como consequência,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O aperfeiçoamento do processo de extração de insulina a partir do pâncreas suíno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A seleção de microrganismos resistentes a antibióticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O progresso na técnica da síntese química de hormônios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impacto favorável na saúde de indivíduos diabéticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A criação de animais transgênicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

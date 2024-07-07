@@ -1,0 +1,39 @@
+{
+    "title": "Questão 175 - ENEM 2021",
+    "index": 175,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Muitos brinquedos que frequentemente são encontrados em praças e parques públicos apresentam formatos de figuras geométricas bidimensionais e tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade e espessura são congruentes.\n\n![](https://enem.dev/2021/questions/175/604fdc09-c098-44f6-9b6f-002210df4c34.png)",
+    "files": [
+        "https://enem.dev/2021/questions/175/604fdc09-c098-44f6-9b6f-002210df4c34.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base na proposta apresentada, quantas figuras geométricas planas de cada tipo são formadas pela união das hastes?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 trapézios isósceles e 12 quadrados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "24 trapézios isósceles e 12 quadrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12 paralelogramos e 12 quadrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8 trapézios isósceles",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 66 - ENEM 2016",
+    "index": 66,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/66/37f431da-a3ba-4a66-ac4b-c33f6d37730c.png)\n\n![](https://enem.dev/2016/questions/66/9e38e644-e6b4-4128-9e76-a44227a87238.png)",
+    "files": [
+        "https://enem.dev/2016/questions/66/37f431da-a3ba-4a66-ac4b-c33f6d37730c.png",
+        "https://enem.dev/2016/questions/66/9e38e644-e6b4-4128-9e76-a44227a87238.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A frequência de giro do ponteiro, em RPM, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "81.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "162.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

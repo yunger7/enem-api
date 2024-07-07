@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2009",
+    "index": 27,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/27/8a0ca647-a136-470c-b4b1-f7cd0de48513.png)",
+    "files": [
+        "https://enem.dev/2009/questions/27/8a0ca647-a136-470c-b4b1-f7cd0de48513.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando o texto e as leis de Kepler, pode-se afirmar que a frase dita pelo astronauta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Se justifica porque o tamanho do telescópio determina a sua massa, enquanto seu pequeno peso decorre da falta de ação da aceleração da gravidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Se justifica ao verificar que a inércia do telescópio é grande comparada à dele próprio, e que o peso do telescópio é pequeno porque a atração gravitacional criada por sua massa era pequena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Não se justifica, porque a avaliação da massa e do peso de objetos em órbita tem por base as leis de Kepler, que não se aplicam a satélites artificiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Não se justifica, porque a força-peso é a força exercida pela gravidade terrestre, neste caso, sobre o telescópio e é a responsável por manter o próprio telescópio em órbita.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Não se justifica, pois a ação da força-peso implica a ação de uma força de reação contrária, que não existe naquele ambiente. A massa do telescópio poderia ser avaliada simplesmente pelo seu volume.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

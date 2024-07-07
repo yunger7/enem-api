@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2009",
+    "index": 15,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/15/a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/15/a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Entre as impurezas metálicas que constam na série apresentada, as que se sedimentam abaixo do ânodo de cobre são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Au, Pt, Ag, Zn, Ni e Pb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Au, Pt e Ag.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Zn, Ni e Pb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Au e Zn.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ag e Pb.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

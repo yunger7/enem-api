@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2020",
+    "index": 166,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento.\n\n![](https://enem.dev/2020/questions/166/1a4fc8c3-fe70-4f86-a2ea-6c1259c52930.png)",
+    "files": [
+        "https://enem.dev/2020/questions/166/1a4fc8c3-fe70-4f86-a2ea-6c1259c52930.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual esboço de gráfico melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/166/235d67a9-8f1e-49c2-8193-ce2399d4ab4c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/166/2c4e5792-2a0c-4eb6-bbfa-4342fdc07977.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/166/6f1c120f-9e46-49ed-bd7e-41dc29be3b21.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/166/008dc49b-7aca-41ba-bc68-60b5683a35e2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2020/questions/166/e96561ab-4696-4165-bb85-dba7f6650dec.png",
+            "isCorrect": false
+        }
+    ]
+}

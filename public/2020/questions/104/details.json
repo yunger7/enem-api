@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2020",
+    "index": 104,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para flutuar, essas aves precisam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recuperar o tônus muscular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Restaurar a massa corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Substituir as penas danificadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Restabelecer a capacidade de homeotermia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Refazer a camada de cera impermeabilizante das penas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2023",
+    "index": 65,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/broken-image.svg)\n\nNas reportagens publicadas sobre a inauguração de Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo projeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum registro disso. O louvor se concentrou em seu marido e parceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu um Leão de Ouro póstumo, a maior homenagem da Bienal de Arquitetura de Veneza, e tem agora sua história contada em duas biografias de peso, que procuram destrinchar uma carreira marcada pela ousadia e pela contradição.\n\nPORTO, W. L**ina Bo Bardi tem sua arquitetura contraditória destrinchada em biografias**. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Equidade de genêro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Admissibilidade de voto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Igualdade de oportunidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reciprocidade de tratamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2018",
+    "index": 110,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um estudante relatou que o mapeamento do DNA da cevada foi quase todo concluído e seu código genético desvendado. Chamou atenção para o número de genes que compõem esse código genético e que a semente da cevada, apesar de pequena, possui um genoma mais complexo que o humano, sendo boa parte desse código constituída de sequências repetidas. Nesse contexto, o conceito de código genético está abordado de forma equivocada.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Cientificamente esse conceito é definido como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trincas de nucleotídeos que codificam os aminoácidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Localização de todos os genes encontrados em um genoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Codificação de sequências repetidas presentes em um genoma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Conjunto de todos os RNAs mensageiros transcritos em um organismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Todas as sequências de pares de bases presentes em um organismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

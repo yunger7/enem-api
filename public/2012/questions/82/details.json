@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2012",
+    "index": 82,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2012/questions/82/021fc0ab-517c-410a-9cef-8b5ad543bb19.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/82/021fc0ab-517c-410a-9cef-8b5ad543bb19.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no texto e na tabela, que metais poderiam entrar na composição do anel das latas com a mesma função do magnésio, ou seja, proteger o alumínio da oxidação nos fornos e não deixar diminuir o rendimento da sua reciclagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Somente o lítio, pois ele possui o menor potencial de redução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Somente o cobre, pois ele possui o maior potencial de redução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Somente o potássio, pois ele possui potencial de redução mais próximo do magnésio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Somente o cobre e o zinco, pois eles sofrem oxidação mais facilmente que o alumínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Somente o lítio e o potássio, pois seus potenciais de redução são menores do que o do alumínio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

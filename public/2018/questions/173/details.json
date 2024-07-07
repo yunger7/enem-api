@@ -1,0 +1,47 @@
+{
+    "title": "Questão 173 - ENEM 2018",
+    "index": 173,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um  guindaste iça uma viga de aço que se encontra inicialmente no solo.\n\n![](https://enem.dev/2018/questions/173/ace966fb-7b1a-431d-9b54-2c57b1e78d0d.png)\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no ![](https://enem.dev/2018/questions/173/a57ff676-4fd7-4821-b75c-cf675966c899.png) (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\n\n![](https://enem.dev/2018/questions/173/a776c7e1-aebd-4f91-b40e-861331c1db77.png)",
+    "files": [
+        "https://enem.dev/2018/questions/173/ace966fb-7b1a-431d-9b54-2c57b1e78d0d.png",
+        "https://enem.dev/2018/questions/173/a57ff676-4fd7-4821-b75c-cf675966c899.png",
+        "https://enem.dev/2018/questions/173/a776c7e1-aebd-4f91-b40e-861331c1db77.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/ff2abae2-528e-4337-8115-3f45241150f7.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/f1baf187-1d0f-440c-bf5e-ddf90a972eb9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/be3758af-749d-40c8-861c-79e0cc06eaa0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/744395ff-a1d2-4989-9c4e-ab3599aae57f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/173/a2c79be7-a0af-4389-a011-16d1b661007d.png",
+            "isCorrect": false
+        }
+    ]
+}

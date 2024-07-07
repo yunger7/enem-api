@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2018",
+    "index": 111,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuição do cálice.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alongamento do ovário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Disponibilização do néctar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intensificação da cor das pétalas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumento do número de estames.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

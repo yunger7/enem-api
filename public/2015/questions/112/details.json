@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2015",
+    "index": 112,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Na exposição “A Artista Está Presente”, no MoMA, em Nova Iorque, a _performer_ Marina Abramovic fez uma retrospectiva de sua carreira. No meio desta, protagonizou uma _performance_ marcante. Em 2010, de 14 de março a 31 de maio, seis dias por semana, num total de 736 horas, ela repetia a mesma postura. Sentada numa sala, recebia os visitantes, um a um, e trocava com cada um deles um longo olhar sem palavras. Ao redor, o público assistia a essas cenas recorrentes.\n\nZANIN, L. **Marina Abramovic, ou a força do olhar.** Disponível em: http://blogs.estadao.com.br. Acesso em: 4 nov. 2013.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto apresenta uma obra da artista Marina Abramovic, cuja performance se alinha a tendências contemporâneas e se caracteriza pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Inovação de uma proposta de arte relacional que adentra um museu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Abordagem educacional estabelecida na relação da artista com o público.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Redistribuição do espaço do museu, que integra diversas linguagens artísticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Negociação colaborativa de sentidos entre a artista e a pessoa com quem interage.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Aproximação entre artista e público, o que rompe com a elitização dessa forma de arte.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 5 - ENEM 2018",
+    "index": 5,
+    "year": 2018,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "‘Is it your opinion, Winston, that the past has real  \nexistence?’ \\[…\\] O’Brien smiled faintly. ‘I will put it more  \nprecisely. Does the past exist concretely, in space? Is  \nthere somewhere or other a place, a world of solid objects,  \nwhere the past is still happening?’  \n‘No.’  \n‘Then where does the past exist, if at all?’  \n‘In records. It is written down.’  \n‘In records. And — —?’  \n‘In the mind. In human memories.’  \n‘In memory. Very well, then. We, the Party, control all  \nrecords, and we control all memories. Then we control the  \npast, do we not?’\n\nORWELL, G. Nineteen Eighty-Four. New York: Signet Classics, 1977.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O romance 1984 descreve os perigos de um Estado totalitário. A ideia evidenciada nessa passagem é que o controle do Estado se dá por meio do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Boicote a ideais libertários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Veto ao culto das tradições.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Poder sobre memórias e registros",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Censura a produções orais e escritas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manipulação de pensamentos individuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

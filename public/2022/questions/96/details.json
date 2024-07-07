@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2022",
+    "index": 96,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2022/questions/96/970c1d36-8b55-4012-b912-db3efb32fbe4.png)\n\nO quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.\n\nA corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência  \nelétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.  \nApesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.\n\nDURAN, J. E. R. **Biofísica: fundamentos e aplicações**. São Paulo: Pearson Prentice Hall, 2003 (adaptado).",
+    "files": [
+        "https://enem.dev/2022/questions/96/970c1d36-8b55-4012-b912-db3efb32fbe4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual associação de baterias foi responsável pelo acidente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/96/430f5ad8-c181-4e82-8b90-364514a5e80d.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/96/9ccc03d3-49a3-45fa-bd85-aabe825984a6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/96/32b31925-79f3-4809-bdb7-93b2e00c87d4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/96/5ba7ae4b-c03e-457f-8a35-47bf0db1cef1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/96/ff6f131d-afb1-4c4b-a8d4-f1f201170062.png",
+            "isCorrect": false
+        }
+    ]
+}

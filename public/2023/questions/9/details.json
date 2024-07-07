@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2023",
+    "index": 9,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Na Idade Média, as notícias se propagavam com surpreendente eficácia. Segundo uma emérita professora de Sorbonne, um cavalo era capaz de percorrer 30 quilômetros por dia, mas o tempo podia se acelerar dependendo do interesse da notícia. As ordens mendicantes tinham um papel importante na disseminação de informações, assim como os jograis, os peregrinos e os vagabundos, porque todos eles percorriam grandes distâncias. As cidades também tinham correios organizados e selos para lacrar mensagens e tentar certificar a veracidade das correspondências. Graças a tudo isso, a circulação de boatos era intensa e politicamente relevante. Um exemplo clássico de _fake news_ da era medieval é a história do rei que desaparece na batalha e reaparece muito depois, idoso e transformado.\n\nDisponível em: www.elpais.com.br. Acesso em: 18 jun. 2018 (adaptado)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A propagação sistemática de informações é um fenômeno recorrente na história e no desenvolvimento das sociedades. No texto, a eficácia dessa propagação está diretamente relacionada ao (à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Velocidade de circulação das notícias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nível de letramento da população marginalizada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Poder de censura por parte dos serviços públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Legitimidade da voz dos representantes da nobreza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diversidade dos meios disponíveis em uma época histórica.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2010",
+    "index": 175,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols.\n\n![](https://enem.dev/2010/questions/175/47a384a9-8a0b-4669-ac56-963874dfc9e9.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/175/47a384a9-8a0b-4669-ac56-963874dfc9e9.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se X, Y e Z são, respectivamente, a média, a mediana e a moda desta distribuição, então",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X = Y < Z.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Z < X = Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y < Z < X.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Z < X < Y.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Z < Y < X.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

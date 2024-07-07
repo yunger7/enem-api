@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2017",
+    "index": 127,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No manual fornecido pelo fabricante de uma ducha elétrica de 220V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6500 W.\n\nConsidere o calor específico da água igual a 4200 J/(kg C) e a densidade da água igual a 1 kg/L.\n\n![](https://enem.dev/2017/questions/127/95c962ac-5ff6-42db-8e84-677b9d77e56f.png)",
+    "files": [
+        "https://enem.dev/2017/questions/127/95c962ac-5ff6-42db-8e84-677b9d77e56f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3/5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3/8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5/8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 10 - ENEM 2013",
+    "index": 10,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nasce daqui uma questão: se vale mais ser amado que temido ou temido que amado. Responde-se que ambas as coisas seriam de desejar; mas porque é difícil juntá-las, é muito mais seguro ser temido que amado, quando haja de faltar uma das duas. Porque dos homens se pode dizer, duma maneira geral, que são ingratos, volúveis, simuladores, covardes e ávidos de lucro, e enquanto lhes fazes bem são inteiramente teus, oferecem-te o sangue, os bens, a vida e os filhos, quando, como acima disse, o perigo está longe; mas quando ele chega, revoltam-se.\n\nMAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir da análise histórica do comportamento humano em suas relações sociais e políticas. Maquiavel define o homem como um ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Munido de virtude, com disposição nata a praticar o bem a si e aos outros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sociável por natureza, mantendo relações pacíficas com seus pares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

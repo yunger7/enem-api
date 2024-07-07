@@ -1,0 +1,50 @@
+{
+    "title": "Questão 103 - ENEM 2022",
+    "index": 103,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes  \nprodutos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força ![](https://enem.dev/2022/questions/103/731a52b0-b8d4-4a15-8a7c-aabc67d6dcde.jpg), conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n\nMantendo-se a força ![](https://enem.dev/2022/questions/103/04cf32d8-f517-483e-b0d5-189de111bc7a.jpg) paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso ![](https://enem.dev/2022/questions/103/9027d4f1-c0a1-4b18-ac9f-2639e6b4360b.jpg), normal ![](https://enem.dev/2022/questions/103/e11f6a77-dda3-4525-a045-894baf71d307.jpg) e de atrito estático ![](https://enem.dev/2022/questions/103/d65b67dc-a285-43d4-a72b-a9c1b521c3b5.jpg).\n\n![](https://enem.dev/2022/questions/103/7cfea492-83f7-4ea1-bf6a-a3dc29d4edb9.jpg)",
+    "files": [
+        "https://enem.dev/2022/questions/103/731a52b0-b8d4-4a15-8a7c-aabc67d6dcde.jpg",
+        "https://enem.dev/2022/questions/103/04cf32d8-f517-483e-b0d5-189de111bc7a.jpg",
+        "https://enem.dev/2022/questions/103/9027d4f1-c0a1-4b18-ac9f-2639e6b4360b.jpg",
+        "https://enem.dev/2022/questions/103/e11f6a77-dda3-4525-a045-894baf71d307.jpg",
+        "https://enem.dev/2022/questions/103/d65b67dc-a285-43d4-a72b-a9c1b521c3b5.jpg",
+        "https://enem.dev/2022/questions/103/7cfea492-83f7-4ea1-bf6a-a3dc29d4edb9.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/103/fd96af11-5014-46d5-a810-7f61cecce1ee.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/103/35328d99-51d3-48e1-b68f-77e985df73c4.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/103/09db4a77-899d-485e-b0a1-8cbfba70022a.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/103/87896c19-ad0d-4a19-a31e-c48d5e4e06fc.jpg",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2022/questions/103/a530523b-e354-44f7-b52b-4424587daa4e.jpg",
+            "isCorrect": true
+        }
+    ]
+}

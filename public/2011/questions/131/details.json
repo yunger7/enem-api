@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2011",
+    "index": 131,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Há certos usos consagrados na fala, e até mesmo na escrita, que, a depender do estrato social e do nível de escolaridade do falante, são, sem dúvida, previsíveis. Ocorrem até mesmo em falantes que dominam a variedade padrão, pois, na verdade, revelam tendências existentes na língua em seu processo de mudança que não podem ser bloqueadas em nome de um “ideal linguístico” que estaria representado pelas regras da gramática normativa. Usos como _ter_ por _haver_ em construções existenciais (_tem_ muitos livros na estante), o do pronome objeto na posição de sujeito (para _mim_ fazer o trabalho), a não-concordância das passivas com _se_ (_aluga-se_ casas) são indícios da existência, não de uma norma única, mas de uma pluralidade de normas, entendida, mais uma vez, norma como conjunto de hábitos linguísticos, sem implicar juízo de valor.\n\nCALLOU, D. Gramática, variação e normas. In: VIEIRA, S. R.; BRANDÃO, S. (orgs). **Ensino de gramática**: descrição e uso. São Paulo: Contexto, 2007 (fragmento).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando a reflexão trazida no texto a respeito da multiplicidade do discurso, verifica-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estudantes que não conhecem as diferenças entre língua escrita e língua falada empregam, indistintamente, usos aceitos na conversa com amigos quando vão elaborar um texto escrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Falantes que dominam a variedade padrão do português do Brasil demonstram usos que confirmam a diferença entre a norma idealizada e a efetivamente praticada, mesmo por falantes mais escolarizados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Moradores de diversas regiões do país que enfrentam dificuldades ao se expressar na escrita revelam a constante modificação das regras de emprego de pronomes e os casos especiais de concordância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pessoas que se julgam no direito de contrariar a gramática ensinada na escola gostam de apresentar usos não aceitos socialmente para esconderem seu desconhecimento da norma padrão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Usuários que desvendam os mistérios e sutilezas da língua portuguesa empregam formas do verbo ter quando, na verdade, deveriam usar formas do verbo haver, contrariando as regras gramaticais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

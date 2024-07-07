@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2012",
+    "index": 120,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**E-mail com hora programada**\n\nRedação INFO, 28 de agosto de 2007.\n\nAgende o envio de e-mails no _Thunderbird_ com a extensão _SendLater_\n\nNem sempre é interessante mandar um e-mail na hora. Há situações em que agendar o envio de uma mensagem é útil, como em datas comemorativas ou quando o e-mail serve para lembrar o destinatário de algum evento futuro. O _Thunderbird_, o ótimo cliente de e-mail do grupo Mozilla, conta com uma extensão para esse fim. Trata-se do _SendLater_. Depois de instalado, ele cria um item no menu de criação de mensagens que permite marcar o dia e a hora exatos para o envio do e-mail. Só há um ponto negativo: para garantir que a mensagem seja enviada na hora, o _Thunderbird_ deverá estar em execução. Senão, ele mandará o e-mail somente na próxima vez que for rodado.\n\nDisponível em: http://info.abril.com.br. Acesso em: 18 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando-se a função do SendLater, o objetivo do autor do texto E-mail com hora programada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Eliminar os entraves no envio de mensagens via e-mail.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Viabilizar a aquisição de conhecimento especializado pelo usuário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Permitir a seleção dos destinatários dos textos enviados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Controlar a quantidade de informações constantes do corpo do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Divulgar um produto ampliador da funcionalidade de um recurso comunicativo.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

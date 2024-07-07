@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2021",
+    "index": 107,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando desprezível a resistência do ar, qual versão apresenta a maior potência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Como a versão a gasolina atinge a maior valor de energia cinética, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

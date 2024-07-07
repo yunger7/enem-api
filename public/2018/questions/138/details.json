@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2018",
+    "index": 138,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jogo pedagógico utiliza-se de uma interface algébrico-geométrica do seguinte modo: os alunos devem eliminar os pontos do plano cartesiano dando “tiros”, seguindo trajetórias que devem passar pelos pontos escolhidos. Para dar os tiros, o aluno deve escrever em uma janela do programa a equação cartesiana de uma reta ou de uma circunferência que passa pelos pontos e pela origem do sistema de coordenadas. Se o tiro for dado por meio da equação da circunferência, cada ponto diferente da origem que for atingido vale 2 pontos. Se o tiro for dado por meio da equação de uma reta, cada ponto diferente da origem que for atingido vale 1 ponto. Em uma situação de jogo, ainda restam os  seguintes pontos para serem eliminados: A(0 ; 4), 6(4 ; 4), C(4 ; 0), D(2 ; 2) e E(0; 2).\n\n![](https://enem.dev/2018/questions/138/da8a254c-332c-4417-b998-1bde73398c79.png)",
+    "files": [
+        "https://enem.dev/2018/questions/138/da8a254c-332c-4417-b998-1bde73398c79.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Passando pelo ponto A, qual equação forneceria a maior pontuação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X = 0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y = 0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "X² + y² =16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "X² + (y-2)² = 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(x -2 )² + ( y - 2 )² = 8",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

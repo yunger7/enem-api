@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2009",
+    "index": 129,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Serafim da Silva Neto defendia a tese da unidade da língua portuguesa no Brasil, entrevendo que no Brasil as delimitações dialetais espaciais não eram tão marcadas como as isoglossas¹ da România Antiga. Mas Paul Teyssier, na sua **História da Língua Portuguesa**, reconhece que na diversidade socioletal essa pretensa unidade se desfaz. Diz Teyssier: “A realidade, porém, é que as divisões ‘dialetais’ no Brasil são menos geográficas que socioculturais. As diferenças na maneira de falar são maiores, num determinado lugar, entre um homem culto e o vizinho analfabeto que entre dois brasileiros do mesmo nível cultural originários de duas regiões distantes uma da outra.”\n\nSILVA, R. V. M. **O português brasileiro e o português europeu**  \n**contemporâneo: alguns aspectos da diferença.** Disponível em:  \nwww.uniroma.it. Acesso em: 23 jun. 2008.\n\n¹ isoglossa – linha imaginária que, em um mapa, une os pontos de ocorrência de traços e fenômenos linguísticos idênticos.\n\nFERREIRA, A. B. H. **Novo dicionário Aurélio da língua portuguesa.**  \nRio de Janeiro: Nova Fronteira, 1986.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as informações presentes no texto, os pontos de vista de Serafim da Silva Neto e de Paul Teyssier convergem em relação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À influência dos aspectos socioculturais nas diferenças dos falares entre indivíduos, pois ambos consideram que pessoas de mesmo nível sociocultural falam de forma semelhante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "À delimitação dialetal no Brasil assemelhar-se ao que ocorria na România Antiga, pois ambos consideram a variação linguística no Brasil como decorrente de aspectos geográficos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À variação sociocultural entre brasileiros de diferentes regiões, pois ambos consideram o fator sociocultural de bastante peso na constituição das variedades linguísticas no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "À diversidade da língua portuguesa na România Antiga, que até hoje continua a existir, manifestandose nas variantes linguísticas do português atual no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "À existência de delimitações dialetais geográficas pouco marcadas no Brasil, embora cada um enfatize aspectos diferentes da questão.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

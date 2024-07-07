@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2011",
+    "index": 18,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Na década de 1990, os movimentos sociais camponeses e as ONGs tiveram destaque, ao lado de outros sujeitos coletivos. Na sociedade brasileira, a ação dos movimentos sociais vem construindo lentamente um conjunto de práticas democráticas no interior das escolas, das comunidades, dos grupos organizados e na interface da sociedade civil com o Estado. O diálogo, o confronto e o conflito têm sido os motores no processo de construção democrática.\n\nSOUZA, M. A. **Movimentos sociais no Brasil contemporâneo**: participação e possibilidades das práticas democráticas. Disponível em: http://www.ces.uc.pt. Acesso em: 30 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o texto, os movimentos sociais contribuem para o processo de construção democrática, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Determinam o papel do Estado nas transformações socioeconômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumentam o clima de tensão social na sociedade civil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pressionam o Estado para o atendimento das demandas da sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Privilegiam determinadas parcelas da sociedade em detrimento das demais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Propiciam a adoção de valores éticos pelos órgãos do Estado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

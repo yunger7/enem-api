@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2018",
+    "index": 117,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O nível metabólico de uma célula pode ser determinado pela taxa de síntese de RNAs e proteínas, processos dependentes de energia. Essa diferença na taxa de síntese de biomoléculas é refletida na abundância e características morfológicas dos componentes celulares. Em uma empresa de produção de hormônios proteicos a partir do cultivo de células animais, um pesquisador deseja selecionar uma linhagem com o metabolismo de síntese mais elevado, dentre as cinco esquematizadas na figura.\n\n![](https://enem.dev/2018/questions/117/4b3d2a34-a1a5-4b5f-8293-7653201b3b7b.png)",
+    "files": [
+        "https://enem.dev/2018/questions/117/4b3d2a34-a1a5-4b5f-8293-7653201b3b7b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual linhagem deve ser escolhida pelo pesquisador?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

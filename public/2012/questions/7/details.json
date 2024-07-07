@@ -1,0 +1,43 @@
+{
+    "title": "Questão 7 - ENEM 2012",
+    "index": 7,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É verdade que nas democracias o povo parece fazer o que quer; mas a liberdade política não consiste nisso. Deve-se ter sempre presente em mente o que é independência e o que é liberdade. A liberdade é o direito de fazer tudo o que as leis permitem; se um cidadão pudesse fazer tudo o que elas proíbem, não teria mais liberdade, porque os outros também teriam tal poder.\n\nMONTESQUIEU. Do Espírito das Leis. São Paulo: Editora Nova Cultural, 1997 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A característica de democracia ressaltada por Montesquieu diz respeito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao status de cidadania que o indivíduo adquire ao tomar as decisões por si mesmo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ao condicionamento da liberdade dos cidadãos à conformidade às leis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "À possibilidade de o cidadão participar no poder e, nesse caso, livre da submissão às leis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao livre-arbítrio do cidadão em relação àquilo que é proibido, desde que ciente das consequências.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao direito do cidadão exercer sua vontade de acordo com seus valores pessoais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

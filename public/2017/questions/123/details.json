@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2017",
+    "index": 123,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.\n\nDisponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essas espécies captam água do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Organismo das plantas vizinhas",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solo através de suas longas raízes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Chuva acumulada entre suas folhas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Seiva bruta das plantas hospedeiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Comunidade que vive em seu interior.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

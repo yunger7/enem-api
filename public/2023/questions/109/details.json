@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2023",
+    "index": 109,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.\n\nEm ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.\n\n![](https://enem.dev/2023/questions/109/e083688b-cc00-4c8b-9de6-01f07a7a6a5c.png)",
+    "files": [
+        "https://enem.dev/2023/questions/109/e083688b-cc00-4c8b-9de6-01f07a7a6a5c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

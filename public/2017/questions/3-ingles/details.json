@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2017",
+    "index": 3,
+    "year": 2017,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2017/questions/3-ingles/0933a50a-d739-44ba-b540-de42213e3fcf.png)\n\n**Reader’s Digest**, set. 1993.",
+    "files": [
+        "https://enem.dev/2017/questions/3-ingles/0933a50a-d739-44ba-b540-de42213e3fcf.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse texto publicitário são utilizados recursos verbais e não verbais para transmitir a mensagem. Ao associar os termos anyplace e regret à imagem do texto, constata-se que o tema da propaganda é a importância da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Preservação do meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Manutenção do motor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escolha da empresa certa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Consistência do produto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Conservação do carro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

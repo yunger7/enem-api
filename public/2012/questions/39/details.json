@@ -1,0 +1,43 @@
+{
+    "title": "Questão 39 - ENEM 2012",
+    "index": 39,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**Texto I**\n\nAo se emanciparem da tutela senhorial, muitos camponeses foram desligados legalmente da antiga terra. Deveriam pagar, para adquirir propriedade ou arrendamento. Por não possuírem recursos, engrossaram a camada cada vez maior de jornaleiros e trabalhadores volantes, outros, mesmo tendo propriedade sobre um pequeno lote, suplementavam sua existência com o assalariamento esporádico.\n\nMACHADO, P. P. **Política e colonização no Império**. Porto Alegre: EdUFRGS, 1999 (adaptado).\n\n**Texto II**\n\nCom a globalização da economia ampliou-se a hegemonia do modelo de desenvolvimento agropecuário, com seus padrões tecnológicos, caracterizando o agronegócio. Essa nova face da agricultura capitalista também mudou a forma de controle e exploração da terra. Ampliou-se, assim, a ocupação de áreas agricultáveis e as fronteiras agrícolas se estenderam.\n\nSADER, E.; JINKINGS, I. **Enciclopédia Contemporânea da América Latina e do Caribe**. São Paulo: Boitempo, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os textos demonstram que, tanto na Europa do século XIX quanto no contexto latino-americano do século XXI, as alterações tecnológicas vivenciadas no campo interferem na vida das populações locais, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Induzem os jovens ao estudo nas grandes cidades, causando o êxodo rural, uma vez que formados, não retornam à sua região de origem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Impulsionam as populações locais a buscar linhas de financiamento estatal com o objetivo de ampliar a agricultura familiar, garantindo sua fixação no campo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ampliam o protagonismo do Estado, possibilitando a grupos econômicos ruralistas produzir e impor políticas agrícolas, ampliando o controle que tinham dos mercados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aumentam a produção e a produtividade de determinadas culturas em função da intensificação da mecanização, do uso de agrotóxicos e cultivo de plantas transgênicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desorganizam o modo tradicional de vida impelindo-as à busca por melhores condições no espaço urbano ou em outros países em situações muitas vezes precárias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

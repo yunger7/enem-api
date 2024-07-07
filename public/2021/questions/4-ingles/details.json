@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2021",
+    "index": 4,
+    "year": 2021,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png)",
+    "files": [
+        "https://enem.dev/2021/questions/4-ingles/f8b82d5f-61b4-4f77-ac4f-5ab5af0f9423.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A Presença de “at odds with” na fala do personagem do cartum revela o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Necessidade de acessar informações confiáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dificuldade de conciliar diferentes anseios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Desejo de dominar novas tecnologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desafio de permanecer imparcial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vontade de ler notícias positivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

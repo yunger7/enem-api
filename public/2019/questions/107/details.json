@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2019",
+    "index": 107,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na piscicultura, costumam-se usar larvas de _Artemia_ (crustáceo) para alimentar larvas de peixes. Ovos de _Artemia_ são colocados em garrafas com água salgada e, sob condições ótimas de temperatura, luz e oxigênio, eles eclodem, liberando suas larvas, também conhecidas como náuplios. Para recolher os náuplios, coloca-se uma lâmpada branca fluorescente na boca da garrafa e estes começam a subir em direção ao gargalo.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse comportamento das artêmias é chamado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Geotropismo positivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fototropismo positivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Hidrotropismo negativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Termotropismo negativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Quimiotropismo negativo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

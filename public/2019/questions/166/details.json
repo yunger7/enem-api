@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2019",
+    "index": 166,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do _origami_ (_ori_ = dobrar; _kami_ = papel), que tem um significado altamente simbólico no Japão.\n\nA base do _origami_ é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando técnica do _origami_, utilizando uma folha de papel de 18 cm por 12 cm.\n\nAssim, começou por dobrar a folha conforme a figura.\n\n![](https://enem.dev/2019/questions/166/3133b67a-fdb3-4ce8-8371-67b7a04d89e4.png)",
+    "files": [
+        "https://enem.dev/2019/questions/166/3133b67a-fdb3-4ce8-8371-67b7a04d89e4.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após essa primeira dobradura, a medida do segmento AE é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2√22 ​cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6√3 ​cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6√​5​​ cm",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "12√​2 ​cm",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

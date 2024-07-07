@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2011",
+    "index": 66,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um motor só poderá realizar trabalho se receber uma quantidade de energia de outro sistema. No caso, a energia armazenada no combustível é, em parte, liberada durante a combustão para que o aparelho possa funcionar. Quando o motor funciona, parte da energia convertida ou transformada na combustão não pode ser utilizado para a realização de trabalho. Isso significa dizer que há vazamento da energia em outra forma.\n\nCARVALHO, A. X. Z. Física Térmica. Belo Horizonte: Pax, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto, as transformações de energia que ocorrem durante o funcionamento do motor são decorrentes de a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Liberação de calor dentro do motor ser impossível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Realização de trabalho pelo motor ser incontrolável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Conversão integral de calor em trabalho ser impossível.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Transformação de energia térmica em cinética ser impossível.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Utilização de energia potencial do combustível ser incontrolável.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

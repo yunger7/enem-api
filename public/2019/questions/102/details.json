@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2019",
+    "index": 102,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O objetivo de recipientes isolantes térmicos é minimizar as trocas de calor com o ambiente externo. Essa troca de calor é proporcional à condutividade térmica k e à área interna das faces do recipiente, bem como à diferença de temperatura entre o ambiente externo e o interior do recipiente, além de ser inversamente proporcional à espessura das faces.\n\nA fim de avaliar a qualidade de dois recipientes **A** (40 cm x 40 cm x 40 cm) e **B** (60 cm x 40 cm x 40 cm) de faces de mesma espessura, uma estudante compara suas condutividades térmicas k**A** e k**B**. Para isso suspende, dentro de cada recipiente, blocos idênticos de gelo a 0°C, de modo que suas superfícies estejam em contato apenas com o ar. Após um intervalo de tempo, ela abre os recipientes enquanto ambos ainda contêm um pouco de gelo e verifica que a massa de gelo que se fundiu no recipiente **B** foi o dobro da que se fundiu no recipiente **A**.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A razão kA/kB é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,67.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,75.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,33.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2018",
+    "index": 91,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisas demonstram que nanodispositivos baseados em movimentos de dimensões atômicas, induzidos por luz, poderão ter aplicações em tecnologias futuras, substituindo micromotores, sem a necessidade de componentes mecânicos. Exemplo de movimento molecular induzido pela luz pode ser observado pela flexão de uma lâmina delgada de silício, ligado a um polímero de azobenzeno e a um material suporte, em dois comprimentos de onda, conforme ilustrado na figura. Com a aplicação de luz ocorrem reações reversíveis da cadeia do polímero, que promovem o movimento observado:\n\nTOMA, H. E. A nanotecnologia das moléculas. **Química Nova na Escola**, n.21, maio 2005 (adaptado).\n\n![](https://enem.dev/2018/questions/91/5fcb47b9-374a-479e-9eee-75f09cad44e0.png)",
+    "files": [
+        "https://enem.dev/2018/questions/91/5fcb47b9-374a-479e-9eee-75f09cad44e0.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O fenômeno de movimento molecular, promovido pela incidência de luz, decorre do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Movimento vibracional dos átomos, que leva ao encurtamento e à relaxação das ligações",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Isomerização das ligações N=N, sendo a forma cis do polímero mais compacta que a trans.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Tautomerização das unidades monoméricas do polímero, que leva a um composto mais compacto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ressonância entre os elétrons π do grupo azo e os do anel aromático que encurta as ligações duplas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Variação conformacional das ligações N=N, que resulta em estruturas com diferentes áreas de superfície.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

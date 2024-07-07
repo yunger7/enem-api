@@ -1,0 +1,45 @@
+{
+    "title": "Questão 11 - ENEM 2016",
+    "index": 11,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2016/questions/11/fcff40ae-bb99-47db-a664-d4c098c6b460.jpg)\n\nTEXTO II\n\nA eleição dos novos bens, ou melhor, de novas formas de se conceber a condição do patrimônio cultural nacional, também permite que diferentes grupos sociais, utilizando as leis do Estado e o apoio de especialistas, revejam as imagens e alegorias do seu passado, do que querem guardar e definir como próprio e identitário.\n\nABREU, M.; SOIHET, R.; GONTIJO, R. (Org.). **Cultura política e leituras do passado**: historiografia e ensino de história, Rio de Janeiro Civilização Brasileira, 2007",
+    "files": [
+        "https://enem.dev/2016/questions/11/fcff40ae-bb99-47db-a664-d4c098c6b460.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto chama a atenção para a importância da proteção de bens que, como aquele apresentado na imagem, se identificam como:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Artefatos sagrados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Heranças materiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Objetos arqueológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Peças comercializáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Conhecimentos tradicionais.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

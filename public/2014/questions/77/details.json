@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2014",
+    "index": 77,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A fórmula que se enquadra nas características da molécula investigada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CH3 –(CH)2 –CH(OH)–CO–NH–CH3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CH3 –(CH)2 –CH(CH3)–CO–NH–CH3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "CH3 –(CH)2 –CH(CH3)–CO–NH2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CH3 –CH2 –CH(CH3)–CO–NH–CH3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C6 H5 –CH2 –CO–NH–CH3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

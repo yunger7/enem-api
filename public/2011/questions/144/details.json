@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2011",
+    "index": 144,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/144/d0e4d3d7-dfa0-48c0-81a7-03193a5dfea2.png)\n\nOs pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas _AD_, _BC_, _AB_ e _CD_, nessa ordem. Após os cortes, são descartados quatro sólidos.",
+    "files": [
+        "https://enem.dev/2011/questions/144/d0e4d3d7-dfa0-48c0-81a7-03193a5dfea2.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os formatos dos sólidos descartados são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Todos iguais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Todos diferentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Três iguais e um diferente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apenas dois iguais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Iguais dois a dois.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

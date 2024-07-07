@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2019",
+    "index": 27,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Educação para a saúde mediante programas de educação física escolar\nA educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquirí-lo e construílo de forma indivi dua lizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico.\nGUEDES, D. P. Motriz, n. 1, 1999.\nA educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A adesão a programas de lazer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Opção por dietas balanceadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Constituição de hábitos saudáveis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Evasão de ambientes estressores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Realização de atividades físicas regulares.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

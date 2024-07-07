@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2014",
+    "index": 25,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/25/1428c6bc-bcd0-452d-8bd6-6600b3f7bd77.png)",
+    "files": [
+        "https://enem.dev/2014/questions/25/1428c6bc-bcd0-452d-8bd6-6600b3f7bd77.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No centro da imagem, o filósofo Platão é retratado apontando para o alto. Esse gesto significa que o conhecimento se encontra em uma instância na qual o homem descobre a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Suspensão do juízo como reveladora da verdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Realidade inteligível por meio do método dialético.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Salvação da condição mortal pelo poder de Deus.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Essência das coisas sensíveis no intelecto divino.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ordem intrínseca ao mundo por meio da sensibilidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2015",
+    "index": 180,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/180/0718a550-0f5e-4d3b-bdf2-13c39ca515af.png)\n\nonde _x_ representa o mês do ano, sendo _x_ = 1 associado ao mês de janeiro, _x_ = 2 ao mês de fevereiro, e assim sucessivamente, até _x_ = 12 associado ao mês de dezembro.",
+    "files": [
+        "https://enem.dev/2015/questions/180/0718a550-0f5e-4d3b-bdf2-13c39ca515af.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na safra, o mês de produção máxima desse produto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Junho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Julho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Outubro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

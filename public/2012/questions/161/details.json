@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2012",
+    "index": 161,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "João decidiu contratar os serviços de uma empresa por telefone através do SAC (Serviço de Atendimento ao Consumidor). O atendente ditou para João o número de protocolo de atendimento da ligação e pediu que ele anotasse. Entretanto, João não entendeu um dos algarismos ditados pelo atendente e anotou o número 1 3 \\_ 9 8 2 0 7, sendo que o espaço vazio é o do algarismo que João não entendeu.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com essas informações, a posição ocupada pelo algarismo que falta no número de protocolo é a de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Centena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dezena de milhar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Centena de milhar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Milhão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Centena de milhão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

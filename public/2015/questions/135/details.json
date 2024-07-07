@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2015",
+    "index": 135,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Por que as formigas não morrem quando postas em forno de micro-ondas?**\n\nAs micro-ondas são ondas eletromagnéticas com frequência muito alta. Elas causam vibração nas moléculas de água, e é isso que aquece a comida. Se o prato estiver seco, sua temperatura não se altera. Da mesma maneira, se as formigas tiverem pouca água em seu corpo, podem sair incólumes. Já um ser humano não se sairia tão bem quanto esses insetos dentro de um forno de micro-ondas superdimensionado: a água que compõe 70% do seu corpo aqueceria. Micro-ondas de baixa intensidade, porém, estão por toda a parte, oriundas da telefonia celular, mas não há comprovação de que causem problemas para a população humana.\n\nOKUNO. E. Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 11 dez. 2013.\n\nOs textos constroem-se com recursos linguísticos que materializam diferentes propósitos comunicativos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao responder à pergunta que dá título ao texto, o autor tem como objetivo principal",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Defender o ponto de vista de que as ondas eletro magnéticas são inofensivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Divulgar resultados de recentes pesquisas científicas para a sociedade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apresentar informações acerca das ondas eletromagnéticas e de seu uso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Alertar o leitor sobre os riscos de usar as micro-ondas em seu dia a dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apontar diferenças fisiológicas entre formigas e seres humanos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

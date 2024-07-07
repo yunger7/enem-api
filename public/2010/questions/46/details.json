@@ -1,0 +1,43 @@
+{
+    "title": "Questão 46 - ENEM 2010",
+    "index": 46,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A vacina, o soro e os antibióticos submetem os organismos a processos biológicos diferentes. Pessoas que viajam para regiões em que ocorrem altas incidências de febre amarela, de picadas de cobras peçonhentas e de leptospirose e querem evitar ou tratar problemas de saúde relacionados a essas ocorrências devem seguir determinadas orientações.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao procurar um posto de saúde, um viajante deveria ser orientado por um médico a tomar preventivamente ou como medida de tratamento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Antibiótico contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e vacina contra a leptospirose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vacina contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e antibiótico caso entre em contato com a Leptospira sp.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Soro contra o vírus da febre amarela, antibiótico caso seja picado por uma cobra e soro contra toxinas bacterianas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Antibiótico ou soro, tanto contra o vírus da febre amarela como para veneno de cobras, e vacina contra a leptospirose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Soro antiofídico e antibiótico contra a Leptospira sp e vacina contra a febre amarela caso entre em contato com o vírus causador da doença.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

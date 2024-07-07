@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2016",
+    "index": 75,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/75/dd153eb4-697f-4e0b-ab99-0590c6301cd3.jpg)",
+    "files": [
+        "https://enem.dev/2016/questions/75/dd153eb4-697f-4e0b-ab99-0590c6301cd3.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Mesmo que essa  planta viesse sofrer ação contínua do vento e sua copa crescesse voltada para baixo, essa seiva continuaria naturalmente seu percurso.\nO que garante o transporte dessa seiva é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Gravidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Respiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fotossíntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Transpiração.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

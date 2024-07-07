@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2017",
+    "index": 126,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No ar que respiramos existem os chamados “gases inertes”. Trazem curiosos nomes gregos, que significam “o Novo”, “o Oculto”, “o Inativo”. E de fato são de tal modo inertes, tão satisfeitos em sua condição, que não interferem em nenhuma reação química, não se combinam com nenhum outro elemento e justamente por esse motivo ficaram sem ser observados durante séculos: só em 1962 um químico, depois de longos e engenhosos esforços, conseguiu forçar “o Estrangeiro” (o xenônio) a combinar-se fugazmente com o flúor ávido e vivaz, a façanha pareceu tão  extraordinária que lhe foi conferido o Prêmio Nobel.\n\nLEVI, P. **A tabela periódica**. Rio de Janeiro: Relume-Dumará, 1994 (adaptado)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual propriedade do flúor justifica sua escolha como reagente para o processo mencionado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Densidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Condutância.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eletronegatividade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Estabilidade nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Temperatura de ebulição.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

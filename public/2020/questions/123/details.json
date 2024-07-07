@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2020",
+    "index": 123,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em seu laboratório, um técnico em química foi  \nincumbido de tratar um resíduo, evitando seu descarte  \ndireto no meio ambiente. Ao encontrar o frasco, observou  \na seguinte informação: “Resíduo: mistura de acetato de  \netila e água”.\n\n![](https://enem.dev/2020/questions/123/f756b27e-21a4-4da1-a7c6-6b456d828c24.png)",
+    "files": [
+        "https://enem.dev/2020/questions/123/f756b27e-21a4-4da1-a7c6-6b456d828c24.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A fim de tratar o resíduo, recuperando o acetato de etila,\no técnico deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evaporar o acetato de etila sem alterar o conteúdo de água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Filtrar a mistura utilizando um funil comum e um papel de filtro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Realizar uma destilação simples para separar a água do acetato de etila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Proceder a uma centrifugação da mistura para remover o acetato de etila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Decantar a mistura separando os dois componentes em um funil adequado.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

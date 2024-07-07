@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2014",
+    "index": 155,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/155/d051c23d-cdd3-4ec4-9957-a9aa1a9bd0c4.png)",
+    "files": [
+        "https://enem.dev/2014/questions/155/d051c23d-cdd3-4ec4-9957-a9aa1a9bd0c4.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A menor nota que o candidato II deverá obter na prova final de química para vencer a competição é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "19.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "22.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "26.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

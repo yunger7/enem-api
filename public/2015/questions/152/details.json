@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2015",
+    "index": 152,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se a estimativa for alcançada, qual é a expressão que determina o número de unidades produzidas P em função de t, para t ≥ 1?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P(t) = 0,5 · t-1 + 8 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "P(t) = 50 · t-1 + 8 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P(t) = 4 000 · t-1 + 8 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P(t) = 8 000 · (0,5)t - 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P(t) = 8 000 · (1,5)t - 1",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

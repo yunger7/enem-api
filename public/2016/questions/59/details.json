@@ -1,0 +1,46 @@
+{
+    "title": "Questão 59 - ENEM 2016",
+    "index": 59,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Por apresentar significativa resistividade elétrica, o grafite pode ser utilizado para simular resistores elétricos em circuitos desenhados no papel, com o uso de lápis e lapiseiras. Dependendo da espessura e do comprimento das linhas desenhadas, é possível determinar a resistência elétrica de cada traçado produzido. No esquema foram utilizados três tipos de lápis diferentes (2H, HB e 6B) para efetuar três traçados distintos.\n\n![](https://enem.dev/2016/questions/59/87747823-81f1-4892-b49e-862c699ea63b.png)\n\nMunido dessas informações, um estudante pegou uma folha de papel e fez o desenho de um sorvete de casquinha utilizando-se desses traçados. Os valores encontrados nesse experimento, para as resistências elétricas (R), medidas com o auxílio de um ohmímetro ligado nas extremidades das resistências, são mostrados na figura. Verificou-se que os resistores obedeciam à Lei de Ohm.\n\n![](https://enem.dev/2016/questions/59/c3cf30b9-4fc9-45a6-955f-d0f99181dd7c.png)",
+    "files": [
+        "https://enem.dev/2016/questions/59/87747823-81f1-4892-b49e-862c699ea63b.png",
+        "https://enem.dev/2016/questions/59/c3cf30b9-4fc9-45a6-955f-d0f99181dd7c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Na sequência, conectou o ohmímetro nos terminais A e B do desenho e, em seguida, conectou-o nos terminais B e C, anotando as leituras RAB e RBC, respectivamente. Ao estabelecer a razão RAB / RBC, qual resultado o estudante obteve?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4/7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "10/27",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "14/81",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4/81",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

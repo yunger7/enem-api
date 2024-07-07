@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2020",
+    "index": 124,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em 2011, uma falha no processo de perfuração realizado\npor uma empresa petrolífera ocasionou derramamento de\npetróleo na bacia hidrográfica de Campos, no Rio de\nJaneiro.\nOs impactos decorrentes desse derramamento ocorrem\nporque os componentes do petróleo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Têm cadeia pequena e elevada volatilidade, conta - minando a atmosfera local e regional em função dos ventos nas orlas marítimas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

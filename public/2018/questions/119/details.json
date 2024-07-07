@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2018",
+    "index": 119,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A utilização de extratos de origem natural tem recebido a atenção de pesquisadores em todo o mundo, principalmente nos países em desenvolvimento que são altamente acometidos por doenças infecciosas e parasitárias. Um bom exemplo dessa utilização são os produtos de origem botânica que combatem insetos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O uso desses produtos pode auxiliar no controle da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Esquistossomose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Leptospirose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Leishmaniose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Hanseníase.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aids.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

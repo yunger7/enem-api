@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2013",
+    "index": 1,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg)",
+    "files": [
+        "https://enem.dev/2013/questions/1/6e8acb98-430b-4f01-b22a-6b616a3c0651.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os mapas representam distintos padrões de distribuição de processos socioespaciais. Nesse sentido, a menor incidência de disputas territoriais envolvendo povos indígenas se explica pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fertilização natural dos solos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Expansão da fronteira agrícola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Intensificação da migração de retorno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Homologação de reservas extrativistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Concentração histórica da urbanização.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

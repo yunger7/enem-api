@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2015",
+    "index": 31,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/31/7bd21c12-998c-427f-9b47-e7a06c817ac0.jpg)",
+    "files": [
+        "https://enem.dev/2015/questions/31/7bd21c12-998c-427f-9b47-e7a06c817ac0.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, que decorre do processo natural de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fraturamento geológico, derivado da força dos agentes internos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solapamento de camadas de argilas, transportadas pela correnteza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Movimento circular de seixos e areias, arrastados por águas turbilhonares.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Decomposição das camadas sedimentares, resultante da alteração química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

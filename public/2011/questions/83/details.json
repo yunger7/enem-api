@@ -1,0 +1,43 @@
+{
+    "title": "Questão 83 - ENEM 2011",
+    "index": 83,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O etanol é considerado um biocombustível promissor, pois, sob o ponto de vista do balanço de carbono, possui uma taxa de emissão praticamente igual a zero. Entretanto, esse não é o único ciclo biogeoquímico associado à produção de etanol. O plantio da cana-de-açúcar, matéria-prima para a produção de etanol, envolve a adição de macronutrientes como enxofre, nitrogênio, fósforo e potássio, principais elementos envolvidos no crescimento de um vegetal.  \nRevista Química Nova na Escola. no 28, 2008.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O nitrogênio incorporado ao solo, como consequência da atividade descrita anteriormente, é transformado em nitrogênio ativo e afetará o meio ambiente, causando",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O acúmulo de sais insolúveis, desencadeando um processo de salinificação do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A eliminação de microorganismos existentes no solo responsáveis pelo processo de desnitrificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A contaminação de rios e lagos devido à alta solubilidade de íons como NO3− e NH4+ em água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A diminuição do pH do solo pela presença de NH3, que reage com a água, formando o NH4OH(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A diminuição da oxigenação do solo, uma vez que o nitrogênio ativo forma espécies químicas do tipo NO2, NO− , N2O.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

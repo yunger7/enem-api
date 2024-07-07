@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2010",
+    "index": 173,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "João mora na cidade A e precisa visitar cinco clientes, localizados em cidades diferentes da sua. Cada trajeto possível pode ser representado por uma sequência de 7 letras. Por exemplo, o trajeto ABCDEFA, informa que ele sairá da cidade A, visitando as cidades B, C, D, E e F nesta ordem, voltando para a cidade A. Além disso, o número indicado entre as letras informa o custo do deslocamento entre as cidades. A figura mostra o custo de deslocamento entre cada uma das cidades.\n\n![](https://enem.dev/2010/questions/173/32cafe03-6732-45ee-85e9-d97f56364ee2.jpg)\n\nComo João quer economizar, ele precisa determinar qual o trajeto de menor custo para visitar os cinco clientes. somente parte das sequências, pois os trajetos ABCDEFA e AFEDCBA têm o mesmo custo. Ele gasta 1min30s para examinar uma sequência e descartar sua simétrica, conforme apresentado.",
+    "files": [
+        "https://enem.dev/2010/questions/173/32cafe03-6732-45ee-85e9-d97f56364ee2.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O tempo mínimo necessário para João verificar todas as sequências possíveis no problema é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "60 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "90 min.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "120 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "180 min.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "360 min.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

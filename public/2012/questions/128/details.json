@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2012",
+    "index": 128,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Entrevista com Marcos Bagno**\n\nPode parecer inacreditável, mas muitas das prescrições da pedagogia tradicional da língua até hoje se baseiam nos usos que os escritores portugueses do século XIX faziam da língua. Se tantas pessoas condenam, por exemplo, o uso do verbo “ter” no lugar de “haver”, como em “hoje tem feijoada”, é simplesmente porque os portugueses, em dado momento da história de sua língua, deixaram de fazer esse uso existencial do verbo “ter”.  \nNo entanto, temos registros escritos da época medieval em que aparecem centenas desses usos. Se nós, brasileiros, assim como os falantes africanos de português, usamos até hoje o verbo “ter” como existencial é porque recebemos esses usos de nossos ex-colonizadores. Não faz sentido imaginar que brasileiros, angolanos e moçambicanos decidiram se juntar para “errar” na mesma coisa. E assim acontece com muitas outras coisas: regências verbais, colocação pronominal, concordâncias nominais e verbais etc. Temos uma língua própria, mas ainda somos obrigados a seguir uma gramática normativa de outra língua diferente. Às vésperas de comemorarmos nosso bicentenário de independência, não faz sentido continuar rejeitando o que é nosso para só aceitar o que vem de fora.  \nNão faz sentido rejeitar a língua de 190 milhões de brasileiros para só considerar certo o que é usado por menos de dez milhões de portugueses. Só na cidade de São Paulo temos mais falantes de português que em toda a Europa!\n\n**Informativo Parábola Editorial**, s/d.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na entrevista, o autor defende o uso de formas linguísticas coloquiais e faz uso da norma padrão em toda a extensão do texto. Isso pode ser explicado pelo fato de que ele",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adapta o nível de linguagem à situação comunicativa, uma vez que o gênero entrevista requer o uso da norma padrão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Apresenta argumentos carentes de comprovação científica e, por isso, defende um ponto de vista difícil de ser verificado na materialidade do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Propõe que o padrão normativo deve ser usado por falantes escolarizados como ele, enquanto a norma coloquial deve ser usada por falantes não escolarizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Acredita que a língua genuinamente brasileira está em construção, o que o obriga a incorporar em seu cotidiano a gramática normativa do português europeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Defende que a quantidade de falantes do português brasileiro ainda é insuficiente para acabar com a hegemonia do antigo colonizador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

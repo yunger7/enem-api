@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2021",
+    "index": 12,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png)\n\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/12/6ac63b3f-c328-4663-80e1-4753ac661fec.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A estimular denúncias de maus-tratos contra animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Desvincular o conceito de descarte da ideia de negligência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Incentivar campanhas de adoção de animais em situação de rua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sensibilizar o público em relação ao abandono de animais domésticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Alertar a população sobre as sanções legais acerca de uma prática criminosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

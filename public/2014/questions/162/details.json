@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2014",
+    "index": 162,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "_Valor do kWh (com tributos)_ x _consumo (em kWh) + Cosip_\n\nO valor da Cosip é fixo em cada faixa de consumo.  O quadro mostra o valor cobrado para algumas faixas.\n\n![](https://enem.dev/2014/questions/162/9f6d3bb3-95ac-44b3-88c3-7b0fe6d9d2f6.png)\n\nSuponha que, em uma residência, todo mês o consumo seja de 150 kWh, e o valor do kWh (com tributos) seja de R$ 0,50. O morador dessa residência pretende diminuir seu consumo mensal de energia elétrica com o objetivo de reduzir o custo total da conta em pelo menos 10%.",
+    "files": [
+        "https://enem.dev/2014/questions/162/9f6d3bb3-95ac-44b3-88c3-7b0fe6d9d2f6.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual deve ser o consumo máximo, em kWh, dessa residência para produzir a redução pretendida pelo morador?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "134,1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "135,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "137,1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "138,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "143,1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

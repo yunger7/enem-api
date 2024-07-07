@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2009",
+    "index": 178,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "João deve 12 parcelas de R$ 150,00 referentes ao cheque especial de seu banco e cinco parcelas de R$ 80,00 referentes ao cartão de crédito. O gerente do banco lhe ofereceu duas parcelas de desconto no cheque especial, caso João quitasse esta dívida imediatamente ou, na mesma condição, isto é, quitação imediata, com 25% de desconto na dívida do cartão. João também poderia renegociar suas dívidas em 18 parcelas mensais de R$ 125,00. Sabendo desses termos, José, amigo de João, ofereceu-lhe emprestar o dinheiro que julgasse necessário pelo tempo de 18 meses, com juros de 25% sobre o total emprestado.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A opção que dá a João o menor gasto seria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Renegociar suas dívidas com o banco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pegar emprestado de José o dinheiro referente à quitação das duas dívidas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Recusar o empréstimo de José e pagar todas as parcelas pendentes nos devidos prazos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pegar emprestado de José o dinheiro referente à quitação do cheque especial e pagar as parcelas do cartão de crédito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pegar emprestado de José o dinheiro referente à quitação do cartão de crédito e pagar as parcelas do cheque especial.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

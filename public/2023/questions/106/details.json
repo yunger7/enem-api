@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2023",
+    "index": 106,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função especifica atuando no mesmo compartimento celular de sempre.\n\nDisponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A imunização produzida por esse tipo de vacina é alcançada por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estimulação de leucócitos induzida pela capa lipídica contendo RNAm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Atuação do RNAm como sequestrador do vírus para o meio extracelular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Incorporação do RNAm viral ao genoma do hospedeiro. gerando novo fenótipo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

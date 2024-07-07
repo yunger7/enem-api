@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2021",
+    "index": 173,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$300,00.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para não ter prejuízo, o menor número de lavagens diárias que o lava rápido deve efetuar é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

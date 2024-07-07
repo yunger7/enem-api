@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2012",
+    "index": 151,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/151/d4cbd8c7-f9da-48aa-9108-72f611ce5370.png)",
+    "files": [
+        "https://enem.dev/2012/questions/151/d4cbd8c7-f9da-48aa-9108-72f611ce5370.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no gráfico e nas informações do texto, é possível inferir que houve maior aquecimento global em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1995.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1998.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2005.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2007.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

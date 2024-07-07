@@ -1,0 +1,46 @@
+{
+    "title": "Questão 94 - ENEM 2009",
+    "index": 94,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A música pode ser definida como a combinação de sons ao longo do tempo. Cada produto final oriundo da infinidade de combinações possíveis será diferente, dependendo da escolha das notas, de suas durações, dos instrumentos utilizados, do estilo de música, da nacionalidade do compositor e do período em que as obras foram compostas.\n\n![](https://enem.dev/2009/questions/94/282c49bb-1204-48bd-94f0-655923c3210e.png)\n\n![](https://enem.dev/2009/questions/94/c2791052-0250-4108-b050-c836866cc800.png)\n\nFigura 1 – http://images.quebarato.com.br/photos/big/2/D/15A12D\\_2.jpg.  \nFigura 2 – http://ourinhos.prefeituramunicipal.net/dados/fotos/2009/07/07/normal.  \nFigura 3 – http://www.edmontonculturalcapital.com/gallery/edjazzfestival/JazzQuartet.jpg  \nFigura 4 – http://www.filmica.com/jacintaescudos/archivos/Led-Zeppelin.jpg.",
+    "files": [
+        "https://enem.dev/2009/questions/94/282c49bb-1204-48bd-94f0-655923c3210e.png",
+        "https://enem.dev/2009/questions/94/c2791052-0250-4108-b050-c836866cc800.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Das figuras que apresentam grupos musicais em ação, pode-se concluir que o(os) grupo(s) mostrado(s) na(s) figura(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 executa um gênero característico da música brasileira, conhecido como chorinho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2 executa um gênero característico da música clássica, cujo compositor mais conhecido é Tom Jobim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 executa um gênero característico da música europeia, que tem como representantes Beethoven e Mozart.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 executa um tipo de música caracterizada pelos instrumentos acústicos, cuja intensidade e nível de ruído permanecem na faixa dos 30 aos 40 decibéis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 a 4 apresentam um produto final bastante semelhante, uma vez que as possibilidades de combinações sonoras ao longo do tempo são limitadas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

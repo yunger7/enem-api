@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2014",
+    "index": 135,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/135/c04407d3-3472-434a-8fc2-9537ea41856c.png)\n\nDisponível em: www.portaldapropaganda.com.br. Acesso em: 28 jul. 2013.",
+    "files": [
+        "https://enem.dev/2014/questions/135/c04407d3-3472-434a-8fc2-9537ea41856c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa propaganda defende a transformação social e a diminuição da violência por meio da palavra. Isso se evidencia pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Predominância de tons claros na composição da peça publicitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Associação entre uma arma de fogo e um megafone.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Grafia com inicial maiúscula da palavra “voz” no slogan.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Imagem de uma mão segurando um megafone.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Representação gráfica da propagação do som.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

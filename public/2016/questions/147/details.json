@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2016",
+    "index": 147,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual o número de possibilidades de escolha dos tenistas para a partida de exibição?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/147/b312c7db-dd7d-4633-af66-83c020de8340.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/147/6eea6a39-3b2d-4b06-8f22-3fb8b3354049.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/147/e5274b9d-58c1-47d8-80c4-9ba8ea7db58f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/147/9ed4324a-682b-4a89-b93b-ce8035218bc6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/147/3f06a01b-fdec-4bb2-affb-45cf27b74bfd.png",
+            "isCorrect": false
+        }
+    ]
+}

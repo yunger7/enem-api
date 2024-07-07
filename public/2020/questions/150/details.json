@@ -1,0 +1,46 @@
+{
+    "title": "Questão 150 - ENEM 2020",
+    "index": 150,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: ![](https://enem.dev/2020/questions/150/2b0e7c3b-061d-4c0b-bc57-f39af78d04ed.png) em que t é o tempo, medido em ano, Q(t) é a quantidade de carbono 14 medida no instante t e Q0 é a quantidade de carbono 14 no ser vivo correspondente.\n\nUm grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a  \nquantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas.\n\n![](https://enem.dev/2020/questions/150/ee42e39e-3e37-4eee-9caf-10248de385c9.jpeg)",
+    "files": [
+        "https://enem.dev/2020/questions/150/2b0e7c3b-061d-4c0b-bc57-f39af78d04ed.png",
+        "https://enem.dev/2020/questions/150/ee42e39e-3e37-4eee-9caf-10248de385c9.jpeg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O fóssil mais antigo encontrado nessa expedição foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2020",
+    "index": 103,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O dióxido de carbono passa para o estado sólido (gelo seco) a –78 °C e retorna ao estado gasoso à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da superfície da terra e não conduz eletricidade. Ele é utilizado como maté – ria-prima para a fotossíntese até o limite de saturação. Após a fixação pelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermentação, decomposição ou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua importância ecológica, seu excesso causa perturbações no equilíbrio ambiental.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em razão da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do potencial hidrogeniônico da água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Restrição da aerobiose pelo excesso de poluentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição da emissão de oxigênio pelos autótrofos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Limitação de transferência de energia entre os seres vivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Retração dos oceanos pelo congelamento do gás nos polos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

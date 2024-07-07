@@ -1,0 +1,43 @@
+{
+    "title": "Questão 81 - ENEM 2013",
+    "index": 81,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Flotação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Levigação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ventilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Peneiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Centrifugação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

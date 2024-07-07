@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2018",
+    "index": 140,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um artesão possui potes cilíndricos de tinta cujas medidas externas são 4 cm de diâmetro e 6 cm de altura. Ele pretende adquirir caixas organizadoras para armazenar seus potes de tinta, empilhados verticalmente com tampas voltadas para cima, de forma que as caixas possam ser fechadas. No mercado,  existem cinco opções de caixas organizadoras, com tampa, em formato de  paralelepípedo reto retângulo, vendidas pelo mesmo preço, possuindo as seguintes dimensões internas:\n\n![](https://enem.dev/2018/questions/140/14af8ae1-e147-45e4-85d1-1b26d33a047e.png)",
+    "files": [
+        "https://enem.dev/2018/questions/140/14af8ae1-e147-45e4-85d1-1b26d33a047e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual desses modelos o artesão deve adquirir para conseguir armazenar o maior número de potes por caixa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

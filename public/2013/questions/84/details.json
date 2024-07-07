@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2013",
+    "index": 84,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Apesar de belos e impressionantes, corais exóticos encontrados na Ilha Grande podem ser uma ameaça ao equilíbrio dos ecossistemas do litoral do Rio de Janeiro. Originários do Oceano Pacífico, esses organismos foram trazidos por plataformas de petróleo e outras embarcações, provavelmente na década de 1980, e disputam com as espécies nativas elementos primordiais para a sobrevivência, como espaço e alimento. Organismos invasores são a segunda maior causa de perda de biodiversidade, superados somente pela destruição direta de hábitats pela ação do homem. As populações de espécies invasoras crescem indefinidamente e ocupam o espaço de organismos nativos.\n\nLEVY, I. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 5 dez. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As populações de espécies invasoras crescem bastante por terem a vantagem de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Não apresentarem genes deletérios no seu pool gênico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Não possuírem parasitas e predadores naturais presentes no ambiente exótico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

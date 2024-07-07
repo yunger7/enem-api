@@ -1,0 +1,43 @@
+{
+    "title": "Questão 25 - ENEM 2012",
+    "index": 25,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para Platão, o que havia de verdadeiro em Parmênides era que o objeto de conhecimento é um objeto de razão e não de sensação, e era preciso estabelecer uma relação entre objeto racional e objeto sensível ou material que privilegiasse o primeiro em detrimento do segundo. Lenta, mas irresistivelmente, a Doutrina das Ideias formava-se em sua mente.\n\n_ZINGANO, M. Platão e Aristóteles: o fascínio da filosofia. São Paulo: Odysseus, 2012 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto faz referência à relação entre razão e sensação, um aspecto essencial da Doutrina das Ideias de Platão (427 a.C.-346 a.C.). De acordo com o texto, como Platão se situa diante dessa relação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estabelecendo um abismo intransponível entre as duas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Privilegiando os sentidos e subordinando o conhecimento a eles.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Atendo-se à posição de Parmênides de que razão e sensação são inseparáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Afirmando que a razão é capaz de gerar conhecimento, mas a sensação não.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Rejeitando a posição de Parmênides de que a sensação é superior à razão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

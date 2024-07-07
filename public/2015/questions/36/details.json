@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2015",
+    "index": 36,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/36/c58775d8-65ba-4443-90d1-f95cc163488b.jpg)\n\nSCHWARCZ, L. M. **As barbas do imperador**. D. Pedro II, um monarca nos trópicos. São Paulo: Cia. Das Letras, 1998 (adaptado).",
+    "files": [
+        "https://enem.dev/2015/questions/36/c58775d8-65ba-4443-90d1-f95cc163488b.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essas imagens de D. Pedro II foram feitas no início dos anos de 1850, pouco mais de uma década após o Golpe da Maioridade. Considerando o contexto histórico em que foram produzidas e os elementos simbólicos destacados, essas imagens representavam um",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Jovem maduro que agiria de forma irresponsável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imperador adulto que governaria segundo as leis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Líder guerreiro que comandaria as vitórias militares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Soberano religioso que acataria a autoridade papal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Monarca absolutista que exerceria seu autoritarismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

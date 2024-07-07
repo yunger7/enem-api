@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 2019",
+    "index": 47,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg)\n\nDisponível em: www.ibge.gov.br.\n\nAcesso em: 11 dez. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2019/questions/47/92a03628-ed52-419e-afee-32b9753b9fd0.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A geração de imagens por meio da tecnologia ilustrada depende da variação do(a):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Albedo dos corpos físicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Profundidade do lençol freático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Campo de magnetismo terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Qualidade dos recursos minerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Movimento de translação planetária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

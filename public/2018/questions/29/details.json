@@ -1,0 +1,45 @@
+{
+    "title": "Questão 29 - ENEM 2018",
+    "index": 29,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nTambém chamados impressões ou imagens fotogramáticas \\[…\\], os fotogramas são, numa definição genérica, imagens realizadas sem a utilização da câmera fotográfica, por contato direto de um objeto ou material com uma superfície fotossensível exposta a uma fonte de luz. Essa técnica, que nasceu junto com a fotografia e serviu de modelo a muitas discussões sobre a ontologia da imagem fotográfica, foi profundamente transformada pelos artistas da vanguarda, nas primeiras décadas do século XX. Representou mesmo, ao lado das colagens, fotomontagens e outros procedimentos técnicos, a incorporação definitiva da fotografa à arte moderna e seu distanciamento da representação figurativa.\n\nCOLUCCI, M. B. Impressões fotogramáticas e vanguardas: as experiências de Man Ray. **Studium**, n. 2, 2000.\n\n**TEXTO II**\n\n![](https://enem.dev/2018/questions/29/1490a98f-8f1e-4e70-a23d-71f3773930b8.png)\n\nDisponível em: www.moma.org. Acesso em: 18 abr. 2018 (adaptado)",
+    "files": [
+        "https://enem.dev/2018/questions/29/1490a98f-8f1e-4e70-a23d-71f3773930b8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No fotograma de Man Ray, o “distanciamento da representação figurativa” a que se refere o Texto I manifesta-se na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ressignificação do jogo de luz e sombra, nos moldes surrealistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Imposição do acaso sobre a técnica, como crítica à arte realista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Composição experimental, fragmentada e de contornos difusos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Abstração radical, voltada para a própria linguagem fotográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Imitação de formas humanas, com base em diferentes objetos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

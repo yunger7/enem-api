@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2010",
+    "index": 32,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "De março de 1931 a fevereiro de 1940, foram decretadas mais de 150 leis novas de proteção social e de regulamentação do trabalho em todos os seus setores. Todas elas têm sido simplesmente uma dádiva do governo. Desde aí, o trabalhador brasileiro encontra nos quadros gerais do regime o seu verdadeiro lugar.\n\nDANTAS, M. A força nacionalizadora do Estado Novo. Rio  \nde Janeiro: DIP, 1942. Apud BERCITO, S. R. Nos Tempos  \nde Getúlio: da revolução de 30 ao fim do Estado Novo. São  \nPaulo: Atual, 1990.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A adoção de novas políticas públicas e as mudanças jurídico-institucionais ocorridas no Brasil, com a ascensão de Getúlio Vargas ao poder, evidenciam o papel histórico de certas lideranças e a importância das lutas sociais na conquista da cidadania. Desse processo resultou a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criação do Ministério do Trabalho, Indústria e Comércio, que garantiu ao operariado autonomia para o exercício de atividades sindicais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Legislação previdenciária, que proibiu migrantes de ocuparem cargos de direção nos sindicatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Criação da Justiça do Trabalho, para coibir ideologias consideradas perturbadoras da \"harmonia social\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Legislação trabalhista que atendeu reivindicações dos operários, garantido-lhes vários direitos e formas de proteção.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Decretação da Consolidação das Leis do Trabalho (CLT), que impediu o controle estatal sobre as atividades políticas da classe operária.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

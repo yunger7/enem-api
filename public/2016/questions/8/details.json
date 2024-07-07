@@ -1,0 +1,43 @@
+{
+    "title": "Questão 8 - ENEM 2016",
+    "index": 8,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A África Ocidental é conhecida pela dinâmica das suas mulheres comerciantes, caracterizadas pela perícia, autonomia e mobilidade. A sua presença, que fora atestada por viajantes e por missionários portugueses que visitaram a costa a partir do século XV, Consta também na ampla documentação sobre a região. A literatura é rica em referências às grandes mulheres como as vendedoras ambulantes, cujo jeito para o negócio, bem como a autonomia e mobilidade, é tão típico da região.\n\nHAVIK, P. Dinâmicas e assimetrias afro-atlânticas: a agência feminina e representações em mudança na Guiné (séculos XIX e XX). In: PANTOJA, S. (Org.). **Identidades, memórias e histórias em terras africanas**, Brasília: LGE; Luanda: Nzila, 2006.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A abordagem realizada pelo autor sobre a vida social da África Ocidental pode ser relacionada a uma característica marcante das cidades no Brasil escravista nos séculos XVIII e XIX, que se observa pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Restrição à realização do comércio ambulante por africanos escravizados e seus descendentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Convivência entre homens e mulheres livres, de diversas origens, no pequeno comércio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Presença de mulheres negras no comércio de rua de diversos produtos e alimentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Dissolução dos hábitos culturais trazidos do continente de origem dos escravizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Entrada de imigrantes portugueses nas atividades ligadas ao pequeno comércio urbano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

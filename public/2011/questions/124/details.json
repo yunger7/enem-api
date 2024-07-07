@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2011",
+    "index": 124,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2011/questions/124/d9afe727-bf11-4034-b3e4-3121d99dc482.png)\n\n**Veja**. 05 set. 1999 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/124/d9afe727-bf11-4034-b3e4-3121d99dc482.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O produtor de anúncios publicitários utiliza-se de estratégias persuasivas para influenciar o comportamento de seu leitor. Entre os recursos argumentativos mobilizados pelo autor para obter a adesão do público à campanha, destaca-se nesse texto",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A oposição entre individual e coletivo, trazendo um ideário populista para o anúncio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A utilização de tratamento informal com o leitor, o que suaviza a seriedade do problema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O emprego de linguagem figurada, o que desvia a atenção da população do apelo financeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O uso dos numerais “milhares” e “milhões”, responsável pela supervalorização das condições dos necessitados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O jogo de palavras entre “acordar” e “dormir”, o que relativiza o problema do leitor em relação ao dos necessitados.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

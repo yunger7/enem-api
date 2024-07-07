@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2009",
+    "index": 90,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As áreas do planalto do cerrado – como a chapada dos Guimarães, a serra de Tapirapuã e a serra dos Parecis, no Mato Grosso, com altitudes que variam de 400 m a 800 m – são importantes para a planície pantaneira mato-grossense (com altitude média inferior a 200 m), no que se refere à manutenção do nível de água, sobretudo durante a estiagem. Nas cheias, a inundação ocorre em função da alta pluviosidade nas cabeceiras dos rios, do afloramento de lençóis freáticos e da baixa declividade do relevo, entre outros fatores. Durante a estiagem, a grande biodiversidade é assegurada pelas águas da calha dos principais rios, cujo volume tem diminuído, principalmente nas cabeceiras.\n\nCabeceiras ameaçadas. **Ciência Hoje**. Rio de Janeiro:  \nSBPC. Vol. 42, jun. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A medida mais eficaz a ser tomada, visando à conservação da planície pantaneira e à preservação de sua grande biodiversidade, é a conscientização da sociedade e a organização de movimentos sociais que exijam",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A criação de parques ecológicos na área do pantanal mato-grossense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A proibição da pesca e da caça, que tanto ameaçam a biodiversidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O aumento das pastagens na área da planície, para que a cobertura vegetal, composta de gramíneas, evite a erosão do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O controle do desmatamento e da erosão, principalmente nas nascentes dos rios responsáveis pelo nível das águas durante o período de cheias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A construção de barragens, para que o nível das águas dos rios seja mantido, sobretudo na estiagem, sem prejudicar os ecossistemas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

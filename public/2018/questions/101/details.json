@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2018",
+    "index": 101,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Existência de numerosas glândulas sudoríparas na epiderme.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eliminação de excretas nitrogenadas de forma concentrada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Desenvolvimento do embrião no interior de ovo com casca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Capacidade de controlar a temperatura corporal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Respiração realizada por pulmões foliáceos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

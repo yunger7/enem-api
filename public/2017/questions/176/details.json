@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2017",
+    "index": 176,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A energia solar vai abastecer parte da demanda de energia do _campus_ de uma universidade brasileira. A instalação de painéis solares na área dos estacionamentos e na cobertura do hospital pediátrico será aproveitada nas instalações universitárias e também ligada na rede da companhia elétrica distribuidora de energia.  \nO projeto inclui 100 m2 de painéis solares que ficarão instalados nos estacionamentos, produzindo energia elétrica e proporcionando sombra para os carros. Sobre o hospital pediátrico serão colocados aproximadamente 300 m2 de painéis, sendo 100 m2 para gerar energia elétrica utilizada no _campus_, e 200 m2 para geração de energia térmica, produzindo aquecimento de água utilizada nas caldeiras do hospital.  \nSuponha que cada metro quadrado de painel solar para energia elétrica gere uma economia de 1 kWh por dia e cada metro quadrado produzindo energia térmica permita economizar 0,7 kWh por dia para a universidade. Em uma segunda fase do projeto, será aumentada em 75% a área coberta pelos painéis solares que geram energia elétrica. Nessa fase também deverá ser ampliada a área de cobertura com painéis para geração de energia térmica.\n\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 30 out. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para se obter o dobro da quantidade de energia economizada diariamente, em relação à primeira fase, a área total dos painéis que geram energia térmica, em metro quadrado, deverá ter o valor mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "231.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "431.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "472.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "523.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "672.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

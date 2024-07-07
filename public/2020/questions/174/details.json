@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2020",
+    "index": 174,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afluentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdividese o espaço total em trechos, quantificando a densidade, da seguinte forma:\n\n• 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;\n\n• 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;\n\n• 6 pessoas por metro quadrado, se elas estiverem paradas.\n\nÉ feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1.000 pessoas para cada carro de som fotografado.\n\nCom essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afluente da principal: _QR_.\n\n![](https://enem.dev/2020/questions/174/ad3422ff-1395-4c86-aca8-7645f4f66caa.png)\n\n**Obs.:** a figura não está em escala (considere as medidas dadas).",
+    "files": [
+        "https://enem.dev/2020/questions/174/ad3422ff-1395-4c86-aca8-7645f4f66caa.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "110.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "104.000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "93.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "92.000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "87.000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

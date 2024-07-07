@@ -1,0 +1,45 @@
+{
+    "title": "Questão 2 - ENEM 2009",
+    "index": 2,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Analise a figura.\n\n![](https://enem.dev/2009/questions/2/7af3247b-4580-4b52-8d5a-b64887db9b0e.png)",
+    "files": [
+        "https://enem.dev/2009/questions/2/7af3247b-4580-4b52-8d5a-b64887db9b0e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Supondo que seja necessário dar um título para essa figura, a alternativa que melhor traduziria o processo representado seria:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Concentração média de álcool no sangue ao longo do dia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Variação da frequência da ingestão de álcool ao longo das horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Concentração mínima de álcool no sangue a partir de diferentes dosagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Representação gráfica da distribuição de frequência de álcool em determinada hora do dia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

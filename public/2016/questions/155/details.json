@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2016",
+    "index": 155,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/155/bb458c60-9970-4521-a651-92e97767141a.png)",
+    "files": [
+        "https://enem.dev/2016/questions/155/bb458c60-9970-4521-a651-92e97767141a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o esboço obtido pelos alunos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/155/e5c3117b-e59c-4133-8c1c-e12224e04762.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/155/a49c7a7a-8bb9-4ad2-a162-bcbbaf8c5935.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/155/182db264-e8a6-4e01-a680-2e76be4309e6.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/155/c2eb34bf-a4a9-4bbc-87c5-9a6a9f8339e6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/155/0a817a97-acb8-40b4-9b80-4b49b55bc9e6.png",
+            "isCorrect": false
+        }
+    ]
+}

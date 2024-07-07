@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2023",
+    "index": 165,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura representa uma escada com três degraus, construída em concreto maciço, com suas medidas especificadas.\n\n![](https://enem.dev/2023/questions/165/bf369224-eb93-4bba-98c4-ff7d1e17df36.png)\n\nNessa escada, pisos e espelhos têm formato retangular, e as paredes laterais têm formato de um polígono cujos lados adjacentes são perpendiculares. Pisos, espelhos e paredes laterais serão revestidos em cerâmica.",
+    "files": [
+        "https://enem.dev/2023/questions/165/bf369224-eb93-4bba-98c4-ff7d1e17df36.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A área a ser revestida em cerâmica, em metro quadrado, mede",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,35.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,65.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,95.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

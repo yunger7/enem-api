@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2012",
+    "index": 64,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns povos indígenas ainda preservam suas tradições realizando a pesca com lanças, demonstrando uma notável habilidade. Para fisgar um peixe em um lago com águas tranquilas o índio deve mirar abaixo da posição em que enxerga o peixe",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ele deve proceder dessa forma porque os raios de luz",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Refletidos pelo peixe não descrevem uma trajetória retilínea no interior da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Emitidos pelos olhos do índio desviam sua trajetória quando passam do ar para a água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Espalhados pelo peixe são refletidos pela superfície da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Emitidos pelos olhos do índio são espalhados pela superfície da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Refletidos pelo peixe desviam sua trajetória quando passam da água para o ar.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

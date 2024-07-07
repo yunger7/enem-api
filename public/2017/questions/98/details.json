@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2017",
+    "index": 98,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.\n\n![](https://enem.dev/2017/questions/98/a50cb779-35c0-41a2-a622-5e38cb707ac9.png)",
+    "files": [
+        "https://enem.dev/2017/questions/98/a50cb779-35c0-41a2-a622-5e38cb707ac9.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tipos de células.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aspectos ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Relações filogenéticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Propriedades fisiológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Características morfológicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

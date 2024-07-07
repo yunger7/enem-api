@@ -1,0 +1,43 @@
+{
+    "title": "Questão 28 - ENEM 2014",
+    "index": 28,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A Comissão Nacional da Verdade (CNV) reuniu representantes de comissões estaduais e de várias instituições para apresentar um balanço dos trabalhos feitos e assinar termos de cooperação com quatro organizações. O coordenador da CNV estima que, até o momento, a comissão examinou, “por baixo”, cerca de 30 milhões de páginas de documentos e fez centenas de entrevistas.\n\nDisponível em: www.jb.com.br.Acessoem: 2 mar. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A notícia descreve uma iniciativa do Estado que resultou da ação de diversos movimentos sociais no Brasil diante de eventos ocorridos entre 1964 e 1988. O objetivo dessa iniciativa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Anular a anistia concedida aos chefes militares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Rever as condenações judiciais aos presos políticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Perdoar os crimes atribuídos aos militantes esquerdistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comprovar o apoio da sociedade aos golpistas anticomunistas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Esclarecer as circunstâncias de violações aos direitos humanos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

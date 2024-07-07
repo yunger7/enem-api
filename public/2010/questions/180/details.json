@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2010",
+    "index": 180,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para conseguir chegar a um número recorde de produção de ovos de Páscoa, as empresas brasileiras começam a se planejar para esse período com um ano de ovos de Páscoa produzidos no Brasil no período de 2005 a 2009.\n\n![](https://enem.dev/2010/questions/180/b3a08efa-6d65-4f17-955f-8c8962f34861.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/180/b3a08efa-6d65-4f17-955f-8c8962f34861.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o gráfico, o biênio que apresentou maior produção acumulada foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2004-2005",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2005-2006",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2006-2007",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2007-2008",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2008-2009",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

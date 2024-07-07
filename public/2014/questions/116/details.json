@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2014",
+    "index": 116,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Linotipos**\n\nO Museu da Imprensa exibe duas linotipos. Trata-se de um tipo de máquina de composição de tipos de chumbo, inventada em 1884 em Baltimore, nos Estados Unidos, pelo alemão Ottmar Mergenthaler. O invento foi de grande importância por ter significado um novo e fundamental avanço na história das artes gráficas. A linotipia provocou, na verdade, uma revolução porque venceu a lentidão da composição dos textos executada na tipografia tradicional, em que o texto era composto à mão, juntando tipos móveis um por um. Constituía-se, assim, no principal meio de composição tipográfica até 1950. A linotipo, a partir do século XIX, passou a produzir impressos a baixo custo, o que levou informação às massas, democratizou a informação. Promoveu uma revolução na educação. Antes da linotipo, os jornais e revistas eram escassos, com poucas páginas e caros. Os livros didáticos eram também caros, pouco acessíveis.\n\nDisponível em: http://portal.in.gov.br. Acesso em: 23 fev. 2013 (adaptado).\n\nO texto apresenta um histórico da linotipo, uma máquina tipográfica inventada no século XIX e responsável pela dinamização da imprensa.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em termos sociais, a contribuição da linotipo teve impacto direto na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Produção vagarosa de materiais didáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Composição aprimorada de tipos de chumbo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Montagem acelerada de textos para impressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Produção acessível de materiais informacionais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Impressão dinamizada de imagens em revistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2015",
+    "index": 1,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2015/questions/1/5fd3c732-a4f4-4efc-b03e-a7971724d87f.jpg)",
+    "files": [
+        "https://enem.dev/2015/questions/1/5fd3c732-a4f4-4efc-b03e-a7971724d87f.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desertificação das áreas afetadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Poluição dos rios temporários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Queimadas dos remanescentes vegetais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desmatamento das matas ciliares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Contaminação das águas subterrâneas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

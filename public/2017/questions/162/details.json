@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2017",
+    "index": 162,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade V de contração de um músculo ao ser submetido a um peso p é dada pela equação (p + a) (v +b) = K, com a, b e K constantes.\n\nUm fisioterapeuta, com o intuito de maximizar o efeito benéfico dos exercícios que recomendaria a um de seus pacientes, quis estudar essa equação e a classificou desta forma:\n\n##### **TIPO DE CURVA**\n\n**Semirreta oblíqua**\n\n**Semirreta horizontal**\n\n**Ramo de parábola**\n\n**Arco de circunferência**\n\n**Ramo de hipérbola**\n\nO fisioterapeuta analisou a dependência entre v e p na equação de Hill e a classificou de acordo com sua representação geométrica no plano cartesiano, utilizando o par de coordenadas (p. V). Admita que K> 0.\n\nDisponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14jul2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O gráfico da equação que o fisioterapeuta utilizou para maximizar o efeito dos exercícios é do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Semirreta oblíqua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Semirreta horizontal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ramo de parábola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Arco de circunferência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ramo de hipérbole.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

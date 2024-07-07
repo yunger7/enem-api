@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2014",
+    "index": 150,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png)",
+    "files": [
+        "https://enem.dev/2014/questions/150/d2daa25c-0942-4c50-b2a5-6ec82f5bcd4e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "33.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "42.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "45.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "49.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

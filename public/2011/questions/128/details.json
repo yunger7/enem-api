@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2011",
+    "index": 128,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Motivadas ou não historicamente, normas prestigiadas ou estigmatizadas pela comunidade sobrepõem-se ao longo do território, seja numa relação de oposição, seja de complementaridade, sem, contudo, anular a interseção de usos que configuram uma norma nacional distinta da do português europeu. Ao focalizar essa questão, que opõe não só as normas do português de Portugal às normas do português brasileiro, mas também as chamadas normas cultas locais às populares ou vernáculas, deve-se insistir na ideia de que essas normas se consolidaram em diferentes momentos da nossa história e que só a partir do século XVIII se pode começar a pensar na bifurcação das variantes continentais, ora em consequência de mudanças ocorridas no Brasil, ora em Portugal, ora, ainda, em ambos os territórios.\n\nCALLOU, D. Gramática, variação e normas. In: VIEIRA, S. R.; BRANDÃO, S. (orgs). **Ensino de gramática**: descrição e uso. São Paulo: Contexto, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O português do Brasil não é uma língua uniforme. A variação linguística é um fenômeno natural, ao qual todas as línguas estão sujeitas. Ao considerar as variedades linguísticas, o texto mostra que as normas podem ser aprovadas ou condenadas socialmente, chamando a atenção do leitor para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Desconsideração da existência das normas populares pelos falantes da norma culta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Difusão do português de Portugal em todas as regiões do Brasil só a partir do século XVIII.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Existência de usos da língua que caracterizam uma norma nacional do Brasil, distinta da de Portugal.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Inexistência de normas cultas locais e populares ou vernáculas em um determinado país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Necessidade de se rejeitar a ideia de que os usos frequentes de uma língua devem ser aceitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

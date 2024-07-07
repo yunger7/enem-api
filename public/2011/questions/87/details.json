@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2011",
+    "index": 87,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "**Os Bichinhos e O Homem**\n\nArca de Noé  \nToquinho & Vinicius de Moraes  \nNossa irmã, a mosca  \nÉ feia e tosca  \nEnquanto que o mosquito  \nÉ mais bonito  \nNosso irmão besouro  \nQue é feito de couro  \nMal sabe voar  \nNossa irmã, a barata  \nBichinha mais chata  \nÉ prima da borboleta  \nQue é uma careta  \nNosso irmão, o grilo  \nQue vive dando estrilo  \nSó pra chatear\n\n**MORAES, V. A arca de Noé: poemas infantis. São Paulo: Companhia das Letrinhas, 1991.**",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O poema acima sugere a existência de relações de afinidade entre os animais citados e nós, seres humanos. Respeitando a liberdade poética dos autores, a unidade taxonômica que expressa a afinidade existente entre nós e estes animais é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O filo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O reino.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A classe.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A família.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A espécie.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

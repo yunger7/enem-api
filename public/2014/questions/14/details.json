@@ -1,0 +1,43 @@
+{
+    "title": "Questão 14 - ENEM 2014",
+    "index": 14,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.\n\n_HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989._",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo Habermas, a validez de uma norma deve ser estabelecida pelo(a):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Liberdade humana, que consagra a vontade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Razão comunicativa, que requer um consenso.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Conhecimento filosófico, que expressa a verdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Técnica científica, que aumento o poder do homem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Poder político, que se concentra no sistema partidário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

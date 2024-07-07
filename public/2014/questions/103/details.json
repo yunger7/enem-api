@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2014",
+    "index": 103,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Censura Moralista**\n\nHá tempos que a leitura está em pauta. E, diz-se, em crise. Comenta-se esta crise, por exemplo, apontando a precariedade das práticas de leitura, lamentando a falta de familiaridade dos jovens com livros, reclamando da falta de bibliotecas em tantos municípios, do preço dos livros em livrarias, num nunca acabar de problemas e de carências. Mas, de um tempo para cá, pesquisas acadêmicas vêm dizendo que talvez não seja exatamente assim, que brasileiros leem, sim, só que leem livros que as pesquisas tradicionais não levam em conta. E, também de um tempo para cá, políticas educacionais têm tomado a peito investir em livros e em leitura.\n\nLAJOLO, M. Disponível em: www.estadao.com.br. Acesso em: 2 dez. 2013 (fragmento).\n\nOs falantes, nos textos que produzem, sejam orais ou escritos, posicionam-se frente a assuntos que geram consenso ou despertam polêmica.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No texto, a autora",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ressalta a importância de os professores incentivarem os jovens às práticas de leitura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Critica pesquisas tradicionais que atribuem a falta de leitura à precariedade de bibliotecas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Rebate a ideia de que as políticas educacionais são eficazes no combate à crise de leitura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Questiona a existência de uma crise de leitura com base nos dados de pesquisas acadêmicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Atribui a crise da leitura à falta de incentivos e ao desinteresse dos jovens por livros de qualidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

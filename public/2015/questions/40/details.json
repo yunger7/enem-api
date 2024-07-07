@@ -1,0 +1,43 @@
+{
+    "title": "Questão 40 - ENEM 2015",
+    "index": 40,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A crescente intelectualização e racionalização _não_ indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, _poderíamos_ ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.\n\nWEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). **Max Weber**: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Progresso civilizatório como decorrência da expansão do industrialismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Extinção do pensamento mítico como um desdobramento do capitalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Emancipação como consequência do processo de racionalização da vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Afastamento de crenças tradicionais como uma característica da modernidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fim do monoteísmo como condição para a consolidação da ciência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2019",
+    "index": 110,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com base nos experimentos de plantas de Mendel, foram estabelecidos três princípios básicos, que são conhecidos como leis da uniformidade, segregação e distribuição independente. A lei da distribuição independente refere-se ao fato de que os membros de pares diferentes de genes segregam-se independentemente, uns dos outros, para a prole.\n\nTURNPENNY, P. D. **Genética médica**. Rio de Janeiro: ELsevier, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Hoje, sabe-se que isso nem sempre é verdade. Por quê?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A distribuição depende do caráter de dominância ou recessividade do gene.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os organismos nem sempre herdam cada um dos genes de cada um dos genitores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As alterações cromossômicas podem levar a falhas na segregação durante a meiose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O cromossomo que contém dois determinados genes pode não sofrer a disjunção na primeira fase da meiose.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

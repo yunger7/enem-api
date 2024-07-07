@@ -1,0 +1,43 @@
+{
+    "title": "Questão 50 - ENEM 2009",
+    "index": 50,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A primeira metade do século XX foi marcada por conflitos e processos que a inscreveram como um dos mais violentos períodos da história humana.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre os principais fatores que estiveram na origem dos conflitos ocorridos durante a primeira metade do século XX estão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A crise do colonialismo, a ascensão do nacionalismo e do totalitarismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O enfraquecimento do império britânico, a Grande Depressão e a corrida nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O declínio britânico, o fracasso da Liga das Nações e a Revolução Cubana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A corrida armamentista, o terceiro-mundismo e o expansionismo soviético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A Revolução Bolchevique, o imperialismo e a unificação da Alemanha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

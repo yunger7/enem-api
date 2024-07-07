@@ -1,0 +1,45 @@
+{
+    "title": "Questão 143 - ENEM 2021",
+    "index": 143,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de Fevereiro de 2015.\n\n![](https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png)",
+    "files": [
+        "https://enem.dev/2021/questions/143/6658b31a-c862-4622-87b2-28e09d19a6d0.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa data, o reservatório com o maior volume de água era o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

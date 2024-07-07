@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2014",
+    "index": 96,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO l**\n\n**Seis estados zeram fila de espera para transplante da córnea**\n\nSeis estados brasileiros aproveitaram o aumento no número de doadores e de transplantes feitos no primeiro semestre de 2012 no país e entraram para uma lista privilegiada: a de não ter mais pacientes esperando por uma córnea.\n\nAté julho desse ano, Acre, Distrito Federal, Espírito Santo, Paraná, Rio Grande do Norte e São Paulo eliminaram a lista de espera no transplante de córneas, de acordo com balanço divulgado pelo Ministério da Saúde, no Dia Nacional de Doação de Órgãos e Tecidos. Em 2011, só São Paulo e Rio Grande do Norte conseguiram zerar essa fila.\n\n**TEXTO ll**\n\n![](https://enem.dev/2014/questions/96/c8ebba38-0e9a-4cc7-88ad-f54257534f04.png)\n\nDisponível em: http://noticias.uol.com.br. Acesso em: 11 ago. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2014/questions/96/c8ebba38-0e9a-4cc7-88ad-f54257534f04.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A notícia e o cartaz abordam a questão da doação de órgãos. Ao relacionar os dois textos, observa-se que o cartaz é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Contraditório, pois a notícia informa que o país superou a necessidade de doação de órgãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Complementar, pois a notícia diz que a doação de órgãos cresceu e o cartaz solicita doações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Redundante, pois a notícia e o cartaz têm a intenção de influenciar as pessoas a doarem seus órgãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Indispensável, pois a notícia fica incompleta sem o cartaz, que apela para a sensibilidade das pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Discordante, pois ambos os textos apresentam posições distintas sobre a necessidade de doação de órgãos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

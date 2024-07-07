@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2014",
+    "index": 94,
+    "year": 2014,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/94-ingles/9f394223-6ce2-4ad2-a219-6351ebc03092.png)\n\nDisponível em: http://wefeedback.org. Acesso em: 30 jul. 2012.",
+    "files": [
+        "https://enem.dev/2014/questions/94-ingles/9f394223-6ce2-4ad2-a219-6351ebc03092.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A internet tem servido a diferentes interesses, ampliando, muitas vezes, o contato entre pessoas e instituições. Um exemplo disso é o site WeFeedback, no qual a internauta Kate Watts",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Comprou comida em promoção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Inscreveu-se em concurso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fez doação para caridade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Participou de pesquisa de opinião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Voluntariou-se para trabalho social.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

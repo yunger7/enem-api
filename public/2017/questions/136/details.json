@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2017",
+    "index": 136,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um empréstimo foi feito à taxa mensal de i%, usando juros compostos, em oito parcelas fixas e iguais a P.\n\nO devedor tem a possibilidade de quitar a dívida antecipadamente a qualquer momento, pagando para isso o valor atual das parcelas ainda a pagar. Após pagar a 5ª parcela, resolve quitar a dívida no ato de pagar a 6ª parcela.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão que corresponde ao valor total pago pela quitação do empréstimo é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/136/095d9fee-b0a3-4486-a6f7-5905be8a8aee.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/136/9b318931-f44c-47f6-bde1-7629aaf7b6e2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/136/2a676854-c439-49bc-8187-107963dc04ef.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/136/0338bf3c-70fc-4cb5-b6d5-28ee0508731e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2017/questions/136/07869d30-eb4d-4450-a76a-ea0654e459f8.png",
+            "isCorrect": false
+        }
+    ]
+}

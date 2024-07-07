@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2010",
+    "index": 91,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**Los animales**\n\nEn la Unión Europea desde el 1o de octubre de 2004 el uso de un pasaporte es obligatorio para los animales que viajan con su dueño en cualquier compañía.  \nAVISO ESPECIAL: en España los animales deben haber sido vacunados contra la rabia antes de su dueño solicitar la documentación. Consultar a un veterinario.\n\nDisponível em: http://www.agencedelattre.com. Acesso em: 2 maio 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as informações sobre aeroportos e estações ferroviárias na Europa, uma pessoa que more na Espanha e queira viajar para a Alemanha com o seu cachorro deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O consultaras autoridades para verificar a possibilidade de viagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ter um certificado especial tirado em outubro de 2004.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tirar o passaporte do animal e logo vaciná-lo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Vacinar o animal contra todas as doenças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vacinar o animal e depois solicitar o passaporte dele.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

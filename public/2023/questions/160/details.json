@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2023",
+    "index": 160,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:\n\n• algarismos de 0 a 9;\n\n• 26 letras minúsculas do alfabeto;\n\n• 26 letras maiúsculas do alfabeto;\n\n• 6 caracteres especiais !, @, #, $, \\*, &.\n\nTrês tipos de estruturas para senha foram apresentadas ao usuário:\n\n• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;\n\n• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;\n\n• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.\n\nConsidere ![](https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png) as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
+    "files": [
+        "https://enem.dev/2023/questions/160/a2d565c2-f39f-4b43-b261-087e349850fe.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tipo I, pois p1 < p2 < p3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Tipo I, pois tem menor quantidade de caracteres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tipo II, pois tem maior quantidade de letras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tipo III, pois p3 < p2 < p1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tipo III, pois tem maior quantidade de caracteres.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

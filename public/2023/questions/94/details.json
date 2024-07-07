@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2023",
+    "index": 94,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seauintes parâmetros:\n\n![](https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png)",
+    "files": [
+        "https://enem.dev/2023/questions/94/429989c0-d615-4e19-a5e6-838e81a6039c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

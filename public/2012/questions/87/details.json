@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2012",
+    "index": 87,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A doença de Chagas afeta mais de oito milhões de brasileiros, sendo comum em áreas rurais. É uma doença causada pelo protozoário _Trypanosoma cruzi_ e transmitida por insetos conhecidos como barbeiros ou chupanças.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma ação do homem sobre o meio ambiente que tem contribuído para o aumento dessa doença é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O consumo de carnes de animais silvestres que são hospedeiros do vetor da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A utilização de adubos químicos na agricultura que aceleram o ciclo reprodutivo do barbeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A ausência de saneamento básico que favorece a proliferação do protozoário em regiões habitadas por humanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A poluição dos rios e lagos com pesticidas que exterminam o predador das larvas do inseto transmissor da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O desmatamento que provoca a migração ou o desaparecimento dos animais silvestres dos quais o barbeiro se alimenta.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

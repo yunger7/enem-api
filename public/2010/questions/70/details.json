@@ -1,0 +1,45 @@
+{
+    "title": "Questão 70 - ENEM 2010",
+    "index": 70,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/70/30a85d80-8071-49b5-808d-4ed735bda2da.png)",
+    "files": [
+        "https://enem.dev/2010/questions/70/30a85d80-8071-49b5-808d-4ed735bda2da.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.830 W.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.800 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.200 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.030 W.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.500 W.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

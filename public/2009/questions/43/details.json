@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2009",
+    "index": 43,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/43/fc15f9d3-d27d-4451-86aa-2d9576a0e88f.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/43/fc15f9d3-d27d-4451-86aa-2d9576a0e88f.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "À medida que aumenta a consciência sobre os impactos ambientais relacionados ao uso da energia, cresce a importância de se criar políticas de incentivo ao uso de combustíveis mais eficientes. Nesse sentido, considerando-se que o metano, o butano e o octano sejam representativos do gás natural, do gás liquefeito de petróleo (GLP) e da gasolina, respectivamente, então, a partir dos dados fornecidos, é possível concluir que, do ponto de vista da quantidade de calor obtido por mol de CO2 gerado, a ordem crescente desses três combustíveis é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Gasolina, GLP e gás natural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Gás natural, gasolina e GLP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Gasolina, gás natural e GLP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Gás natural, GLP e gasolina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "GLP, gás natural e gasolina.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

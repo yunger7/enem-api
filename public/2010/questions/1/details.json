@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2010",
+    "index": 1,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/1/ac150e2b-3bf9-48b5-8d9e-aa52c2461af6.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/1/ac150e2b-3bf9-48b5-8d9e-aa52c2461af6.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico representa a relação entre o tamanho e a totalidade dos imóveis rurais no Brasil. Que característica da estrutura fundiária brasileira está evidenciada no gráfico apresentado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A concentração de terras nas mãos de poucos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A existência de poucas terras agricultáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O domínio territorial dos minifúndios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A primazia da agricultura familiar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A debilidade dos plantations modernos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

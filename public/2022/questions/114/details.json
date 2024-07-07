@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2022",
+    "index": 114,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As células da epiderme da folha da _Tradescantia pallida purpurea_, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da trapoeraba-roxa foi imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Durante a observação desse corte, foi possível identificar o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Acúmulo do solvente com fragmentação da organela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Rompimento da membrana celular com liberação do citosol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento do vacúolo com diluição do pigmento no seu interior.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Quebra da parede celular com extravasamento do pigmento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Murchamento da célula com expulsão do pigmento do vacúolo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

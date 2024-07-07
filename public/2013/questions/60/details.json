@@ -1,0 +1,43 @@
+{
+    "title": "Questão 60 - ENEM 2013",
+    "index": 60,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As fêmeas de algumas espécies de aranhas, escorpiões e de outros invertebrados predam os machos após a cópula e inseminação. Como exemplo, fêmeas canibais do inseto conhecido como louva-a-deus, _Tenodera aridofolia_, possuem até 63% da sua dieta composta por machos parceiros. Para as fêmeas, o canibalismo sexual pode assegurar a obtenção de nutrientes importantes na reprodução. Com esse incremento na dieta, elas geralmente produzem maior quantidade de ovos.\n\nBORGES, J. C. Jogo mortal. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 mar. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Apesar de ser um comportamento aparentemente desvantajoso para os machos, o canibalismo sexual evoluiu nesses táxons animais porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promove a maior ocupação de diferentes nichos ecológicos pela espécie.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Favorece o sucesso reprodutivo individual de ambos os parentais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Impossibilita a transmissão de genes do macho para a prole.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Impede a sobrevivência e reprodução futura do macho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reduz a variabilidade genética da população.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

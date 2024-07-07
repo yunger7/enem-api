@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2010",
+    "index": 110,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/110/7859a216-d85e-4f5d-b326-bc72cbef3815.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/110/7859a216-d85e-4f5d-b326-bc72cbef3815.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O desenvolvimento das capacidades físicas (qualidades motoras passíveis de treinamento) ajuda na tomada de decisões em relação à melhor execução do movimento. A capacidade física predominante no movimento representado na imagem é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A velocidade, que permite ao músculo executar uma sucessão rápida de gestos em movimentação de intensidade máxima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A resistência, que admite a realização de movimentos durante considerável período de tempo, sem perda da qualidade da execução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A flexibilidade, que permite a amplitude máxima de um movimento, em uma ou mais articulações, sem causar lesões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A agilidade, que possibilita a execução de movimentos rápidos e ligeiros com mudanças de direção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O equilíbrio, que permite a realização dos mais variados movimentos, com o objetivo de sustentar o corpo sobre uma base.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

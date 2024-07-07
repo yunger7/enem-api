@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2018",
+    "index": 82,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**  \nHá mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa realidade em função da seca.\n\n**TEXTO II**  \n                                 **Dinâmicas atmosféricas no Brasil**\n\nElementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A ” representa o centro da anomalia de alta pressão atmosférica.\n\n![](https://enem.dev/2018/questions/82/8f0a6084-2a84-4eaf-8026-cb0ac48d1a65.png)",
+    "files": [
+        "https://enem.dev/2018/questions/82/8f0a6084-2a84-4eaf-8026-cb0ac48d1a65.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Constituição de frentes quentes barrando as chuvas convectivas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Formação de anticiclone impedindo a entrada de umidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Presença de nebulosidade na região de cordilheira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Avanço de massas polares para o continente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Baixa pressão atmosférica no litoral.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

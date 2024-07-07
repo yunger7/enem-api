@@ -1,0 +1,45 @@
+{
+    "title": "Questão 126 - ENEM 2023",
+    "index": 126,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:\n\n![](https://enem.dev/2023/questions/126/b0c226d9-5944-4f6d-8b81-0fa0f9f7d511.png)",
+    "files": [
+        "https://enem.dev/2023/questions/126/b0c226d9-5944-4f6d-8b81-0fa0f9f7d511.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Basicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Lipofilicidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caráter iônico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Cadeia carbônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Estado de oxidação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 152 - ENEM 2020",
+    "index": 152,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura\n\n![](https://enem.dev/2020/questions/152/b470d661-018e-4c10-8df1-9fa29a8b01ec.png)\n\nOs tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento ![](https://enem.dev/2020/questions/152/5547d80f-89c2-46f3-898c-7cc6a21068d5.png) e largura 2L.\n\nPara finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por x, e a altura da coluna de líquido que chegou a T2, denotada por y.\n\nDisponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.",
+    "files": [
+        "https://enem.dev/2020/questions/152/b470d661-018e-4c10-8df1-9fa29a8b01ec.png",
+        "https://enem.dev/2020/questions/152/5547d80f-89c2-46f3-898c-7cc6a21068d5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A equação que relaciona as medidas das alturas y e x é dada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Y = 1,265x",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Y = 1,250x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Y = 1,150x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Y = 1,125x",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Y = x",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

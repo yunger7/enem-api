@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2014",
+    "index": 167,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Use 3 como valor aproximado para π.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "168.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "304.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "306.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "378.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "514.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

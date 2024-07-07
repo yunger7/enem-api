@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2012",
+    "index": 160,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/160/c6742e65-6a0c-4579-b559-5327fa9d1a4c.png)\n\nNesta figura, os pontos A, B, C e D são pontos médios dos lados do quadrado e os segmentos AP e QC medem 1/4 da medida do lado do quadrado. Para confeccionar um vitral, são usados dois tipos de materiais: um para a parte sombreada da figura, que custa R$ 30,00 o m², e outro para a parte mais clara (regiões ABPDA e BCDQB), que custa R$ 50,00 o m².",
+    "files": [
+        "https://enem.dev/2012/questions/160/c6742e65-6a0c-4579-b559-5327fa9d1a4c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com esses dados, qual é o custo dos materiais usados na fabricação de um vitral?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 22,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 35,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 40,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 42,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 45,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

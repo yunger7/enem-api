@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2014",
+    "index": 51,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante. O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração. A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl3) e outras espécies orgânicas cloradas tóxicas\n\n_SPIRO, T. G.; STIGLIANI, W. M. Química ambiental. São Paulo: Pearson, 2009 (adaptado)._",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Filtração, com o uso de filtros de carvão ativo",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Fluoretação, pela adição de fluoreto de sódio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Coagulação, pela adição de sulfato de alumínio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Correção do pH, pela adição de carbonato de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Floculação, em tanques de concreto com a água em movimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

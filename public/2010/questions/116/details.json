@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2010",
+    "index": 116,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2010/questions/116/7ce286ed-7c09-4d61-8386-f267e1c1a159.png)\n\nJoaquim Maria **Machado de Assis**, cronista, contista, dramaturgo, jornalista, poeta, novelista, romancista, crítico e ensaísta, nasceu na cidade do Rio de Janeiro em 21 de junho de 1839. Filho de um operário mestiço de negro e português, Francisco José de Assis, e de D. Maria Leopoldina Machado de Assis, aquele que viria a tornar-se o maior escritor do país e um mestre da língua, perde a mãe muito cedo e é criado pela madrasta, Maria Inês, também mulata, que se dedica ao menino e o matricula na escola pública, única que frequentou o autodidata Machado de Assis.\n\nDisponível em: http://www.passeiweb.com. Acesso em: 1 maio 2009.",
+    "files": [
+        "https://enem.dev/2010/questions/116/7ce286ed-7c09-4d61-8386-f267e1c1a159.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando os seus conhecimentos sobre os gêneros textuais, o texto citado constitui-se de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fatos ficcionais, relacionados a outros de caráter realista, relativos à vida de um renomado escritor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Representações generalizadas acerca da vida de membros da sociedade por seus trabalhos e vida cotidiana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Explicações da vida de um renomado escritor, com estrutura argumentativa, destacando como tema seus principais feitos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Questões controversas e fatos diversos da vida de personalidade histórica, ressaltando sua intimidade familiar em detrimento de seus feitos públicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apresentação da vida de uma personalidade, organizada sobretudo pela ordem tipológica da narração, com um estilo marcado por linguagem objetiva.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

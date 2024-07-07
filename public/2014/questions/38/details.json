@@ -1,0 +1,45 @@
+{
+    "title": "Questão 38 - ENEM 2014",
+    "index": 38,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2014/questions/38/a69a5ffe-389c-47f5-b421-96ced350c7ac.png)",
+    "files": [
+        "https://enem.dev/2014/questions/38/a69a5ffe-389c-47f5-b421-96ced350c7ac.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A preservação da sustentabilidade do recurso natural exposto pressupõe:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Impedir a perfuração de poços.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Coibir o uso pelo setor residencial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Substituir as leis ambientais vigentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reduzir o contingente populacional na área.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Introduzir a gestão participativa entre os municípios.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

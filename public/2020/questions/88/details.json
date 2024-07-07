@@ -1,0 +1,45 @@
+{
+    "title": "Questão 88 - ENEM 2020",
+    "index": 88,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**TEXTO I**\n\n![](https://enem.dev/2020/questions/88/ada0afae-fb30-4b1b-884b-d49633da9513.jpg)\n\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\n\n**TEXTO II**\n\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\n\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/88/ada0afae-fb30-4b1b-884b-d49633da9513.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando a análise dos textos, a condição atual desse rio tem como origem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Valorização do sítio urbano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Extinção na vegetação nativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Recepção de densa carga de dejetos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Captação desordenada do regime pluvial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expansão do uso de defensivos químicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

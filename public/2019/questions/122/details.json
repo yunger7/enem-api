@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2019",
+    "index": 122,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O odor que permanece nas mãos após o contato com alho pode ser eliminado pela utilização de um “sabonete de aço inoxidável”, constituído de aço inox (74%), cromo e níquel. A principal vantagem desse “sabonete” é que ele não se desgasta com o uso. Considere que a principal substância responsável pelo odor de alho é a alicina (estrutura I) e que, para que o odor seja eliminado, ela seja transformada na estrutura II.\n\n![](https://enem.dev/2019/questions/122/d57fcd33-51c0-4d68-867c-486af8e201d1.png)",
+    "files": [
+        "https://enem.dev/2019/questions/122/d57fcd33-51c0-4d68-867c-486af8e201d1.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na conversão de I em II, o “sabonete” atuará como um:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redutor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Eletrólito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tensoativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Catalisador.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

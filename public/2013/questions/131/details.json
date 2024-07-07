@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2013",
+    "index": 131,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2013/questions/131/3af16380-2fa2-4832-99fc-9013fcc12b26.png)",
+    "files": [
+        "https://enem.dev/2013/questions/131/3af16380-2fa2-4832-99fc-9013fcc12b26.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A tirinha denota a postura assumida por seu produtor frente ao uso social da tecnologia para fins de interação e de informação. Tal posicionamento é expresso, de forma argumentativa, por meio de uma atitude",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Crítica, expressa pelas ironias.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Resignada, expressa pelas enumerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Indignada, expressa pelos discursos diretos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Agressiva, expressa pela contra-argumentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Alienada, expressa pela negação da realidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

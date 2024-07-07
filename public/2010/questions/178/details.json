@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2010",
+    "index": 178,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um porta-lápis de madeira foi construído no formato cúbico, seguindo o modelo ilustrado a seguir. O cubo de dentro é vazio. A aresta do cubo maior mede 12 cm e a do cubo menor, que é interno, mede 8 cm.\n\n![](https://enem.dev/2010/questions/178/f167ae80-7a92-4a85-8c25-bd0738dba84d.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/178/f167ae80-7a92-4a85-8c25-bd0738dba84d.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O volume de madeira utilizado na confecção desse objeto foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 cm³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "64 cm³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "96 cm³",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1216 cm³",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1728 cm³",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

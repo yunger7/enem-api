@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2009",
+    "index": 179,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A cisterna é um recipiente utilizado para armazenar água da chuva. Os principais critérios a serem observados para captação e armazenagem de água da chuva são: a demanda diária de água na propriedade; o índice médio de precipitação (chuva), por região, em cada período do ano; o tempo necessário para armazenagem; e a área de telhado necessária ou disponível para captação. Para fazer o cálculo do volume de uma cisterna, deve-se acrescentar um adicional relativo ao coeficiente de evaporação. Na dificuldade em se estabelecer um coeficiente confiável, a Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) sugere que sejam adicionados 10% ao volume calculado de água.\n\nDesse modo, o volume, em m³, de uma cisterna é calculado por Vc = Vd × Ndia, em que Vd = volume de demanda da água diária (m³), Ndia = número de dias de armazenagem, e este resultado deve ser acrescido de 10%.\n\nPara melhorar a qualidade da água, recomenda-se que a captação seja feita somente nos telhados das edificações.  \nConsiderando que a precipitação de chuva de 1 mm sobre uma área de 1 m²  \nproduz 1 litro de água, pode-se calcular a área de um telhado a fim de atender a  \nnecessidade de armazenagem da seguinte maneira: área do telhado (em m²) = volume da cisterna (em litros)/precipitação.\n\nDisponível em: www.cnpsa.embrapa.br.  \nAcesso em: 8 jun. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para atender a uma demanda diária de 2.000 litros de água, com período de armazenagem de 15 dias e precipitação média de 110 mm, o telhado, retangular, deverá ter as dimensões mínimas de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6 metros por 5 metros, pois assim teria uma área de 30 m² .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15 metros por 20 metros, pois assim teria uma área de 300 m² .",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "50 metros por 60 metros, pois assim teria uma área de 3.000 m² .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "91 metros por 30 metros, pois assim teria uma área de 2.730 m² .",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "110 metros por 30 metros, pois assim teria uma área de 3.300 m² .",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

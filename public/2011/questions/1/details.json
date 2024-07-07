@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2011",
+    "index": 1,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No mundo árabe, países governados há décadas por regimes políticos centralizadores contabilizam metade da população com menos de 30 anos; desses, 56% têm acesso à internet. Sentindo-se sem perspectivas de futuro e diante da estagnação da economia, esses jovens incubam vírus sedentos por modernidade e democracia. Em meados de dezembro, um tunisiano  \nde 26 anos, vendedor de frutas, põe fogo no próprio corpo em protesto por trabalho, justiça e liberdade. Uma série de manifestações eclode na Tunísia e, como uma epidemia, o vírus libertário começa a se espalhar pelos países vizinhos, derrubando em seguida o presidente do Egito, Hosni Mubarak. Sites e redes sociais – como o Facebook e o Twitter – ajudaram a mobilizar manifestantes do norte da África a ilhas do Golfo Pérsico.\n\nSEQUEIRA, C. D.; VILLAMÉA, L. A epidemia da Liberdade. Istoé Internacional. 2 mar. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando os movimentos políticos mencionados no texto, o acesso à internet permitiu aos jovens árabes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reforçar a atuação dos regimes políticos existentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tomar conhecimento dos fatos sem se envolver.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manter o distanciamento necessário à sua segurança.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Disseminar vírus capazes de destruir programas dos computadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Difundir ideias revolucionárias que mobilizaram a população.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

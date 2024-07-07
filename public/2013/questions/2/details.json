@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2013",
+    "index": 2,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.\n\nMARICATO, E. **Brasil, cidades: alternativas para a crise urbana.** Petrópolis: Vozes, 2001.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Crescimento da população urbana e aumento da especulação imobiliária.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

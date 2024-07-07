@@ -1,0 +1,46 @@
+{
+    "title": "Questão 12 - ENEM 2009",
+    "index": 12,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2009/questions/12/233eafdb-167e-4978-a815-54aad9e6bee2.jpg)\n\nEm solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico correspondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio:\n\n![](https://enem.dev/2009/questions/12/63593c90-04b4-48ea-b9c5-1205f73bef95.jpg)\n\nUma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado para a direita.",
+    "files": [
+        "https://enem.dev/2009/questions/12/233eafdb-167e-4978-a815-54aad9e6bee2.jpg",
+        "https://enem.dev/2009/questions/12/63593c90-04b4-48ea-b9c5-1205f73bef95.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nas informações do texto, é correto concluir que os sabões atuam de maneira:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mais eficiente em pH básico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Mais eficiente em pH ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mais eficiente em pH neutro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eficiente em qualquer faixa de pH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mais eficiente em pH ácido ou neutro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

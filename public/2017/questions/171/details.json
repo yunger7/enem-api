@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2017",
+    "index": 171,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/171/3bb8824e-3a19-4855-a081-9cc594573f03.png)\n\nUm pivô de três torres (T1, T2 e T3) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T1 são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.",
+    "files": [
+        "https://enem.dev/2017/questions/171/3bb8824e-3a19-4855-a081-9cc594573f03.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para atingir seu objetivo, as velocidades das torres T1, T2 e T3 devem ser, em metro por hora, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12, 24 e 36.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "6, 12 e 18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2, 4 e 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "300, 1200 e 2700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "600, 2400 e 5400.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

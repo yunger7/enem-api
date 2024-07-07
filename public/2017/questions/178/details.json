@@ -1,0 +1,45 @@
+{
+    "title": "Questão 178 - ENEM 2017",
+    "index": 178,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2017/questions/178/9f831180-9696-4e04-9744-29b02d88f8e8.png)",
+    "files": [
+        "https://enem.dev/2017/questions/178/9f831180-9696-4e04-9744-29b02d88f8e8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Se a quantidade de jogadores for 8, quantas partidas serão realizadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "64",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "56",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "49",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "28",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

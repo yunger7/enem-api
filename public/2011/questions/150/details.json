@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2011",
+    "index": 150,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/150/881d187f-8906-4aa8-a941-220a57000731.png)",
+    "files": [
+        "https://enem.dev/2011/questions/150/881d187f-8906-4aa8-a941-220a57000731.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A reta de equação y = x + 4 representa o planejamento do percurso da linha do metrô subterrâneo que atravessará o bairro e outras regiões da cidade. No ponto P = (-5, 5), localiza-se um hospital público. A comunidade solicitou ao comitê de planejamento que fosse prevista uma estação do metrô de modo que sua distância ao hospital, medida em linha reta, não fosse maior que 5 km.\nAtendendo ao pedido da comunidade, o comitê argumentou corretamente que isso seria automaticamente satisfeito, pois já estava prevista a construção de uma estação no ponto.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(–5, 0).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(–3, 1).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "(–2, 1).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(0, 4).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(2, 6).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

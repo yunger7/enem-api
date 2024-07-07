@@ -1,0 +1,43 @@
+{
+    "title": "Questão 23 - ENEM 2012",
+    "index": 23,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nossa cultura lipofóbica muito contribui para a distorção da imagem corporal, gerando gordos que se veem magros e magros que se veem gordos, numa quase unanimidade de que todos se sentem ou se veem “distorcidos”. Engordamos quando somos gulosos. É pecado da gula que controla a relação do homem com a balança. Todo obeso declarou, um dia, guerra à balança. Para emagrecer é preciso fazer as pazes com a dita cuja, visando adequar-se às necessidades para as quais ela aponta.\n\n_FREIRE, D. S. Obesidade não pode ser pré-requisito. Disponível em: http//gnt.globo.com. Acesso em: 3 abr. 2012 (adaptado)._",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto apresenta um discurso de disciplinarização dos corpos, que tem como consequência",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A ampliação dos tratamentos médicos alternativos, reduzindo os gastos com remédios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A democratização do padrão de beleza, tornando-o acessível pelo esforço individual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O controle do consumo, impulsionando uma crise econômica na indústria de alimentos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A culpabilização individual, associando obesidade à fraqueza de caráter.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O aumento da longevidade, resultando no crescimento populacional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

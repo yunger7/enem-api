@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2020",
+    "index": 53,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "“Devo estar chegando perto do centro da Terra. Deixe ver: deve ter sido mais de seis mil quilômetros, por aí…” (como se vê, Alice tinha aprendido uma porção de coisas desse tipo na escola, e embora essa não fosse uma oportunidade lá muito boa de demonstrar conhecimentos, já que não havia ninguém por perto para escutá-la, em todo caso era bom praticar um pouco) “… sim, deve ser mais ou menos essa a distância… mas então qual seria a latitude ou longitude em que estou?” (Alice não tinha a menor ideia do que fosse latitude ou longitude, mas acho que eram palavras muito imponentes).\n\nCARROLL, L. Aventuras de Alice: no País das Maravilhas, Através do espelho e outros textos. São Paulo: Summus, 1980.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto descreve uma confusão da personagem em relação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ao tipo de projeção cartográfica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aos contornos dos fusos horários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À localização do norte magnético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aos referenciais de posição relativa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Às distorções das formas continentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

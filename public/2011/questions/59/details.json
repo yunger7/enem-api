@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2011",
+    "index": 59,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A cal (óxido de cálcio, CaO), cuja suspensão em água é muito usada como uma tinta de baixo custo, dá uma tonalidade branca aos troncos de árvores. Essa é uma prática muito comum em praças públicas e locais privados, geralmente usada para combater a proliferação de parasitas. Essa aplicação, também chamada de caiação, gera um problema: elimina microrganismos benéficos para a árvore.\n\nDisponível em: http://super.abril.com.br. Acesso em: 1 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A destruição do microambiente, no tronco de árvores pintadas com cal, é devida ao processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Difusão, pois a cal se difunde nos corpos dos seres do microambiente e os intoxica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Osmose, pois a cal retira água do microambiente, tornando-o inviável ao desenvolvimento de microrganismos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Oxidação, pois a luz solar que incide sobre o tronco ativa fotoquimicamente a cal, que elimina os seres vivos do microambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aquecimento, pois a luz do Sol incide sobre o tronco e aquece a cal, que mata os seres vivos do microambiente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vaporização, pois a cal facilita a volatilização da água para a atmosfera, eliminando os seres vivos do microambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2019",
+    "index": 29,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\n\n**LÉVY, P.** _A máquina universo: criação, cognição e cultura_  \n_informática._ Porto Alegre: Artmed, 1998.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Otimização do tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Confiabilidade dos sites.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Contribuição dos usuários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Quantidade de informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Colaboração de intelectuais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

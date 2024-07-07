@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2009",
+    "index": 166,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4.\n\n![](https://enem.dev/2009/questions/166/f22c3fd9-901b-449e-8864-b9cf7c0cc24a.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/166/f22c3fd9-901b-449e-8864-b9cf7c0cc24a.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135º graus no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Belo Horizonte, e em seguida embarcou para Curitiba.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Belo Horizonte, e em seguida embarcou para Salvador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Boa Vista, e em seguida embarcou para Porto Velho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Goiânia, e em seguida embarcou para o Rio de Janeiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Goiânia, e em seguida embarcou para Manaus.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

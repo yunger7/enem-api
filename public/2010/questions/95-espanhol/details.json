@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2010",
+    "index": 95,
+    "year": 2010,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2010/questions/95-espanhol/fbbc0a02-918d-4b22-8db1-2c42cfcb18e9.png)\n\n**Revista Glamour Latinoamérica**. México, mar. 2010.",
+    "files": [
+        "https://enem.dev/2010/questions/95-espanhol/fbbc0a02-918d-4b22-8db1-2c42cfcb18e9.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto publicitário utiliza diversas estratégias para enfatizar as características do produto que pretende vender. Assim, no texto, o uso de vários termos de outras línguas, que não a espanhola, tem a intenção de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Atrair a atenção do público alvo dessa propaganda.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Popularizar a prática de exercícios esportivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Agradar aos compradores ingleses desse tênis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Incentivar os espanhóis a falarem outras línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Enfatizar o conhecimento de mundo do autor do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

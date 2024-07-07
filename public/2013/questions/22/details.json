@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2013",
+    "index": 22,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Para que não haja abuso, é preciso organizar as coisas de maneira que o poder seja contido pelo poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo dos principais, ou dos nobres, ou do povo, exercesse esses três poderes: o de fazer leis, o de executar as resoluções públicas e o de julgar os crimes ou as divergências dos indivíduos. Assim, criam-se os poderes Legislativo, Executivo e Judiciário, atuando de forma independente para a efetivação da liberdade, sendo que esta não existe se uma mesma pessoa ou grupo exercer os referidos poderes concomitantemente.\n\nMONTESQUIEU, B. Do espírito das leis. São Paulo Abril Cultural, 1979 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A divisão e a independência entre os poderes são condições necessárias para que possa haver liberdade em um Estado. Isso pode ocorrer apenas sob um modelo político em que haja",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exercício de tutela sobre atividades jurídicas e políticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consagração do poder político pela autoridade religiosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Concentração do poder nas mãos de elites técnico-cientifícas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estabelecimento de limites aos atores públicos e às instituições do governo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reunião das funções de legislar, julgar e executar nas mãos de um governante eleito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2019",
+    "index": 119,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas. Uma das bicicletas é de corrida (bicicleta **A**) e a outra, de passeio (bicicleta **B**). Os pneus de ambas as bicicletas têm as mesmas características, exceto que a largura dos pneus de **A** é menor que a largura dos pneus de **B**. Ao calibrarem os pneus das bicicletas **A** e **B**, respectivamente com pressões de calibração p**A** e p**B**, os amigos observam que o pneu da bicicleta **A** deforma, sob mesmos esforços, muito menos que o pneu da bicicleta **B**. Pode-se considerar que as massas de ar comprimido no pneu da bicicleta **A**, m**A**, e no pneu da bicicleta **B**, m**B**, são diretamente proporcionais aos seus volumes.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Comparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "PA < pB e mA < mB",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "PA > pB e mA < mB",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "PA > pB e mA = mB",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "PA < pB e mA = mB",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "PA > pB e mA > mB",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

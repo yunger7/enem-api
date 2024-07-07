@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2013",
+    "index": 90,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/90/27d72a6f-643a-4caa-90c1-ded6335b2593.png)",
+    "files": [
+        "https://enem.dev/2013/questions/90/27d72a6f-643a-4caa-90c1-ded6335b2593.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em que parte do corpo do NanoKid existe carbono quaternário?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mãos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cabeça.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tórax.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Abdômen.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pés.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

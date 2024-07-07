@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2018",
+    "index": 156,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6h 15 min da manhã. Analisando os dados coletados durante o mês de fevereiro, o  qual teve 21 dias letivos, ele concluiu que 6 h 21 min foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 h 22 min.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 h 21 min da manhã é, no máximo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4/21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5/21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6/21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7/21",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8/21",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

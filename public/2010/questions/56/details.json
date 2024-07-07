@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2010",
+    "index": 56,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png)",
+    "files": [
+        "https://enem.dev/2010/questions/56/85dc7933-c9f1-46b8-8ca8-fee1d9ec8951.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pela circulação do magma no subsolo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Pelas erupções constantes dos vulcões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pelo sol que aquece as águas com radiação ultravioleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Pela queima do carvão e combustível fósseis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pelos detritos e cinzas vulcânicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

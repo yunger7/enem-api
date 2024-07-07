@@ -1,0 +1,43 @@
+{
+    "title": "Questão 49 - ENEM 2019",
+    "index": 49,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) está investigando o extermínio de abelhas por intoxicação por agrotóxicos em colmeias de São Paulo e Minas Gerais. Os estudos com inseticidas do tipo neonicotinoides devem estar concluídos no primeiro semestre de 2015. Trata-se de um problema de escala mundial, presente, inclusive, em países do chamado primeiro mundo, e que traz, como consequência, grave ameaça aos seres vivos do planeta, inclusive ao homem.\n\nIBAMA. Polinizadores em risco de extinção são ameaça  \nà vida do ser humano. Disponível em: www.mma.gov.br.  \nAcesso em: 10 mar. 2014.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual solução para o problema apresentado garante a produtividade da agricultura moderna?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Preservação da área de mata ciliar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adoção da prática de adubação química.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Utilização da técnica de controle biológico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Ampliação do modelo de monocultura tropical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Intensificação da drenagem do solo de várzea.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

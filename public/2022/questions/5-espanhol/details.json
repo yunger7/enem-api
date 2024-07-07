@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2022",
+    "index": 5,
+    "year": 2022,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2022/questions/5-espanhol/2a1a630d-3c73-4b12-81e5-219ee4f917b7.jpg)\n\nMURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.\n\nAcesso em: 26 out. 2021(adaptado)",
+    "files": [
+        "https://enem.dev/2022/questions/5-espanhol/2a1a630d-3c73-4b12-81e5-219ee4f917b7.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No texto, as palavras “crianzas” e “tribu” são usadas para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Evidenciar a importância de uma rede de apoio para as mães na criação dos seus filhos",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Denunciar a disparidade entre o trabalho das mães de diferentes classes",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ressaltar o fechamento de escolas e creches durante o período pandêmico",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ratificar a romantização da dedicação das mães na educação da crianças",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Enfatizar a proteção aos filhos em razão do isolamento social das famílias",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

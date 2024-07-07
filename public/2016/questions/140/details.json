@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2016",
+    "index": 140,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/140/ae197a69-68db-46c4-9321-f4fd03e424dc.png)",
+    "files": [
+        "https://enem.dev/2016/questions/140/ae197a69-68db-46c4-9321-f4fd03e424dc.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após as três “pesagens”, os organizadores do torneio informaram aos atletas quais deles se enfrentariam na primeira luta.\nA primeira luta foi entre os atletas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "II e IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e IV",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

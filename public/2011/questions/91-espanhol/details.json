@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2011",
+    "index": 91,
+    "year": 2011,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "**‘Desmachupizar’ el turismo**\n\nEs ya un lugar común escuchar aquello de que hay que desmachupizar el turismo en Perú y buscar visitantes en las demás atracciones (y son muchas) que tiene el país, naturales y arqueológicas, pero la ciudadela inca tiene un imán innegable. La Cámara Nacional de Turismo considera que Machu Picchu significa el 70% de los ingresos por turismo en Perú, ya que cada turista que tiene como primer destino la ciudadela inca visita entre tres y cinco lugares más (la ciudad de Cuzco, la de Arequipa, las líneas de Nazca, el Lago Titicaca y la selva) y deja en el país un promedio de 2 200 dólares (unos 1 538 euros).\n\nCarlos Canales, presidente de Canatur, señaló que la ciudadela tiene capacidad para recibir más visitantes que en la actualidad (un máximo de 3 000) con un sistema planificado de horarios y rutas, pero no quiso avanzar una cifra. Sin embargo, la Unesco ha advertido en varias ocasiones que el monumento se encuentra cercano al punto de saturación y el Gobierno no debe emprender ninguna política de captación de nuevos visitantes, algo con lo que coincide el viceministro Roca Rey.\n\nDisponivel em: http://www.elpais.com. Acesso em: 21 jun. 2011.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A reportagem do jornal espanhol mostra a preocupação diante de um problema no Peru, que pode ser resumido pelo vocábulo “desmachupizar”, referindo-se",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À escassez de turistas no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ao difícil acesso ao lago Titicaca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À destruição da arqueologia no país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ao excesso de turistas na terra dos incas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "À falta de atrativos turísticos em Arequipa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2022",
+    "index": 102,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Entre as diversas técnicas para diagnóstico da covid-19, destaca-se o teste genético. Considerando as diferentes variantes e cargas virais, um exemplo é a PCR, reação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA.  \nPara comprovação da infecção por esse coronavírus, são coletadas amostras de secreções do indivíduo. Uma etapa que antecede a reação de PCR precisa ser realizada para permitir a amplificação do material genético do vírus.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Essa etapa deve ser realizada para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Concentrar o RNA viral para otimizar a técnica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Identificar nas amostras anticorpos anti-SARS-CoV-2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Proliferar o vírus em culturas, aumentando a carga viral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Obter moléculas de cDNAviral por meio da transcrição reversa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

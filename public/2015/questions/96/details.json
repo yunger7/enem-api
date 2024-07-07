@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2015",
+    "index": 96,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2015/questions/96/a5dd9636-55a3-4a26-a4be-2eba2ca0c437.jpg)\n\nDia do Músico, do Professor, da Secretária, do Veterinário… Muitas são as datas comemoradas ao longo do ano e elas, ao darem visibilidade a segmentos específicos da sociedade oportunizam uma reflexão sobre a responsabilidade social desses segmentos. Nesse contexto, está inserida a propaganda da Associação Brasileira de Imprensa (ABI), em que se combinam elementos verbais e não verbais para se abordar a estreita relação entre imprensa, cidadania, informação e opinião.",
+    "files": [
+        "https://enem.dev/2015/questions/96/a5dd9636-55a3-4a26-a4be-2eba2ca0c437.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Sobre essa relação, depreende-se do texto da ABI que,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Para a imprensa exercer seu papel social, ela deve transformar opinião em informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Para a imprensa democratizar a opinião, ela deve selecionar a informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Para o cidadão expressar sua opinião, ele deve democratizar a informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Para a imprensa gerar informação, ela deve fundamentar-se em opinião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Para o cidadão formar sua opinião, ele deve ter acesso à informação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

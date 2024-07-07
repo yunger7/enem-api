@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2010",
+    "index": 57,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O despejo de dejetos de esgotos domésticos e industriais vem causando sérios problemas aos rios brasileiros. Esses poluentes são ricos em substâncias que contribuem para a eutrofização de ecossistemas, que é um enriquecimento da água por nutrientes, o que provoca um grande crescimento bacteriano e, por fim, pode promover escassez de oxigênio.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma maneira de evitar a diminuição da concentração de oxigênio no ambiente é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aquecer as águas dos rios para aumentar a velocidade de decomposição dos dejetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Adicionar bactérias anaeróbicas às águas dos rios para que elas sobrevivam mesmo sem oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Substituir produtos não degradáveis por biodegradáveis para que as bactérias possam utilizar os nutrientes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumentar a solubilidade dos dejetos no esgoto para que os nutrientes fiquem mais acessíveis às bactérias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

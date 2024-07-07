@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2019",
+    "index": 148,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O rótulo da embalagem de um cosmético informa que a dissolução de seu conteúdo, de acordo com suas especificações, rende 2,7 litros desse produto pronto para o uso. Uma pessoa será submetida a um tratamento estético em que deverá tomar um banho de imersão com esse produto numa banheira com capacidade de 0,3 m³.\n\nPara evitar o transbordamento, essa banheira será preenchida em 80% de sua capacidade.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para esse banho, o número mínimo de embalagens desse cosmético é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "89.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "112.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "134.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

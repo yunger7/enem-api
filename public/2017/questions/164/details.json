@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2017",
+    "index": 164,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (_X_ e _Y_) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista _X_ olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista _Y_ para executar a mesma tarefa.\n\nDisponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5/4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1/4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4/3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4/1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3/4",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

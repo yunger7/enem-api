@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2014",
+    "index": 99,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**TEXTO I**\n\nJoão Guedes, um dos assíduos frequentadores do boliche do capitão, mudara-se da campanha havia três anos. Três anos de pobreza na cidade bastaram para o degradar. Ao morrer, não tinha um vintém nos bolsos e fazia dois meses que saíra da cadeia, onde estivera preso por roubo de ovelha.\n\nA história de sua desgraça se confunde com a da maioria dos que povoam a aldeia de Boa Ventura, uma cidadezinha distante, triste e precocemente envelhecida, situada nos confins da fronteira do Brasil com o Uruguai.\n\nMARTINS, C. **Porteira fechada**. Porto Alegre: Movimento, 2001 (fragmento).\n\n**TEXTO II**\n\nComecei a procurar emprego, já topando o que desse e viesse, menos complicação com os homens, mas não tava fácil. Fui na feira, fui nos bancos de sangue, fui nesses lugares que sempre dão para descolar algum, fui de porta em porta me oferecendo de faxineiro, mas tava todo mundo escabreado pedindo referências, e referências eu só tinha do diretor do presídio.\n\nFONSECA, R. **Feliz Ano Novo**. São Paulo: Cia. das Letras, 1989 (fragmento).\n\nA oposição entre campo e cidade esteve entre as temáticas tradicionais da literatura brasileira. Nos fragmentos dos dois autores contemporâneos, esse embate incorpora um elemento novo: a questão da violência e do desemprego.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As narrativas apresentam confluência, pois nelas o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criminalidade é algo inerente ao ser humano, que sucumbe a suas manifestações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Meio urbano, especialmente o das grandes cidades, estimula uma vida mais violenta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Falta de oportunidades na cidade dialoga com a pobreza do campo rumo à criminalidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Êxodo rural e a falta de escolaridade são causas da violência nas grandes cidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Complacência das leis e a inércia das personagens são estímulos à prática criminosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

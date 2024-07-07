@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2011",
+    "index": 170,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png)",
+    "files": [
+        "https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "12%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "22%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

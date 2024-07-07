@@ -1,0 +1,45 @@
+{
+    "title": "Questão 65 - ENEM 2013",
+    "index": 65,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/65/bae12c44-190a-4788-bdaa-922272848928.png)\n\nCalcula-se que a velocidade de propagação dessa “onda humana” é 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm.\n\nDisponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2013/questions/65/bae12c44-190a-4788-bdaa-922272848928.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa ola mexicana, a frequência da onda, em hertz, é um valor mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,7.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2022",
+    "index": 125,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na figura está representado o mosaicismo em função da inativação aleatória de um dos cromossomos X, que ocorre em todas as mulheres sem alterações  patológicas.\n\n![](https://enem.dev/2022/questions/125/310a2901-c53f-4fd3-86bd-17c5a2aa0b83.jpg)",
+    "files": [
+        "https://enem.dev/2022/questions/125/310a2901-c53f-4fd3-86bd-17c5a2aa0b83.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Entre mulheres heterozigotas para doenças determinadas por genes recessivos ligados ao sexo, essa inativação tem como consequência a ocorrência de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pleiotropia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mutação gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Interação gênica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Penetrância incompleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expressividade variável.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

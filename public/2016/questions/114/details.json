@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2016",
+    "index": 114,
+    "year": 2016,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2016/questions/114/d732fa5d-e5ff-49b5-a010-a4e001df8d25.png)\n\n_A origem da obra de arte_ (2002) é uma instalação seminal na obra de Marilá Dardot. Apresentada originalmente em sua primeira exposição individual, no Museu de Arte da Pampulha, em Belo Horizonte, a obra constitui um convite para a interação do espectador, instigado a compor palavras e sentenças e a distribuí-las pelo campo. Cada letra tem o feitio de um vaso de cerâmica (ou será o contrário?) e, à disposição do espectador, encontram-se utensílios de plantio, terra e sementes. Para abrigar a obra e servir de ponto de partida para a criação dos textos, foi construído um pequeno galpão, evocando uma estufa ou um ateliê de jardinagem. As 1500 letras-vaso foram produzidas pela cerâmica que funciona no Instituto Inhotim, em Minas Gerais, num processo que durou vários meses e contou com a participação de dezenas de mulheres das comunidades do entorno. Plantar palavras, semear ideias é o que nos propõe o trabalho. No contexto de Inhotim, onde natureza e arte dialogam de maneira privilegiada, esta proposição se torna, de certa maneira, mais perto da possibilidade.\n\nDisponível em: www.inhotim.org.br. Acesso em: 22 maio 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2016/questions/114/d732fa5d-e5ff-49b5-a010-a4e001df8d25.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A função da obra de arte como possibilidade de experimentação e de construção pode ser constatada no trabalho de Marilá Dardot porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O projeto artístico acontece ao ar livre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O observador da obra atua como seu criador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A obra integra-se ao espaço artístico e botânico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As letras-vaso são utilizadas para o plantio de mudas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As mulheres da comunidade participam na confecção das peças.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

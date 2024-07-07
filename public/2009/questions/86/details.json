@@ -1,0 +1,46 @@
+{
+    "title": "Questão 86 - ENEM 2009",
+    "index": 86,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2009/questions/86/04d790cc-7221-4d93-a0a7-ea323350509a.jpg)\n\n![](https://enem.dev/2009/questions/86/1dec6a28-9c85-4f2d-a6ca-58d1bd4ead05.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/86/04d790cc-7221-4d93-a0a7-ea323350509a.jpg",
+        "https://enem.dev/2009/questions/86/1dec6a28-9c85-4f2d-a6ca-58d1bd4ead05.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Reunindo-se as informações contidas nas duas charges, infere-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os regimes climáticos da Terra são desprovidos de padrões que os caracterizem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As intervenções humanas nas regiões polares são mais intensas que em outras partes do globo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O processo de aquecimento global será detido com a eliminação das queimadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A destruição das florestas tropicais é uma das causas do aumento da temperatura em locais distantes como os polos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Os parâmetros climáticos modificados pelo homem afetam todo o planeta, mas os processos naturais têm alcance regional.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

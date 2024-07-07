@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2012",
+    "index": 85,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A imagem representa o processo de evolução das plantas e algumas de suas estruturas. Para o sucesso desse processo, a partir de um ancestral simples, os diferentes grupos vegetais desenvolveram estruturas adaptativas que lhes permitiram sobreviver em diferentes ambientes.\n\n![](https://enem.dev/2012/questions/85/d609b7fd-86d4-4b06-aec6-313e47ec4bba.png)",
+    "files": [
+        "https://enem.dev/2012/questions/85/d609b7fd-86d4-4b06-aec6-313e47ec4bba.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual das estruturas adaptativas apresentadas contribuiu para uma maior diversidade genética?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As sementes aladas, que favorecem a dispersão aérea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os arquegônios, que protegem o embrião multicelular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os grãos de pólen, que garantem a polinização cruzada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Os frutos, que promovem uma maior eficiência reprodutiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Os vasos condutores, que possibilitam o transporte da seiva bruta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

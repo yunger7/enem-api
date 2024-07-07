@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2020",
+    "index": 102,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\n\n![](https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png)",
+    "files": [
+        "https://enem.dev/2020/questions/102/4972c2e5-3c86-412f-96ca-52378d89740c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual das subetapas do processo é realizada em função apenas da polaridade das substâncias?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Trituração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cozimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Prensagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Extração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Destilação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2015",
+    "index": 159,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Segundo dados apurados no Censo 2010, para uma população de 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve algum tipo de rendimento em 2010, a renda média mensal apurada foi de R$ 1 202,00. A soma dos rendimentos mensais dos 10% mais pobres correspondeu a apenas 1,1% do total de rendimentos dessa população considerada, enquanto que a soma dos rendimentos mensais dos 10% mais ricos correspondeu a 44,5% desse total.\n\nDisponível em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual foi a diferença, em reais, entre a renda média mensal de um brasileiro que estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa dos 10% mais pobres?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "240,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "548,11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 723,67",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 026,70",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 216,68",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

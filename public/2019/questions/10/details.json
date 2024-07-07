@@ -1,0 +1,45 @@
+{
+    "title": "Questão 10 - ENEM 2019",
+    "index": 10,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019/questions/10/ae918ab7-0af8-4aba-a19e-2ea912322846.jpg)",
+    "files": [
+        "https://enem.dev/2019/questions/10/ae918ab7-0af8-4aba-a19e-2ea912322846.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa campanha se destaca pela maneira como utiliza a linguagem para conscientizar a sociedade da necessidade de se acabar com o bullying. Tal estratégia está centrada no(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Chamamento de diferentes atores sociais pelo uso recorrente de estruturas injuntivas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Variedade linguística caracterizadora do português europeu.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Restrição a um grupo específico de vítimas ao apresentar marcas gráficas de identificação de gênero como “o(a)”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Combinação do significado de palavras escritas em línguas inglesa e portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Enunciado de cunho esperançoso “passe à história” no título do cartaz.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

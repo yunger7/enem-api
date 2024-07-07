@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2010",
+    "index": 171,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um grupo de pacientes com Hepatite C foi submetido a um tratamento tradicional em que 40% desses pacientes foram completamente curados. Os pacientes que não obtiveram cura foram distribuídos em dois grupos de mesma quantidade e submetidos a dois tratamentos inovadores. No primeiro tratamento inovador, 35% dos pacientes foram curados e, no segundo, 45%.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em relação aos pacientes submetidos inicialmente, os tratamentos inovadores proporcionaram cura de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "32%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "48%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "64%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 86 - ENEM 2010",
+    "index": 86,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2010/questions/86/ca1e9c9f-e762-49d8-aa6e-724bdbd3ae78.png)\n\nTrês dos quatro tipos de testes atualmente empregados para a detecção de príons patogênicos, em tecidos cerebrais do gado morto, são mostrados nas figuras a seguir. Uma vez identificados um animal morto infectado, funcionários das agências de saúde pública e fazendeiros podem removê-lo do suprimento alimentar ou rastrear os alimentos infectados que o animal possa ter consumido.",
+    "files": [
+        "https://enem.dev/2010/questions/86/ca1e9c9f-e762-49d8-aa6e-724bdbd3ae78.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Analisando os testes I, II e III, para a detecção de príons patogênicos, identifique as condições em que os resultados foram positivos para a presença de príons nos três testes:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Animal A, lâmina B e gel A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Animal A, lâmina A e gel B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Animal B, lâmina A e gel B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Animal B, lâmina B e gel A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Animal A, lâmina B e gel B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

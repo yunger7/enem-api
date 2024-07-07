@@ -1,0 +1,45 @@
+{
+    "title": "Questão 47 - ENEM 2011",
+    "index": 47,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os personagens da figura estão representando uma situação hipotética de cadeia alimentar.\n\n![](https://enem.dev/2011/questions/47/c2d2193d-4cda-4ab5-864f-e67b401f83d9.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/47/c2d2193d-4cda-4ab5-864f-e67b401f83d9.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Suponha que, em cena anterior à apresentada, o homem tenha se alimentado de frutas e grãos que conseguiu coletar. Na hipótese de, nas próximas cenas, o tigre ser bem-sucedido e, posteriormente, servir de alimento aos abutres, tigre e abutres ocuparão, respectivamente, os níveis tróficos de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Produtor e consumidor primário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consumidor primário e consumidor secundário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Consumidor secundário e consumidor terciário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Consumidor terciário e produtor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Consumidor secundário e consumidor primário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

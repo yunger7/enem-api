@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2018",
+    "index": 115,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Alguns peixes, como o poraquê, a enguia-elétrica da Amazônia, podem produzir uma corrente elétrica quando se encontram em perigo. Um poraquê de 1 metro de comprimento, em perigo, produz uma corrente em torno de 2 ampères e uma voltagem de 600 volts.\n\nO quadro apresenta a potência aproximada de  \nequipamentos elétricos.\n\n![](https://enem.dev/2018/questions/115/90c1db98-dd8a-4239-bd75-ae54ba9335aa.png)",
+    "files": [
+        "https://enem.dev/2018/questions/115/90c1db98-dd8a-4239-bd75-ae54ba9335aa.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O equipamento elétrico que tem potência similar àquela produzida por esse peixe em perigo é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Exaustor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Computador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aspirador de pó.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Churrasqueira elétrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Secadora de roupas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

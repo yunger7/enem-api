@@ -1,0 +1,43 @@
+{
+    "title": "Questão 72 - ENEM 2020",
+    "index": 72,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Montaigne deu o nome para um novo gênero literário; foi dos primeiros a instituir na literatura moderna um espaço privado, o espaço do “eu”, do texto íntimo. Ele cria um novo processo de escrita filosófica, no qual hesitações, autocríticas, correções entram no próprio texto.\n\nCOELHO, M. **Montaigne**. São Paulo: Publifolha, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O novo gênero de escrita aludido no texto é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Confissão, que relata experiências de transformação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ensaio, que expõe concepções subjetivas de um tema.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Carta, que comunica informações para um conhecido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Meditação, que propõe preparações para o conhecimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diálogo, que discute assuntos com diferentes interlocutores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2020",
+    "index": 67,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2020/questions/67/c384d31a-87b1-4653-882b-ffa66c2643be.png)\n\nDisponível em: https://noticias.uol.com.br. Acesso em: l3 jun. 2018  \n(adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/67/c384d31a-87b1-4653-882b-ffa66c2643be.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os aspectos físicos apresentados originam-se da atuação da força natural de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Colisão de placas tectônicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Rifteamento da crosta terrestre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Subducção da plataforma oceânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Formação de cadeias montanhosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Metamorfismo de bordas continentais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

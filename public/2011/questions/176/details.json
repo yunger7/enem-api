@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2011",
+    "index": 176,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/176/af44af53-d3de-470e-8beb-fc679278e63f.png)",
+    "files": [
+        "https://enem.dev/2011/questions/176/af44af53-d3de-470e-8beb-fc679278e63f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se tomarmos uma estrela que tenha temperatura 5 vezes maior que a temperatura do Sol, qual será a ordem de grandeza de sua luminosidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20 000 vezes a luminosidade do Sol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "28 000 vezes a luminosidade do Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "28 850 vezes a luminosidade do Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "30 000 vezes a luminosidade do Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 000 vezes a luminosidade do Sol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

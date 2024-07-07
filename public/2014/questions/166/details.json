@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2014",
+    "index": 166,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/166/9eb6c121-ac40-452b-b439-1b2261d6e950.png)\n\nEssa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.",
+    "files": [
+        "https://enem.dev/2014/questions/166/9eb6c121-ac40-452b-b439-1b2261d6e950.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dos planos telefônicos apresentados, qual é o mais vantajoso, em tempo de chamada, para o gasto previsto para essa pessoa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

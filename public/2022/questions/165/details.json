@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2022",
+    "index": 165,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.  \nSuponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No planeta Z, seu ano corresponderia a quantos de seus dias?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,5",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "10,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "730,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "13 322,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "53 290,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2013",
+    "index": 54,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2013/questions/54/93c6c320-6ef3-49b4-ac7a-02820bbf0553.png)",
+    "files": [
+        "https://enem.dev/2013/questions/54/93c6c320-6ef3-49b4-ac7a-02820bbf0553.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nas informações do texto, uma alternativa para a obtenção de etilenoglicol a partir do PET é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solubilização dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Combustão dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Trituração dos objetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hidrólise dos objetos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Fusão dos objetos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2012",
+    "index": 74,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2012/questions/74/ae898d41-d52f-41d0-9ae8-7bead1d40801.png)",
+    "files": [
+        "https://enem.dev/2012/questions/74/ae898d41-d52f-41d0-9ae8-7bead1d40801.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual a causa da forma da trajetória do planeta Marte registrada na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A maior velocidade orbital da Terra faz com que, em certas épocas, ela ultrapasse Marte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A presença de outras estrelas faz com que sua trajetória seja desviada por meio da atração gravitacional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A órbita de Marte, em torno do Sol, possui uma forma elíptica mais acentuada que a dos demais planetas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A atração gravitacional entre a Terra e Marte faz com que este planeta apresente uma órbita irregular em torno do Sol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A proximidade de Marte com Júpiter, em algumas épocas do ano, faz com que a atração gravitacional de Júpiter interfira em seu movimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

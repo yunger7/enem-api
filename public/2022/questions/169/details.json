@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2022",
+    "index": 169,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:\n\n• modelo II: o dobro da profundidade e a metade da  \nárea da base do modelo I;  \n• modelo III: o dobro da profundidade e a metade do  \nraio da base do modelo I;  \n• modelo IV: a metade da profundidade e o dobro da  \nárea da base do modelo I;  \n• modelo V: a metade da profundidade e o dobro do  \nraio da base do modelo I.\n\nUma pessoa pretende comprar nessa loja o modelo  \nde caixa-d’água que ofereça a maior capacidade  \nvolumétrica",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O modelo escolhido deve ser o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

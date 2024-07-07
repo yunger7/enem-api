@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2015",
+    "index": 13,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Trasímaco estava impaciente porque Sócrates e os seus amigos presumiam que a justiça era algo real e importante. Trasímaco negava isso. Em seu entender, as pessoas acreditavam no certo e no errado apenas por terem sido ensinadas a obedecer às regras da sua sociedade. No entanto, essas regras não passavam de invenções humanas.\n\nRACHELS, J. **Problemas da Filosofia**. Lisboa: Gradiva, 2009.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O sofista Trasímaco, personagem imortalizado no diálogo A República, de Platão, sustentava que a correlação entre justiça e ética é resultado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Determinações biológicas impregnadas na natureza humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Verdades objetivas com fundamento anterior aos interesses sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mandamentos divinos inquestionáveis legados das tradições antigas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Convenções sociais resultantes de interesses humanos contingentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Sentimentos experimentados diante de determinadas atitudes humanas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

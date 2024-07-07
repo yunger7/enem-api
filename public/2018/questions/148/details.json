@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2018",
+    "index": 148,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual ã quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias.\n\nConsidere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número de pessoas alcançadas pela campanha será dado pela expressão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/148/815e56d4-7cf2-461e-b709-d3b3cc046213.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/148/a81a1d03-16e2-4934-8f48-901d1c2c8d0a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/148/3b53ea9e-c3b3-47f1-a112-d94a02a89929.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/148/69efff97-2140-4f41-a084-51cb3aa9d1fb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/148/4f37fa96-41c0-48d4-b071-319fe84388a3.png",
+            "isCorrect": false
+        }
+    ]
+}

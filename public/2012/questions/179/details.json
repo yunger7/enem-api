@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2012",
+    "index": 179,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/179/19738eb9-509c-4c48-8ea2-cd4ec4a9116c.png)",
+    "files": [
+        "https://enem.dev/2012/questions/179/19738eb9-509c-4c48-8ea2-cd4ec4a9116c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base no gráfico, o valor da parte inteira da mediana dos empregos formais surgidos no período é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "212 952.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "229 913.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "240 621.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "255 496.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "298 041.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

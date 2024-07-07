@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2009",
+    "index": 110,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O “Portal Domínio Público”, lançado em novembro de 2004, propõe o compartilhamento de conhecimentos de forma equânime e gratuita, colocando à disposição de todos os usuários da Internet, uma biblioteca virtual que deverá constituir referência para professores, alunos, pesquisadores e para a população em geral.  \nEsse portal constitui um ambiente virtual que permite a coleta, a integração, a preservação e o compartilhamento de conhecimentos, sendo seu principal objetivo o de promover o amplo acesso às obras literárias, artísticas e científicas (na forma de textos, sons, imagens e vídeos), já em domínio público ou que tenham a sua divulgação devidamente autorizada.\n\n**BRASIL.** Ministério da Educação. Disponível em: http://www.dominiopublico.gov.br.  \nAcesso em: 29 jul. 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando a função social das informações geradas nos sistemas de comunicação e informação, o ambiente virtual descrito no texto exemplifica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A dependência das escolas públicas quanto ao uso de sistemas de informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A ampliação do grau de interação entre as pessoas, a partir de tecnologia convencional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A democratização da informação, por meio da disponibilização de conteúdo cultural e científico à sociedade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "A comercialização do acesso a diversas produções culturais nacionais e estrangeiras via tecnologia da informação e da comunicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A produção de repertório cultural direcionado a acadêmicos e educadores.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

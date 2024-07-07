@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2016",
+    "index": 167,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "36",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "45",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "54",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

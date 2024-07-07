@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2019",
+    "index": 34,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "     Antes de Roma ser fundada, as colinas de Alba eram ocupadas por tribos latinas, que dividiam o ano de acordo com seus deuses. Os romanos adaptaram essa estrutura. No principio dessa civilização o ano tinha dez meses e começava por Martius (atual março). Os outros dois teriam sido acrescentados por Numa Pompílio o segundo rei de Roma.\n\n     Até Júlio César reformar o calendário local, os meses eram lunares, mas as festas em homenagem aos deuses permaneciam designadas pelas estações O descompasso de dez dias por ano fazia com que, em todos os triênios, um décimo terceiro mês, o Intercalaris, tivesse que ser enxertado. Com a ajuda de matemáticos do Egito emprestados por Cleópatra, Júlio César acabou com a bagunça ao estabelecer o seguinte calendário solar: Januarius, Februarius, Martius, Aprilis, Maius, Junius, Quinctilis, Sextilis, September, October, November e December. Quase igual ao nosso, com as diferenças de que Quinctilis e Sextilis deram origem aos meses de julho e agosto.\n\n**Disponível em:** https://aventurasnahistoria.uol.com.br. _Acesso em: 8 dez. 2018._",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando as informações no texto e aspectos históricos da formação da lingua, a atual escrita dos meses do ano em português",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reflete a origem latina de nossa língua.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Decorre de uma língua falada no Egito antigo",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tem como base um calendário criado por Cleópatra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D segue a reformulação da norma da língua proposta por Júlio César.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Resulta da padronização do calendário antes da fundação de Roma.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

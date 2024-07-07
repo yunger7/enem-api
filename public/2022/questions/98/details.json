@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2022",
+    "index": 98,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.\n\nANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O sucesso dessa terapia advém do fato de que o produto favorecerá a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Correção do código genético para a tradução da proteína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Alteração do RNA ribossômico ligado à síntese da proteína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Produção de mutações benéficas para a correção do problema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Liberação imediata da proteína normal na região ocular humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expressão do gene responsável pela produção da enzima normal.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2015",
+    "index": 176,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nos elementos apresentados, o gráfico que melhor representa a relação entre o valor mensal pago nesse plano e o número de ligações feitas é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/176/da13c004-584e-4012-b169-1476f28c2c75.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/176/4322623b-4209-4b90-8340-47b80a683345.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/176/eeef388a-087d-4d11-8eb7-3ca5656db005.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/176/a37b0cd6-80b8-40ba-b31d-4c81364e63e7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2015/questions/176/737b6f37-f58a-43c5-99e0-0dea2e316b4b.png",
+            "isCorrect": false
+        }
+    ]
+}

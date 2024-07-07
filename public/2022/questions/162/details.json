@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2022",
+    "index": 162,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.\n\n![](https://enem.dev/2022/questions/162/0942383a-b8ee-4c44-a9ad-ae50d4204c0c.png)",
+    "files": [
+        "https://enem.dev/2022/questions/162/0942383a-b8ee-4c44-a9ad-ae50d4204c0c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "18 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "29 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

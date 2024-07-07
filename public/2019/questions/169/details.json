@@ -1,0 +1,45 @@
+{
+    "title": "Questão 169 - ENEM 2019",
+    "index": 169,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de _match_.\n\nO usuário P define um raio de abrangência com medida de 3 km e busca ampliar a possibilidade de obter um _match_ se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por I, II, III, IV e V.\n\nSabe-se que os usuários Q, R e S, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 km, 2 km e 5 km.\n\n![](https://enem.dev/2019/questions/169/ff47c4f5-3e9b-42b5-adf5-40b08eb93a07.jpg)",
+    "files": [
+        "https://enem.dev/2019/questions/169/ff47c4f5-3e9b-42b5-adf5-40b08eb93a07.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários R, R e S, simultaneamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

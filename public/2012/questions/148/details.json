@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2012",
+    "index": 148,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/148/26ce4617-a934-4ff1-83a3-96a7dad3e773.png)",
+    "files": [
+        "https://enem.dev/2012/questions/148/26ce4617-a934-4ff1-83a3-96a7dad3e773.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o gráfico, os meses em que ocorreram, respectivamente, a maior e a menor venda absolutas em 2011 foram",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Março e abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Março e agosto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Agosto e setembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Junho e setembro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Junho e agosto.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

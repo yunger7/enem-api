@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2019",
+    "index": 159,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O dono de um restaurante situado às margens de uma rodovia percebeu que, ao colocar uma placa de propaganda de seu restaurante ao longo da rodovia, as vendas aumentaram. Pesquisou junto aos seus clientes e concluiu que a probabilidade de um motorista perceber uma placa de anúncio é 1/2.\n\nCom isso, após autorização do órgão competente, decidiu instalar novas placas com anúncios de seu restaurante ao longo dessa rodovia, de maneira que a probabilidade de um motorista perceber pelo menos uma das placas instaladas fosse superior a 99/100.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade mínima de novas placas de propaganda a serem instaladas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "99",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "51",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

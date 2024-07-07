@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2016",
+    "index": 148,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png)",
+    "files": [
+        "https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa disposição, o número que está representado na figura é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "46 171.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "147 016",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "171 064.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "460 171.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "610 741.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

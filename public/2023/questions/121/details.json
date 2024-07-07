@@ -1,0 +1,46 @@
+{
+    "title": "Questão 121 - ENEM 2023",
+    "index": 121,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.\n\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO–). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que M\\* representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44\n\n![](https://enem.dev/2023/questions/121/7814f78a-9417-4651-bec1-eb30fe7fd046.png)\n\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\n\n![](https://enem.dev/2023/questions/121/1913a73f-35d7-4367-a68e-949fa743bf7c.png)\n\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. **ChemMatters**, fev. 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2023/questions/121/7814f78a-9417-4651-bec1-eb30fe7fd046.png",
+        "https://enem.dev/2023/questions/121/1913a73f-35d7-4367-a68e-949fa743bf7c.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Potássio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Magnésio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Zinco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ferro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

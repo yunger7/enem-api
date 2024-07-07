@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2012",
+    "index": 51,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesticidas são contaminantes ambientais altamente tóxicos aos seres vivos e, geralmente, com grande persistência ambiental. A busca por novas formas de eliminação dos pesticidas tem aumentado nos últimos anos, uma vez que as técnicas atuais são economicamente dispendiosas e paliativas. A biorremediação de pesticidas utilizando microrganismos tem se mostrado uma técnica muito promissora para essa finalidade, por apresentar vantagens econômicas e ambientais.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para ser utilizado nesta técnica promissora, um microrganismo deve ser capaz de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Transferir o contaminante do solo para a água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Absorver o contaminante sem alterá-lo quimicamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apresentar alta taxa de mutação ao longo das gerações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estimular o sistema imunológico do homem contra o contaminante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Metabolizar o contaminante, liberando subprodutos menos tóxicos ou atóxicos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

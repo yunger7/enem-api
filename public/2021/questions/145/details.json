@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2021",
+    "index": 145,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um estudo realizado pelo IBGE em quatro estados e no Distrito Federal, com mais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média, apenas seis minutos do dia de cada pessoa.  \nNa faixa de idade de 10 a 24 anos, a média diária é de três minutos. No entanto, no grupo de idades entre 24 e 60 anos, o tempo médio diário dedicado à leitura é de 5 minutos. Entre os mais velhos, com 60 anos ou mais, a média é de 12 minutos.  \nA quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição percentual descrita no quadro.\n\n![](https://enem.dev/2021/questions/145/9fa287d2-647c-4f7e-87a9-e58f5130bed7.png)",
+    "files": [
+        "https://enem.dev/2021/questions/145/9fa287d2-647c-4f7e-87a9-e58f5130bed7.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os valores de x e y do quadro são, respectivamente, iguais a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 e 80.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "10 e 90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20 e 60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20 e 80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25 e 5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

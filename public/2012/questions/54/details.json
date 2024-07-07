@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2012",
+    "index": 54,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um dia de chuva muito forte, constatou-se uma goteira sobre o centro de uma piscina coberta, formando um padrão de ondas circulares. Nessa situação, observou-se que caíam duas gotas a cada segundo. A distância entre duas cristas consecutivas era de 25 cm e cada uma delas se aproximava da borda da piscina com velocidade de 1,0 m/s. Após algum tempo a chuva diminuiu e a goteira passou a cair uma vez por segundo.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com a diminuição da chuva, a distância entre as cristas e a velocidade de propagação da onda se tornaram, respectivamemente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Maior que 25 cm e maior que 1,0 m/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Maior que 25 cm e igual a 1,0 m/s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Menor que 25 cm e menor que 1,0 m/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Menor que 25 cm e igual a 1,0 m/s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Igual a 25 cm e igual a 1,0 m/s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

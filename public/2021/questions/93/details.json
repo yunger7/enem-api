@@ -1,0 +1,45 @@
+{
+    "title": "Questão 93 - ENEM 2021",
+    "index": 93,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos. Frequentemente, muda a orientação de seus tentáculos, assemelhando-se a alguns animais. As imagens 1, 3, e 5 apresentam polvos mimetizando, respectivamente, um peixe-linguado (2), um peixe-leão (4) e uma serpente-marinha (6).\n\n![](https://enem.dev/2021/questions/93/63fd588f-0f17-4c2b-b0cb-ed3acf8b7f70.png)\n\nNORMAN, M. D.; FINN, J.; TREGENZA, T. Dynamic mimicry in an Indo-Malayan octopus. In: Proceedings of the Royal Society B: Biological Sciences, n. 268, out. 2021.\n\nDisponível em: www.researchgate.net. Acesso em: 15 mar. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/93/63fd588f-0f17-4c2b-b0cb-ed3acf8b7f70.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Do ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Originaram-se do mesmo ancestral que esses animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Passaram por mutações similares a esses organismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Observaram esses animais em seus nichos ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Resultaram de convergência adaptativa com essas espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sobrevivem às pressões seletivas com esses comportamentos",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

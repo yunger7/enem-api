@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2020",
+    "index": 171,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.\n\nDisponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.\n\nAzulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.\n\n![](https://enem.dev/2020/questions/171/ef4071b9-7821-4c7b-a055-4983fdcd1b87.png)\n\nEntre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:\n\n1 — Triângulo retângulo isósceles;\n\n2 — Triângulo equilátero;\n\n3 — Quadrado.",
+    "files": [
+        "https://enem.dev/2020/questions/171/ef4071b9-7821-4c7b-a055-4983fdcd1b87.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 e 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 e 3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2 e 3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

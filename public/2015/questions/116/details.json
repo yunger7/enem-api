@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2015",
+    "index": 116,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Assum preto**\n\nTudo em vorta é só beleza  \nSol de abril e a mata em frô  \nMas assum preto, cego dos óio  \nNum vendo a luz, ai, canta de dor\n\nTarvez por ignorança  \nOu mardade das pió  \nFuraro os óio do assum preto  \nPra ele assim, ai, cantá mió\n\nAssum preto veve sorto  \nMas num pode avuá  \nMil veiz a sina de uma gaiola  \nDesde que o céu, ai, pudesse oiá\n\nGONZAGA, L.; TEIXEIRA, H. Disponível em: www.luizgonzaga.mus.br. Acesso em: 30 jul. 2012 (fragmento).\n\nAs marcas da variedade regional registradas pelos compositores de _Assum preto_ resultam da aplicação de um conjunto de princípios ou regras gerais que alteram a pronúncia, a morfologia, a sintaxe ou o léxico.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No texto, é resultado de uma mesma regra a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pronúncia das palavras \"vorta\" e \"veve\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pronúncia das palavras \"tarvez\" e \"sorto\".",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Flexão verbal encontrada em \"furaro\" e \"cantá\".",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Redundância nas expressões \"cego dos óio\" e \"mata em frô\"",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pronúncia das palavras \"ignorança\" e \"avuá\".",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

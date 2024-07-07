@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2011",
+    "index": 177,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/177/3c240114-2bf9-4fc0-a3a7-2c480b27b238.png)",
+    "files": [
+        "https://enem.dev/2011/questions/177/3c240114-2bf9-4fc0-a3a7-2c480b27b238.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para escolher o investimento com a maior rentabilidade anual, essa pessoa deverá",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

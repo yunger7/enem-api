@@ -1,0 +1,48 @@
+{
+    "title": "Questão 152 - ENEM 2023",
+    "index": 152,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo ![](https://enem.dev/2023/questions/152/30b0ee85-ac44-4eca-a7c9-54bd70f9c069.png), _I_ a intensidade do som e ![](https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png).\n\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\n\nQuando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  \nUma nova máquina, com ![](https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png), foi adquirida e será classificada de acordo com o nível de ruído que produz.  \nConsidere 0,3 como aproximação para ![](https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png).",
+    "files": [
+        "https://enem.dev/2023/questions/152/30b0ee85-ac44-4eca-a7c9-54bd70f9c069.png",
+        "https://enem.dev/2023/questions/152/40f43a4f-f8da-44a9-a02c-f20ba89a48ce.png",
+        "https://enem.dev/2023/questions/152/13f26008-1dcf-404f-b3cf-aae104a036c1.png",
+        "https://enem.dev/2023/questions/152/717fdd2f-5eef-48c9-9211-8f62bdb2639c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O funcionário que operará a nova máquina deverá adotar a medida preventiva",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

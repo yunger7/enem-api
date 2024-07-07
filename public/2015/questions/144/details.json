@@ -1,0 +1,46 @@
+{
+    "title": "Questão 144 - ENEM 2015",
+    "index": 144,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/144/4b656609-56fc-45a4-8e34-a4c7e0bb8513.png)\n\nVisando atender as orientações do Comitê Central da Federação Internacional de Basquete (Fiba) em 2010, que unificou as marcações das diversas ligas, foi prevista uma modificação nos garrafões das quadras, que passariam a ser retângulos, como mostra o Esquema II.\n\n![](https://enem.dev/2015/questions/144/c4aff79b-17b7-4a0e-86ce-a00808954ddc.png)",
+    "files": [
+        "https://enem.dev/2015/questions/144/4b656609-56fc-45a4-8e34-a4c7e0bb8513.png",
+        "https://enem.dev/2015/questions/144/c4aff79b-17b7-4a0e-86ce-a00808954ddc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após executdas as modificações previstas, houve uma alteração na área ocupada por cada garrafão, que corresponde a um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento de 5 800 cm².",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aumento de 75 400 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento de 214 600 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição de 63 800 cm².",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuição de 272 600 cm².",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

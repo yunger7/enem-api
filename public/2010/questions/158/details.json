@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2010",
+    "index": 158,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/158/20a4e763-d72c-4908-8b20-59443e8b7e9f.jpg)\n\nUm técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de  \nduas espécies diferentes, sendo\n\n• 3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m³;  \n• 2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m³.",
+    "files": [
+        "https://enem.dev/2010/questions/158/20a4e763-d72c-4908-8b20-59443e8b7e9f.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "29,9 toneladas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "31,1 toneladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "32,4 toneladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35,3 toneladas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "41,8 toneladas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

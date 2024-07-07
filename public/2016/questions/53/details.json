@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2016",
+    "index": 53,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/53/f5c532a3-9d64-4230-bdb5-98b3db576752.jpg)",
+    "files": [
+        "https://enem.dev/2016/questions/53/f5c532a3-9d64-4230-bdb5-98b3db576752.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A glicose seja convertida em sacarose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As enzimas dessa planta sejam ativadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A maceração favoreçа a solubilização em águа.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O amido seja transformado em substratos utilizáveis pela levedura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Os grãos com diferentes composições químicas sejam padronizados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

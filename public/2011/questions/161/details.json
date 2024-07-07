@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2011",
+    "index": 161,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km² de área. Quando não chove, o homem do sertão e dua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo.\n\nDisponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km², é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "250.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,025.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

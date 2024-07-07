@@ -1,0 +1,46 @@
+{
+    "title": "Questão 147 - ENEM 2009",
+    "index": 147,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As figuras a seguir exibem um trecho de um quebra-cabeças que está sendo montado. Observe que as peças são quadradas e há 8 peças no tabuleiro da figura A e 8 peças no tabuleiro da figura B. As peças são retiradas do tabuleiro da figura B e colocadas no tabuleiro da figura A na posição correta, isto é, de modo a completar os desenhos.\n\n![](https://enem.dev/2009/questions/147/2540b2c3-868a-4e6d-bf25-edf78475b995.jpg)\n\n![](https://enem.dev/2009/questions/147/ce96a139-05bf-4b25-a3fc-eab46adf80f1.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/147/2540b2c3-868a-4e6d-bf25-edf78475b995.jpg",
+        "https://enem.dev/2009/questions/147/ce96a139-05bf-4b25-a3fc-eab46adf80f1.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "É possível preencher corretamente o espaço indicado pela seta no tabuleiro da figura A colocando a peça",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 após girá-la 90° no sentido horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 após girá-la 180° no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 após girá-la 90° no sentido anti-horário.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 após girá-la 180° no sentido horário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 após girá-la 270° no sentido anti-horário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2009",
+    "index": 171,
+    "year": 2009,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A população brasileira sabe, pelo menos intuitivamente, que a probabilidade de acertar as seis dezenas da mega sena não é zero, mas é quase. Mesmo assim, milhões de pessoas são atraídas por essa loteria, especialmente quando o prêmio se acumula em valores altos. Até junho de 2009, cada aposta de seis dezenas, pertencentes ao conjunto {01, 02, 03, …, 59, 60}, custava R$ 1,50.\n\nDisponível em: www.caixa.gov.br. Acesso em: 7 jul. 2009.\n\nConsidere que uma pessoa decida apostar exatamente R$ 126,00 e que esteja mais interessada em acertar apenas cinco das seis dezenas da mega sena, justamente pela dificuldade desta última.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse caso, é melhor que essa pessoa faça 84 apostas de seis dezenas diferentes, que não tenham cinco números em comum, do que uma única aposta com nove dezenas, porque a probabilidade de acertar a quina no segundo caso em relação ao primeiro é, aproximadamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 1/2 vez menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 1/2 vezes menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 vezes menor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9 vezes menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "14 vezes menor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

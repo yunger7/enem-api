@@ -1,0 +1,45 @@
+{
+    "title": "Questão 6 - ENEM 2011",
+    "index": 6,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/6/01d48357-ec3c-4b7f-8b7a-716414cef478.jpg)\n\nTEIXEIRA, W. et al. **Decifrando a Terra.** São Paulo: Nacional, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2011/questions/6/01d48357-ec3c-4b7f-8b7a-716414cef478.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O gráfico relaciona diversas variáveis ao processo de formação do solo. A interpretação dos dados mostra que a água é um dos importantes fatores de pedogênese, pois nas áreas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De clima temperado ocorrem alta pluviosidade e grande profundidade de solos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tropicais ocorre menor pluviosidade, o que se relaciona com a menor profundidade das rochas inalteradas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "De latitudes em torno de 30° ocorrem as maiores profundidades de solo, visto que há maior umidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tropicais a profundidade do solo é menor, o que evidencia menor intemperismo químico da água sobre as rochas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "De menor latitude ocorrem as maiores precipitações, assim como a maior profundidade dos solos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

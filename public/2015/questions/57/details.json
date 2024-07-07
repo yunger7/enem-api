@@ -1,0 +1,43 @@
+{
+    "title": "Questão 57 - ENEM 2015",
+    "index": 57,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ar atmosférico pode ser utilizado para armazenar o excedente de energia gerada no sistema elétrico, diminuindo seu desperdício, por meio do seguinte processo: água e gás carbônico são inicialmente removidos do ar atmosférico e a massa de ar restante é resfriada ate -198°C. Presente na proporção de 78% dessa massa de ar, o nitrogênio gasoso é liquefeito, ocupando um volume 700 vezes menor. A energia excedente do sistema elétrico é utilizada nesse processo, sendo parcialmente recuperada quando o nitrogênio líquido, exposto à temperatura ambiente, entra em ebulição e se expande, fazendo girar turbinas que convertem energia mecânica em energia elétrica.\n\nMACHADO, R. Disponível em: www.correiobraziliense.com.br. Acesso em: 9 set. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No processo descrito, o excedente de energia elétrica é armazenado pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expansão do nitrogênio durante a ebulição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Absorção de calor pelo nitrogênio durante a ebulição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Realização de trabalho sobre o nitrogênio durante a liquefação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Retirada de água e gás carbônico da atmosfera antes do resfriamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Liberação de calor do nitrogênio para a vizinhança durante a liquefação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

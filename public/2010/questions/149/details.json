@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2010",
+    "index": 149,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/149/fce5e898-1709-4341-8000-c3333ad9289b.png)",
+    "files": [
+        "https://enem.dev/2010/questions/149/fce5e898-1709-4341-8000-c3333ad9289b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Que expressão fornece a quantidade de quadrados de cada figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C = 4Q",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C = 3Q + 1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "C = 4Q + 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C = Q + 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C = 4Q – 2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

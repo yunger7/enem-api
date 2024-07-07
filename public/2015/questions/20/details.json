@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2015",
+    "index": 20,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividi-lo!\n\nDiscurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937. Apud OLIVEN, G. R. **A parte e o todo**: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Supressão das diferenças socioeconomicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

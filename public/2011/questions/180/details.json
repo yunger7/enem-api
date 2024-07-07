@@ -1,0 +1,37 @@
+{
+    "title": "Questão 180 - ENEM 2011",
+    "index": 180,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade _q_ de produtos é dado por uma função, simbolizada por CT, enquanto o faturamento que a empresa obtém com a venda da quantidade _q_ também é uma função, simbolizada por FT. O lucro total (LT) obtido pela venda da quantidade q de produtos é dado pela expressão LT(q) = FT(q) – CT(q).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2019",
+    "index": 111,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual, tal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5kg de uma altura de 5m, cujo impacto contra um capacete pode durar até 0,5s, resulta em uma força impulsiva média maior do que o peso do tijolo. Suponha que a aceleração gravitacional seja 10 m s–2 e que o efeito de resistência do ar seja desprezível.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A força impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

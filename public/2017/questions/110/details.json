@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2017",
+    "index": 110,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Fusível é um dispositivo de proteção contra sobrecorrente em circuitos. Quando a corrente que passa por esse componente elétrico é maior que sua máxima corrente nominal, o fusível queima. Dessa forma, evita que a corrente elevada danifique os aparelhos do circuito. Suponha que o circuito elétrico mostrado seja alimentado por uma fonte de tensão U e que o fusível suporte uma corrente nominal de 500 mA.\n\n![](https://enem.dev/2017/questions/110/eb184743-fe6a-4dd1-9f70-81a4885f121f.jpg)",
+    "files": [
+        "https://enem.dev/2017/questions/110/eb184743-fe6a-4dd1-9f70-81a4885f121f.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é o máximo valor da tensão U para que o fusível não queime?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20 V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "40 V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60 V",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120 V",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "185 V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

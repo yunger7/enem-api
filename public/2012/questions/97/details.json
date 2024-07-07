@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2012",
+    "index": 97,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/97/d2cbf9da-51c9-46aa-af58-bcc2e998418d.png)\n\nDisponível em: www.assine.abril.com.br. Acesso em: 29 fev. 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2012/questions/97/d2cbf9da-51c9-46aa-af58-bcc2e998418d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com o advento da internet, as versões de revistas e livros também se adaptaram às novas tecnologias. A análise do texto publicitário apresentado revela que o surgimento das novas tecnologias",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Proporcionou mudanças no paradigma de consumo e oferta de revistas e livros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Incentivou a desvalorização das revistas e livros impressos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Viabilizou a aquisição de novos equipamentos digitais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aqueceu o mercado de venda de computadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Diminuiu os incentivos à compra de eletrônicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

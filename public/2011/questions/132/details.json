@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2011",
+    "index": 132,
+    "year": 2011,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Palavra indígena**\n\n_A história da tribo Sapucaí, que traduziu para o idioma guarani os artefatos da era da computação que ganharam importância em sua vida, como mouse (que eles chamam de angojhá) e windows (oventã)_\n\nQuando a internet chegou àquela comunidade, que abriga em torno de 400 guaranis, há quatro anos, por meio de um projeto do Comitê para Democratização da Informática (CDI), em parceria com a ONG Rede Povos da Floresta e com antena cedida pela _Star One_ (da Embratel), Potty e sua aldeia logo vislumbraram as possibilidades de comunicação que a _web_ traz.\n\nEle conta que usam a rede, por enquanto, somente para preparação e envio de documentos, mas perceberam que ela pode ajudar na preservação da cultura indígena.\n\nA apropriação da rede se deu de forma gradual, mas os guaranis já incorporaram a novidade tecnológica ao seu estilo de vida. A importância da internet e da computação para eles está expressa num caso de rara incorporação: a do vocabulário.\n\n— Um dia, o cacique da aldeia Sapucaí me ligou. “A gente não está querendo chamar computador de “computador”. Sugeri a eles que criassem uma palavra em guarani. E criaram _aiú irú rive_, “caixa pra acumular a língua”. Nós, brancos, usamos _mouse_, w_indows_ e outros termos, que eles começaram a adaptar para o idioma deles, como _angojhá_ (rato) e _oventã_ (janela) — conta Rodrigo Baggio, diretor do CDI.\n\nDisponível em: http://www.revistalingua.uol.com.br. Acesso em: 22 jul. 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O uso das novas tecnologias de informação e comunicação fez surgir uma série de novos termos que foram acolhidos na sociedade brasileira em sua forma original, como: mouse, windows, download, site, homepage, entre outros. O texto trata da adaptação de termos da informática à língua indígena como uma reação da tribo Sapucaí, o que revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A possibilidade que o índio Potty vislumbrou em relação à comunicação que a web pode trazer a seu povo e à facilidade no envio de documentos e na conversação em tempo real.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O uso da internet para preparação e envio de documentos, bem como a contribuição para as atividades relacionadas aos trabalhos da cultura indígena.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A preservação da identidade, demonstrada pela conservação do idioma, mesmo com a utilização de novas tecnologias características da cultura de outros grupos sociais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Adesão ao projeto do Comitê para Democratização da Informática (CDI), que, em parceria com a ONG Rede Povos da Floresta, possibilitou o acesso à web, mesmo em ambiente inóspito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A apropriação da nova tecnologia de forma gradual, evidente quando os guaranis incorporaram a novidade tecnológica ao seu estilo de vida com a possibilidade de acesso à internet.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

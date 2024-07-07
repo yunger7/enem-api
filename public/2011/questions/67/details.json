@@ -1,0 +1,45 @@
+{
+    "title": "Questão 67 - ENEM 2011",
+    "index": 67,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/67/d4a36c5d-d463-4d5e-b3ea-6d15979b80fb.png)",
+    "files": [
+        "https://enem.dev/2011/questions/67/d4a36c5d-d463-4d5e-b3ea-6d15979b80fb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com as curvas de assinatura espectral apresenta na figura, para que se obtenha a melhor discriminação dos alvos mostrados, convém selecionar a banda correspondente a que comprimento de onda em micrômetros (µm)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,4 a 0,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,5 a 0,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,6 a 0,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,7 a 0,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,8 a 0,9.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2022",
+    "index": 112,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições:\n\n• O ângulo máximo atingido pelo balanço em relação  \nà vertical é igual a 90°;\n\n• Os filhos utilizarão o balanço até que tenham uma  \nmassa de 24 kg.\n\nAlém disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10  m/s² se despreza forças dissipativas.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a tensão de ruptura da corda escolhida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "120 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "300 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "360 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "450 N",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "900 N",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

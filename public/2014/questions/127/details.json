@@ -1,0 +1,45 @@
+{
+    "title": "Questão 127 - ENEM 2014",
+    "index": 127,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2014/questions/127/96f0d3f9-7155-487a-b274-c39876e88293.jpg)\n\n**Jornal Zero Hora**, 2 mar. 2006.",
+    "files": [
+        "https://enem.dev/2014/questions/127/96f0d3f9-7155-487a-b274-c39876e88293.jpg"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na criação do texto, o chargista Iotti usa criativamente um intertexto: os traços reconstroem uma cena de Guernica, painel de Pablo Picasso que retrata os horrores e a destruição provocados pelo bombardeio a uma pequena cidade da Espanha. Na charge, publicada no período de carnaval, recebe destaque a figura do carro, elemento introduzido por lotti no intertexto. Além dessa figura, a linguagem verbal contribui para estabelecer um diálogo entre a obra de Picasso e a charge, ao explorar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Uma referência ao contexto, “trânsito no feriadão”, esclarecendo-se o referente tanto do texto de Iotti quanto da obra de Picasso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Uma referência ao tempo presente, com o emprego da forma verbal “é”, evidenciando-se a atualidade do tema abordado tanto pelo pintor espanhol quanto pelo chargista brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Um termo pejorativo, “trânsito”, reforçando-se a imagem negativa de mundo caótico presente tanto em Guernica quanto na charge.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Uma referência temporal, “sempre”, referindo-se à permanência de tragédias retratadas tanto em Guernica quanto na charge.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uma expressão polissêmica, “quadro dramático”, remetendo-se tanto à obra pictórica quanto ao contexto do trânsito brasileiro.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

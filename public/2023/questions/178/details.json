@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2023",
+    "index": 178,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Estudantes trabalhando com robótica criaram uma “torneira inteligente” que automatiza sua abertura e seu fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (_t_), em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo (t), em segundo, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/178/ad5cc202-0c4f-44fb-aa1a-ec86c2f86da4.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/178/c3b0946f-0e59-4928-858d-3f0a8887fb80.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/178/f9e8ae9f-c9d6-4b83-9376-55b5ecba8a38.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/178/46326c50-0f0b-42cf-a1d5-65299d39a4fd.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/178/7ebc0f53-95db-497b-bc23-30cf64649c3a.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 64 - ENEM 2015",
+    "index": 64,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s.\n\nDisponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Supondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,4 x 10² J.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,5 x 10³ J.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8,6 x 10³ J.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,3 x 104 J.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,2 x 104 J.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

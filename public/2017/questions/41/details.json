@@ -1,0 +1,45 @@
+{
+    "title": "Questão 41 - ENEM 2017",
+    "index": 41,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2017/questions/41/6947db40-b30c-4455-afa0-b713f578c798.png)\n\nRevista Bolsa, 1986. In: CARRASCOZA, J. A. **A evolução do texto publicitário**: a associação de palavras como elemento de sedução na publicidade. São Paulo: Futura, 1999 (adaptado).",
+    "files": [
+        "https://enem.dev/2017/questions/41/6947db40-b30c-4455-afa0-b713f578c798.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse cartaz publicitário de uma empresa de papel e celulose, a combinação dos elementos verbais e não verbais visa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Justificar os prejuízos ao meio ambiente, ao vincular a empresa à difusão da cultura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incentivar a leitura de obras literárias, ao referir-se a títulos consagrados do acervo mundial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Seduzir o consumidor, ao relacionar o anunciante às histórias clássicas da literatura universal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promover uma reflexão sobre a preservação ambiental ao aliar o desmatamento aos clássicos da literatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Construir uma imagem positiva do anunciante, ao associar a exploração alegadamente sustentável à produção de livros.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

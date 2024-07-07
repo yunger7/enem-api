@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2014",
+    "index": 165,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/165/b6b29eae-3d2d-447e-8ebf-a7e7c23b4e8f.png)\n\nAs medições de velocidade deixariam de ocorrer de maneira instantânea, ao se passar pelo radar, e seriam feitas a partir da velocidade média no trecho, considerando o tempo gasto no percurso entre um radar e outro. Sabe-se que a velocidade média é calculada como sendo a razão entre a distância percorrida e o tempo gasto para percorrê-la. O teste realizado mostrou que o tempo que permite uma condução segura de deslocamento no percurso entre os dois radares deveria ser de, no mínimo, 1 minuto e 24 segundos. Com isso, a CET precisa instalar uma placa antes do primeiro radar informando a velocidade média máxima permitida nesse trecho da via. O valor a ser exibido na placa deve ser o maior possível, entre os que atendem às condições de condução segura observadas.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 11 jan. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2014/questions/165/b6b29eae-3d2d-447e-8ebf-a7e7c23b4e8f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A placa de sinalização que informa a velocidade que atende a essas condições é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/165/f4a4d1b9-83d7-4a83-947e-98fb97f81fbc.bmp",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/165/37cfc841-1368-4c3e-9518-13619ab55123.bmp",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/165/c18ced6c-5bd6-4ec4-b375-e136f68d1416.bmp",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/165/9fb1f2ca-3cfc-4eb1-83a5-0dd17ccc96cd.bmp",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2014/questions/165/f3c38b54-c09a-429b-ba43-e4e735a5c9f0.bmp",
+            "isCorrect": false
+        }
+    ]
+}

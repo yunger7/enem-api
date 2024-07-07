@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2014",
+    "index": 82,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/82/6b5305c0-7fe2-4433-93e4-bf49a2641968.png)",
+    "files": [
+        "https://enem.dev/2014/questions/82/6b5305c0-7fe2-4433-93e4-bf49a2641968.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Desprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nulo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Paralelo à sua velocidade linear e no mesmo sentido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Paralelo à sua velocidade linear e no sentido oposto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Perpendicular à sua velocidade linear e dirigido para o centro da Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

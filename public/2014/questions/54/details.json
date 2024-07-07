@@ -1,0 +1,45 @@
+{
+    "title": "Questão 54 - ENEM 2014",
+    "index": 54,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2014/questions/54/3da2f565-bc79-400a-89b0-b96ba4968f7e.png)",
+    "files": [
+        "https://enem.dev/2014/questions/54/3da2f565-bc79-400a-89b0-b96ba4968f7e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Milho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Palma.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Canola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Algodão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Amendoim.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

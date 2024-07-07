@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2020",
+    "index": 117,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "“Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.”\n\n(Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012. Adaptado.)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Radioterapia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cromoterapia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Quimioterapia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fotoimunoterapia.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Terapia magnética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

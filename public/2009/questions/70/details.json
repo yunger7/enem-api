@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2009",
+    "index": 70,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O suíço Thomas Davatz chegou a São Paulo em 1855 para trabalhar como colono na fazenda de café Ibicaba, em Campinas. A perspectiva de prosperidade que o atraiu para o Brasil deu lugar a insatisfação e revolta, que ele registrou em livro. Sobre o percurso entre o porto de Santos e o planalto paulista, escreveu Davatz: “As estradas do Brasil, salvo em alguns trechos, são péssimas. Em quase toda parte, falta qualquer espécie de calçamento ou mesmo de saibro. Constam apenas de terra simples, sem nenhum benefício. É fácil prever que nessas estradas não se encontram estalagens e hospedarias como as da Europa. Nas cidades maiores, o viajante pode naturalmente encontrar aposento sofrível; nunca, porém, qualquer coisa de comparável à comodidade que proporciona na Europa qualquer estalagem rural. Tais cidades são, porém, muito poucas na distância que vai de Santos a Ibicaba e que se percorre em cinquenta horas no mínimo”. Em 1867 foi inaugurada a ferrovia ligando Santos a Jundiaí, o que abreviou o tempo de viagem entre o litoral e o planalto para menos de um dia. Nos anos seguintes, foram construídos outros ramais ferroviários que articularam o interior cafeeiro ao porto de exportação, Santos.\n\nDAVATZ, T. **Memórias de um colono no Brasil.** São Paulo: Livraria Martins, 1941 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O impacto das ferrovias na promoção de projetos de colonização com base em imigrantes europeus foi importante, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O percurso dos imigrantes até o interior, antes das ferrovias, era feito a pé ou em muares; no entanto, o tempo de viagem era aceitável, uma vez que o café era plantado nas proximidades da capital, São Paulo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A expansão da malha ferroviária pelo interior de São Paulo permitiu que mão-de-obra estrangeira fosse contratada para trabalhar em cafezais de regiões cada vez mais distantes do porto de Santos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O escoamento da produção de café se viu beneficiado pelos aportes de capital, principalmente de colonos italianos, que desejavam melhorar sua situação econômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os fazendeiros puderam prescindir da mão-de-obra europeia e contrataram trabalhadores brasileiros provenientes de outras regiões para trabalhar em suas plantações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As notícias de terras acessíveis atraíram para São Paulo grande quantidade de imigrantes, que adquiriram vastas propriedades produtivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

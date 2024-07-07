@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2021",
+    "index": 180,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n\n(i) um laboratório do tipo A, com capacidade para 100 usuário, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção;\n\n(ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano.\n\nConsidera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,31 mil reais",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,90 mil reais",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2,30 mil reais",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,36 mil reais",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2,95 mil reais",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

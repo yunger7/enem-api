@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2015",
+    "index": 158,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2015/questions/158/502bd419-a7b2-413c-92e6-01c5fee8ad38.png)\n\nUma enfermeira deve administrar um medicamento X a uma criança inconsciente, cuja dosagem de adulto é de 60 mg. A enfermeira não consegue descobrir onde está registrada a idade da criança no prontuário, mas identifica que, algumas horas antes, foi administrada a ela uma dose de 14 mg de um medicamento Y, cuja dosagem de adulto é 42 mg. Sabe-se que a dose da medicação Y administrada à criança estava correta.",
+    "files": [
+        "https://enem.dev/2015/questions/158/502bd419-a7b2-413c-92e6-01c5fee8ad38.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Então, a enfermeira deverá ministrar uma dosagem do medicamento X, em miligramas, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

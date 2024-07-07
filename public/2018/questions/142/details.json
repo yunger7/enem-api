@@ -1,0 +1,47 @@
+{
+    "title": "Questão 142 - ENEM 2018",
+    "index": 142,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional _F_ que a Terra exerce sobre um satélite em órbita circular é proporcional à massa _m_ do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja,\n\n![](https://enem.dev/2018/questions/142/dc1a457c-9fe4-4646-b999-1da5174f0402.png)\n\nNo plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m ; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra.\n\n![](https://enem.dev/2018/questions/142/e0273eee-f427-4e03-8aba-d467449a753c.png)\n\nCom base nas posições relativas dos pontos no gráfico, deseja-se comparar as intensidades ![](https://enem.dev/2018/questions/142/d3968814-fa4b-40eb-921d-9b874a4e1392.png) da força gravitacional que a Terra exerce sobre os satélites A, B e C, respectivamente.",
+    "files": [
+        "https://enem.dev/2018/questions/142/dc1a457c-9fe4-4646-b999-1da5174f0402.png",
+        "https://enem.dev/2018/questions/142/e0273eee-f427-4e03-8aba-d467449a753c.png",
+        "https://enem.dev/2018/questions/142/d3968814-fa4b-40eb-921d-9b874a4e1392.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As intensidades  expressas no gráfico satisfazem a relação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/142/993e8313-806c-473d-8428-0b3492e00ac1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/142/195a22d0-866c-4e0e-8f3c-a7a8ba722a6f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/142/60ef05e0-6434-4896-a3ac-8b276be82837.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/142/afd76d6b-e678-477b-ac84-be18a9bfb155.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/142/1f581f02-617c-46ec-8e9d-dca345861942.png",
+            "isCorrect": true
+        }
+    ]
+}

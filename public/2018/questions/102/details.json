@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2018",
+    "index": 102,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sulfeto de mercúrio(ll) foi usado como pigmento vermelho para pinturas de quadros e murais. Esse pigmento, conhecido como _vermilion_, escurece com o passar dos anos, fenômeno cuja origem é alvo de pesquisas. Aventou-se a hipótese de que o _vermilion_ seja decomposto sob a ação da luz, produzindo uma fina camada de mercúrio metálico na superfície. Essa reação seria catalisada por íon cloreto presente na umidade do ar\n\nWOGAN, T. **Mercury’s Dark Influence on Art.** Disponível em: www.chemistryworld.com. Acesso em: 26 abr. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo a hipótese proposta, o íon cloreto atua na decomposição fotoquímica do vermilion",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reagindo como agente oxidante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Deslocando o equilíbrio químico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminuindo a energia de ativação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Precipitando cloreto de mercúrio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Absorvendo a energia da luz visível.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2022",
+    "index": 154,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja,  \nforam criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.\n\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16 514.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "86 700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "115 600.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "441 343.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "448 568.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

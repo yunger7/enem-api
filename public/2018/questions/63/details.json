@@ -1,0 +1,45 @@
+{
+    "title": "Questão 63 - ENEM 2018",
+    "index": 63,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2018/questions/63/888e599a-8ed5-4860-8751-5dd9a2be81ab.png)",
+    "files": [
+        "https://enem.dev/2018/questions/63/888e599a-8ed5-4860-8751-5dd9a2be81ab.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cobertura vegetal com porte arbóreo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Barreiras orográficas com altitudes elevadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pressão atmosférica com diferença acentuada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Superfície continental com refletividade intensa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Correntes marinhas com direções convergentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

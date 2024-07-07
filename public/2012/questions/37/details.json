@@ -1,0 +1,43 @@
+{
+    "title": "Questão 37 - ENEM 2012",
+    "index": 37,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As plataformas ou crátons correspondem aos terrenos mais antigos e arrasados por muitas fases de erosão. Apresentam uma grande complexidade litológica, prevalecendo as rochas metamórficas muito antigas (Pré-Cambriano Médio e Inferior). Também ocorrem rochas intrusivas antigas e resíduos de rochas sedimentares. São três as áreas de plataforma de crátons no Brasil: a das Guianas, a Sul-Amazônica e a do São Francisco.\n\nROSS, J. L. S. **Geografia do Brasil**. São Paulo: Edusp, 1998.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As regiões cratônicas das Guianas e a Sul-Amazônica têm como arcabouço geológico vastas extensões de escudos cristalinos, ricos em minérios, que atraíram a ação de empresas nacionais e estrangeiras do setor de mineração e destacam-se pela sua história geológica por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apresentarem áreas de intrusões graníticas, ricas em jazidas minerais (ferro, manganês).",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Corresponderem ao principal evento geológico do Cenozoico no território brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apresentarem áreas arrasadas pela erosão, que originaram a maior planície do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Possuírem em sua extensão terrenos cristalinos ricos em reservas de petróleo e gás natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Serem esculpidas pela ação do intemperismo físico, decorrente da variação de temperatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

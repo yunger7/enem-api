@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2016",
+    "index": 180,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png)\n\nsendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.",
+    "files": [
+        "https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a relação entre E1 e E2?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "E1 = E2 + 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "E1 = 10².E2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "E1 = 10³.E2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "E1 = 109/7.E2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E1 = 9/7.E2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

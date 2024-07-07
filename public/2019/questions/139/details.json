@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2019",
+    "index": 139,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.\n\n**•** Faixa 1: para consumo de até 6 m², valor fixo de R$12,00;\n\n**•** Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6m³;\n\n**•** Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³. Sabe-se que nessa cidade o consumo máximo de água por residência é de 15 m² por mês.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido, em metro cúbico, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/139/de1f40fe-ace0-453b-8b47-506e0bbd1e76.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/139/498952c5-4133-4895-a958-a5bb5a11da9b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/139/2b93a78d-1ed0-42e1-ba89-342c53c8aed2.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/139/fd969b0c-70d7-4e15-b7c7-ebb4b413b6fe.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2019/questions/139/8ebb5528-ddb8-4a6a-b8e7-c15a497c088c.png",
+            "isCorrect": false
+        }
+    ]
+}

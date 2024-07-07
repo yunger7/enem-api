@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2010",
+    "index": 4,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os lixões são o pior tipo de disposição final dos resíduos sólidos de uma cidade, representando um grave problema ambiental e de saúde pública. Nesses locais, o lixo é jogado diretamente no solo e a céu aberto, sem nenhuma norma de controle, o que causa, entre outros problemas, a contaminação do solo e das águas pelo chorume (líquido escuro com alta carga poluidora, proveniente da decomposição da matéria orgânica presente no lixo).\n\nRICARDO, B.; CANPANILLI, M. **Almanaque Brasil**  \n**Socioambiental 2008.**  \nSão Paulo, Instituto Socioambiental, 2007.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considere um município que deposita os resíduos sólidos produzidos por sua população em um lixão. Esse procedimento é considerado um problema de saúde pública porque os lixões",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Causam problemas respiratórios, devido ao mau cheiro que provém da decomposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "São locais propícios à proliferação de vetores de doenças, além de contaminarem o solo e as águas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Provocam o fenômeno da chuva ácida, devido aos gases oriundos da decomposição da matéria orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "São instalados próximos ao centro das cidades, afetando toda a população que circula diariamente na área.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "São responsáveis pelo desaparecimento das nascentes na região onde são instalados, o que leva à escassez de água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

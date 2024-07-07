@@ -1,0 +1,49 @@
+{
+    "title": "Questão 156 - ENEM 2021",
+    "index": 156,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição _P_ (em cm) da massa m em função do tempo _t_ (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ![](https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png) ou P(t) = ![](https://enem.dev/2021/questions/156/86b2ce7b-d131-40db-9629-e618470679c7.png), em que A>0 é a amplitude de deslocamento máximo e ![](https://enem.dev/2021/questions/156/f1cfe3fa-6396-47ed-b60b-48d48194225e.png) é a frequência, que se relaciona com o período T pela fórmula ![](https://enem.dev/2021/questions/156/38bd8acb-9ed5-402c-a6df-271fb1614213.png).\n\nConsidere a ausência de quaisquer forças dissipativas.\n\n![](https://enem.dev/2021/questions/156/9e69ba46-7bc0-40c9-b81e-bdae664b1ae1.png)",
+    "files": [
+        "https://enem.dev/2021/questions/156/22072ec1-3b3b-4ad6-a4b6-dffd6253a376.png",
+        "https://enem.dev/2021/questions/156/86b2ce7b-d131-40db-9629-e618470679c7.png",
+        "https://enem.dev/2021/questions/156/f1cfe3fa-6396-47ed-b60b-48d48194225e.png",
+        "https://enem.dev/2021/questions/156/38bd8acb-9ed5-402c-a6df-271fb1614213.png",
+        "https://enem.dev/2021/questions/156/9e69ba46-7bc0-40c9-b81e-bdae664b1ae1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "-3 cos (2t)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "-3 sen (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "-6 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 cos (2t)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

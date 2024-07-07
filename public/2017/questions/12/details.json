@@ -1,0 +1,43 @@
+{
+    "title": "Questão 12 - ENEM 2017",
+    "index": 12,
+    "year": 2017,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**A língua tupi no Brasil**\n\nHá 300 anos, morar na vila de São Paulo de Piratininga (peixe seco, em tupi) era quase sinônimo de falar língua de índio. Em cada cinco habitantes da cidade, só dois conheciam o português. Por isso, em 1698, o governador da província, Artur de Sá e Meneses, implorou a Portugal que só mandasse padres que soubessem “a língua geral dos índios”, pois “aquela gente não se explica em outro idioma”.\n\nDerivado do dialeto de São Vicente, o tupi de São Paulo se desenvolveu e se espalhou no século XVII, graças ao isolamento geográfico da cidade e à atividade pouco cristã dos mamelucos paulistas: as bandeiras, expedições ao Sertão em busca de escravos índios. Muitos bandeirantes nem sequer falavam o português ou se expressavam mal. Domingos Jorge Velho, o paulista que destruiu o Ouilombo dos Palmares em 1694, foi descrito pelo bispo de Pernambuco como “um bárbaro que nem falar sabe”. Em suas andanças, essa gente batizou lugares como Avanhandava (lugar onde o índio corre), Pindamonhangaba (lugar de fazer anzol) e Itu (cachoeira). E acabou inventando uma nova língua. “\n\nOs escravos dos bandeirantes vinham de mais de 100 tribos diferentes”, conta o historiador e antropólogo John Monteiro, da Universidade Estadual de Campinas. “Isso mudou o tupi paulista, que, além da influência do português, ainda recebia palavras de outros idiomas.” O resultado da mistura ficou conhecido como língua geral do sul, uma espécie de tupi facilitado.\n\nÂNGELO, C. Disponível em: <http://super.abril.com.br>. Acesso em: 8 ago. 2012. (Adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O texto trata de aspectos sócio-históricos da formação linguística nacional. Ouanto ao papel do tupinaformação do português brasileiro, depreende-se que essa língua indígena",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Contribuiu efetivamente para o léxico, com nomes relativos aos traços característicos dos lugares designados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Originou o português falado em São Paulo no século XVII, em cuja base gramatical também está a fala de variadas etnias indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Desenvolveu-se sob influência dos trabalhos de catequese dos padres portugueses, vindos de Lisboa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Misturou-se aos falares africanos, em razão das interações entre portugueses e negros nas investidas contra o Ouilombo dos Palmares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expandiu-se paralelamente ao português falado pelo colonizador, e juntos originaram a língua dos bandeirantes paulistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

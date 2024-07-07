@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2023",
+    "index": 61,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Por trás da “mágica” do Google Assistant de sua capacidade de interpretar 26 idiomas está uma enorme equipe de linguistas distribuídos globalmente, trabalhando como subcontratados, que devem rotular tediosamente os dados de treinamento para que funcione. Eles ganham baixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não funciona como um pozinho mágico. Ela funciona por meio de trabalhadores que treinam algoritmos incansavelmente até que eles automatizem seus próprios trabalhos.\n\n**A Inteligência Artificial (IA) da economia freelancer está vindo atrás de você**. Disponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto critica a mudança tecnológica em razão da seguinte consequência:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diversificação da função.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mobilidade da população.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Autonomia do empregado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Concentração da produção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Invisibilidade do profissional.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

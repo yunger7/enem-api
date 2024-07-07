@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2015",
+    "index": 171,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Utilize 3,0 como aproximação para π.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O índice pluviométrico da região, durante o período do temporal, em milímetros, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "32,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "108,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "324,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2013",
+    "index": 123,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Para Carr, internet atua no comércio da distração**\n\n_Autor de “A Geração Superficial” analisa a influência da tecnologia na mente_\n\nO jornalista americano Nicholas Carr acredita que a internet não estimula a inteligência de ninguém. O autor explica descobertas científicas sobre o funcionamento do cérebro humano e teoriza sobre a influência da internet em nossa forma de pensar.  \nPara ele, a rede torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.  \nMais: Carr afirma que há empresas obtendo lucro com a recente fragilidade de nossa atenção. “Quanto mais tempo passamos _on-line_ e quanto mais rápido passamos de uma informação para a outra, mais dinheiro as empresas de internet fazem”, avalia.  \n“Essas empresas estão no comércio da distração e são _experts_ em nos manter cada vez mais famintos por informação fragmentada em partes pequenas. É claro que elas têm interesse em nos estimular e tirar vantagem da nossa compulsão por tecnologia.”\n\nROXO, E. **Folha de S. Paulo**, 18 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A crítica do jornalista norte-americano que justifica o título do texto é a de que a internet",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mantém os usuários cada vez menos preocupados com a qualidade da informação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Desestimula a inteligência, de acordo com descobertas científicas sobre o cérebro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Influencia nossa forma de pensar com a superficialidade dos meios eletrônicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Garante a empresas a obtenção de mais lucro com a recente fragilidade de nossa atenção.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

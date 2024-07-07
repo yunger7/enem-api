@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2020",
+    "index": 125,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma população encontra-se em equilíbrio genético  \nquanto ao sistema ABO, em que 25% dos indivíduos  \npertencem ao grupo O e 16%, ao grupo A homozigotos.  \nConsiderando que: p = frequência de 1A; q = frequência  \nde IB; e r = frequência de i, espera-se encontrar:\n\n![](https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png)",
+    "files": [
+        "https://enem.dev/2020/questions/125/205529ca-6e5b-49db-880c-6060fec53a4d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A porcentagem de doadores compatíveis para alguém do\ngrupo B nessa população deve ser de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "19%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "26%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "36%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "60%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

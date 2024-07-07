@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2016",
+    "index": 150,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma expressão que fornece o custo para revestir uma parede de área A (em metro quadrado), situada a D metros da fonte sonora, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/150/d98b4a6b-0f17-4c11-a265-5d349d907c4e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/150/5eb36277-7f4b-4c1d-a3fd-68a26c9401e5.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/150/7ee2ec8a-740e-4cf4-a8da-b1e661261059.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/150/ba2ff490-2587-496a-9dce-5f8ea60661bd.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2016/questions/150/9eebb46b-522f-45a2-96f3-469420638079.png",
+            "isCorrect": false
+        }
+    ]
+}

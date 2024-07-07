@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2014",
+    "index": 147,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2014/questions/147/7d03f38b-d6bf-4e4a-821c-ff2c6d13f8e0.png)",
+    "files": [
+        "https://enem.dev/2014/questions/147/7d03f38b-d6bf-4e4a-821c-ff2c6d13f8e0.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A quantidade máxima de triângulos não congruentes dois a dois que podem ser construídos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

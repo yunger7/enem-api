@@ -1,0 +1,45 @@
+{
+    "title": "Questão 111 - ENEM 2023",
+    "index": 111,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2023/questions/111/9ae85aec-1b17-4ee7-afd9-e9cf17101aca.png)\n\nSOUSA. M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado)",
+    "files": [
+        "https://enem.dev/2023/questions/111/9ae85aec-1b17-4ee7-afd9-e9cf17101aca.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.\nNa prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Altura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Período.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Amplitude.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Comprimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

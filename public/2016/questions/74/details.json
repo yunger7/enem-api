@@ -1,0 +1,45 @@
+{
+    "title": "Questão 74 - ENEM 2016",
+    "index": 74,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2016/questions/74/de112a65-c255-4b68-956d-be2ec557351d.png)",
+    "files": [
+        "https://enem.dev/2016/questions/74/de112a65-c255-4b68-956d-be2ec557351d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O técnico concluiu que as correntes que apresentam o mesmo valor são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "IA = IE e IC = ID.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "IA = IB = IE e IC = ID.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IA = IB, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IA = IB = IE, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IC = IB, apenas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 13 - ENEM 2010",
+    "index": 13,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As secas e o apelo econômico da borracha — produto que no final do século XIX alcançava preços altos nos mercados internacionais — motivaram a movimentação de massas humanas oriundas do Nordeste do Brasil para o Acre. Entretanto, até o início do século XX, essa região pertencia à Bolívia, embora a maioria da sua população fosse brasileira e não obedecesse à autoridade boliviana.\n\nPara reagir à presença de brasileiros, o governo de La Paz negociou o arrendamento da região a uma entidade internacional, o Bolivian Syndicate, iniciando violentas disputas dos dois lados da fronteira. O conflito só terminou em 1903, com a assinatura do Tratado de Petrópolis, pelo qual o Brasil comprou o território por 2 milhões de libras esterlinas.\n\nDISPONÍVEL em: www.mre.gov.br.  Acesso em: 03 nov. 2008 (adaptado)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Compreendendo o contexto em que ocorreram os fatos apresentados, o Acre tornou-se parte do território nacional brasileiro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pela formalização do Tratado de Petrópolis, que indenizava o Brasil pela sua anexação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Por meio do auxílio do Bolivian Syndicate aos emigrantes brasileiros na região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Devido à crescente emigração de brasileiros que exploravam os seringais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Em função da presença de inúmeros imigrantes estrangeiros na região.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pela indenização que os emigrantes brasileiros pagaram à Bolívia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

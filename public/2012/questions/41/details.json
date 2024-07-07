@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2012",
+    "index": 41,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Fugindo à luta de classes, a nossa organização sindical tem sido um instrumento de harmonia e de cooperação entre o capital e o trabalho. Não se limitou a um sindicalismo puramente “operário”, que conduziria certamente a luta contra o “patrão”, como aconteceu com outros povos.\n\nFALCÃO, W. Cartas sindicais. In: Boletim do Ministério do Trabalho, Indústria e Comércio. Rio de Janeiro, 10 (85), set. 1941 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse documento oficial, à época do Estado Novo (1937-1945), é apresentada uma concepção de organização sindical que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elimina os conflitos no ambiente das fábricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Limita os direitos associativos do segmento patronal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Orienta a busca do consenso entre trabalhadores e patrões.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Proíbe o registro de estrangeiros nas entidades profissionais do país.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desobriga o Estado quanto aos direitos e deveres da classe trabalhadora.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

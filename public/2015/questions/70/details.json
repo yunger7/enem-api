@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2015",
+    "index": 70,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, _D_, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica _kd_ (do estilingue mais “duro”) é o dobro da constante elástica _Km_ (do estilingue mais “mole”).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A razão entre os alcances Dd  / Dm, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 / 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 / 2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

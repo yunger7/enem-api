@@ -1,0 +1,43 @@
+{
+    "title": "Questão 19 - ENEM 2011",
+    "index": 19,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Art. 92. São excluídos de votar nas Assembleias Paroquiais:\n\nI. Os menores de vinte e cinco anos, nos quais não se compreendam os casados, e Oficiais Militares, que forem maiores de vinte e um anos, os Bacharéis Formados e Clérigos de Ordens Sacras.\n\nIV. Os Religiosos, e quaisquer que vivam em Comunidade claustral.\n\nV. Os que não tiverem de renda líquida anual cem mil réis por bens de raiz, indústria, comércio ou empregos.\n\nConstituição Política do Império do Brasil (1824). Disponível em: https://legislação.planalto.gov.br. Acesso em: 27 abr. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A legislação espelha os conflitos políticos e sociais do contexto histórico de sua formulação. A Constituição de 1824 regulamentou o direito de voto dos “cidadãos brasileiros“ com o objetivo de garantir",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O fim da inspiração liberal sobre a estrutura política brasileira",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A ampliação do direito de voto para maioria dos brasileiros nascidos livres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A concentração de poderes na região produtora de café, o Sudeste brasileiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O controle do poder político nas mãos dos grandes proprietários e comerciantes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A diminuição da interferência da Igreja Católica nas decisões político-administrativas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

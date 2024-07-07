@@ -1,0 +1,43 @@
+{
+    "title": "Questão 76 - ENEM 2010",
+    "index": 76,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade de Aedes aegypti geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem  \nexpressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas.\n\nFU, G. et al. Female-specific flightless phenotype for mosquito control.  \nPNAS 107 (10): 4550-4554, 2010.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Prevê-se, porém, que a utilização dessa variedade de Aedes aegypti demore ainda anos para ser implementada, pois há demanda de muitos estudos com relação ao impacto ambiental. A liberação de machos de Aedes aegypti dessa variedade geneticamente modificada reduziria o número de casos de dengue em uma determinada região porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuiria o sucesso reprodutivo desses machos transgênicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Restringiria a área geográfica de voo dessa espécie de mosquito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Dificultaria a contaminação e reprodução do vetor natural da doença.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Tornaria o mosquito menos resistente ao agente etiológico da doença.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dificultaria a obtenção de alimentos pelos machos geneticamente modificados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

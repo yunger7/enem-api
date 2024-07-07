@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2020",
+    "index": 14,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/14/242f89ec-6963-40c2-b02b-8f8f4f20167e.png)\n\nHIRST, O. **Mother and Child**. Bezerro dividido em duas partes: 1029 x 1689 x 625mm, 1993(detalhe). Vidro, aço pintado, silicone, acrílico, monofilamento, aço inoxidável, bezerro e solução de formaldeído.\n\n**TEXTO II**  \nO grupo Jovens Artistas Britânicos (YABs), que surgiu no final da década de 1980, possui obras diversificadas que incluem fotografias, instalações, pinturas e carcaças desmembradas. O trabalho desses artistas chamou a atenção no final do período da recessão, por utilizar materiais incomuns, como esterco de elefantes, sangue e legumes, o que expressava os detritos da vida e uma  \natmosfera de niilismo, temperada por um humor mordaz.\n\nDisponível em: http://damienhirsti.com:Acesso em: 15 jul. 2015. FARTHING, S. **Tudo sobre arte**. Rio de Janeiro: Sextante, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2020/questions/14/242f89ec-6963-40c2-b02b-8f8f4f20167e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Frutífero arsenal de materiais e formas que se relacionam com os objetos construídos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Economia e problemas financeiros gerados pela recessão que tiveram grande impacto no mercado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Influência desse grupo junto aos estilos pós-modernos que surgiram nos anos 1990.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Interesse em produtos indesejáveis que revela uma consciência sustentável no mercado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

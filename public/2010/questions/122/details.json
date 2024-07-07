@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2010",
+    "index": 122,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "**Texto I**\n\nO chamado “fumante passivo” é aquele indivíduo que não fuma, mas acaba respirando a fumaça dos cigarros fumados ao seu redor. Até hoje, discutem-se muito os efeitos do fumo passivo, mas uma coisa é certa: quem não fuma não é obrigado a respirar a fumaça dos outros.\n\nO fumo passivo é um problema de saúde pública em todos os países do mundo. Na Europa, estima-se que 79% das pessoas estão expostas à fumaça “de segunda mão”, enquanto, nos Estados Unidos, 88% dos não fumantes acabam fumando passivamente. A Sociedade do Câncer da Nova Zelândia informa que o fumo passivo é a terceira entre as principais causas de morte no país, depois do fumo ativo e do uso de álcool.\n\nDisponível em: www.terra.com.br. Acesso em: 27 abr. 2010 (fragmento).\n\n![](https://enem.dev/2010/questions/122/2df0da41-f8e9-4297-a6a8-e1ad666c16c8.jpg)",
+    "files": [
+        "https://enem.dev/2010/questions/122/2df0da41-f8e9-4297-a6a8-e1ad666c16c8.jpg"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao abordar a questão do tabagismo, os textos I e II procuram demonstrar que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A quantidade de cigarros consumidos por pessoa, diariamente, excede o máximo de nicotina recomendado para os indivíduos, inclusive para os não fumantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Para garantir o prazer que o indivíduo tem ao fumar, será necessário aumentar as estatísticas de fumo passivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A conscientização dos fumantes passivos é uma maneira de manter a privacidade de cada indivíduo e garantir a saúde de todos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os não fumantes precisam ser respeitados e poupados, pois estes também estão sujeitos às doenças causadas pelo tabagismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O fumante passivo não é obrigado a inalar as mesmas toxinas que um fumante, portanto depende dele evitar ou não a contaminação proveniente da exposição ao fumo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

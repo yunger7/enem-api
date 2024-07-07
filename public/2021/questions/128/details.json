@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2021",
+    "index": 128,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais  lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas.\n\nApós realizar um percurso de 110km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador ideal que opera a uma tensão de 220 V e é percorrido por uma corrente de 20 A.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantas horas são necessárias para recarregar a energia utilizadas nesse percurso?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,005",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,125",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

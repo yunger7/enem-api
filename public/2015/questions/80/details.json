@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2015",
+    "index": 80,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesticidas são substâncias utilizadas para promover o controle de pragas. No entanto, após sua aplicação em ambientes abertos, alguns pesticidas organoclorados são arrastados pela água até lagos e rios e, ao passar pelas guelras dos peixes, podem difundir-se para seus tecidos lipídicos e lá se acumularem.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A característica desses compostos, responsável pelo processo descrito no texto, é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Baixa polaridade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Baixa massa molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ocorrência de halogênios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tamanho pequeno das moléculas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Presença de hidroxilas nas cadeias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

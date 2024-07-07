@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2011",
+    "index": 165,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2011/questions/165/9f872841-f893-4cc4-bd7c-3356d7d73f0e.png)",
+    "files": [
+        "https://enem.dev/2011/questions/165/9f872841-f893-4cc4-bd7c-3356d7d73f0e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

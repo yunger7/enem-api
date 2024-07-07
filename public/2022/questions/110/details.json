@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2022",
+    "index": 110,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Desde a proposição da teoria de seleção natural  \npor Darwin, os seres vivos nunca mais foram olhados  \nda mesma forma. No que diz respeito à reprodução de  \nanfíbios anuros, os cientistas já descreveram diferentes  \npadrões reprodutivos, como os exemplificados a seguir:  \nEspécie 1 – As fêmeas produzem cerca de  \n5 000 gametas, que são fecundados na água, em  \nlagoas temporárias de estação chuvosa. Todo o  \ndesenvolvimento embrionário, do ovo à metamorfose,  \nocorre, nesse ambiente, independente dos pais.  \nEspécie 2 – As fêmeas produzem aproximadamente  \n200 gametas, que são depositados em poças próximas a  \ncorpos-d’água. Os embriões são vigiados pelos machos  \ndurante boa parte do seu desenvolvimento.  \nEspécie 3 – As fêmeas produzem por volta de  \n20 gametas, que são fecundados sobre a superfície das  \nfolhas de plantas cujos galhos estão dispostos acima da  \nsuperfície de corpos-d’água e aí se desenvolvem até  \na eclosão.  \nEspécie 4 – As fêmeas produzem poucos gametas  \nque, quando fecundados, são “abocanhados” pelos  \nmachos. Os embriões se desenvolvem no interior do  \nsaco vocal do macho até a metamorfose, quando saem  \natravés da boca do pai.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os padrões descritos evidenciam que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "As fêmeas influenciam o comportamento dos machos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O cuidado parental é necessário para o desenvolvimento",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O grau de evolução determina o comportamento reprodutivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "O ambiente induz modificação na produção do número de gametas femininos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

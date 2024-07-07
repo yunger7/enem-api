@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2022",
+    "index": 91,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura ilustra esquematicamente um processo de  \nremediação de solos contaminados com tricloroeteno  \n(TCE), um agente desengraxante. Em razão de  \nvazamentos de tanques de estocagem ou de manejo  \ninapropriado de resíduos industriais, ele se encontra  \npresente em águas subterrâneas, nas quais forma  \numa fase líquida densa não aquosa (DNAPL) que se  \ndeposita no fundo do aquífero. Essa tecnologia de  \ndescontaminação emprega o íon persulfato (S2  \nO8  \n2−), que  \né convertido no radical •SO4  \n− por minerais que contêm  \nFe(III). O esquema representa de forma simplificada o  \nmecanismo de ação química sobre o TCE e a formação  \ndos produtos de degradação.\n\n![](https://enem.dev/2022/questions/91/0c8a2451-b60e-4a4f-9eb8-4cac8fe9536d.png)\n\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:  \nremediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado)",
+    "files": [
+        "https://enem.dev/2022/questions/91/0c8a2451-b60e-4a4f-9eb8-4cac8fe9536d.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse procedimento de remediação de águas subterrâneas\nbaseia-se em reações de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Oxirredução",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Substituição",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Precipitação",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Desidratação",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Neutralização",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

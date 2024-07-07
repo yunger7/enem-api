@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2021",
+    "index": 97,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A simples atitude de não jogar direto no lixo ou no ralo da pia o óleo de cozinha usado pode contribuir para a redução da poluição ambiental. Mas o que fazer com o óleo vegetal que não será mais usado? Não existe um modelo ideal de descarte, mas uma alternativa simples tem sido reaproveitá-lo para fazer sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica.\n\nLOBO, I. **Sabão feito com óleo de cozinha**. Disponível em: http://pga.pgr.mpf.gov.br. Acesso em: 29 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no texto, a reação química que permite o reaproveitamento do óleo vegetal é denominada",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Epoxidação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Substituição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Esterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Saponificação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2018",
+    "index": 112,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Muitos _smartphones_ e _tablets_ não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque.\n\nA imagem é uma simplificação do circuito formado pelas placas, em que **A** e **B** representam pontos onde o circuito pode ser fechado por meio do toque\n\n![](https://enem.dev/2018/questions/112/fe59e8fd-4175-4ab2-b2f5-3928a9780c42.png)",
+    "files": [
+        "https://enem.dev/2018/questions/112/fe59e8fd-4175-4ab2-b2f5-3928a9780c42.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é a resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto A?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/112/a8daacce-2963-4265-b69d-59f96f3fb4c6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/112/4f0d6fdc-8e57-4a96-8b66-fb746604c8af.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/112/5273706e-79db-463f-a8aa-3a7b49fe04d1.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/112/e668e88c-a069-4cba-9e81-8259219a152e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/112/7caf2b8c-8ebe-403b-a7cb-ef0fde264fb3.png",
+            "isCorrect": false
+        }
+    ]
+}

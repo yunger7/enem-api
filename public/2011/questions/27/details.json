@@ -1,0 +1,43 @@
+{
+    "title": "Questão 27 - ENEM 2011",
+    "index": 27,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Um volume imenso de pesquisas tem sido produzido para tentar avaliar os efeitos dos programas de televisão. A maioria desses estudos diz respeito às crianças — o que é bastante compreensível pela quantidade de tempo que elas passam em frente ao aparelho e pelas possíveis implicações desse comportamento para a socialização. Dois dos tópicos mais pesquisados são o impacto da televisão no âmbito do crime e da violência e a natureza das notícias exibidas na televisão.\n\nGIDDENS, A. Sociologia. Porto Alegre: Artmed, 2005.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto indica que existe uma significativa produção científica sobre os impactos socioculturais da televisão na vida do ser humano. E as crianças, em particular, são as mais vulneráveis a essas influências, porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Codificam informações transmitidas nos programas infantis por meio da observação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Adquirem conhecimentos variados que incentivam o processo de interação social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Interiorizam padrões de comportamento e papéis sociais com menor visão crítica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Observam formas de convivência social baseadas na tolerância e no respeito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apreendem modelos de sociedade pautados na observância das leis.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

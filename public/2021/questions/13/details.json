@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2021",
+    "index": 13,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png)\n\nHENFIL. Disponível em: https://medium.com. Acesso em: 29 out. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/13/413aa5b4-682c-42d8-897f-d80e47edaba8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessa tirinha, produzida na década de 1970, os recursos verbais e não verbais sinalizam a finalidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reforçar a luta por direitos civis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Explicitar a autonomia feminina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ironizar as condições de igualdade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Estimular a abdicação da vida social.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Criticar as obrigações de maternidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

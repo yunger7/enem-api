@@ -1,0 +1,45 @@
+{
+    "title": "Questão 26 - ENEM 2020",
+    "index": 26,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2020/questions/26/8abef0c5-b053-4973-9ace-4fa17bf73d53.png)\n\nA realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\nDisponível em: www.iotforall.com. Acesso em: 22 jun. 2018.",
+    "files": [
+        "https://enem.dev/2020/questions/26/8abef0c5-b053-4973-9ace-4fa17bf73d53.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conduzir escolhas profissionais da área de ciência da computação, oferecendo um leque de opções de atuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Transferir conhecimento da inteligência artificial para as áreas tradicionais, como as das ciências exatas e naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Levar o ser humano a experimentar mentalmente outras realidades, para as quais é transportado sem sair de seu próprio lugar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Delimitar tecnologias exclusivas de jogos virtuais, a fim de oferecer maior emoção ao jogador por meio de outras realidades.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 52 - ENEM 2020",
+    "index": 52,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Dois grandes eventos históricos tornaram possível um caso como o de Menocchio: a invenção da imprensa e a Reforma. A imprensa lhe permitiu confrontar os livros com a tradição oral em que havia crescido e lhe forneceu as palavras que nele conviviam. A Reforma lhe deu audácia para comunicar o que pensava ao padre do vilarejo, conterrâneos, inquisidores — mesmo não tendo conseguido dizer tudo diante do papa, dos cardeais e dos príncipes, como queria.\n\nGINZBURG, C. **O queijo e os vermes**: o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Cia. das Letras, 2006.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Os acontecimentos históricos citados ajudaram esse indivíduo, no século XVI, a repensar a visão católica do mundo ao possibilitarem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Consulta pública das bibliotecas reais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sofisticação barroca do ritual litúrgico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aceitação popular da educação secular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Interpretação autônoma dos textos bíblicos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Correção doutrinária das heresias medievais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

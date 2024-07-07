@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2021",
+    "index": 108,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "**TEXTO I**\n\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\n\nA distância em relação  \nAo nosso planeta amado  \nPouco menos que a do Sol  \nEle está distanciado  \nE menos denso que a água  \nQuando no normal estado\n\nMEDEIROS, A.; AGRA, J. T. M., A astronomia na literatura de cordel,\n\n**Física na Escola,** n. 1, abr. 2010 (fragmento)\n\n**TEXTO II**\n\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\n**Características dos planetas.** Disponível em: www.astronoo.com.\n\nAcesso em: 8 de nov. 2019 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando os versos de sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mercúrio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Júpiter",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Urano",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Saturno",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Netuno",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 108 - ENEM 2018",
+    "index": 108,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráico tensão _versus_ corrente.\n\n![](https://enem.dev/2018/questions/108/24817521-13ac-4999-a992-3c2380ec7141.png)",
+    "files": [
+        "https://enem.dev/2018/questions/108/24817521-13ac-4999-a992-3c2380ec7141.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Após a análise do gráfico, ele concluiu que a tensão em função da corrente é dada pela equação \nO gráfico da resistência elétrica (R) do resistor em função\nda corrente (i) é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/108/5bf4be63-9cdc-4345-9373-3ac1c875eecf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/108/46eada6c-6947-40db-a273-d617a5c919fb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/108/001d6f5b-f5c2-4515-9473-cc7f7fbd7fbc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/108/01b43818-603a-4b13-989c-4b35205fb693.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/108/d6e28a0e-c225-4098-9735-31a69e9072ba.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2012",
+    "index": 144,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido.\n\nTodos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O diretor sabe que algum aluno acertará a resposta porque há",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 alunos a mais do que possíveis respostas distintas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "20 alunos a mais do que possíveis respostas distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "119 alunos a mais do que possíveis respostas distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "260 alunos a mais do que possíveis respostas distintas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "270 alunos a mais do que possíveis respostas distintas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

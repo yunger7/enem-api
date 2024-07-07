@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2012",
+    "index": 75,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em certos locais, larvas de moscas, criadas em arroz cozido, são utilizadas como iscas para pesca. Alguns criadores, no entanto, acreditam que essas larvas surgem espontaneamente do arroz cozido, tal como preconizado pela teoria da geração espontânea.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essa teoria começou a ser refutada pelos cientistas ainda no século XVII, a partir dos estudos de Redi e Pasteur, que mostraram experimentalmente que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Seres vivos podem ser criados em laboratório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A vida se originou no planeta a partir de microrganismos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O ser vivo é oriundo da reprodução de outro ser vivo pré-existente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Seres vermiformes e microrganismos são evolutivamente aparentados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermes e microrganismos são gerados pela matéria existente nos cadáveres e nos caldos nutritivos, respectivamente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

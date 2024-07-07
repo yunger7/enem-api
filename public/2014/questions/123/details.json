@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2014",
+    "index": 123,
+    "year": 2014,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Por onde houve colonização portuguesa, a música popular se desenvolveu basicamente com o mesmo instrumental. Podemos ver cavaquinho e violão atuarem juntos aqui, em Cabo Verde, em Jacarta, na Indonésia, ou em Goa. O caráter nostálgico, sentimental, é outro ponto comum da música das colônias portuguesas em todo o mundo. O kronjong, a música típica de Jacarta, é uma espécie de lundu mais lento, tocado comumente com flauta, cavaquinho e violão. Em Goa não é muito diferente.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com o texto de Henrique Cazes, grande parte da música popular desenvolvida nos países colonizados por Portugal compartilham um instrumental, destacando-se o cavaquinho e o violão. No Brasil, são exemplos de música popular que empregam esses mesmos instrumentos:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Maracatu e ciranda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Carimbó e baião.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Choro e samba.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Chula e siriri.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Xote e frevo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

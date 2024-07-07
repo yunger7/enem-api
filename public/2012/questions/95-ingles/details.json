@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2012",
+    "index": 95,
+    "year": 2012,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/95-ingles/4a09496e-5f17-4287-a877-c2879e5f9a41.png)",
+    "files": [
+        "https://enem.dev/2012/questions/95-ingles/4a09496e-5f17-4287-a877-c2879e5f9a41.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Aproveitando-se de seu status social e da possível influência sobre seus fãs, o famoso músico Jimi Hendrix associa, em seu texto, os termos love, power e peace para justificar sua opinião de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A paz tem o poder de aumentar o amor entre os homens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O amor pelo poder deve ser menor do que o poder do amor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "O poder deve ser compartilhado entre aqueles que se amam.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O amor pelo poder é capaz de desunir cada vez mais as pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A paz será alcançada quando a busca pelo poder deixar de existir.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

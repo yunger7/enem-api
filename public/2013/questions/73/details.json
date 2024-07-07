@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2013",
+    "index": 73,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem.\n\n![](https://enem.dev/2013/questions/73/ced028ca-60e0-42fe-a927-257f36b86cf2.png)",
+    "files": [
+        "https://enem.dev/2013/questions/73/ced028ca-60e0-42fe-a927-257f36b86cf2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

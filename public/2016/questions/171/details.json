@@ -1,0 +1,45 @@
+{
+    "title": "Questão 171 - ENEM 2016",
+    "index": 171,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2016/questions/171/27a2aa79-e89f-40f4-a7ef-46822e39123c.png)",
+    "files": [
+        "https://enem.dev/2016/questions/171/27a2aa79-e89f-40f4-a7ef-46822e39123c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor mais próximo do percentual que descreve o aumento da população nas capitais da Região Nordeste é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "125%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "231%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "331%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "700%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "800%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

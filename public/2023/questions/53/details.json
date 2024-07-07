@@ -1,0 +1,43 @@
+{
+    "title": "Questão 53 - ENEM 2023",
+    "index": 53,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A cordilheira do Himalaia tem mais de 50 milhões de anos., sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome quer dizer “morada da neve”. É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano.\n\nDisponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Derrame de lava vulcânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Encontro de placas tectônicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Ação do intemperismo químico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sedimentação de erosão eólica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Derretimento de geleiras glaciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2012",
+    "index": 106,
+    "year": 2012,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2012/questions/106/b78a40b0-2de8-405e-b703-6d75231e6814.png)\n\nLAERTE. Disponível em: http://blog.educacional.com.br. Acesso em: 8 set. 2011.",
+    "files": [
+        "https://enem.dev/2012/questions/106/b78a40b0-2de8-405e-b703-6d75231e6814.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Que estratégia argumentativa leva o personagem do terceiro quadrinho a persuadir sua interlocutora?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prova concreta, ao expor o produto ao consumidor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Consenso, ao sugerir que todo vendedor tem técnica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Raciocínio lógico, ao relacionar uma fruta com um produto eletrônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Comparação, ao enfatizar que os produtos apresentados anteriormente são inferiores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Indução, ao elaborar o discurso de acordo com os anseios do consumidor.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 149 - ENEM 2013",
+    "index": 149,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/149/8fe1bcbf-df0c-4081-b00d-efa0564e5fd6.png)",
+    "files": [
+        "https://enem.dev/2013/questions/149/8fe1bcbf-df0c-4081-b00d-efa0564e5fd6.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade total de arroz, em toneladas, que deverá ser produzida no período de 2012 a 2021 será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "497,25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "500,85.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "502,87.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "558,75.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "563,25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

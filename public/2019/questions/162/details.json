@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2019",
+    "index": 162,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida.  \nUm exemplo disso pode ser observado no quadro.\n\n![](https://enem.dev/2019/questions/162/7c72d0de-cba7-453f-8334-dc9e95644073.png)",
+    "files": [
+        "https://enem.dev/2019/questions/162/7c72d0de-cba7-453f-8334-dc9e95644073.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Assim, um pé, em polegada, equivale a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,3048.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,0800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12,0000.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "36,0000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

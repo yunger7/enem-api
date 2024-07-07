@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2011",
+    "index": 74,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma equipe de cientistas lançará uma expedição ao Titanic para criar um detalhado mapa 3D que “vai tirar, virtualmente, o Titanic do fundo do mar para o público”. A expedição ao local, a 4 quilômetros de profundidade no Oceano Atlântico, está sendo apresentada como a mais sofisticada expedição científica ao Titanic. Ela utilizará tecnologias de imagem e sonar que nunca tinham sido aplicadas ao navio, para obter o mais completo inventário de seu conteúdo. Esta complementação é necessária em razão das condições do navio, naufragado há um século.\n\nO Estado de São Paulo. Disponível em: http://www.estadao.com.br. Acesso em: 27 jul. 2010 (adaptado)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No problema apresentado para gerar imagens através de camadas de sedimentos depositados no navio, o sonar é mais adequado, pois a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Propagação da luz na água ocorre a uma velocidade maior que a do som neste meio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Absorção da luz ao longo de uma camada de água é facilitada enquanto a absorção do som não.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Refração da luz a uma grande profundidade acontece com uma intensidade menor que a do som.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Reflexão da luz nas camadas de sedimento é menos intensa do que a reflexão do som neste material.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

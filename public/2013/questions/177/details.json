@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2013",
+    "index": 177,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png)",
+    "files": [
+        "https://enem.dev/2013/questions/177/1c2ff438-889a-4dcc-8cd6-cf02757f4b17.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Finlândia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Holanda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Israel.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "México.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Rússia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2010",
+    "index": 145,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2010/questions/145/d6f3efc6-d654-4765-a9b7-ea0938be15ab.png)",
+    "files": [
+        "https://enem.dev/2010/questions/145/d6f3efc6-d654-4765-a9b7-ea0938be15ab.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Supondo que o total de pessoas pesquisadas na região metropolitana de Porto Alegre equivale a 250 000, o número de desempregados em março de 2010, nessa região, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "25000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "220500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "223000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "227500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

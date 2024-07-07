@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2018",
+    "index": 152,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para criar um logotipo, um profissional da área de _design_ gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo,  exatamente como mostra a imagem.\n\n![](https://enem.dev/2018/questions/152/30a16007-c0c0-48d8-afa8-5a4b353de0ab.png)\n\nPara construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.",
+    "files": [
+        "https://enem.dev/2018/questions/152/30a16007-c0c0-48d8-afa8-5a4b353de0ab.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse conjunto é dado pelos pares ordenados tais que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/ba7275fc-dc07-4b42-94d6-da6c53844fa8.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/fea69a4e-b568-4a4e-a2a3-bf30a6e8d34c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/a3a18021-6219-406f-81a0-8057aceea09e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/37ae63c0-96c9-40d4-b88f-75223b31607a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2018/questions/152/e9743309-471e-43e8-a2de-71d1739329df.png",
+            "isCorrect": false
+        }
+    ]
+}

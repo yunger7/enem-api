@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2013",
+    "index": 59,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O2 pela respiração tende a igualar sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O2 e de CO2 próximo à superfície do solo onde elas caíram.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A concentração de O2 próximo ao solo, no local da queda, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor, pois haverá consumo de O2 durante a decomposição dessas árvores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Maior, pois haverá economia de O2 pela ausência das árvores mortas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maior, pois haverá liberação de O2 durante a fotossíntese das árvores jovens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Igual, pois haverá consumo e produção de O2 pelas árvores maduras restantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Menor, pois haverá redução de O2 pela falta da fotossíntese realizada pelas árvores mortas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

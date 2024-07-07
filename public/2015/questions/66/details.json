@@ -1,0 +1,43 @@
+{
+    "title": "Questão 66 - ENEM 2015",
+    "index": 66,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A cariotipagem é um método que analisa células de um indivíduo para determinar seu padrão cromossômico. Essa técnica consiste na montagem fotográfica, em sequência, dos pares de cromossomos e permite identificar um indivíduo normal (46, XX ou 46, XY) ou com alguma alteração cromossômica. A investigação do cariótipo de uma criança do sexo masculino com alterações morfológicas e comprometimento cognitivo verificou que ela apresentava fórmula cariotípica 47, XY, +18.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A alteração cromossômica da criança pode ser classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estrutural, do tipo deleção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Numérica, do tipo euploidia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Numérica, do tipo poliploidia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Estrutural, do tipo duplicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Numérica, do tipo aneuploidia.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

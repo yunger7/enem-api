@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2015",
+    "index": 32,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d’água do grande sertão de Minas.\n\nVIEIRA, C. **Degradação do solo causa perda de fontes de água de famílias de MG**. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Colaboram para a formação de vegetação xerófila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Formam os leques aluviais nas planícies das bacias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Fornecem sumidouro para as águas de recarga da bacia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Contribuem para o aprofundamento dos talvegues à jusante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Constituem um sistema represador da água na chapada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

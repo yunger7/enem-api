@@ -1,0 +1,45 @@
+{
+    "title": "Questão 14 - ENEM 2021",
+    "index": 14,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**A crise dos refugiados imortalizada para sempre no fundo do mar**\n\n![](https://enem.dev/2021/questions/14/f8c80e87-3875-4c67-b82d-85d73404d502.png)\n\nTAYLOR, J. C. A balsa de Lampedusa. Instalação. Museu Atlântico, Lanzarote, Canárias, 2016 (detalhe)\n\nA balsa de Lampedusa, nome da obra do artista britânicos Jason de Caires Taylor, é uma das instalações criadas por ele para compor o acervo do primeiro museu submarino da Europa, o Museu Atlântico, localizado em Lanzarote, uma das ilhas do arquipélago das Canárias.\n\nLampedusa é o nome da ilha italiana onde a grande maioria dos refugiados que saem da África ou de países como Síria, Líbano e Iraque tenta chegar para conseguir asilo no continente europeu.\n\nAs esculturas do Museu Atlântico icam a 14 metros de profundidade nas águas cristalinas de Lanzarote.\n\nNa balsa, estão dez pessoas. Todas têm no rosto a expressão do abandono. Entre elas, há algumas crianças. Uma delas, uma menina debruçada sobre a beira do bote, olha sem esperança o horizonte. A imagem é tão forte que dispensa qualquer palavra. Exatamente o papel da arte.\n\nDisponível em: http://conexaoplaneta.com.br. Acesso em: 22 jun. 2019 (adaptado).",
+    "files": [
+        "https://enem.dev/2021/questions/14/f8c80e87-3875-4c67-b82d-85d73404d502.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Além de apresentar ao público a obra A balsa de Lampedusa, essa reportagem cumpre, paralelamente, a função de chamar a atenção para",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A ilha de Lanzarote, localizada no arquipélago das Canárias, com vocação para o turismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "As muitas vidas perdidas nas travessias marítimas em embarcações precárias ao longo dos séculos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A inovação relativa à construção de um museu no fundo do mar, que só pode ser visitado por mergulhadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A construção do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias pelo mar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A arte como perpetuadora de episódios marcantes da humanidade de que têm de ser relembrados para que não tomem a acontecer.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

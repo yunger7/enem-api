@@ -1,0 +1,43 @@
+{
+    "title": "Questão 16 - ENEM 2010",
+    "index": 16,
+    "year": 2010,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O Império Inca, que corresponde principalmente aos territórios da Bolívia e do Peru, chegou a englobar enorme contingente populacional. Cuzco, a cidade sagrada, era o centro administrativo, com uma sociedade fortemente estratificada e composta por imperadores, nobres, sacerdotes, funcionários do governo, artesãos, camponeses, escravos e soldados. A religião contava com vários deuses, e a base da economia era a agricultura. principalmente o cultivo da batata e do milho.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A principal característica da sociedade inca era a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ditadura teocrática, que igualava a todos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Existência da igualdade social e da coletivização da terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Estrutura social desigual compensada pela coletivização de todos os bens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Existência de mobilidade social, o que levou à composição da elite pelo mérito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Impossibilidade de se mudar de extrato social e a existência de uma aristocracia hereditária.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

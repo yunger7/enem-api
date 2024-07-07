@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2009",
+    "index": 24,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na atmosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantidade de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local.\n\n![](https://enem.dev/2009/questions/24/53ebbcea-15f9-494b-9426-72808957e3f9.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/24/53ebbcea-15f9-494b-9426-72808957e3f9.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando-se as informações do texto e do gráfico, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A insolação é um fator que provoca variação da umidade relativa do ar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "O ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

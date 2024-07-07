@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2023",
+    "index": 173,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante.\n\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.\nA unidade de medida da grandeza descrita pelo parâmetro EC é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/173/58763f45-39e0-4355-b932-75233adbdf21.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/173/81adc538-3ad2-4ced-9a2f-9a7f5f247c20.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/173/5d5d774d-009d-44a6-a774-55719c5547bf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/173/3464da35-f15a-4506-b75a-168a26ff4664.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2023/questions/173/146d0f23-94de-4fd7-ae01-2d31285103d3.png",
+            "isCorrect": false
+        }
+    ]
+}

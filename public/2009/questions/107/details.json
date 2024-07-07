@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2009",
+    "index": 107,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Texto I**  \nÉ praticamente impossível imaginarmos nossas vidas sem o plástico. Ele está presente em embalagens de alimentos, bebidas e remédios, além de eletrodomésticos, automóveis etc. Esse uso ocorre devido à sua atoxicidade e à inércia, isto é: quando em contato com outra substâncias, o plástico não as contamina; ao contrário, protege o produto embalado. Outras duas grandes vantagens garantem o uso dos plásticos em larga escala: são leves, quase não alteram o peso do material embalado, e são 100% recicláveis, fato que, infelizmente, não é aproveitado, visto que, em todo o mundo, a percentagem de plástico reciclado, quando comparado ao total produzido, ainda é irrelevante.\n\n**Revista Mãe Terra**. Minuano, ano I, n. 6 (adaptado).\n\n**Texto II**  \nSacolas plásticas são leves e voam ao vento. Por isso, elas entopem esgotos e bueiros, causando enchentes. São encontradas até no estômago de tartarugas marinhas, baleias, focas e golfinhos, mortos por sufocamento.  \nSacolas plásticas descartáveis são gratuitas para os consumidores, mas têm um custo incalculável para o meio ambiente.\n\n**Veja**, 8 jul. 2009. Fragmentos de texto publicitário do  \nInstituto Akatu pelo Consumo Consciente.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em contraste com o texto I, no texto II são empregadas, predominantemente, estratégias argumentativas que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Atraem o leitor por meio de previsões para o futuro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apelam à emoção do leitor, mencionando a morte de animais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Orientam o leitor a respeito dos modos de usar conscientemente as sacolas plásticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Intimidam o leitor com as nocivas consequências do uso indiscriminado de sacolas plásticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Recorrem à informação, por meio de constatações, para convencer o leitor a evitar o uso de sacolas plásticas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

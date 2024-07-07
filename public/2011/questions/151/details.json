@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2011",
+    "index": 151,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png)",
+    "files": [
+        "https://enem.dev/2011/questions/151/5d16994e-501f-4cc6-8685-f8767764d739.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O polígono que dá forma a essa calçada é invariante por rotações, em torno de seu centro, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "45°.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60°.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "90°.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120°.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "180°.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

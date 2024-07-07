@@ -1,0 +1,45 @@
+{
+    "title": "Questão 84 - ENEM 2009",
+    "index": 84,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2009/questions/84/15a16039-43b9-4779-9660-b66387929694.png)\n\nBETHEL, L. História da América. V. I. São Paulo. (Foto: EDUSP)",
+    "files": [
+        "https://enem.dev/2009/questions/84/15a16039-43b9-4779-9660-b66387929694.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As terras brasileiras foram divididas por meio de tratados entre Portugal e Espanha. De acordo com esses tratados, identificados no mapa, conclui-se que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

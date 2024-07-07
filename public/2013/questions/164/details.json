@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2013",
+    "index": 164,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2013/questions/164/b06811f8-91ea-46e6-8a0f-048141c9045b.png)",
+    "files": [
+        "https://enem.dev/2013/questions/164/b06811f8-91ea-46e6-8a0f-048141c9045b.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A imagem que representa a nova figura é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/164/b5085673-e1d4-4a75-814a-b152fc1a4d1f.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/164/2a001806-1238-495f-a0eb-249c4a6268be.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/164/2859b7a7-e785-4510-8915-4d9bf93c5794.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/164/264bc2c7-61bc-4194-bf03-fc3aa8a2caec.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2013/questions/164/c419ee0c-1323-40b2-9161-666cae5345d2.png",
+            "isCorrect": true
+        }
+    ]
+}

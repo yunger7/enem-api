@@ -1,0 +1,45 @@
+{
+    "title": "Questão 24 - ENEM 2012",
+    "index": 24,
+    "year": 2012,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2012/questions/24/85a5a375-1b0d-4724-a54f-70e4ab4fbba8.jpg)",
+    "files": [
+        "https://enem.dev/2012/questions/24/85a5a375-1b0d-4724-a54f-70e4ab4fbba8.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A interpretação e a correlação das figuras sobre a dinâmica demográfica brasileira demonstram um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Menor proporção de fecundidade na área urbana.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Menor proporção de homens na área rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumento da proporção de fecundidade na área rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Queda da longevidade na área rural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Queda do número de idosos na área urbana.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

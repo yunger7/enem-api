@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2015",
+    "index": 2,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Dominar a luz implica tanto um avanço tecnológico quanto uma certa liberação dos ritmos cíclicos da natureza, com a passagem das estações e as alternâncias de dia e noite. Com a iluminação noturna, a escuridão vai cedendo lugar à claridade, e a percepção temporal começa a se pautar pela marcação do relógio. Se a luz invade a noite, perde sentido a separação tradicional entre trabalho e descanso – todas as partes do dia podem ser aproveitadas produtivamente.\n\nSILVA FILHO. A. L. M. **Fortaleza: imagens da cidade**. Fortaleza: Museu do Ceará: Secult-CE. 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em relação ao mundo do trabalho, a transformação apontada no texto teve como consequência a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Melhoria da qualidade da produção industrial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Redução da oferta de emprego nas zonas rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Permissão ao trabalhador para controlar seus próprios horários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição das exigências de esforço no trabalho com máquinas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ampliação do período disponível para a jornada de trabalho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

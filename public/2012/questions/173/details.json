@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2012",
+    "index": 173,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Há, em virtude da demanda crescente de economia de água, equipamentos e utensílios como, por exemplo, as bacias sanitárias ecológicas, que utilizam 6 litros de água por descarga em vez dos 15 litros utilizados por bacias sanitárias não ecológicas, conforme dados da Associação Brasileira de Normas Técnicas (ABNT).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual será a economia diária de água obtida por meio da substituição de uma bacia sanitária não ecológica, que gasta cerca de 60 litros por dia com a descarga, por uma bacia sanitária ecológica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24 litros",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36 litros",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40 litros",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "42 litros",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50 litros",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

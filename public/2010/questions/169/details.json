@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2010",
+    "index": 169,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Salto Triplo é uma modalidade do atletismo em que o atleta dá um salto em um só pé, uma passada e um salto, nessa ordem. Sendo que o salto com impulsão em um só pé será feito de modo que o atleta caia primeiro sobre o mesmo pé que deu a implusão; na passada ele cairá com o outro pé, do qual o salto é realizado.\n\nDisponível em: www.cbat.org.br (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um atleta da modalidade Salto Triplo, depois de estudar seus movimentos, percebeu que, do segundo para o primeiro salto, o alcance diminuía em 1,2 m, e, do terceiro para o segundo salto, o alcance diminuía 1,5 m.\nQuerendo atingir a meta de 17,4 m nessa prova e considerando os seus estudos, a distância alcançada no primeiro salto teria de estar entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,0 m e 5,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5,0 m e 6,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6,0 m e 7,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7,0 m e 8,0 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8,0 m e 9,0 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

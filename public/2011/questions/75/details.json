@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2011",
+    "index": 75,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2011/questions/75/a7c29aaa-ca64-4653-91eb-743dfea2cf2f.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/75/a7c29aaa-ca64-4653-91eb-743dfea2cf2f.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de desmineralização dentária, devido ao aumento da concentração de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a direita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a direita.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "OH- , que reage com os íons Ca2+, deslocando o equilíbrio para a esquerda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "H+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ca2+, que reage com as hidroxilas OH- , deslocando o equilíbrio para a esquerda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

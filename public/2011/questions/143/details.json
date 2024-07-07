@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2011",
+    "index": 143,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,8 e 11,2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7,0 e 3,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11,2 e 4,8",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "28,0 e 12,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "30,0 e 70,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

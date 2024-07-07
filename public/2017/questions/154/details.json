@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2017",
+    "index": 154,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um menino acaba de se mudar para um novo bairro e deseja ir à padaria. Pediu ajuda a um amigo que lhe forneceu um mapa com pontos numerados, que representam cinco locais de interesse, entre os quais está a padaria. Além disso, o amigo passou as seguintes instruções: a partir do ponto em que você se encontra, representado pela letra X, ande para oeste, vire à direita na primeira rua que encontrar, siga em frente e vire à esquerda na próxima rua. A padaria estará logo a seguir\n\n![](https://enem.dev/2017/questions/154/e003f9f9-7641-401e-9a08-2226bde38679.png)",
+    "files": [
+        "https://enem.dev/2017/questions/154/e003f9f9-7641-401e-9a08-2226bde38679.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A padaria está representada pelo ponto numerado com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

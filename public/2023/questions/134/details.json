@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2023",
+    "index": 134,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "**Avaliação de substâncias genotóxicas**\n\nO ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.\n\nDIAS, V. M. **Micronúcleos em células tumorais**: biologia e implicações  \npara a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os micronúcleos se originam dos(as)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Nucléolos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Lisossomos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ribossomos",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Mitocôndrias",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cromossomos",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

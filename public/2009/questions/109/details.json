@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2009",
+    "index": 109,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2009/questions/109/1422ce0e-d489-4fc4-af98-06be69f0d8e8.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/109/1422ce0e-d489-4fc4-af98-06be69f0d8e8.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A linguagem da tirinha revela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O uso de expressões linguísticas e vocabulário próprios de épocas antigas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O uso de expressões linguísticas inseridas no registro mais formal da língua.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O caráter coloquial expresso pelo uso do tempo verbal no segundo quadrinho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "O uso de um vocabulário específico para situações comunicativas de emergência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A intenção comunicativa dos personagens: a de estabelecer a hierarquia entre eles.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

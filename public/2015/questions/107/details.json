@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2015",
+    "index": 107,
+    "year": 2015,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**A pátria**\n\nAma, com fé e orgulho, a terra em que nasceste!  \nCriança! não verás nenhum pais como este!  \nOlha que céu! que mar! que rios! que floresta!  \nA Natureza, aqui, perpetuamente em festa,  \nÉ um seio de mãe a transbordar carinhos.  \nVê que vida há no chão! vê que vida há nos ninhos,  \nQue se balançam no ar, entre os ramos inquietos!  \nVê que luz, que calor, que multidão de insetos!  \nVê que grande extensão de matas, onde impera,  \nFecunda e luminosa, a eterna primavera!  \nBoa terra! jamais negou a quem trabalha  \nO pão que mata a fome, o teto que agasalha…\n\nQuem com o seu suor a fecunda e umedece,  \nVê pago o seu esforço, e é feliz, e enriquece!\n\nCriança! não verás pais nenhum como este:  \nImita na grandeza a terra em que nasceste!\n\nBILAC, O. **Poesias infantis**. Rio de Janeiro: Francisco Alves, 1929.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Publicado em 1904, o poema A pátria harmoniza-se com um projeto ideológico em construção na Primeira República. O discurso poético de Olavo Bilac ecoa esse projeto, na medida em que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A paisagem natural ganha contornos surreais, como o projeto brasileiro de grandeza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A prosperidade individual, como a exuberância da terra, independe de políticas de governo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Os valores afetivos atribuídos à família devem ser aplicados também aos ícones nacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A capacidade produtiva da terra garante ao país a riqueza que se verifica naquele momento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A valorização do trabalhador passa a integrar o conceito de bem-estar social experimentado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

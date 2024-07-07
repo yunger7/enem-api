@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2013",
+    "index": 102,
+    "year": 2013,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O **hipertexto** permite – ou, de certo modo, em alguns casos, até mesmo exige – a participação de diversos autores na sua construção, a redefinição dos papéis de autor e leitor e a revisão dos modelos tradicionais de leitura e de escrita. Por seu enorme potencial para se estabelecerem conexões, ele facilita o desenvolvimento de trabalhos coletivamente, o estabelecimento da comunicação e a aquisição de informação de maneira cooperativa.\n\nEmbora haja quem identifique o hipertexto exclusiva – mente com os textos eletrônicos, produzidos em determinado tipo de meio ou de tecnologia, ele não deve ser limitado a isso, já que consiste numa forma organizacional que tanto pode ser concebida para o papel como para os ambientes digitais. É claro que o texto virtual permite concretizar certos aspectos que, no papel, são praticamente inviáveis: a conexão imediata, a comparação de trechos de textos na mesma tela, o “mergulho” nos diversos aprofundamentos de um tema, como se o texto tivesse camadas, dimensões ou planos.\n\nRAMAL, A. C. **Educação na cibercultura:** hipertextualidade, leitura, escrita e aprendizagem. Porto Alegre: Artmed, 2002.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando-se a linguagem específica de cada sistema de comunicação, como rádio, jornal, TV, internet, segundo o texto, a hipertextualidade configura-se como um(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Elemento originário dos textos eletrônicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Conexão imediata e reduzida ao texto digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Novo modo de leitura e de organização da escrita.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Estratégia de manutenção do papel do leitor com perfil definido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Modelo de leitura baseado nas informações da superfície do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

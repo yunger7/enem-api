@@ -1,0 +1,45 @@
+{
+    "title": "Questão 131 - ENEM 2021",
+    "index": 131,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindo do coração.\n\n![](https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png)",
+    "files": [
+        "https://enem.dev/2021/questions/131/a87188b9-ef4f-48a8-bc38-b94443bea787.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "120",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "180",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

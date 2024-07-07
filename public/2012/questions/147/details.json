@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2012",
+    "index": 147,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2012/questions/147/04304914-c660-44ee-a7a0-ee9be4ae9d9c.png)",
+    "files": [
+        "https://enem.dev/2012/questions/147/04304914-c660-44ee-a7a0-ee9be4ae9d9c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando as informações indicadas na figura, o consumo total de água registrado nesse hidrômetro, em litros, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 534,85.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 544,20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 534 850,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 534 859,35.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3 534 850,39.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

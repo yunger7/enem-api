@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2015",
+    "index": 41,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.\n\nSEVCENKO, N. **A corrida para o século XXI**: no _loop_ da montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O texto expõe uma tendência representativa do pensamento social contemporâneo, na qual o desenvolvimento de mecanismos de acautelamento ou administração de riscos tem como objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Priorizar os interesses econômicos em relação aos seres humanos e à natureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Instituir o diálogo público sobre mudanças tecnológicas e suas consequências.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Combater a introdução de tecnologias para travar o curso das mudanças sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
