@@ -1,8 +1,11 @@
-import { readFile } from 'node:fs/promises';
+import { getExams } from '@/lib/api/exams/get-exams';
+import { handleAndReturnErrorResponse } from '@/lib/api/errors';
 
 export async function GET() {
-    const exams = await readFile(`${process.cwd()}/public/exams.json`, 'utf-8');
-    const examsJson = JSON.parse(exams);
-
-    return Response.json(examsJson);
+    try {
+        const exams = await getExams();
+        return Response.json(exams);
+    } catch (error) {
+        return handleAndReturnErrorResponse(error);
+    }
 }
