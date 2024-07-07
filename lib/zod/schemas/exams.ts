@@ -31,9 +31,7 @@ export const ExamSchema = z
     });
 
 export const ExamDetailSchema = ExamSchema.extend({
-    questions: z
-        .array(QuestionSchema)
-        .describe('The questions of the exam'),
+    questions: z.array(QuestionSchema).describe('The questions of the exam'),
 }).openapi({
     title: 'ExamDetail',
 });
