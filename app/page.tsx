@@ -32,9 +32,9 @@ export default function Home() {
                         Todos os dados apresentados foram obtidos de fontes
                         abertas e são de domínio público conforme o Art. 8º da
                         Lei de Direitos Autorais (Lei nº 9.610/1998), que exclui
-                        de proteção "os textos de tratados ou convenções, leis,
+                        de proteção &quot;os textos de tratados ou convenções, leis,
                         decretos, regulamentos, decisões judiciais e outros atos
-                        oficiais".
+                        oficiais&quot;.
                     </p>
                     <Link href="/docs">
                         <CtaButton className="flex items-center justify-center space-x-2 bg-white text-sm text-black dark:bg-black dark:text-white">
