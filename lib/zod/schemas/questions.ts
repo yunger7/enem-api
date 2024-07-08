@@ -23,7 +23,7 @@ export const QuestionSchema = z
 
 export const QuestionDetailSchema = QuestionSchema.extend({
     year: z.number().int().positive().describe('The year the exam was taken'),
-    context: z.string().describe('The context of the question in Markdown'),
+    context: z.string().nullable().describe('The context of the question in Markdown'),
     files: z.array(z.string()).describe('The files of the question'),
     correctAlternative: z
         .enum(['A', 'B', 'C', 'D', 'E'])
@@ -37,7 +37,7 @@ export const QuestionDetailSchema = QuestionSchema.extend({
                 letter: z
                     .enum(['A', 'B', 'C', 'D', 'E'])
                     .describe('The letter of the alternative'),
-                text: z.string().describe('The text of the alternative'),
+                text: z.string().nullable().describe('The text of the alternative'),
                 file: z
                     .string()
                     .nullable()
