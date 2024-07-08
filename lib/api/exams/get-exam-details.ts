@@ -4,7 +4,7 @@ import { ExamDetailSchema } from '@/lib/zod/schemas/exams';
 
 export async function getExamDetails(year: string | number) {
     if (!existsSync(`${process.cwd()}/public/${year}/details.json`)) {
-        throw new Error(`No exam found for year ${year}`);
+        return null;
     }
 
     const examRaw = await readFile(
