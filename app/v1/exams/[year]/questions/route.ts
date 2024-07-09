@@ -1,5 +1,5 @@
 import z from '@/lib/zod';
-import { QuestionDetailSchema } from '@/lib/zod/schemas/questions';
+import { QuestionDetailSchema, GetQuestionsResponseSchema } from '@/lib/zod/schemas/questions';
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { getQuestionDetails } from '@/lib/api/questions/get-question-details';
@@ -67,7 +67,7 @@ export async function GET(
             questions.push(questionDetails);
         }
 
-        return Response.json({
+        return Response.json(GetQuestionsResponseSchema.parse({
             metadata: {
                 limit: Number(limit),
                 offset: Number(offset),
@@ -75,7 +75,7 @@ export async function GET(
                 hasMore: Number(offset) + Number(limit) < exam.questions.length,
             },
             questions,
-        })
+        }));
     } catch (error) {
         return handleAndReturnErrorResponse(error);
     }

@@ -51,3 +51,13 @@ export const QuestionDetailSchema = QuestionSchema.extend({
 }).openapi({
     title: 'QuestionDetail',
 });
+
+export const GetQuestionsResponseSchema = z.object({
+    metadata: z.object({
+        limit: z.number().int().positive(),
+        offset: z.number().int().nonnegative(),
+        total: z.number().int().nonnegative(),
+        hasMore: z.boolean(),
+    }),
+    questions: z.array(QuestionDetailSchema)
+});
