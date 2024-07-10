@@ -4,13 +4,13 @@ import { getQuestionDetails } from '@/lib/api/questions/get-question-details';
 import type { NextRequest } from 'next/server';
 
 type Params = {
-    year: string,
-    index: string,
-}
+    year: string;
+    index: string;
+};
 
 export async function GET(
     request: NextRequest,
-    { params }: { params: Params }
+    { params }: { params: Params },
 ) {
     try {
         const searchParams = request.nextUrl.searchParams;
