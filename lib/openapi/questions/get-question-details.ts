@@ -4,11 +4,11 @@ import { QuestionDetailSchema } from '@/lib/zod/schemas/questions';
 
 export const getQuestionDetails: ZodOpenApiOperationObject = {
     operationId: 'getQuestionDetails',
-    summary: 'Get question details',
-    description: 'Get details of a given question by index',
+    summary: 'Listar questão',
+    description: 'Listar detalhes de uma questão pelo seu número',
     responses: {
         '200': {
-            description: 'Question details',
+            description: 'Detalhes da questão',
             content: {
                 'application/json': {
                     schema: QuestionDetailSchema,
@@ -17,5 +17,5 @@ export const getQuestionDetails: ZodOpenApiOperationObject = {
         },
         ...openApiErrorResponses,
     },
-    tags: ['Exams'],
+    tags: ['Questões'],
 };

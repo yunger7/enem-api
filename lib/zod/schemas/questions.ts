@@ -2,54 +2,60 @@ import z from '@/lib/zod';
 
 export const QuestionSchema = z
     .object({
-        title: z.string().describe('The title of the question'),
+        title: z.string().describe('O título da questão'),
         index: z
             .number()
             .int()
             .positive()
-            .describe('The index of the question'),
+            .describe('O número da questão na prova'),
         discipline: z
             .string()
             .nullable()
-            .describe('The discipline of the question'),
+            .describe('A disciplina da questão'),
         language: z
             .string()
             .nullable()
-            .describe('The language of the question'),
+            .describe('O idioma da questão'),
     })
     .openapi({
-        title: 'Question',
+        title: 'Questão',
     });
 
 export const QuestionDetailSchema = QuestionSchema.extend({
-    year: z.number().int().positive().describe('The year the exam was taken'),
-    context: z.string().nullable().describe('The context of the question in Markdown'),
-    files: z.array(z.string()).describe('The files of the question'),
+    year: z.number().int().positive().describe('O ano em que a prova foi aplicada'),
+    context: z
+        .string()
+        .nullable()
+        .describe('O contexto da questão, em Makdown'),
+    files: z.array(z.string()).describe('Os arquivos da questão'),
     correctAlternative: z
         .enum(['A', 'B', 'C', 'D', 'E'])
-        .describe('The correct alternative of the question'),
+        .describe('A alternativa correta da questão'),
     alternativesIntroduction: z
         .string()
-        .describe('The introduction of the alternatives'),
+        .describe('O texto introdutório das alternativas da questão'),
     alternatives: z
         .array(
             z.object({
                 letter: z
                     .enum(['A', 'B', 'C', 'D', 'E'])
-                    .describe('The letter of the alternative'),
-                text: z.string().nullable().describe('The text of the alternative'),
+                    .describe('A letra da alternativa'),
+                text: z
+                    .string()
+                    .nullable()
+                    .describe('O texto da alternativa'),
                 file: z
                     .string()
                     .nullable()
-                    .describe('The file of the alternative'),
+                    .describe('O arquivo da alternativa'),
                 isCorrect: z
                     .boolean()
-                    .describe('Whether the alternative is correct'),
+                    .describe('Se a alternativa é a correta ou não'),
             }),
         )
-        .describe('The alternatives of the question'),
+        .describe('As alternativas da questão'),
 }).openapi({
-    title: 'QuestionDetail',
+    title: 'Detalhes da questão',
 });
 
 export const GetQuestionsResponseSchema = z.object({
@@ -59,5 +65,5 @@ export const GetQuestionsResponseSchema = z.object({
         total: z.number().int().nonnegative(),
         hasMore: z.boolean(),
     }),
-    questions: z.array(QuestionDetailSchema)
+    questions: z.array(QuestionDetailSchema),
 });

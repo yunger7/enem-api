@@ -3,35 +3,35 @@ import { QuestionSchema } from '@/lib/zod/schemas/questions';
 
 export const ExamSchema = z
     .object({
-        title: z.string().describe('The title of the exam'),
+        title: z.string().describe('O título da prova'),
         year: z
             .number()
             .int()
             .positive()
-            .describe('The year the exam was taken'),
+            .describe('O ano em que a prova foi aplicada'),
         disciplines: z
             .array(
                 z.object({
-                    label: z.string().describe('The name of the discipline'),
-                    value: z.string().describe('The code of the discipline'),
+                    label: z.string().describe('O nome da disciplina'),
+                    value: z.string().describe('O código da disciplina'),
                 }),
             )
-            .describe('The disciplines of the exam'),
+            .describe('As disciplinas da prova'),
         languages: z
             .array(
                 z.object({
-                    label: z.string().describe('The name of the language'),
-                    value: z.string().describe('The code of the language'),
+                    label: z.string().describe('O nome do idioma'),
+                    value: z.string().describe('O código do idioma'),
                 }),
             )
-            .describe('The languages of the exam'),
+            .describe('Os idiomas da prova'),
     })
     .openapi({
-        title: 'Exam',
+        title: 'Prova',
     });
 
 export const ExamDetailSchema = ExamSchema.extend({
-    questions: z.array(QuestionSchema).describe('The questions of the exam'),
+    questions: z.array(QuestionSchema).describe('As questões da prova'),
 }).openapi({
-    title: 'ExamDetail',
+    title: 'Detalhes da prova',
 });

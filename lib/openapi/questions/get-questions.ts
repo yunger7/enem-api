@@ -4,18 +4,18 @@ import { GetQuestionsResponseSchema } from '@/lib/zod/schemas/questions';
 
 export const getQuestions: ZodOpenApiOperationObject = {
     operationId: 'getQuestions',
-    summary: 'List questions',
-    description: 'Get a list of questions from a given exam',
+    summary: 'Listar questões',
+    description: 'Listar questões de uma prova em específico',
     responses: {
         '200': {
-            description: 'List of questions',
+            description: 'Lista de questões',
             content: {
                 'application/json': {
                     schema: GetQuestionsResponseSchema,
-                }
-            }
+                },
+            },
         },
         ...openApiErrorResponses,
     },
-    tags: ['Questions'],
+    tags: ['Questões'],
 };

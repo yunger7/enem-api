@@ -4,18 +4,18 @@ import { ExamDetailSchema } from '@/lib/zod/schemas/exams';
 
 export const getExamDetails: ZodOpenApiOperationObject = {
     operationId: 'getExamDetails',
-    summary: 'Get exam details',
-    description: 'Get details of a given exam by year',
+    summary: 'Listar prova',
+    description: 'Lstar detalhes de uma prova por seu ano',
     responses: {
         '200': {
-            description: 'Exam details',
+            description: 'Detalhes da prova',
             content: {
                 'application/json': {
-                    schema: ExamDetailSchema
-                }
-            }
+                    schema: ExamDetailSchema,
+                },
+            },
         },
         ...openApiErrorResponses,
     },
-    tags: ['Exams'],
+    tags: ['Provas'],
 };

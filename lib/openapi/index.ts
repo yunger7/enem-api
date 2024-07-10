@@ -7,20 +7,20 @@ export const document = createDocument({
     info: {
         title: 'ENEM API',
         description: 'API publica para consulta de provas e questões do ENEM',
-        version: '0.1.0',
+        version: '1.0.0',
         contact: {
             name: 'yunger',
-            url: 'https://github.com/yunger7'
+            url: 'https://github.com/yunger7',
         },
     },
     servers: [
         {
-            url: 'http://localhost:3000',
-            description: 'Local server'
-        }
+            url: 'https://api.enem.dev',
+            description: 'API de produção',
+        },
     ],
     paths: {
         ...examsPaths,
         ...questionsPaths,
-    }
+    },
 });

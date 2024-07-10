@@ -16,17 +16,14 @@ export async function getQuestionDetails(payload: GetQuestionDetailsPayload) {
             return null;
         }
 
-        filePath = `${process.cwd()}/public/${payload.year}/questions/${payload.index}-${payload.language}/details.json`
+        filePath = `${process.cwd()}/public/${payload.year}/questions/${payload.index}-${payload.language}/details.json`;
 
         if (!existsSync(filePath)) {
             return null;
         }
     }
 
-    const questionRaw = await readFile(
-        filePath,
-        'utf-8',
-    );
+    const questionRaw = await readFile(filePath, 'utf-8');
 
     const question = JSON.parse(questionRaw) as typeof QuestionDetailSchema;
 
