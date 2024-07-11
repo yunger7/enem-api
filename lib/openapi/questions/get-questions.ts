@@ -1,11 +1,17 @@
 import { ZodOpenApiOperationObject } from 'zod-openapi';
+import {
+    GetQuestionsResponseSchema,
+    GetQuestionsQuerySchema,
+} from '@/lib/zod/schemas/questions';
 import { openApiErrorResponses } from '@/lib/openapi/responses';
-import { GetQuestionsResponseSchema } from '@/lib/zod/schemas/questions';
 
 export const getQuestions: ZodOpenApiOperationObject = {
     operationId: 'getQuestions',
     summary: 'Listar questões',
-    description: 'Listar questões de uma prova em específico',
+    description: 'Listar questões de uma prova por seu ano',
+    requestParams: {
+        query: GetQuestionsQuerySchema,
+    },
     responses: {
         '200': {
             description: 'Lista de questões',

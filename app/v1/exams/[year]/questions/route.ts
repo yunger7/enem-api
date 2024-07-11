@@ -1,7 +1,9 @@
 import z from '@/lib/zod';
+import { getSearchParamsAsObject } from '@/lib/utils';
 import {
     QuestionDetailSchema,
     GetQuestionsResponseSchema,
+    GetQuestionsQuerySchema,
 } from '@/lib/zod/schemas/questions';
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
@@ -14,10 +16,10 @@ export async function GET(
 ) {
     try {
         const searchParams = request.nextUrl.searchParams;
-        const limit = searchParams.get('limit') || '10';
-        const offset = searchParams.get('offset') || '0';
 
-        let language = searchParams.get('language');
+        let { limit, offset, language } = GetQuestionsQuerySchema.parse(
+            getSearchParamsAsObject(searchParams),
+        );
 
         if (Number(limit) > 50) {
             throw new EnemApiError({

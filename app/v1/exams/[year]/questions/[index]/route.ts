@@ -1,3 +1,5 @@
+import { getSearchParamsAsObject } from '@/lib/utils';
+import { GetQuestionDetailsQuerySchema } from '@/lib/zod/schemas/questions';
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { getQuestionDetails } from '@/lib/api/questions/get-question-details';
@@ -14,7 +16,10 @@ export async function GET(
 ) {
     try {
         const searchParams = request.nextUrl.searchParams;
-        let language = searchParams.get('language');
+
+        let { language } = GetQuestionDetailsQuerySchema.parse(
+            getSearchParamsAsObject(searchParams),
+        );
 
         const exam = await getExamDetails(params.year);
 

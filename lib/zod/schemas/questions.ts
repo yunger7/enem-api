@@ -8,21 +8,19 @@ export const QuestionSchema = z
             .int()
             .positive()
             .describe('O número da questão na prova'),
-        discipline: z
-            .string()
-            .nullable()
-            .describe('A disciplina da questão'),
-        language: z
-            .string()
-            .nullable()
-            .describe('O idioma da questão'),
+        discipline: z.string().nullable().describe('A disciplina da questão'),
+        language: z.string().nullable().describe('O idioma da questão'),
     })
     .openapi({
         title: 'Questão',
     });
 
 export const QuestionDetailSchema = QuestionSchema.extend({
-    year: z.number().int().positive().describe('O ano em que a prova foi aplicada'),
+    year: z
+        .number()
+        .int()
+        .positive()
+        .describe('O ano em que a prova foi aplicada'),
     context: z
         .string()
         .nullable()
@@ -40,10 +38,7 @@ export const QuestionDetailSchema = QuestionSchema.extend({
                 letter: z
                     .enum(['A', 'B', 'C', 'D', 'E'])
                     .describe('A letra da alternativa'),
-                text: z
-                    .string()
-                    .nullable()
-                    .describe('O texto da alternativa'),
+                text: z.string().nullable().describe('O texto da alternativa'),
                 file: z
                     .string()
                     .nullable()
@@ -66,4 +61,14 @@ export const GetQuestionsResponseSchema = z.object({
         hasMore: z.boolean(),
     }),
     questions: z.array(QuestionDetailSchema),
+});
+
+export const GetQuestionsQuerySchema = z.object({
+    limit: z.coerce.number().int().positive().default(10),
+    offset: z.coerce.number().int().nonnegative().default(0),
+    language: z.string().optional(),
+});
+
+export const GetQuestionDetailsQuerySchema = z.object({
+    language: z.string().optional(),
 });

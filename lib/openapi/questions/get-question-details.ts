@@ -1,11 +1,17 @@
 import { ZodOpenApiOperationObject } from 'zod-openapi';
+import {
+    QuestionDetailSchema,
+    GetQuestionDetailsQuerySchema,
+} from '@/lib/zod/schemas/questions';
 import { openApiErrorResponses } from '@/lib/openapi/responses';
-import { QuestionDetailSchema } from '@/lib/zod/schemas/questions';
 
 export const getQuestionDetails: ZodOpenApiOperationObject = {
     operationId: 'getQuestionDetails',
     summary: 'Listar questão',
     description: 'Listar detalhes de uma questão pelo seu número',
+    requestParams: {
+        query: GetQuestionDetailsQuerySchema,
+    },
     responses: {
         '200': {
             description: 'Detalhes da questão',
