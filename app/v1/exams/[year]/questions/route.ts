@@ -1,4 +1,5 @@
 import z from '@/lib/zod';
+import { NextRequest, NextResponse } from 'next/server';
 import { getSearchParamsAsObject } from '@/lib/utils';
 import {
     QuestionDetailSchema,
@@ -8,13 +9,17 @@ import {
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { getQuestionDetails } from '@/lib/api/questions/get-question-details';
-import type { NextRequest } from 'next/server';
+import { RateLimiter } from '@/lib/api/rate-limit';
+
+const rateLimiter = new RateLimiter();
 
 export async function GET(
     request: NextRequest,
     { params }: { params: { year: string } },
 ) {
     try {
+        const { rateLimitHeaders } = rateLimiter.check(request);
+
         const searchParams = request.nextUrl.searchParams;
 
         let { limit, offset, language } = GetQuestionsQuerySchema.parse(
@@ -77,7 +82,7 @@ export async function GET(
             questions.push(questionDetails);
         }
 
-        return Response.json(
+        return NextResponse.json(
             GetQuestionsResponseSchema.parse({
                 metadata: {
                     limit: Number(limit),
@@ -88,6 +93,7 @@ export async function GET(
                 },
                 questions,
             }),
+            { headers: rateLimitHeaders }
         );
     } catch (error) {
         return handleAndReturnErrorResponse(error);

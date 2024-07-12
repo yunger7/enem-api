@@ -52,18 +52,22 @@ export type ErrorCodes = z.infer<typeof ErrorCode>;
 export class EnemApiError extends Error {
     public readonly code: z.infer<typeof ErrorCode>;
     public readonly docUrl?: string;
+    public readonly headers?: Record<string, string>;
 
     constructor({
         code,
         message,
         docUrl,
+        headers,
     }: {
         code: z.infer<typeof ErrorCode>;
         message: string;
         docUrl?: string;
+        headers?: Record<string, string>;
     }) {
         super(message);
         this.code = code;
+        this.headers = headers;
         this.docUrl = docUrl ?? `${docErrorUrl}#${code.replace('_', '-')}`;
     }
 }
@@ -98,7 +102,7 @@ export function fromZodError(error: ZodError): ErrorResponse {
     };
 }
 
-export function handleApiError(error: any): ErrorResponse & { status: number } {
+export function handleApiError(error: any): ErrorResponse & { status: number, headers?: Record<string, string> } {
     console.error('API error occurred', error.message);
 
     // Zod errors
@@ -117,6 +121,7 @@ export function handleApiError(error: any): ErrorResponse & { status: number } {
                 message: error.message,
                 doc_url: error.docUrl,
             },
+            headers: error.headers,
             status: errorCodeToHttpStatus[error.code],
         };
     }
@@ -137,8 +142,12 @@ export function handleAndReturnErrorResponse(
     err: unknown,
     headers?: Record<string, string>,
 ) {
-    const { error, status } = handleApiError(err);
-    return NextResponse.json<ErrorResponse>({ error }, { headers, status });
+    const { error, status, headers: errorHeaders } = handleApiError(err);
+
+    return NextResponse.json<ErrorResponse>({ error }, {
+        headers: errorHeaders ?? headers,
+        status,
+    });
 }
 
 export const errorSchemaFactory = (
