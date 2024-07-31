@@ -1,0 +1,77 @@
+{
+    "$schema": "https://mintlify.com/schema.json",
+    "name": "API ENEM",
+    "openapi": "https://api.enem.dev/v1",
+    "favicon": "/assets/favicon.svg",
+    "logo": {
+        "dark": "/assets/dark.svg",
+        "light": "/assets/light.svg"
+    },
+    "colors": {
+        "primary": "#0D9373",
+        "light": "#07C983",
+        "dark": "#0D9373",
+        "anchors": {
+            "from": "#0D9373",
+            "to": "#07C983"
+        }
+    },
+    "feedback": {
+        "raiseIssue": true,
+        "suggestEdit": true,
+        "thumbsRating": true
+    },
+    "api": {
+        "baseUrl": "https://api.enem.dev"
+    },
+    "topAnchor": {
+        "name": "Documentação"
+    },
+    "theme": "prism",
+    "layout": "sidenav",
+    "modeToggle": {
+        "default": "dark"
+    },
+    "search": {
+        "prompt": "Pesquisar..."
+    },
+    "topbarCtaButton": {
+        "type": "github",
+        "url": "https://github.com/yunger7/enem-api"
+    },
+    "tabs": [
+        {
+            "name": "API Reference",
+            "url": "api-reference",
+            "openapi": "https://api.enem.dev/v1"
+        }
+    ],
+    "anchors": [
+        {
+            "name": "Home",
+            "icon": "house",
+            "url": "https://enem.dev"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github",
+            "url": "https://github.com/yunger7/enem-api"
+        }
+    ],
+    "navigation": [
+        {
+            "group": "Recursos",
+            "pages": [
+                "introduction",
+                "rate-limits",
+                "errors",
+                "self-hosting",
+                "contributing"
+            ]
+        }
+    ],
+    "footerSocials": {
+        "github": "https://github.com/yunger7/enem-api",
+        "website": "https://enem.dev"
+    }
+}

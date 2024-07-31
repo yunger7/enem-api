@@ -55,20 +55,20 @@ export const QuestionDetailSchema = QuestionSchema.extend({
 
 export const GetQuestionsResponseSchema = z.object({
     metadata: z.object({
-        limit: z.number().int().positive(),
-        offset: z.number().int().nonnegative(),
-        total: z.number().int().nonnegative(),
-        hasMore: z.boolean(),
+        limit: z.number().int().positive().describe('O número máximo de questões retornadas'),
+        offset: z.number().int().nonnegative().describe('O número da primeira questão retornada'),
+        total: z.number().int().nonnegative().describe('O número total de questões da prova'),
+        hasMore: z.boolean().describe('Se há mais questões disponíveis ou não'),
     }),
-    questions: z.array(QuestionDetailSchema),
+    questions: z.array(QuestionDetailSchema).describe('As questões da prova'),
 });
 
 export const GetQuestionsQuerySchema = z.object({
-    limit: z.coerce.number().int().positive().default(10),
-    offset: z.coerce.number().int().nonnegative().default(0),
-    language: z.string().optional(),
+    limit: z.coerce.number().int().positive().default(10).describe('O número máximo de questões a serem retornadas'),
+    offset: z.coerce.number().int().nonnegative().default(0).describe('O numero da primeira questão a ser retornada'),
+    language: z.string().optional().describe('O idioma desejado das questões'),
 });
 
 export const GetQuestionDetailsQuerySchema = z.object({
-    language: z.string().optional(),
+    language: z.string().optional().describe('O idioma desejado da questão'),
 });

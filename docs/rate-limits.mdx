@@ -1,0 +1,19 @@
+---
+title: 'Limites'
+description: 'Conheça os limites de uso da API'
+icon: clock
+---
+
+Todas as respostas estão em conformidade com o [padrão IETF](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-ratelimit-headers), e incluem os seguintes cabeçalhos:
+
+| Nome do Header          | Descrição                                                                                      |
+| ----------------------- | ---------------------------------------------------------------------------------------------- |
+| `X-RateLimit-Limit`     | Número máximo de requisição permitidas em uma janela.                                          |
+| `X-RateLimit-Remaining` | O número de solicitações restantes na janela atual.                                            |
+| `X-RateLimit-Reset`     | O tempo (em milissegundos) restante até que a janela de limite seja redefinida.                |
+| `Retry-After`           | O tempo (em milissegundos) para esperar antes de realizar uma nova requisição.                 |
+
+A API possui um limite de **1 requisição por segundo** nos endpoints que não possuem cache, a janela de tempo é recalculada a cada 10 segundos. Caso você atinja esse limite, a API irá retornar o status `429 Too Many Requests`. Para evitar isso, nós recomendamos limitar as requisições feitas para a API, ou utilizar um mecanismo de filas.
+
+Caso precise de todos os dados brutos, basta obtê-los diretamente do [repositório no GitHub](https://github.com/yunger7/enem-api/tree/main/public). Considere também [hospedar sua própria instância](/self-hosting).
+

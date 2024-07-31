@@ -1,0 +1,53 @@
+---
+title: 'Erros'
+description: 'Entenda os códigos de erro retornados pela API'
+icon: bug
+---
+
+Usamos códigos de resposta HTTP padrão para identificar status de sucesso e falha. As respostas incluem códigos de erro legíveis por máquina, mensagens de erro legíveis por humanos e um link para a documentação para mais informações.
+
+Segue abaixo um exemplo de resposta de erro:
+
+```json
+{
+  "error": {
+    "code": "not_found",
+    "message": "The requested resource was not found.",
+    "doc_url": "https://enem.dev/docs/errors#not-found"
+  }
+}
+```
+
+## Códigos de erro
+
+Abaixo estão listados os códigos de erro que podem ser retornados pela API.
+
+### `bad_request`
+
+- **Status:** 400
+- **Problema:** A requisição está malformada, faltando campos obrigatórios, usando tipos de dados incorretos ou está sintaticamente incorreta.
+- **Ação sugerida:** Verifique a requisição e certifique-se de que ela está no formato correto.
+
+### `not_found`
+
+- **Status:** 404
+- **Problema:** O recurso solicitado não foi encontrado.
+- **Ação sugerida:** Verifique a requisição e certifique-se de que o recurso existe.
+
+### `unprocessable_entity`
+
+- **Status:** 422
+- **Problema:** A requisição possui dados que não podem ser processados pela API.
+- **Ação sugerida:** Verifique a requisição e certifique-se de que os dados utilizados são válidos.
+
+### `rate_limit_exceeded`
+
+- **Status:** 429
+- **Problema:** O limite de requisições foi excedido.
+- **Ação sugerida:** Consulte a seção de [limites](/rate-limits) para mais informações.
+
+### `internal_server_error`
+
+- **Status:** 500
+- **Problema:** A API encontrou uma condição inesperada que a impediu de atender à requisição.
+- **Ação sugerida:** Tente novamente mais tarde. Se o problema persistir, considere [abrir uma issue](https://github.com/yunger7/enem-api/issues) no GitHub ou [contribuir](/contributing) com uma melhora/correção na API.

@@ -1,0 +1,85 @@
+---
+title: 'Self-hosting'
+description: 'Veja como você pode hospedar sua própria instância da API'
+icon: server
+---
+
+Você pode hospedar sua própria instância da API para maior controle e personalização. Este guia irá te ajudar a configurar o ambiente de desenvolvimento e a fazer o deploy da API.
+
+Caso seu intuito seja apenas obter os dados brutos, considere obtê-los diretamente do [repositório no GitHub](https://github.com/yunger7/enem-api/tree/main/public).
+
+## Pré-requisitos
+- Uma conta no [GitHub](https://github.com)
+- Uma conta na [Vercel](https://vercel.com)
+
+## Deploy rápido
+
+Você pode clonar o repositório deste projeto e fazer o deploy da API com um clique no botão abaixo.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyunger7%2Fenem-api%2F&project-name=enem-api&repository-name=enem-api)
+
+## Ambiente de desenvolvimento
+
+<Steps>
+
+    <Step title="Clone o repositório">
+        Clone o repositório para o seu ambiente de desenvolvimento.
+
+        <CodeGroup>
+            ```bash HTTPS
+            git clone https://github.com/yunger7/enem-api.git
+            ```
+
+            ```bash SSH
+            git clone git@github.com:yunger7/enem-api.git
+            ```
+
+            ```bash GitHub CLI
+            gh repo clone yunger7/enem-api
+            ```
+        </CodeGroup>
+    </Step>
+
+    <Step title="Instale as dependências">
+        Navegue até o diretório do projeto e instale as dependências.
+        
+        <CodeGroup>
+            ```bash pnpm
+            cd enem-api
+            pnpm install
+            ```
+
+            ```bash npm
+            cd enem-api
+            npm install
+            ```
+
+            ```bash yarn
+            cd enem-api
+            yarn
+            ```
+        </CodeGroup>
+    </Step>
+
+    <Step title="Inicie o servidor">
+        Inicie o servidor de desenvolvimento.
+
+        <CodeGroup>
+            ```bash pnpm
+            pnpm dev
+            ```
+
+            ```bash npm
+            npm run dev
+            ```
+
+            ```bash yarn
+            yarn dev
+            ```
+        </CodeGroup>
+    </Step>
+
+</Steps>
+
+Pronto! Agora você pode acessar a API em `http://localhost:3000`.
+

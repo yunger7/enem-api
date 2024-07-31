@@ -7,9 +7,9 @@ import { ZodOpenApiResponseObject } from 'zod-openapi';
 export const ErrorCode = z.enum([
     'bad_request',
     'not_found',
-    'internal_server_error',
-    'rate_limit_exceeded',
     'unprocessable_entity',
+    'rate_limit_exceeded',
+    'internal_server_error',
 ]);
 
 const errorCodeToHttpStatus: Record<z.infer<typeof ErrorCode>, number> = {
@@ -41,7 +41,7 @@ const ErrorSchema = z.object({
         doc_url: z.string().optional().openapi({
             description:
                 'A URL to more information about the error code reported.',
-            example: 'https://enem.dev/docs/api-reference',
+            example: 'https://enem.dev/docs',
         }),
     }),
 });
@@ -72,7 +72,7 @@ export class EnemApiError extends Error {
     }
 }
 
-const docErrorUrl = 'https://enem.dev/docs/api-reference/errors';
+const docErrorUrl = 'https://enem.dev/docs/errors';
 
 export function fromZodError(error: ZodError): ErrorResponse {
     return {
@@ -177,7 +177,7 @@ export const errorSchemaFactory = (
                                     description:
                                         'A human readable explanation of what went wrong.',
                                     example:
-                                        'The requested resource was not found.',
+                                        description,
                                 },
                                 doc_url: {
                                     type: 'string',

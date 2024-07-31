@@ -19,7 +19,7 @@ export const openApiErrorResponses: ZodOpenApiComponentsObject['responses'] = {
 
     '429': errorSchemaFactory(
         'rate_limit_exceeded',
-        `The user has sent too many requests in a given amount of time ("rate limiting")`,
+        `The user has sent too many requests in a given amount of time`,
     ),
 
     '500': errorSchemaFactory(
