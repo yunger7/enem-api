@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { Separator } from '@/components/ui/separator';
 import { CtaButton } from '@/components/ui/cta-button';
 import { Logo } from '@/components/logo';
@@ -36,11 +35,11 @@ export default function Home() {
                         leis, decretos, regulamentos, decisões judiciais e
                         outros atos oficiais&quot;.
                     </p>
-                    <Link href="/docs">
+                    <a href="https://docs.enem.dev">
                         <CtaButton className="flex items-center justify-center space-x-2 bg-white text-sm text-black dark:bg-black dark:text-white">
                             Ler documentação
                         </CtaButton>
-                    </Link>
+                    </a>
                 </div>
             </div>
         </div>
