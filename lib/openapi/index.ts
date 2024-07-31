@@ -15,7 +15,7 @@ export const document = createDocument({
     },
     servers: [
         {
-            url: 'https://api.enem.dev',
+            url: 'https://api.enem.dev/v1',
             description: 'API de produção',
         },
     ],

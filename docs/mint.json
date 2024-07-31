@@ -22,7 +22,7 @@
         "thumbsRating": true
     },
     "api": {
-        "baseUrl": "https://api.enem.dev"
+        "baseUrl": "https://api.enem.dev/v1"
     },
     "topAnchor": {
         "name": "Documentação"
