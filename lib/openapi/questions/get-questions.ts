@@ -1,4 +1,6 @@
+import z from '@/lib/zod';
 import { ZodOpenApiOperationObject } from 'zod-openapi';
+import { ExamYearPath } from '@/lib/zod/schemas/exams';
 import {
     GetQuestionsResponseSchema,
     GetQuestionsQuerySchema,
@@ -10,6 +12,9 @@ export const getQuestions: ZodOpenApiOperationObject = {
     summary: 'Listar questões',
     description: 'Listar questões de uma prova por seu ano',
     requestParams: {
+        path: z.object({
+            year: ExamYearPath,
+        }),
         query: GetQuestionsQuerySchema,
     },
     responses: {

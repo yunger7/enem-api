@@ -1,6 +1,12 @@
 import z from '@/lib/zod';
 import { QuestionSchema } from '@/lib/zod/schemas/questions';
 
+export const ExamYearPath = z.string().openapi({
+    ref: 'year',
+    example: '2020',
+    description: 'O ano em que a prova foi aplicada',
+});
+
 export const ExamSchema = z
     .object({
         title: z.string().describe('O título da prova'),

@@ -1,5 +1,11 @@
 import z from '@/lib/zod';
 
+export const QuestionIndexPath = z.string().openapi({
+    ref: 'index',
+    example: '42',
+    description: 'O número da questão na prova',
+});
+
 export const QuestionSchema = z
     .object({
         title: z.string().describe('O título da questão'),
