@@ -1,8 +1,11 @@
+import { getStats } from '@/lib/api/stats';
 import { Separator } from '@/components/ui/separator';
 import { CtaButton } from '@/components/ui/cta-button';
 import { Logo } from '@/components/logo';
 
-export default function Home() {
+export default async function Home() {
+    const stats = await getStats();
+
     return (
         <div className="relative flex h-screen w-full flex-col items-center justify-center bg-white bg-dot-black/[0.3] dark:bg-black dark:bg-dot-white/[0.3]">
             <div className="pointer-events-none absolute inset-0 flex items-center justify-center bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)] dark:bg-black"></div>
@@ -13,8 +16,8 @@ export default function Home() {
                         API ENEM
                     </h1>
                     <p>
-                        Dados de 2100+ questões do ENEM, dos anos de 2009 a
-                        2023.
+                        Dados de {stats.totalQuestions}+ questões do ENEM, dos
+                        anos de {stats.minYear} a {stats.maxYear}.
                     </p>
                 </div>
                 <Separator className="my-4" />
