@@ -93,7 +93,7 @@ export async function GET(
                 },
                 questions,
             }),
-            { headers: rateLimitHeaders }
+            { headers: rateLimitHeaders },
         );
     } catch (error) {
         return handleAndReturnErrorResponse(error);

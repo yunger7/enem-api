@@ -55,17 +55,39 @@ export const QuestionDetailSchema = QuestionSchema.extend({
 
 export const GetQuestionsResponseSchema = z.object({
     metadata: z.object({
-        limit: z.number().int().positive().describe('O número máximo de questões retornadas'),
-        offset: z.number().int().nonnegative().describe('O número da primeira questão retornada'),
-        total: z.number().int().nonnegative().describe('O número total de questões da prova'),
+        limit: z
+            .number()
+            .int()
+            .positive()
+            .describe('O número máximo de questões retornadas'),
+        offset: z
+            .number()
+            .int()
+            .nonnegative()
+            .describe('O número da primeira questão retornada'),
+        total: z
+            .number()
+            .int()
+            .nonnegative()
+            .describe('O número total de questões da prova'),
         hasMore: z.boolean().describe('Se há mais questões disponíveis ou não'),
     }),
     questions: z.array(QuestionDetailSchema).describe('As questões da prova'),
 });
 
 export const GetQuestionsQuerySchema = z.object({
-    limit: z.coerce.number().int().positive().default(10).describe('O número máximo de questões a serem retornadas'),
-    offset: z.coerce.number().int().nonnegative().default(0).describe('O numero da primeira questão a ser retornada'),
+    limit: z.coerce
+        .number()
+        .int()
+        .positive()
+        .default(10)
+        .describe('O número máximo de questões a serem retornadas'),
+    offset: z.coerce
+        .number()
+        .int()
+        .nonnegative()
+        .default(0)
+        .describe('O numero da primeira questão a ser retornada'),
     language: z.string().optional().describe('O idioma desejado das questões'),
 });
 

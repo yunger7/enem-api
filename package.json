@@ -7,7 +7,7 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
-        "format": "prettier --write .",
+        "format": "prettier --write \"**/*.{ts,tsx}\"",
         "docs": "cd docs && mintlify dev --port 3001"
     },
     "dependencies": {

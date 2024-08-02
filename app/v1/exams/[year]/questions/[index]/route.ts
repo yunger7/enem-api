@@ -59,10 +59,7 @@ export async function GET(
             });
         }
 
-        return Response.json(
-            questionDetails,
-            { headers: rateLimitHeaders }
-        );
+        return Response.json(questionDetails, { headers: rateLimitHeaders });
     } catch (error) {
         return handleAndReturnErrorResponse(error);
     }

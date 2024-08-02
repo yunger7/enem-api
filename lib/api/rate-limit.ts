@@ -13,7 +13,8 @@ class RateLimiter {
     }
 
     check(request: NextRequest) {
-        const ip = request.ip ?? request.headers.get('X-Forwarded-For') ?? 'unknown';
+        const ip =
+            request.ip ?? request.headers.get('X-Forwarded-For') ?? 'unknown';
         const now = Date.now();
 
         let queue = this.idToWindows.get(ip);
@@ -37,22 +38,22 @@ class RateLimiter {
                     'X-RateLimit-Limit': String(this.maxRequests),
                     'X-RateLimit-Remaining': '0',
                     'X-RateLimit-Reset': String(resetTime),
-                    'Retry-After': String(resetTime)
-                }
+                    'Retry-After': String(resetTime),
+                },
             });
-        };
+        }
 
         queue.push(now);
 
         const rateLimitHeaders = {
             'X-RateLimit-Limit': String(this.maxRequests),
             'X-RateLimit-Remaining': String(this.maxRequests - queue.length),
-            'X-RateLimit-Reset': String(this.windowSize)
+            'X-RateLimit-Reset': String(this.windowSize),
         };
-        
+
         return {
             rateLimitHeaders,
-        }
+        };
     }
 }
 

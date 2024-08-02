@@ -102,7 +102,9 @@ export function fromZodError(error: ZodError): ErrorResponse {
     };
 }
 
-export function handleApiError(error: any): ErrorResponse & { status: number, headers?: Record<string, string> } {
+export function handleApiError(
+    error: any,
+): ErrorResponse & { status: number; headers?: Record<string, string> } {
     console.error('API error occurred', error.message);
 
     // Zod errors
@@ -144,10 +146,13 @@ export function handleAndReturnErrorResponse(
 ) {
     const { error, status, headers: errorHeaders } = handleApiError(err);
 
-    return NextResponse.json<ErrorResponse>({ error }, {
-        headers: errorHeaders ?? headers,
-        status,
-    });
+    return NextResponse.json<ErrorResponse>(
+        { error },
+        {
+            headers: errorHeaders ?? headers,
+            status,
+        },
+    );
 }
 
 export const errorSchemaFactory = (
@@ -176,8 +181,7 @@ export const errorSchemaFactory = (
                                     type: 'string',
                                     description:
                                         'A human readable explanation of what went wrong.',
-                                    example:
-                                        description,
+                                    example: description,
                                 },
                                 doc_url: {
                                     type: 'string',
