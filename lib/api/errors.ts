@@ -38,7 +38,7 @@ const ErrorSchema = z.object({
             description: 'A human readable error message.',
             example: 'The requested resource was not found.',
         }),
-        doc_url: z.string().optional().openapi({
+        docUrl: z.string().optional().openapi({
             description:
                 'A URL to more information about the error code reported.',
             example: 'https://enem.dev/docs',
@@ -97,7 +97,7 @@ export function fromZodError(error: ZodError): ErrorResponse {
                     label: '',
                 },
             }),
-            doc_url: `${docErrorUrl}#unprocessable-entity`,
+            docUrl: `${docErrorUrl}#unprocessable-entity`,
         },
     };
 }
@@ -121,7 +121,7 @@ export function handleApiError(
             error: {
                 code: error.code,
                 message: error.message,
-                doc_url: error.docUrl,
+                docUrl: error.docUrl,
             },
             headers: error.headers,
             status: errorCodeToHttpStatus[error.code],
@@ -134,7 +134,7 @@ export function handleApiError(
         error: {
             code: 'internal_server_error',
             message: 'An internal server error occurred.',
-            doc_url: `${docErrorUrl}#internal-server-error`,
+            docUrl: `${docErrorUrl}#internal-server-error`,
         },
         status: 500,
     };
@@ -183,7 +183,7 @@ export const errorSchemaFactory = (
                                         'A human readable explanation of what went wrong.',
                                     example: description,
                                 },
-                                doc_url: {
+                                docUrl: {
                                     type: 'string',
                                     description:
                                         'A link to our documentation with more details about this error code',
