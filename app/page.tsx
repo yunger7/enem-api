@@ -7,8 +7,8 @@ export default async function Home() {
     const stats = await getStats();
 
     return (
-        <div className="relative flex h-screen w-full flex-col items-center justify-center bg-white bg-dot-black/[0.3] dark:bg-black dark:bg-dot-white/[0.3]">
-            <div className="pointer-events-none absolute inset-0 flex items-center justify-center bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)] dark:bg-black"></div>
+        <div className="flex min-h-screen w-full flex-col items-center justify-center bg-white p-6 bg-dot-black/[0.3] dark:bg-black dark:bg-dot-white/[0.3] md:relative">
+            <div className="pointer-events-none inset-0 flex items-center justify-center bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)] dark:bg-black md:absolute"></div>
             <div className="max-w-2xl text-center">
                 <div className="flex flex-col items-center justify-center gap-2">
                     <Logo />
