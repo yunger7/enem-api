@@ -13,8 +13,8 @@ const fontSans = FontSans({
 
 export const viewport: Viewport = {
     themeColor: 'black',
-    colorScheme: 'dark'
-}
+    colorScheme: 'dark',
+};
 
 const TITLE = 'API ENEM';
 const DESCRIPTION = 'API para consulta de provas e questões do ENEM';

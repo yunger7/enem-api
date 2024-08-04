@@ -9,12 +9,16 @@ export const ExamYearPath = z.string().openapi({
 
 export const ExamSchema = z
     .object({
-        title: z.string().describe('O título da prova'),
+        title: z
+            .string()
+            .describe('O título da prova')
+            .openapi({ example: 'ENEM 2020' }),
         year: z
             .number()
             .int()
             .positive()
-            .describe('O ano em que a prova foi aplicada'),
+            .describe('O ano em que a prova foi aplicada')
+            .openapi({ example: 2020 }),
         disciplines: z
             .array(
                 z.object({
@@ -22,7 +26,27 @@ export const ExamSchema = z
                     value: z.string().describe('O código da disciplina'),
                 }),
             )
-            .describe('As disciplinas da prova'),
+            .describe('As disciplinas da prova')
+            .openapi({
+                example: [
+                    {
+                        label: 'Ciências Humanas e suas Tecnologias',
+                        value: 'ciencias-humanas',
+                    },
+                    {
+                        label: 'Ciências da Natureza e suas Tecnologias',
+                        value: 'ciencias-natureza',
+                    },
+                    {
+                        label: 'Linguagens, Códigos e suas Tecnologias',
+                        value: 'linguagens',
+                    },
+                    {
+                        label: 'Matemática e suas Tecnologias',
+                        value: 'matematica',
+                    },
+                ],
+            }),
         languages: z
             .array(
                 z.object({
@@ -30,7 +54,19 @@ export const ExamSchema = z
                     value: z.string().describe('O código do idioma'),
                 }),
             )
-            .describe('Os idiomas da prova'),
+            .describe('Os idiomas da prova')
+            .openapi({
+                example: [
+                    {
+                        label: 'Espanhol',
+                        value: 'espanhol',
+                    },
+                    {
+                        label: 'Inglês',
+                        value: 'ingles',
+                    },
+                ],
+            }),
     })
     .openapi({
         title: 'Prova',
