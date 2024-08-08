@@ -2,12 +2,12 @@ import geoip from 'geoip-lite';
 import { PrismaClient } from '@prisma/client';
 import { NextRequest } from 'next/server';
 
-const prisma = new PrismaClient();
-
 export async function logger(request: NextRequest) {
     if (process.env.NODE_ENV === 'development') {
         return;
     }
+
+    const prisma = new PrismaClient();
 
     try {
         const { method, url, headers } = request;
