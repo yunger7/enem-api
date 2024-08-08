@@ -21,9 +21,9 @@ export async function GET(
     { params }: { params: Params },
 ) {
     try {
-        await logger(request);
-
         const { rateLimitHeaders } = rateLimiter.check(request);
+
+        await logger(request);
 
         const searchParams = request.nextUrl.searchParams;
 

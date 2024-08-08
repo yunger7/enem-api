@@ -1,10 +1,13 @@
-import { NextRequest } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { getExams } from '@/lib/api/exams/get-exams';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
+import { RateLimiter } from '@/lib/api/rate-limit';
 import { logger } from '@/lib/api/logger';
 
 export const dynamic = 'force-dynamic';
+
+const rateLimiter = new RateLimiter();
 
 const getExamsYears = async () => {
     const exams = await getExams();
@@ -16,6 +19,8 @@ export async function GET(
     { params }: { params: { year: string } },
 ) {
     try {
+        const { rateLimitHeaders } = rateLimiter.check(request);
+
         await logger(request);
 
         const examYears = await getExamsYears();
@@ -29,7 +34,10 @@ export async function GET(
 
         const exam = await getExamDetails(params.year);
 
-        return Response.json(exam);
+        return NextResponse.json(
+            exam,
+            { headers: rateLimitHeaders }
+        );
     } catch (error) {
         return handleAndReturnErrorResponse(error);
     }
