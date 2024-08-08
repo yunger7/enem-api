@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    reactStrictMode: true,
+    experimental: {
+        serverComponentsExternalPackages: ["geoip-lite"]
+    },
     async headers() {
         return [
             {

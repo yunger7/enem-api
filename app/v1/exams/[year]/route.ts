@@ -1,6 +1,8 @@
+import { NextRequest } from 'next/server';
 import { getExams } from '@/lib/api/exams/get-exams';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
+import { logger } from '@/lib/api/logger';
 
 const getExamsYears = async () => {
     const exams = await getExams();
@@ -16,10 +18,12 @@ export async function generateStaticParams() {
 }
 
 export async function GET(
-    request: Request,
+    request: NextRequest,
     { params }: { params: { year: string } },
 ) {
     try {
+        await logger(request);
+
         const examYears = await getExamsYears();
 
         if (!examYears.includes(Number(params.year))) {
