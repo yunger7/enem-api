@@ -4,18 +4,12 @@ import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
 import { logger } from '@/lib/api/logger';
 
+export const dynamic = 'force-dynamic';
+
 const getExamsYears = async () => {
     const exams = await getExams();
     return exams.map(exam => exam.year);
 };
-
-export async function generateStaticParams() {
-    const examYears = await getExamsYears();
-
-    return examYears.map(year => ({
-        year: year.toString(),
-    }));
-}
 
 export async function GET(
     request: NextRequest,

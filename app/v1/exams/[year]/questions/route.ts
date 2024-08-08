@@ -12,6 +12,8 @@ import { getQuestionDetails } from '@/lib/api/questions/get-question-details';
 import { RateLimiter } from '@/lib/api/rate-limit';
 import { logger } from '@/lib/api/logger';
 
+export const dynamic = 'force-dynamic';
+
 const rateLimiter = new RateLimiter();
 
 export async function GET(
