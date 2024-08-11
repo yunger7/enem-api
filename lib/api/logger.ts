@@ -1,5 +1,6 @@
-import { PrismaClient } from '@prisma/client';
 import { NextRequest } from 'next/server';
+import { ipAddress, geolocation } from '@vercel/functions';
+import { PrismaClient } from '@prisma/client';
 
 export async function logger(request: NextRequest) {
     if (process.env.NODE_ENV === 'development') {
@@ -9,31 +10,38 @@ export async function logger(request: NextRequest) {
     const prisma = new PrismaClient();
 
     try {
+        const vercelGeo = geolocation(request);
+
         const { method, url, headers, geo } = request;
 
         const ip =
-            request.ip ||
+            ipAddress(request) ||
             headers.get('x-forwarded-for') ||
             request.headers.get('cf-connecting-ip') ||
-            '0.0.0.0';
+            request.ip;
         const userAgent = headers.get('user-agent');
         const referer = headers.get('referer');
+
+        const country = vercelGeo?.country || geo?.country;
+        const region = vercelGeo?.region || geo?.region;
+        const city = vercelGeo?.city || geo?.city;
+        const latitude = vercelGeo?.latitude || geo?.latitude;
+        const longitude = vercelGeo?.longitude || geo?.longitude;
+
         const timestamp = new Date().toISOString();
 
         const logEntry = {
-            ip,
             url,
             method,
+            ip: ip || null,
             userAgent,
             referer,
+            country: country || null,
+            region: region || null,
+            city: city || null,
+            latitude: latitude || null,
+            longitude: longitude || null,
             timestamp,
-            country: geo?.country || null,
-            region: geo?.region || null,
-            city: geo?.city || null,
-            ll:
-                geo?.latitude && geo?.longitude
-                    ? `${(geo.latitude, geo.longitude)}`
-                    : null,
         };
 
         await prisma.log.create({

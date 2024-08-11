@@ -10,15 +10,16 @@ datasource db {
 
 model Log {
     id        Int      @id @default(autoincrement())
-    ip        String
     url       String
     method    String
+    ip        String?
     userAgent String?
     referer   String?
-    timestamp DateTime @default(now())
     country   String?
     region    String?
     city      String?
-    ll        String?
+    latitude  String?
+    longitude String?
+    timestamp DateTime @default(now())
 }
 
