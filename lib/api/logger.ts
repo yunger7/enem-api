@@ -39,8 +39,8 @@ export async function logger(request: NextRequest) {
             country: country ? decodeURIComponent(country) : null,
             region: region ? decodeURIComponent(region) : null,
             city: city ? decodeURIComponent(city) : null,
-            latitude: latitude || null,
-            longitude: longitude || null,
+            latitude: latitude ? parseFloat(latitude) : null,
+            longitude: longitude ? parseFloat(longitude) : null,
             timestamp,
         };
 

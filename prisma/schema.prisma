@@ -18,8 +18,8 @@ model Log {
     country   String?
     region    String?
     city      String?
-    latitude  String?
-    longitude String?
+    latitude  Float?
+    longitude Float?
     timestamp DateTime @default(now())
 }
 
