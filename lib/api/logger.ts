@@ -1,4 +1,3 @@
-import geoip from 'geoip-lite';
 import { PrismaClient } from '@prisma/client';
 import { NextRequest } from 'next/server';
 
@@ -10,17 +9,16 @@ export async function logger(request: NextRequest) {
     const prisma = new PrismaClient();
 
     try {
-        const { method, url, headers } = request;
+        const { method, url, headers, geo } = request;
 
         const ip =
-            headers.get('x-forwarded-for') ||
             request.ip ||
+            headers.get('x-forwarded-for') ||
             request.headers.get('cf-connecting-ip') ||
             '0.0.0.0';
         const userAgent = headers.get('user-agent');
         const referer = headers.get('referer');
         const timestamp = new Date().toISOString();
-        const geo = geoip.lookup(ip);
 
         const logEntry = {
             ip,
@@ -32,7 +30,7 @@ export async function logger(request: NextRequest) {
             country: geo?.country || null,
             region: geo?.region || null,
             city: geo?.city || null,
-            ll: geo?.ll ? geo.ll.join(', ') : null,
+            ll: geo?.latitude && geo?.longitude ? `${geo.latitude, geo.longitude}` : null,
         };
 
         await prisma.log.create({
