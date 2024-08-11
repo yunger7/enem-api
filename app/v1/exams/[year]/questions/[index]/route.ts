@@ -5,6 +5,9 @@ import { EnemApiError, handleAndReturnErrorResponse } from '@/lib/api/errors';
 import { getExamDetails } from '@/lib/api/exams/get-exam-details';
 import { getQuestionDetails } from '@/lib/api/questions/get-question-details';
 import { RateLimiter } from '@/lib/api/rate-limit';
+import { logger } from '@/lib/api/logger';
+
+export const dynamic = 'force-dynamic';
 
 const rateLimiter = new RateLimiter();
 
@@ -19,6 +22,8 @@ export async function GET(
 ) {
     try {
         const { rateLimitHeaders } = rateLimiter.check(request);
+
+        await logger(request);
 
         const searchParams = request.nextUrl.searchParams;
 
