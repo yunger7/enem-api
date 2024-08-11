@@ -30,7 +30,10 @@ export async function logger(request: NextRequest) {
             country: geo?.country || null,
             region: geo?.region || null,
             city: geo?.city || null,
-            ll: geo?.latitude && geo?.longitude ? `${geo.latitude, geo.longitude}` : null,
+            ll:
+                geo?.latitude && geo?.longitude
+                    ? `${(geo.latitude, geo.longitude)}`
+                    : null,
         };
 
         await prisma.log.create({

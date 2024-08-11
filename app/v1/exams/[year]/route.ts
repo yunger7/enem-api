@@ -34,10 +34,7 @@ export async function GET(
 
         const exam = await getExamDetails(params.year);
 
-        return NextResponse.json(
-            exam,
-            { headers: rateLimitHeaders }
-        );
+        return NextResponse.json(exam, { headers: rateLimitHeaders });
     } catch (error) {
         return handleAndReturnErrorResponse(error);
     }

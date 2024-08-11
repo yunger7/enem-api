@@ -16,10 +16,7 @@ export async function GET(request: NextRequest) {
 
         const exams = await getExams();
 
-        return NextResponse.json(
-            exams,
-            { headers: rateLimitHeaders }
-        );
+        return NextResponse.json(exams, { headers: rateLimitHeaders });
     } catch (error) {
         return handleAndReturnErrorResponse(error);
     }
