@@ -19,6 +19,8 @@
 ## Sobre
 Este projeto é uma API pública e open-source, criado para facilitar o acesso aos dados de provas e questões do Exame Nacional do Ensino Médio (ENEM) de forma programática. Acesse [enem.dev](https://enem.dev) para mais informações.
 
+Caso tenha interesse em saber mais sobre a origem e processo de criação desse projeto, confira [esse artigo no TabNews](https://www.tabnews.com.br/yunger/criando-uma-api-open-source-para-questoes-do-enem).
+
 ## Documentação
 Para mais detalhes de como utilizar a API, limites, erros e endpoints disponíveis, consulte a [documentação](https://docs.enem.dev).
 
