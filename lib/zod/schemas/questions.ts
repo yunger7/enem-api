@@ -157,3 +157,17 @@ export const GetQuestionDetailsQuerySchema = z.object({
         .describe('O idioma desejado da questão')
         .openapi({ example: 'ingles' }),
 });
+
+export const QuestionDisciplinePath = z.string().openapi({
+    ref: 'discipline',
+    example: 'linguagens',
+    description: 'A disciplina da questão',
+});
+
+export const GetQuestionByDisciplinesQuerySchema = z.object({
+    disciplines: z
+        .array(z.string())
+        .describe('As disciplinas desejadas das questões')
+        .openapi({ example: ['ciencias-natureza','ciencias-humanas','matematica', 'linguagens'] }),
+});
+
