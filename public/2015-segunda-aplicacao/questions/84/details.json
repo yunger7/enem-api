@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 84 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 84,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual propriedade da matéria possibilita a utilização do procedimento descrito?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Volume.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Densidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Porosidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Maleabilidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

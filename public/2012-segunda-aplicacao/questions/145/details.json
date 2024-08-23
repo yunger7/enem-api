@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 145 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 145,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual o lucro médio, por dia, da churrascaria?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 9 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 7 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 4 250,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 3 750,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 2 250,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

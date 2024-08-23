@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 174 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com essas informações, num período de 30 dias, a lavagem manual ficará mais cara que a da máquina lavadora em quantos reais?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3,45",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "4,72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "9,45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "27,75",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

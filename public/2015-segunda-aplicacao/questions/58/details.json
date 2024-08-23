@@ -1,0 +1,49 @@
+{
+  "year": 2015,
+  "title": "Questão 58 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 58,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-a.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-b.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-c.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-d.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-e.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O comportamento de um feixe de luz incidindo no olho que possui um implante de lentes fácicas para correção do problema de visão apresentado é esquematizado por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151912/58-a.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151913/58-b.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151914/58-c.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151914/58-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151915/58-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

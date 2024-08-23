@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 160 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 160,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/160/1601.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual será o número de veículos no ano de 2020?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "79,2 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "102,0 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "132,0 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "138,0 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "145,2 milhões",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

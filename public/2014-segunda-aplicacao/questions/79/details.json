@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 79 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 79,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual é o valor da velocidade escalar adquirida pelo cosmonauta, em relação à estação, após o empurrão?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,05 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,20 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,40 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,50 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,80 m/s.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

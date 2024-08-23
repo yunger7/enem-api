@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 144 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 144,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Se os resultados estimados na arrecadação forem alcançados, o faturamento médio mensal da empresa passará a ser de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 180 000,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 181 500,00.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "R$ 187 500,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "R$ 240 000,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 257 400,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

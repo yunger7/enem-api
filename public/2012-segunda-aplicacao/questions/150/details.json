@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 150 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com essas informações, os números MCCV e XLIII são, respectivamente, iguais a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 205 000 e 43 000.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "1 205 000 e 63 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 205 000 e 493 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 250 000 e 43 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 250 000 e 63 000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "year": 2017,
+  "title": "Questão 75 da prova azul do primeiro dia do Enem 2017 Segunda Aplicação",
+  "index": 75,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As relações do plano de projeção à superfície projetada mostradas nas figuras são identificadas, respectivamente, em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/https://d2q576s0wzfxtl.cloudfront.net/2018/04/26232137/75-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/https://d2q576s0wzfxtl.cloudfront.net/2018/04/26232143/75-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/https://d2q576s0wzfxtl.cloudfront.net/2018/04/26232149/75-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/https://d2q576s0wzfxtl.cloudfront.net/2018/04/26232207/75-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/https://d2q576s0wzfxtl.cloudfront.net/2018/04/26232212/75-e.png",
+      "isCorrect": false
+    }
+  ]
+}

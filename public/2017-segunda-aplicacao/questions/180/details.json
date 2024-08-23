@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 180 da prova azul do segundo dia do Enem 2017 Segunda Aplicação",
+  "index": 180,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/180/180.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A representação algébrica do lucro (L) em função do tempo (t) é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "L(t) = 20t + 3 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "L(t) = 20t + 4 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "L(t) = 200t",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "L(t) = 200t - 1 000",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "L(t) 200t + 3 000",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

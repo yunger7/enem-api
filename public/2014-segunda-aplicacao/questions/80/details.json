@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 80 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 80,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A ingestão dessa variedade geneticamente modificada está relacionada à redução da incidência de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fragilidade óssea.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fraqueza muscular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "problemas de visão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "alterações na tireoide.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sangramento gengival.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

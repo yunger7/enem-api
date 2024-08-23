@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 55 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 55,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A propriedade do aço que justifica o aspecto físico descrito no texto é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ductilidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "maleabilidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "densidade baixa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "condutividade elétrica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "condutividade térmica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

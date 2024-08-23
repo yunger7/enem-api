@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 140 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A sequência dos supermercados, de acordo com a ordem crescente do valor da noz, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A, B, C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B, A, C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "B, C, A.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "C, A, B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "C, B, A.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

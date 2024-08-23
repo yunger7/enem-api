@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 76 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 76,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O motivo pelo qual essas sacolas demoram muito tempo para se degradarem é que suas moléculas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresentam muitas insaturações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "contêm carbono em sua composição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "são formadas por elementos de alta massa atômica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "são muito longas e formadas por ligações químicas fortes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "têm origem no petróleo, que é uma matéria-prima não renovável.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 68 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 68,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O genótipo do homem, pelo sistema ABO, que exclui a possibilidade de paternidade desse filho é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "IAIA.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "IAi.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "IBIB.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IBi.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ii.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

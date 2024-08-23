@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 137 da prova cinza do segundo dia do Enem 2011 Segunda Aplicação",
+  "index": 137,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/137/137.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Tomando como base os dados da tabela, os especialistas em saúde pública do município podem verificar que o grupo com maior prioridade de vacinação é o de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "crianças entre 3 e 10 anos, porque a porcentagem de mortos é a de maior valor em relação aos outros grupos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "idosos com idade entre 60 e 80 anos, pois foi o grupo que registrou o maior número de casos de pessoas contaminadas pelo vírus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mulheres gestantes, porque a porcentagem de curadas é de 75%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "recém-nascidos, porque eles têm uma maior expectativa de vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pessoas com alto nível de obesidade, pois são do grupo com maior risco de doenças.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

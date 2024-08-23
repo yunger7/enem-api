@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 162 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 162,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual o tempo esperado para encher o mesmo reservatório, após a adaptação às novas normas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 hora",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2 horas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4 horas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8 horas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "16 horas",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

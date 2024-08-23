@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 156 da prova cinza do segundo dia do Enem 2011 Segunda Aplicação",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/156/156.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Quantos centímetros por ano, em média, o centro de gravidade do sistema se aproximará da superfície terrestre, até que a Lua se torne um planeta?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,0579",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "0,5790",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5,7900",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12,8135",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "17,2711",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

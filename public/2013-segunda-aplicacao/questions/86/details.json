@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 86 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 86,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Na espécie humana, o gameta masculino (espermatozoide) apresenta, em sua peça intermediária, um conjunto de mitocôndrias, cuja função é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "facilitar a ruptura da membrana do ovócito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "acelerar sua maturação durante a espermatogênese.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "localizar a tuba uterina para fecundação do gameta feminino",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumentar a produção de hormônios sexuais masculinos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fornecer energia para sua locomoção.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

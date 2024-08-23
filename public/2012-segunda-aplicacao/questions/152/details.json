@@ -1,0 +1,37 @@
+{
+  "year": 2012,
+  "title": "Questão 152 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual será o limite máximo de pontos que um competidor pode alcançar nessa prova?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "25",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "50",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "75",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "100",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 65 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 65,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual fenômeno ondulatório é o principal responsável para que o músico percebesse essa diferenciação\ndo som?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Difração.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Reflexão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Refração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Atenuação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Interferência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

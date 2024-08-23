@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 78 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 78,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Ao aprovar a referida lei, os vereadores estão limitando qual característica da onda?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A altura da onda sonora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A amplitude da onda sonora.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A frequência da onda sonora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A velocidade da onda sonora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O timbre da onda sonora.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

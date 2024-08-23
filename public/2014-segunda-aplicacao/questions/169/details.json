@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 169 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/169/169.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De acordo com esses dados, o valor mais aproximado para a quantidade total de passageiros transportados em 2010 entre o Brasil e os países europeus mostrados no gráfico é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "874 800.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 018 285.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 481 142.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2 499 428.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "3 240 000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 83 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 83,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A base genética dessa técnica é semelhante àquela presente no(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "transgenia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "clonagem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "hibridização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "controle biológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "melhoramento genético.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

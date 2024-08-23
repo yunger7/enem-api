@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 174 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Desta forma, o preço deste produto, no final de junho, era",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 100,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 99,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 98,01.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 97,20.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "96,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 154 da prova cinza do segundo dia do Enem 2011 Segunda Aplicação",
+  "index": 154,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/154/154.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Considere que cada criança pode se deslocar apenas na direção vertical ou horizontal dentro do labirinto. Desse modo, Ana encontra-se equidistante de Samanta e de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Carol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Denise.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Eliana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Larissa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Roberta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

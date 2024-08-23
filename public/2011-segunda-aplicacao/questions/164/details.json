@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 164 da prova cinza do segundo dia do Enem 2011 Segunda Aplicação",
+  "index": 164,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/164/164.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A área da figura sombreada do quadro é de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "36 cm².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "72 cm².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "144 cm².",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "288 cm².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "432 cm².",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

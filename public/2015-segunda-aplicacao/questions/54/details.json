@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 54 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 54,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base nessa simulação, verifica-se que o nível da água no recipiente",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "subirá com a introdução do bloquinho de gelo e, após o derretimento total do gelo, esse nível subirá ainda mais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "subirá com a introdução do bloquinho de gelo e, após o derretimento total do gelo, esse nível descerá, voltando ao seu valor inicial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "subirá com a introdução do bloquinho de gelo e, após o derretimento total do gelo, esse nível permanecerá sem alteração.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "não sofrerá alteração com a introdução do bloquinho de gelo, porém, após seu derretimento, o nível subirá devido a um aumento em torno de 10% no volume de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "subirá em torno de 90% do seu valor inicial com a introdução do bloquinho de gelo e, após seu derretimento, o nível descerá apenas 10% do valor inicial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

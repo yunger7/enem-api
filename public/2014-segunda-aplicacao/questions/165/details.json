@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 165 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A distância r que o ciclista deverá pedalar a mais a cada dia, em km, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "13.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "20.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

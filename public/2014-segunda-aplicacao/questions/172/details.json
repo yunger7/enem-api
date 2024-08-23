@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 172 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A quantidade de candidatos selecionados pelo clube de futebol foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "14.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "16.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "32.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "42.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

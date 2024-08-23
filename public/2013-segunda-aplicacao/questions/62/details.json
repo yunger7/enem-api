@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 62 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 62,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em processos industriais, uma das vantagens de se substituírem os catalisadores químicos tradicionais por enzimas decorre do fato de estas serem",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "consumidas durante o processo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "compostos orgânicos e biodegradáveis.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "inespecíficas para os substratos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "estáveis em variações de temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "substratos nas reações químicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

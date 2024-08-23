@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 151 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é a cotação da libra, em dólares?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4,224 dólares",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,64 dólares",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,65 dólar",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1,50 dólar",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,36 dólar",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

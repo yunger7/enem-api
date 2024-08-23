@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 59 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 59,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em um experimento, foi realizado um cruzamento entre indivíduos heterozigotos para os dois caracteres, do qual foram geradas 288 moscas. Dessas, qual é a quantidade esperada de moscas que apresentam o mesmo fenótipo dos indivíduos parentais?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "288",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "162",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "108",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "54",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

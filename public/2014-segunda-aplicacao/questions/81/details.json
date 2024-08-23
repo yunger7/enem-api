@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 81 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 81,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual região fitogeográfica brasileira apresenta plantas com essas características?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Cerrado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Pantanal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Caatinga.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Mata Atlântica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Floresta Amazônica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

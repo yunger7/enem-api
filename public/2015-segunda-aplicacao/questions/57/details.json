@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 57 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 57,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Que fator ambiental é o responsável pela ocorrência dessas características adaptativas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Escassez de nutrientes no solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Estratificação da vegetação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Elevada insolação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Baixo pH do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Escassez de água.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 173 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para poder acomodar todos os convidados sentados, com as mesas existentes e dentro da área disponível para acomodação das mesas e cadeiras, como deverão ser organizadas as mesas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Todas deverão ser separadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Todas mantidas no agrupamento original de duas mesas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Um terço das mesas separadas e dois terços agrupadas duas a duas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Um quarto das mesas separadas e o restante em agrupamento de duas a duas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Sessenta por cento das mesas separadas e quarenta por cento agrupadas duas a duas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

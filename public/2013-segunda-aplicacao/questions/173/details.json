@@ -1,0 +1,49 @@
+{
+  "year": 2013,
+  "title": "Questão 173 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-a.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-b.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-c.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-d.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nessas condições, considerando P o número de pessoas presentes em um determinado dia e F o faturamento com a venda dos ingressos, a expressão que relaciona o faturamento em função do número de pessoas é dada por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152213/173-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152214/173-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152214/173-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152215/173-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152216/173-e.png",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 85 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 85,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é o volume de água, em litros, bombeado para o reservatório no intervalo de tempo citado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "150.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "250.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "450.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "900.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1440.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

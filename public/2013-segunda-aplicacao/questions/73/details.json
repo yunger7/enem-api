@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 73 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 73,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Enquanto o ursinho gira, sua sombra descreve um movimento",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "circular uniforme.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "retilíneo uniforme.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "retilíneo harmônico simples.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "circular uniformemente variado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "retilíneo uniformemente variado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 158 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 158,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual jovem apresentou o melhor argumento para a escolha da pizza?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Alan.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Breno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Cleber.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Davidson.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Eric.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

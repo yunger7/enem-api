@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 150 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para obter o lucro máximo nas vendas, os pacotes devem conter uma quantidade de bonés igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "9.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "14.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

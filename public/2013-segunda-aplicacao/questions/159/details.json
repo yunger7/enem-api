@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 159 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 159,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Nessas condições, qual a probabilidade de que a peça defeituosa escolhida tenha sido produzida pela máquina M?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3/100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/25",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1/3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "3/7",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2/3",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

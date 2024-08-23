@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 156 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual o tipo de piso o mestre de obras recomendou que fosse comprado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Tipo I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Tipo II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Tipo III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Tipo IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Tipo V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

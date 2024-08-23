@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 56 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 56,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A desestabilização provocada pelo etanol ocorre porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a polaridade da água no sistema coloidal é reduzida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as cargas superficiais das partículas coloidais são diminuídas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as camadas de solvatação de água nas partículas são diminuídas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o processo de miscibilidade da água e do solvente libera calor para o meio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a intensidade dos movimentos brownianos das partículas coloidais é reduzida.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

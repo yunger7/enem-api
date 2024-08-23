@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 66 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 66,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual a probabilidade de a quarta criança gerada por esses pais apresentar fenilcetonúria?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12,5%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "25%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "50%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "75%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

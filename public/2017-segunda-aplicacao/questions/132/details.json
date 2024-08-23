@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 132 da prova azul do segundo dia do Enem 2017 Segunda Aplicação",
+  "index": 132,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/132/132.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Quando a bateria está completamente carregada, o tempo máximo, em minuto, que esse notebook pode ser usado antes que ela “descarregue” completamente é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "24,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "36,7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "132.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "333.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "528.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

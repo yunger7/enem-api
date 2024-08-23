@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 66 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 66,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para que a quantidade total de etanol seja a mesma nos dois lotes, o volume de álcool a 70% fornecido na troca deve ser mais próximo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1042 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1371 L.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1428 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1632 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1700 L.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

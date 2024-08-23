@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 67 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 67,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As distâncias, medidas a partir do ponto em que iniciam a frenagem, que os carros 1 (d1) e 2 (d2) percorrem até parar são, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "d1 = 45 m e d2 = 60 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "d1 = 60 m e d2 = 45 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "d1 = 90 m e d2 = 120 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "d1 = 5,8x10² m e d2 = 7,8x10² m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "d1 = 7,8x10² m e d2 = 5,8x10² m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

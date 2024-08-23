@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 159 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 159,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual o valor que mais se aproxima da diferença, em reais, entre as médias do custo por quilômetro rodado ao final das duas corridas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,75",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,38",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,33",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,13",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

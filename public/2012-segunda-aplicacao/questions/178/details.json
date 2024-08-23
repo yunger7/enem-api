@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 178 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Quantos litros de tinta sobrarão sem serem misturados?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "9.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "12.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "14.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "17.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

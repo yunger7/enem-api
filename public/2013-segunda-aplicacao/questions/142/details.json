@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 142 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/142/142.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Após analisar o esboço e realizar alguns cálculos, a dona de casa decidiu que poderia comprar uma escrivaninha, de largura máxima igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,8 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,0 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1,4 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,6 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,8 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

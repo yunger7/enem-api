@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 142 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O índice revela que as quantidades relativas de admiradores do estudante e pessoas que visitam seu perfil são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "103 em cada 330.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "104 em cada 333.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "104 em cada 3 333.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "139 em cada 330.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 039 em cada 3 330.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

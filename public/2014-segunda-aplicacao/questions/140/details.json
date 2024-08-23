@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 140 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O milésimo cliente receberá de brinde um(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "bola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "caneta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "refrigerante.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "sorvete.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "CD.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

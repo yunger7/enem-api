@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 157 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 157,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual é o número atual de caminhões que essa fábrica usa para transportar a produção semanal, respeitando-se a política de redução de carga?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "36",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "30",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "19",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "16",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

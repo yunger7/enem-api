@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 79 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 79,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O desequilíbrio da cadeia alimentar observado foi causado pelo aumento da densidade populacional de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "consumidores terciários, em função da elevada disponibilidade de consumidores secundários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "consumidores primários, em função da ausência de consumidores secundários.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "consumidores secundários, em função da ausência de consumidores primários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "consumidores terciários, em função da elevada disponibilidade de produtores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "consumidores primários, em função do aumento de produtores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 179 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/179/179.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base no gráfico, podemos constatar que o saldo devedor inicial, a parcela mensal de juros e a taxa de juros são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 500,00; constante e inferior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 560,00; variável e inferior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 500,00; variável e superior a 10% ao mês.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 560,00; constante e superior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 500,00; variável e inferior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

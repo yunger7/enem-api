@@ -1,0 +1,49 @@
+{
+  "year": 2014,
+  "title": "Questão 156 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-a.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-b.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-c.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-d.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Considerando x o valor total da conta mensal de uma determinada residência e y o valor dos impostos, qual é a expressão algébrica que relaciona x e y?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151920/156-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151920/156-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151922/156-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151922/156-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151923/156-e.png",
+      "isCorrect": false
+    }
+  ]
+}

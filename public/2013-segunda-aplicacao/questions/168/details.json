@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 168 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 168,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Quantos algarismos tem um gugolplex?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "101",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10^100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "10^100 + 1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "10^1 000 + 1",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

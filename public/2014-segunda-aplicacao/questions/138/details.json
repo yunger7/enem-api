@@ -1,0 +1,50 @@
+{
+  "year": 2014,
+  "title": "Questão 138 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+  "index": 138,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-a.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-b.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-c.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-d.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-e.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A planificação da superfície do prisma resultante ABJIDEFKLH corresponde à figura",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151858/138-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151859/138-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151900/138-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151901/138-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/https://d2q576s0wzfxtl.cloudfront.net/2017/12/08151902/138-e.png",
+      "isCorrect": true
+    }
+  ]
+}

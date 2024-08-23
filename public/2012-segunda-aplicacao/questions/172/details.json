@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 172 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/172/172.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "É possível ocorrer a troca de arrumação segundo a nova proposta?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Não, porque a segunda proposta deixa uma folga de 4 cm na altura do compartimento, que é de 12 cm, o que permitiria colocar um número maior de caixas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Não, porque, para aceitar a segunda proposta, seria necessário praticamente dobrar a altura e reduzir à metade a largura do compartimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Sim, porque a nova disposição das caixas ficaria acomodada perfeitamente no compartimento de 20 cm de altura por 27 cm de largura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Sim, pois efetivamente aumentaria o número de caixas e reduziria o número de folgas para apenas uma de 2 cm na largura do compartimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Sim, porque a nova disposição de caixas ficaria acomodada perfeitamente no compartimento de 32 cm de altura por 45 cm de largura.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

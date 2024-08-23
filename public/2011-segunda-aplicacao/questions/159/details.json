@@ -1,0 +1,46 @@
+{
+  "year": 2011,
+  "title": "Questão 159 da prova cinza do segundo dia do Enem 2011 Segunda Aplicação",
+  "index": 159,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/159/159.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/159/159-2.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nessas condições, a razão entre as probabilidades de acerto de José e de Antônio nos menores prêmios de cada loteria é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "261/3114,  o que mostra que Antônio tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "783/1038,  o que mostra que Antônio tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1038/261,  o que mostra que José tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3114/261, o que mostra que Antônio tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3114/261, o que mostra que José tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 90 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 90,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Outros fatores de origem antrópica que aumentam o efeito estufa são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "chuva ácida e destruição da camada de ozônio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "alagamento e inversão térmica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "erosão e extinção das espécies.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "poluição das águas e do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "queimada e desmatamento.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

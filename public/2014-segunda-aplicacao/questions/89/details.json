@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 89 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 89,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A adição do adubo descrito provocou diminuição no pH de um solo. Considerando o caráter ácido/básico das substâncias constituintes desse adubo, a diminuição do pH do solo deve ser atribuída à presença, no adubo, de uma quantidade significativa de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ureia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "fosfato de sódio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "nitrato de amônio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "nitrato de potássio",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cloreto de potássio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "year": 2013,
+  "title": "Questão 148 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-a.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-b.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-c.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-d.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Seja F(x) a função que representa a distância da partícula P ao centro O do quadrado, a cada instante de sua trajetória, sendo x (em cm) o comprimento do percurso percorrido por tal partícula. Qual o gráfico que representa F(x)?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152146/148-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152147/148-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152148/148-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152149/148-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/https://d2q576s0wzfxtl.cloudfront.net/2018/01/08152150/148-e.png",
+      "isCorrect": false
+    }
+  ]
+}

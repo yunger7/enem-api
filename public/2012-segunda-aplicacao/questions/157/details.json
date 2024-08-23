@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 157 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 157,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/157/1573.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em suas observações, quantas vezes o jovem pôde constatar que a bola atingiu a marca de 35 metros?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Nenhuma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Uma vez.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Duas vezes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Quatro vezes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Cinco vezes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

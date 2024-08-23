@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 175 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 175,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual a atitude, em relação ao tempo de exercício diário, essa pessoa deve tomar para suprir exatamente o consumo diário de água da sua casa?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Reduzir o seu tempo diário de exercício na bicicleta em 6 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Reduzir o seu tempo diário de exercício na bicicleta em 10 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Aumentar o seu tempo diário de exercício na bicicleta em 5 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Aumentar o seu tempo diário de exercício na bicicleta em 6 minutos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Aumentar o seu tempo diário de exercício na bicicleta em 10 minutos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

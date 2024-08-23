@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 157 da prova azul do segundo dia do Enem 2017 Segunda Aplicação",
+  "index": 157,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A relação entre P0 e P1 é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "P1 = P0/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "P1 = P0/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "P1 = P0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "P1 = 2P0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "P1 = 8P0",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

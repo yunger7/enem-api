@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 62 da prova cinza do primeiro dia do Enem 2015 Segunda Aplicação",
+  "index": 62,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De qual órgão do cachorro a enzima foi retirada?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Fígado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Pâncreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Estômago.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Vesícula biliar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Intestino delgado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

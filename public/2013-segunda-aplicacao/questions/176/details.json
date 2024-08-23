@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 176 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 176,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Neste experimento, o número de bactérias em função do tempo pode ser modelado por uma função do tipo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "afim.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "seno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cosseno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "logarítmica crescente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "exponencial.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

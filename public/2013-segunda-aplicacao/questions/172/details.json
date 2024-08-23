@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 172 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Após essa modificação, quanto aumentou, em cm² , a área do desenho da planta?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,0108",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "108",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "191,88",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "300",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "43 200",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

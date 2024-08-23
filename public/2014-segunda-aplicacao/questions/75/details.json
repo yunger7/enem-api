@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 75 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 75,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para explicar o comportamento do etanol antes e depois da adição de água, é necessário conhecer",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a densidade dos líquidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o tamanho das moléculas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o ponto de ebulição dos líquidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os átomos presentes nas moléculas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o tipo de interação entre as moléculas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

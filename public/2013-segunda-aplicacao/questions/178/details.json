@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 178 da prova cinza do segundo dia do Enem 2013 Segunda Aplicação",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/178/178.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Em quais experimentos a fonte sonora se afastou do ouvinte?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Somente nos experimentos 1, 2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Somente nos experimentos 2, 3 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Somente nos experimentos 2 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Somente nos experimentos 3 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Somente no experimento 4.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 134 da prova azul do segundo dia do Enem 2017 Segunda Aplicação",
+  "index": 134,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/134/134.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em relação ao funcionamento da enzima, os resultados obtidos indicam que o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumento do pH leva a um a atividade maior da enzima.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "temperatura baixa (10 °C) é o principal inibidor da enzima.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ambiente básico reduz a quantidade de enzima necessária na reação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ambiente básico reduz a quantidade de substrato metabolizado pela enzima.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "temperatura ótima de funcionamento da enzima é 30 °C , independentemente do pH.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

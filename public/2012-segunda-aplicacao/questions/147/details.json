@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 147 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 147,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual foi o volume de água que sobrou no reservatório, em m³ , no momento em que parou o vazamento?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3,6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4,2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "25,8",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "26,4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "27,6",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

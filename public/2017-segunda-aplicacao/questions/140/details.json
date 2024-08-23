@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 140 da prova azul do segundo dia do Enem 2017 Segunda Aplicação",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/140/140.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em qual(is) medição(ões) a liberação de GH na corrente sanguínea em uma sessão de intensidade máxima foi maior que a liberação de GH ocorrida nas demais intensidades?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Apenas na medição feita logo após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Apenas na medição feita 1 hora após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Apenas na medição feita 2 horas após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Nas medições feitas logo após e 1 hora após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Nas medições feitas logo após, 1 hora após e 2 horas após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 60 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 60,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Essa intervenção humana no destino da vinhaça tem como resultado a diminuição do impacto ambiental referente à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "erosão do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "produção de chuva ácida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "elevação da temperatura global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "eutrofização de lagos e represas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "contaminação de rios por pesticidas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

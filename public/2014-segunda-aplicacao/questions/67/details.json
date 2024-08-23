@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 67 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+  "index": 67,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Desprezando a resistência do ar, qual é a direção e o sentido do vetor força resultante que atua sobre o objeto no ponto mais alto da trajetória?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Indefinido, pois ele é nulo, assim como a velocidade vertical nesse ponto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Vertical para baixo, pois somente o peso está presente durante o movimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Horizontal no sentido do movimento, pois devido à inércia o objeto mantém seu movimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Inclinado na direção do lançamento, pois a força inicial que atua sobre o objeto é constante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Inclinado para baixo e no sentido do movimento, pois aponta para o ponto onde o objeto cairá.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

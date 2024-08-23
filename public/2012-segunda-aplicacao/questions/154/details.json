@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 154 da prova cinza do segundo dia do Enem 2012 Segunda Aplicação",
+  "index": 154,
+  "discipline": "matematica",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Determine a quantidade de latas de impermeabilizante que deve ser comprada e o fornecedor a ser escolhido, de modo a se obter o menor custo.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Fabricante A, 26 latas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Fabricante A, 46 latas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Fabricante B, 17 latas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Fabricante B, 18 latas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Fabricante B, 31 latas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

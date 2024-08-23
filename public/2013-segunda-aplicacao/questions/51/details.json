@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 51 da prova cinza do primeiro dia do Enem 2013 Segunda Aplicação",
+  "index": 51,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para que as duas lâmpadas possam funcionar de acordo com suas especificações e o circuito tenha menor perda possível, a estrutura do circuito elétrico deverá ser de dois bocais ligados em",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "série e usar fios de maior espessura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "série e usar fios de máximo comprimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "paralelo e usar fios de menor espessura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "paralelo e usar fios de maior espessura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "paralelo e usar fios de máximo comprimento",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

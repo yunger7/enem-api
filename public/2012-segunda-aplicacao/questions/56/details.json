@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 56 da prova cinza do primeiro dia do Enem 2012 Segunda Aplicação",
+  "index": 56,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os microrganismos adequados a essa solução devem apresentar a capacidade de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "excretar hidrocarbonetos solúveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estabilizar quimicamente os hidrocarbonetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "utilizar hidrocarbonetos em seu metabolismo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "diminuir a degradação abiótica de hidrocarbonetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "transferir hidrocarbonetos para niveis tróficos superiores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}
