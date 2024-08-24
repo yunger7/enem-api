@@ -1,43 +1,43 @@
 {
-    "title": "Questão 141 - ENEM 2023",
-    "index": 141,
-    "year": 2023,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual a probabilidade de o vencedor do sorteio ser um estudante do terceiro ano?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/141/e698edb1-adc0-416b-9370-c20a7e878259.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/141/b5f5bdf5-2251-4326-9877-ce9c2d831600.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/141/d241fadb-6516-4ca8-aa9b-e72fff314881.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/141/1dcce683-4ef7-4862-b554-3e3c66de54c3.jpg",
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": null,
-            "file": "https://enem.dev/2023/questions/141/7b4de18d-92ca-488f-8419-ec95d852a135.jpg",
-            "isCorrect": true
-        }
-    ]
+  "title": "Questão 141 - ENEM 2023",
+  "index": 141,
+  "year": 2023,
+  "language": null,
+  "discipline": "matematica",
+  "context": "No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos ficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto, um sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão depositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com seu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano, três cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro ano. Todos os cartões têm a mesma probabilidade de serem sorteados.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual a probabilidade de o vencedor do sorteio ser um estudante do terceiro ano?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2023/questions/141/e698edb1-adc0-416b-9370-c20a7e878259.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2023/questions/141/b5f5bdf5-2251-4326-9877-ce9c2d831600.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2023/questions/141/d241fadb-6516-4ca8-aa9b-e72fff314881.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2023/questions/141/1dcce683-4ef7-4862-b554-3e3c66de54c3.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2023/questions/141/7b4de18d-92ca-488f-8419-ec95d852a135.jpg",
+      "isCorrect": true
+    }
+  ]
 }

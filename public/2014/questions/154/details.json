@@ -1,43 +1,43 @@
 {
-    "title": "Questão 154 - ENEM 2014",
-    "index": 154,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Qual desses jogadores apresentou maior desempenho?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "I",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "II",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "III",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "IV",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "V",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 154 - ENEM 2014",
+  "index": 154,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Boliche é um jogo em que se arremessa uma bola sobre uma pista para atingir dez pinos, dispostos em uma formação de base triangular, buscando derrubar o maior número de pinos. A razão entre o total de vezes em que o jogador derruba todos os pinos e o número de jogadas determina seu desempenho.Em uma disputa entre cinco jogadores, foram obtidos os seguintes resultados:\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual desses jogadores apresentou maior desempenho?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IV",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "V",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

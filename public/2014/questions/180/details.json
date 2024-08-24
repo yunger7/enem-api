@@ -1,43 +1,43 @@
 {
-    "title": "Questão 180 - ENEM 2014",
-    "index": 180,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "16h.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "10h.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "7h.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "4h.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "1h.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 180 - ENEM 2014",
+  "index": 180,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um executivo sempre viaja entre as cidades A e B, que estão localizadas em fusos horários distintos. O tempo de duração da viagem de avião entre as duas cidades é de 6 horas. Ele sempre pega um voo que sai de A às 15h e chega à cidade B às 18h (respectivos horários locais).Certo dia, ao chegar à cidade B, soube que precisava estar de volta à cidade A, no máximo, até as 13h do dia seguinte (horário local de A).\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "16h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "10h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "7h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4h.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1h.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,43 +1,43 @@
 {
-    "title": "Questão 179 - ENEM 2017",
-    "index": 179,
-    "year": 2017,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "0,075",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "0,150",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "0,325",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "0,600",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "0,800",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 179 - ENEM 2017",
+  "index": 179,
+  "year": 2017,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um morador de uma região metropolitana tem 50% de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25%. Para um determinado dia, o serviço de meteorologia estima em 30% a probabilidade da ocorrência de chuva nessa região.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,075",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,150",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,325",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "0,600",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,800",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

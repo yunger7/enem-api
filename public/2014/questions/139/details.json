@@ -1,43 +1,43 @@
 {
-    "title": "Questão 139 - ENEM 2014",
-    "index": 139,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A razão entre a largura da nova porta e a largura da porta anterior é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "1/8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "7/8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "8/7",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "8/9",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "9/8",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 139 - ENEM 2014",
+  "index": 139,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um carpinteiro fabrica portas retangulares maciças, feitas de um mesmo material. Por ter recebido de seus clientes pedidos de portas mais altas, aumentou sua altura em ⅛, preservando suas espessuras. A fim de manter o custo com o material de cada porta, precisou reduzir a largura.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A razão entre a largura da nova porta e a largura da porta anterior é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "8/7",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8/9",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "9/8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

@@ -4,7 +4,7 @@
   "index": 159,
   "discipline": "matematica",
   "language": null,
-  "context": null,
+  "context": "Uma fábrica possui duas máquinas que produzem o mesmo tipo de peça. Diariamente a máquina M produz 2 000 peças e a máquina N produz 3 000 peças. Segundo o controle de qualidade da fábrica, sabe-se que 60 peças, das 2000 produzidas pela máquina M, apresentam algum tipo de defeito, enquanto que 120 peças, das 3 000 produzidas pela máquina N, também apresentam defeitos. Um trabalhador da fábrica escolhe ao acaso uma peça, e esta é defeituosa.\n\nnull",
   "files": [],
   "correctAlternative": "C",
   "alternativesIntroduction": "Nessas condições, qual a probabilidade de que a peça defeituosa escolhida tenha sido produzida pela máquina M?",

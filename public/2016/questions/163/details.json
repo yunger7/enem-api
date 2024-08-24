@@ -1,43 +1,43 @@
 {
-    "title": "Questão 163 - ENEM 2016",
-    "index": 163,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Após a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "DB < dA < dC",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "DB = dA < dC",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "DC < dB = dA",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "DB < dC < dA",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "DC < dB < dA",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 163 - ENEM 2016",
+  "index": 163,
+  "year": 2016,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Densidade absoluta (d) é a razão entre a massa de um corpo e o volume por ele ocupado. Um professor propôs à sua turma que os alunos analisassem a densidade de três corpos: dA, dB e dC. Os alunos verificaram que o corpo A possuía 1,5 vez a massa do corpo B e esse, por sua vez, tinha 3/4 da massa do corpo C. Observaram, ainda, que o volume do corpo A era o mesmo do corpo B e 20% maior do que o volume do corpo C.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Após a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "DB < dA < dC",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "DB = dA < dC",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "DC < dB = dA",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "DB < dC < dA",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "DC < dB < dA",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

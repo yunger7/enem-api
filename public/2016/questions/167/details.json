@@ -1,43 +1,43 @@
 {
-    "title": "Questão 167 - ENEM 2016",
-    "index": 167,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "C",
-    "alternativesIntroduction": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "18",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "20",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "36",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "D",
-            "text": "45",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "54",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 167 - ENEM 2016",
+  "index": 167,
+  "year": 2016,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um túnel deve ser lacrado com uma tampa de concreto. A seção transversal do túnel e a tampa de concreto têm contornos de um arco de parábola e mesmas dimensões. Para determinar o custo da obra, um engenheiro deve calcular a área sob o arco parabólico em questão. Usando o eixo horizontal no nível do chão e o eixo de simetria da parábola como eixo vertical, obteve a seguinte equação para a parábola: y = 9 – x2 , sendo x e y medidos em metros.Sabe-se que a área sob uma parábola como esta é igual a 2/3 da área do retângulo cujas dimensões são, respectivamente, iguais à base e à altura da entrada do túnel.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é a área da parte frontal da tampa de concreto, em metro quadrado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "18",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "36",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "54",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

@@ -4,7 +4,7 @@
   "index": 170,
   "discipline": "matematica",
   "language": null,
-  "context": null,
+  "context": "Para um principiante em corrida, foi estipulado o seguinte plano de treinamento diário: correr 300 metros no primeiro dia e aumentar 200 metros por dia, a partir do segundo. Para contabilizar seu rendimento, ele utilizará um chip, preso ao seu tênis, para medir a distância percorrida nos treinos. Considere que esse chip armazene, em sua memória, no máximo 9,5 km de corrida/caminhada, devendo ser colocado no momento do início do treino e descartado após esgotar o espaço para reserva de dados.\n\nnull",
   "files": [],
   "correctAlternative": "B",
   "alternativesIntroduction": "Se esse atleta utilizar o chip desde o primeiro dia de treinamento, por quantos dias consecutivos esse chip poderá armazenar a quilometragem desse plano de treino diário?",
