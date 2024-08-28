@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 125 - ENEM 2015",
+  "index": 125,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Minha mãe achava estudo a coisa mais fina do mundo. Não é.\nA coisa mais fina do mundo é o sentimento.\nAquele dia de noite, o pai fazendo serão,\nela falou comigo:\n“Coitado, até essa hora no serviço pesado”.\nArrumou pão e café, deixou tacho no fogo com água quente.\nNão me falou em amor.\nEssa palavra de luxo.\n\n                                                  PRADO, A. Poesia reunida. São Paulo: Siciliano, 1991",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Um dos procedimentos consagrados pelo Modernismo foi a percepção de um lirismo presente nas cenas e fatos do cotidiano. No poema de Adélia Prado, o eu lírico resgata a poesia desses elementos a partir do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reflexão irônica sobre a importância atribuída aos estudos por sua mãe.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sentimentalismo, oposto à visão pragmática que reconhecia na mãe.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "olhar comovido sobre seu pai, submetido ao trabalho pesado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "reconhecimento do amor num gesto de aparente banalidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "enfoque nas relações afetivas abafadas pela vida conjugal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

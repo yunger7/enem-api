@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 74 - ENEM 2013",
+  "index": 74,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A hematita (a-Fe2O3), além de ser utilizada para obtenção do aço, também é utilizada como um catalisador de processos químicos, como na síntese da amônia, importante matéria-prima da indústria agroquímica.\n\n                                                  MEDEIROS, M. A. F. Química Nova na Escola, São Paulo, v. 32, n. 3, ago. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O uso da hematita viabiliza economicamente a produção da amônia, porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diminui a rapidez da reação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diminui a energia de ativação da reação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "aumenta a variação da entalpia da reação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumenta a quantidade de produtos formados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumenta o tempo do processamento da reação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

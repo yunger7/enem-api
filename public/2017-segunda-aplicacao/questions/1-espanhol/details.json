@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 1 - ENEM 2017",
+  "index": 1,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "CIUDAD DE MÉXICO — José Rodríguez camina junto a su nieto frente al altar gigante con ofrendas del Día de los Muertos en el Zócalo de la capital mexicana, una tradición prehispánica que ocurre el 1 y 2 de noviembre de cada ano. “Vengo con mi nieto porque quiero que vea que en México la muerte no sólo es lo que ve en los noticieros”, comenta.\nMéxico consagra los dos primeros días de noviembre a homenajear a sus muertos. Las familias disponen coloridas mesas con las bebidas, platillos, frutas o cigarrillos favoritos de sus difuntos. Algunas incluso lo hacen directamente en los cementerios, a cuyas puertas se agolpan músicos para llevar serenatas a los muertos. Toneladas de cempazuchitl, una flor amarilla, son usadas para tapizar los panteones.\nEs una fiesta para celebrar a quienes se han ido. Aunque cada vez es más palpable la influencia de Halloween, México se resiste a las tendencias que llegan del vecino Estados Unidos y conserva una de las fiestas más coloristas de su calendario, el Día de los Muertos.\nUn estudio de la Procuraduría de Defensa del Consumidor (Profeco) elaborado en octubre de 2009 reveló que el 81 por ciento de los casi 300 encuestados en 29 de los 32 estados mexicanos celebran el Día de los Muertos, frente al cuatro por ciento que se decantó por Halloween.\n\n                                                  SANTACRUZ, L. A. Disponível em: http://noticias.univision.com.\nAcesso em: 16 jan. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O Día de los Muertos é uma tradicional manifestação cultural do México. De acordo com a notícia, essa festa perdura devido",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à homenagem prestada às pessoas que morreram pela glória do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aos estudos que reafirmam a importância desse dia para a cultura mexicana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à reação causada pela exposição da morte de forma banalizada pelos noticiários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à proibição da incorporação de aspectos da cultura norte-americana aos hábitos locais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao engajamento da população em propagar uma crença tradicional anterior à colonização.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 115 - ENEM 2017",
+  "index": 115,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Atualmente, o medicamento de escolha para o tratamento da esquistossomose causada por todas as espécies do verme Schistosoma e o praquizentel (PQZ). Apesar de ser eficaz e seguro, seu uso em larga escala e tratamentos repetitivos em áreas endêmicas têm provocado a seleção de linhagens resistentes.\n\n                                                  LAGE, R. C. G. Disponível em: www.repositorio.ufop.br. Acesso em: 17 dez. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é o mecanismo de seleção dos vermes resistentes citados?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Os vermes tornam-se resistentes ao entrarem em contato com o medicamento quando invadem muitos hospedeiros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Os vermes resistentes absorvem o medicamento, passando-o para seus descendentes, que também se tornam resistentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Os vermes resistentes transmitem resistência ao medicamento quando entram em contato com outros vermes dentro do hospedeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Os vermes resistentes tendem a sobreviver e produzir mais descendentes do que os vermes sobre os quais o medicamento faz efeito.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Os vermes resistentes ao medicamento tendem a eliminar os vermes que não são resistentes, fazendo com que apenas os mais fortes sobrevivam.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

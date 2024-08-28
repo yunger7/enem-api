@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 92 - ENEM 2013",
+  "index": 92,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/92/92.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Esse anúncio faz parte de uma campanha de conscientização que pretende",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "chamar a atenção para o perigo de extinção de alguns animais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "alertar sobre o risco do consumo abusivo de bebidas enlatadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "denunciar o impacto ambiental causado pelo ser humano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "fazer um catálogo com as pegadas das variadas espécies.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "promover uma marca de refrigerante usando a sua embalagem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

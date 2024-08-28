@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 124 - ENEM 2011",
+  "index": 124,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/124/124.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As modernas técnicas de comunicação estão associadas aos impactos da mensagem. Nesse texto, a intenção é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alertar para os perigos dos animais domésticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mostrar os cuidados com os cães de estimação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "registrar um protesto contra a prisão de animais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sugerir brincadeiras de crianças com os cães.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "valorizar a adoção como saída para dramas sociais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

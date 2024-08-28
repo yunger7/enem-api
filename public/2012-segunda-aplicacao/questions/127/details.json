@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 127 - ENEM 2012",
+  "index": 127,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/127/127.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Rompendo com as paredes retas e com a geometrização clássica acadêmica, os arquitetos modernistas desenvolveram seus projetos graças também a um momento de industrialização e modernização do Brasil. Observando a imagem apresentada, analisa-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Niemeyer projetou os edifícios de Brasília com a intenção de impor a arquitetura sobre a natureza, seguindo os princípios da arquitetura moderna.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o Palácio da Alvorada, em Brasília, na posição horizontal permite fazer uma integração do edifício com a paisagem do cerrado e o horizonte, um conceito de vanguarda para a arquitetura da época.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Niemeyer projetou o Palácio da Alvorada com colunas de linhas quebradas e rígidas, com o propósito de unir as tendências recentes da arquitetura moderna, criando um novo estilo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os prédios de Brasília são elevados e sustentados por colunas, deixando um espaço livre sob o edifício, com o objetivo de separar o ambiente externo do interno, trazendo mais harmonia à obra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Niemeyer projetou os edifícios de Brasília com espaços amplos, colunas curvas, janelas largas e grades de proteção, separando os jardins e praças da área útil do prédio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

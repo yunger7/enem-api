@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 135 - ENEM 2013",
+  "index": 135,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Meu povo, meu poema\nMeu povo e meu poema crescem juntos\nComo cresce no fruto\nA árvore nova\nNo povo meu poema vai nascendo\nComo no canavial\nNasce verde o açúcar\nNo povo meu poema está maduro\nComo o sol\nNa garganta do futuro\nMeu povo em meu poema\nSe reflete\nComo espiga se funde em terra fértil\nAo povo seu poema aqui devolvo\nMenos como quem canta\nDo que planta\n\n                                                  FERREIRA GULLAR. Toda poesia. José Olympio: Rio de Janeiro, 2000.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O texto Meu povo, meu poema, de Ferreira Gullar, foi escrito na década de 1970. Nele, o diálogo com o contexto sociopolítico em que se insere expressa uma voz poética que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "precisa do povo para produzir seu texto, mas se esquiva de enfrentar as desigualdades sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dilui a importância das contingências políticas e sociais na construção de seu universo poético.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "associa o engajamento político à grandeza do fazer poético, fator de superação da alienação do povo",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "afirma que a poesia depende do povo, mas esse nem sempre vê a importância daquela nas lutas de classe.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reconhece, na identidade entre o povo e a poesia, uma etapa de seu fortalecimento humano e social.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

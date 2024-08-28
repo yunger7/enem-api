@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 87 - ENEM 2013",
+  "index": 87,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "As moléculas de água são dipolos elétricos que podem se alinhar com o campo elétrico, da mesma forma que uma bússola se alinha com um campo magnético. Quando o campo elétrico oscila, as moléculas de água fazem o mesmo. No forno de micro-ondas, a frequência de oscilação do campo elétrico é igual à frequência natural de rotação das moléculas de água. Assim, a comida é cozida quando o movimento giratório das moléculas de água transfere a energia térmica às moléculas circundantes.\n\n                                                  HEWITT, P. Física conceitual. Porto Alegre: Bookman, 2002 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A propriedade das ondas que permite, nesse caso, um aumento da energia de rotação das moléculas de água é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reflexão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "refração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ressonância.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "superposição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "difração.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

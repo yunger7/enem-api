@@ -1,0 +1,46 @@
+{
+  "year": 2017,
+  "title": "Questão 177 - ENEM 2017",
+  "index": 177,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O supervisor de um laboratório precisa comprar um aparelho para climatizar o ambiente. Nele, ficarão duas pessoas mais uma centrífuga que emite calor. O laboratório tem a forma de trapézio retângulo, com as medidas apresentadas na figura.\n\n                                                \n                \n                  \n                                                    \n              \n                                                Para economizar energia, o supervisor deverá escolher o aparelho de menor capacidade térmica que atenda às necessidades do laboratório e às recomendações do fabricante.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/177/177-I.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/177/177-II.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A escolha do supervisor recairá sobre o aparelho do tipo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

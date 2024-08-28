@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 153 - ENEM 2016",
+  "index": 153,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O recinto das provas de natação olímpica utiliza a mais avançada tecnologia para proporcionar aos nadadores condições ideais. Isso passa por reduzir o impacto da ondulação e das correntes provocadas pelos nadadores no seu deslocamento. Para conseguir isso, a piscina de competição tem uma profundidade uniforme de 3 m, que ajuda a diminuir a “reflexão” da água (o movimento contra uma superfície e o regresso no sentido contrário, atingindo os nadadores), além dos já tradicionais 50 m de comprimento e 25 m de largura. Um clube deseja reformar sua piscina de 50 m de comprimento, 20 m de largura e 2 m de profundidade de forma que passe a ter as mesmas dimensões das piscinas olímpicas.\n\n                                                  Disponível em: http://desporto.publico.pt. Acesso em: 6 ago. 2012.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Após a reforma, a capacidade dessa piscina superará a capacidade da piscina original em um valor mais próximo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "20%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "25%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "47%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "50%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "88%.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 166 - ENEM 2017",
+  "index": 166,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ela pretende comprar apenas garrafas que tenham a mesma capacidade.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/166/166.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Independentemente de em qual supermercado essa pessoa fará a compra, a fim de ter o menor custo, ela deverá adquirir garrafas com que capacidade?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "500 mL",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,5 L",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 L",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2,5 L",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3 L",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

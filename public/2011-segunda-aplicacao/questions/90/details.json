@@ -1,0 +1,50 @@
+{
+  "year": 2011,
+  "title": "Questão 90 - ENEM 2011",
+  "index": 90,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-A.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-B.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-C.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-D1.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-E.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A charge ilustra a transferência de matéria numa cadeia alimentar.Considerando as setas indicativas de entrada e saída de energia nos níveis tróficos, o esquema que representa esse fluxo éLegenda: P produtores; C1 consumidor primário; C2 consumidor secundário e C3 consumidor terciário.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-A.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-B.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-C.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-D1.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/90/Enem-2011-ppl-questao-90-E.jpg",
+      "isCorrect": true
+    }
+  ]
+}

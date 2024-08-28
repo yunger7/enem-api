@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 50 - ENEM 2016",
+  "index": 50,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um jovem suspeita que não é filho biológico de seus pais, pois descobriu que o seu tipo sanguíneo é O Rh negativo, o de sua mãe é B Rh positivo e de seu pai é A Rh positivo.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A condição genotípica que possibilita que ele seja realmente filho biológico de seus pais é que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o pai e a mãe sejam heterozigotos para o sistema sanguíneo ABO e para o fator Rh.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "pai e a mãe sejam heterozigotos para o sistema sanguíneo ABO e homozigotos para o fator Rh.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o pai seja homozigoto para as duas características e a mãe heterozigota para as duas características.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o pai seja homozigoto para as duas características e a mãe heterozigota para o sistema ABO e homozigota para o fator Rh.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o pai seja homozigoto para o sistema ABO e hetero - zigoto para o fator Rh e a mãe homozigota para as duas características.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

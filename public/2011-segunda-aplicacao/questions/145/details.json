@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 145 - ENEM 2011",
+  "index": 145,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Pedro ganhou R$ 360 000,00 em uma loteria federal e resolveu dividir integralmente o prêmio entre os seus três filhos, Ana, Renato e Carlos, de forma que cada um receba uma quantia que seja inversamente proporcional às suas idades.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Sabendo que Ana tem 4 anos, Renato, 5 anos e Carlos, 20 anos, eles receberão, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 54 000,00; R$ 216 000,00 e R$ 90 000,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 90 000,00; R$ 54 000,00 e R$ 216 000,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 216 000,00; R$ 90 000,00 e R$ 54 000,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "R$ 180 000,00; R$ 144 000,00 e R$ 36 000,00.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "R$ 180 000,00; R$ 120 000,00 e R$ 60 000,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

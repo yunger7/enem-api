@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 156 - ENEM 2015",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um bairro residencial tem cinco mil moradores, dos quais mil são classificados como vegetarianos. Entre os vegetarianos, 40% são esportistas, enquanto que, entre os não vegetarianos, essa porcentagem cai para 20%.\nUma pessoa desse bairro, escolhida ao acaso, é esportista.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A probabilidade de ela ser vegetariana é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2/25",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1/3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "5/6",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

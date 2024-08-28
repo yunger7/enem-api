@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 120 - ENEM 2017",
+  "index": 120,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os polímeros são materiais amplamente utilizados na sociedade moderna, alguns deles na fabricação de embalagens e filmes plásticos, por exemplo. Na figura estão relacionadas as estruturas de alguns monômeros usados na produção de polímeros de adição comuns.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/120/120.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Dentre os homopolímeros formados a partir dos monômeros da figura, aquele que apresenta solubilidade em água é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "polietileno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "poliestireno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "polipropileno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "poliacrilamida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "policloreto de vinila.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

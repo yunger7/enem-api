@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 78 - ENEM 2015",
+  "index": 78,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "De acordo com estatísticas do Ministério da Saúde, cerca de 5% das pessoas com dengue hemorrágica morrem. A dengue hemorrágica tem como base fisiopatológica uma resposta imune anômala, causando aumento da permeabilidade de vasos sanguíneos, queda da pressão arterial e manifestações hemorrágicas, podendo ocorrer manchas vermelhas na pele e sangramento pelo nariz, boca e gengivas. O hemograma do paciente pode apresentar como resultado leucopenia (diminuição do número de glóbulos brancos), linfocitose (aumento do número de linfócitos), aumento do hematócrito e trombocitopenia (contagem de plaquetas abaixo de 100 000/mm³).\n\n                                                  Disponível em: www.ciencianews.com.br. Acesso em: 28 fev. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Relacionando os sintomas apresentados pelo paciente com dengue hemorrágica e os possíveis achados do hemograma, constata-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as manifestações febris ocorrem em função da diminuição dos glóbulos brancos, uma vez que estes controlam a temperatura do corpo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a queda na pressão arterial é ocasionada pelo aumento do número de linfócitos, que têm como função principal a produção de anticorpos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o sangramento pelo nariz, pela boca e gengiva é ocasionado pela quantidade reduzida de plaquetas, que são responsáveis pelo transporte de oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as manifestações hemorrágicas estão associadas à trombocitopenia, uma vez que as plaquetas estão envolvidas na cascata de coagulação sanguínea.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "os sangramentos observados ocorrem em função da linfocitose, uma vez que os linfócitos são responsáveis pela manutenção da integridade dos vasos sanguíneos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

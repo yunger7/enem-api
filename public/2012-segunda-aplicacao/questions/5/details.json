@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 5 - ENEM 2012",
+  "index": 5,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "“É para abrir mesmo e quem quiser que eu não abra eu prendo e arrebento.”\n\n                                                  Frase pronunciada pelo presidente João Baptista Figueiredo. Apud RIBEIRO, D. Aos trancos e barrancos e o Brasil deu no que deu. Rio de Janeiro: Guanabara, 1986.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A frase do último presidente do regime militar indicava a ambiguidade da transição política no país. Neste contexto, houve resistências internas ao processo de distensão planejado pela alta cúpula militar, que se manifestaram com",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as campanhas no rádio, TV e jornais em favor da lei de anistia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as posições de prefeitos e governadores em apoio à instalação de eleições diretas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as articulações no Congresso pela convocação de uma nova Assembleia Nacional Constituinte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os atos criminosos, como a explosão de bombas, de militares inconformados com o fim da ditadura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "as articulações dos parlamentares do PDS, PMDB e PT em prol da candidatura de Tancredo Neves à presidência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

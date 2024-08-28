@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 53 - ENEM 2016",
+  "index": 53,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Num dia em que a temperatura ambiente é de 37°C, uma pessoa, com essa mesma temperatura corporal, repousa à sombra. Para regular sua temperatura corporal e mantê-la constante, a pessoa libera calor através da evaporação do suor. Considere que a potência necessária para manter seu metabolismo é 120 W e que, nessas condições, 20% dessa energia é dissipada pelo suor, cujo calor de vaporização é igual ao da água (540 cal/g). Utilize 1 cal igual a 4 J.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Após duas horas nessa situação, que quantidade de água essa pessoa deve ingerir para repor a perda pela transpiração?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,8g",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,44g",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,30g",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,80g",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80,0g",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

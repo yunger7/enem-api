@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 75 - ENEM 2015",
+  "index": 75,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os parasitoides são insetos diminutos, que têm hábitos bastante peculiares: suas larvas se desenvolvem dentro do corpo de outros animais. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.\n\n                                                  SANTO, M. M. E. et al. Parasitoides: insetos benéficos e cruéis\nCiência Hoje, n. 291, abr. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O uso desses insetos na agricultura traz benefícios ambientais, pois diminui o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "tempo de produção agrícola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "diversidade de insetos-praga.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aplicação de inseticidas tóxicos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "emprego de fertilizantes agrícolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "necessidade de combate a ervas daninhas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

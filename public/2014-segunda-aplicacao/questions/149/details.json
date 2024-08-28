@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 149 - ENEM 2014",
+  "index": 149,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A probabilidade de um empregado permanecer em uma dada empresa particular por 10 anos ou mais é de 1/6 . Um homem e uma mulher começam a trabalhar nessa companhia no mesmo dia. Suponha que não haja nenhuma relação entre o trabalho dele e o dela, de modo que seus tempos de permanência na firma são independentes entre si.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A probabilidade de ambos, homem e mulher, permanecerem nessa empresa por menos de 10 anos é de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "60/36",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "25/36",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "24/36",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12/36",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1/36",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

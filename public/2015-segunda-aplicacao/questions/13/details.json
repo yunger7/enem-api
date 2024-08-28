@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 13 - ENEM 2015",
+  "index": 13,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/13/enem2015_2a_caderno9_questao13.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O processo indicado no gráfico demonstra um aumento significativo da população urbana em relação à população rural no Brasil. Esse fenômeno pode ser explicado pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "atração de mão de obra pelo setor produtivo concentrado nas áreas urbanas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "manutenção da instabilidade climática nas áreas rurais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "concentração da oferta de ensino nas áreas urbanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inclusão da população das áreas urbanas em programas assistenciais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "redução dos subsídios para os setores da economia localizados nas áreas rurais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

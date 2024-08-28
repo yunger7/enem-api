@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 92 - ENEM 2011",
+  "index": 92,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/92/Enem-2011-ppl-questao-92.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A tirinha é um gênero textual que, além de entreter, trata de diferentes temas sociais. No caso dessa tirinha, as falas no 3º quadrinho revelam o foco do tema, que é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a curiosidade dos filhos ao interpelarem os pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a desobediência dos filhos em relação aos pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a paciência dos pais ao conversarem com os filhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a postura questionadora dos filhos em relação aos pais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "o cansaço dos pais em repetir as coisas para os filhos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

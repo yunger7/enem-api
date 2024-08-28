@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 125 - ENEM 2011",
+  "index": 125,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Diz-se, em termos gerais, que é preciso “falar a mesma língua”: o português, por exemplo, que é a língua que utilizamos. Mas trata-se de uma língua portuguesa ou de várias línguas portuguesas? O português da Bahia é o mesmo português do Rio Grande do Sul? Não está cada um deles sujeito a influências diferentes ― linguísticas, climáticas, ambientais? O português do médico é igual ao do seu cliente? O ambiente social e o cultural não determinam a língua? Estas questões levam à constatação de que existem níveis de linguagem. O vocabulário, a sintaxe e mesmo a pronúncia variam segundo esses níveis.\n\n                                                  VANOYE, F. Usos da linguagem. São Paulo: Martins Fontes, 1981 (fragmento).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Na fala e na escrita, são observadas variações de uso, motivadas pela classe social do indivíduo, por sua região, por seu grau de escolaridade, pelo gênero, pela intencionalidade do ato comunicativo, ou seja, pelas situações linguísticas e sociais em que a linguagem é empregada. A variedade linguística adequada à situação específica de uso social está expressa",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "na fala de um professor ao iniciar a aula no ensino superior: “Fala galerinha do mal! Hoje vamos estudar um negócio muito importante”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "na leitura de um discurso de uma autoridade pública na inauguração de um estabelecimento educacional: “Senhores cidadões do Brasil, com alegria, inauguramos mais uma escola para a melhor educação de nosso país”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no memorando da diretora da escola ao responsável por um aluno: “Responsável pelo aluno Henrique, dê uma chegadinha na diretoria da escola para saber o que o seu filhinho anda fazendo de besteira”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "na fala de uma criança, na tentativa de convencer a mãe a entregar-lhe a mesada: “Mãe, assim não dá para ser feliz! Dá pra liberar minha mesada? Prometo que só vou tirar notão nas próximas provas”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "na fala de uma mãe em resposta ao filho que solicitou a mesada: “Caro descendente, por obséquio, antecipe a prestação de suas contas, a fim de fazer jus ao solicitado”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "year": 2017,
+  "title": "Questão 101 - ENEM 2017",
+  "index": 101,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um longo trecho retilíneo de um rio tem um afluente perpendicular em sua margem esquerda, conforme mostra a figura. Observando de cima, um barco trafega com velocidade constante pelo afluente para entrar no rio. Sabe-se que a velocidade da correnteza desse rio varia uniformemente, sendo muito pequena junto à margem e máxima no meio. O barco entra no rio e é arrastado lateralmente pela correnteza, mas o navegador procura mantê-lo sempre na direção perpendicular à correnteza do rio e o motor acionado com a mesma potência.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/101/101.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/101/101-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/101/101-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/101/101-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/101/101-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/101/101-e.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Pelas condições descritas, a trajetória que representa o movimento seguido pelo barco é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/101/101-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/101/101-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/101/101-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/101/101-d.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/101/101-e.png",
+      "isCorrect": false
+    }
+  ]
+}

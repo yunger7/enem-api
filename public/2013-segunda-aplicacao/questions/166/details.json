@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 166 - ENEM 2013",
+  "index": 166,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ao acertar uma das regiões do alvo, ele terá direito ao(s) prêmio(s) indicado(s) nesta região. Há ainda o prêmio extra, caso o cliente acerte o dardo no quadrado ABCD.",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/166/166.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "João Maurício fez uma compra nessa loja e teve o direito de jogar o dardo. A quantidade de prêmios que João Maurício tem a menor probabilidade de ganhar, sabendo que ele jogou o dardo aleatoriamente, é exatamente:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

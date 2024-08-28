@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 106 - ENEM 2017",
+  "index": 106,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A bauxita, composta por cerca de 50% de Al2O3, é o mais importante minério de alumínio. As seguintes etapas são necessárias para a obtenção de alumínio metálico:\n \n1. A dissolução do Al2O3 (s) é realizada em solução de NaOH (aq) a 175°C, levando à formação da espécie solúvel NaAl(OH)4 (aq).\n2. Com o resfriamento da parte solúvel, ocorre a precipitação do Al(OH)3 (s).\n3. Quando o Al(OH)3 (s) é aquecido a 1 050°C, ele se decompõe em Al2O3 (s) e H2O.\n4. Al2O3 (s) é transferido para uma cuba eletrolítica e fundido em alta temperatura com auxílio de um fundente.\n5. Através da passagem de corrente elétrica entre os eletrodos da cuba eletrolítica, obtém-se o alumínio reduzido no cátodo.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As etapas 1, 3 e 5 referem-se, respectivamente, a fenômenos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Químico, físico e físico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Físico, físico e químico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Físico, químico e físico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Químico, físico e químico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Químico, químico e químico.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

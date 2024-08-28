@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 118 - ENEM 2011",
+  "index": 118,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/118/Enem-2011-ppl-questao-118.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A língua é um patrimônio cultural indispensável para a preservação da memória e da identidade de um povo. Nesse contexto, percebe-se, na tirinha, uma crítica",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à falta de assistência familiar no que se refere à educação escolar dos filhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à língua em si, cheia de regras e normas gramaticais desnecessárias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à escrita dos livros em linguagem muito rebuscada, o que dificulta o entendimento dos leitores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à influência dos estrangeirismos na língua, em especial, daqueles provenientes do inglês.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "ao ensino da língua que, devido à metodologia utilizada, desestimula os alunos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

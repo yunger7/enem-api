@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 39 - ENEM 2013",
+  "index": 39,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Pense no crescimento tecnológico de sua cidade nos últimos 10 ou 15 anos e perceberá que, embora ela tenha crescido, a maioria dos novos bairros é moradia de pessoas humildes que, ou foram expulsas da área mais central pelo progresso técnico-científico, ou vieram do campo ou de outras regiões buscando melhores condições de vida, mas agora residem em lugares desprovidos dos serviços básicos.\n\n                                                  SOUZA, A. J. Texto e sugestões de atividades para abordar os conceitos de progresso e desenvolvimento. In: Ciência Geográfica, AGB, dez. 1995 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Com as transformações ocorridas nas áreas rurais e urbanas das cidades pelo advento das tecnologias, as pessoas procuram se beneficiar de novas formas de sobrevivência. Para isso, apropriam-se dos espaços irregularmente. Diante dessa situação, o poder público deve criar políticas capazes de gerar",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "adaptação das moradias para oferecer qualidade de vida às pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "locais de moradia dignos e infraestrutura adequada para esses novos moradores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "mutirões entre os moradores para o melhoramento estético das moradias populares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "financiamentos para novas construções e acompanhamento dos serviços técnicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "situações de regularização de seus terrenos, mesmo que em áreas inadequadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

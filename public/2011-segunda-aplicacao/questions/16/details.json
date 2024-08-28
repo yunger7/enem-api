@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 16 - ENEM 2011",
+  "index": 16,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O Brasil oferece grandes lucros aos portugueses. Em relação ao nosso país, verificar-se-á que esses lucros e vantagens são maiores para nós. Os açúcares do Brasil, enviados diretamente ao nosso país, custarão bem menos do que custam agora, pois que serão libertados dos impostos que sobre eles se cobram em Portugal, e, dessa forma, destruiremos seu comércio de açúcar. Os artigos europeus, tais como tecidos, pano etc., poderão, pela mesma razão, ser fornecidos por nós ao Brasil muito mais baratos; o mesmo se dá com a madeira e o fumo.\n\n                                                  WALBEECK, J. Documentos Holandeses. Disponível em: http://www.mc.unicamp.br.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O texto foi escrito por um conselheiro político holandês no contexto das chamadas Invasões Holandesas (1624-1654), no Nordeste da América Portuguesa, que resultaram na ocupação militar da capitania de Pernambuco. O conflito se inicia em um período em que Portugal e suas colônias, entre elas o Brasil, se encontravam sob domínio da Espanha (1580-1640). A partir do texto, qual o objetivo dos holandeses com essa medida?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Construir uma rede de refino e distribuição do açúcar no Brasil, levando vantagens sobre os concorrentes portugueses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Garantir o abastecimento de açúcar no mercado europeu e oriental, ampliando as áreas produtoras de cana fora dos domínios lusos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Romper o embargo espanhol imposto aos holandeses depois da União Ibérica, ampliando os lucros obtidos com o comércio açucareiro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Incentivar a diversificação da produção do Nordeste brasileiro, aumentando a inserção dos holandeses no mercado de produtos manufaturados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Dominar uma região produtora de açúcar mais próxima da Europa do que as Antilhas Holandesas, facilitando o escoamento dessa produção.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

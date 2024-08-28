@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 149 - ENEM 2016",
+  "index": 149,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O proprietário de um restaurante deseja comprar um tampo de vidro retangular para a base de uma mesa, como ilustra a figura\n\n\n\nSabe-se que a base da mesa, considerando a borda externa, tem a forma de um retângulo, cujos lados medem AC = 105 cm e AB = 120 cm.\nNa loja onde será feita a compra do tampo, existem cinco tipos de opções de tampos, de diferentes dimensões, e todos com a mesma espessura, sendo:\n \nTipo 1: 110 cm x 125 cm\nTipo 2: 115 cm x 125 cm\nTipo 3: 115 cm x 130 cm\nTipo 4: 120 cm x 130 cm\nTipo 5: 120 cm x 135 cm\n \nO proprietário avalia, para comodidade dos usuários, que se deve escolher o tampo de menor área possível que satisfaça a condição: ao colocar o tampo sobre a base, de cada lado da borda externa da base da mesa, deve sobrar uma região, correspondendo a uma moldura em vidro, limitada por um mínimo de 4 cm e máximo de 8 cm fora da base da mesa, de cada lado.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/149/Capturar5.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Segundo as condições anteriores, qual é o tipo de tampo de vidro que o proprietário avaliou que deve ser escolhido?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

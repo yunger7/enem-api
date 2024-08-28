@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 164 - ENEM 2014",
+  "index": 164,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Os salários, em reais, dos funcionários de uma empresa são distribuídos conforme o quadro:\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/164/164.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A mediana dos valores dos salários dessa empresa é, em reais,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "622,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "933,00.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1 244,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2 021,50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2 799,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

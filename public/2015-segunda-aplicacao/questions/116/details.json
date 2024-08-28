@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 116 - ENEM 2015",
+  "index": 116,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Além da Revolução da Informação\nO impacto da Revolução da Informação está apenas começando. Mas a força motriz desse impacto não é a informática, a inteligência artificial, o efeito dos computadores sobre a tomada de decisões ou a elaboração de políticas ou de estratégias. É algo que praticamente ninguém previu, nem mesmo se falava há 10 ou 15 anos: o comércio eletrônico — o aparecimento explosivo da internet como um canal importante, talvez principal, de distribuição mundial de produtos, serviços e, surpreendentemente, de empregos de nível gerencial. Essa nova realidade está modificando profundamente economias, mercados e estruturas setoriais, os produtos e serviços e seu fluxo, a segmentação, os valores e o comportamento dos consumidores, o mercado de trabalho.\nO impacto, porém, pode ser ainda maior nas sociedades e nas políticas empresariais e, acima de tudo, na maneira como encaramos o mundo e nós mesmos dentro dele. O impacto psicológico da Revolução da Informação, como o da Revolução Industrial, foi enorme. Talvez tenha sido mais forte na maneira como as crianças aprendem. Já aos 4 anos (e às vezes até antes), as crianças desenvolvem habilidades de computação, logo ultrapassando seus pais. Os computadores são seus brinquedos e suas ferramentas de aprendizado. Daqui a 50 anos, talvez concluamos que não houve nenhuma crise educacional no mundo — apenas ocorreu uma incongruência crescente entre a maneira como as escolas do século XX ensinavam e a maneira como as crianças do fim do século XX aprendiam\n\n                                                  DRUCKER, P. O melhor de Peter Drucker: obra completa. São Paulo: Nobel, 2002.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O artigo apresenta uma reflexão sobre a Revolução da Informação, que, assim como a Revolução Industrial, provocou impactos significativos nas sociedades contemporâneas. Ao tratar da Revolução da Informação, o autor enfatiza que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o comércio eletrônico é um dos canais mais importantes dessa revolução.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o computador desenvolve na criança uma inteligência maior que a dos pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o aumento no número de empregos via internet é uma realidade atualmente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o colapso educacional é fruto de uma incongruência no ensino do século XX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o advento da Revolução da Informação causará impactos nos próximos 50 anos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

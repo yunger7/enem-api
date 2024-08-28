@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 55 - ENEM 2015",
+  "index": 55,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A rede elétrica de uma residência tem tensão de 110 V e o morador compra, por engano, uma lâmpada incandescente com potência nominal de 100 W e tensão nominal de 220 V.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Se essa lâmpada for ligada na rede de 110 V, o que acontecerá?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A lâmpada brilhará normalmente, mas como a tensão é a metade da prevista, a corrente elétrica será o dobro da normal, pois a potência elétrica é o produto de tensão pela corrente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A lâmpada não acenderá, pois ela é feita para trabalhar apenas com tensão de 220 V, e não funciona com tensão abaixo desta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A lâmpada irá acender dissipando uma potência de 50 W, pois como a tensão é metade da esperada, a potência também será reduzida à metade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A lâmpada irá brilhar fracamente, pois com a metade da tensão nominal, a corrente elétrica também será menor e a potência dissipada será menos da metade da nominal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A lâmpada queimará, pois como a tensão é menor do que a esperada, a corrente será maior, ultrapassando a corrente pela qual o filamento foi projetado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 172 - ENEM 2016",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Para estimular o raciocínio de sua filha, um pai fez o seguinte desenho e o entregou à criança juntamente com três lápis de cores diferentes. Ele deseja que a menina pinte somente os círculos, de modo que aqueles que estejam ligados por um segmento tenham cores diferentes.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/172/quest%C3%A3o-172-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De quantas maneiras diferentes a criança pode fazer o que o pai pediu?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "18",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "24",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "72",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

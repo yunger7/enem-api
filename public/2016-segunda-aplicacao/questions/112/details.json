@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 112 - ENEM 2016",
+  "index": 112,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Disponível em: www.institutoamilcardecastro.com.br. Acesso em: 2 ago. 2013.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/112/AM%C3%8DLCAR-DE-CASTRO-SEM-T%C3%8DTULO.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A escultura do artista construtivista Amílcar de Castro é representativa da arte contemporânea brasileira e tem o traço estrutural marcado por elementos como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o corte e a dobra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a força e a visualidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o adereço e a expressão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o rompimento e a inércia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a decomposição e a articulação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

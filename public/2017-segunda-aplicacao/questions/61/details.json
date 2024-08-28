@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 61 - ENEM 2017",
+  "index": 61,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/61/61.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As características morfológicas do terreno estão representadas no bloco diagrama, que mostra uma região acometida por processos erosivos decorrentes da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "resistência geológica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "instabilidade do terreno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "profundidade do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "intervenção antrópica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ação de cursos de água.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

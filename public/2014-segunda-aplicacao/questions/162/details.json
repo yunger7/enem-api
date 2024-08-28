@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 162 - ENEM 2014",
+  "index": 162,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A vazão de água (em m³/h) em tubulações pode ser medida pelo produto da área da seção transversal por onde passa a água (em m² ) pela velocidade da água (em m/h). Uma companhia de saneamento abastece uma indústria utilizando uma tubulação cilíndrica de raio r, cuja vazão da água enche um reservatório em 4 horas. Para se adaptar às novas normas técnicas, a companhia deve duplicar o raio da tubulação, mantendo a velocidade da água e mesmo material.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual o tempo esperado para encher o mesmo reservatório, após a adaptação às novas normas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 hora",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2 horas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4 horas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8 horas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "16 horas",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

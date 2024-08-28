@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 147 - ENEM 2014",
+  "index": 147,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Enquanto as lâmpadas comuns têm 8 mil horas de vida útil, as lâmpadas LED têm 50 mil horas.\n\n                                                  MetroCuritiba, 18 ago. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com a informação e desprezando possíveis algarismos na parte decimal, a lâmpada LED tem uma durabilidade de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 750 dias a mais que a lâmpada comum.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2 000 dias a mais que a lâmpada comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 083 dias a mais que a lâmpada comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "42 000 dias a mais que a lâmpada comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 008 000 dias a mais que a lâmpada comum.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

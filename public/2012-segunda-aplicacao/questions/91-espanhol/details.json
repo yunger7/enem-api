@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 91 - ENEM 2012",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/91/Enem-2012-ppl-questao-91-ESP.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Considere que, em cada sociedade, os indivíduos estão inseridos em um sistema de sexo-gênero, isto é, atuam de acordo com determinados padrões de comportamento. Desse modo, o texto é irônico por meio",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da demonstração da inexistência de padrões de comportamento feminino em situações cotidianas relacionadas ao universo gastronômico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da divulgação de estereótipos com vistas a consolidar padrões de comportamento socialmente aceitáveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "do rechaço da importância assumida pelo homem nos relacionamentos contemporâneos em detrimento da mulher.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da denúncia do desconforto feminino ao depararse com situações do cotidiano consideradas marcadamente machistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da contraposição de um estereótipo de comportamento feminino em relação às mudanças vividas pela sociedade contemporânea.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

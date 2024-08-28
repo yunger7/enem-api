@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 92 - ENEM 2016",
+  "index": 92,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": "BANSKY. Disponível em: www.weburbanist.com. Acesso em: 2 ago. 2012.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/92/questao-92-enem-2016-segunda-aplica%C3%A7%C3%A3o.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Bansky é um grafiteiro famoso. Na obra pintada em um muro da cidade de Claremont, Califórnia, em 2007, ele fez uso de um trocadilho com a palavra “change”, o que caracteriza seu grafite como um protesto contra a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "escolha da mendicância como forma de vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "condição de vida das pessoas em miséria.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "falta de solidariedade dos mais favorecidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "marginalização das pessoas desabrigadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "incapacidade de os mendigos mudarem de vida.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

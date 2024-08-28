@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 159 - ENEM 2012",
+  "index": 159,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma prefeitura possui modelos de lixeira de forma cilíndrica, sem tampa, com raio medindo 10 cm e altura de 50 cm. Para fazer uma compra adicional, solicita à empresa fabricante um orçamento de novas lixeiras, com a mesma forma e outras dimensões. A prefeitura só irá adquirir as novas lixeiras se a capacidade de cada uma for no mínimo dez vezes maior que o modelo atual e seu custo unitário não ultrapassar R$ 20,00. O custo de cada lixeira é proporcional à sua área total e o preço do material utilizado na sua fabricação é de R$ 0,20 para cada 100 cm². A empresa apresenta um orçamento discriminando o custo unitário e as dimensões, com o raio sendo o triplo do anterior e a altura aumentada em 10 cm. (Aproxime π para 3.)",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O orçamento dessa empresa é rejeitado pela prefeitura, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o custo de cada lixeira ficou em R$ 21,60.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o custo de cada lixeira ficou em R$ 27,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o custo de cada lixeira ficou em R$ 32,40.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a capacidade de cada lixeira ficou 3 vezes maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "capacidade de cada lixeira ficou 9 vezes maior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

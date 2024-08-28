@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 94 - ENEM 2014",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": "I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. Humans came in with a rather unimpressive\nshowing about a third of the way down the list … That didn’t look so good, but then someone at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And a man on a bicycle blew the condor away. That’s what a computer is to me: the computer is the most remarkable tool that we’ve ever come up with. It’s the equivalent of a bicycle for our minds.\n\n                                                  JOBS, S. Disponível em: www.msnbc.msn.com. Acesso em: 28 fev. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Ao abordar o deslocamento de várias espécies, com base em um estudo que leu, Steve Jobs\napresenta o computador como uma ferramenta que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "amplia a quantidade de energia gasta no planeta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "alcança a mesma velocidade de uma bicicleta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "altera a velocidade com a qual nos movemos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "torna os meios de transporte mais eficientes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumenta o potencial de nossas mentes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

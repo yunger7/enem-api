@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 48 - ENEM 2015",
+  "index": 48,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O cladograma representa, de forma simplificada, o processo evolutivo de diferentes grupos de vertebrados. Nesses organismos, o desenvolvimento de ovos protegidos por casca rígida (pergaminácea ou calcárea) possibilitou a conquista do ambiente terrestre.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/48/48-1.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O surgimento da característica mencionada está representado, no cladograma, pelo número.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

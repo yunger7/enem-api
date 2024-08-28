@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 86 - ENEM 2014",
+  "index": 86,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em um experimento, foram separados três recipientes A, B e C, contendo 200 mL de líquidos distintos: o recipiente A continha água, com densidade de 1,00 g/mL; o recipiente B, álcool etílico, com densidade de 0,79 g/mL; e o recipiente C, clorofórmio, com densidade de 1,48 g/mL. Em cada um desses recipientes foi adicionada uma pedra de gelo, com densidade próxima a 0,90 g/mL.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "No experimento apresentado, observou-se que a pedra de gelo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "flutuou em A, flutuou em B e flutuou em C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "flutuou em A, afundou em B e flutuou em C.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "afundou em A, afundou em B e flutuou em C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "afundou em A, flutuou em B e afundou em C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "flutuou em A, afundou em B e afundou em C.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

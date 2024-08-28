@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 139 - ENEM 2014",
+  "index": 139,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ao fazer a apresentação dos dados aos funcionários, o gerente estipulou como meta para o mês de janeiro de 2013 um volume de vendas 20% superior à média mensal de vendas do semestre anterior.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/139/139.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para atingir essa meta, a quantidade mínima de carros que deveriam ser vendidos em janeiro de 2013 seria",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "17.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "21.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "24.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "30.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

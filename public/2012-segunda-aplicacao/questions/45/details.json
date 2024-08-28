@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 45 - ENEM 2012",
+  "index": 45,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nEm março de 2004, o Brasil reconheceu na Organização das Nações Unidas a existência, no país, de pelo menos 25 mil pessoas em condição análoga à escravidão ― e esse é um índice considerado otimista. De 1995 a agosto de 2009, cerca de 35 mil pessoas foram libertadas em ações dos grupos móveis de fiscalização do Ministério do Trabalho e Emprego.\n\n                                                  Mentiras mais contadas sobre trabalho escravo. Disponível em: www.reporterbrasil.com.br. Acesso em: 22 ago. 2011 (adaptado).\n\n                              \n                                                \n                TEXTO II\nO Brasil subiu quatro posições entre 2009 e 2010 no ranking do Índice de Desenvolvimento Humano (IDH) divulgado pelo Programa das Nações Unidas para Desenvolvimento. Mas, se o IDH levasse em conta apenas a questão da escolaridade, a posição do Brasil no ranking mundial ficaria pior, passando de 73 para 93.\n\n                                                  UCHINAKA, F.; CHAVES-SCARELLI, T. Brasil é o país que mais avança, apesar da variável “educação” puxar IDH para baixo. Disponível em: http://noticias.uol.com.br.\nAcesso em: 22 ago. 2011 (adaptado)",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Estão sugeridas nos textos duas situações de exclusão social, cuja superação exige, respectivamente, medidas de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "redução de impostos e políticas de ações afirmativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "geração de empregos e aprimoramento do poder judiciário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fiscalização do Estado e incremento da educação nacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "nacionalização de empresas e aumento da distribuição de renda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sindicalização dos trabalhadores e contenção da migração interna.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

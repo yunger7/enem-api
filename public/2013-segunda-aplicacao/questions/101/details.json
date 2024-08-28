@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 101 - ENEM 2013",
+  "index": 101,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/101/101.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A cada verão, o Aedes aegypti, mosquito transmissor da dengue, traz preocupação para os brasileiros. A charge retrata essa situação a que o país está submetido. Considerando os objetivos da charge, sua posição crítica se dá na medida em que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "compara o mosquito a um esportista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "enfatiza o poder de resistência do inseto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "elege o mosquito como o vilão da saúde.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "atribui características humanas ao mosquito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ignora a gravidade da questão por meio do humor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

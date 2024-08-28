@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 172 - ENEM 2012",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma das paredes de um depósito existem compartimentos de mesmo tamanho para armazenamento de caixas de dimensões frontais a e b. A terceira dimensão da caixa coincide com a profundidade de cada um dos compartimentos. Inicialmente as caixas são arrumadas, em cada um deles, como representado na Figura 1. A fim de aproveitar melhor o espaço, uma nova proposta de disposição das caixas foi idealizada e está indicada na Figura 2. Essa nova proposta possibilitaria o aumento do número de caixas armazenadas de 10 para 12 e a eliminação de folgas.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/172/172.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "É possível ocorrer a troca de arrumação segundo a nova proposta?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Não, porque a segunda proposta deixa uma folga de 4 cm na altura do compartimento, que é de 12 cm, o que permitiria colocar um número maior de caixas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Não, porque, para aceitar a segunda proposta, seria necessário praticamente dobrar a altura e reduzir à metade a largura do compartimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Sim, porque a nova disposição das caixas ficaria acomodada perfeitamente no compartimento de 20 cm de altura por 27 cm de largura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Sim, pois efetivamente aumentaria o número de caixas e reduziria o número de folgas para apenas uma de 2 cm na largura do compartimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Sim, porque a nova disposição de caixas ficaria acomodada perfeitamente no compartimento de 32 cm de altura por 45 cm de largura.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

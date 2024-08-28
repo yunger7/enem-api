@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 156 - ENEM 2013",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No filme O colecionador de ossos, produzido pela Columbia Pictures Corporation — Universal Pictures, a pista deixada por um suspeito de certo delito foi a marca\nde uma pegada no chão. Uma personagem do filme, ciente de que a marca serviria de prova para a investigação, fotografou essa marca ao lado de uma nota de dólar, que mede aproximadamente 15 cm.\n\n                                                  Disponível em: www.cinemenu.com.br. Acesso em: 15 jul. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Ao revelar a foto, essa personagem obteve uma imagem em que o comprimento da cédula de dólar media 3 cm e o da marca da pegada media 6 cm. Qual a relação numérica entre a marca no chão e a marca na imagem revelada?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5 vezes maior.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "5 centímetros maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "9 centímetros maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12 centímetros maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12 vezes maior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 166 - ENEM 2014",
+  "index": 166,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O artesão deseja fazer um pião com a maior altura que esse pedaço de madeira possa proporcionar e de modo a minimizar a quantidade de madeira a ser descartada.\nDados:\nO volume de uma esfera de raio r é 4/3·π·r³;\nO volume do cilindro de altura h e área da base S é S·h;\nO volume do cone de altura h e área da base S é 1/3·S·h;\nPor simplicidade, aproxime π para 3",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/166/166.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A quantidade de madeira descartada, em centímetros cúbicos, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "45.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "48.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "72.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "90.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "99.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 18 - ENEM 2015",
+  "index": 18,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Na sociedade democrática, as opiniões de cada um não são fortalezas ou castelos para que neles nos encerremos como forma de autoafirmação pessoal. Não só temos de ser capazes de exercer a razão em nossas argumentações, como também devemos desenvolver a capacidade de ser convencidos pelas melhores razões. A partir dessa perspectiva, a verdade buscada é sempre um resultado, não ponto de partida: e essa busca inclui a conversação entre iguais, a polêmica, o debate, a controvérsia.\n\n                                                  SAVATER, F. As perguntas da vida. São Paulo: Martins Fontes, 2001 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A ideia de democracia presente no texto, baseada na concepção de Habermas acerca do discurso, defende que a verdade é um(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alvo objetivo alcançável por cada pessoa, como agente racional autônomo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "critério acima dos homens, de acordo com o qual podemos julgar quais opiniões são as melhores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "construção da atividade racional de comunicação entre os indivíduos, cujo resultado é um consenso.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "produto da razão, que todo indivíduo traz latente desde o nascimento, mas que só se firma no processo latente educativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "resultado que se encontra mais desenvolvido nos espíritos elevados, a quem cabe a tarefa de convencer os outros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

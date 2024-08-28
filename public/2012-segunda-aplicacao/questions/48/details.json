@@ -1,0 +1,49 @@
+{
+  "year": 2012,
+  "title": "Questão 48 - ENEM 2012",
+  "index": 48,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O desenvolvimento sustentável rompe com a lógica da organização social vigente, convidando a novos modos de pensar e agir. Dessa forma, sustentabilidade implica o uso de recursos renováveis em quantidades compatíveis com a capacidade de renovação do planeta.\n\n                                                  MCT. Prêmio Jovem Cientista: cidades sustentáveis. Caderno do professor, 2011 (adaptado).",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48A.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48B.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48C.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48D.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48E.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Um esquema de cidade que pretende atender a esse conceito é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48A.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48B.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48C.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48D.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/48/Enem-2012-ppl-questao-48E.jpg",
+      "isCorrect": false
+    }
+  ]
+}

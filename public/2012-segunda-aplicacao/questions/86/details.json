@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 86 - ENEM 2012",
+  "index": 86,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um automóvel, em movimento uniforme, anda por uma estrada plana, quando começa a descer uma ladeira, na qual o motorista faz com que o carro se mantenha sempre com velocidade escalar constante.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Durante a descida, o que ocorre com as energias potencial, cinética e mecânica do carro?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A energia mecânica mantém-se constante, já que a velocidade escalar não varia e, portanto, a energia cinética é constante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A energia cinética aumenta, pois a energia potencial gravitacional diminui e quando uma se reduz, a outra cresce.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A energia potencial gravitacional mantém-se constante, já que há apenas forças conservativas agindo sobre o carro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A energia mecânica diminui, pois a energia cinética se mantém constante, mas a energia potencial gravitacional diminui.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A energia cinética mantém-se constante, já que não há trabalho realizado sobre o carro.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

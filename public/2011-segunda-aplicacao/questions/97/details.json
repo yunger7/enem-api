@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 97 - ENEM 2011",
+  "index": 97,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Cada região do país, por meio de suas danças populares, expressa sua cultura, que envolve aspectos sociais, econômicos, históricos, entre outros. As danças provocam a associação entre música e ritmo e o desenvolvimento de maior sensibilidade dos órgãos sensoriais. A ampliação da intensidade da audição aumenta a concentração, possibilitando o processo de transformação do ritmo musical em movimento espontâneo. Como exemplo de danças, tem-se o carimbó, na região Norte, e as danças gaúchas, na região Sul.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/97/Enem-2011-ppl-questao-97.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nesse contexto, as danças populares permitem a descontração, o desenvolvimento e o descanso por serem atividades lúdicas que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "promovem a interação, o conhecimento de diferentes ritmos e permitem minimizar o estresse da vida diária.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "reduzem a participação, promovem competições em festivais e o conhecimento de outros ritmos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "impedem a socialização de todos, reduzindo a expressividade, por exigir habilidades corporais e espontaneidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "permitem o desligamento dos elementos históricos, relacionando-as com os movimentos políticos e sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reduzem a expressão corporal e as experiências, por utilizarem símbolos de outras culturas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 148 - ENEM 2011",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma agência de viagens de São Paulo (SP) está organizando um pacote turístico com destino à cidade de Foz do Iguaçu (PR) e fretou um avião com 120 lugares. Do total de lugares, reservou 2/5 das vagas para as pessoas que residem na capital do estado de São Paulo, 3/8 para as que moram no interior desse estado e o restante para as que residem fora dele.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Quantas vagas estão reservadas no avião para as pessoas que moram fora do estado de São Paulo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "27",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "40",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "74",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "81",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 35 - ENEM 2011",
+  "index": 35,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os dados do recenseamento geral do Brasil de 1991 parecem confirmar a tendência ao movimento que, nos anos de 1970, já se vinha registrando, com o aumento do número de cidades médias. Os municípios com população entre 200 mil e 500 mil habitantes passam de 33 para 85, em 1991.\n\n                                                  Santos, M. A Urbanização Brasileira. São Paulo: EdUSP, 2005 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O aumento do número de cidades médias, retratado pelo autor Milton Santos, ainda persiste nos dias atuais no território brasileiro. Uma justificativa para este fato seria:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A chegada de multinacionais na região amazônica com a criação da Zona Franca de Manaus, no início dos anos de 1970.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O processo de criação de novas cidades planejadas no interior do país, baseadas em uma economia extrativista mineral.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A expansão do agronegócio nas regiões litorâneas do país, como no caso da cana-de-açúcar e do cacau no litoral nordestino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O processo de desconcentração das atividades econômicas como a indústria e a agricultura intensiva para áreas do interior do país.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A desconcentração das atividades industriais e agropecuárias, que se concentravam na porção central do país e hoje atingem áreas litorâneas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

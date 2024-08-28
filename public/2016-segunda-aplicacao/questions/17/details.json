@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 17 - ENEM 2016",
+  "index": 17,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A Lei das Doze Tábuas, de meados do Século V a.C., fixou por escrito um velho direito costumeiro. No relativo às dívidas não pagas, o código permitia, em última análise, matar o devedor; ou vendê-lo como escravo “do outro lado do Tibre” — isto é, fora do território de Roma.\n\n                                                  CARDOSO, C. F. S. O trabalho compulsório na Antiguidade. Rio de Janeiro: Graal, 1984.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A referida lei foi um marco na luta por direitos na Roma Antiga, pois possibilitou que os plebeus",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "modificassem a estrutura agrária assentada no latifúndio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "exercessem a prática da escravidão sobre seus devedores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "conquistassem a possibilidade de casamento com os patrícios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ampliassem a participação política nos cargos políticos públicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reinvindicassem as mudanças sociais com base no conhecimento das leis.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

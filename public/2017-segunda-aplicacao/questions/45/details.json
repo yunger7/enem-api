@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 45 - ENEM 2017",
+  "index": 45,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/45/45.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Em 1956, o artista Flávio de Resende Carvalho desfilou pela Avenida Paulista com o traje New Look, uma proposta tropical para o guarda-roupa masculino. Suas obras mais conhecidas são relacionadas às performances. A imagem permite relacionar como características dessa manifestação artística o uso",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da intimidade, da política e do corpo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "do público, da ironia e da dor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "do espaço urbano, da intimidade e do drama.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da moda, do drama e do humor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "do corpo, da provocação e da moda.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 155 - ENEM 2015",
+  "index": 155,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O fisiologista francês Jean Poiseuille estabeleceu, na primeira metade do século XIX, que o fluxo de sangue por meio de um vaso sanguíneo em uma pessoa é diretamente proporcional à quarta potência da medida do raio desse vaso. Suponha que um médico, efetuando uma angioplastia, aumentou em 10% o raio de um vaso sanguíneo de seu paciente.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O aumento percentual entre o fluxo por esse vaso está entre",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7% e 8%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "9% e 11%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "20% e 22%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "39% e 41%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "46% e 47%",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

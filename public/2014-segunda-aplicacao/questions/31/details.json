@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 31 - ENEM 2014",
+  "index": 31,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/31/questao31.2014.ppl_.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nos quadrinhos, faz-se referência a um evento que correspondia a um dos grandes medos da população mundial no período da Guerra Fria. Durante esse período, a possibilidade de ocorrência desse evento era grande em função do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "acirramento da rivalidade Norte-Sul.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "intensificação da corrida armamentista.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ocorrência de crises econômicas globais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "emergência de novas potências mundiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aprofundamento de desigualdades sociais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

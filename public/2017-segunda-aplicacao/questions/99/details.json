@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 99 - ENEM 2017",
+  "index": 99,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um geneticista observou que determinada plantação era sensível a um tipo de praga que atacava as flores da lavoura. Ao mesmo tempo, ele percebeu que uma erva daninha que crescia associada às plantas não era destruída. A partir de técnicas de manipulação genética, em laboratório, o gene da resistência à praga foi inserido nas plantas cultivadas, resolvendo o problema.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Do ponto de vista da biotecnologia, como essa planta resultante da intervenção é classificada?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Clone.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Híbrida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Mutante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Dominante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Transgênica.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 154 - ENEM 2012",
+  "index": 154,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em um terreno, deseja-se instalar uma piscina com formato de um bloco retangular de altura 1 m e base de dimensões 20 m x 10 m. Nas faces laterais e no fundo desta piscina será aplicado um líquido para a impermeabilização. Esse líquido deve ser aplicado na razão de 1 L para cada 1 m2 de área a ser impermeabilizada. O fornecedor A vende cada lata de impermeabilizante de 10 L por R$ 100,00, e o B vende cada lata de 15 L por R$ 145,00.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Determine a quantidade de latas de impermeabilizante que deve ser comprada e o fornecedor a ser escolhido, de modo a se obter o menor custo.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Fabricante A, 26 latas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Fabricante A, 46 latas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Fabricante B, 17 latas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Fabricante B, 18 latas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Fabricante B, 31 latas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 112 - ENEM 2017",
+  "index": 112,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "As especificações de um chuveiro elétrico são: potência de 4000 W, consumo máximo mensal de 21,6 kWh e vazão máxima de 3L/min. Em um mês, durante os banhos, esse chuveiro foi usado com vazão máxima, consumindo o valor máximo de energia especificado. O calor específico da água é de 4200 J/(kg ºC) e sua densidade é igual a 1kg/L.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A variação da temperatura da água usada nesses banhos foi mais próxima de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "16 ºC",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "19 ºC",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "37 ºC",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "57 ºC",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "60 ºC",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

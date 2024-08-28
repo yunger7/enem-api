@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 102 - ENEM 2014",
+  "index": 102,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Abrimos o Brasil a todo o mundo: mas queremos que o Brasil seja Brasil! Queremos conservar a nossa raça, a nossa história, e, principalmente, a nossa língua, que é toda a nossa vida, o nosso sangue, a nossa alma, a nossa religião.\n\n                                                  BILAC, O. Últimas conferências e discursos. Rio de Janeiro: Francisco Alves, 1927",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Nesse trecho, Olavo Bilac manifesta seu engajamento na constituição da identidade nacional e linguística, ressaltando a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "transformação da cultura brasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "religiosidade do povo brasileiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "abertura do Brasil para a democracia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "importância comercial do Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "autorreferência do povo como brasileiro.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

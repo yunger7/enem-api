@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 137 - ENEM 2015",
+  "index": 137,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma pesquisa sobre prática de atividade física, foi perguntado aos entrevistados sobre o hábito de andar de bicicleta ao longo da semana e com que frequência o faziam. Entre eles, 75% afirmaram ter esse hábito, e a frequência semanal com que o faziam é a apresentada no gráfico:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/137/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-137.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Que porcentagem do total de entrevistados representa aqueles que afirmaram andar de bicicleta pelo menos três vezes por semana?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "70,0%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "52,5%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "22,5%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "19,5%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5,0%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

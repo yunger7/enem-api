@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 66 - ENEM 2014",
+  "index": 66,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O álcool comercial (solução de etanol) é vendido na concentração de 96%, em volume. Entretanto, para que possa ser utilizado como desinfetante, deve-se usar uma solução alcoólica na concentração de 70%, em volume. Suponha que um hospital recebeu como doação um lote de 1 000 litros de álcool comercial a 96%, em volume, e pretende trocá-lo por um lote de álcool desinfetante.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para que a quantidade total de etanol seja a mesma nos dois lotes, o volume de álcool a 70% fornecido na troca deve ser mais próximo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1042 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1371 L.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1428 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1632 L.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1700 L.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

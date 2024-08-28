@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 115 - ENEM 2013",
+  "index": 115,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Grupo escolar\nSonhei com um general de ombros largos\nque fedia\ne que no sonho me apontava a poesia\nenquanto um pássaro pensava suas penas\ne já sem resistência resistia.\nO general acordou e eu que sonhava\nface a face deslizei à dura via\nvi seus olhos que tremiam, ombros largos,\nvi seu queixo modelado a esquadria\nvi que o tempo galopando evaporava\n(deu para ver qual a sua dinastia)\nmas em tempo fixei no firmamento\nesta imagem que rebenta em ponta fria:\npoesia, esta química perversa,\neste arco que desvela e me repõe\nnestes tempos de alquimia.\n\n                                                  BRITO, A. C. In: HOLLANDA, H. B. (Org.). 26 Poetas Hoje: antologia. Rio de Janeiro: Aeroplano, 1998.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O poema de Antônio Carlos Brito está historicamente inserido no período da ditadura militar no Brasil. A forma encontrada pelo eu lírico para expressar poeticamente esse momento demonstra que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a ênfase na força dos militares não é afetada por aspectos negativos, como o mau cheiro atribuído ao general.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a descrição quase geométrica da aparência física do general expõe a rigidez e a racionalidade do governo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a constituição de dinastias ao longo da história parece não fazer diferença no presente em que o tempo evapora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a possibilidade de resistir está dada na renovação e transformação proposta pela poesia, química que desvela e repõe.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a resistência não seria possível, uma vez que as vítimas, representadas pelos pássaros, pensavam apenas nas próprias penas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 104 - ENEM 2015",
+  "index": 104,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/104/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-104.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Esse texto trata de uma campanha sobre o trânsito e visa a orientação dos motociclistas quanto ao(à)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "intolerância com a morosidade do tráfego.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desconhecimento da legislação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "crescente número de motocicletas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "manutenção preventiva do veículo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cuidado com a própria segurança.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

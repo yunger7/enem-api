@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 143 - ENEM 2011",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Para modelar todas as possibilidades de transformação no comprimento dessa imagem, o programador precisa descobrir os padrões de todas as retas que contêm os segmentos que contornam os olhos, o nariz e a boca e, em seguida, elaborar o programa.\nNo exemplo anterior, o segmento A1B1 da figura 1, contido na reta r1 , transformou-se no segmento A2B2 da figura 2, contido na reta r2 .\nSuponha que, mantendo constante a largura da imagem, seu comprimento seja multiplicado por n, sendo n um número inteiro e positivo, e que, dessa forma, a reta r1 sofra as mesmas transformações. Nessas condições, o segmento AnBn estará contido na reta rn.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/143/143.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A equação algébrica que descreve rn , no plano cartesiano, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "x + ny = 3n.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "x − ny = − n.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "x − ny = 3n.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "nx + ny = 3n.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "nx + 2ny = 6n.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

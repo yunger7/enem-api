@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 104 - ENEM 2017",
+  "index": 104,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O debate a respeito da natureza da luz perdurou por séculos, oscilando entre a teoria corpuscular e a teoria ondulatória. No início do século XIX, Thomas Young, com a finalidade de auxiliar na discussão, realizou o experimento aprensentando de forma simplificada na figura. Nele, um feixe de luz monocromático passa por dois anteparos com fendas muito pequenas. No primeiro anteparo há uma fenda e no segundo, duas fendas. Após passar pelo segundo conjunto de fendas, a luz forma um padrão com franjas claras e escuras.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/104/104.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Com esse experimento, Young forneceu fortes argumentos para uma interpretação a respeito da natureza da luz, baseada em uma teoria",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "corpuscular, justificada pelo fato de, no experimento, a luz sofrer dispersão e refração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "corpuscular, justificada pelo fato de, no experimento, a luz sofrer dispersão e reflexão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ondulatória, justificada pelo fato de, no experimento, a luz sofrer difração e polarização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ondulatória, justificada pelo fato de, no experimento, a luz sofrer interferência e reflexão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ondulatória, justificada pelo fato de, no experimento, a luz sofrer difração e interferência.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 72 - ENEM 2012",
+  "index": 72,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um aquecedor solar consiste essencialmente em uma serpentina de metal, a ser exposta ao sol, por meio da qual flui água a ser aquecida. A parte inferior da serpentina é soldada a uma chapa metálica, que é o coletor solar. A forma da serpentina tem a finalidade de aumentar a área de contato com o coletor e com a própria radiação solar sem aumentar muito o tamanho do aquecedor. O metal, sendo bom condutor, transmite a energia da radiação solar absorvida para as paredes internas e, daí, por condução, para a água. A superfície deve ser recoberta com um material, denominado material seletivo quente, para que absorva o máximo de radiação solar e emita o mínimo de radiação infravermelha. Os quadros relacionam propriedades de alguns metais/ligas metálicas utilizados na confecção de aquecedores solares:",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/72/Enem-2012-ppl-questao-72.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Os aquecedores solares mais eficientes e, portanto, mais atrativos do ponto de vista econômico, devem ser construídos utilizando como material metálico e material seletivo quente, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aço e material seletivo quente A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aço e material seletivo quente B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cobre e material seletivo quente C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "zinco e material seletivo quente B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cobre e material seletivo quente A.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

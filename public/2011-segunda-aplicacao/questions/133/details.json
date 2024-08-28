@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 133 - ENEM 2011",
+  "index": 133,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Árvore da Língua \nAo longo dos três andares, uma instalação de 16 metros de altura mostra palavras com mais de 6 mil anos, projetadas em folhas da Árvore da Língua. Ela faz os significados dançarem para falar da evolução do indo-europeu ao latim e, dele, ao português. Criada pelo designer Rafic Farah, a escultura é pontuada por um mantra de Arnaldo Antunes, com os termos “língua” e “palavra” cantados em vários idiomas.\n\n                                                  SCARDOVELI, E. Revista Língua Portuguesa. Ano II, nº 6. São Paulo: Segmento, 2006.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O texto apresentado pertence ao domínio jornalístico. Sua finalidade e sua composição estrutural caracterizam-no como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "quadro informativo, pois apresenta dados sobre um objeto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "notícia, já que leva informação atual a um público específico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reportagem, porque enfoca um assunto de forma abrangente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "legenda, porque descreve elementos e retoma uma informação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "entrevista, pois apresenta uma opinião sobre o local inaugurado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

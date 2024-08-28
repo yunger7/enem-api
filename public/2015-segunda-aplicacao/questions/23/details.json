@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 23 - ENEM 2015",
+  "index": 23,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em 1960, os 20% mais ricos da população mundial dispunham de um capital trinta vezes mais elevado do que o dos 20% mais pobres, o que já era escandaloso. Mas, ao invés de melhorar, a situação ainda se agravou. Hoje, o capital dos ricos em relação ao dos pobres é, não mais trinta, mas oitenta e duas vezes mais elevado.\n\n                                                  RAMONET, I. Guerras do século XXI: novos temores e novas ameaças.\nPetrópolis: Vozes, 2003 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Que característica socioeconômica está expressa no texto?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Expansão demográfica",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Homogeneidade social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Concentração de renda.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Desemprego conjuntural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Desenvolvimento econômico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

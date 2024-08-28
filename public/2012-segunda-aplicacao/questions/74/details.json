@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 74 - ENEM 2012",
+  "index": 74,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A fosfatidilserina é um fosfolipídio aniônico cuja interação com cálcio livre regula processos de transdução celular e vem sendo estudada no desenvolvimento de biossensores nanométricos. A figura representa a estrutura da fosfatidilserina:",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/74/Enem-2012-ppl-questao-74.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base nas informações do texto, a natureza da interação da fosfatidilserina com o cálcio livre é do tipo\nDado: número atômico do elemento cálcio: 20",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "iônica somente com o grupo aniônico fosfato, já que o cálcio livre é um cátion monovalente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "iônica com o cátion amônio, porque o cálcio livre é representado como um ânion monovalente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "iônica com os grupos aniônicos fosfato e carboxila, porque o cálcio em sua forma livre é um cátion divalente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "covalente com qualquer dos grupos não carregados da fosfatidilserina, uma vez que estes podem doar elétrons ao cálcio livre para formar a ligação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "covalente com qualquer grupo catiônico da fosfatidilserina, visto que o cálcio na sua forma livre poderá compartilhar seus elétrons com tais grupos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

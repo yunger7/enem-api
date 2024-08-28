@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 110 - ENEM 2012",
+  "index": 110,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Agora eu era herói\nE o meu cavalo só falava inglês.\nA noiva do cowboy\nEra você, além das outras três.\nEu enfrentava os batalhões,\nOs alemães e seus canhões.\nGuardava o meu bodoque\nE ensaiava o rock para as matinês.\n\n                                                  CHICO BUARQUE. João e Maria, 1977 (fragmento).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Nos terceiro e oitavo versos da letra da canção, constatase que o emprego das palavras cowboy e rock expressa a influência de outra realidade cultural na língua portuguesa. Essas palavras constituem evidências de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "regionalismo, ao expressar a realidade sociocultural de habitantes de uma determinada região.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "neologismo, que se caracteriza pelo aportuguesamento de uma palavra oriunda de outra língua.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "jargão profissional, ao evocar a linguagem de uma área específica do conhecimento humano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "arcaísmo, ao representar termos usados em outros períodos da história da língua.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estrangeirismo, que significa a inserção de termos de outras comunidades linguísticas no português.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

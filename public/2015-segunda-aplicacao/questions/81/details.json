@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 81 - ENEM 2015",
+  "index": 81,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A toxina botulínica (produzida pelo bacilo Clostridium botulinum) pode ser encontrada em alimentos malconservados, causando até a morte de consumidores. No entanto, essa toxina modificada em laboratório está sendo usada cada vez mais para melhorar a qualidade de vida das pessoas com problemas físicos e/ou estéticos, atenuando problemas como o blefaroespasmo, que provoca contrações involuntárias das pálpebras.\n\n                                                  BACHUR, T. P. R. et al. Toxina botulínica: de veneno a tratamento. Revista Eletrônica Pesquisa Médica, n. 1, jan.-mar. 2009 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O alívio dos sintomas do blefaroespasmo é consequência da ação da toxina modificada sobre o tecido.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "glandular, uma vez que ela impede a produção de secreção de substâncias na pele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "muscular, uma vez que ela provoca a paralisia das fibras que formam esse tecido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "epitelial, uma vez que ela leva ao aumento da camada de queratina que protege a pele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "conjuntivo, uma vez que ela aumenta a quantidade de substância intercelular no tecido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "adiposo, uma vez que ela reduz a espessura da camada de células de gordura do tecido.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 2 - ENEM 2017",
+  "index": 2,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/2/2-espanhol.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "É comum fazer trocadilhos com ditos populares para recriar sentidos. Na reflexão do personagem Felipe, a expressão “tratar de encajarle” significa",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "encaixar em outro dia a tarefa de hoje.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "delegar a outras pessoas os seus afazeres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ser incapaz de concluir seus afazeres a tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aceitar suas atribuições sem questioná-las.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "adiar uma tarefa para realizá-la melhor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

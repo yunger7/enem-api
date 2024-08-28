@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 140 - ENEM 2017",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": "GH é a sigla que denomina o hormônio do crescimento (do inglês growth hormone), indispensável para retardar o processo de envelhecimento. À medida que envelhecemos, a liberação desse hormônio na corrente sanguínea vai diminuindo. Estudos têm demonstrado, porém, que alguns métodos de treinamento aumentam a produção de GH. Em uma pesquisa, dez homens foram submetidos a sessões de 30 minutos de corrida, em uma esteira, em diferentes intensidades: muito leve, leve, moderada e máxima. As dosagens de GH, medidas por coletas de sangue feitas antes e logo após as sessões, e também 1 hora e 2 horas após o término, são fornecidas no gráfico.\n\nnull",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/140/140.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em qual(is) medição(ões) a liberação de GH na corrente sanguínea em uma sessão de intensidade máxima foi maior que a liberação de GH ocorrida nas demais intensidades?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Apenas na medição feita logo após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Apenas na medição feita 1 hora após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Apenas na medição feita 2 horas após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Nas medições feitas logo após e 1 hora após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Nas medições feitas logo após, 1 hora após e 2 horas após a sessão de treinamento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

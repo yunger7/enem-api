@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 132 - ENEM 2011",
+  "index": 132,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/132/132.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A situação social em que o falante está inserido é determinante para o uso da língua. Dessa forma, cabe ao usuário adequar-se a cada contexto, a seus condicionantes: formalidade/informalidade, intimidade/hierarquias etc. Considerando-se a situação comunicativa, há, na charge,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "displicência de ambos os falantes, já que desconsideram a situação em que estão inseridos e usam um registro inadequado ao contexto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dualidade de registros entre os dois falantes, já que ambos usam regras distintas quanto à concordância.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "inobservância do personagem vestido de preto quanto à informalidade da situação e o consequente uso de um registro bastante formal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inadequação, do ponto de vista da norma padrão, do registro de um e de outro falante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "consenso entre os registros dos dois falantes no tocante à norma padrão, já que ambos usam as mesmas regras de regência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 88 - ENEM 2017",
+  "index": 88,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As intervenções da urbanização, com a modificação das formas ou substituição de materiais superficiais, alteram de maneira radical e irreversível os processos hidrodinâmicos nos sistemas geomorfológicos, sobretudo no meio tropical úmido, em que a dinâmica de circulação de água desempenha papel fundamental.\n\n                                                  GUERRA, A. J. T.; JORGE, M. C. O. Processos erosivos e recuperação de áreas degradadas. São Paulo: Oficina de Textos, 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nesse contexto, a influência da urbanização, por meio das intervenções técnicas nesse ambiente, favorece o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "abastecimento do lençol freático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "escoamento superficial concentrado.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "acontecimento da evapotranspiração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "movimento de água em subsuperfície.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "armazenamento das bacias hidrográficas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

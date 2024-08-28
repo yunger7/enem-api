@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 169 - ENEM 2012",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Foi pedido a cinco funcionários do Fundo, André, Bruno, Caio, Douglas e Eduardo, que apresentassem um sistema que modelasse os dados apresentados. Cada funcionário apresentou um sistema diferente, considerando x e y como as quantidades de toneladas comercializadas, respectivamente, de soja e de milho. O resultado foi o seguinte:",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/169/169.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O funcionário que fez a modelagem correta foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "André.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Bruno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Caio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Douglas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Eduardo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

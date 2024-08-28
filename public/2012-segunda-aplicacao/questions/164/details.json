@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 164 - ENEM 2012",
+  "index": 164,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ela ainda não sabe qual será sua nota de matemática no quarto bimestre, mas sabe que o peso dessa nota na média final é 4. As notas variam de zero a dez, sendo permitida apenas uma casa na parte decimal (caso contrário a nota será arredondada, usando como critério “se o algarismo da segunda casa decimal é maior ou igual a 5, então o algarismo na primeira casa decimal será acrescido de uma unidade”). A média final mínima para aprovação na escola dessa aluna é 7. Se ela obtiver média final inferior a 7, precisará realizar uma outra prova que substitua a menor das notas bimestrais, de modo a alcançar a média 7 (mantidos os mesmos pesos anteriores).",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/164/164.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Se essa aluna precisar realizar uma prova para substituir a nota que obteve no primeiro bimestre, e tal nota precisar ser igual a 4,8, é porque a nota que ela obteve no quarto bimestre foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7,3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "7,9.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "9,2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10,0.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

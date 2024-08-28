@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 144 - ENEM 2013",
+  "index": 144,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Luíza decidiu pintar seus cabelos e os de sua mãe usando as cores B e C em ambas as tinturas. A cor B é a que tinge os cabelos brancos e a cor C dá um tom mais claro durante a exposição à luz. Luíza sabe que, em cabelos com muitos fios brancos, como os de sua mãe, a proporção entre as cores C e B é de 1 para 3. Para ela, que tem poucos fios brancos, a proporção a ser aplicada é de 3 partes da cor C para 1 parte da cor B. Além disso, como sua mãe tem cabelos curtos, basta a aplicação de 60 gramas de tintura; já para seus longos cabelos, serão necessários 120 gramas.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com a situação descrita, a quantidade, em gramas, da tintura da cor B que Luíza deve adquirir para pintar os seus cabelos e os de sua mãe é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "60.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "75.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "90.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "105.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "180.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

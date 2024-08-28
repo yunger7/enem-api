@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 79 - ENEM 2013",
+  "index": 79,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Industrialmente é possível separar os componentes do ar, utilizando-se uma coluna de fracionamento. Com este processo, obtêm-se gases como: oxigênio (O2), nitrogênio (N2) e argônio (Ar). Nesse processo o ar é comprimido e se liquefaz; em seguida ele é expandido, volta ao estado gasoso e seus componentes se separam um a um.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A ordem de separação dos gases na coluna de fracionamento está baseada em qual propriedade da matéria?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Na densidade dos gases, ou seja, o menos denso separa-se primeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Na pressão parcial dos gases, ou seja, o gás com menor pressão parcial separa-se primeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Na capacidade térmica dos gases, ou seja, o gás que mais absorve calor separa-se primeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Na condutividade térmica dos gases, ou seja, o gás que mais rápido absorve calor separa-se primeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Na temperatura de ebulição dos gases, ou seja, o gás com menor temperatura de ebulição separa-se primeiro.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

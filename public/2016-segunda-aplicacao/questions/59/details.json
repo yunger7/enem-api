@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 59 - ENEM 2016",
+  "index": 59,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As sacolas plásticas são utilizadas em grande quantidade no Brasil por serem práticas, leves e de baixo custo. Porém, o tempo necessário para que sofram degradação nas condições do meio é de, no mínimo, 100 anos. Com o intuito de reduzir o impacto ambiental desses produtos, as sacolas biodegradáveis foram introduzidas no mercado. Essas sacolas são confeccionadas de um material polimérico que confere a elas uma característica que as torna biodegradáveis.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A qual característica das sacolas biodegradáveis o texto faz referência?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Elevada massa molecular do polímero.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Espessura fina do material que as constitui.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Baixa resistência aos líquidos nas condições de uso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Baixa resistência ao ataque por microrganismos em condições adequadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Ausência de anéis aromáticos na estrutura do polímero usado na confecção das sacolas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

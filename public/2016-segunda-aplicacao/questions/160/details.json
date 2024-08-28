@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 160 - ENEM 2016",
+  "index": 160,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Na figura estão representadas três retas no plano cartesiano, sendo P, Q e R os pontos de intersecções entre as retas, e A, B e C os pontos de intersecções dessas retas com o eixo x.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/160/Capturar16.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Essa figura é a representação gráfica de um sistema linear de três equações e duas incógnitas que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "possui três soluções reais e distintas, representadas pelos pontos P, Q e R, pois eles indicam onde as retas se intersectam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "possui três soluções reais e distintas, representadas pelos pontos A, B e C, pois eles indicam onde as retas intersectam o eixo das abscissas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "possui infinitas soluções reais, pois as retas se intersectam em mais de um ponto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "não possui solução real, pois não há ponto que pertença simultaneamente às três retas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "possui uma única solução real, pois as retas possuem pontos em que se intersectam.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

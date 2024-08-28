@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 12 - ENEM 2014",
+  "index": 12,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Sendo os homens, por natureza, todos livres, iguais e independentes, ninguém pode ser expulso de sua propriedade e submetido ao poder político de outrem sem dar consentimento. A maneira única em virtude da  qual uma pessoa qualquer renuncia à liberdade natural e se reveste dos laços da sociedade civil consiste em concordar com outras pessoas em juntar-se e unir-se em comunidade para viverem com segurança, conforto e paz umas com as outras, gozando garantidamente das propriedades que tiverem e desfrutando de maior proteção contra quem quer que não faça parte dela.\n\n                                                  LOCKE, J. Segundo tratado sobre o governo civil. Os pensadores. São Paulo: Nova Cultural, 1978.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Segundo a Teoria da Formação do Estado, de John Locke, para viver em sociedade, cada cidadão deve",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "manter a liberdade do estado de natureza, direito inalienável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "abrir mão de seus direitos individuais em prol do bem comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "abdicar de sua propriedade e submeter-se ao poder do mais forte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "concordar com as normas estabelecidas para a vida em sociedade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "renunciar à posse jurídica de seus bens, mas não à sua independência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

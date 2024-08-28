@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 73 - ENEM 2011",
+  "index": 73,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A matéria-prima básica para a fabricação de calçados plásticos é a resina de PVC. A seguir é apresentado o fluxograma de fabricação do PVC e sua fórmula química.\nSiglas: PVC – policloreto de vinila; EDC – dicloro etano; MVC – monocloreto de vinila",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/73/Enem-2011-ppl-questao-73.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para a produção do PVC, a obtenção do cloro é proveniente do processo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "destilação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "eletrólise.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "fusão ígnea.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "filtração a vácuo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "precipitação fracionada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

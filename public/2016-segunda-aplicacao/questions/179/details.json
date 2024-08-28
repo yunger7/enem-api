@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 179 - ENEM 2016",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Para que o pouso de um avião seja autorizado em um aeroporto, a aeronave deve satisfazer, necessariamente, as seguintes condições de segurança:\nI. a envergadura da aeronave (maior distância entre as pontas das asas do avião) deve ser, no máximo, igual à medida da largura da pista;\nII. o comprimento da aeronave deve ser inferior a 60 m;\nIII. a carga máxima (soma das massas da aeronave e sua carga) não pode exceder 110 t.\nSuponha que a maior pista desse aeroporto tenha 0,045 km de largura, e que os modelos de aviões utilizados pelas empresas aéreas, que utilizam esse aeroporto, sejam dados pela tabela.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/179/quest%C3%A3o-178-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Os únicos aviões aptos a pousar nesse aeroporto, de acordo com as regras de segurança, são os de modelos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A e C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A e B.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "B e D.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "B e E.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "C e E.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

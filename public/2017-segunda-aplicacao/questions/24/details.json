@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 24 - ENEM 2017",
+  "index": 24,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A tecnologia está, definitivamente, presente na vida cotidiana. Seja para consultar informações, conversar com amigos e familiares ou apenas entreter, a internet e os celulares não saem das mãos e mentes das pessoas. Por esse motivo, especialistas alertam: o uso excessivo dessas ferramentas pode viciar. O problema, dizem os especialistas, é o usuário conseguir diferenciar a dependência do uso considerado normal. Hoje, a internet e os celulares são ferramentas profissionais e de estudo.\n\n                                                  MATSUURA, S. O Globo, 10 jun. 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O desenvolvimento da sociedade está relacionado ao avanço das tecnologias, que estabelecem novos padrões de comportamento. De acordo com o texto, o alerta dos especialistas deve-se à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "insegurança do usuário, em razão do grande número de pessoas conectadas às redes sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a de credibilidade das informações transmitidas pelos meios de comunicação de massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "comprovação por pesquisas de que os danos ao cérebro são muito maiores do que se pode imaginar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "subordinação das pessoas aos recursos oferecidos pelas novas tecnologias, a ponto de prejudicar suas vidas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "possibilidade de as pessoas se isolarem socialmente, em razão do uso das novas tecnologias de comunicação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 90 - ENEM 2015",
+  "index": 90,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/90/90-1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "No esquema representado, o processo identificado pelo número 2 é realizado por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "seres herbívoros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fungos fermentadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "bactérias heterótrofas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "organismos produtores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "microrganismos decompositores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

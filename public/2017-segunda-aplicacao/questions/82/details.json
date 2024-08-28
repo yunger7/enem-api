@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 82 - ENEM 2017",
+  "index": 82,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A definição de Aristóteles para enigma é totalmente desligada de qualquer fundo religioso: dizer coisas reais associando coisas impossíveis. Visto que, para Aristóteles, associar coisas impossíveis significa formular uma contradição, sua definição quer dizer que o enigma é uma contradição que designa algo real, em vez de não indicar nada, como é de regra.\n\n                                                  COLLI, G. O nascimento da filosofia. Campinas: Unicamp, 1996 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Segundo o texto, Aristóteles inovou a forma de pensar sobre o enigma, ao argumentar que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a contradição que caracteriza o enigma é desprovida de relevância filosófica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "os enigmas religiosos são contraditórios porque indicam algo religiosamente real.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o enigma é uma contradição que diz algo de real e algo de impossível ao mesmo tempo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "as coisas impossíveis são enigmáticas e devem ser explicadas em vista de sua origem religiosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a contradição enuncia coisas impossíveis e irreais, porque ela é desligada de seu fundo religioso.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

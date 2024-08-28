@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 1 - ENEM 2011",
+  "index": 1,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Desde épocas remotas, a interação da sociedade com a natureza gera impactos diversificados, que transformam a complexidade do ambiente natural. A evolução progressiva do homem como ser social mostra que, quanto mais ele evolui tecnicamente, mais interfere na dinâmica da natureza.\n\n                                                  ROSS, J. L. S. A sociedade industrial e o ambiente. In: ROSS, J. L. S. (Org.).\nGeografia do Brasil. São Paulo: EdUSP, 2005 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A partir da relação apresentada entre a sociedade e a natureza, é possível identificar uma causa e uma consequência da interferência humana no ambiente natural, a saber:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A extração de matérias-primas para setores como o siderúrgico, o que tende a promover degradação de certos ecossistemas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A redução dos níveis de investimento do agronegócio, o que resulta diretamente na diminuição de espécies nativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A extração de recursos naturais, gerando uma aproximação entre os ambientes naturais e humanizados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A interrupção dos incentivos públicos à indústria do turismo, o que implica a ampliação do equilíbrio ecológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O aumento da produtividade agrícola, contribuindo para uma menor diversificação da fauna e da flora.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

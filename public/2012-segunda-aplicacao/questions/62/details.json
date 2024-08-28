@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 62 - ENEM 2012",
+  "index": 62,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os tecidos animais descritos no quadro são formados por um conjunto de células especializadas, e a organização estrutural de cada um reflete suas respectivas funções.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/62/Enem-2012-ppl-questao-62.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De acordo com a organização estrutural dos tecidos descrita, aquele que possui a capacidade de formar barreiras contra agentes invasores e evitar a perda de líquidos corporais é o tecido",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ósseo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "conjuntivo denso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "conjuntivo frouxo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "epitelial de revestimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "muscular estriado esquelético.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

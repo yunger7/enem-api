@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 37 - ENEM 2016",
+  "index": 37,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Disponível em: http://repairpal.com. Acesso em: 14 jan. 2014 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/37/enem2016.2.questao37.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A interpretação da imagem demonstra que a distribuição de países onde se dirige do lado direito coincide, em grande parte, com a zona de influência ou dominação exercida pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Índia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Austrália.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Inglaterra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Indonésia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "África do Sul.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

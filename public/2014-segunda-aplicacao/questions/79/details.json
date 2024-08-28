@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 79 - ENEM 2014",
+  "index": 79,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Durante um reparo na estação espacial internacional, um cosmonauta, de massa 90 kg, substitui uma bomba do sistema de refrigeração, de massa 360 kg, que estava danificada. Inicialmente, o cosmonauta e a bomba estão em repouso em relação à estação. Quando ele empurra a bomba para o espaço, ele é empurrado no sentido oposto. Nesse processo, a bomba adquire uma velocidade de 0,2 m/s em relação à estação.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual é o valor da velocidade escalar adquirida pelo cosmonauta, em relação à estação, após o empurrão?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,05 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,20 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,40 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,50 m/s.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,80 m/s.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 69 - ENEM 2012",
+  "index": 69,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A usina termelétrica a carvão é um dos tipos de unidades geradoras de energia elétrica no Brasil. Essas usinas transformam a energia contida no combustível (carvão mineral) em energia elétrica.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Em que sequência ocorrem os processos para realizar essa transformação?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A usina transforma diretamente toda a energia química contida no carvão em energia elétrica, usando reações de fissão em uma célula combustível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A usina queima o carvão, produzindo energia térmica, que é transformada em energia elétrica por dispositivos denominados transformadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A queima do carvão produz energia térmica, que é usada para transformar água em vapor. A energia contida no vapor é transformada em energia mecânica na turbina e, então, transformada em energia elétrica no gerador.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A queima do carvão produz energia térmica, que é transformada em energia potencial na torre da usina. Essa energia é então transformada em energia elétrica nas células eletrolíticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A queima do carvão produz energia térmica, que é usada para aquecer água, transformando-se novamente em energia química, quando a água é decomposta em hidrogênio e oxigênio, gerando energia elétrica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

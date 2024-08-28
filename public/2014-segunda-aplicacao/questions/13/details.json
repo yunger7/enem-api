@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 13 - ENEM 2014",
+  "index": 13,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A introdução da organização científica taylorista do trabalho e sua fusão com o fordismo acabaram por representar a forma mais avançada da racionalização capitalista do processo de trabalho ao longo de várias décadas do século XX.\n\n                                                  ANTUNES, R. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. São Paulo: Boitempo, 2009 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O objetivo desse modelo de organização do trabalho é o alcance da eficiência máxima no processo produtivo industrial que, para tanto,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "adota estruturas de produção horizontalizadas, privilegiando as terceirizações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "requer trabalhadores qualificados, polivalentes e aptos para as oscilações da demanda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "procede à produção em pequena escala, mantendo os estoques baixos e a demanda crescente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "decompõe a produção em tarefas fragmentadas e repetitivas, complementares na construção do produto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "outorga aos trabalhadores a extensão da jornada de trabalho para que eles definam o ritmo de execução de suas tarefas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

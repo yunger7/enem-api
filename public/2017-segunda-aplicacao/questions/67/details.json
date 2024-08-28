@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 67 - ENEM 2017",
+  "index": 67,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Dado que, dos hábitos racionais com os quais captamos a verdade, alguns são sempre verdadeiros, enquanto outros admitem o falso, como a opinião e o cálculo, enquanto o conhecimento científico e a intuição são sempre verdadeiros, e dado que nenhum outro gênero de conhecimento é mais exato que o conhecimento científico, exceto a intuição, e, por outro lado, os princípios são mais conhecidos que as demonstrações, e dado que todo conhecimento científico constitui-se de maneira argumentativa, não pode haver conhecimento científico dos princípios, e dado que não pode haver nada mais verdadeiro que o conhecimento científico, exceto a intuição, a intuição deve ter por objeto os princípios.\n\n                                                  ARISTÓTELES. Segundos analíticos. In: REALE, G.\nHistória da filosofia antiga. São Paulo: Loyola, 1994",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Os princípios, base da epistemologia aristotélica, pertencem ao domínio do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "opinião, pois fazem parte da formação da pessoa",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cálculo, pois são demonstrados por argumentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "conhecimento científico, pois admitem provas empíricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "intuição, pois ela é mais exata que o conhecimento científico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "prática de hábitos racionais, pois com ela se capta a verdade",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

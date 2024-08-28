@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 167 - ENEM 2016",
+  "index": 167,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Pretende-se construir um mosaico com o formato de um triângulo retângulo, dispondo-se de três peças, sendo duas delas triângulos retângulos congruentes e a terceira um triângulo isósceles. A figura apresenta cinco mosaicos formados por três peças.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/167/quest%C3%A3o-167-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Na figura, o mosaico que tem as características daquele que se pretende construir é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

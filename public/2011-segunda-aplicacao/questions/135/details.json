@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 135 - ENEM 2011",
+  "index": 135,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/135/1351.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nesse cartum, o artista lança mão do recurso da intertextualidade para construir o texto. Esse recurso se constitui pela presença de informações que remetem a outros textos. O emprego desse recurso no cartum revela uma crítica",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à qualidade da informação prestada pela mídia brasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aos altos níveis de violência no país veiculados pela mídia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "à imparcialidade dos telejornais na veiculação de informações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à ausência de critérios para divulgação de notícias em telejornais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ao incentivo da mídia a atos violentos na sociedade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "year": 2012,
+  "title": "Questão 70 - ENEM 2012",
+  "index": 70,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os fornos domésticos de micro-ondas trabalham com uma frequência de ondas eletromagnéticas que atuam fazendo rotacionar as moléculas de água, gordura e açúcar e, consequentemente, fazendo com que o alimentos sejam aquecidos. Os telefones sem fio também usam ondas eletromagnéticas na transmissão do sinal. As especificações técnicas desses aparelhos são informadas nos quadros 1 e 2, retirados de seus manuais.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/70/Enem-2012-ppl-questao-70.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/70/Enem-2012-ppl-questao-70-2.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O motivo de a radiação do telefone não aquecer como a do micro-ondas é que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o ambiente no qual o telefone funciona é aberto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a frequência de alimentação é 60 Hz para os dois aparelhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a potência do telefone sem fio é menor que a do forno.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o interior do forno reflete as micro-ondas e as concentra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a modulação das ondas no forno é maior do que no telefone.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

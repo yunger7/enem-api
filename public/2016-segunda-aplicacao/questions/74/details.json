@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 74 - ENEM 2016",
+  "index": 74,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Darwin, em viagem às ilhas Galápagos, observou que os tentilhões apresentavam bicos com formatos diferentes em cada ilha, de acordo com o tipo de alimentação disponível. Lamarck, ao explicar que o pescoço da girafa teria esticado para colher folhas e frutos no alto das árvores, elaborou ideias importantes sobre a evolução dos seres vivos.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O texto aponta que uma ideia comum às teorias da evolução, propostas por Darwin e por Lamarck, refere-se à interação entre os organismos e seus ambientes, que é denominada de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mutação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "adaptação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "seleção natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "recombinação gênica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "variabilidade genética.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 151 - ENEM 2014",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um agricultor possui em sua fazenda um silo para armazenar sua produção de milho. O silo, que na época da colheita é utilizado em sua capacidade máxima, tem a forma de um paralelepípedo retângulo reto, com os lados da base medindo L metros e altura igual a h metros. O agricultor deseja duplicar a sua produção para o próximo ano e, para isso, irá comprar um novo silo, no mesmo formato e com o dobro da capacidade do atual. O fornecedor de silos enviou uma lista com os tipos disponíveis e cujas dimensões são apresentadas na tabela:\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/151/151.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para atender às suas necessidades, o agricultor deverá escolher o silo de tipo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

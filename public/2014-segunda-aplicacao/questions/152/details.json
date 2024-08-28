@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 152 - ENEM 2014",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um construtor precisa revestir o piso de uma sala retangular. Para essa tarefa, ele dispõe de dois tipos de cerâmicas:\na) cerâmica em forma de quadrado de lado 20 cm, que custa R$ 8,00 por unidade;\nb) cerâmica em forma de triângulo retângulo isósceles de catetos com 20 cm, que custa R$ 6,00 por unidade.A sala tem largura de 5 m e comprimento de 6 m. O construtor deseja gastar a menor quantia possível com a compra de cerâmica. Sejam x o número de peças de cerâmica de forma quadrada e y o número de peças de cerâmica de forma triangular.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Isso significa, então, encontrar valores para x e y tais que 0,04x + 0,02y ≥ 30 e que tornem o menor possível valor de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "8x + 6y.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "6x + 8y.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,32x + 0,12y.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,32x + 0,02y.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,04x + 0,12y.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

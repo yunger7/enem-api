@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 111 - ENEM 2011",
+  "index": 111,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Quando Rubem Braga não tinha assunto, ele abria a janela e encontrava um. Quando não encontrava, dava no mesmo, ele abria a janela, olhava o mundo e comunicava que não havia assunto. Fazia isso com tanto engenho e arte que também dava no mesmo: a crônica estava feita. Não tenho nem o engenho nem a arte de Rubem, mas tenho a varanda aberta sobre a Lagoa ― posso não ver melhor, mas vejo mais. […] Nelson Rodrigues não tinha problemas. Quando não havia assunto, ele inventava. Uma tarde, estacionei ilegalmente o Sinca-Chambord na calçada do jornal. Ele estava com o papel na máquina e provisoriamente sem assunto. Inventou que eu descia de um reluzente Rolls Royce com uma loura suspeita, mas equivalente à suntuosidade do carro. Um guarda nos deteve, eu tentei subornar a autoridade com dinheiro, o guarda não aceitou o dinheiro, preferiu a loura. Eu fiquei sem a multa e sem a mulher. Nelson não ficou sem assunto.\n\n                                                  CONY, C. H. Folha de S. Paulo. 2 jan. 1998 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O autor lançou mão de recursos linguísticos que o auxiliaram na retomada de informações dadas sem repetir textualmente uma referência. Esses recursos pertencem ao uso da língua e ganham sentido nas práticas de linguagem. É o que acontece com os usos do pronome “ele” destacados no texto. Com essa estratégia, o autor conseguiu",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "confundir o leitor, que fica sem saber quando o texto se refere a um ou a outro cronista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "comparar Rubem Braga com Nelson Rodrigues, dando preferência ao primeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "referir-se a Rubem Braga e a Nelson Rodrigues usando igual recurso de articulação textual.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "sugerir que os dois autores escrevem crônicas sobre assuntos semelhantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "produzir um texto obscuro, cujas ambiguidades impedem a compreensão do leitor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

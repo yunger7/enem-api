@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 42 - ENEM 2013",
+  "index": 42,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A vinda da família real deslocou definitivamente o eixo da vida administrativa da Colônia para o Rio de Janeiro, mudando também a fisionomia da cidade. A presença da Corte implicava uma alteração do acanhado cenário urbano da Colônia, mas a marca do absolutismo acompanharia a alteração.\n\n                                                  FAUSTO, B. História do Brasil. São Paulo: Edusp, 1995 (fragmento).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "As transformações ocorridas na cidade do Rio de Janeiro em decorrência da presença da Corte estavam limitadas à superfície das estruturas sociais porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a pujança do desenvolvimento comercial e industrial retirava da agricultura de exportação a posição de atividade econômica central na Colônia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a expansão das atividades econômicas e o desenvolvimento de novos hábitos conviviam com a exploração do trabalho escravo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "a emergência das práticas liberais, com a abertura dos portos, impedia uma renovação política em prol da formação de uma sociedade menos desigual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a integração das elites políticas regionais, sob a liderança do Rio de Janeiro, ensejava a formação de um projeto político separatista de cunho republicano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a dinamização da economia urbana retardava o letramento de mulatos e imigrantes, importante para as necessidades do trabalho na cidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

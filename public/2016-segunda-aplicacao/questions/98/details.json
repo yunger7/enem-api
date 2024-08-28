@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 98 - ENEM 2016",
+  "index": 98,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/98/98-figura1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A técnica da décollage, utilizada pelo artista Mimmo Rotella em sua obra Marilyn, é um procedimento artístico representativo da década de 1960 por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "visar a conservação das representações e dos registros visuais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "basear-se na reciclagem de material gráfico, contribuindo para a sustentabilidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "encobrir o passado, abrindo caminho para novas formas plásticas, pela releitura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fazer conviver campos de expressão diferentes e integrar novos significados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "abolir o trabalho manual do artista na confecção das imagens recontextualizadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

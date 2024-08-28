@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 180 - ENEM 2013",
+  "index": 180,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Onde:\n• n1 = número de indivíduos marcados na primeira amostragem;\n• n2 = número de indivíduos marcados na segunda amostragem;\n• m2 = número de indivíduos da segunda amostragem que foram marcados na primeira amostragem;\n• N= tamanho estimado da população total.\n\n                                                  SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2010 (adaptado).",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/180/180.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Durante uma contagem de indivíduos de uma população, na primeira amostragem foram marcados 120; na segunda amostragem foram marcados 150, dos quais 100 já possuíam a marcação. O número estimado de indivíduos dessa população é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "188.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "180.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "125.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "96.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

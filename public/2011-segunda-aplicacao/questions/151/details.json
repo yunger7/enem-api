@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 151 - ENEM 2011",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A universidade tinha como objetivo que o programa atingisse, no mínimo, metade dos usuários de drogas. No entanto, antes de verificar os dados da coleta, decidiu que abriria um grupo de apoio apenas para estudantes que consumissem mais de dois tipos diferentes de droga.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/151/151.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com as informações anteriores, a universidade atingiu seu objetivo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Sim, porque o grupo de apoio trabalharia com 88% dos alunos envolvidos com drogas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Sim, porque o grupo de apoio trabalharia com 58% dos alunos envolvidos com drogas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Não, porque o grupo de apoio trabalharia apenas com 40% dos alunos envolvidos com drogas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Não, porque o grupo de apoio trabalharia apenas com 38% dos alunos envolvidos com drogas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Não, porque o grupo de apoio trabalharia apenas com 36% dos alunos envolvidos com drogas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

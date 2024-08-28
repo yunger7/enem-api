@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 61 - ENEM 2013",
+  "index": 61,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os densímetros instalados nas bombas de combustível permitem averiguar se a quantidade de água presente no álcool hidratado está dentro das especificações determinadas pela Agência Nacional do Petróleo (ANP).\nO volume máximo permitido de água no álcool é de 4,9%. A densidade da água e do álcool anidro são de 1,00 g/cm3 e 0,80 g/cm3 , respectivamente.\n\n                                                  Disponível em: http://nxt.anp.gov.br. Acesso em: 5 dez. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A leitura no densímetro que corresponderia à fração máxima permitida de água é mais próxima de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,20 g/cm3 .",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,81 g/cm3 .",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,90 g/cm3 .",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,99 g/cm3 .",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,80 g/cm3 .",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

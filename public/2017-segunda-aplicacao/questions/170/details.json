@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 170 - ENEM 2017",
+  "index": 170,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O turista X alugará um carro em uma mesma locadora por três dias e percorrerá 250 km. Já a pessoa Y usará o carro por apenas um dia e percorrerá 120 km.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/170/170.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Com o intuito de economizarem com as locações dos carros, e mediante as informações, os turistas X e Y alugarão os carros, respectivamente, nas empresas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I e II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "I e III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "II e II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "II e III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "III e I.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 14 - ENEM 2014",
+  "index": 14,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/14/questao14.2014.ppl_.jpg.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nas últimas décadas, tem se observado um incremento no comércio entre o Brasil e a China. A comparação entre os gráficos demonstra a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "posição do Brasil como grande exportador de commodities.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "falta de complementaridade produtiva entre os dois países.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "vantagem competitiva da China no setor de produção agrícola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "proporcionalidade entre as trocas de bens de alto valor agregado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "restrita participação de bens de alta tecnologia no comércio bilateral.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

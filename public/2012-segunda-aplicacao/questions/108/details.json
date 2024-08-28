@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 108 - ENEM 2012",
+  "index": 108,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/108/Enem-2012-ppl-questao-108.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Os gêneros textuais nascem emparelhados a necessidades e atividades da vida sociocultural. Por isso, caracterizam-se por uma função social específica, um contexto de uso, um objetivo comunicativo e por peculiaridades linguísticas e estruturais que lhes conferem determinado formato. Esse classificado procura convencer o leitor a comprar um imóvel e, para isso, utiliza-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da predominância das formas imperativas dos verbos e de abundância de substantivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "de uma riqueza de adjetivos que modificam os substantivos, revelando as qualidades do produto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "de uma enumeração de vocábulos, que visam conferir ao texto um efeito de certeza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do emprego de numerais, quantificando as características e aspectos positivos do produto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da exposição de opiniões de corretores de imóveis no que se refere à qualidade do produto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

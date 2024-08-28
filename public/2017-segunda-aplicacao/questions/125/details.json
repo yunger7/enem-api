@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 125 - ENEM 2017",
+  "index": 125,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O quadro é um esquema da via de produção de biocombustível com base no cultivo de uma cianobactéria geneticamente modificada com a inserção do gene DGAT. Além da introdução desse gene, os pesquisadores interromperam as vias de síntese de outros compostos orgânicos, visando aumentar a eficiência na produção do biocombustível (triacilglicerol).",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/125/125.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Considerando as vias mostradas, uma fonte de matéria-prima primária desse biocombustível é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ácido graxo, produzido a partir da sacarose.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "gás carbônico, adquirido via fotossíntese.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "sacarose, um dissacarídeo rico em energia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "gene DGAT, introduzido por engenharia genética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "glicogênio, reserva energética das cianobactérias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

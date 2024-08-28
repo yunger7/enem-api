@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 142 - ENEM 2013",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma dona de casa pretende comprar uma escrivaninha para colocar entre as duas camas do quarto de seus filhos. Ela sabe que o quarto é retangular, de dimensões 4 m × 5 m, e que as cabeceiras das camas estão encostadas na parede de maior dimensão, onde ela pretende colocar a escrivaninha, garantindo uma distância de 0,4 m entre a escrivaninha e cada uma das camas, para circulação. Após fazer um esboço com algumas medidas, decidirá se comprará ou não a escrivaninha.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/142/142.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Após analisar o esboço e realizar alguns cálculos, a dona de casa decidiu que poderia comprar uma escrivaninha, de largura máxima igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,8 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,0 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1,4 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,6 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,8 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

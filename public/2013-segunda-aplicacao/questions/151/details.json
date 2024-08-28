@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 151 - ENEM 2013",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A cotação de uma moeda em relação a uma segunda moeda é o valor que custa para comprar uma unidade da primeira moeda, utilizando a segunda moeda. Por exemplo, se a cotação do dólar é 1,6 real, isso significa que para comprar 1 dólar é necessário 1,6 real.Suponha que a cotação do dólar, em reais, seja de 1,6 real, a do euro, em reais, seja de 2,4 reais e a cotação da libra, em euros, seja de 1,1 euro.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é a cotação da libra, em dólares?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4,224 dólares",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,64 dólares",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,65 dólar",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1,50 dólar",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,36 dólar",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

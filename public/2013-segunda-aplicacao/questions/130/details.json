@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 130 - ENEM 2013",
+  "index": 130,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Um gramático contra a gramática\nO gramático Celso Pedro Luft era formado em Letras Clássicas e Vernácula pela PUCRS e fez curso de especialização em Portugal. Foi professor na UFRGS e na Faculdade Porto-Alegrense de Ciências e Letras.\nSuas obras mais relevantes são: Gramática resumida, Moderna gramática brasileira, Dicionário gramatical da língua portuguesa, Novo manual de português, Minidicionário Luft, Língua e liberdade e O romance das palavras. Na obra Língua e liberdade, Luft traz um conjunto de ideias que subverte a ordem estabelecida no ensino da língua materna, por combater, de forma veemente, o ensino da gramática em sala de aula.\nNos seis pequenos capítulos que integram a obra, o gramático bate, intencionalmente, sempre na mesma tecla — uma variação sobre o mesmo tema: a maneira tradicional e errada de ensinar a língua materna.\n\n                                                  SCARTON, G. Disponível em: www.portugues.com.br. Acesso em: 26 out. 2011 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Reconhecer os diversos gêneros textuais que circulam na sociedade constitui-se uma característica fundamental do leitor competente. A análise das características presentes no fragmento de Um gramático contra a gramática, de Gilberto Scarton, revela que o texto em questão pertence ao seguinte gênero textual:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Artigo científico, uma vez que o fragmento contém título, nome completo do autor, além de ter sido redigido em uma linguagem clara e objetiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Relatório, pois o fragmento em questão apresenta informações sobre o autor, bem como descreve com detalhes o conteúdo da obra original.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Resenha, porque além de apresentar características estruturais da obra original, o texto traz ainda o posicionamento crítico do autor do fragmento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Texto publicitário, pois o fragmento apresenta dados essenciais para a promoção da obra original, como informações sobre o autor e o conteúdo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Resumo, visto que, no fragmento, encontram-se informações detalhadas sobre o currículo do autor e sobre o conteúdo da obra original.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

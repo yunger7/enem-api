@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 42 - ENEM 2015",
+  "index": 42,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A utilidade do escravo é semelhante à do animal. Ambos prestam serviços corporais para atender às necessidades da vida. A natureza faz o corpo do escravo e do homem livre de forma diferente. O escravo tem corpo forte, adaptado naturalmente ao trabalho servil. Já o homem livre tem corpo ereto, inadequado ao trabalho braçal, porém apto à vida do cidadão.\n\n                                                  ARISTÓTELES. Política. Brasília: UnB, 1985.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O trabalho braçal é considerado, na filosofia aristotélica, como:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "indicador da imagem do homem no estado de natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "condição necessária para a realização da virtude humana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "atividade que exige força física e uso limitado da racionalidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "referencial que o homem deve seguir para viver uma vida ativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "mecanismo de aperfeiçoamento do trabalho por meio da experiência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

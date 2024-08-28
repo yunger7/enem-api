@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 95 - ENEM 2017",
+  "index": 95,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A árvore filogenética representa uma hipótese evolutiva para a família Hominidae, na qual a sigla “m.a.” significa “milhões de anos atrás”. As ilustrações representam, da esquerda para a direita, o orangotango, o gorila, o ser humano, o chimpanzé e o bonobo.\n \n\n                                                  Disponível em: www.nature.com. Acesso em: 6 dez. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/95/95.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Considerando a filogenia representada, a maior similaridade genética será encontrada entre os seres humanos e:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Gorila e bonobo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Gorila e chimpanzé.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Gorila e orangotango.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Chimpanzé e bonobo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Bonobo e orangotango.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

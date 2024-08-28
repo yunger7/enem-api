@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 65 - ENEM 2016",
+  "index": 65,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Utensílios de uso cotidiano e ferramentas que contêm ferro em sua liga metálica tendem a sofrer processo corrosivo e enferrujar. A corrosão é um processo eletroquímico e, no caso do ferro, ocorre a precipitação do óxido de ferro(III) hidratado, substância marrom pouco solúvel, conhecida como ferrugem. Esse processo corrosivo é, de maneira geral, representado pela equação química:",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/65/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-65.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Uma forma de impedir o processo corrosivo nesses utensílios é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "renovar sua superfície, polindo-a semanalmente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "evitar o contato do utensílio com o calor, isolando-o termicamente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "impermeabilizar a superfície, isolando-a de seu contato com o ar úmido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "esterilizar frequentemente os utensílios, impedindo a proliferação de bactérias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "guardar os utensílios em embalagens, isolando-os do contato com outros objetos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

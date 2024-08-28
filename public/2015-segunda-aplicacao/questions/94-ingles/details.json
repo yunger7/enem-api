@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 94 - ENEM 2015",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": "Annual Greenhouse Gas Emissions by Sector",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/94/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-941.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A emissão de gases tóxicos na atmosfera traz diversas consequências para nosso planeta. De acordo com o gráfico, retirado do texto Global warming is an international issue, observa-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as queimadas poluem um pouco mais do que os combustíveis usados nos meios de transporte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as residências e comércios são os menores emissores de gases de efeito estufa na atmosfera.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o processo de tratamento de água contribui para a emissão de gases poluentes no planeta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os combustíveis utilizados nos meios de transportes poluem mais do que as indústrias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os maiores emissores de gases de efeito estufa na atmosfera são as usinas elétricas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

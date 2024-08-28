@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 140 - ENEM 2013",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O gráfico mostra o número de pessoas que acessaram a internet, no Brasil, em qualquer ambiente (domicílios, trabalho, escolas, lan houses ou outros locais), nos segundos trimestres dos anos de 2009, 2010 e 2011.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/140/140.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Considerando que a taxa de crescimento do número de acessos à internet no Brasil, do segundo trimestre de 2011 para o segundo trimestre de 2012, seja igual à taxa verificada no mesmo período de 2010 para 2011, qual é, em milhões, a estimativa do número de pessoas que acessarão a internet no segundo trimestre de 2012?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "82,1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "83,3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "86,7",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "93,4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "99,8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

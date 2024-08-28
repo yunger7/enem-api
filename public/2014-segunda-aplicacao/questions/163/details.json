@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 163 - ENEM 2014",
+  "index": 163,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Pesquisas indicam que o número de bactérias X é duplicado a cada quarto de hora. Um aluno resolveu fazer uma observação para verificar a veracidade dessa afirmação. Ele usou uma população inicial de 105 bactérias X e encerrou a observação ao final de uma hora.Suponha que a observação do aluno tenha confirmado que o número de bactérias X se duplica a cada quarto de hora.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Após uma hora do início do período de observação desse aluno, o número de bactérias X foi de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2-2.105",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2-1.105",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "22.105",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "23.105",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "24.105",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 117 - ENEM 2011",
+  "index": 117,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Um asteroide de cerca de um mil metros de diâmetro, viajando a 288 mil quilômetros por hora, passou a uma distância insignificante ― em termos cósmicos ― da Terra, pouco mais do dobro da distância que nos separa da Lua. Segundo os cálculos matemáticos, o asteroide cruzou a órbita da Terra e somente não colidiu porque ela não estava naquele ponto de interseção. Se ele tivesse sido capturado pelo campo gravitacional do nosso planeta e colidido, o impacto equivaleria a 40 bilhões de toneladas de TNT ou o equivalente à explosão de 40 mil bombas de hidrogênio, conforme calcularam os computadores operados pelos astrônomos do programa de Exploração do Sistema Solar da Nasa; se caísse no continente, abriria uma cratera de cinco quilômetros, no mínimo, e destruiria tudo o que houvesse num raio de milhares de outros; se desabasse no oceano, provocaria maremotos que devastariam imensas regiões costeiras. Enfim, uma visão do Apocalipse.\n\n                                                  Disponível em: http://bdjur.stj.jus.br. Acesso em: 23 abr. 2010 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base na leitura do fragmento, percebe-se que o texto foi construído com o objetivo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "destacar o seu processo de construção, dando enfoque, principalmente, a recursos expressivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "manter um canal de comunicação entre leitor e autor por meio de mensagens subjetivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "transmitir informações, fazendo referência a acontecimentos observados no mundo exterior.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "persuadir o leitor, levando-o a tomar medidas para evitar os problemas ambientais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "transmitir os receios e reflexões do autor no que se refere ao fim do mundo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

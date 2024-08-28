@@ -1,0 +1,46 @@
+{
+  "year": 2015,
+  "title": "Questão 59 - ENEM 2015",
+  "index": 59,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O papel tem na celulose sua matéria-prima, e uma das etapas de sua produção é o branqueamento, que visa remover a lignina da celulose. Diferentes processos de branqueamento usam, por exemplo, cloro (Cl2), hipoclorito de sódio (NaClO), oxigênio (O2), ozônio (O3) ou peróxido de hidrogênio (H2O2). Alguns processos de branqueamento levam à formação de compostos organoclorados. São apresentadas as estruturas de um fragmento da lignina e do tetracloroguaiacol, um dos organoclorados formados no processo de branqueamento.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/59/59-1.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/59/59-2.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Os reagentes capazes de levar à formação de organoclorados no processo citado são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O2 e O3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Cl2 e O2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "H2O2 e Cl2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "NaClO e O3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "NaClO e Cl2.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

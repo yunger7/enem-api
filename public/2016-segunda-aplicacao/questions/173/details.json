@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 173 - ENEM 2016",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A diretoria de uma empresa de alimentos resolve apresentar para seus acionistas uma proposta de novo produto. Nessa reunião, foram apresentadas as notas médias dadas por um grupo de consumidores que experimentaram o novo produto e dois produtos similares concorrentes (A e B).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/173/quest%C3%A3o-173-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A característica que dá a maior vantagem relativa ao produto proposto e que pode ser usada, pela diretoria para incentivar a sua produção é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "textura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "tamanho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sabor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "odor.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

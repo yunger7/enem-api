@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 38 - ENEM 2012",
+  "index": 38,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Estima-se que cerca de 80% da área cultivada do estado de São Paulo esteja sofrendo processo erosivo, causando uma perda de mais de 200 milhões de toneladas de solo por ano. 70% desse solo chegam aos mananciais, causando assoreamento e poluição.\n\n                                                  ZOCCAL, J. C. Adequação de erosões: causas, consequências e controle da erosão rural. Soluções cadernos de estudos em conservação do solo e água. Presidente Prudente: Codasp, v. 1, n. 1, maio 2007 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Como São Paulo, todo o Brasil sofre com o problema da deflagração e aceleração da erosão hídrica em áreas cultivadas, sendo que a perda de solos por esse tipo de erosão caracteriza-se por ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mais intensa em solos onde se utiliza a técnica de associação de culturas, em comparação com cultivos que deixam a maior parte do solo exposto às intempéries.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "menos intensa em solos que, revolvidos, ficam expostos às chuvas, em comparação àqueles onde são aplicadas técnicas de plantio direto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mais intensa nos solos onde são realizados cultivos temporários, em comparação àqueles sobre os quais as coberturas de mata são preservadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "mais intensa em solos expostos a chuvas bem distribuídas, em comparação àqueles sobre os quais a quantidade de chuvas é concentrada ao longo do ano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "menos intensa nos solos cujos alinhamentos dos cultivos seguem as linhas de maior inclinação, em comparação àqueles onde são aplicadas técnicas de terraceamento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

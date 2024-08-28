@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 5 - ENEM 2013",
+  "index": 5,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Hobbes realiza o esforço supremo de atribuir ao contrato uma soberania absoluta e indivisível. Ensina que, por um único e mesmo ato, os homens naturais constituem-se em sociedade política e submetem-se a um senhor, a um soberano. Não firmam contrato com esse senhor, mas entre si. É entre si que renunciam, em proveito desse senhor, a todo o direito e toda liberdade nocivos à paz.\n\n                                                  CHEVALLIER, J. J. As grandes obras políticas de Maquiavel a nossos dias. Rio de Janeiro: Agir, 1995 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A proposta de organização da sociedade apresentada no texto encontra-se fundamentada na",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "imposição das leis e na respeitabilidade ao soberano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "abdicação dos interesses individuais e na legitimidade do governo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "alteração dos direitos civis e na representatividade do monarca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "cooperação dos súditos e na legalidade do poder democrático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "mobilização do povo e na autoridade do parlamento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

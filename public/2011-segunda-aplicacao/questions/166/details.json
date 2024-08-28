@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 166 - ENEM 2011",
+  "index": 166,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ele precisa ter o campo pronto no dia 11 de junho de 2012, e o comprimento mínimo da grama nesse dia deve ser igual a 7 cm.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/166/166.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Supondo-se que o crescimento da grama se dê em condições normais, a grama deve ser plantada, no máximo, até o dia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "17 de maio de 2012.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "21 de maio de 2012.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "23 de maio de 2012.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8 de junho de 2012.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "9 de junho de 2012.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

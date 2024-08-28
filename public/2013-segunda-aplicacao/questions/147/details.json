@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 147 - ENEM 2013",
+  "index": 147,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Vulcão Puyehue transforma a paisagem de cidades na Argentina \nUm vulcão de 2 440 m de altura, no Chile, estava “parado” desde o terremoto em 1960. Foi o responsável por diferentes contratempos, como atrasos em viagens aéreas, por causa de sua fumaça. A cidade de Bariloche foi uma das mais atingidas pelas cinzas.\n\n                                                  Disponível em: http://g1.globo.com. Acesso em: 25 jun. 2011 (adaptado).\n\n                              \n                                                \n                Na aula de Geografia de determinada escola, foram confeccionadas pelos estudantes maquetes de vulcões, a uma escala 1 : 40 000. Dentre as representações ali produzidas, está a do Puyehue, que, mesmo sendo um vulcão imenso, não se compara em estatura com o vulcão\nMauna Loa, que fica no Havaí, considerado o maior vulcão do mundo, com 12 000 m de altura.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Comparando as maquetes desses dois vulcões, qual a diferença, em centímetros, entre elas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,26",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3,92",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4,92",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "20,3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "23,9",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

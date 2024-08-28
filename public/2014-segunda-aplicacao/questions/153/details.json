@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 153 - ENEM 2014",
+  "index": 153,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A tabela apresenta uma estimativa da evolução da população brasileira por faixa etária, em milhões de pessoas, para 2020, 2030 e 2045.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/153/153.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Com base na tabela, o valor que mais se aproxima da média dos percentuais da população brasileira na faixa etária até 14 anos, nos anos de 2020, 2030 e 2045, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "21,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "21,7.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "48,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "48,3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "48,5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

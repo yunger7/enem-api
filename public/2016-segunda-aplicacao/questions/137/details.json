@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 137 - ENEM 2016",
+  "index": 137,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O governo de uma cidade está preocupado com a possível epidemia de uma doença infectocontagiosa causada por bactéria. Para decidir que medidas tomar, deve calcular a velocidade de reprodução da bactéria. Em experiências laboratoriais de uma cultura bacteriana, inicialmente com 40 mil unidades, obteve-se a fórmula para a população:\np(t) = 40 • 23t\nem que t é o tempo, em hora, e p(t) é a população, em milhares de bactérias.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em relação à quantidade inicial de bactérias, após 20 min, a população será",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reduzida a um terço.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "reduzida à metade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reduzida a dois terços.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "duplicada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "triplicada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

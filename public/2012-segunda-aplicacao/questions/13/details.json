@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 13 - ENEM 2012",
+  "index": 13,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Outro importante método de racionalização do trabalho industrial foi concebido graças aos estudos desenvolvidos pelo engenheiro norte-americano Frederick Winslow Taylor. Uma de suas preocupações fundamentais era conceber meios para que a capacidade produtiva dos homens e das máquinas atingisse seu patamar máximo. Para tanto, ele acreditava que estudos científicos minuciosos deveriam combater os problemas que impediam o incremento da produção.\n\n                                                  Taylorismo e Fordismo. Disponível em: www.brasilescola.com. Acesso em: 28 fev. 2012.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O Taylorismo apresentou-se como um importante modelo produtivo ainda no início do século XX, produzindo transformações na organização da produção e, também, na organização da vida social. A inovação técnica trazida pelo seu método foi a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "utilização de estoques mínimos em plantas industriais de pequeno porte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cronometragem e controle rigoroso do trabalho para evitar desperdícios",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "produção orientada pela demanda enxuta atendendo a específicos nichos de mercado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "flexibilização da hierarquia no interior da fábrica para estreitar a relação entre os empregados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "polivalência dos trabalhadores que passaram a realizar funções diversificadas numa mesma jornada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

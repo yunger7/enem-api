@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 162 - ENEM 2012",
+  "index": 162,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O gráfico apresentado a seguir mostra as taxas percentuais de abandono no ensino médio, para todo o país, no período de 2007 a 2010, em que se percebe uma queda a partir de 2008. Com o objetivo de reduzir de forma mais acentuada a evasão escolar são investidos mais recursos e intensificadas as ações, para se chegar a uma taxa em torno de 5,2% ao final do ano de 2013.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/162/162.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual a taxa de redução anual que deve ser obtida para que se chegue ao patamar desejado para o final de 2013? Considere (0,8)³ = 0,51.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "41%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "49%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "51%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

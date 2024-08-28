@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 176 - ENEM 2014",
+  "index": 176,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O Brasil é o quarto produtor mundial de alimentos, mas aproximadamente 64 toneladas de cada 100 toneladas que se produz são perdidas ao longo da cadeia produtiva. Em relação ao total de alimentos produzidos, a perda de alimentos é distribuída da seguinte forma: 20 toneladas na colheita, 8 toneladas no transporte e armazenamento, 15 toneladas na indústria de processamento, 1 tonelada no varejo e 20 toneladas no processamento culinário e hábitos alimentares.\n\n                                                  Disponível em: www.bancodealimentos.org.br. Acesso em: 26 out. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De acordo com os dados apresentados, os alimentos que são perdidos no processamento culinário e nos hábitos alimentares representam qual porcentagem em relação ao total de alimentos que são perdidos no país?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12,28%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20,00%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "31,25%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "36,00%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "44,00%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

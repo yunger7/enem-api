@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 74 - ENEM 2015",
+  "index": 74,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O vinagre vem sendo usado desde a Antiguidade como conservante de alimentos, bem como agente de limpeza e condimento. Um dos principais componentes do vinagre é o ácido acético (massa molar 60 g/mol), cuja faixa de concentração deve se situar entre 4% a 6% (m/v). Em um teste de controle de qualidade foram analisadas cinco marcas de diferentes vinagres, e as concentrações de ácido acético, em mol/L, se encontram no quadro.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/74/74-1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A amostra de vinagre que se encontra dentro do limite de concentração tolerado é a:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

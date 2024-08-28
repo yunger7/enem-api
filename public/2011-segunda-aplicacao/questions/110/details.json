@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 110 - ENEM 2011",
+  "index": 110,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O RETIRANTE ENCONTRA DOIS HOMENS CARREGANDO UM DEFUNTO NUMA REDE, AOS GRITOS DE: “Ó IRMÃOS DAS ALMAS! IRMÃOS DAS ALMAS! NÃO FUI EU QUE MATEI NÃO”\n— A quem estais carregando,\nIrmãos das almas,\nEmbrulhado nessa rede?\nDizei que eu saiba.\n— A um defunto de nada,\nIrmão das almas,\nQue há muitas horas viaja\nÀ sua morada.\n— E sabeis quem era ele,\nIrmãos das almas,\nSabeis como ele se chama\nOu se chamava?\n— Severino Lavrador,\nIrmão das almas,\nSeverino Lavrador,\nMas já não lavra.\n\n                                                  MELO NETO, J. C. Morte e vida Severina e outros poemas para vozes.\nRio de Janeiro: Nova Fronteira, 1994 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O personagem teatral pode ser construído tanto por meio de uma tradição oral quanto escrita. A interlocução entre oralidade regional e tradição religiosa, que serve de inspiração para autores brasileiros, parte do teatro português. Dessa forma, a partir do texto lido, identificam-se personagens que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "se comportam como caricaturas religiosas do teatro regional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apresentam diferentes características físicas e psicológicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "incorporam elementos da tradição local em um contexto teatral.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "estão construídos por meio de ações limitadas a um momento histórico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fazem parte de uma cultura local que restringe a dimensão estética.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

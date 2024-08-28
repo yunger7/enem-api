@@ -1,0 +1,46 @@
+{
+  "year": 2012,
+  "title": "Questão 63 - ENEM 2012",
+  "index": 63,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O quadro oferece os coeficientes de dilatação linear de alguns metais e ligas metálicas:",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/63/Enem-2012-ppl-questao-63.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/63/Enem-2012-ppl-questao-63A.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Para permitir a ocorrência do fato observado na tirinha, a partir do menor aquecimento do conjunto, o parafuso e a porca devem ser feitos, respectivamente, de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aço e níquel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "alumínio e chumbo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "platina e chumbo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ouro e latão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cobre e bronze.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

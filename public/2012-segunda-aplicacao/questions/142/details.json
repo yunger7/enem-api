@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 142 - ENEM 2012",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O Brasil é um dos maiores produtores de leite do mundo. Em 2010 para a produção de 30,7 bilhões de litros de leite foram ordenhadas 22,9 milhões de vacas leiteiras em todo o país, sendo que essa quantidade de vacas ordenhadas representa 10,9% do rebanho brasileiro de bovinos.\n\n                                                  Disponível em: www.ibge.gov.br. Acesso em: 15 nov. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nessas condições, o número que mais se aproxima da quantidade de bovinos no Brasil em 2010, em milhões de unidades, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "25,40.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "33,80.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "187,19.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "210,09.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "281,65.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

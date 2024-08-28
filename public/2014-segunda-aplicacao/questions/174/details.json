@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 174 - ENEM 2014",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A direção norte-sul é a mesma do eixo y, sendo que o sentido norte é o sentido de crescimento de y, e a direção leste-oeste é a mesma do eixo x, sendo que o sentido leste é o sentido de crescimento de x.\n\n                                                Em seguida, esse aluno deu os seguintes comandos de movimentação para o robô: 4 norte, 2 leste e 3 sul, nos quais os coeficientes numéricos representam o número de saltos do robô nas direções correspondentes, e cada salto corresponde a uma unidade do plano cartesiano.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/174/174.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Depois de realizar os comandos dados pelo aluno, a posição do robô, no plano cartesiano, será",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "(0 ; 2).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "(0 ; 3).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "(1 ; 2).",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "(1 ; 4).",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "(2 ; 1).",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

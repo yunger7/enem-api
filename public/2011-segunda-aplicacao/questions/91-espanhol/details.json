@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 91 - ENEM 2011",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "En la Edad Media el rey Felipe IV de Francia, con el apoyo del papa Clemente V, ordenó las redadas para detener a todos los Templarios del país el viernes 13 de octubre de 1307, hecho al que se atribuye la leyenda de los malos augurios asociados a este día de la semana cuando cae en 13. El asalto a los Templarios alcanzó una gran notoriedad a causa de las escabrosas acusaciones que se les imputaron, la tortura a los que los sometieron los inquisidores.\nOtros historiadores sugieren que el origen de la superstición es cristiano y se remonta a la Última Cena, que tuvo trece comensales (Jesús y sus doce discípulos), y tras la cual se produjo lugar la crucifixión de Jesús, precisamente en viernes.\n\n                                                  Disponível em: http://www.muyinteresante.es. Acesso em: 23 jun. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Vários fatos ocorridos ao longo da história da humanidade foram reunidos sob um aspecto comum que vem a ser o tema do texto, a saber,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a perseguição aos Templários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a superstição na sexta-feira 13.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "as torturas dos inquisidores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a crucificação de Jesus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a última ceia de Jesus.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

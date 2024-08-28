@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 115 - ENEM 2014",
+  "index": 115,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Se observarmos o maxixe brasileiro, a beguine da Martinica, o danzón de Santiago de Cuba e o ragtime norte-americano, vemos que todos são adaptações da polca. A diferença de resultado se deve ao sotaque inerente à música de cada colonizador (português, espanhol, francês e inglês) e, em alguns casos, a uma maior influência da música religiosa.\n\n                                                  CAZES, H. Choro: do quintal ao Municipal. São Paulo: Editora 34, 1998 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Além do sotaque inerente à música de cada colonizador e da influência religiosa, que outro elemento auxiliou a constituir os gêneros de música popular citados no texto?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A região da África de origem dos escravos, trazendo tradições musicais e religiosas de tribos distintas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "O relevo dos países, favorecendo o isolamento de comunidades, aumentando o número de gêneros musicais surgidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O conjunto de portos, que favorecem o trânsito de diferentes influências musicais e credos religiosos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A agricultura das regiões, pois o que é plantado exerce influência nas canções de trabalho durante o plantio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O clima dos países em questão, pois as temperaturas influenciam na composição e vivacidade dos ritmos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

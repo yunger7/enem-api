@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 155 - ENEM 2016",
+  "index": 155,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um agricultor vive da plantação de morangos que são vendidos para uma cooperativa. A cooperativa faz um contrato de compra e venda no qual o produtor informa a área plantada.\nPara permitir o crescimento adequado das plantas, as mudas de morango são plantadas no centro de uma área retangular, de 10 cm por 20 cm, como mostra a figura.\n\n\nAtualmente, sua plantação de morangos ocupa uma área de 10 000 m², mas a cooperativa quer que ele aumente sua produção. Para isso, o agricultor deverá aumentar a área plantada em 20%, mantendo o mesmo padrão de plantio.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/155/Capturar13.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O aumento (em unidade) no número de mudas de morango em sua plantação deve ser de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "100000.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "500000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "600000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

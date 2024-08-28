@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 44 - ENEM 2015",
+  "index": 44,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Energia de Noronha virá da força das águas \nA energia de Fernando de Noronha virá do mar, do ar, do sol e até do lixo produzido por seus moradores e visitantes. É o que promete o projeto de substituição da matriz energética da ilha, que prevê a troca dos geradores atuais, que consomem 310 mil litros de diesel por mês.\n\n                                                  GUIBU, F. Folha de S. Paulo, 19 ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "No texto, está apresentada a nova matriz energética do Parque Nacional Marinho de Fernando de Noronha. A escolha por essa nova matriz prioriza o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "expansão da oferta de energia, para aumento da atividade turística.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uso de fontes limpas, para manutenção das condições ecológicas da região.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "barateamento dos custos energéticos, para estímulo da ocupação permanente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "desenvolvimento de unidades complementares, para solução da carência energética local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "diminuição dos gastos operacionais de transporte, para superação da distância do continente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

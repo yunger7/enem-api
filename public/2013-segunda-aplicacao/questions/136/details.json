@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 136 - ENEM 2013",
+  "index": 136,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Observe no gráfico alguns dados a respeito da produção e do destino do lixo no Brasil no ano de 2010.",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/136/enem2013.2.quest%C3%A3o136.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A partir desses dados, supondo que todo o lixo brasileiro, com exceção dos recicláveis, é destinado aos aterros ou aos lixões, quantos milhões de toneladas de lixo vão para os lixões?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5,9",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7,6",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "10,9",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "42,7",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "76,8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

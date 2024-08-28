@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 174 - ENEM 2015",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A Organização Mundial da Saúde (OMS) recomenda que o consumo diário de sal de cozinha não exceda 5 g. Sabe-se que o sal de cozinha é composto por 40% de sódio e 60% de cloro.\n\n                                                  Disponível em: http://portal.saude.gov.br. Acesso em: 29 fev. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é a quantidade máxima de sódio proveniente do sal de cozinha, recomendada pela OMS, que uma pessoa pode ingerir por dia?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 250 mg",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 000 mg",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "3 000 mg",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5 000 mg",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12 500 mg",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

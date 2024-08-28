@@ -1,0 +1,46 @@
+{
+  "year": 2012,
+  "title": "Questão 2 - ENEM 2012",
+  "index": 2,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em 1937, Guernica, na Espanha, foi bombardeada sob o comando da força aérea da Alemanha nazista, que apoiou os franquistas durante a Guerra Civil Espanhola (1936-1939).\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/2/Enem-2012-ppl-questao-02-.1.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/2/Enem-2012-ppl-questao-02-.2.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A pintura-mural de Picasso e a fotografia retratam os efeitos do bombardeio, ressaltando, respectivamente:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Crítica social – conformismo político.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Percepção individual – registro histórico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Realismo acrítico – idealização romântica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Sofrimento humano – destruição material.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Objetividade artística – subjetividade jornalística.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

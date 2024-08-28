@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 134 - ENEM 2015",
+  "index": 134,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/134/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-134.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Tendo em vista seus elementos constitutivos e o meio de divulgação, esse texto identifica-se como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "verbete enciclopédico, pois contém a definição de um item lexical.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cartaz, pois instrui sobre a localização de um ambiente que oferece atrações turísticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cartão-postal, pois a imagem mostra ao destinatário o local onde se encontra o remetente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "anúncio publicitário, pois busca persuadir o público-alvo a visitar um determinado local.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "fotografia, pois retrata uma paisagem urbana de grande impacto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

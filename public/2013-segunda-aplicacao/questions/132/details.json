@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 132 - ENEM 2013",
+  "index": 132,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Pesquisa da Faculdade de Educação da USP mostrou que quase metade dos alunos que ingressam nos cursos de licenciatura em Física e Matemática da universidade não estão dispostos a tornar–se professores. O detalhe inquietante é que licenciaturas foram criadas exatamente para formar docentes.\nA dificuldade é que, se os estudantes não querem virar professores, fica difícil conseguir bons profissionais.\nResolver essa encrenca é o desafio. Salários são por certo uma parte importante do problema, mas outros elementos, como estabilidade na carreira e prestígio social, também influem.\n\n                                                  SCHWARTSMAN, H. Folha de S. Paulo, 13 out. 2012.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Identificar o gênero do texto é um passo importante na caminhada interpretativa do leitor. Para isso, é preciso observar elementos ligados à sua produção e recepção. Reconhece-se que esse texto pertence ao gênero artigo de opinião devido ao(à)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "suporte do texto: um jornal de grande circulação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "lugar atribuído ao leitor: interessados no magistério.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "tema tratado: o problema da escassez de professores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "função do gênero: refletir sobre a falta de professores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "linguagem empregada pelo autor: formal e denotativa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

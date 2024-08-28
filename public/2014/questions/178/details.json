@@ -1,43 +1,43 @@
 {
-    "title": "Questão 178 - ENEM 2014",
-    "index": 178,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Retirar 16 células.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "Retirar 40 células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Acrescentar 5 células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Acrescentar 20 células.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Acrescentar 40 células.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 178 - ENEM 2014",
+  "index": 178,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Diariamente, uma residência consome 20 160 Wh. Essa residência possui 100 células solares retangulares (dispositivos capazes de converter a luz solar em energia elétrica) de dimensões 6 cm u 8 cm. Cada uma das tais células produz, ao longo do dia, 24 Wh por centímetro de diagonal. O proprietário dessa residência quer produzir, por dia, exatamente a mesma quantidade de energia que sua casa consome.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Retirar 16 células.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Retirar 40 células.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Acrescentar 5 células.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Acrescentar 20 células.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Acrescentar 40 células.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

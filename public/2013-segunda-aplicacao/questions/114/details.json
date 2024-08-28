@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 114 - ENEM 2013",
+  "index": 114,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A aptidão física, em termos gerais, pode ser definida como a capacidade que um indivíduo possui para realizar atividades físicas. Ter uma boa amplitude nos movimentos das diversas partes corporais é um dos componentes da aptidão física relacionada à saúde, pois permite maior disposição para atividades da vida diária, como, por exemplo, maior facilidade para alcançar os próprios pés.\n\n                                                  NAHAS, M. V. Atividade física, saúde e qualidade de vida: conceitos e sugestões para um estilo de vida ativo. Londrina: Midiograf, 2006 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O componente da aptidão física destacado no texto é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "força.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "agilidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "equilíbrio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "flexibilidade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

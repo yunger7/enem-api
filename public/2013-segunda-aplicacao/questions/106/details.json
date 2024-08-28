@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 106 - ENEM 2013",
+  "index": 106,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Brasil é o maior desmatador, mostra estudo da ONU\nO Brasil reduziu sua taxa de desmatamento em vinte anos, mas continua líder entre os países que mais desmatam, segundo a FAO (órgão da ONU para a agricultura). A entidade apresentou ontem estudo sobre a cobertura florestal no mundo e o resultado é preocupante: em apenas dez anos, uma área de floresta do tamanho de dois estados de São Paulo desapareceu do país.\nDe forma geral, a queda no ritmo da perda de cobertura florestal foi de 37% em dez anos. Entre 1990 e 1999, 16 milhões de hectares por ano sumiram. Entre 2000 e 2009, esse número caiu para 13 milhões de hectares. Mas o número é considerado alto. A América do Sul é apontada como a maior responsável pela perda de florestas do mundo, com cortes anuais de 4 milhões de hectares. A África vem em seguida, com 3,4 milhões de hectares/ano.\n\n                                                  O Estado de São Paulo, 26 mar. 2010.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Na notícia lida, o conectivo “mas” (terceiro parágrafo) estabelece uma relação de oposição entre as sentenças: “Entre 2000 e 2009, esse número caiu para 13 milhões de hectares” e “o número é considerado alto”. Uma das formas de se reescreverem esses enunciados, sem que lhes altere o sentido inicial, é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Porque, entre 2000 e 2009, esse número caiu para 13 milhões de hectares, o número é considerado alto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Entre 2000 e 2009, esse número caiu para 13 milhões de hectares, por isso o número é considerado alto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Entre 2000 e 2009, esse número caiu para 13 milhões de hectares, uma vez que o número é considerado alto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Embora, entre 2000 e 2009, esse número tenha caído para 13 milhões de hectares, o número é considerado alto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Visto que, entre 2000 e 2009, esse número caiu para 13 milhões de hectares, o número é considerado alto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

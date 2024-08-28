@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 6 - ENEM 2016",
+  "index": 6,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em virtude da importância dos grandes volumes de matérias-primas na indústria química — eram necessárias dez a doze toneladas de ingredientes para fabricar uma tonelada de soda —, a indústria teve uma localização bem definida quase que desde o início. Os três centros principais eram a área de Glasgow e as margens do Merseye do Tyne.\n\n                                                  LANDES, D. S. Prometeu desacorrentado: transformação tecnológica e desenvolvimento industrial na Europa ocidental, desde 1750 até a nossa época. Rio de Janeiro: Nova Fronteira, 1994.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A relação entre a localização das indústrias químicas e das matérias-primas nos primórdios da Revolução Industrial provocou a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "busca pela isenção de impostos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "intensa qualificação da mão de obra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "diminuição da distância dos mercados consumidores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "concentração da produção em determinadas regiões do país.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "necessidade do desenvolvimento de sistemas de comunicação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

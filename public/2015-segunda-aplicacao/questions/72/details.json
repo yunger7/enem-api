@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 72 - ENEM 2015",
+  "index": 72,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um gel vaginal poderá ser um recurso para as mulheres na prevenção contra a aids. Esse produto tem como princípio ativo um composto que inibe a transcriptase reversa viral.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Essa ação inibidora é importante, pois a referida enzima:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "corta a dupla hélice do DNA, produzindo um molde para o RNA viral.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "produz moléculas de DNA viral que vão infectar células sadias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "polimeriza molécula de DNA, tendo como molde o RNA viral.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "promove a entrada do vírus da aids nos linfócitos T.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sintetiza os nucleotídeos que compõem o DNA viral.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

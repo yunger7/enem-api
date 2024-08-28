@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 71 - ENEM 2014",
+  "index": 71,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O Brasil tem investido em inovações tecnológicas para a produção e comercialização de maçãs. Um exemplo é a aplicação do composto volátil 1-metilciclopropeno, que compete pelos sítios de ligação do hormônio vegetal etileno nas células desse fruto.\n\n                                                  Disponível em: http://revistaseletronicas.pucrs.br. Acesso em: 16 ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base nos conhecimentos sobre o efeito desse hormônio, o 1-metilciclopropeno age retardando o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "formação do fruto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "crescimento do fruto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "amadurecimento do fruto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "germinação das sementes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "formação de sementes no fruto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

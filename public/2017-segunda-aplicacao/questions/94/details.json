@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 94 - ENEM 2017",
+  "index": 94,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Sabe-se que a posição em que o Sol nasce ou se põe no horizonte muda de acordo com a estação do ano. Olhando-se em direção ao poente, por exemplo, para um observador no Hemisfério Sul, o Sol se põe mais à direita no inverno do que no verão.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O fenômeno descrito deve-se à combinação de dois fatores: a inclinação do eixo de rotação terrestre e a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "precessão do periélio terrestre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "translação da Terra em torno do Sol.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "nutação do eixo de rotação da Terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "precessão do eixo de rotação da Terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "rotação da Terra em torno de seu próprio eixo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

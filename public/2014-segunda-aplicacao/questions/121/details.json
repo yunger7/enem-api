@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 121 - ENEM 2014",
+  "index": 121,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Hipertextualidade\n \n O papel do hipertexto é exatamente o de reunir, não apenas os textos, mas também as redes de associações, anotações e comentários às quais eles são vinculados pelas pessoas. Ao mesmo tempo, a construção do senso comum encontra-se exposta e como que materializada: a elaboração coletiva de um hipertexto. \n \n Trabalhar, viver, conversar fraternalmente com outros seres, cruzar um pouco por sua história, isto significa, entre outras coisas, construir uma bagagem de referências e associações comuns, uma rede hipertextual unificada, um texto compartilhado, capaz de diminuir os riscos de incompreensão.\n\n                                                  LEVY, P. As tecnologias da inteligência: o futuro do pensamento na era da informática. São Paulo: Editora 34, 1992 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O texto evidencia uma relação entre o hipertexto e a sociedade em que essa tecnologia se insere. Constata-se que, nessa relação, há uma",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "estratégia para manutenção do senso comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "prioridade em sanar a incompreensão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "necessidade de publicidade das informações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "forma de construção colaborativa de conhecimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "urgência em se estabelecer o diálogo entre pessoas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

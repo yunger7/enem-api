@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 168 - ENEM 2015",
+  "index": 168,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O modelo predador-presa foi proposto de forma independente por Alfred J. Lotka, em 1925, e Vito Volterra, em 1926. Esse modelo descreve a interação entre duas espécies, sendo que uma delas dispõe de alimentos para sobreviver (presa) e a outra se alimenta da primiera (predador). Considere que o gráfico representa uma interação predador-presa, relacionando a população do predador com a população da sua presa ao longo dos anos.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/168/enem2015.2.quest%C3%A3o168.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De acordo com o gráfico, nos primeiros quarenta anos, quantas vezes a população do predador se igualou à da presa?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "9",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

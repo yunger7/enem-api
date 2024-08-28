@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 152 - ENEM 2016",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Para comemorar o aniversário de uma cidade, a prefeitura organiza quatro dias consecutivos de atrações culturais. A experiência de anos anteriores mostra que, de um dia para o outro, o número de visitantes no evento é triplicado. É esperada a presença de 345 visitantes para o primeiro dia do evento.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Uma representação possível do número esperado de participantes para o último dia é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3 x 345",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "(3 + 3 + 3) x 345",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "33 x 345",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3 x 4 x 345",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "34 x 345",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

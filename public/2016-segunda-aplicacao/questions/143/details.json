@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 143 - ENEM 2016",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O Brasil é o quarto produtor mundial de alimentos e é também um dos campeões mundiais de desperdício. São produzidas por ano, aproximadamente, 150 milhões de toneladas de alimentos e, desse total,  são produtos de plantio. Em relação ao que se planta, 64% são perdidos ao longo da cadeia produtiva (20% perdidos na colheita, 8% no transporte e armazenamento, 15% na indústria de processamento, 1% no varejo e o restante no processamento culinário e hábitos alimentares).\n\n                                                  Disponível em: www.bancodealimentos.org.br. Acesso em: 1 ago. 2012.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/143/6ca8c824c79dbb80005f071431350618.png?latex=%5Cfrac%7B2%7D%7B3%7D"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O desperdício durante o processamento culinário e hábitos alimentares, em milhão de tonelada, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "20.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "30.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "56.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "64.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "96.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 178 - ENEM 2011",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Considere que cada rua mede 150 m de comprimento e que a rota do caminhão comece e termine no ponto A, passando por todas as ruas do esquema.A empresa conseguiu encontrar a melhor rota de recolhimento de lixo, na qual o caminhão percorre uma distância igual a A 2 400 m. B 2 550 m. C 2 700 m. D 2 850 m. E 3 300 m.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/178/178.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A empresa conseguiu encontrar a melhor rota de recolhimento de lixo, na qual o caminhão percorre uma distância igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2 400 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 550 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 700 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2 850 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3 300 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

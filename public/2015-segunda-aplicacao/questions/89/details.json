@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 89 - ENEM 2015",
+  "index": 89,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Durante uma aula experimental de física, os estudantes construíram um sistema ressonante com pêndulos simples. As características de cada pêndulo são apresentadas no quadro. Inicialmente, os estudantes colocaram apenas o pêndulo A para oscilar.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/89/89-1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Quais pêndulos, além desse, passaram também a oscilar?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1, 2, 3, 4 e 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1, 2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 e 5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "3 e 4.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

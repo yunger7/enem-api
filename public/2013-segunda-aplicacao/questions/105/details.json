@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 105 - ENEM 2013",
+  "index": 105,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A revolução estética brasiliense empurrou os designers de móveis dos anos 1950 e início dos 60 para o novo. Induzidos a abandonar o gosto rebuscado pelo colonial, a trocar Ouro Preto por Brasília, eles criaram um mobiliário contemporâneo que ainda hoje vemos nas lojas e nas salas de espera de consultórios e escritórios. Colada no uso de madeiras nobres, como o jacarandá e a peroba, e em materiais de revestimento como o couro e a palhinha, desenvolveu-se uma tendência feita de linhas retas e curvas suaves, nos moldes da capital no Cerrado.\n\n                                                  Disponível em: http://veja.abril.com.br. Acesso em: 29 jul. 2010 (adaptado).",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/105/1053.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A reportagem e a fotografia apresentam os móveis elaborados pelo artista Sérgio Rodrigues, com um estilo que norteou o pensamento de uma geração, desafiando a arte a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "evidenciar um novo conceito estético por meio de formas e texturas inovadoras.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "adaptar os móveis de Brasília aos modelos das escolas europeias do início do século XX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "elaborar a decoração dos palácios da nova capital do Brasil com conceitos de linha e perspectiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "projetar para os palácios e edifícios da nova capital do Brasil a beleza do mobiliário típico de Minas Gerais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "criar o mobiliário para a capital do país com base no luxo e na riqueza dos edifícios públicos brasileiros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

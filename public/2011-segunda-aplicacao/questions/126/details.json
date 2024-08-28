@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 126 - ENEM 2011",
+  "index": 126,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/126/126.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Os textos pertencem a gêneros em razão de configurações e de propósitos comunicativos específicos, os quais revelam sua função social. O texto em análise apresenta-se como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uma peça publicitária, uma vez que promove o produto de uma instituição financeira.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "um panfleto, porque visa a orientar a população para desenvolver práticas ecológicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um manifesto de ambientalistas, já que denuncia o desperdício de água pela população.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma reportagem, pois busca conscientizar a população para a necessidade de poupar água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma notícia, pois informa a criação de um banco para cuidar de recursos hídricos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

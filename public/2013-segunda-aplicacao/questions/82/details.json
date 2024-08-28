@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 82 - ENEM 2013",
+  "index": 82,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A poluição térmica, provocada principalmente pela má utilização da água na refrigeração das turbinas e caldeiras de usinas hidrelétricas e termelétricas, respectivamente, afeta o aspecto físico-químico e biológico dos cursos hídricos. A água empregada na manutenção dessas usinas deveria ser tratada termicamente, promovendo a liberação do calor, para posterior devolução ao meio ambiente. Contudo, ao ser despejada nos lagos e nos rios, sem qualquer controle ou fiscalização, causa sérios danos à vida aquática, pois reduz significativamente o tempo de vida de algumas espécies, afetando seus ciclos de reprodução.\n\n                                                  Disponível em: www.brasilescola.com. Acesso em: 25 abr. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Um dos efeitos nocivos promovidos pela poluição térmica dos corpos hídricos pode ser identificado pelo(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desenvolvimento excessivo do fitoplâncton, devido à eutrofização do meio aquático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "prejuízo à respiração dos seres vivos, devido à redução da pressão parcial de oxigênio na água.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "bloqueio da entrada de raios solares na água, devido ao acúmulo de sedimentos na superfície.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "potenciação dos poluentes presentes, devido à diminuição da velocidade de degradação desses materiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "desequilíbrio dos organismos desses ecossistemas, devido ao aumento da concentração de dióxido de carbono.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

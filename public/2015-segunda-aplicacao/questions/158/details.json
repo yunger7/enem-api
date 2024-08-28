@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 158 - ENEM 2015",
+  "index": 158,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A bandeira de um estado é formada por cinco faixas, A, B, C, D e E, dispostas conforme a figura.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Deseja-se pintar cada faixa com uma das cores verde, azul ou amarelo, de tal forma que faixas adjacentes não sejam pintadas com a mesma cor.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/158/enem2015.2.quest%C3%A3o158.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O cálculo do número de possibilidades distintas de se pintar essa bandeira, com a exigência acima, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 X 2 X 1 X 1 X 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3 X 2 X 1 X 1 X 2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "3 X 2 X 1 X 1 X 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3 X 2 X 1 X 2 X 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3 X 2 X 2 X 2 X 2.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

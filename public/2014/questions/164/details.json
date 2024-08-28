@@ -1,43 +1,43 @@
 {
-    "title": "Questão 164 - ENEM 2014",
-    "index": 164,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A probabilidade de o teste terminar na quinta pergunta é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "0,02048.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "0,08192.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "0,24000.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "0,40960.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "0,49152.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 164 - ENEM 2014",
+  "index": 164,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "O psicólogo de uma empresa aplica um teste para analisar a aptidão de um candidato a determinado cargo. O teste consiste em uma série de perguntas cujas respostas devem ser verdadeiro ou falso e termina quando o psicólogo fizer a décima pergunta ou quando o candidato der a segunda resposta errada. Com base em testes anteriores, o psicólogo sabe que a probabilidade de o candidato errar uma resposta é 0,20.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A probabilidade de o teste terminar na quinta pergunta é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,02048.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,08192.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,24000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,40960.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,49152.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

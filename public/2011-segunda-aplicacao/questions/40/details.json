@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 40 - ENEM 2011",
+  "index": 40,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Parece-me bastante significativo que a questão muito discutida sobre se o homem deve ser “ajustado” à máquina ou se a máquina deve ser ajustada à natureza do homem nunca tenha sido levantada a respeito dos meros instrumentos e ferramentas. E a razão disto é que todas as ferramentas da manufatura permanecem a serviço da mão, ao passo que as máquinas realmente exigem que o trabalhador as sirva, ajuste o ritmo natural do seu corpo ao movimento mecânico delas.\n\n                                                  ARENDT, H. Trabalho, Obra e Ação. In: Cadernos de Ética e Filosofia Política 7. São Paulo: EdUSP, 2005 (fragmento).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Com base no texto, as principais consequências da substituição da ferramenta manual pela máquina são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o adestramento do corpo e a perda da autonomia do trabalhador.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a reformulação dos modos de produção e o engajamento político do trabalhador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o aperfeiçoamento da produção manufatureira criativa e a rejeição do trabalho repetitivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a flexibilização do controle ideológico e a manutenção da liberdade do trabalhador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o abandono da produção manufatureira e o aperfeiçoamento da máquina.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

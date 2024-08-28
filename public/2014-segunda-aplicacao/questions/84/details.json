@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 84 - ENEM 2014",
+  "index": 84,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O cobre, muito utilizado em fios da rede elétrica e com considerável valor de mercado, pode ser encontrado na natureza na forma de calcocita, Cu2S (s), de massa molar 159 g/mol. Por meio da reação Cu2S (s) + O2 (g) → 2 Cu (s) + SO2 (g), é possível obtê-lo na forma metálica.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A quantidade de matéria de cobre metálico produzida a partir de uma tonelada de calcocita com 7,95% (m/m) de\npureza é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,0 × 10³  mol.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "5,0 × 10²  mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,0 × 100 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5,0 × 10−1 mol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "4,0 × 10−3 mol.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

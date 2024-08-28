@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 137 - ENEM 2017",
+  "index": 137,
+  "discipline": "matematica",
+  "language": null,
+  "context": "As empresas que possuem Serviço de Atendimento ao Cliente (SAC), em geral, informam ao cliente que utiliza o serviço um número de protocolo de atendimento. Esse número resguarda o cliente para eventuais reclamações e é gerado, consecutivamente, de acordo com os atendimentos executados. Ao término do mês de janeiro de 2012, uma empresa registrou como último número de protocolo do SAC o 390 978 467. Do início do mês de fevereiro até o fim do mês de dezembro de 2012, foram abertos 22 580 novos números de protocolos.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O algarismo que aparece na posição da dezena de milhar do último número de protocolo de atendimento registrado em 2012 pela empresa é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 136 - ENEM 2017",
+  "index": 136,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Uma pessoa encheu o cartão de memória de sua câmera duas vezes, somente com vídeos e fotos. Na primeira vez, conseguiu armazenar 10 minutos de vídeo e 190 fotos. Já na segunda, foi possível realizar 15 minutos de vídeo e tirar 150 fotos. Todos os vídeos possuem a mesma qualidade de imagem entre si, assim como todas as fotos. Agora, essa pessoa deseja armazenar nesse cartão de memória exclusivamente fotos, com a mesma qualidade das anteriores.\n\n                                                  Disponível em: www.techlider.com.br. Acesso em: 31 jul. 2012.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O número máximo de fotos que ela poderá armazenar é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "200.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "209.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "270.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "340",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "475.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

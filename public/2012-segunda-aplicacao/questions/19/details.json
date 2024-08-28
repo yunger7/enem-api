@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 19 - ENEM 2012",
+  "index": 19,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A cultura ocidental acentuadamente antropocêntrica foi marcada por processos convergentes de desenvolvimento técnico-científico e acumulação de riquezas, propiciados pela expansão colonial, que resultaram na revolução industrial, no fortalecimento da ideia de progresso e no processo de ocidentalização do mundo.\n\n                                                  FERREIRA, L. C. Dilemas do século XX: ideias para uma sociologia da questão ecológica. In: SILVA, J. P. (Org.) Por uma Sociologia do século XX. São Paulo: Annablume, 2007 (adaptado)",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Esse processo de acumulação de riquezas no Ocidente, por longos séculos, se fez à custa da degradação do meio natural. Do ponto de vista da cultura e do imaginário ocidental moderno, isso se deveu à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ideologia revolucionária burguesa, que pregava a repartição igualitária do direito de acesso aos recursos naturais e agrícolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ideia de Renascimento, que representava os benefícios técnicos de transformação da natureza como salutares para a preservação de ecossistemas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "concepção sacralizada de que a natureza, enquanto obra da criação de Deus, devia servir à contemplação estética e religiosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "perspectiva desenvolvimentista, que atrelava o progresso ao meio ambiente e difundia amplamente um entendimento da relação harmoniosa entre sociedade e natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "crença nos poderes da ciência e do desenvolvimento tecnológico, que contribuiu para tratar a natureza como objeto de quantificação, manipulação e dominação.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

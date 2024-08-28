@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 10 - ENEM 2011",
+  "index": 10,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A Mata Atlântica perdeu 31 195 hectares de sua cobertura vegetal. Segundo o levantamento, os dados apontam uma redução de 55% na taxa média anual de desmatamento, comparando com o período anterior analisado, o triênio 2005 a 2008. Essa diminuição pode ser explicada pelo avanço da legislação e também pelo trabalho dos órgãos de fiscalização.\n\n                                                  VIALLI, A. O Estado de São Paulo, 27 maio 2011.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Dada a sua grande extensão, é difícil e caro fiscalizar o bioma em questão, no entanto, uma forma de vigilância eficiente e que vem sendo utilizada no Brasil para esse fim é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O aperfeiçoamento profissional dos fiscais, já que a modernização da sua atuação diminui o desmatamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A implantação de Reservas de Preservação, que tornam as áreas intocáveis e, assim, isentas de degradação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A formação de Reservas de Conservação, cujos proprietários, extrativistas, impedem o desmatamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A constituição de reservas indígenas, já que as terras passam a ser propriedade dos índios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O uso de equipamentos de sensoriamento remoto, por meio de imagens de satélites.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

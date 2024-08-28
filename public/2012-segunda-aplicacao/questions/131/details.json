@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 131 - ENEM 2012",
+  "index": 131,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A rua\nBem sei que, muitas vezes,\nO único remédio\nÉ adiar tudo. É adiar a sede, a fome, a viagem,\nA dívida, o divertimento,\nO pedido de emprego, ou a própria alegria.\nA esperança é também uma forma\nDe contínuo adiamento.\nSei que é preciso prestigiar a esperança,\nNuma sala de espera.\nMas sei também que espera significa luta e não, apenas,\nEsperança sentada.\nNão abdicação diante da vida.\nA esperança\nNunca é a forma burguesa, sentada e tranquila da espera.\nNunca é figura de mulher\nDo quadro antigo.\nSentada, dando milho aos pombos.\n\n                                                  RICARDO, C. Disponível em: www.revista.agulha.nom.br. Acesso em: 2 jan. 2012.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O poema de Cassiano Ricardo insere-se no Modernismo brasileiro. O autor metaforiza a crença do sujeito lírico numa relação entre o homem e seu tempo marcada por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um olhar de resignação perante as dificuldades materiais e psicológicas da vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma ideia de que a esperança do povo brasileiro está vinculada ao sofrimento e às privações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uma posição em que louva a esperança passiva para que ocorram mudanças sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um estado de inércia e de melancolia motivado pelo tempo passado “numa sala de espera”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma atitude de perseverança e coragem no contexto de estagnação histórica e social.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

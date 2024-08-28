@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 152 - ENEM 2013",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Certa empresa de telefonia oferece a seus clientes dois pacotes de serviço:\n• Pacote laranja\nOferece 300 minutos mensais de ligação local e o usuário deve pagar R$ 143,00 por mês. Será cobrado o valor de R$ 0,40 por minuto que exceder o valor oferecido.\n• Pacote azul\nOferece 100 minutos mensais de ligação local e o usuário deve pagar mensalmente R$ 80,00. Será cobrado o valor de R$ 0,90 por minuto que exceder o valor oferecido.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Para ser mais vantajoso contratar o pacote laranja, comparativamente ao pacote azul, o número mínimo de minutos de ligação que o usuário deverá fazer é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "70.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "126.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "171.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "300.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "400.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

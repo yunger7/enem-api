@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 53 - ENEM 2013",
+  "index": 53,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A Caatinga é o único bioma exclusivamente brasileiro, ocupando cerca de 7% a 10% do território nacional. Nesse ambiente seco, mesmo quando chove, não há acúmulo de água, pois o solo é raso e pedregoso. Assim, as plantas desse bioma possuem modificações em suas raízes, caules e folhas, que permitem melhor adaptação a esse ambiente, contra a perda de água e de nutrientes. Geralmente, seus caules são suculentos e suas folhas possuem forma de espinhos e cutículas altamente impermeáveis, que apresentam queda na estação seca.\n\n                                                  Disponível em: www.ambientebrasil.com.br. Acesso em: 21 maio 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Considerando as adaptações nos órgãos vegetativos, a principal característica das raízes dessas plantas, que atribui sua maior adaptação à Caatinga, é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "armazenamento de nutrientes por um sistema radicular aéreo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fixação do vegetal ao solo por um sistema radicular do tipo tuberoso",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fixação do vegetal ao substrato por um sistema radicular do tipo sugador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "absorção de água por um sistema radicular desenvolvido e profundo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "armazenamento de água do solo por um sistema radicular do tipo respiratório.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

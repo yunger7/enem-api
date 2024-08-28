@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 60 - ENEM 2012",
+  "index": 60,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/60/Enem-2012-ppl-questao-60.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Quais alelos, na sequência das regiões apresentadas, o filho recebeu, obrigatoriamente, do pai?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2, 4, 5, 2, 4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2, 4, 2, 1, 3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "2, 1, 1, 1, 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1, 3, 2, 1, 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5, 4, 2, 1, 1",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

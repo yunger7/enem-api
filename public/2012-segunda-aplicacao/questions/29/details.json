@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 29 - ENEM 2012",
+  "index": 29,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Assentado, portanto, que a Escritura, em muitas passagens, não apenas admite, mas necessita de exposições diferentes do significado aparente das palavras, parece-me que, nas discussões naturais, deveria ser deixada em último lugar.\n\n                                                  GALILEI, G. Carta a Dom Benedetto Castelli. In: Ciência e fé: cartas de Galileu sobre o acordo do sistema copernicano com a Bíblia. São Paulo: Unesp, 2009 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O texto, extraído da carta escrita por Galileu (1564-1642) cerca de trinta anos antes de sua condenação pelo Tribunal do Santo Ofício, discute a relação entre ciência e fé, problemática cara no século XVII. A declaração de Galileu defende que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a bíblia, por registrar literalmente a palavra divina, apresenta a verdade dos fatos naturais, tornando-se guia para a ciência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o significado aparente daquilo que é lido acerca da natureza na bíblia constitui uma referência primeira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as diferentes exposições quanto ao significado das palavras bíblicas devem evitar confrontos com os dogmas da Igreja.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a bíblia deve receber uma interpretação literal porque, desse modo, não será desviada a verdade natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os intérpretes precisam propor, para as passagens bíblicas, sentidos que ultrapassem o significado imediato das palavras.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

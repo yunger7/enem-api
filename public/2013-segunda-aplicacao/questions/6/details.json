@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 6 - ENEM 2013",
+  "index": 6,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Há dois pilares para a concepção multilateral de justiça: a ideia de que a relação entre Estados é baseada na igualdade jurídica e a noção de que a Carta da ONU deveria promover os direitos humanos e o progresso social. Do primeiro pilar derivam as normas de não intervenção, de respeito à integridade territorial e de não ingerência. São as normas que garantem as condições dos processos deliberativos justos entre iguais.\n\n                                                  FONSECA JR., G. Justiça e direitos humanos. In: NASSER, R. (Org.). Novas perspectivas sobre os conflitos internacionais. São Paulo: Unesp, 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Nessa concepção de justiça, o cumprimento das normas jurídicas mencionadas é a condição indispensável para a efetivação do seguinte aspecto político:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Voto censitário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Sufrágio universal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Soberania nacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Nacionalismo separatista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Governo presidencialista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

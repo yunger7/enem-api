@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 144 - ENEM 2012",
+  "index": 144,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Após a construção do cubo, apoiou-se sobre a mesa a face com a letra M.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/144/1441.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As faces paralelas deste cubo são representadas pelos pares de letras",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "E-N, E-M e B-R.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B-N, E-E e M-R.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "E-M, B-N e E-R.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "B-E, E-R e M-N.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "E-N, B-M e E-R.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

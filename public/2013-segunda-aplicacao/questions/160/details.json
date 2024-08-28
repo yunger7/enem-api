@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 160 - ENEM 2013",
+  "index": 160,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Nos últimos anos, a frota de veículos no Brasil tem crescido de forma acentuada. Observando o gráfico, é possível verificar a variação do número de veículos (carros, motocicletas e caminhões), no período de 2000 a 2010. Projeta-se que a taxa de crescimento relativo no período de 2000 a 2010 mantenha-se para década seguinte.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/160/1601.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual será o número de veículos no ano de 2020?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "79,2 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "102,0 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "132,0 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "138,0 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "145,2 milhões",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

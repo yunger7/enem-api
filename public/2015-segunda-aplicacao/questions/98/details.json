@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 98 - ENEM 2015",
+  "index": 98,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/98/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-98.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A palavra inglesa “involution” traduz-se como involução ou regressão. A construção da imagem com base na combinação do verbal com o não verbal revela a intenção de:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "denunciar o retrocesso da humanidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "criticar o consumo de bebida alcoólica pelos humanos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "satirizar a caracterização dos humanos como primatas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "elogiar a teoria da evolução humana pela seleção natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fazer um trocadilho com as palavras inovação e involução.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

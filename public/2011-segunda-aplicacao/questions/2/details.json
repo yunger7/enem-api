@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 2 - ENEM 2011",
+  "index": 2,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A problemática ambiental surgiu nas últimas décadas do século XX como uma crise de civilização, questionando a racionalidade econômica e tecnológica dominantes. Com isso, novas organizações da sociedade civil despontaram, interessadas em um alternativo de relação sociedade e natureza.\n\n                                                  MIGUEL, K. G. A expressão dos movimentos ambientais na atualidade: mídia, diversidade e igualdade. Disponível em: http://www.intercom.org.br. Acesso em: 22 set. 2010.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Os movimentos sociais, em especial o movimento ambientalista, têm participado de forma decisiva na mudança de postura por parte das grandes empresas, principalmente no que diz respeito",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao sistema produtivo, que considera os custos ambientais, já que muitos recursos são retirados da natureza e apresentam um meio adequado de reposição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à observação dos direitos civis, que são conquistas do poder público e resultam na observação de toda a legislação ambiental existente nos países.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à diminuição da poluição emitida, porque essas empresas detêm grande parte da riqueza e tecnologia e utilizam cada vez menos recursos naturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ao final da produção, quando os dejetos são devolvidos ao meio ambiente após a verificação dos efeitos negativos que poderiam causar ao longo do tempo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "à adoção de medidas sustentáveis, a fim de que essas empresas atuem com responsabilidade nos locais em que estão instaladas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

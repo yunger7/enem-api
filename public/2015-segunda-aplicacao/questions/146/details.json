@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 146 - ENEM 2015",
+  "index": 146,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O banheiro de uma escola pública, com paredes e piso em formato retangular, medindo 5 metros de largura, 4 metros de comprimento e 3 metros de altura, precisa de revestimento no piso e nas paredes internas, excluindo a área da porta, que mede 1 metro de largura por 2 metros de altura. Após uma tomada de preços com cinco fornecedores, foram verificadas as seguintes combinações de azulejos para as paredes e de lajotas para o piso, com os preços dados em reais por metro quadrado, conforme a tabela.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/146/enem2015.2.ques%C3%A3o146.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Desejando-se efetuar a menor despesa total, deverá ser escolhido o fornecedor",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "D",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "E",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

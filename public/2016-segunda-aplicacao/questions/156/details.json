@@ -1,0 +1,48 @@
+{
+  "year": 2016,
+  "title": "Questão 156 - ENEM 2016",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma indústria de perfumes embala seus produtos, atualmente, em frascos esféricos de raio R, com volume dado por \nObservou-se que haverá redução de custos se forem utilizados frascos cilíndricos com raio da base  cujo volume será dado por  sendo h a altura da nova embalagem.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/156/3ddb0e422dc1ac5207c2c62109691dbe.png?latex=%5Cfrac%7B4%7D%7B3%7D%5Cpi.%5Cleft(R%5Cright)%5E3",
+    "https://enem.dev/2016-segunda-aplicacao/questions/156/fa2595130036e16cc06a5e6a84e692a5.png?latex=%5Cfrac%7BR%7D%7B3%7D",
+    "https://enem.dev/2016-segunda-aplicacao/questions/156/4f08e3dba63dc6d40b22952c7a9dac6d.png?latex=%5Cpi",
+    "https://enem.dev/2016-segunda-aplicacao/questions/156/7a765c83380548d50fe6cf3c086a9bc1.png?latex=%5Cleft(%5Cfrac%7BR%7D%7B3%7D%5Cright)%5E2.h"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para que seja mantida a mesma capacidade do frasco esférico, a altura do frasco cilíndrico (em termos de R) deverá ser igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2R",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4R",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6R",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "9R",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12R",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

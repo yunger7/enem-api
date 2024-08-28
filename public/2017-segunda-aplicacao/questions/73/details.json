@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 73 - ENEM 2017",
+  "index": 73,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As rochas são desagregadas e decompostas e os materiais resultantes de sua ação, tais como seixos, cascalhos, areias, siltes e argilas, são carregados e depois depositados e, também, substâncias dissolvidas na água podem precipitar. Em virtude de sua atuação, quaisquer rochas, independentemente de suas características, podem ficar destacadas no relevo.\n\n                                                  BELLOMO, H. R. et al. (Org.). Rio Grande do Sul: aspectos da geografia. Porto Alegre: Martins Livreiro, 1997 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O texto refere-se à modelagem do relevo pelos processos naturais de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "magmatismo e fusão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "vulcanismo e erupção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "intemperismo e erosão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "tectonismo e subducção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "metamorfismo e recristalização.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

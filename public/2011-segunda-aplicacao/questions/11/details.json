@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 11 - ENEM 2011",
+  "index": 11,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Enchente no Rio está entre as mais fatais dos\núltimos 12 meses no mundo\nAs enchentes no Rio de Janeiro esta semana já causaram mais mortes do que qualquer outro incidente semelhante em 2010 em qualquer parte do mundo. Nos últimos 12 meses, a inundação no Rio foi a quinta mais fatal do mundo.\n\n                                                  Disponível em: http://www.bbcbrasil.com. Acesso em: 16 abr. 2010.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Além do grande volume de chuva, um fator de ordem socioespacial que provoca a ocorrência de eventos como o citado no trecho da reportagem é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a coleta seletiva de resíduos urbanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a reconstituição de áreas de várzea degradadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a dragagem de rios, canais e lagoas assoreados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a impermeabilização dos solos das grandes cidades.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "o ordenamento urbano, com a construção de condomínios populares.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

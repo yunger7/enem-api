@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 100 - ENEM 2012",
+  "index": 100,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A colocação pronominal é a posição que os pronomes pessoais oblíquos átonos ocupam na frase em relação ao verbo a que se referem. São pronomes oblíquos átonos: me, te, se, o, os, a, as, lhe, lhes, nos e vos. Esses pronomes podem assumir três posições na oração em relação ao verbo. Próclise, quando o pronome é colocado antes do verbo, devido a partículas atrativas, como o pronome relativo. Ênclise, quando o pronome é colocado depois do verbo, o que acontece quando este estiver no imperativo afirmativo ou no infinitivo impessoal regido da preposição “a” ou quando o verbo estiver no gerúndio. Mesóclise, usada quando o verbo estiver flexionado no futuro do presente ou no futuro do pretérito.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A mesóclise é um tipo de colocação pronominal raro no uso coloquial da língua portuguesa. No entanto, ainda é encontrada\nem contextos mais formais, como se observa em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Não lhe negou que era um improviso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Faz muito tempo que lhe falei essas coisas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Nunca um homem se achou em mais apertado lance.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Referia-se à D. Evarista ou tê-la-ia encontrado em algum outro autor?",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Acabou de chegar dizendo-lhe que precisava retornar ao serviço imediatamente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

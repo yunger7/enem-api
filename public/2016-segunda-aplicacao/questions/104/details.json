@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 104 - ENEM 2016",
+  "index": 104,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Não lembro quem disse que a gente gosta de uma pessoa não por causa de, mas apesar de. Gostar daquilo que é gostável é fácil: gentileza, bom humor, inteligência, simpatia, tudo isso a gente tem em estoque na hora em que conhece uma pessoa e resolve conquistá-la. Os defeitos ficam guardadinhos nos primeiros dias e só então, com a convivência, vão saindo do esconderijo e revelando-se no dia a dia. Você então descobre que ele não é apenas gentil e doce, mas também um tremendo casca-grossa quando trata os próprios funcionários. E ela não é apenas segura e determinada, mas uma chorona que passa 20 dias por mês com TPM. E que ele ronca, e que ela diz palavrão demais, e que ele é supersticioso por bobagens, e que ela enjoa na estrada, e que ele não gosta de criança, e que ela não gosta de cachorro, e agora? Agora, convoquem o amor para resolver essa encrenca.\n\n                                                  MEDEIROS, M. Revista O Globo, n. 790, 12 jun. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Há elementos de coesão textual que retomam informações no texto e outros que as antecipam. Nos trechos, o elemento de coesão sublinhado que antecipa uma informação do texto é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Gostar daquilo que é gostável é fácil [...]”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“[...] tudo isso a gente tem em estoque [...]”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“[...] na hora em que conhece uma pessoa [...]”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“[...] resolve conquistá-la.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“[...] para resolver essa encrenca.”",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

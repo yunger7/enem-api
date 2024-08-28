@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 46 - ENEM 2013",
+  "index": 46,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A figura representa a análise gráfica de um estudo acerca da dispersão de uma doença transmitida a um grupo de pessoas que compartilhou um mesmo ambiente de trabalho:",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/46/46.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De acordo com o padrão apresentado no gráfico, a transmissão da doença ocorreu por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ingestão de água contaminada no mesmo ambiente de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "consumo de alimentos estragados vindos da mesma fonte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "contaminação pelo ar a partir de uma pessoa infectada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "infecção do grupo por insetos vetores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "manipulação de objetos contaminados",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 60 - ENEM 2011",
+  "index": 60,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Com a utilização dos biocombustíveis, grandes áreas estão sendo ocupadas com a cultura da cana-de-açúcar, o que acarreta o desgaste do solo. Para contrabalançar esse desgaste, tem-se iniciado o plantio alternado de cana-de-açúcar com algumas espécies de leguminosas, já que essa rotação dispensa a adubação nitrogenada.\n\n                                                  Disponível em: http://www.agencia.cnptia.embrapa.br. Acesso em: 16 jun. 2011(adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Essa prática agrícola ocasiona o enriquecimento do solo, porque as leguminosas possuem bactérias em associação com suas raízes, que favorecem o processo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nitrosação, no qual a amônia não absorvida pelas plantas é oxidada e convertida em nitrito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fixação, no qual o nitrogênio do ar é convertido em amônia e incorporado em compostos nitrogenados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "amonificação, no qual os decompositores devolvem ao solo os compostos minerais e liberam nitrogênio na forma de amônia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "desnitrificação, no qual o nitrato é oxidado em compostos orgânicos que retornam ao solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "nitratação, no qual os nitritos formados são liberados no solo e oxidados, formando nitratos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

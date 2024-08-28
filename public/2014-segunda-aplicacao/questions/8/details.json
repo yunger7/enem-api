@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 8 - ENEM 2014",
+  "index": 8,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As relações do Estado brasileiro com o movimento operário e sindical, bem como as políticas públicas voltadas para as questões sociais durante o primeiro governo da Era Vargas (1930-1945), são temas amplamente estudados pela academia brasileira em seus vários aspectos. São também os temas mais lembrados pela sociedade quando se pensa no legado varguista.\n\n                                                  D’ ARAÚJO, M. C. Estado, classe trabalhadora e políticas sociais. In: FERREIRA, J.; DELGADO, L. A. (Org.). O tempo do nacional estatismo: do início ao apogeu do Estado Novo. Rio de Janeiro: Civilização Brasileira, 2007.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Durante o governo de Getúlio Vargas, foram desenvolvidas ações de cunho social, dentre as quais se destaca a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "disseminação de organizações paramilitares inspiradas nos regimes fascistas europeus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aprovação de normas que buscavam garantir a posse das terras aos pequenos agricultores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "criação de um conjunto de leis trabalhistas associadas ao controle das representações sindicais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "implementação de um sistema de previdência e seguridade para atender aos trabalhadores rurais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "implantação de associações civis como uma estratégia para aproximar as classes médias e o governo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 18 - ENEM 2012",
+  "index": 18,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um Estado é uma multidão de seres humanos submetida a leis de direito. Todo Estado encerra três poderes dentro de si, isto é, a vontade unida em geral consiste de três pessoas: o poder soberano (soberania) na pessoa do legislador; o poder executivo na pessoa do governante (em consonância com a lei) e o poder judiciário (para outorgar a cada um o que é seu de acordo com a lei) na pessoa do juiz.\n\n                                                  KANT, I. A metafísica dos costumes. Bauru: EDIPRO, 2003.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com o texto, em um Estado de direito",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a vontade do governante deve ser obedecida, pois é ele que tem o verdadeiro poder.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a lei do legislador deve ser obedecida, pois ela é a representação da vontade geral.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o Poder Judiciário, na pessoa do juiz, é soberano, pois é ele que outorga a cada um o que é seu.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o Poder Executivo deve submeter-se ao Judiciário, pois depende dele para validar suas determinações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o Poder Legislativo deve submeter-se ao Executivo, na pessoa do governante, pois ele que é soberano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

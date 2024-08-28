@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 163 - ENEM 2011",
+  "index": 163,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma cidade possui um reservatório de água C1 na forma de um cilindro circular reto, com 5 metros de altura e capacidade para 100 m³ de água. Foi construído outro reservatório C2 , com o mesmo formato do anterior, com a mesma altura, cujo raio da base é o dobro de C1 .",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nessas condições, a razão entre os volumes de C1 e de C2 é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1/4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1/8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

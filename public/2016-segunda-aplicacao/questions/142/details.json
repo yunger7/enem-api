@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 142 - ENEM 2016",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um lapidador recebeu de um joalheiro a encomenda para trabalhar em uma pedra preciosa cujo formato é o de uma pirâmide, conforme ilustra a Figura 1. Para tanto, o lapidador fará quatro cortes de formatos iguais nos cantos da base. Os cantos retirados correspondem a pequenas pirâmides, nos vértices P, Q, R e S, ao longo dos segmentos tracejados, ilustrados na Figura 2.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/142/Capturar1.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Depois de efetuados os cortes, o lapidador obteve, a partir da pedra maior, uma joia poliédrica cujos números de faces, arestas e vértices são, respectivamente, iguais a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "9, 20 e 13.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "9, 24 e 13.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "7, 15 e 12.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "10, 16 e 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "11, 16 e 5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

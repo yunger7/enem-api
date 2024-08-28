@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 66 - ENEM 2011",
+  "index": 66,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Desde que o homem começou a explorar os recursos do planeta, vem provocando impactos sobre o meio ambiente. A ilustração mostra, de forma bem-humorada, uma consequência desses impactos.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/66/Enem-2011-ppl-questao-66.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em relação ao impacto sugerido pela figura, trata-se de uma consequência direta de ações do homem, que mostram sua",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "incapacidade de se adaptar a ambientes desfavoráveis, observada ao longo de sua história evolutiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "capacidade de prever os impactos de suas intervenções no meio ambiente, a médio e longo prazos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "preocupação em associar suas atividades com os benefícios e prejuízos causados ao meio ambiente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "dificuldade de diferenciar as ações que não interferem no meio ambiente, a curto prazo, das que podem originar catástrofes a longo prazo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "capacidade de priorizar as práticas de desenvolvimento social e tecnológico, as quais não provocam degradação do meio ambiente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

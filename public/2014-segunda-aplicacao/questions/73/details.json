@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 73 - ENEM 2014",
+  "index": 73,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Recentemente foram obtidos os fios de cobre mais finos possíveis, contendo apenas um átomo de espessura, que podem, futuramente, ser utilizados em microprocessadores. O chamado nanofio, representado na figura, pode ser aproximado por um pequeno cilindro de comprimento 0,5 nm (1 nm = 10−9 m). A seção reta de um átomo de cobre é 0,05 nm² e a resistividade do cobre é 17 Ω⋅nm. Um engenheiro precisa estimar se seria possível introduzir esses nanofios nos microprocessadores atuais.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/73/73-1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Um nanofio utilizando as aproximações propostas possui resistência elétrica de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "170 nΩ.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,17 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,7 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "17 Ω.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "170 Ω.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

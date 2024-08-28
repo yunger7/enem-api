@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 145 - ENEM 2015",
+  "index": 145,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma pessoa, ao fazer uma pesquisa com alguns alunos de um curso, coletou as idades dos entrevistados e organizou esses dados em um gráfico.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/145/enem2015.2.ques%C3%A3o145.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual a moda das idades, em anos, dos entrevistados?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "9",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "12",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "13",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "15",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "21",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

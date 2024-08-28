@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 76 - ENEM 2014",
+  "index": 76,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "No Brasil e no mundo têm surgido movimentos e leis para banir o uso de sacolas plásticas, em supermercados, feitas de polietileno. Obtida a partir do petróleo, a matéria-prima do polietileno é o gás etileno, que depois de polimerizado dá origem ao plástico, composto essencialmente formado pela repetição de grupos —CH2—. O principal motivo do banimento é a poluição, pois se estima que as sacolas levam cerca de 300 anos para se degradarem no meio ambiente, sendo resistentes a ataques químicos, à radiação e a microrganismos.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O motivo pelo qual essas sacolas demoram muito tempo para se degradarem é que suas moléculas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresentam muitas insaturações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "contêm carbono em sua composição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "são formadas por elementos de alta massa atômica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "são muito longas e formadas por ligações químicas fortes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "têm origem no petróleo, que é uma matéria-prima não renovável.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

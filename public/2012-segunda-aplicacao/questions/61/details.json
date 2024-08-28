@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 61 - ENEM 2012",
+  "index": 61,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Com o aumento da demanda por alimentos e a abertura de novas fronteiras agrícolas no Brasil, faz-se cada vez mais necessária a correção da acidez e a fertilização do solo para determinados cultivos. No intuito de diminuir a acidez do solo de sua plantação (aumentar o pH), um fazendeiro foi a uma loja especializada para comprar conhecidos insumos agrícolas, indicados para essa correção. Ao chegar à loja, ele foi informado que esses produtos estavam em falta. Como só havia disponíveis alguns tipos de sais, o fazendeiro consultou um engenheiro agrônomo procurando saber qual comprar.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O engenheiro, após verificar as propriedades desses sais, indicou ao fazendeiro o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "KCl",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "CaCO³",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "NH4Cl",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "NA²SO4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ba(NO³)²",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

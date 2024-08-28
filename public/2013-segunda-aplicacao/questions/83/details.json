@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 83 - ENEM 2013",
+  "index": 83,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/83/672.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A posição ocupada pela vaca, na interação apresentada na tirinha, a caracteriza como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "produtora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "consumidora primária.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "consumidora secundária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "consumidora terciária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "decompositora.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

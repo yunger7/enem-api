@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 139 - ENEM 2016",
+  "index": 139,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Num mapa com escala 1 : 250 000, a distância entre as cidades A e B é de 13 cm. Num outro mapa, com escala 1 : 300 000, a distância entre as cidades A e C é de 10 cm. Em um terceiro mapa, com escala 1 : 500 000, a distância entre as cidades A e D é de 9 cm. As distâncias reais entre a cidade A e as cidades B, C e D são, respectivamente, iguais a X, Y e Z (na mesma unidade de comprimento).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "As distâncias X, Y e Z, em ordem crescente, estão dadas em",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "X , Y , Z.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Y , X , Z.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Y , Z , X.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Z , X , Y.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Z , Y , X.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

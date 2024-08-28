@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 126 - ENEM 2017",
+  "index": 126,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O avanço científico e tecnológico da física nuclear permitiu conhecer, com maiores detalhes, o decaimento radioativo dos núcleos atômicos instáveis, desenvolvendo-se algumas aplicações para a radiação de grande penetração no corpo humano, utilizada, por exemplo, no tratamento do câncer.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A aplicação citada no texto se refere a qual tipo de radiação?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Beta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Alfa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Gama.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Raios X.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ultravioleta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

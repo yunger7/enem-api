@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 16 - ENEM 2014",
+  "index": 16,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/16/questao16.2014.ppl_.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "As trajetórias de participação das regiões Sudeste e Nordeste, apresentadas no mapa, estão, respectivamente, associadas ao(à)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "redução da renda média e à flexibilização das leis ambientais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "encarecimento da mão de obra e à política de incentivos fiscais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "expansão da malha rodoviária e à instalação de grandes projetos hidrelétricos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diminuição da participação do setor de serviços e à ampliação do agronegócio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumento do fluxo migratório inter-regional e à descoberta de novas jazidas de carvão mineral.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

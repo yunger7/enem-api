@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 91 - ENEM 2012",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/91/Enem-2012-ppl-questao-91jpg.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Com base nas informações verbais e no contexto social da tirinha, infere-se que o cliente",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "constrange e intimida o garçom, a fim de não pagar a conta devida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "está indisposto para conversar com o garçom sobre assuntos pessoais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "explica ao garçom que vai aguardar outra pessoa chegar ao restaurante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mostra descontentamento com o serviço para não ter que pagar por ele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "demonstra bom humor, fazendo piada no momento de fechar a conta.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

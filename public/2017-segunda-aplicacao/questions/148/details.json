@@ -1,0 +1,49 @@
+{
+  "year": 2017,
+  "title": "Questão 148 - ENEM 2017",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ao abrir um negócio, um microempresário descreveu suas vendas, em milhares de reais (unidade monetária brasileira), durante os dois primeiros anos. No primeiro ano, suas vendas cresceram de modo linear. Posteriormente, ele decidiu investir em propaganda, o que fez suas vendas crescerem de modo exponencial.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/148/148-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/148/148-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/148/148-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/148/148-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/148/148-e.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é o gráfico que melhor descreve as vendas em função do tempo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/148/148-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/148/148-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/148/148-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/148/148-d.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/148/148-e.png",
+      "isCorrect": false
+    }
+  ]
+}

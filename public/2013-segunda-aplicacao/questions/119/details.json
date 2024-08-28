@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 119 - ENEM 2013",
+  "index": 119,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/119/100937_pre.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "As propagandas fazem uso de diferentes recursos para garantir o efeito apelativo, isto é, o convencimento do público em relação ao que apresentam. O cartaz da campanha promovida pelo Ministério da Saúde utiliza vários recursos, verbais e não verbais, como estratégia persuasiva, dentre os quais se destaca",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a ligação estabelecida entre as palavras “hábito” e “hemocentro”, explorando a ideia de frequência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a relação entre a palavra “corrente”, a imagem das pessoas de mãos dadas e a mão estendida ao leitor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o emprego da expressão “Um grande ato”, despertando a consciência das pessoas para o sentimento de solidariedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a apresentação da imagem de pessoas saudáveis, estratégia adequada ao público-alvo da campanha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a associação entre o grande número de pessoas no cartaz e o número de pessoas que precisam receber sangue em nosso país.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

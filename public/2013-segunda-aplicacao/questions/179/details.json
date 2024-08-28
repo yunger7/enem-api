@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 179 - ENEM 2013",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um trabalhador possui um cartão de crédito que, em determinado mês, apresenta o saldo devedor a pagar no vencimento do cartão, mas não contém parcelamentos a acrescentar em futuras faturas. Nesse mesmo mês, o trabalhador é demitido. Durante o período de desemprego, o trabalhador deixa de utilizar o cartão de crédito e também não tem como pagar as faturas, nem a atual nem as próximas, mesmo sabendo que, a cada mês, incidirão taxas de juros e encargos por conta do não pagamento da dívida. Ao conseguir um novo emprego, já completados 6 meses de não pagamento das faturas, o trabalhador procura renegociar sua dívida. O gráfico mostra a evolução do saldo devedor.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/179/179.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base no gráfico, podemos constatar que o saldo devedor inicial, a parcela mensal de juros e a taxa de juros são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 500,00; constante e inferior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 560,00; variável e inferior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 500,00; variável e superior a 10% ao mês.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 560,00; constante e superior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 500,00; variável e inferior a 10% ao mês.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

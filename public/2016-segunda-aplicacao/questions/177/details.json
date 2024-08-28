@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 177 - ENEM 2016",
+  "index": 177,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma empresa registrou seu desempenho em determinado ano por meio do gráfico, com dados mensais do total de vendas e despesas.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/177/quest%C3%A3o-177-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O lucro mensal é obtido pela subtração entre o total de vendas e despesas, nesta ordem.\nQuais os três meses do ano em que foram registrados os maiores lucros?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Julho, setembro e dezembro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Julho, setembro e novembro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Abril, setembro e novembro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Janeiro, setembro e dezembro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Janeiro, abril e junho.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

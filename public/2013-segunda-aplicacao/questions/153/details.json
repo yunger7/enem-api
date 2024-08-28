@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 153 - ENEM 2013",
+  "index": 153,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma tarde, Camile caminhou 4 125 metros, no sentido anti-horário, e parou.",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/153/153.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual dos locais indicados na figura é o mais próximo de sua parada?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Centro cultural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Drogaria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Lan house.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Ponto de partida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Padaria.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

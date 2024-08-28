@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 169 - ENEM 2013",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Por ter pavor de sentar entre duas pessoas, um passageiro decide que só viajará se a chance de pegar uma dessas poltronas for inferior a 30%.",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/169/1691.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Avaliando a figura, o passageiro desiste da viagem, porque a chance de ele ser sorteado com uma poltrona entre duas pessoas é mais aproximada de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "31%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "33%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "35%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "68%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "69%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

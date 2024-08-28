@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 94 - ENEM 2013",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/94/673.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Tirinhas são construídas a partir de contextos sociais e podem promover reflexões diversas. Essa tirinha provoca no leitor uma reflexão acerca da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "divisão de espaço com os pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "perda da atenção dos pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "submissão aos pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ausência dos pais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "semelhança com os pais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

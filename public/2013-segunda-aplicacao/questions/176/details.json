@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 176 - ENEM 2013",
+  "index": 176,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em um experimento, uma cultura de bactérias tem sua população reduzida pela metade a cada hora, devido à ação de um agente bactericida.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Neste experimento, o número de bactérias em função do tempo pode ser modelado por uma função do tipo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "afim.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "seno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cosseno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "logarítmica crescente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "exponencial.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

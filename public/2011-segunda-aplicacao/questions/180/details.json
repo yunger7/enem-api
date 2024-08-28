@@ -1,0 +1,49 @@
+{
+  "year": 2011,
+  "title": "Questão 180 - ENEM 2011",
+  "index": 180,
+  "discipline": "matematica",
+  "language": null,
+  "context": "De acordo com os números divulgados pela Agência Nacional de Telecomunicações (Anatel), já há no país 91 celulares em cada grupo de 100 pessoas. Entre as várias operadoras existentes, uma propõe o seguinte plano aos seus clientes: R$ 25,00 mensais para até 40 minutos de conversação mensal e R$ 1,00 por minuto que exceda o tempo estipulado.\n\n                                                  Disponível em: http://www.economia.ig.com.br. Acesso em: 28 abr. 2010 (adaptado).",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/180/180-a.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/180/180-b.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/180/180-c.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/180/180-d.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/180/180-e.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual dos gráficos a seguir corresponde aos possíveis gastos mensais (y), em reais, de um cliente dessa operadora de celular, em função do tempo (x) utilizado, em minutos?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/180/180-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/180/180-b.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/180/180-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/180/180-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/180/180-e.png",
+      "isCorrect": false
+    }
+  ]
+}

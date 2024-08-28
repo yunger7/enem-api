@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 89 - ENEM 2016",
+  "index": 89,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Uma lâmpada LED (diodo emissor de luz), que funciona com 12V e corrente contínua de 0,45A, produz a mesma quantidade de luz que uma lâmpada incandescente de 60W de potência.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual é o valor da redução da potência consumida ao se substituir a lâmpada incandescente pela de LED?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "54,6W",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "27,0W",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "26,6W",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5,4W",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5,0W",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

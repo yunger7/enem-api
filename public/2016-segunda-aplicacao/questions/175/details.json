@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 175 - ENEM 2016",
+  "index": 175,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A tabela apresenta parte do resultado de um espermograma (exame que analisa as condições físicas e composição do sêmen humano).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/175/quest%C3%A3o-175-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para analisar o exame, deve-se comparar os resultados obtidos em diferentes datas com o valor padrão de cada característica avaliada. O paciente obteve um resultado dentro dos padrões no exame realizado no dia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30/11/2009.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "23/03/2010.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "09/08/2011.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "23/08/2011.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "06/03/2012.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

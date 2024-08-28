@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 61 - ENEM 2015",
+  "index": 61,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os calcários são materiais compostos por carbonato de cálcio, que podem atuar como sorventes do dióxido de enxofre (SO2), um importante poluente atmosférico. As reações envolvidas no processo são a ativação do calcário, por meio da calcinação, e a fixação de SO2 com a formação de um sal de cálcio, como ilustrado pelas equações químicas simplificadas.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/61/61-1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Considerando-se as reações envolvidas nesse processo de dessulfurização, a fórmula química do sal de cálcio corresponde a:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CaSO3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "CaSO4.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "CaS2O8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "CaSO2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "CaS2O7.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

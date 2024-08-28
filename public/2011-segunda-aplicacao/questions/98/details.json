@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 98 - ENEM 2011",
+  "index": 98,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O esporte, as ginásticas, a dança, as artes marciais, as práticas de aptidão física tornam-se, cada vez mais, produtos de consumo (mesmo que apenas como imagens) e objetos de conhecimento e informação amplamente divulgados ao grande público. Jornais, revistas, videogames, rádio e televisão difundem ideias sobre a cultura corporal do movimento.\n\n                                                  Betti, M.; Zuliani, L. R. Educação Física Escolar: uma proposta de diretrizes pedagógicas.\nRevista Mackenzie de Educação Física e Esporte. São Paulo, 2002.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Essa difusão possibilitou o acesso a uma diversidade de atividades físicas e esportes coletivos praticados ao redor do mundo, que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "promoveu um aumento, no Brasil, da prática de esportes como a ginástica e uma diminuição da prática do voleibol e basquetebol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "permitiu uma maior compreensão de esportes praticados em alguns países e/ou comunidades, de acordo com as suas características sociais e regionais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "diminuiu a prática de esportes desse tipo em algumas regiões do Brasil, pois são considerados excessivamente agressivos e necessitam de muitos jogadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumentou o número de pessoas ao redor do mundo que praticam esportes desse tipo e diminuiu a prática das artes marciais como o karatê.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estimulou o ensino de algumas lutas, como, por exemplo, a capoeira, por ser considerada étnica e envolver um único grupo social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 46 - ENEM 2017",
+  "index": 46,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os direitos civis, surgidos na luta contra o Absolutismo real, ao se inscreverem nas primeiras constituições modernas, aparecem como se fossem conquistas definitivas de toda a humanidade. Por isso, ainda hoje invocamos esses velhos “direitos naturais” nas batalhas contra os regimes autoritários que subsistem.\n\n                                                  QUIRINO, C. G.; MONTES, M. L. Constituições. São Paulo: Ática, 1992 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O conjunto de direitos ao qual o texto se refere inclui",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "voto secreto e candidatura em eleições.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "moradia digna e vagas em universidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "previdência social e saúde de qualidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "igualdade jurídica e liberdade de expressão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "filiação partidária e participação em sindicatos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

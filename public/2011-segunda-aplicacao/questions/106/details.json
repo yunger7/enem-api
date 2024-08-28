@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 106 - ENEM 2011",
+  "index": 106,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O acesso à educação profissional e tecnológica pode mudar a vida de milhões de jovens em todo o país: há uma nova lei do estágio. Com a nova lei, o governo federal define o estágio profissional como ato educativo e determina medidas para que esta atividade contribua para familiarizar o futuro profissional com o mundo do trabalho. Entre as medidas estabelecidas, estão: a obrigatoriedade da supervisão por parte do professor da instituição de origem do estudante com o auxílio de um profissional no local de trabalho, a definição de jornada máxima de trabalho de quatro a seis horas.\n\n                                                  Carta na Escola. Nº 32, dez. 2008/jan. 2009 (adaptado)",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Ao listar as mudanças ocorridas na legislação referente ao estágio, o autor do texto tem como objetivo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "familiarizar milhões de jovens estudantes com o seu futuro profissional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mostrar que as políticas públicas favorecem os trabalhadores da educação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "incentivar a obrigatoriedade da supervisão por parte do professor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "familiarizar o leitor com as instituições que definem o ensino profissionalizante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apresentar as novas normas que definem o estágio profissional para estudantes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

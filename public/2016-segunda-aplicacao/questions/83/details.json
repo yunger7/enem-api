@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 83 - ENEM 2016",
+  "index": 83,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para um salto no Grand Canyon usando motos, dois paraquedistas vão utilizar uma moto cada, sendo que uma delas possui massa três vezes maior. Foram construídas duas pistas idênticas até a beira do precipício, de forma que no momento do salto as motos deixem a pista horizontalmente e ao mesmo tempo. No instante em que saltam, os paraquedistas abandonam suas motos e elas caem praticamente sem resistência do ar.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "As motos atingem o solo simultaneamente porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "possuem a mesma inércia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estão sujeitas à mesma força resultante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "têm a mesma quantidade de movimento inicial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "adquirem a mesma aceleração durante a queda.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "são lançadas com a mesma velocidade horizontal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 85 - ENEM 2016",
+  "index": 85,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A bauxita é o minério utilizado na fabricação do alumínio, a qual apresenta Al2O3 (alumina) em sua composição. Após o trituramento e lavagem para reduzir o teor de impurezas, o minério é misturado a uma solução aquosa de NaOH (etapa A). A parte sólida dessa mistura é rejeitada e a solução resultante recebe pequenos cristais de alumina, de onde sedimenta um sólido (etapa B). Esse sólido é aquecido até a obtenção de um pó branco, isento de água e constituído unicamente por alumina. Finalmente, esse pó é aquecido até sua fusão e submetido a uma eletrólise, cujos produtos são o metal puro fundido (Al) e o gás carbônico (CO2).\n\n                                                  SILVA FILHO, E. B.; ALVES, M. C. M.; DA MOTTA, M. Lama vermelha da indústria de beneficiamento de alumina: produção, características, disposição e aplicações alternativas. Revista Matéria, n. 2, 2007.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nesse processo, as funções das etapas A e B são, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "oxidar a alumina e outras substâncias e reduzir seletivamente a alumina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "solubilizar a alumina e outras substâncias e induzir a precipitação da alumina.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "solidificar as impurezas alcalinas e deslocar o equilíbrio no sentido da alumina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "neutralizar o solo ácido do minério e catalisar a reação de produção da alumina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "romper as ligações químicas da alumina e diminuir o calor de formação do alumínio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 165 - ENEM 2015",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No jogo mostrado na figura, uma bolinha descola-se somente de duas formas: ao longo de linhas retas ou por arcos de circunferências centradas no ponto O e raios variando de 1 a 8. Durante o jogo, a bolinha que estiver no ponto P deverá realizar a seguinte sequência de movimentos: 2 unidades no mesmo sentido utilizado para ir do ponto O até o ponto A e, no sentido anti-horário, um arco de circunferência cujo ângulo central é 120°.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/165/enem2015.2.quest%C3%A3o165.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Após a sequência de movimentos descrita, a bolinha estará no ponto",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "D.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "E.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "F.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "G.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

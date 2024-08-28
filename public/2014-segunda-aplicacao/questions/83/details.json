@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 83 - ENEM 2014",
+  "index": 83,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O bisfenol-A é um composto que serve de matéria-prima para a fabricação de polímeros utilizados em embalagens plásticas de alimentos, em mamadeiras e no revestimento interno de latas. Esse composto está sendo banido em diversos países, incluindo o Brasil, principalmente por ser um mimetizador de estrógenos (hormônios) que, atuando como tal no organismo, pode causar infertilidade na vida adulta. O bisfenol-A (massa molar igual a 228 g/mol) é preparado pela condensação da propanona (massa molar igual a 58 g/mol) com fenol (massa molar igual a 94 g/mol), em meio ácido, conforme apresentado na equação química.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/83/83-1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Considerando que, ao reagir 580 g de propanona com 3 760 g de fenol, obteve-se 1,14 kg de bisfenol-A, de acordo\ncom a reação descrita, o rendimento real do processo foi de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,025%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,05%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12,5%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "25%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50%.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

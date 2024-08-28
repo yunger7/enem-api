@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 10 - ENEM 2013",
+  "index": 10,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Ninguém vive sem ocupar espaço, sem respirar, sem alimentar-se, sem ter um teto para abrigar-se e, na Modernidade, sem o que se incorporou na vida cotidiana: luz, telefone, televisão, rádio, refrigeração dos alimentos etc. A humanidade não vive sem ocupar espaço, sem utilizar-se cada vez mais intensamente das riquezas naturais que são apropriadas privadamente.\n\n                                                  RODRIGUES, A. M. Desenvolvimento sustentável: dos conflitos de classes para os conflitos de gerações. In: SILVA. J. B. et al. (Orgs.). Panorama da geografia brasileira. São Paulo: Annablume, 2006 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O texto defende que duas mudanças provocadas pela ação humana na Modernidade são o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alteração no modo de vida das comunidades e a delimitação dos problemas ambientais em escala local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "surgimento de novas formas de apropriação dos territórios e a utilização pública dos recursos naturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "incorporação de novas tecnologias no processo produtivo e a aceleração dos problemas ambientais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "aumento do consumo de bens e mercadorias e a utilização de mão de obra nas unidades produtivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "esgotamento das reservas naturais e a desaceleração da produção de bens de consumo humano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

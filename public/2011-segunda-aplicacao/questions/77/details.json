@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 77 - ENEM 2011",
+  "index": 77,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Na charge, o autor refere-se de forma bem-humorada a uma preocupação da população e das autoridades de saúde em relação à contaminação de humanos pelo vírus da gripe H1N1, também conhecida como gripe suína.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/77/Enem-2011-ppl-questao-77.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O autor sugere uma reflexão sobre as crenças acerca das formas de contaminação pelo vírus da gripe H1N1. Trata-se de um mito a concepção de que a Influenza H1N1 é transmitida",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pela ingestão de carne contaminada, principalmente a de suínos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "pelo contato direto entre os fluidos de indivíduos sadios e portadores do vírus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pelo contato com objetos compartilhados entre indivíduos sadios e contaminados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "pelo ar juntamente com partículas de poeira em suspensão, gotas de saliva e secreção nasobucal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "por meio da ingestão de alimento contaminado pelas mãos de portadores do vírus durante a preparação ou o manuseio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

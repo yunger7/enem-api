@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 163 - ENEM 2016",
+  "index": 163,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um produtor de maracujá usa uma caixa-d’água, com volume V, para alimentar o sistema de irrigação de seu pomar. O sistema capta água através de um furo no fundo da caixa a uma vazão constante. Com a caixa-d’água cheia, o sistema foi acionado às 7 h da manhã de segunda-feira. Às 13 h do mesmo dia, verificou-se que já haviam sido usados 15% do volume da água existente na caixa. Um dispositivo eletrônico interrompe o funcionamento do sistema quando o volume restante na caixa é de 5% do volume total, para reabastecimento.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Supondo que o sistema funcione sem falhas, a que horas o dispositivo eletrônico interromperá o funcionamento?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Às 15 h de segunda-feira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Às 11 h de terça-feira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Às 14 h de terça-feira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Às 4 h de quarta-feira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Às 21 h de terça-feira.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

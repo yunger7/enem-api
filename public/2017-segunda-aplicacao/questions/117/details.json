@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 117 - ENEM 2017",
+  "index": 117,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um estudante construiu um densímetro, esquematizado na figura, utilizando um canudinho e massa de modelar. O instrumento foi calibrado com duas marcas de flutuação, utilizando água (marca A) e etanol (marca B) como referências.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Em seguida, o densímetro foi usado para avaliar cinco amostras: vinagre, leite integral, gasolina (sem álcool anidro), soro fisiológico e álcool comercial (92,8°GL).",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/117/117.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Que amostra apresentará marca de flutuação entre os limites A e B?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Vinagre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Gasolina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Leite Integral.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Soro fisiológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Álcool comercial.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

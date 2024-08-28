@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 97 - ENEM 2015",
+  "index": 97,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I\nVoluntário Rosa tecia redes, e os produtos de sua pequena indústria gozavam de boa fama nos arredores. A reputação da tapuia crescera com a feitura de uma maqueira de tucum ornamentada com a coroa brasileira, obra de ingênuo gosto, que lhe valera a admiração de toda a comarca e provocara a inveja da célebre Ana Raimunda, de Óbidos, a qual chegara a formar uma fortunazinha com aquela especialidade, quando a indústria norte-americana reduzira à inatividade os teares rotineiros do Amazonas.\n\n                                                  SOUSA, I. Contos amazônicos. São Paulo: Martins Fontes, 2004.\n\n                              \n                                                \n                TEXTO II\nRelato de um certo oriente Emilie, ao contrário de meu pai, de Dorner e dos nossos vizinhos, não tinha vivido no interior do Amazonas. Ela, como eu, jamais atravessara o rio. Manaus era o seu mundo visível. O outro latejava na sua memória. Imantada por uma voz melodiosa, quase encantada, Emilie maravilha-se com a descrição da trepadeira que espanta a inveja, das folhas malhadas de um tajá que reproduz a fortuna de um homem, das receitas de curandeiros que veem em certas ervas da floresta o enigma das doenças mais temíveis, com as infusões de coloração sanguínea aconselhadas para aliviar trinta e seis dores do corpo humano. “E existem ervas que não curam nada”, revelava a lavadeira, “mas assanham a mente da gente. Basta tomar um gole do líquido fervendo para que o cristão sonhe uma única noite muitas vidas diferentes”. Esse relato poderia ser de duvidosa veracidade para outras pessoas, mas não para Emilie.\n\n                                                  HATOUM, M. São Paulo: Cia. das Letras, 2008.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As representações da Amazônia na literatura brasileira mantêm relação com o papel atribuído à região na construção do imaginário nacional. Pertencentes a contextos históricos distintos, os fragmentos diferenciam-se ao propor uma representação da realidade amazônica em que se evidenciam",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aspectos da produção econômica e da cura na tradição popular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "manifestações culturais autênticas e da resignação familiar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "valores sociais autóctones e influência dos estrangeiros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "formas de resistência locais e do cultivo das superstições.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "costumes domésticos e levantamento das tradições indígenas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 5 - ENEM 2015",
+  "index": 5,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A crescente conscientização sobre os efeitos do modelo intensivo de produção, adotado de forma geral na agricultura, tem gerado também uma série de reações. De fato, a agricultura está cada vez mais pressionada pelo conjunto de relações que mantém com a sociedade em geral, sendo emergente o que comumente se denomina “questão ambiental”. Essas relações, às vezes de dependência, às vezes de conflito, são as que determinam uma chamada ampla para mudanças orientadas à sustentabilidade, não só da atividade agrícola em si, senão que afete de maneira geral a todo o entorno no qual a agricultura está inserida.\n \n\n                                                  GOMES, J. C. C. Desenvolvimento rural, transição de formatos tecnológicos, elaboração social da qualidade, interdisciplinaridade e participação. In: PORTO, V. H.; WIZNIEWSKY, C. R. F. ; SIMICH, T. (Org.). Agricultor familiar: sujeito de um novo método de pesquisa, o participativo. Pelotas: Embrapa, 2004",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "No texto, faz-se referência a um tipo de pressão da sociedade contemporânea sobre a agricultura. Essa pressão objetiva a seguinte transformação na atividade agrícola:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ampliação de políticas de financiamento voltadas para a produção de transgênicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O Modernização do modo de produção focado na alta produtividade da terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O Expansão do agronegócio relacionado ao mercado consumidor externo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O Promoção de práticas destinadas à conservação de recursos naturais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "O Inserção de modelos orientados ao uso intensivo de agroquímicos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

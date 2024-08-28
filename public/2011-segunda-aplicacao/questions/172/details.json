@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 172 - ENEM 2011",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Como todos os jogadores obtiveram a mesma média de pontos por partida, para definir quem, entre os cinco atletas, foi o de melhor rendimento, o técnico da equipe resolveu escolher aquele de maior regularidade.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/172/172.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Dessa forma, ele escolheu o jogador",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "D.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "E.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

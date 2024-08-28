@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 149 - ENEM 2011",
+  "index": 149,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em 2009, o Estado de São Paulo perdeu 3 205,7 hectares de sua cobertura vegetal, área 30% menor que a desmatada em 2008, segundo balanço do projeto ambiental estratégico “Desmatamento Zero”, divulgado pela Secretaria do Meio Ambiente (SMA).\n\n                                                  São Paulo reduz área desmatada.Boletim Agência FAPESP. Disponível em: http://www.agencia.fapesp.br. Acesso em: 26 abr. 2010.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Um hectare é uma unidade de medida de área equivalente a 100 ares. Um are, por sua vez, é equivalente a 100 m². Logo, a área 3 205,7 hectares corresponde a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3 205,7 × 10-1 m².",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "3 205,7 × 10 m².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3 205,7 × 10²  m².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3 205,7 × 103  m².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3 205,7 × 104  m².",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 72 - ENEM 2016",
+  "index": 72,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Nos dias frios. é comum ouvir expressões como: “Esta roupa é quentinha” ou então “Feche a janela para o frio não entrar”. As expressões do senso comum utilizadas estão em desacordo com o conceito de calor da termodinâmica. A roupa não é “quentinha”, muito menos o frio “entra” pela janela.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A utilização das expressões “roupa é quentinha” e “para o frio não entrar” é inadequada, pois o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "roupa absorve a temperatura do corpo da pessoa, e o frio não entra pela janela, o calor é que sai por ela.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "roupa não fornece calor por ser um isolante térmico, e o frio não entra pela janela. pois é a temperatura da sala que sai por ela.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "roupa não é uma fonte de temperatura, e o frio não pode entrar pela janela, pois o calor está contido na sala, logo o calor é que sai por ela.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "calor não está contido num corpo, sendo uma forma de energia em trânsito de um corpo de maior temperatura para outro de menor temperatura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "calor está contido no corpo da pessoa, e não na roupa, sendo uma forma de temperatura em trânsito de um corpo mais quente para um corpo mais frio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

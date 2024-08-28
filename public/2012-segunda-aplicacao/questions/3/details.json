@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 3 - ENEM 2012",
+  "index": 3,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/3/Enem-2012-ppl-questao-03.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os aparelhos televisores se multiplicam nas residências do Brasil a partir da década de 1960. A partir da charge, os programas televisivos eram controlados para atender interesses dos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "artistas críticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "grupos terroristas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "governos autoritários.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "partidos oposicionistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "intelectuais esquerdistas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

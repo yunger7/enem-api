@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 152 - ENEM 2017",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma fábrica de papel higiênico produz embalagens com quatro rolos de 30 m cada, cujo preço para o consumidor é R$ 3,60. Uma nova embalagem com dez rolos de 50 m cada, de mesma largura, será lançada no mercado. O preço do produto na nova embalagem deve ser equivalente ao já produzido, mas, para incentivar as vendas, inicialmente o preço de venda terá um desconto de 10%.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para que isso aconteça, o preço de venda da nova embalagem, em real, deve ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "8,10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "9,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "9,90.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "13,50.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "15,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

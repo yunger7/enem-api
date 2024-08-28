@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 77 - ENEM 2012",
+  "index": 77,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Durante uma faxina, a mãe pediu que o filho a ajudasse, deslocando um móvel para mudá-lo de lugar. Para escapar da tarefa, o filho disse ter aprendido na escola que não poderia puxar o móvel, pois a Terceira Lei de Newton define que se puxar o móvel, o móvel o puxará igualmente de volta, e assim não conseguirá exercer uma força que possa colocá-lo em movimento.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual argumento a mãe utilizará para apontar o erro de interpretação do garoto?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A força de ação é aquela exercida pelo garoto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A força resultante sobre o móvel é sempre nula.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "As forças que o chão exerce sobre o garoto se anulam.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A força de ação é um pouco maior que a força de reação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O par de forças de ação e reação não atua em um mesmo corpo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

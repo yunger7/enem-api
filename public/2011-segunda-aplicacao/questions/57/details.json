@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 57 - ENEM 2011",
+  "index": 57,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O biodiesel é um biocombustível que pode ser obtido a partir do processo químico em que óleos ou gorduras são transformados em ésteres metílicos ou etílicos de ácidos graxos. Suas principais vantagens de uso relacionam-se principalmente ao fato de serem oriundos de fontes renováveis e produzirem muito menos poluição do que os derivados de combustíveis fósseis. A figura seguinte mostra, de forma esquemática, o processo de produção de biodiesel a partir do óleo de soja:",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/57/Enem-2011-ppl-questao-57.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com o descrito, a etapa que representa efetivamente a formação das moléculas orgânicas combustíveis que compõem o biodiesel está representada na figura pelo número",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

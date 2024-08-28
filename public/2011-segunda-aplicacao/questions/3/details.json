@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 3 - ENEM 2011",
+  "index": 3,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Planejada ainda na Ditadura, a hidrelétrica de Belo Monte, que será a terceira maior do mundo, virou um retrato do dilema a respeito do futuro do Brasil. Para crescer, gerar empregos e reduzir a alarmante desigualdade social, o país precisará de energia em abundância. O que vozes respeitadas perguntam, porém, é se uma grande usina no meio da Amazônia é a melhor saída.\n\n                                                  SIQUEIRA, A. Carta Capital. Ano XV, nº 593, 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os impactos decorrentes da construção da hidrelétrica de Belo Monte sobre os diversos atores que vivem na região onde se pretende construí-la estão relacionados com",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a promoção do desenvolvimento das atividades tradicionais possibilitada pela disponibilidade de energia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a ampliação das oportunidades de emprego, que absorve as populações que são prejudicadas por sua construção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os riscos de deterioração das atividades tradicionais, causados pelas transformações no território.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "os prejuízos econômicos, que serão superados pelos benefícios trazidos para a população local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as transformações sociais, que são necessárias em qualquer processo de desenvolvimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

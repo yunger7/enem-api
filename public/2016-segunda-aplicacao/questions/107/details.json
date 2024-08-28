@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 107 - ENEM 2016",
+  "index": 107,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Descobrimento\nAbancado à escrivaninha em São Paulo\nNa minha casa da rua Lopes Chaves\nDe sopetão senti um friúme por dentro.\nFiquei trêmulo, muito comovido\nCom o livro palerma olhando pra mim.\nNão vê que me lembrei que lá no norte, meu Deus! Muito\nlonge de mim,\nNa escuridão ativa da noite que caiu,\nUm homem pálido, magro de cabelos escorrendo nos olhos\nDepois de fazer uma pele com a borracha do dia,\nFaz pouco se deitou, está dormindo.\nEsse homem é brasileiro que nem eu…\n\n                                                  ANDRADE, M. Poesias completas. São Paulo: Edusp, 1987",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O poema Descobrimento, de Mário de Andrade, marca a postura nacionalista manifestada pelos escritores modernistas. Recuperando o fato histórico do “descobrimento”, a construção poética problematiza a representação nacional a fim de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "resgatar o passado indígena brasileiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "criticar a colonização portuguesa no Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "defender a diversidade social e cultural brasileira.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "promover a integração das diferentes regiões do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "valorizar a Região Norte, pouco conhecida pelos brasileiros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

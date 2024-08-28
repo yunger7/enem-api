@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 100 - ENEM 2015",
+  "index": 100,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/100/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-100.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A obra do artista plástico Leonilson (1953-1993) marca presença no panorama da arte brasileira e internacional. Nessa obra, ele utilizou a habilidade técnica do bordado manual para:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "obtenção das linhas retas paralelas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "valorização do tracejado retilíneo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "exploração de diferentes texturas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "obtenção do equilíbrio assimétrico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "inscrição homogênea das formas e palavras.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

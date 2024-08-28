@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 96 - ENEM 2016",
+  "index": 96,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A existência dos homens criadores modernos é muito mais condensada e mais complicada do que a das pessoas dos séculos precedentes. A coisa representada, por imagem, fica menos fixa, o objeto em si mesmo se expõe menos do que antes. Uma paisagem rasgada por um automóvel, ou por um trem, perde em valor descritivo, mas ganha em valor sintético. O homem moderno registra cem vezes mais impressões do que o artista do século XVIII.\n\n                                                  LEGÉR, F. Funções da pintura. São Paulo: Nobel, 1989.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/96/96-figura1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A vanguarda europeia, evidenciada pela obra e pelo texto, expressa os ideais e a estética do",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Cubismo, que questionava o uso da perspectiva por meio da fragmentação geométrica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Expressionismo alemão, que criticava a arte acadêmica, usando a deformação das figuras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Dadaísmo, que rejeitava a instituição artística, propondo a antiarte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Futurismo, que propunha uma nova estética, baseada nos valores da vida moderna.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Neoplasticismo, que buscava o equilíbrio plástico, com utilização da direção horizontal e vertical.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

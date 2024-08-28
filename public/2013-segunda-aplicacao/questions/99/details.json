@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 99 - ENEM 2013",
+  "index": 99,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Em um mundo onde o “boca a boca” tornou-se virtual, é de extrema importância que a empresa se faça presente e tenha um bom canal de comunicação com o consumidor. Enfim, a empresa deve saber interagir com o seu consumidor, atender às suas necessidades, dúvidas e estabelecer um contato direto, claro e contínuo com os consumidores cada vez mais exigentes.\n\n                                                  Disponível em: www.agenciars.com.br. Acesso em: 26 fev. 2012.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O texto apresenta um assunto interessante e atual, uma vez que a internet constitui-se como um meio de\ncomunicação eficiente. Nesse contexto, “boca a boca” é uma expressão indicadora de que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as redes sociais se tornaram recurso de comunicação de fácil acesso e baixo custo para o consumidor de variados produtos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as redes sociais se tornaram fonte fundamental para indicações de amigos e divulgação de produtos, marcas e serviços das empresas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "as redes sociais são sistemas de comunicação que agrupam empresas e indivíduos semelhantes com objetivos diferentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as redes sociais permitem às empresas buscarem novos profissionais para seu quadro de pessoal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as redes sociais possibilitam aos usuários se fazerem presentes e atuantes na internet.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

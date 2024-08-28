@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 70 - ENEM 2013",
+  "index": 70,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O mármore é um material empregado para revestimento de pisos e um de seus principais constituintes é o carbonato de cálcio. Na limpeza desses pisos com solução ácida, ocorre efervescência.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nessa efervescência o gás liberado é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "hidrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cloro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "dióxido de carbono.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "monóxido de carbono.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

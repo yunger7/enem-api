@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 150 - ENEM 2013",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma pequena fábrica vende seus bonés em pacotes com quantidades de unidades variáveis. O lucro obtido é dado pela expressão L(x) = −x² + 12x − 20, onde x representa a quantidade de bonés contidos no pacote. A empresa pretende fazer um único tipo de empacotamento, obtendo um lucro máximo.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para obter o lucro máximo nas vendas, os pacotes devem conter uma quantidade de bonés igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "9.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "14.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

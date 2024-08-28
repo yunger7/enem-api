@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 164 - ENEM 2013",
+  "index": 164,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma dona de casa vai ao supermercado fazer a compra mensal. Ao concluir a compra, observa que ainda lhe restaram R$ 88,00. Seus gastos foram distribuídos conforme mostra o gráfico. As porcentagens apresentadas no gráfico são referentes ao valor total, em reais, reservado para a compra mensal.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/164/164.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual o valor total, em reais, reservado por essa dona de casa para a compra mensal?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "106,80",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "170,40",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "412,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "500,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "588,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

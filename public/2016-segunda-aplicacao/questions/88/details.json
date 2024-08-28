@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 88 - ENEM 2016",
+  "index": 88,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os seres vivos mantêm constantes trocas de matéria com o ambiente mediante processos conhecidos como ciclos biogeoquímicos. O esquema representa um dos ciclos que ocorrem nos ecossistemas.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/88/enem2016-2aplicacao-biologia-88-azul.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O esquema apresentado corresponde ao ciclo biogeoquímico do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fósforo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "enxofre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "carbono.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "nitrogênio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

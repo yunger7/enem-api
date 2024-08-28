@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 78 - ENEM 2016",
+  "index": 78,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O principal componente do sal de cozinha é o cloreto de sódio, mas o produto pode ter aluminossilicato de sódio em pequenas concentrações. Esse sal, que é insolúvel em água, age como antiumectante, evitando que o sal de cozinha tenha um aspecto empedrado.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O procedimento de laboratório adequado para verificar a presença do antiumectante em uma amostra de sal de cozinha é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "realização do teste de chama.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "medida do pH de uma solução aquosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "medida da turbidez de uma solução aquosa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ensaio da presença de substâncias orgânicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "verificação da presença de cátions monovalentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

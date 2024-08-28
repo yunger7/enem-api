@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 140 - ENEM 2015",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um granjeiro detectou uma infecção bacteriológica em sua criação de 100 coelhos. A massa de cada coelho era de, aproximadamente, 4 kg. Um veterinário prescreveu a aplicação de um antibiótico, vendido em frascos contendo 16 mL, 25 mL, 100 mL, 400 mL ou 1 600 mL. A bula do antibiótico recomenda que, em aves e coelhos, seja administrada uma dose única de 0,25 mL para cada quilograma de massa do animal.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Para que todos os coelhos recebessem a dosagem do antibiótico recomendada pela bula, de tal maneira que não sobrasse produto na embalagem, o criador deveria comprar um único frasco com a quantidade, em mililitros, igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "16.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "25.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "100.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "400.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 600.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

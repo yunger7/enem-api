@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 95 - ENEM 2015",
+  "index": 95,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/95/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-95-espanhol.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Os programas de prevenção à dengue não estão restritos a cidades brasileiras. No material elaborado sobre esse tema pelo Ministério da Saúde de El Salvador, país da América Central, objetiva-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresentar a sequência de ações necessárias à prevenção da doença.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "instruir o leitor sobre como impedir a formação de criadouros do mosquito.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "descrever como se dá a proliferação do Aedes aegypti em El Salvador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "convencer o leitor sobre a necessidade do tratamento da doença.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "relatar experiências sobre como lidar com a multiplicação do Aedes aegypti.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

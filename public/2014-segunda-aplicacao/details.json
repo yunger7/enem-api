@@ -1,0 +1,910 @@
+{
+  "title": "Prova 2014 (Segunda aplicação)",
+  "year": 2014,
+  "disciplines": [
+    {
+      "label": "Ciências Humanas e suas Tecnologias",
+      "value": "ciencias-humanas"
+    },
+    {
+      "label": "Ciências da Natureza e suas Tecnologias",
+      "value": "ciencias-natureza"
+    },
+    {
+      "label": "Linguagens, Códigos e suas Tecnologias",
+      "value": "linguagens"
+    },
+    {
+      "label": "Matemática e suas Tecnologias",
+      "value": "matematica"
+    }
+  ],
+  "languages": [
+    {
+      "label": "Espanhol",
+      "value": "espanhol"
+    },
+    {
+      "label": "Inglês",
+      "value": "ingles"
+    }
+  ],
+  "questions": [
+    {
+      "title": "Questão 01 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 1,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 02 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 2,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 03 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 3,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 04 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 4,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 05 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 5,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 06 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 6,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 07 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 7,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 08 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 8,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 09 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 9,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 10 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 10,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 11 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 11,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 12 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 12,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 13 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 13,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 14 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 14,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 15 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 15,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 16 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 16,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 17 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 17,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 18 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 18,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 19 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 19,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 20 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 20,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 21 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 21,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 22 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 22,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 23 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 23,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 24 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 24,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 25 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 25,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 26 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 26,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 27 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 27,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 28 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 28,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 29 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 29,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 30 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 30,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 31 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 31,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 32,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 64 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 64,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 65 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 65,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 66 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 66,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 67 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 67,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 68 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 68,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 69 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 69,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 70 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 70,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 71 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 71,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 72 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 72,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 73 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 73,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 74 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 74,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 75 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 75,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 76 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 76,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 77 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 77,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 78 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 78,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 79 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 79,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 80 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 80,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 81 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 81,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 82 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 82,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 83 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 83,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 84 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 84,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 85 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 85,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 86 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 86,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 87 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 87,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 88 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 88,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 89 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 89,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 90 da prova cinza do primeiro dia do Enem 2014 Segunda Aplicação",
+      "index": 90,
+      "discipline": "ciencias-natureza",
+      "language": null
+    },
+    {
+      "title": "Questão 91 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 91,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 91 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 91,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 92 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 92,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 92 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 92,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 93 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 93,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 93 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 93,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 94 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 94,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 94 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 94,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 95 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 95,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 95 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 95,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 96 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 96,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 97 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 97,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 98 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 98,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 99 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 99,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 100 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 100,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 101 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 101,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 102 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 102,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 103 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 103,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 104 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 104,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 106 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 106,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 107 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 107,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 109 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 109,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 110 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 110,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 111 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 111,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 112 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 112,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 113 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 113,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 114 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 114,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 115 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 115,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 116 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 116,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 117 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 117,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 118 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 118,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 119 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 119,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 120 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 120,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 121 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 121,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 122 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 122,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 124 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 124,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 125 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 125,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 126 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 126,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 127 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 127,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 128 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 128,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 129 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 129,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 131 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 131,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 132 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 132,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 133 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 133,
+      "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 134 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 134,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 135 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 135,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
+      "title": "Questão 136 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 136,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 137 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 137,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 138 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 138,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 139 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 139,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 140 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 140,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 141 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 141,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 142 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 142,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 143 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 143,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 144 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 144,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 145 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 145,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 146 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 146,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 147 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 147,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 148 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 148,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 149 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 149,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 150 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 150,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 151 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 151,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 152 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 152,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 153 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 153,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 154 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 154,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 155 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 155,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 156 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 156,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 157 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 157,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 159 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 159,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 160 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 160,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 161 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 161,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 162 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 162,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 163 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 163,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 164 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 164,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 165 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 165,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 166 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 166,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 167 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 167,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 169 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 169,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 170 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 170,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 171 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 171,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 172 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 172,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 173 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 173,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 174 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 174,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 176 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 176,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 178 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 178,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 179 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 179,
+      "discipline": "matematica",
+      "language": null
+    },
+    {
+      "title": "Questão 180 da prova cinza do segundo dia do Enem 2014 Segunda Aplicação",
+      "index": 180,
+      "discipline": "matematica",
+      "language": null
+    }
+  ]
+}

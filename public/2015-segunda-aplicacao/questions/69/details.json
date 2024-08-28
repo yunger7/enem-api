@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 69 - ENEM 2015",
+  "index": 69,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O poli(ácido lático) ou PLA é um material de interesse tecnológico por ser um polímero biodegradável e bioabsorvível. O ácido lático, um metabólito comum no organismo humano, é a matéria-prima para produção do PLA, de acordo com a equação química simplificada:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/69/69-1.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Que tipo de polímero de condensação é formado nessa reação?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Poliéster.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Polivinila.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Poliamida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Poliuretana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Policarbonato.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

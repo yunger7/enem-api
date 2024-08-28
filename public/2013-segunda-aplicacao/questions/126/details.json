@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 126 - ENEM 2013",
+  "index": 126,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/126/enem2013.2.quest%C3%A3o126.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A foto mostra integrantes de um grupo de choro tocando instrumentos de diferentes classificações. Nessa formação, o instrumento que representa a família",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "das madeiras é a flauta transversal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "das cordas friccionadas é o bandolim.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dos metais é o pandeiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "das percussões com membrana é o afoxé.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "das cordas percurtidas é o cavaquinho.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

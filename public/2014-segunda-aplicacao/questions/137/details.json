@@ -1,0 +1,50 @@
+{
+  "year": 2014,
+  "title": "Questão 137 - ENEM 2014",
+  "index": 137,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A figura é uma representação tridimensional da molécula do hexafluoreto de enxofre, que tem a forma bipiramidal quadrada, na qual o átomo central de enxofre está cercado por seis átomos de flúor, situados nos seis vértices de um octaedro. O ângulo entre qualquer par de ligações enxofre-flúor adjacentes mede 90°.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/137/137.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/137/137-a.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/137/137-b.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/137/137-c.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/137/137-d.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/137/137-e21.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A vista superior da molécula, como representada na figura, é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/137/137-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/137/137-b.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/137/137-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/137/137-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/137/137-e21.png",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 122 - ENEM 2015",
+  "index": 122,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O rap constitui-se em uma expressão artística por meio da qual os MCs relatam poeticamente a condição social em que vivem e retratam suas experiências cotidianas.\n\n                                                  SOUZA, J.; FIALHO, V. M.; ARALDI, J. Hip hop: da rua para a escola. Porto Alegre: Sulina, 2008",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O “relato poético” é uma característica fundamental desse gênero musical, em que o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "MC canta de forma melodiosa as letras, que retratam a complexa realidade em que se encontra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "rap se limita a usar sons eletrônicos nas músicas, que seriam responsáveis por retratar a realidade da periferia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "rap se caracteriza pela proximidade das notas na melodia, em que a letra é mais recitada do que cantada, como em uma poesia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "MC canta enquanto outros músicos o acompanham com instrumentos, tais como o contrabaixo elétrico e o teclado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "MC canta poemas amplamente conhecidos, fundamentando sua atuação na memorização de suas letras.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

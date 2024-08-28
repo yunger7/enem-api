@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 88 - ENEM 2015",
+  "index": 88,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Bioindicador ou indicador biológico é uma espécie ou grupo de espécies que reflete o estado biótico ou abiótico de um meio ambiente, o impacto produzido sobre um hábitat, comunidade ou ecossistema, entre outras funções. A posição trófica do organismo bioindicador é uma das características mais relevantes quanto ao seu grau de importância para essa função: quanto mais baixo o nível trófico do organismo, maior é a sua utilidade, pois pressupõe-se que todaa cadeia trófica é contaminada a partir dele.\n\n                                                  ANDRÉA, M. M. Bioindicadores ecotoxicológicos de agrotóxicos. Disponível em: www.biologico.sp.gov.br. Acesso em: 11 mar. 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O grupo de organismos mais adequado para essa condição, do ponto de vista da sua posição na cadeia trófica, é constituído por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "algas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "peixes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "baleias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "camarões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "anêmonas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

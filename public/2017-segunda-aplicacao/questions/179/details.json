@@ -1,0 +1,50 @@
+{
+  "year": 2017,
+  "title": "Questão 179 - ENEM 2017",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A lagartixa parte do ponto B e vai até o ponto A. A seguir, de A ela se desloca, pela parede, até o ponto M, que é o ponto médio do segmento EF. Finalmente, pelo teto, ela vai do ponto M até o ponto H. Considere que todos esses deslocamentos foram feitos pelo caminho de menor distância entre os respectivos pontos envolvidos.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/179/179.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/179/179-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/179/179-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/179/179-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/179/179-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/179/179-e.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A projeção ortogonal desses deslocamentos no plano que contém o chão do quarto é dado por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/179/179-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/179/179-b.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/179/179-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/179/179-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/179/179-e.png",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 107 - ENEM 2011",
+  "index": 107,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/107/Enem-2011-ppl-questao-107-e-108-.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As vanguardas europeias não devem ser vistas isoladamente, uma vez que elas apresentam alguns conceitos estéticos e visuais que se aproximam. Com base nos conceitos vanguardistas, entre eles o de exploração de formas geometrizadas do Cubismo, no início do século XX, o quadro Soldados jogando cartas explora uma",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "abordagem sentimentalista do homem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "imagem plana para expressar a industrialização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aproximação impossível entre máquina e homem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uniformidade de tons como crítica à industrialização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "mecanização do homem expressa por formas tubulares.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

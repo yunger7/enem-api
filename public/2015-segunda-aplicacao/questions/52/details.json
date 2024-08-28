@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 52 - ENEM 2015",
+  "index": 52,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Sais de amônio são sólidos iônicos com alto ponto de fusão, muito mais solúveis em água que as aminas originais e ligeiramente solúveis em solventes orgânicos apolares, sendo compostos convenientes para serem usados em xaropes e medicamentos injetáveis. Um exemplo é a efedrina, que funde a 79 °C, tem um odor desagradável e oxida na presença do ar atmosférico formando produtos indesejáveis. O cloridrato de efedrina funde a 217 °C, não se oxida e é inodoro, sendo o ideal para compor os medicamentos.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/52/52-1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com o texto, que propriedade química das aminas possibilita a formação de sais de amônio estáveis, facilitando a manipulação de princípios ativos?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Acidez.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Basicidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Solubilidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Volatilidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Aromaticidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

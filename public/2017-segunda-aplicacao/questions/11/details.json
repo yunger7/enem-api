@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 11 - ENEM 2017",
+  "index": 11,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/11/11.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "No processo de criação da capa de uma revista, é parte importante não só destacar o tema principal da edição, mas também captar a atenção do leitor. Com essa capa sobre os desastres naturais, desperta-se o interesse do leitor ao se apresentar uma ilustração com impacto visual e uma parte verbal que agrega ao texto um caráter",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fantasioso, pois se cria a expectativa de uma matéria jornalística, com a natureza protagonizando ações espetaculares no futuro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "instrucional, pois se cria a expectativa da apresentação de conselhos e orientações para a precaução contra os desastres naturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "alarmista, pois se reforça a imagem da natureza como um agressor e um inimigo temido pela sua avassaladora força de destruição.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "místico, pois se cria uma imagem do espaço brasileiro como ameaçado por uma natureza descontrolada, em meio a um cenário apocalíptico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "intimista, pois se reforça a imagem de uma publicação organizada em torno das impressões e crenças do leitor preocupado com os desastres naturais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 102 - ENEM 2016",
+  "index": 102,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Grupo transforma pele humana em neurônios\nUm grupo de pesquisadores dos EUA conseguiu alterar células extraídas da pele de uma mulher de 82 anos sofrendo de uma doença nervosa degenerativa e conseguiu transformá-las em células capazes de se transformarem virtualmente em qualquer tipo de órgão do corpo. Em outras palavras, ganharam os poderes das células-tronco pluripotentes, normalmente obtidas a partir da destruição de embriões.\nO método usado na pesquisa, descrita hoje na revista Science, existe desde o ano passado, quando um grupo liderado pelo japonês Shinya Yamanaka criou as chamadas iPS (células-tronco de pluripotência induzida). O novo estudo, porem, mostra pela primeira vez que é possível aplicá-lo a células de pessoas doentes, portadoras de esclerose lateral amiotrófica (ELA), mal que destrói o sistema nervoso progressivamente.\n“Pela primeira vez, seremos capazes de observar células com ELA ao microscópio e ver como elas morrem”, disse Valerie Estess, diretora do Projeto ALS (ELA, em inglês), que financiou parte da pesquisa. Observar em detalhes a degeneração pode sugerir novos métodos para tratar a ELA.\n\n                                                  KOLNERKEVIC, I. Folha de S.Paulo. 1 ago. 2008 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A análise dos elementos constitutivos do texto e a identificação de seu gênero permitem ao leitor inferir que o objetivo do autor é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresentar a opinião da diretora do Projeto ALS.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "expor a sua opinião como um especialista no tema.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "descrever os procedimentos de uma experiência científica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "defender a pesquisa e a opinião dos pesquisadores dos EUA.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "informar os resultados de uma nova pesquisa feita nos EUA.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

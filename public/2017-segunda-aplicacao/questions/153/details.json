@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 153 - ENEM 2017",
+  "index": 153,
+  "discipline": "matematica",
+  "language": null,
+  "context": "0 hábito cristalino é um termo utilizado por mineralogistas para descrever a aparência típica de um cristal em termos de tamanho e forma. A granada é um mineral cujo hábito cristalino é um poliedro com 30 arestas e 20 vértices. Um mineralogista construiu um modelo ilustrativo de um cristal de granada pela junção dos polígonos correspondentes às faces.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Supondo que o poliedro ilustrativo de um cristal de granada é convexo, então a quantidade de faces utilizadas na montagem do modelo ilustrativo desse cristal é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "25.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "42.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

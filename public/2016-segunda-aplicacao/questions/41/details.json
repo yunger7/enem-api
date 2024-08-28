@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 41 - ENEM 2016",
+  "index": 41,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "“Precauções que aconselhamos à Sua Alteza, o Sr. Conde D’Eu, quando tiver de visitar escolas. Se Sua Alteza imitasse o seu augusto sogro, Dom Pedro II, não teria nunca Ocasião de contestar fatos históricos”.\n\n                                                  AGOSTINI, A. Revista Ilustrada, n. 309, 29 jul. 1882 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/41/enem2016.2.questao41.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Segundo a charge, os últimos anos da Monarquia foram marcados por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "debates promovidos em espaços públicos, contando com a presença da família real.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "atividades intensas realizadas pelo Conde D’Eu, numa tentativa de salvar o regime monárquico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "revoltas populares em escolas, com o intuito de destituir o monarca do poder e coroar o seu genro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "críticas oriundas principalmente da imprensa, colocando em dúvida a continuidade do regime político.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "dúvidas em torno da validade das medidas tomadas pelo imperador, fazendo com que o Conde D’Eu assumisse o governo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

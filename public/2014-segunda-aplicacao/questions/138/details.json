@@ -1,0 +1,50 @@
+{
+  "year": 2014,
+  "title": "Questão 138 - ENEM 2014",
+  "index": 138,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Corta-se um cubo ABCDEFGH por um plano ortogonal às faces ABCD e EFGH que contém os pontos médios I e J das arestas CD e BC e elimina-se, em seguida, o prisma IJCLKG, obtendo-se o prisma ABJIDEFKLH.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-a.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-b.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-c.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-d.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/138/138-e.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A planificação da superfície do prisma resultante ABJIDEFKLH corresponde à figura",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/138-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/138-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/138-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/138-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/138/138-e.png",
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 112 - ENEM 2012",
+  "index": 112,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/112/Enem-2012-ppl-questao-112.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A unidade de sentido de um texto se constrói a partir daquilo que é dito, daquilo que não é dito, a partir do modo de se dizer, dos motivos, das aparências, do contexto. Nesse sentido, a partir da leitura do anúncio, depreende-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a referência à proibição de beber no trânsito é feita a partir da intertextualidade entre a placa de trânsito, que normalmente remete à ideia de proibição, tendo ao fundo a imagem de uma garrafa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a relação estabelecida entre a frase “novo sinal de trânsito” e a parte não verbal permite estabelecer um público-alvo específico, ou seja, pessoas envolvidas com o álcool.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o adjetivo “novo”, seguido do substantivo “sinal” empregado no anúncio, remete à ideia de que agora existe uma nova placa de trânsito que deve ser respeitada pelos motoristas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o anúncio tem uma finalidade específica interrelacionada, nesse caso, à ideia de persuadir as pessoas a não consumirem bebidas alcoólicas, pois elas fazem mal à saúde.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a conexão estabelecida entre a placa de trânsito e a imagem da garrafa é construída com o objetivo de evidenciar quais são os motivos que levam as pessoas a não ingerirem bebida alcoólica enquanto estão dirigindo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

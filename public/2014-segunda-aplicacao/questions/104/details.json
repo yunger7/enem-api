@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 104 - ENEM 2014",
+  "index": 104,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Os esportes podem ser classificados levando-se em consideração diversos critérios, como a quantidade de competidores, a relação com os companheiros de equipe, a interação com o adversário, o ambiente, o desempenho comparado e os objetivos táticos da ação. Os chamados esportes de invasão ou territoriais são aqueles nos quais os competidores entram no setor defendido pelo adversário, objetivando atingir a meta contrária para pontuar, além de se preocupar em proteger simultaneamente a sua própria meta.\n\n                                                  GONZALEZ, F. J. Revista Digital, Buenos Aires, n. 71, abr. 2004 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "São exemplos de esportes de invasão ou territoriais:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Handebol, basquetebol, futebol e voleibol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Rúgbi, futsal, natação e futebol americano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Tênis de mesa, vôlei de praia, badminton e futevôlei.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Basquetebol, handebol, futebol e futsal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Ginástica olímpica, beisebol, judô e tae kwon do.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 94 - ENEM 2016",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Ante las situaciones adversas algunas personas sufren secuelas a lo largo de toda la vida. Otraas, la mayoria, se sobreponen y la intensidad de las emociones negativas van decreciendo con el tiempo y se adaptan a la nueva situación.\nHay un tercer grupo de personas a las cuales la vivencia del trauma las hace crecer personalmente y sus vidas adquieren un nuevo sentido y salen fortalecidas.\nInvestigadores de la Unidad de Psicologia Básica de la Universidad Autónoma de Barcelona (UAB) han analizado las respuestas de 254 estudiantes de la Facultad de Psicología en diferentes cuestionarios para evaluar su nivel de satisfacción con la vida y encontrar relaciones con su resiliencia y com la capacidad de reparación emocional, uno de los componentes de la inteligencia emocional, que consiste enla habilidad de controlar las propias emociones y las de los demás.\n“Algunas de las caracteristicas de las personas resilientes pueden ser entrenadas y mejoradas, como la autoestima y la regulación de las propias emociones. Con este aprendizaje se podría dotar de recursos a las personas para facilitar su adaptación y mejorar su calidad de vida”, explica Joaquín T. Limonero, profesor del Grupo de Investigación en Estrés y Salud de la UAB y coordinador del estudio.\n\n                                                  Disponível em: www.tendencias21.net. Acesso em: 28 jul. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A reportagem cita uma pesquisa que tem como tema o comportamento das pessoas diante das adversidades. De acordo com o texto, um dos objetivos da investigação com os alunos da Faculdade de Psicologia é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "entender de que forma os traumas sofridos servem de suporte para a resolução dos problemas que surgirão ao longo da vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "compreender como a adaptação das emoções negativas contribui para o desenvolvimento da inteligência emocional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "analisar os vínculos entre a satisfação existencial, a flexibilidade e a habilidade de recuperar-se emocionalmente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "verificar de que forma as pessoas exercitam e melhoram a autoestima e o controle das emoções.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sistematizar maneiras de dotar as pessoas de recursos para lidar com as emoções próprias e alheias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

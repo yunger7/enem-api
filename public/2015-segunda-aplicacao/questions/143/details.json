@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 143 - ENEM 2015",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Sabe-se que o valor cobrado na conta de energia elétrica correspondente ao uso de cada eletrodoméstico é diretamente proporcional à potência utilizada pelo aparelho, medida em watts (W), e também ao tempo que esse aparelho permanece ligado durante o mês. Certo consumidor possui um chuveiro elétrico com potência máxima de 3 600 W e um televisor com potência máxima de 100 W. Em certo mês, a família do consumidor utilizou esse chuveiro elétrico durante um tempo total de 5 horas e esse televisor durante um tempo total de 60 horas, ambos em suas potências máximas.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual a razão entre o valor cobrado pelo uso do chuveiro e o valor cobrado pelo uso do televisor?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 : 1 200",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 : 12",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3 : 1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "36 : 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "432 : 1",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

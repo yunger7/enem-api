@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 83 - ENEM 2015",
+  "index": 83,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A reprodução vegetativa de plantas por meio de estacas é um processo natural. O homem, observando esse processo, desenvolveu uma técnica para propagar plantas em escala comercial.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A base genética dessa técnica é semelhante àquela presente no(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "transgenia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "clonagem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "hibridização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "controle biológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "melhoramento genético.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 123 - ENEM 2013",
+  "index": 123,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Como os gêneros são históricos e muitas vezes estão ligados às tecnologias, eles permitem que surjam novidades nesse campo, mas são novidades com algum gosto do conhecido. Observem-se as respectivas tecnologias e alguns de seus gêneros: telegrama; telefonema; entrevista televisiva; entrevista radiofônica; roteiro cinematográfico e muitos outros que foram surgindo com tecnologias específicas. Neste sentido, é claro que a tecnologia da computação, por oferecer uma nova perspectiva de uso da escrita num meio eletrônico muito maleável, traz mais possibilidades de inovação.\n\n                                                  MARCUSCHI, L. A. Disponível em: www.progesp.ufba.br. Acesso em: 23 jul. 2012 (fragmento).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O avanço das tecnologias de comunicação e informação fez, nas últimas décadas, com que surgissem novos gêneros textuais. Esses novos gêneros, contudo, não são totalmente originais, pois eles inovam em alguns pontos, mas remetem a outros gêneros textuais preexistentes, como ocorre no seguinte caso:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O gênero e-mail mantém características dos gêneros carta e bilhete.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "O gênero aula virtual mantém características do gênero reunião de grupo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O gênero bate-papo virtual mantém características do gênero conferência",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O gênero videoconferência mantém características do gênero aula presencial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O gênero lista de discussão mantém características do gênero palestra.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

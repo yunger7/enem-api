@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 148 - ENEM 2014",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Use 2,8 como aproximação para √8 .",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/148/148.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De acordo com essas informações, o perímetro do terreno, em metros, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "110.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "120.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "124.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "130.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "144.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

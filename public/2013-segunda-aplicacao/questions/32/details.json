@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 32 - ENEM 2013",
+  "index": 32,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A década de 1970 marcou o início das preocupações com a relação entre a atividade produtiva no campo e a preservação do meio ambiente no Brasil. Essa mesma década se destaca pelo avanço das tecnologias de ponta, que passam a ocupar cada vez mais espaço junto à agricultura e, ainda que numa dimensão menor, também, na agricultura familiar.\n\n                                                  SILVA, P.S. Tecnologia e meio ambiente: o processo de modernização da agricultura familiar. Revista da Fapese, v. 3, n. 2, jul.-dez., 2007.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O avanço tecnológico e os impactos socioambientais no campo brasileiro após a década de 1970 evidenciam uma relação de equivalência entre",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "investimento em maquinários e geração de empregos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "expansão das técnicas de cultivo e distribuição fundiária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "crescimento da produtividade e redistribuição espacial do cultivo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "inovações nos pesticidas e redução da contaminação dos trabalhadores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "utilização da engenharia genética e conservação dos biomas ameaçados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 84 - ENEM 2011",
+  "index": 84,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Conhecer o mecanismo de transmissão e disseminação de uma dada enfermidade é de muita importância para fundamentar medidas mais efetivas para o controle da doença. A esquistossomose mansônica, uma doença infecciosa parasitária, é um problema de saúde pública no Brasil. Sua apresentação clínica varia desde a forma assintomática até aquelas extremamente graves. O diagnóstico e o tratamento são relativamente simples, mas a erradicação só é possível com medidas que interrompam o ciclo de vida do parasita.\n\n                                                  Minas faz Ciência. Minas Gerais, set./nov. 2009 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Com base nas informações do texto, avalie qual das propostas seguintes será eficaz no controle da esquistossomose mansônica e na manutenção da saúde geral da população local:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Eliminar os caramujos de regiões afetadas pela esquistossomose, aplicando substâncias tóxicas na água das lagoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Evitar a contaminação de corpos de águas por ovos de esquistossomo, com a construção de instalações sanitárias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Evitar utilizar água de lagoa de regiões afetadas pela esquistossomose para beber ou para o preparo de alimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Impedir o consumo de carne crua ou mal cozida em regiões afetadas pela esquistossomose.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Impedir o consumo humano de hortaliças regadas com água contaminada por esquistossomo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

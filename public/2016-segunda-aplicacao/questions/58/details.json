@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 58 - ENEM 2016",
+  "index": 58,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Suponha que uma doença desconhecida esteja dizimando um rebanho bovino de uma cidade e alguns veterinários tenham conseguido isolar o agente causador da doença, verificando que se trata de um ser unicelular e procarionte.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para combater a doença, os veterinários devem administrar, nos bovinos contaminados,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "vacinas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "antivirais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fungicidas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "vermífugos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "antibióticos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

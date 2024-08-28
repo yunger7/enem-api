@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 171 - ENEM 2016",
+  "index": 171,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Alguns equipamentos eletrônicos podem “queimar” durante o funcionamento quando sua temperatura interna atinge um valor máximo TM. Para maior durabilidade dos seus produtos, a indústria de eletrônicos conecta sensores de temperatura a esses equipamentos, os quais acionam um sistema de resfriamento interno, ligando-o quando a temperatura do eletrônico ultrapassa um nivel crítico Tc , e desligando-o somente quando a temperatura cai para valores inferiores a Tm. O gráfico ilustra a oscilação da temperatura interna de um aparelho eletrônico durante as seis primeiras horas de funcionamento, mostrando que seu sistema de resfriamento interno foi acionado algumas vezes.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/171/quest%C3%A3o-171-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Quantas foram as vezes que o sensor de temperatura acionou o sistema, ligando-o ou desligando-o?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "9",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

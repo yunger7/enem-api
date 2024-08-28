@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 82 - ENEM 2012",
+  "index": 82,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para preparar uma massa básica de pão, deve-se misturar apenas farinha, água, sal e fermento. Parte do trabalho deixa-se para o fungo presente no fermento: ele utiliza amido e açúcares da farinha em reações químicas que resultam na produção de alguns outros compostos importantes no processo de crescimento da massa. Antes de assar, é importante que a massa seja deixada num recipiente por algumas horas para que o processo de fermentação ocorra.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Esse período de espera é importante para que a massa cresça, pois é quando ocorre a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reprodução do fungo na massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "formação de dióxido de carbono.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "liberação de energia pelos fungos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "transformação da água líquida em vapor d’água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "evaporação do álcool formado na decomposição dos açúcares.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

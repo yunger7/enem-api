@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 139 - ENEM 2012",
+  "index": 139,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O consumo de energia elétrica, nos últimos meses, na casa de uma família, é mostrado nas seguintes tabelas.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/139/139.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A média do consumo mensal de energia elétrica na casa dessa família, de setembro de 2011 a fevereiro de 2012, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "280.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "282.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "284.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "288.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "292.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

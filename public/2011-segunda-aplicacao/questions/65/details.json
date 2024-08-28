@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 65 - ENEM 2011",
+  "index": 65,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Do ponto de vista fisiológico, anticorpos são moléculas proteicas produzidas e secretadas por células do sistema imune de mamíferos, conhecidas como linfócitos B. Reconhecem e atacam alvos moleculares específicos, os antígenos, presentes em agentes invasores, como, por exemplo, vírus, bactérias, fungos e células tumorais. Atualmente, algumas empresas brasileiras de biotecnologia vêm desenvolvendo anticorpos em laboratório. Um dos primeiros produtos é utilizado para detecção precoce da ferrugem asiática da soja, doença causada pelo fungo Phakopsora pachyrhizi, capaz de dizimar plantações. Há ainda a produção de kits para fins de pesquisa e diagnóstico de antígenos específicos de interesse para a saúde pública, como hepatite A, B e C, leptospirose e febre amarela.\n\n                                                  VASCONCELOS,Y. In: Anticorpos de valor. Pesquisa FAPESP. N° 170, abr. 2010 (adaptado)",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O desenvolvimento de anticorpos específicos por empresas de biotecnologia será benéfico para a saúde pública, porque proporcionará",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a vacinação em massa da população.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a cura de doenças por meio da terapia gênica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a fabricação de um medicamento que seja mutagênico para os vírus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o tratamento de doenças nos estágios iniciais de seu desenvolvimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "o desenvolvimento de um único fármaco que combata diversos parasitas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

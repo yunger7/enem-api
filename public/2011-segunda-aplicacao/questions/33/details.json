@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 33 - ENEM 2011",
+  "index": 33,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/33/Enem-2011-ppl-questao-33.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Uma família partiu de Porto Alegre (RS), às 8h do dia 1° de janeiro de 2010, portanto, dentro do período de vigência do horário de verão, com destino a Belém (PA). Apesar da distância, a viagem será feita de automóvel e terá duração de 56 horas. Qual o dia e a hora de chegada dessa família à capital paraense?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Dia 2 de janeiro de 2010, às 15h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Dia 3 de janeiro de 2010, às 15h.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Dia 2 de janeiro de 2010, às 16h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Dia 3 de janeiro de 2010, às 16h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Dia 3 de janeiro de 2010, às 17h.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

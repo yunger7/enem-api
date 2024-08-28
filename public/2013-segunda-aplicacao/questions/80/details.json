@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 80 - ENEM 2013",
+  "index": 80,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O manguezal é um dos mais ricos ambientes do planeta, possui uma grande concentração de vida, sustentada por nutrientes trazidos dos rios e das folhas que caem das árvores. Por causa da quantidade de sedimentos — restos de plantas e outros organismos — misturados à água salgada, o solo dos manguezais tem aparência de lama, mas dele resulta uma floresta exuberante capaz de sobreviver naquele solo lodoso e salgado.\n\n                                                  NASCIMENTO, M. S. V. Disponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 3 ago. 2011.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para viverem em ambiente tão peculiar, as plantas dos manguezais apresentam adaptações, tais como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "folhas substituídas por espinhos, a fim de reduzir a perda de água para o ambiente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "folhas grossas, que caem em períodos frios, a fim de reduzir a atividade metabólica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "caules modificados, que armazenam água, a fim de suprir as plantas em períodos de seca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "raízes desenvolvidas, que penetram profundamente no solo, em busca de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "raízes respiratórias ou pneumatóforos, que afloram do solo e absorvem o oxigênio diretamente do ar.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 96 - ENEM 2011",
+  "index": 96,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O Ensino no Novo Milênio\nTecnicamente, o e-learning é o ensino realizado através de meios eletrônicos. É basicamente um sistema hospedado no servidor de uma empresa de qualquer tamanho — ou de pessoa física — que vai transmitir, pela internet ou intranet, informações e instruções aos alunos, visando agregar conhecimento específico. O sistema pode substituir total ou, o que é mais comum, parcialmente, o instrutor como o condutor do processo de ensino.\n\n                                                  PEREIRA, J. Meu Próprio Negócio. São Paulo, nº 87, maio 2010.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A utilização de meios eletrônicos no processo de ensino e aprendizagem é uma realidade da vida contemporânea. O aluno acessa informações e segue instruções visando agregar conhecimento na aprendizagem por meio da educação a distância, a qual",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "promove, no âmbito da educação profissional, a reflexão teórica em detrimento da prática.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "potencializa a autonomia dos sujeitos de aprendizagem e o caráter colaborativo do processo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "prescinde da atuação de um profissional da área pedagógica, substituído pelas ferramentas tecnológicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "proporciona mudança de status social aos estudantes no novo milênio, pela facilidade de interação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "depende de conhecimento técnico específico da área de informática, o que demonstra sua ineficácia atual.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

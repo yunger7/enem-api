@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 91 - ENEM 2015",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Las lenguas existen para comunicarse y para mantener la diversidad cultural de las sociedades. Perder una lengua es perder parte del patrimonio cultural de los pueblos, de ahí que un proyecto de colaboración on-line se haya puesto como meta la protección de la diversidad lingüística mundial. Según los expertos, en 2100 solo se hablará la mitad de las lenguas que siguen vivas en la actualidad, de ahí la importancia de esta iniciativa. En el mundo existen más de 3 000 idiomas en peligro de extinción, pero la tecnología puede impulsar su utilización y conservación. Gracias a la digitalización de documentos, grabación de vídeos y audio en alta calidad, y a la capacidad de compartirlos con el resto del mundo se espera que muchas lenguas que solo hablan o escriben unas miles de personas no caigan en el olvido y estén avocadas a la desaparición. Es el caso de la ya extinguida lengua Miami-Illinois, que hablaban comunidades de indios americanos en el actual Medio Oeste de Estados Unidos y cuyos últimos parlantes murieron en la década de los 1960. Años más tarde un ciudadano de la tribu Miami de Oklahoma aprendió la lengua a través de manuscritos y ahora trata de revitalizar el idioma a base de archivos de audio, relatos. Se trata de solo un ejemplo, pero puede servir como muestra de otros muchos trabajos y del uso de la tecnología y la red con fines lingüistícas.\n\n                                                  Disponível em: www.muyinteresante.es. Acesso em: 22 jul. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Mais que uma forma de comunicação, o idioma de um povo é a marca de sua cultura. Nesse sentido, o texto informa sobre o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uso da tecnologia como ferramenta para a conservação de línguas em vias de extinção.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "importância da valorização da língua oral para a conservação da cultura de um povo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "forma como a língua Miami-Illinois sobreviveu à ameaça de extinção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "evolução natural das línguas, suas adaptações e seu possível desaparecimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "tendência à substituição dos meios de comunicação tradicionais por ferramentas digitais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

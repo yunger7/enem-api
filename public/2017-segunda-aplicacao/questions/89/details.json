@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 89 - ENEM 2017",
+  "index": 89,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/89/89.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O impacto apresentado nesse ambiente tem sido intensificado pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "intervenção direta do homem ao impermeabilizar o solo urbano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "irregularidade das chuvas decorrentes do fenômeno climático El Nino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "queima de combustíveis fósseis como o carvão, o petróleo e o gás natural.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "vaporização crescente dos oceanos devido ao derretimento das geleiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "extinção de organismos marinhos responsáveis pela produção de oxigênio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

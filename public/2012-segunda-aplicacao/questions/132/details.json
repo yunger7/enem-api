@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 132 - ENEM 2012",
+  "index": 132,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Todo bom escritor tem o seu instante de graça, possui a sua obra-prima, aquela que congrega numa estrutura perfeita os seus dons mais pessoais. Para Dias Gomes essa hora de inspiração veio-lhe no dia que escreveu O pagador de promessas. Em torno de Zé-do-Burro — herói ideal, por unir o máximo de caráter ao mínimo de inteligência, naquela zona fronteiriça entre o idiota e o santo — o enredo espalha a malícia e a maldade de uma capital como Salvador, mitificada pela música popular e pela literatura, na qual o explorador de mulheres se chama inevitavelmente Bonitão, o poeta popular, Dedé Cospe-Rima, e o mestre de capoeira, Manuelzinho Sua Mãe. O colorido do quadro contrasta fortemente com a simplicidade da ação, que caminha numa linha reta da chegada de Zé-do-Burro à sua entrada trágica e triunfal na igreja — não sob a cruz, conforme prometera, mas sobre ela, carregado pelos capoeiras, “como um crucifixado”.\n\n                                                  PRADO, D. A. O teatro brasileiro moderno. São Paulo: Perspectiva, 2008 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A avaliação crítica de Décio de Almeida Prado destaca as qualidades de O pagador de promessas. Com base nas ideias defendidas por ele, uma boa obra teatral deve",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "valorizar a cultura local como base da estrutura estética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ressaltar o lugar do oprimido por uma forma religiosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dialogar a tradição local com elementos universais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "romper com a estrutura clássica da encenação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reproduzir abordagens trágicas e pessimistas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

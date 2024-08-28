@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 55 - ENEM 2016",
+  "index": 55,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A sombra do cedro vem se encostar no cocho. Primo Ribeiro levantou os ombros: começa a tremer. Com muito atraso. Mas ele tem no baço duas colmeias de bichinhos maldosos, que não se misturam, soltando enxames no sangue em dias alternados. E assim nunca precisa de passar um dia sem tremer.\n\n                                                  ROSA. J. G. Sagarana. Rio de Janeiro: Nova Fronteira. 1984.\n\n                              \n                                                \n                O texto de João Guimarães Rosa descreve as manifestações das crises paroxísticas da malária em seu personagem. Essas se caracterizam por febre alta, calafrios, sudorese intensa e tremores, com intervalos de 48 h ou 72 h, dependendo da espécie de Plasmodium.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Essas crises periódicas ocorrem em razão da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "lise das hemácias, liberando merozoítos e substâncias denominadas hemozoínas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "invasão das hemácias por merozoítos com maturação até a forma esquizonte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reprodução assexuada dos esporozoítos no fígado do indivíduo infectado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "liberação de merozoítos dos hepatócitos para a corrente sanguínea.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "formação de gametócitos dentro das hemácias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 87 - ENEM 2011",
+  "index": 87,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Escargot é um caramujo comestível, especialmente utilizado na culinária francesa. No Brasil, na década de 1980, empresários brasileiros trouxeram uma espécie de caramujo africano, visando produzi-lo e vendê-lo como escargot. Porém, esses caramujos mostraram-se inúteis para a culinária e foram liberados no ambiente.Atualmente, esse caramujo africano representa um sério problema ambiental em diversos estados brasileiros.\n\n                                                  Caramujos africanos invadem casas em Ribeirão Preto. Disponível em: http://g1.globo.com. Acesso em: 13 ago. 2008 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Além do clima favorável, que outro fator contribui para a explosão populacional do caramujo africano no Brasil?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ausência de inimigos naturais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Alta taxa de mortalidade dos ovos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Baixa disponibilidade de alimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Alta disponibilidade de áreas desmatadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Abundância de espécies nativas competidoras.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

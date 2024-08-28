@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 46 - ENEM 2012",
+  "index": 46,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "No manual de uma máquina de lavar, o usuário vê o símbolo:\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/46/Enem-2012-ppl-questao-46.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Este símbolo orienta o consumidor sobre a necessidade de a máquina ser ligada a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um fio terra para evitar sobrecarga elétrica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "um fio neutro para evitar sobrecarga elétrica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um fio terra para aproveitar as cargas elétricas do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma rede de coleta de água da chuva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uma rede de coleta de esgoto doméstico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

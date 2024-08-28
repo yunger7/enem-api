@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 125 - ENEM 2012",
+  "index": 125,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/125/1251.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Conflitos de interação ajudam a promover o efeito de humor. No cartum, o recurso empregado para promover esse efeito é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "intertextualidade, sugerida pelos traços identificadores do homem urbano e do homem rural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ambiguidade, produzida pela interpretação da fala do locutor a partir da variedade do interlocutor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "conotação, atribuidora de sentidos figurados a palavras relativas às ações e aos seres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "negação enfática, elaborada para reforçar o lamento do interlocutor pela perda da estrada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pergunta retórica, usada pelo motorista para estabelecer interação com o homem do campo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

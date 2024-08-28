@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 1 - ENEM 2016",
+  "index": 1,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "ALBUQUERQUE, M. M.; REIS, A. C. F.; CARVALHO, C. D. Atlas histórico escolar. Rio de Janeiro, Fename, 1977 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/1/enem2016.2.questao1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nos Estados Unidos, durante o século XIX, tal como representada no mapa, a relação entre território e nação foi reconfigurada por uma política que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "transferiu as populações indígenas para territórios de fronteira anexados, protegendo a cultura protestante dos migrantes fundadores da nação norte-americana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "respondeu às ameaças européias pelo fim da escravidão, integrando a população de escravos ao projeto de expansão por meio da doação de terras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "assinou acordos com países latino-americanos, ajudando na reestruturação da economia desses países após suas independências.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "projetou o avanço de populações excedentes para além da faixa atlântica, reformulando fronteiras para o estabelecimento de um país continental.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "instalou manufaturas nas áreas compradas e anexadas, visando utilizar a mão de obra barata das populações em trânsito.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

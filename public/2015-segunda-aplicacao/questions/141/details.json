@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 141 - ENEM 2015",
+  "index": 141,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Alguns brasileiros têm o hábito de trocar de carro a cada um ou dois anos, mas essa prática nem sempre é um bom negócio, pois o veículo desvaloriza com o uso. Esse fator é chamado de depreciação, sendo maior nos primeiros anos de uso.\nUma pessoa realizou uma pesquisa sobre o valor de mercado dos dois veículos (X e Y) que possui. Colocou os resultados obtidos em um mesmo gráfico, pois os veículos foram comprados juntos.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Após a pesquisa, ela decidiu vender os veículos no momento em que completarem quatro anos de uso.\n\n                                                  Disponível em: www.carrosnaweb.com.br. Acesso em: 3 ago. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/141/Sem-t%C3%ADtulo.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando somente os valores de compra e de venda dos veículos por essa pessoa, qual a perda, em reais, que ela terá?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "15 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "25 000,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "35 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "45 000,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 116 - ENEM 2014",
+  "index": 116,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Sem flecha, na rima\n \n O grupo de rap Brô MCs, criado no final de 2009, é formado pelos pares de irmãos (daí o “bro”, de brother) Bruno/Clemerson e Kelvin/Charles, jovens que cresceram ouvindo hip hop nas rádios da aldeia Jaguapiru Bororo, em Dourados, Mato Grosso do Sul. \n \n— Desde o começo a gente não queria impor uma cultura estranha que invadisse a cultura indígena — afirma o produtor, chamando a atenção para o grande destaque do Brô MCs: as letras em língua indígena. Expressar-se em língua originária e fazer com que os jovens indígenas percebam a vitalidade do idioma nativo é uma das motivações do grupo. \n \nA dificuldade maior vem dos críticos, que não aceitam o fato de que a cultura indígena é dinâmica e sempre incorpora novidades. \n \n— “Mas índio cantando rap?”, tem gente que questiona. O rap é de quem canta, é de quem gosta, não é só dos americanos — avalia Dani [o vocal feminino].\n\n                                                  BONFIM, E. Revista Língua Portuguesa, n. 81, jul. 2012 (adaptado)",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando-se as opiniões apresentadas no texto, a indagação “Mas índio cantando rap?” traduz um ponto de vista que evidencia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desqualificação dos indígenas como músicos, desmerecendo sua capacidade musical devido a sua cultura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desvalorização da cultura rap em contrapartida às tradições musicais indígenas, motivo pelo qual os índios não devem cantar rap.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "preconceito por parte de quem não concebe que os índios possam conhecer o rap e, menos ainda, cantar esse gênero musical.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "equívoco por desconsiderar as origens culturais do gênero musical, ligadas ao contexto urbano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "entendimento do rap como um gênero ultrapassado em relação à linguagem musical dos indígenas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 27 - ENEM 2016",
+  "index": 27,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "THAVES. Jornal do Brasil, 19 fev. 1997 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/27/enem2016.questao27.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A forma de organização interna da indústria citada gera a seguinte consequência para a mão de obra nela inserida:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Ampliação da jornada diária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Melhoria da qualidade do trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Instabilidade nos cargos ocupados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Eficiência na prevenção de acidentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Desconhecimento das etapas produtivas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

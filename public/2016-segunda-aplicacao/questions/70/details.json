@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 70 - ENEM 2016",
+  "index": 70,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em uma aula de biologia sobre formação vegetal brasileira, a professora destacou que em uma região, a flora convive com condições ambientais curiosas. As características dessas plantas não estão relacionadas com a falta de água, mas com as condições do solo, que é pobre em sais minerais, ácido e rico em alumínio. Além disso, essas plantas possuem adaptações ao fogo.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As características adaptativas das plantas que correspondem à região destacada pela professora são:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Raízes escoras e respiratórias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Raízes tabulares e folhas largas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Casca grossa e galhos retorcidos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Raízes aéreas e perpendiculares ao solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Folhas reduzidas ou modificadas em espinhos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

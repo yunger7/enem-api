@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 77 - ENEM 2016",
+  "index": 77,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O petróleo é um tipo de combustível fóssil, de origem animal e vegetal, constituído principalmente por hidrocarbonetos. Em desastres de derramamento de petróleo, vários métodos são usados para a limpeza das áreas afetadas. Um deles é a biodegradação por populações naturais de microrganismos que utilizam o petróleo como fonte de nutrientes. O quadro mostra a composição química média das células desses microrganismos.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/77/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-77.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para uma efetiva biodegradação, a região afetada deve ser suplementada com",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nitrogênio e fósforo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "hidrogênio e fósforo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "carbono e nitrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "carbono e hidrogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "nitrogênio e hidrogênio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

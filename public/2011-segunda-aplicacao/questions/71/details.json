@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 71 - ENEM 2011",
+  "index": 71,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em uma região de intensa produtividade agrícola, foram detectados problemas de saúde recorrentes na população. Intrigados com o fato, pesquisadores iniciaram estudos nas águas e nos solos da região e observaram que os rios estavam contaminados com grande quantidade de agrotóxicos e os solos tinham elevadas concentrações de metais pesados, tais como chumbo e mercúrio.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Em relação ao uso de agrotóxicos, a partir da situação hipotética descrita no texto, observa-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os processos naturais são suficientes para purificar o solo e a água contaminados por agrotóxicos nessa região.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o controle do consumo de peixes provenientes dos rios contaminados erradicaria a causa dos problemas de saúde.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a população local deve consumir água filtrada ou fervida, medidas importantes para a eliminação de metais pesados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a proibição de se construir em áreas onde o solo e a água estão contaminados por agrotóxicos bastaria para impedir a contaminação das pessoas com metais pesados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os estudos mais aprofundados de medidas que impeçam a descarga de agrotóxicos e as iniciativas relativas ao correto manejo do solo são indispensáveis ao caso.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

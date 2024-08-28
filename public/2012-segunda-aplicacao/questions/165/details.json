@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 165 - ENEM 2012",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Nas empresas em geral, são utilizados dois tipos de copos plásticos descartáveis, ambos com a forma de troncos de cones circulares retos:• copos pequenos, para a ingestão de café: raios das bases iguais a 2,4 cm e 1,8 cm e altura igual a 3,6 cm;• copos grandes, para a ingestão de água: raios das bases iguais a 3,6 cm e 2,4 cm e altura igual a 8,0 cm.Uma dessas empresas resolve substituir os dois modelos de copos descartáveis, fornecendo para cada um de seus funcionários canecas com a forma de um cilindro circular reto de altura igual a 6 cm e raio da base de comprimento igual a y centímetros. Tais canecas serão usadas tanto para beber café como para beber água.Sabe-se que o volume de um tronco de cone circular reto, cujos raios das bases são respectivamente iguais a R e r e a altura é h, é dado pela expressão:\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/165/165.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O raio y da base dessas canecas deve ser tal que y² seja, no mínimo, igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,664 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7,412 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12,160 cm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "14,824 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "19,840 cm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

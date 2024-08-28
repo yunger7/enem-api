@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 180 - ENEM 2014",
+  "index": 180,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O modelo matemático desenvolvido por Kirschner e Webb descreve a dinâmica da interação das células não infectadas do sistema imunológico humano com os vírus HIV. Os gráficos mostram a evolução no tempo da quantidade de células não infectadas no sistema imunológico de cinco diferentes pacientes infectados pelo vírus HIV. Quando a população das células não infectadas de um sistema imunológico é extinta, o paciente infectado fica mais suscetível à morte, caso contraia alguma outra doença.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/180/180.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A partir desses dados, o sistema imunológico do paciente infectado que ficou mais rapidamente suscetível à morte está representado pelo gráfico",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "D.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "E.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

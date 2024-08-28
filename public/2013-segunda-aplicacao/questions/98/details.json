@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 98 - ENEM 2013",
+  "index": 98,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Aptidão física é a capacidade de realizar as tarefas do dia a dia com o mínimo de fadiga e desconforto. E isso é obtido a partir da constituição física, incluída aí a herança genética. Ter aptidão física é estar com coração, pulmões, vasos sanguíneos e músculos prontos para suportar, sem problemas, as atividades que o corpo realiza. Trata-se de uma condição relativa e mutável, que pode ser melhorada e ampliada conforme o interesse de cada um. Um artista de circo precisa de aptidão para pedalar com o monociclo na corda bamba sem cair; alguém na plateia pode querer apenas acompanhar sua turma em um passeio de bicicleta até uma cachoeira. Ou seja, é você quem decide quão apto quer estar para suas atividades.\n\n                                                  SABA, F. Mexa-se: atividade física, saúde e bem-estar. São Paulo: Phorte, 2008.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A busca por uma melhoria da qualidade de vida exige que as pessoas procurem por um aprimoramento da sua aptidão física, e para isso é necessário que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sejam incorporadas as atividades cotidianas de trabalho a séries de exercício físico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sejam adotados horários fixos para a execução de exercícios corporais, além da genética apropriada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "haja dedicação predominante à prática de exercícios de musculação em relação aos exercícios aeróbicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "haja estímulo ao indivíduo para o desempenho de atividades consonantes com suas necessidades e capacidades físicas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "tenham prioridade, no programa de treinamento, as modalidades esportivas de caráter individual.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

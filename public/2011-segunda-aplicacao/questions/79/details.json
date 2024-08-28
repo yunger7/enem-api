@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 79 - ENEM 2011",
+  "index": 79,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A explosão de uma plataforma de petróleo em frente à costa americana e o vazamento de cerca de mil barris de petróleo por dia no mar provocaram um desastre ambiental. Uma das estratégias utilizadas pela Guarda Costeira para dissipar a mancha negra foi um recurso simples: fogo. A queima da mancha de petróleo para proteger a costa provocará seus próprios problemas ambientais, criando enormes nuvens de fumaça tóxica e deixando resíduos no mar e no ar.\n\n                                                  HIRST, M. Depois de vazamento, situação de petroleira britânica se complica. BBC. Disponível em: http://www.bbc.co.uk. Acesso em: 1 maio 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Além da poluição das águas provocada pelo derramamento de óleo no mar, a queima do petróleo provoca a poluição atmosférica formando uma nuvem negra denominada fuligem, que é proveniente da combustão",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "completa de hidrocarbonetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "incompleta de hidrocarbonetos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "completa de compostos sulfurados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "incompleta de compostos sulfurados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "completa de compostos nitrogenados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

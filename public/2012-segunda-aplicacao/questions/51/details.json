@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 51 - ENEM 2012",
+  "index": 51,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Charles R. Darwin (1809-1882) apresentou em 1859, no livro A origem das espécies, suas ideias a respeito dos mecanismos de evolução pelo processo da seleção natural. Ao elaborar a Teoria da Evolução, Darwin não conseguiu obter algumas respostas aos seus questionamentos.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O que esse autor não conseguiu demonstrar em sua teoria?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A sobrevivência dos mais aptos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A origem das variações entre os indivíduos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "O crescimento exponencial das populações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A herança das características dos pais pelos filhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A existência de características diversas nos seres da mesma espécie.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

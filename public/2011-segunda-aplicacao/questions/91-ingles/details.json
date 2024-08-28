@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 91 - ENEM 2011",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/91/Enem-2011-ppl-questao-91.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Ao estabelecer uma relação entre a Matemática e o blues a partir da opinião pessoal de um dos rapazes, a charge sugere que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as canções iniciadas com a contagem de 1 a 4 fazem lembrar o blues.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o blues, com seu ritmo depressivo, alivia o sentimento causado pela Matemática.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as canções devem se iniciar com a contagem de 1 a 4 para se tornarem tristes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o blues, assim como a Matemática, consegue despertar um sentimento inspirador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o sentimento despertado pela Matemática serve como motivação para o blues.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 112 - ENEM 2014",
+  "index": 112,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Evocação do Recife\nA vida não me chegava pelos jornais nem pelos livros\nVinha da boca do povo na língua errada do povo\nLíngua certa do povo\nPorque ele é que fala gostoso o português do Brasil\nAo passo que nós\nO que fazemos\nÉ macaquear\nA sintaxe lusíada…\n\n                                                  BANDEIRA, M. Estrela da vida inteira. Rio de Janeiro: Nova Fronteira, 2007.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Segundo o poema de Manuel Bandeira, as variações linguísticas originárias das classes populares devem ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "satirizadas, pois as várias formas de se falar o português no Brasil ferem a língua portuguesa autêntica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "questionadas, pois o povo brasileiro esquece a sintaxe da língua portuguesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "subestimadas, pois o português “gostoso” de Portugal deve ser a referência de correção linguística.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "reconhecidas, pois a formação cultural brasileira é garantida por meio da fala do povo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "reelaboradas, pois o povo “macaqueia” a língua portuguesa original.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

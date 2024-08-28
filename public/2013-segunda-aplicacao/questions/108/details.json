@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 108 - ENEM 2013",
+  "index": 108,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/108/108.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O texto apresentado emprega uma estratégia de argumentação baseada em recursos verbais e não verbais, com a intenção de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desaconselhar a ingestão de biscoitos, taxados de “vilões”, inimigos de uma alimentação saudável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "associar a imagem da guloseima a um traço negativo, que se concretiza na utilização do termo “desafio”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "alertar para um problema mundial, como se prevê em “globesidade”, relacionando o açúcar, representado pelo doce, a um vilão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ironizar a importância do problema, por meio do tom dramático da linguagem empregada, como se vê no uso de “culpado” e “vilão”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "atestar a redução do consumo de alimentos calóricos, como o biscoito, desencadeada pelas recentes divulgações de pesquisas comprobatórias do malefício que eles fazem à saúde.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

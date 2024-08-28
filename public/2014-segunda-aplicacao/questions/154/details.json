@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 154 - ENEM 2014",
+  "index": 154,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um artista deseja pintar em um quadro uma figura na forma de triângulo equilátero ABC de lado 1 metro. Com o objetivo de dar um efeito diferente em sua obra, o artista traça segmentos que unem os pontos médios D, E e F dos lados BC, AC e AB, respectivamente, colorindo um dos quatro triângulos menores, como mostra a figura.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/154/154.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é a medida da área pintada, em metros quadrados, do triângulo DEF?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/16",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "√3/16",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "1/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "√3/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "√3/4",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

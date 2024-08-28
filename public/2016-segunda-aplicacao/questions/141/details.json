@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 141 - ENEM 2016",
+  "index": 141,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Nas construções prediais são utilizados tubos de diferentes medidas para a instalação da rede de água. Essas medidas são conhecidas pelo seu diâmetro, muitas vezes medido em polegada. Alguns desses tubos, com medidas em polegada, são os tubos de .",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/141/ef02e957f065026330319e0a42ac1203.png?latex=%5Cfrac%7B1%7D%7B2%7D%2C%5Cfrac%7B3%7D%7B8%7D%2C%5Cfrac%7B5%7D%7B4%7D"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Colocando os valores dessas medidas em ordem crescente, encontramos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/2, 3/8, 5/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/2, 5/4, 3/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3/8, 1/2, 5/4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "3/8, 5/4, 1/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5/4, 1/2, 3/8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

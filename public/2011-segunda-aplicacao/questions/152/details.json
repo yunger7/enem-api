@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 152 - ENEM 2011",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma fábrica de bebidas, a máquina que envasa refrigerantes é capaz de encher 150 garrafas de 2 L a cada minuto e funcionar ininterruptamente durante 8 horas por dia.\n\n                                                Para atender uma encomenda de 198 000 garrafas de 2 L, a máquina é colocada para funcionar todos os dias, a partir do dia 10, sempre das 8 h às 16 h.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A máquina terminará essa tarefa no dia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "11, às 14 h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12, às 14 h.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "13, às 14 h.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12, às 8 h 06 min.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "13, às 8 h 06 min.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

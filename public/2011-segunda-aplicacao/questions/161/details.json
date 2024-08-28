@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 161 - ENEM 2011",
+  "index": 161,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma escola tem um terreno vazio no formato retangular cujo perímetro é 40 m, onde se pretende realizar uma única construção que aproveite o máximo de área possível.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Após a análise realizada por um engenheiro, este concluiu que para atingir o máximo de área do terreno com uma única construção, a obra ideal seria",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um banheiro com 8 m².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "uma sala de aula com 16 m².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um auditório com 36 m².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "um pátio com 100 m².",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "uma quadra com 160 m².",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

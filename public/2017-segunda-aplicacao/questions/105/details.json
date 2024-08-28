@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 105 - ENEM 2017",
+  "index": 105,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O Conselho Nacional do Meio Ambiente (CONAMA) estabelece os limites máximos de chumbo, cádmio e mercúrio para as familiares pilhas e baterias portáteis comercializadas no território nacional e os critérios e padrões para o seu gerenciamento ambientalmente adequado. Os estabelecimentos que comercializam esses produtos, bem como a rede de assistência técnica autorizada, devem receber dos usuários as pilhas e baterias usadas para repasse aos respectivos fabricantes ou importadores.\n\n                                                  Resolução Conama n. 401, de 4 de novembro de 2008. Disponível em: www.mma.gov.br. Acesso em: 14 maio 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Do ponto de vista ambiental, a destinação final apropriada para esses produtos é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "direcionar as pilhas e baterias para compostagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "colocar as pilhas e baterias em um coletor de lixo seletivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "enviar as pilhas e baterias usadas para firmas de recarga.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "acumular as pilhas e baterias em armazéns de estocagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "destinar as pilhas e baterias à reutilização de seus componentes.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

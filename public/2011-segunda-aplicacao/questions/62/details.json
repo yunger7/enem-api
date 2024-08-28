@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 62 - ENEM 2011",
+  "index": 62,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Indivíduos míopes têm dificuldade de enxergar objetos distantes. Para correção desse problema com lentes, o oftalmologista deve medir a distância máxima que o indivíduo pode enxergar nitidamente, que corresponde à distância focal da lente. A vergência (V) de uma lente é numericamente igual ao inverso da distância focal (f), dada em metros (V = 1/f). A vergência é medida em dioptria (di), comumente denominada de graus de uma lente.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Se a distância máxima a que o indivíduo míope enxerga nitidamente for 50 cm, para corrigir o problema, o oftalmologista receitará lentes de vergência",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "-2,00 di.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "-0,02 di.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,02 di.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,20 di.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2,00 di.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

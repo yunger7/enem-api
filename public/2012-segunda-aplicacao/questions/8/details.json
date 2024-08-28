@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 8 - ENEM 2012",
+  "index": 8,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Quanto à deliberação, deliberam as pessoas sobre tudo? São todas as coisas objetos de possíveis deliberações? Ou será a deliberação impossível no que tange a algumas coisas? Ninguém delibera sobre coisas eternas e imutáveis, tais como a ordem do universo; tampouco sobre coisas mutáveis como os fenômenos dos solstícios e o nascer do sol, pois nenhuma delas pode ser produzida por nossa ação.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O conceito de deliberação tratado por Aristóteles é importante para entender a dimensão da responsabilidade humana. A partir do texto, considera-se que é possível ao homem deliberar sobre",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "coisas imagináveis, já que ele não tem controle sobre os acontecimentos da natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ações humanas, ciente da influência e da determinação dos astros sobre as mesmas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fatos atingíveis pela ação humana, desde que estejam sob seu controle.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "fatos e ações mutáveis da natureza, já que ele é parte dela.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "coisas eternas, já que ele é por essência um ser religioso.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

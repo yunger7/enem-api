@@ -1,0 +1,50 @@
+{
+  "year": 2015,
+  "title": "Questão 70 - ENEM 2015",
+  "index": 70,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O alumínio é um metal bastante versátil, pois, a partir dele, podem-se confeccionar materiais amplamente utilizados pela sociedade. A obtenção do alumínio ocorre a partir da bauxita, que é purificada e dissolvida em criolita fundida (Na3AlF6) e eletrolisada a cerca de 1000 °C. Há a liberação do gás dióxido de carbono (CO2), formado a partir da reação de um dos produtos da eletrólise com o materialpresente nos eletrodos. O ânodo é formado por barras de grafita submergidas na mistura fundida. O cátodo é uma caixa de ferro coberta de grafita. A reação global do processo é:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/70/70-1.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/70/70-a.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/70/70-b.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/70/70-c.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/70/70-d.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/70/70-e.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Na etapa de obtenção do alumínio líquido, as reações que ocorrem no cátodo e ânodo são:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/70/70-a.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/70/70-b.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/70/70-c.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/70/70-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/70/70-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

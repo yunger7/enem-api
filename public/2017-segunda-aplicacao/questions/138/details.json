@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 138 - ENEM 2017",
+  "index": 138,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um terremoto teve sua amplitude e frequências medidas e obteve-se A = 1 000 micrômetros e f = 0,2 hertz.\n\n                                                \n                Use -0,7 como aproximação para log (0,2).\n\n                                                  Disponível em: www.mundoeducacao.com.br. Acesso em: 11 jul. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/138/138.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando o quadro apresentado, e analisando o resultado da expressão que fornece a magnitude desse terremoto, conclui-se que ele foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "registrado, mas não percebido pelas pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "percebido, com pequenos tremores notados pelas pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "destrutivo, com consequências significativas em edificações pouco estruturadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "destrutivo, com consequências significativas para todo tipo de edificação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "destrutivo, com consequências nas fundações dos edifícios, fendas no solo e tubulações no subsolo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

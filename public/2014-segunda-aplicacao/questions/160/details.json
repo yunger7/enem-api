@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 160 - ENEM 2014",
+  "index": 160,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Note que, considerando apenas a parte correspondente à refinaria, o preço da gasolina vendida no Brasil é inferior ao preço cobrado nos Estados Unidos, mas os tributos, a distribuição e a revenda aumentam o preço final de venda nos postos brasileiros.\n\n                                                \n                Suponha que fosse tomada a decisão de se diminuir o preço final de venda nos postos brasileiros, sem alterar a parcela do preço da gasolina vendida na refinaria, de modo que o preço final se igualasse ao cobrado nos postos dos Estados Unidos.\n\n                                                  Veja, ed. 2 308, ano 40, n. 7, 13 fev. 2013 (Adaptado).",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/160/160.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O percentual mais aproximado de redução dos valores em tributos, distribuição e revenda seria",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "29.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "44.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "56.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "63.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

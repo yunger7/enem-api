@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 54 - ENEM 2013",
+  "index": 54,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Após o desmonte da bateria automotiva, é obtida uma pasta residual de 6 kg, em que 19%, em massa, é dióxido de chumbo(IV), 60%, sulfato de chumbo(II) e 21%, chumbo metálico. O processo pirometalúrgico é o mais comum na obtenção do chumbo metálico, porém, devido à alta concentração de sulfato de chumbo(II), ocorre grande produção de dióxido de enxofre (SO2), causador de problemas ambientais. Para eliminar a produção de dióxido de enxofre, utiliza-se o processo hidrometalúrgico, constituído de três etapas, no qual o sulfato de chumbo(II) reage com carbonato de sódio a 1,0 mol/L a 45 °C, obtendo-se um sal insolúvel (etapa 1), que, tratado com ácido nítrico, produz um sal de chumbo solúvel (etapa 2) e, por eletrólise, obtém-se o chumbo metálico com alto grau de pureza (etapa 3).\n\n                                                  ARAÚJO, R. V. V. et al. Reciclagem de chumbo de bateria automotiva: estudo de caso. Disponível em: www.iqsc.usp.br. Acesso em: 17 abr. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Considerando a obtenção de chumbo metálico a partir de sulfato de chumbo(II) na pasta residual, pelo processo hidrometalúrgico, as etapas 1, 2 e 3 objetivam, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a lixiviação básica e dessulfuração; a lixiviação ácida e solubilização; a redução do Pb2+ em Pb0 .",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a lixiviação ácida e dessulfuração; a lixiviação básica e solubilização; a redução do Pb4+ em Pb0 .",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a lixiviação básica e dessulfuração; a lixiviação ácida e solubilização; a redução do Pb0 em Pb2+.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a lixiviação ácida e dessulfuração; a lixiviação básica e solubilização; a redução do Pb2+ em Pb0 .",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a lixiviação básica e dessulfuração; a lixiviação ácida e solubilização; a redução do Pb4+ em Pb0 .",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

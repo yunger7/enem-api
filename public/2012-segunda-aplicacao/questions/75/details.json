@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 75 - ENEM 2012",
+  "index": 75,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um dos métodos de produção de biodiesel envolve a transesterificação do óleo de soja utilizando metanol em meio básico (NaOH ou KOH), que precisa ser realizada na ausência de água. A figura mostra o esquema reacional da produção de biodiesel, em que R representa as diferentes cadeias hidrocarbônicas dos ésteres de ácidos graxos.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/75/Enem-2012-ppl-questao-75.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A ausência de água no meio reacional se faz necessária para",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "manter o meio reacional no estado sólido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "manter a elevada concentração do meio reacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "manter constante o volume de óleo no meio reacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "evitar a diminuição da temperatura da mistura reacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "evitar a hidrólise dos ésteres no meio reacional e a formação de sabão.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 63 - ENEM 2016",
+  "index": 63,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Nos anos 1990, verificou-se que o rio Potomac, situado no estado norte-americano de Maryland, tinha, em parte de seu curso, águas extremamente ácidas por receber um efluente de uma mina de carvão desativada, o qual continha ácido sulfúrico (H2SO4). Essa água, embora límpida, era desprovida de vida. Alguns quilômetros adiante, instalou-se uma fábrica de papel e celulose que emprega hidróxido de sódio (NaOH) e carbonato de sódio (Na2CO3) em seus processos. Em pouco tempo, observou-se que, a partir do ponto em que a fábrica lança seus rejeitos no rio, a vida aquática voltou a florescer.\n\n                                                  HARRIS, D. C. Análise química quantitativa. Rio de Janeiro: Livros Técnicos e Científicos, 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A explicação para o retorno da vida aquática nesse rio é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diluição das águas do rio pelo novo efluente lançado nele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "precipitação do íon sulfato na presença do efluente da nova fábrica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "biodegradação do ácido sulfúrico em contato com o novo efluente descartado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Diminuição da acidez das águas do rio pelo efluente da fábrica de papel e celulose.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "volatilização do ácido sulfúrico após contato com o novo efluente introduzido no rio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

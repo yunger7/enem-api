@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 171 - ENEM 2017",
+  "index": 171,
+  "discipline": "matematica",
+  "language": null,
+  "context": "0 governo decidiu reduzir de 25% para 20% o teor de álcool anidro misturado à gasolina vendida nos postos do país. Considere que a média de desempenho, ou seja, a quantidade de quilômetros (km) que um carro anda com 1 litro de combustível, é diretamente proporcional à porcentagem de gasolina presente no combustível, e que a média de desempenho de um carro antes da decisão do governo era de 13,5 km/L.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Nas condições do texto, qual será a estimativa da média de desempenho após a redução de álcool anidro no combustível?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10,80 km/L",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12,65 km/L",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12,82 km/L",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "14,15 km/L",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "14,40 km/L",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

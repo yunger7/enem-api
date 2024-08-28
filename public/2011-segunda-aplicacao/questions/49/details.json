@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 49 - ENEM 2011",
+  "index": 49,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Considera-se combustível aquele material que, quando em combustão, consegue gerar energia. No caso dos biocombustíveis, suas principais vantagens de uso são a de serem oriundos de fontes renováveis e a de serem menos poluentes que os derivados de combustíveis fósseis. Por isso, no Brasil, tem-se estimulado o plantio e a industrialização de sementes oleaginosas para produção de biocombustíveis.\n\n                                                No quadro, estão os valores referentes à energia produzida pela combustão de alguns biocombustíveis:",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/49/Enem-2011-ppl-questao-49.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Entre os diversos tipos de biocombustíveis apresentados no quadro, aquele que apresenta melhor rendimento energético em massa é proveniente",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da soja.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "do dendê.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "do babaçu.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da mamona.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da cana-de-açúcar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

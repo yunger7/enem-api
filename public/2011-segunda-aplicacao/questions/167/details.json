@@ -1,0 +1,50 @@
+{
+  "year": 2011,
+  "title": "Questão 167 - ENEM 2011",
+  "index": 167,
+  "discipline": "matematica",
+  "language": null,
+  "context": "As fábricas de pneus utilizam-se de modelos matemáticos próprios em sua produção, para a adaptação dos vários tipos de pneus aos veículos: de bicicletas a caminhões, tratores e aviões. Um dos conceitos utilizados pela indústria é o de “índice de carga”, que está relacionado à carga máxima que pode ser suportada por um pneu. Uma empresa fabricante de pneus apresenta o seguinte quadro, relativo às cargas máximas suportadas por pneus cujos índices variam de 70 a 80. Há um comportamento regular em alguns intervalos, como se observa entre os índices de 70 a 74.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/167/167.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/167/167-a.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/167/167-b.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/167/167-c.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/167/167-d.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/167/167-e.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual equação representa a dependência entre o índice de carga (I) e a carga máxima (C), em kg, no intervalo de 70 a 74?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/167/167-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/167/167-b.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/167/167-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/167/167-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/167/167-e.png",
+      "isCorrect": false
+    }
+  ]
+}

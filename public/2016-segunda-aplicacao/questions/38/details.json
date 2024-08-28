@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 38 - ENEM 2016",
+  "index": 38,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Ninguém delibera sobre coisas que não podem ser de outro modo, nem sobre as que lhe é impossível fazer. Por conseguinte, como o conhecimento científico envolve demonstração, mas não há demonstração de coisas cujos primeiros princípios são variáveis (pois todas elas poderiam ser diferentemente), e como é impossível deliberar sobre coisas que são por necessidade, a sabedoria prática não pode ser ciência, nem arte: nem ciência, porque aquilo que se pode fazer é capaz de ser diferentemente, nem arte, porque o agir e o produzir são duas espécies diferentes de coisa. Resta, pois, a alternativa de ser ela uma capacidade verdadeira e raciocinada de agir com respeito às coisas que são boas ou más para o homem.\n\n                                                  ARISTÓTELES. Ética a Nicômaco. São Paulo: Abril Cultural, 1980.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Aristóteles considera a ética como pertencente ao campo do saber prático. Nesse sentido, ela difere-se dos outros saberes porque é caracterizada como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "conduta definida pela capacidade racional de escolha.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "capacidade de escolher de acordo com padrões científicos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "conhecimento das coisas importantes para a vida do homem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "técnica que tem como resultado a produção de boas ações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "política estabelecida de acordo com padrões democráticos de deliberação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

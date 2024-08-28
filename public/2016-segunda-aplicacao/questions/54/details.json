@@ -1,0 +1,42 @@
+{
+  "year": 2016,
+  "title": "Questão 54 - ENEM 2016",
+  "index": 54,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Suponha que um pesticida lipossolúvel que se acumula no organismo após ser ingerido tenha sido utilizado durante anos na região do Pantanal, ambiente que tem uma de suas cadeias alimentares representadas no esquema:\nPLÂNCTON –> PULGA-D’ÁGUA –> LAMBARI –> PIRANHA –> TUIUIÚ\nUm pesquisador avaliou a concentração do pesticida nos tecidos de lambaris da região e obteve um resultado de 6,1 partes por milhão (ppm).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-53.png",
+    "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-531.png",
+    "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-532.png",
+    "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-533.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual será o resultado compatível com a concentração do pesticida (em ppm) nos tecidos dos outros componentes da cadeia alimentar?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-53.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-531.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-532.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/54/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-533.png",
+      "isCorrect": false
+    }
+  ]
+}

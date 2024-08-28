@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 101 - ENEM 2014",
+  "index": 101,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Saiba impedir que os cavalos de troia abram a guarda de seu computador\n \nA lenda da Guerra de Troia conta que gregos conseguiram entrar na cidade camuflados em um cavalo e, então, abriram as portas da cidade para mais guerreiros entrarem e vencerem a batalha. Silencioso, o cavalo de troia é um programa malicioso que abre as portas do computador a um invasor, que pode utilizar como quiser o privilégio de estar dentro de uma máquina. Esse malware\né instalado em um computador de forma camuflada, sempre com o “consentimento” do usuário. A explicação é que essa praga está dentro de um arquivo que parece ser útil, como um programa ou proteção de tela — que, ao ser executado, abre caminho para o cavalo de troia. A intenção da maioria dos cavalos de troia  (trojans) não é contaminar arquivos ou hardwares. Atualmente, o objetivo principal dos cavalos de troia é roubar informações de\numa máquina. O programa destrói ou altera dados com intenção maliciosa, causando problemas ao computador ou utilizando-o para fins criminosos, como enviar spams. A primeira regra para evitar a entrada dos cavalos de troia é: não abra arquivos de procedência duvidosa.\n\n                                                  Disponível em: http://idgnow.uol.com.br. Acesso em: 14 ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Cavalo de troia é considerado um malware que invade computadores, com intenção maliciosa. Pelas informações apresentadas no texto, depreende-se que a finalidade desse programa é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "roubar informações ou alterar dados de arquivos de procedência duvidosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "inserir senhas para enviar spams, através de um rastreamento no computador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "rastrear e investigar dados do computador sem o conhecimento do usuário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "induzir o usuário a fazer uso criminoso e malicioso de seu computador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "usurpar dados do computador, mediante sua execução pelo usuário.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

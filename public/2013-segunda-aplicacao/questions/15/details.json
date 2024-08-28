@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 15 - ENEM 2013",
+  "index": 15,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nO Heliocentrismo não é o “meu sistema”, mas a Ordem de Deus.\n\n                                                  COPÉRNICO, N. As revoluções dos orbes celestes [1543]. Lisboa: Fundação Calouste Gulbenkian, 1984.\n\n                              \n                                                \n                TEXTO II\nNão vejo nenhum motivo para que as ideias expostas neste livro (A origem das espécies) se choquem com as\nideias religiosas.\n\n                                                  DARWIN, C. A origem das espécies [1859]. São Paulo: Escala, 2009.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Os textos expressam a visão de dois pensadores — Copérnico e Darwin — sobre a questão religiosa e suas relações com a ciência, no contexto histórico de construção e consolidação da Modernidade. A comparação entre essas visões expressa, respectivamente:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Articulação entre ciência e fé — pensamento científico independente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Poder secular acima do poder religioso — defesa dos dogmas católicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Ciência como área autônoma do saber — razão humana submetida à fé.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Moral católica acima da protestante — subordinação da ciência à religião.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Autonomia do pensamento religioso — fomento à fé por meio da ciência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

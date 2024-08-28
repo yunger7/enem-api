@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 59 - ENEM 2013",
+  "index": 59,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A mosca Drosophila, conhecida como mosca-dasfrutas, é bastante estudada no meio acadêmico pelos geneticistas. Dois caracteres estão entre os mais estudados: tamanho da asa e cor do corpo, cada um condicionado por gene autossômico. Em se tratando do tamanho da asa, a  característica asa vestigial é recessiva e a característica asa longa, dominante. Em relação à cor do indivíduo, a coloração cinza é recessiva e a cor preta, dominante.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em um experimento, foi realizado um cruzamento entre indivíduos heterozigotos para os dois caracteres, do qual foram geradas 288 moscas. Dessas, qual é a quantidade esperada de moscas que apresentam o mesmo fenótipo dos indivíduos parentais?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "288",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "162",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "108",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "54",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

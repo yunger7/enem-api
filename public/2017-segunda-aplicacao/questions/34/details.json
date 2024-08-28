@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 34 - ENEM 2017",
+  "index": 34,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Fazer 70 anos\nFazer 70 anos não é simples.\nA vida exige, para o conseguirmos,\nperdas e perdas no íntimo do ser,\ncomo, em volta do ser, mil outras perdas.\n[…]\nÓ José Carlos, irmão-em-Escorpião!\nNós o conseguimos…\nE sorrimos\nde uma vitória comprada por que preço?\nQuem jamais o saberá?\n\n                                                  ANDRADE, C. D. Amar se aprende amando. São Paulo:\nCírculo do Livro, 1992 (fragmento)",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O pronome oblíquo “o”, nos versos “A vida exige, para o conseguirmos” e “Nós o conseguimos”, garante a progressão temática e o encadeamento textual, recuperando o segmento",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Ó José Carlos”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“perdas e perdas”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“Avidaexige”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“Fazer 70 anos”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "“irmão-em-Escorpião”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

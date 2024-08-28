@@ -1,0 +1,50 @@
+{
+  "year": 2017,
+  "title": "Questão 75 - ENEM 2017",
+  "index": 75,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Projeção cartográfica é uma transformação que faz corresponder, a cada ponto da superfície terrestre, um ponto no plano.\n\nnull",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/75/75-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As relações do plano de projeção à superfície projetada mostradas nas figuras são identificadas, respectivamente, em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/75-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/75-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/75-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/75-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/75/75-e.png",
+      "isCorrect": false
+    }
+  ]
+}

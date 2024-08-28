@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 159 - ENEM 2014",
+  "index": 159,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Os sistemas de cobrança dos serviços de táxi nas cidades A e B são distintos. Uma corrida de táxi na cidade A é calculada pelo valor fixo da bandeirada, que é de R$ 3,45, mais R$ 2,05 por quilômetro rodado. Na cidade B, a corrida é calculada pelo valor fixo da bandeirada, que é de R$ 3,60, mais R$ 1,90 por quilômetro rodado.Uma pessoa utilizou o serviço de táxi nas duas cidades para percorrer a mesma distância de 6 km.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual o valor que mais se aproxima da diferença, em reais, entre as médias do custo por quilômetro rodado ao final das duas corridas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,75",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,38",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,33",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,13",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

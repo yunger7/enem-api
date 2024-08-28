@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 129 - ENEM 2017",
+  "index": 129,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Uma lâmpada é conectada a duas pilhas de tensão nominal 1,5 V, ligadas em série. Um voltímetro, utilizado para medir a diferença de potencial na lâmpada, fornece uma leitura de 2,78 V e um amperímetro indica que a corrente no circuito é de 94,2 mA.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O valor da resistência interna das pilhas é mais próximo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,021 Ω",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,22 Ω",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,26 Ω",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2,3 Ω",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "29 Ω",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

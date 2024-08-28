@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 92 - ENEM 2017",
+  "index": 92,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/92/92.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O bioma brasileiro retratado na canção é caracterizado principalmente por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "índices pluviométricos baixos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "alta taxa de evapotranspiração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "temperatura de clima temperado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "vegetação predominantemente epífita.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "migração das aves no período reprodutivo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

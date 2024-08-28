@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 63 - ENEM 2015",
+  "index": 63,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Observações astronômicas indicam que no centro de nossa galáxia, a Via Láctea, provavelmente exista um buraco negro cuja massa é igual a milhares de vezes a massa do Sol. Uma técnica simples para estimar a massa desse buraco negro consiste em observar algum objeto que orbite ao seu redor e medir o período de uma rotação completa, T, bem como o raio médio, R, da órbita do objeto, que supostamente se desloca, com boa aproximação, em movimento circular uniforme. Nessa situação, considere que a força resultante, devido ao movimento circular, é igual, em magnitude, à força gravitacional que o buraco negro exerce sobre o objeto.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A partir do conhecimento do período de rotação, da distância média e da constante gravitacional, G, a massa do buraco negro é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4π²R²/GT².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "π²R³/2GT².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2π²R³/GT².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "4π²R³/GT².",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "π²R5/GT².",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 112 - ENEM 2015",
+  "index": 112,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/112/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-112.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Nesse texto, associam-se recursos verbais e não verbais na busca de mudar o comportamento das pessoas quanto a uma questão de saúde pública. No cartaz, essa associação é ressaltada no(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "destaque dado ao laço, símbolo do combate à aids, seguido da frase \"Use camisinha\".",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "centralização da mensagem \"Previna-se\".",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "foco dado ao objeto camisinha em imagem e em palavra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "laço como elemento de ligação entre duas recomendações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sobreposição da imagem da camisinha e da boia, relacionada à frase \"Salve vidas\".",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

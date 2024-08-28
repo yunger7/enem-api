@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 161 - ENEM 2013",
+  "index": 161,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Existem hoje, no Brasil, cerca de 2 milhões de pessoas que sofrem de epilepsia. Há diversos meios de tratamento para a doença, como indicado no gráfico:\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/161/161.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Considere um estado do Brasil, onde 400 000 pessoas sofrem de epilepsia. Nesse caso, o número de pessoas que conseguem se recuperar com o uso de medicamentos, ou se curar a partir da cirurgia para retirada da porção doente do cérebro, é aproximadamente",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "42 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "220 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "280 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "340 000.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

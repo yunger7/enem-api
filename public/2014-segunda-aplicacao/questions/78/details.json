@@ -1,0 +1,46 @@
+{
+  "year": 2014,
+  "title": "Questão 78 - ENEM 2014",
+  "index": 78,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A tabela lista os valores de pH de algumas bebidas consumidas pela população.\n\n                                                \n                \n                  \n                                                    \n              \n                                                O esmalte dos dentes é constituído de hidroxiapatita (Ca5(PO4)3OH), um mineral que sofre desmineralização em meio ácido, de acordo com a equação química:",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/78/78-1.jpg",
+    "https://enem.dev/2014-segunda-aplicacao/questions/78/78-2.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Das bebidas listadas na tabela, aquela com menor potencial de desmineralização dos dentes é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "chá.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "café.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "vinho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "refrigerante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "suco de limão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

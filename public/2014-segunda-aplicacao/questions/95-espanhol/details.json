@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 95 - ENEM 2014",
+  "index": 95,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Retomando la inquietud propia y de tanta gente contraria a la denominación racista y xenófoba “Día de la Raza” usada para el feriado 12 de octubre, donde se recuerda el arribo de los primeros europeos a tierras posteriormente nombradas América, reforzamos la idea sumando agrupaciones e independientes de la militancia ciudadana motivados por lo mismo. Puede parecer menor, pero un nombre dice mucho. Es um símbolo, una representación, un código que resume infinidad de cosas desde lo objetivo y desde ló subjetivo. Y lamentablemente no hubo “descubrimiento” sino despojo y apropiación. No hubo “encuentro” sino saqueo y masacre. La propuesta es que la sociedad uruguaya logre una frase sustantiva que guarde memoria de los hechos, apostando a un presente y futuro fraternal e igualitario, y a una convivencia sin hegemonías ni predominios culturales aunque así haya sido el origen de nuestra historia.\n\n                                                  ANDRADE, S. No más Día de la Raza. América Latina en movimiento. Disponível em:\nhttp://alainet.org. Acesso em: 22 fev. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com a expressão Día de la Raza, faz-se referência à chegada dos primeiros europeus em\nterritório americano e denomina-se a comemoração desse dia. A autora do texto sugero o fim\ndessa denominação no Uruguai, acreditando que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a nomenclatura adotada será esquecida, porque é de conhecimento geral que não houve descoberta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a reivindicação convencerá outros grupos e adeptos, porque muitos desconhecem esse nome.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a sociedade deve encontrar uma frase significativa para a preservação da lembrança dos fatos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o convívio permitirá o esquecimento dos massacres, porque não houve encontro no passado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o presente e o futuro são e serão fraternais e igualitários para o estímulo do predomínio cultural.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

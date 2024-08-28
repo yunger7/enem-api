@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 150 - ENEM 2014",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O criador de uma espécie de peixe tem sete tanques, sendo que cada tanque contém 14 600 litros de água. Nesses tanques, existem em média cinco peixes para cada metro cúbico (m³) de água. Sabe-se que cada peixe consome 1 litro de ração por semana. O criador quer construir um silo que armazenará a ração para alimentar sua criação.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual é a capacidade mínima do silo, em litros, para armazenar a quantidade de ração que garantirá a alimentação semanal dos peixes?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "511",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "5 110",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "51 100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "511 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5 110 000",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 132 - ENEM 2014",
+  "index": 132,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Reciclar é só parte da solução\n \n O lixo é um grande problema da sustentabilidade. Literalmente: todos os anos, cada brasileiro produz 385 kg de resíduos — dá 61 milhões de toneladas no total. O certo seria tentar diminuir ao máximo essa quantidade de lixo. Ou seja, em vez de ter objetos recicláveis, o ideal seria produzir sempre objetos reutilizáveis, o que diminui os resíduos. Mas, enquanto isso não acontece, temos que nos contentar com a reciclagem. E é aí que vem um detalhe perigoso: reciclar o lixo também polui o ambiente e gasta energia. Reciclar vidro, por exemplo, é 15% mais caro do que produzi-lo a partir de matérias-primas virgens. Afinal, é feito basicamente de areia, soda e calcário, que são abundantes na natureza. Então, nenhuma empresa tem interesse em reciclá-lo. Já o alumínio é um supernegócio, porque economiza muita energia.\n\n                                                  HORTA, M. Disponível em: http://super.abril.com.br. Acesso em: 25 maio 2012.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O emprego adequado dos elementos de coesão contribui para a construção de um texto argumentativo e para que os objetivos pretendidos pelo autor possam ser alcançados. A análise desses elementos no texto mostra que o conectivo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“ou seja” introduz um esclarecimento sobre a diminuição da quantidade de lixo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“mas” instaura justificativas para a criação de novos tipos de reciclagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C “também” antecede um argumento a favor da reciclagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“afinal” retoma uma finalidade para o uso de matériasprimas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“então” reforça a ideia de escassez de matérias-primas na natureza.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 50 - ENEM 2015",
+  "index": 50,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O urânio é um elemento cujos átomos contêm 92 prótons, 92 elétrons e entre 135 e 148 nêutrons. O isótopo de urânio 235U é utilizado como combustível em usinas nucleares, onde, ao ser bombardeado por nêutrons, sofre fissão de seu núcleo e libera uma grande quantidade de energia (2,35×1010 KJ/mol). O isótopo 235U ocorre naturalmente em minérios de urânio, com concentração de apenas 0,7%. Para ser utilizado na geração de energia nuclear, o minério é submetido a um processo de enriquecimento, visando aumentar a concentração do isótopo 235U para, aproximadamente, 3% nas pastilhas. Em décadas anteriores, houve um movimento mundial para aumentar a geração de energia nuclear buscando substituir, parcialmente, a geração de energia elétrica a partir da queima do carvão, o que diminui a emissão atmosférica de CO2 (gás com massa molar igual a 44 g/mol). A queima do carvão é representada pela equação química:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/50/50-1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é a massa de CO2, em toneladas, que deixa de ser liberada na atmosfera, para cada 100 g de pastilhas de urânio enriquecido utilizadas em substituição ao carvão como fonte de energia?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,10",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7,70",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "9,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "33,0",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "300",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 44 - ENEM 2011",
+  "index": 44,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "De março de 1931 a fevereiro de 1940, foram decretadas mais de 150 leis novas de proteção social e de regulamentação do trabalho em todos os setores. Todas elas têm sido simplesmente uma dádiva do governo. Desde aí, o trabalhador brasileiro encontra nos quadros gerais do regime o seu verdadeiro lugar.\n\n                                                  DANTAS, M. A força nacionalizadora do Estado Novo. Rio de Janeiro: DIP, 1942.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De que maneira as políticas e as mudanças jurídico institucionais implementadas pelo governo de Getúlio Vargas nas décadas de 1930-1940 responderam às lutas e às reivindicações dos trabalhadores?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A criação do Ministério do Trabalho garantiu ao operariado urbano e aos trabalhadores rurais liberdade e autonomia para organizar suas atividades sindicais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A legislação do trabalho e previdência passou a impedir que imigrantes substituíssem brasileiros natos no serviço público, na indústria, no comércio e na agricultura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A Justiça do Trabalho passou a arbitrar os conflitos entre capital e trabalho e, sistematicamente, a apurar e punir os casos de trabalho escravo e infantil no interior do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A legislação e as instituições criadas atendiam às reivindicações dos trabalhadores urbanos, mas dentro de estruturas jurídicas e sindicais tuteladas e corporativistas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A Consolidação das Leis do Trabalho (CLT) suprimiu o arbítrio oficial dos empresários e fazendeiros sobre as atividades políticas de operários e camponeses.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

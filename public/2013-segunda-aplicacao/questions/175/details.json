@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 175 - ENEM 2013",
+  "index": 175,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A tabela apresenta os registros de ocorrência de acidentes de trabalho por categorias econômicas no Brasil, no mês de julho de 2001:\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/175/175.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Considerando os dados dispostos na tabela, uma pessoa que pretende ingressar no mercado de trabalho decide pela ocupação de menor grau de risco de acidente de trabalho. Sabendo que o grau de risco é a probabilidade de ocorrência de acidentes de trabalho em categorias de atividade econômica, sua opção é se empregar na atividade econômica",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "crédito, pois representa risco aproximado de acidente de trabalho igual a 1,15%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "crédito, pois representa risco aproximado de acidente de trabalho igual a 2,58%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "crédito, pois apresenta o menor registro de quantidade de empregados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "administração pública, pois representa risco aproximado de acidente de trabalho igual a 0,18%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "administração pública, pois apresenta o menor registro de afastamento por acidente de trabalho.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

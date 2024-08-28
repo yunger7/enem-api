@@ -1,0 +1,49 @@
+{
+  "year": 2016,
+  "title": "Questão 67 - ENEM 2016",
+  "index": 67,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Nas rodovias, é comum motoristas terem a visão ofuscada ao receberem a luz refletida na água empoçada no asfalto. Sabe-se que essa luz adquire polarização horizontal. Para solucionar esse problema, há a possibilidade de o motorista utilizar óculos de lentes constituídas por filtros polarizadores. As linhas nas lentes dos óculos representam o eixo de polarização dessas lentes",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/67/67-a.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/67/67-b.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/67/67-c.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/67/67-d.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/67/67-e.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Quais são as lentes que solucionam o problema descrito?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/67/67-a.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/67/67-b.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/67/67-c.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/67/67-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/67/67-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

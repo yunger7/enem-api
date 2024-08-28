@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 86 - ENEM 2015",
+  "index": 86,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A fotografia feita sob luz polarizada é usada por dermatologistas para diagnósticos. Isso permite ver detalhes da superfície da pele que detalhes da superfície da pele que não são visíveis com o reflexo da luz branca comum. Para se obeter luz polarizada, pode-se utilizar a luz transmitida por um polaroide ou a luz refletida por uma superfície na condição de Brewster, como mostra a figura. Nessa situação, o feixe da luz refratada forma um ângulo de 90° com o feixe da luz refletida, fenômeno conhecido como Lei de Brewster. Nesse caso, o ângulo de incidência Tp , também chamado de ângulo de polarização, e o ângulo de refração Tr estão em conformidade com a Lei de Snell.\n\n                                                \n                \n                  \n                                                    \n              \n                                                Dados:\nsen 30° = cos 60° = 1/2\nsen 60° = cos 30° = √3/2\n\n                                                Considere um feixe de luz não polarizada proveniente de um meio com índice de refração igual a 1, que incide sobre uma lâmina e faz um ângulo de refração θr de 30°.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/86/86-1.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nessa situação, qual deve ser o índice de refração da lâmina para que o feixe refletido seja polarizado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "√3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "√3/3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "√3/2",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 19 - ENEM 2013",
+  "index": 19,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A substância é um Ser capaz de Ação. Ela é simples ou composta. A substância simples é aquela que não tem partes. O composto é a reunião das substâncias simples ou Mônadas. Monas é uma palavra grega que significa unidade ou o que é uno. Os compostos ou os corpos são Multiplicidades, e as Substâncias simples, as Vidas, as Almas, os Espíritos são unidades. É preciso que em toda parte haja substâncias simples porque sem as simples não haveria as compostas, nem movimento. Por conseguinte, toda natureza está plena de vida.\n\n                                                  LEIBNIZ, G. W. Discurso de metafísicas e outros textos. São Paulo: Matins Fontes, 2004 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Dentre suas diversas reflexões, Leibniz voltou sua atenção para o tema da metafísica, que trata basicamente do fundamento de realidade das coisas do mundo. A busca por esse fundamento muitas vezes é resumida a partir do conceito de substância, que para ele se refere a algo que é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "complexo por natureza, constituindo a unidade mínima do cosmo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estabilizador da realidade, dada a exigência de permanência desta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "desdobrado no composto, em vez de gerá-lo unindose a outras substâncias simples.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "considerado simples e múltiplo a um só tempo, por ser um todo indecomponível constituído de partes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "essencial na estrutura do que existe no mundo, sem deixar de contribuir para o movimento.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 15 - ENEM 2014",
+  "index": 15,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/15/questao15.2014.ppl_.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A variação do número de imigrantes internacionais no Brasil, verificada pela análise do gráfico, é resultado direto da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "situação internacional de crise econômica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "limitação europeia à entrada de estrangeiros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "atração exercida pelas belas paisagens naturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "legislação facilitadora da entrada de estrangeiros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "escolha do país como sede de grandes eventos esportivos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

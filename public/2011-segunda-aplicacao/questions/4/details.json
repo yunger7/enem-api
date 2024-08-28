@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 4 - ENEM 2011",
+  "index": 4,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os impactos positivos da biotecnologia na agricultura envolvem o aprimoramento das práticas de cultivo, a redução da quantidade e melhoria na qualidade dos produtos agrícolas e o aumento da renda dos produtores.\n\n                                                  Disponível em: www.cib.org.br. Acesso em: 26 jul.2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Um argumento que mostra uma desvantagem da utilização da biotecnologia para a sociedade, de modo geral, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a criação de produtos com propriedades nutritivas diferenciadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o desenvolvimento de novas variedades de um determinado produto agrícola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a maior resistência das plantas geneticamente modificadas ao ataque de insetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o desconhecimento acerca de seus possíveis efeitos sobre a saúde humana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "a criação ou adaptação de culturas em solos e climas diferentes daqueles originais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

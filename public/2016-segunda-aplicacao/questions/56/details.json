@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 56 - ENEM 2016",
+  "index": 56,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O soro fisiológico é uma solução aquosa de cloreto de sódio (NaCl) comumente utilizada para higienização ocular, nasal, de ferimentos e de lentes de contato. Sua concentração é 0,90% em massa e densidade igual a 1,00 g/mL.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual massa de NaCl, em grama, deverá ser adicionada à água para preparar 500 mL desse soro?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,90",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4,50",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "9,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "45,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

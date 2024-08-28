@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 101 - ENEM 2016",
+  "index": 101,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O que é Web Semântica?\nWeb Semântica é um projeto para aplicar conceitos inteligentes na internet atual. Nela, cada informação vem com um significado bem definido e não se encontra mais solta no mar de conteúdo, permitindo uma melhor interação com o usuário. Novos motores de busca, interfaces inovadoras, criação de dicionários de sinônimos e a organização inteligente de conteúdos são alguns exemplos de aprimoramento. Dessa forma, você não vai mais precisar minerar a internet em busca daquilo que você procura, ela vai passar a se comportar como um todo, e não mais como um monte de informação empilhada. A implementação deste paradigma começo recentemente, e ainda vai levar mais alguns anos até que entre completamente em vigor e dê um jeito em toda a enorme bagunça que a internet se tornou.\n\n                                                  Disponível em: www.tecmundo.com.br. Acesso em: 6 ago. 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Ao analisar o texto sobre a Web Semântica, deduz-se que esse novo paradigma auxiliará os usuários a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "armazenar grandes volumes de dados de modo mais disperso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "localizar informações na internet com mais precisão.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "captar os dados na internet com mais velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "publicar dados com significados não definidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "navegar apenas sobre dados já organizados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

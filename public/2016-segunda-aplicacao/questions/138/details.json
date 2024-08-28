@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 138 - ENEM 2016",
+  "index": 138,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um vendedor de assinaturas de TV a cabo teve, nos 7 primeiros meses do ano, uma média mensal de 84 assinaturas vendidas. Devido a uma reestruturação da empresa, foi exigido que todos os vendedores tivessem, ao final do ano, uma média mensal de 99 assinaturas vendidas. Diante disso, o vendedor se viu forçado a aumentar sua média mensal de vendas nos 5 meses restantes do ano.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual deverá ser a média mensal de vendas do vendedor, nos próximos 5 meses, para que ele possa cumprir a exigência da sua empresa?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "91",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "105",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "114",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "118",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "120",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

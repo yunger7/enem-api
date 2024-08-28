@@ -1,43 +1,43 @@
 {
-    "title": "Questão 137 - ENEM 2016",
-    "index": 137,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "A",
-    "alternativesIntroduction": "A altura, a largura e a profundidade do desenho impresso para a apresentação serão, respectivamente,",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "22,00 cm, 12,00 cm e 5,00 cm.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "B",
-            "text": "27,50 cm, 15,00 cm e 6,25 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "34,37 cm, 18,75 cm e 7,81 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "35,20 cm, 19,20 cm e 8,00 cm.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "44,00 cm, 24,00 cm e 10,00 cm.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 137 - ENEM 2016",
+  "index": 137,
+  "year": 2016,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em uma empresa de móveis, um cliente encomenda um guarda-roupa nas dimensões 220 cm de altura, 120 cm de largura e 50 cm de profundidade. Alguns dias depois, o projetista, com o desenho elaborado na escala 1 : 8, entra em contato com o cliente para fazer sua apresentação. No momento da impressão, o profissional percebe que o desenho não caberia na folha de papel que costumava usar. Para resolver o problema, configurou a impressora para que a figura fosse reduzida em 20%.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A altura, a largura e a profundidade do desenho impresso para a apresentação serão, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "22,00 cm, 12,00 cm e 5,00 cm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "27,50 cm, 15,00 cm e 6,25 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "34,37 cm, 18,75 cm e 7,81 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "35,20 cm, 19,20 cm e 8,00 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "44,00 cm, 24,00 cm e 10,00 cm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

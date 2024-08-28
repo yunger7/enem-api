@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 87 - ENEM 2016",
+  "index": 87,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A energia nuclear é uma alternativa aos combustíveis fósseis que, se não gerenciada de forma correta, pode causar impactos ambientais graves. O princípio da geração dessa energia pode se basear na reação de fissão controlada do urânio por bombardeio de nêutrons, como ilustrado:\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Um grande risco decorre da geração do chamado lixo atômico, que exige condições muito rígidas de tratamento e armazenamento para evitar vazamentos para o meio ambiente.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/87/enem-2016-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-85.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Esse lixo é prejudicial, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "favorece a proliferação de microrganismos termófilos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "produz nêutrons livres que ionizam o ar, tornando-o condutor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "libera gases que alteram a composição da atmosfera terrestre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "acentua o efeito estufa decorrente do calor produzido na fissão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "emite radiação capaz de provocar danos à saúde dos seres vivos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

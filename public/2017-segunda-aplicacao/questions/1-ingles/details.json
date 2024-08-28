@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 1 - ENEM 2017",
+  "index": 1,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": "The Four Oxen and the Lion\nA Lion used to prowl about a field in which Four Oxen used to live. Many a time he tried to attack them; but whenever he came near, they turned their tails to one\nanother, so that whichever way he approached them he was met by the horns of one of them. At last, however, they quarreled among themselves, and each went off to pasture alone in a separate comer of the field. Then the Lion attacked them one by one and soon made an end of all four.\n\n                                                  Disponível em: www.aesopfables.com. Acesso em: 1 dez. 2011.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A fábula The Four Oxen and the Lion ilustra um preceito moral, como se espera em textos desse gênero. Essa moral, podendo ser compreendida como o tema do texto, está expressa em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O mais forte sempre vence",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A união faz a força.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A força carrega a justiça nas costas",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O ataque é a melhor defesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O inimigo da vida é a morte.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

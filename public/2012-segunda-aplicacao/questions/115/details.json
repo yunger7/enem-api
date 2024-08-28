@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 115 - ENEM 2012",
+  "index": 115,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Quando a propaganda é decisiva na troca de marcas\nTodo supermercadista sabe que, quando um produto está na mídia, a procura pelos consumidores aumenta. Mas, em algumas categorias, a influência da propaganda é maior, de acordo com pesquisa feita com 400 pessoas pela consultoria YYY e com exclusividade para o supermercado XXX.\nO levantamento mostrou que, mesmo não sendo a razão o fator mais apontado para trocar de marca, não se pode ignorar a força das campanhas publicitárias. Em algumas categorias, um terço dos respondentes atribuem a mudança à publicidade. Para Nicanor Guerreiro, a propaganda estabelece uma relação mais “emocional” da marca com o público. “Todos sentimos necessidade de consumir produtos que sejam ‘aceitos’ pelas outras pessoas. Por isso, a comunicação faz o papel de endosso das marcas”, afirma. O executivo ressalta, no entanto, que nada disso adianta se o produto não cumprir as promessas transmitidas nas ações de comunicação.\nUm dos objetivos da propaganda é tornar o produto aspiracional, despertando o desejo de experimentá-lo. O que o consumidor deseja é o que a loja vende. E é isso o que o supermercadista precisa ter sempre em mente.\nVeja o gráfico:",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/115/Enem-2012-ppl-questao-115.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "De acordo com o texto e com as informações fornecidas pelo gráfico, para aumentar as vendas de produtos, é necessário que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a campanha seja centrada em produtos alimentícios, a fim de aumentar o percentual de troca atual que se apresenta como o mais baixo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a preferência de um produto ocorra por influência da propaganda devido à necessidade emocional das marcas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a propaganda influencie na troca de marca e que o consumidor valorize a qualidade do produto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "os produtos mais vendidos pelo comércio não sejam divulgados para o público como tal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as marcas de qualidade inferior constituam o foco da publicidade por serem mais econômicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 143 - ENEM 2014",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma fábrica de rapadura vende seus produtos empacotados em uma caixa com as seguintes dimensões: 25 cm de comprimento; 10 cm de altura e 15 cm de profundidade. O lote mínimo de rapaduras vendido pela fábrica é um agrupamento de 125 caixas dispostas conforme a figura.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/143/143.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é o volume do lote mínimo comercializado pela fábrica de rapaduras?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3 750 cm³",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "18 750 cm³",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "93 750 cm³",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "468 750 cm³",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "2 343 750 cm³",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

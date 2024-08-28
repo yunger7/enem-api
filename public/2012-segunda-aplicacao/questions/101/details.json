@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 101 - ENEM 2012",
+  "index": 101,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "No Brasil de hoje são falados por volta de 200 idiomas. As nações indígenas do país falam cerca de 180 línguas, e as comunidades de descendentes de imigrantes cerca de 30 línguas. Há uma ampla riqueza de usos, práticas e variedades no âmbito da própria língua portuguesa falada no Brasil, diferenças estas de caráter diatópico (variações regionais) e diastrático (variações de classes sociais) pelo menos. Somos, portanto, um país de muitas línguas, tal qual a maioria dos países do mundo (em 94% dos países são faladas mais de uma língua).\nFomos no passado, ainda muito mais do que hoje, um território plurilíngue. Cerca de 1078 línguas indígenas eram faladas quando aqui aportaram os portugueses, há 500 anos, segundo estimativas de Rodrigues (1993). Porém, o Estado português e, depois da independência, o Estado brasileiro, que o sucedeu, tiveram por política impor o português como a única língua legítima, considerando-a “companheira do Império”. A política linguística principal do Estado sempre foi a de reduzir o número de línguas, num processo de glotocídio (eliminação de línguas) por meio do deslocamento linguístico, isto é, de sua substituição pela língua portuguesa. Somente na primeira metade do século XX, segundo Darcy Ribeiro, 67 línguas indígenas desapareceram no Brasil — mais de uma por ano, portanto. Das cerca de 1 078 línguas indígenas faladas em 1 500, ficamos com aproximadamente 180 em 2000 (um decréscimo de 85%), e várias destas 180 encontram-se em estado avançado de desaparecimento.\n\n                                                  Disponível em: www.cultura.gov. Acesso em: 28 fev. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As línguas indígenas contribuíram, entre outros aspectos, para a introdução de novas palavras no português do Brasil. De acordo com o texto apresentado, infere-se que a redução do número de línguas indígenas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ocasionou graves consequências para a preservação do nosso patrimônio linguístico e cultural, uma vez que a redução dessas línguas significa a perda da herança cultural de um povo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "manteve a preservação de nosso patrimônio linguístico e cultural, porque, assim como algumas línguas morrem, outras nascem de tempos em tempos, o que contribui para a conservação do idioma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "foi um processo natural pelo qual a língua portuguesa passou, não significando, portanto, prejuízos para o patrimônio linguístico do Brasil, que se conservou inalterado até nossos dias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "contribuiu para a mudança de posicionamento da política linguística do Estado, que passou a desconsiderar as línguas indígenas como um importante meio de comunicação dos primeiros habitantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "representou uma fase do desenvolvimento da língua portuguesa, que, como qualquer outra língua, passou pelo processo de renovação vocabular, que exige a redução das línguas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 178 - ENEM 2014",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um confeiteiro deseja fazer um bolo cuja receita indica a utilização de açúcar e farinha de trigo em quantidades fornecidas em gramas. Ele sabe que uma determinada xícara utilizada para medir os ingredientes comporta 120 gramas de farinha de trigo e que três dessas xícaras de açúcar correspondem, em gramas, a quatro de farinha de trigo.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Quantos gramas de açúcar cabem em uma dessas xícaras?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "40",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "90",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "160",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "360",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

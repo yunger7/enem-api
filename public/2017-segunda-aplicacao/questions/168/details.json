@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 168 - ENEM 2017",
+  "index": 168,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O aluno analisou os cinco tipos de folha e comprou a que possuía as dimensões mínimas necessárias para que ele fizesse a planta de sua casa na escala desejada, deixando exatamente 2 centímetros de margem em cada um dos quatro lados da folha.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/168/168.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A folha escolhida pelo aluno foi a de tipo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

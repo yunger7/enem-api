@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 165 - ENEM 2013",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma casa, há um espaço retangular medindo 4 m por 6 m, onde se pretende colocar um piso de cerâmica resistente e de bom preço. Em uma loja especializada, há cinco possibilidades de pisos que atendem às especificações desejadas, apresentadas no quadro:\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/165/165.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Levando-se em consideração que não há perda de material, dentre os pisos apresentados, aquele que implicará o menor custo para a colocação no referido espaço é o piso",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

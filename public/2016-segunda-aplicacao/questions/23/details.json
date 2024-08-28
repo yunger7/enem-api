@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 23 - ENEM 2016",
+  "index": 23,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nO Cerrado brasileiro apresenta diversos aspectos favoráveis, mas tem como problema a baixa fertilidade de seus solos. A grande maioria é ácido, com baixo pH.\n\n                                                  Disponível em: www.fmb.edu.br. Acesso em: 21 dez. 2012 (adaptado).\n\n                              \n                                                \n                TEXTO II\nO crescimento da participação da Região Central do Brasil na produção de soja foi estimulado, entre outros fatores, por avanços científicos em tecnologias para manejo de solos.\n\n                                                  Disponível em: www.conhecer.org.br. Acesso em: 19 dez. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nos textos, são apresentados aspectos do processo de ocupação de um bioma brasileiro. Uma tecnologia que permite corrigir os limites impostos pelas condições naturais está indicada em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Calagem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Hidroponia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Terraceamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Cultivo orgânico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Rotação de culturas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 141 - ENEM 2011",
+  "index": 141,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Os alunos da 3ª série do ensino médio da escola Z fizeram dois simulados de matemática, cada um com 8 questões de múltipla escolha, no valor de 0,5 ponto cada. Há apenas uma alternativa correta por questão. O quadro mostra o percentual de alunos que acertaram cada questão, em cada um dos simulados.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/141/141.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Sabendo-se que o número de alunos que fizeram os simulados foi o mesmo, a média geral da turma, considerando as notas dos dois simulados, mais aproximada, é de,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3,7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,9.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,7.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

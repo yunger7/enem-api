@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 47 - ENEM 2013",
+  "index": 47,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A fabricação de cerveja envolve a atuação de enzimas amilases sobre as moléculas de amido da cevada. Sob temperatura de cerca de 65 °C, ocorre a conversão do amido em maltose e glicose. O caldo obtido (mosto) é fervido para a inativação das enzimas. Após o resfriamento e a filtração, são adicionados o lúpulo e a levedura para que ocorra a fermentação. A cerveja sofre maturação de 4 a 40 dias, para ser engarrafada e pasteurizada.\n\n                                                  PANEK, A. D. Ciência Hoje, São Paulo, v. 47, n. 279, mar. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Dentre as etapas descritas, a atividade biológica no processo ocorre durante o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "filtração do mosto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "resfriamento do mosto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pasteurização da bebida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fermentação da maltose e da glicose.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "inativação enzimática no aquecimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

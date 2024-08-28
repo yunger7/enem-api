@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 15 - ENEM 2011",
+  "index": 15,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Poucos países têm uma história eleitoral tão rica quanto a do Brasil. Durante o período colonial, a população das vilas e cidades elegia os representantes dos Conselhos Municipais. As primeiras eleições gerais para escolha dos representantes à Corte de Lisboa ocorreram em 1821. Desde 1824, quando aconteceu a primeira eleição pós-independência, foram eleitas 52 legislaturas para a Câmara dos Deputados. E, somente durante o Estado Novo (1937-1945), as eleições para a Câmara foram suspensas.\n\n                                                  NICOLAU, J. História do voto no Brasil.\nRio de Janeiro: Jorge Zahar, 2004 (adaptado)",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Embora o Brasil tenha um longo histórico de eleições para o Poder Legislativo, em diversas oportunidades os pleitos ocorreram com sérias restrições ao pleno exercício da cidadania. Um período da história brasileira com eleições legislativas e uma restrição à cidadania política estão elencados, respectivamente, em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I Reinado (1822-1831) – exclusão dos analfabetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II Reinado (1840-1889) – exigência de renda.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Primeira República (1889-1930) – exclusão dos escravos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "República Liberal (1945-1964) – exigência de curso superior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Nova República (após 1985) – exclusão das mulheres.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

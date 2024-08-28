@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 62 - ENEM 2016",
+  "index": 62,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A modernização da agricultura, também conhecida como Revolução Verde, ficou marcada pela expansão da agricultura nacional. No entanto, trouxe consequências como o empobrecimento do solo, o aumento da erosão e dos custos de produção, entre outras. Atualmente, a preocupação com a agricultura sustentável tem suscitado práticas como a adubação verde, que consiste na incorporação ao solo de fitomassa de espécies vegetais distintas, sendo as mais difundidas as leguminosas.\n\n                                                  ANUNCIAÇÃO. G. C. F. Disponível em: www.muzifsuidemlnesadubr. Acesso em: 20 dez 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A utilização de leguminosas nessa prática de cultivo visa reduzir a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "utilização de agrotóxicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "atividade biológica do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "necessidade do uso de fertilizantes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "decomposição da matéria orgânica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "capacidade de armazenamento de água no solo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

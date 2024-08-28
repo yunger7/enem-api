@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 73 - ENEM 2012",
+  "index": 73,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em apresentações musicais realizadas em espaços onde o público fica longe do palco, é necessária a instalação de alto-falantes adicionais a grandes distâncias, além daqueles localizados no palco. Como a velocidade com que o som se propaga no ar (vsom = 3,4 × 102 m/s) é muito menor do que a velocidade com que o sinal elétrico se propaga nos cabos (vsinal = 2,6 × 108 m/s), é necessário atrasar o sinal elétrico de modo que este chegue pelo cabo ao alto-falante no mesmo instante em que o som vindo do palco chega pelo ar. Para tentar contornar esse problema, um técnico de som pensou em simplesmente instalar um cabo elétrico com comprimento suficiente para o sinal elétrico chegar ao mesmo tempo que o som, em um alto-falante que está a uma distância de 680 metros do palco.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A solução é inviável, pois seria necessário um cabo elétrico de comprimento mais próximo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,1 × 10^3  km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "8,9 × 10^4  km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,3 × 10^5  km.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5,2 × 10^5  km.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "6,0 × 10^13 km.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

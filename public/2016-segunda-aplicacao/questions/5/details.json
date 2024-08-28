@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 5 - ENEM 2016",
+  "index": 5,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Xilogravura, 1869. O indígena, representando o Império, coroa com louros o monarca.\n\n                              \n                                                \n                Com seu manto real em verde e amarelo, as cores da casa dos Habsburgo e Bragança, mas que lembravam também os tons da natureza do “Novo Mundo”, cravejado de estrelas representando o Cruzeiro do Sul e, finalmente, com o cabeção de penas de papo de tucano em volta do pescoço, D. Pedro II foi coroado imperador do Brasil. O monarca jamais foi tão tropical. Entre muitos ramos de café e tabaco, coroado como um César em meio a coqueiros e paineiras, D. Pedro transformava-se em sinônimo da nacionalidade.\n\n                                                  SCHWARCZ, L. M. As barbas do imperador: D. Pedro II, um monarca nos trópicos. São Paulo: Cia. das Letras, 1998 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/5/enem2016.2.questao5.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No Segundo Reinado, a Monarquia brasileira recorreu ao simbolismo de determinadas figuras e alegorias. A análise da imagem e do texto revela que o objetivo de tal estratégia era",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "exaltar o modelo absolutista e despótico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "valorizar a mestiçagem africana e nativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reduzir a participação democrática e popular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mobilizar o sentimento patriótico e antilusitano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "obscurecer a origem portuguesa e colonizadora.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

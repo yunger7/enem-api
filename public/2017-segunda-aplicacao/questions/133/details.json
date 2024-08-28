@@ -1,0 +1,49 @@
+{
+  "year": 2017,
+  "title": "Questão 133 - ENEM 2017",
+  "index": 133,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Dados compilados por Jeremy Jackson, do Instituto Scripps de Oceanografia (EUA), mostram que o declínio de 90% dos indivíduos de 11 espécies de tubarões do Atlântico Norte, causado pelo escesso de pesca, fez com que a população de uma arraia. normalmente devorada por eles, explodisse para 40 milhões de indivíduos. Doce vingança: essa horda de arraias é capaz de devorar 840 mil toneladas de moluscos por ano, o que provavelmente explica o colapso da antes lucrativa pesca de mariscos na Baía de Chesapeake (EUA).\n\n                                                  Lopes, R. J. Nós, o asteróide. Revista Unesp Ciência, abr. 2010. Disponível em: https://issuu.com. Acesso em: 9 maio 2017 (adaptado).",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/133/133-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/133/133-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/133/133-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/133/133-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/133/133-e.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual das figuras representa a variação do tamanho populacional de tubarões, arraias e moluscos no Atlântico Norte, a partir do momento em que a pesca de tubarões foi iniciada (tempo zero)?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/133/133-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/133/133-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/133/133-c.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/133/133-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/133/133-e.png",
+      "isCorrect": false
+    }
+  ]
+}

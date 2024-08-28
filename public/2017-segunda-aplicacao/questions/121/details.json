@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 121 - ENEM 2017",
+  "index": 121,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Rudolf Diesel patenteou um motor a combustão interna de elevada eficiência, cujo ciclo está esquematizado no diagrama pressão x volume. O ciclo Diesel é composto por quatro etapas, duas das quais são adiabáticas. O motor de Diesel é caracterizado pela compressão de ar apenas, com a injeção do combustível no final.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/121/121.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No ciclo Diesel, o calor é absorvido em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A -> B e C -> D, pois em ambos ocorre realização de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A -> B e B -> C, pois em ambos ocorre elevação da temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C -> D, pois representa uma expansão adiabática e o sistema realiza trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A-> B, pois representa uma compressão adiabática em que ocorre elevação da temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "B -> C, pois representa expansão isobárica em que o sistema realiza trabalho e a temperatura se eleva.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

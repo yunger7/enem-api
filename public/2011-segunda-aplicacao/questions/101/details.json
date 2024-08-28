@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 101 - ENEM 2011",
+  "index": 101,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Brazil, capital Buenos Aires\nNo dia em que a bossa nova inventou o Brazil\nTeve que fazer direito, senhores pares,\nPorque a nossa capital era Buenos Aires,\nA nossa capital era Buenos Aires.\nE na cultura-Hollywood o cinema dizia\nQue em Buenos Aires havia uma praia\nChamada Rio de Janeiro\nQue como era gelada só podia ter\nCarnaval no mês de fevereiro.\nNaquele Rio de Janeiro o tango nasceu\nE Mangueira o imortalizou na avenida\nOriginária das tangas\nCom que as índias fingiam\nCobrir a graça sagrada da vida.\n\n                                                  Tom Zé. Disponível em http://letras.terra.com.br. Acesso em: abr. 2010.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O texto de Tom Zé, crítico de música, letrista e cantor, insere-se em um contexto histórico e cultural que, dentro da cultura literária brasileira, define-se como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "contemporâneo à poesia concretista e por ela influenciado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sucessor do Romantismo e de seus ideais nacionalistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "expressão do modernismo brasileiro influenciado pelas vanguardas europeias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "representante da literatura engajada, de resistência ao Estado Novo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "precursor do movimento de afirmação nacionalista, o Tropicalismo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

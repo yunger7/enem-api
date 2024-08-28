@@ -1,0 +1,46 @@
+{
+  "year": 2014,
+  "title": "Questão 141 - ENEM 2014",
+  "index": 141,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Pesquisadores elaboraram a tabela com alguns alimentos e as suas respectivas quantidades de ferro:\n\n                                                \n                \n                  \n                                                    \n              \n                                                A diretora de uma escola sabe que deve escolher para o almoço de seus alunos o máximo de cardápios possíveis entre três cardápios existentes, no(s) qual(is) cada porção equivale a 100 g e cada copo a 50 g.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/141/141-1.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/141/141-2.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para ter certeza de que seus alunos estão ingerindo a quantidade mínima de ferro recomendada, a diretora deve escolher o(s) cardápio(s)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 ou 2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1 ou 3.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

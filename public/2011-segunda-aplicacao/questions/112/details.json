@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 112 - ENEM 2011",
+  "index": 112,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Nascido em 1935, José Francisco Borges ou J. Borges, como prefere ser chamado, é um dos mais expressivos artistas populares do Brasil. Considerado por Ariano Suassuna o maior gravador popular do país, o artista foi um dos ilustradores do calendário da ONU do ano de 2002. Autodidata, J. Borges publicou seu primeiro cordel em 1964, intitulado O Encontro de Dois Vaqueiros no Sertão de Petrolina, seguido de O Verdadeiro Aviso de Frei Damião Sobre os Castigos que Vêm, cuja publicação deu início à sua carreira de gravador. Na década de 1970, artistas plásticos, intelectuais e marchands passaram a encomendar suas xilogravuras, o que levou as imagens a ganharem cada vez mais autonomia em relação ao cordel. Desde então, o itinerário do artista vem se fortalecendo pela transmissão dos conhecimentos da xilogravura às novas gerações de sua família, com quem mantém a Casa de Cultura Serra Negra, no sertão pernambucano.\n\n                                                  Disponível em: http://msn.onne.com.br. Acesso em: 21 maio 2010.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/112/Enem-2011-ppl-questao-112.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A xilogravura é um meio de expressão de grande força artística e literária no Brasil, especialmente no Nordeste brasileiro, onde os artistas populares talham a madeira, transformando-a em verdadeiras obras de arte. Com total liberdade artística, hoje já conquistaram espaço entre os diversos setores culturais do país, retratando cenas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do seu próprio universo, revelando personagens com aparência humilde em vestes requintadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "com temas de personagens do folclore popular, crenças e futilidades dos mais necessitados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "de conteúdo histórico e político do Nordeste brasileiro, com a intenção de valorizar as diferenças sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "das grandes cidades, com a preocupação de uma representação realista da figura humana nordestina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "com personagens fantasiosos, beatos e cangaceiros presentes nas crenças da população nordestina.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

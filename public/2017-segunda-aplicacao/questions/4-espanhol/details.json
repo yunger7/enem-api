@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 4 - ENEM 2017",
+  "index": 4,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/4/4-espanhol.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O texto publicitário objetiva a adesão do público a uma campanha ambiental. A relação estabelecida entre o enunciado “Lo que le haces al planeta, te Io haces a ti” e os elementos não verbais pressupõe que as atitudes negativas do homem para com o planeta",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aceleram o envelhecimento da pele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "provocam a ocorrência de seca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aumentam o dano atmosférico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "prejudicam o próprio homem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "causam a poluição industrial.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

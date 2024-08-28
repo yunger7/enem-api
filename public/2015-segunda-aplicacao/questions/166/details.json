@@ -1,0 +1,50 @@
+{
+  "year": 2015,
+  "title": "Questão 166 - ENEM 2015",
+  "index": 166,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma empresa necessita colorir parte de suas embalagens, com formato de caixas cúbicas, para que possa colocar produtos diferentes em caixas distintas pela cor, utilizando para isso um recipiente com tinta, conforme Figura 1. Nesse recipiente, mergulhou-se um cubo branco, tal como se ilustra na Figura 2. Desta forma, a parte do cubo que ficou submersa adquiriu a cor da tinta.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166a.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166b.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166c.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166d.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166e.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é a planificação desse cubo após subermerso?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166c.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/166/enem2015.2.quest%C3%A3o166e.png",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 53 - ENEM 2011",
+  "index": 53,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Uma opção não usual, para o cozimento do feijão, é o uso de uma garrafa térmica. Em uma panela, coloca-se uma parte de feijão e três partes de água e deixa-se ferver o conjunto por cerca de 5 minutos, logo após transfere-se todo o material para uma garrafa térmica. Aproximadamente 8 horas depois, o feijão estará cozido",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O cozimento do feijão ocorre dentro da garrafa térmica, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a água reage com o feijão, e essa reação é exotérmica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o feijão continua absorvendo calor da água que o envolve, por ser um processo endotérmico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o sistema considerado é praticamente isolado, não permitindo que o feijão ganhe ou perca energia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a garrafa térmica fornece energia suficiente para o cozimento do feijão, uma vez iniciada a reação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a energia envolvida na reação aquece a água, que mantém constante a temperatura, por ser um processo exotérmico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

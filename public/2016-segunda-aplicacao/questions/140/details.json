@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 140 - ENEM 2016",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um banco de sangue recebe 450 mL de sangue de cada doador. Após separar o plasma sanguíneo das hemácias, o primeiro é armazenado em bolsas de 250 mL de capacidade. O banco de sangue aluga refrigeradores de uma empresa para estocagem das bolsas de plasma, segundo a sua necessidade. Cada refrigerador tem uma capacidade de estocagem de 50 bolsas. Ao longo de uma semana, 100 pessoas doaram sangue àquele banco.\nAdmita que, de cada 60 mL de sangue, extraem-se 40 mL de plasma.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O número mínimo de congeladores que o banco precisou alugar, para estocar todas as bolsas de plasma dessa semana, foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

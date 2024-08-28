@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 65 - ENEM 2017",
+  "index": 65,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Empreende-se um programa de investimentos em infraestrutura para oferecer as condições materiais necessárias ao processo de transformação do território nacional em um espaço da economia global. Nessa configuração territorial, destacam-se hoje pontos de concentração de tecnologias de ponta. É o caso da chamada agricultura de precisão. Nos pomares paulistas, começou a ser  utilizada uma máquina, de origem norte-americana, capaz de colher cem pés de laranja por hora, sob o controle de computadores.\n\n                                                  SANTOS, M.; SILVEIRA, M. L. O Brasil: território e sociedade no início do séc. XXI.\nRio de Janeiro: Record, 2001.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual a consequência socioambiental, no Brasil, da implementação da tecnologia exemplificada no texto?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A diminuição do uso intensivo do solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O rebaixamento do nível dos aquíferos locais",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A desestimulação do modelo orgânico de cultivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A redução da competitividade do pequeno produtor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "O enfraquecimento da atividade policultora de exportação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

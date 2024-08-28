@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 49 - ENEM 2017",
+  "index": 49,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O dicionário da Real Academia Espanhola não usa a terminologia de Estado, nação e língua no sentido moderno. Antes de sua edição de 1884, a palavra nación significava simplesmente “o agregado de habitantes de uma província, de um país ou de um reino” e também “um estrangeiro”. Mas agora era dada como “um Estado ou corpo político que reconhece um centro supremo de governo comum”.\n\n                                                  HOBSBAWM, E. J. Nações e nacionalismo (desde 1870). Rio de Janeiro: Paz e Terra, 1990 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A ideia de nação como lugar de pertencimento, ao qual os indivíduos têm ligação por nascimento, constitui-se na Europa do final do século XIX. Sua difusão resultou",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "na rápida ascensão de governos com maior participação popular, dado que a unidade nacional anulava as diferenças sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "na construção de uma cultura que incorporava todas as parcialidades equilibradamente dentro de uma identidade comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "na imposição de uma única língua, cultura e tradição às diferentes comunidades agregadas ao Estado nacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "na anulação pacífica das diferenças étnicas existentes entre as comunidades que passaram a compor a nacionalidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "em um intenso processo cultural marcado pelo protagonismo das populações autóctones.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

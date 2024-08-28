@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 180 - ENEM 2016",
+  "index": 180,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Com o objetivo de trabalhar a concentração e a sincronia de movimentos dos alunos de uma de suas turmas, um professor de educação física dividiu essa turma em três grupos (A, B e C) e estipulou a seguinte atividade: os alunos do grupo A deveriam bater palmas a cada 2 s, os alunos do grupo B deveriam bater palmas a cada 3 s e os alunos do grupo C deveriam bater palmas a cada 4 s.\nO professor zerou o cronômetro e os três grupos começaram a bater palmas quando ele registrou 1 s. Os movimentos prosseguiram até o cronômetro registrar 60 s.\nUm estagiário anotou no papel a sequência formada pelos instantes em que os três grupos bateram palmas simultaneamente.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é o termo geral da sequência anotada?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12 n, com n um número natural, tal que 1 ≤ n ≤ 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "24 n, com n um número natural, tal que 1 ≤ n ≤ 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "12 (n – 1), com n um número natural, tal que 1 ≤ n ≤ 6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12(n – 1) + 1, com n um número natural, tal que 1 ≤ n ≤ 5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "24 (n – 1) + 1, com n um número natural, tal que 1 ≤ n ≤ 3.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

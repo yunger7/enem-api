@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 98 - ENEM 2012",
+  "index": 98,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Eu sei que a gente se acostuma. Mas não devia.\nA gente se acostuma a morar em apartamentos de fundos e a não ter outra vista que não as janelas ao redor. E, porque não tem vista, logo se acostuma a não olhar para fora. E, porque não olha para fora, logo se acostuma a não abrir todas as cortinas. E, porque não abre as cortinas, logo se acostuma a acender mais cedo a luz. E, à medida que se acostuma, esquece o sol, esquece o ar, esquece a amplidão.\n\n                                                  COLASANTI, M. Eu sei, mas não devia. Rio de Janeiro: Rocco, 1996.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A progressão é garantida nos textos por determinados recursos linguísticos, e pela conexão entre esses recursos e as ideias que eles expressam. Na crônica, a continuidade textual é construída, predominantemente, por meio",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do emprego de vocabulário rebuscado, possibilitando a elegância do raciocínio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da repetição de estruturas, garantindo o paralelismo sintático e de ideias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "da apresentação de argumentos lógicos, constituindo blocos textuais independentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da ordenação de orações justapostas, dispondo as informações de modo paralelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da estruturação de frases ambíguas, construindo efeitos de sentido opostos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

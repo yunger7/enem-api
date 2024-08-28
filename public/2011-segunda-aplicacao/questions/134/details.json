@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 134 - ENEM 2011",
+  "index": 134,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/134/134.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O exemplo de gênero textual citado é largamente utilizado em bibliotecas. Suas características o definem como pertencente ao gênero",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aviso, por instruir o leitor a identificar o autor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ficha, que é utilizada para identificar uma obra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "formulário, que contém informações sobre o autor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "lista, por relacionar os assuntos da obra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "manual, que define os passos da busca.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

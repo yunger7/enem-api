@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 113 - ENEM 2017",
+  "index": 113,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O heredograma mostra a incidência de uma anomalia genética em um grupo familiar.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/113/113.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O indivíduo representado pelo número 10, preocupado em transmitir o aIeIo para a anomalia genética a seus filhos, calcula que a probabilidade de ele ser portador desse aIeIo é de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "25%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "50%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "67%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "75%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

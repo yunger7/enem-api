@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 144 - ENEM 2015",
+  "index": 144,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um promotor de eventos foi a um supermercado para comprar refrigerantes para uma festa de aniversário. Ele verificou que os refrigerantes estavam em garrafas de diferentes tamanhos e preços. A quantidade de refrigerante e o preço de cada garrafa, de um mesmo refrigerante, estão na tabela.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Para economizar o máximo possível, o promotor de eventos deverá comprar garrafas que tenham o menor preço por litro de refrigerante.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/144/enem2015.2.ques%C3%A3o144.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O promotor de eventos deve comprar garrafas do tipo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 140 - ENEM 2011",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um aventureiro chama a atenção para o impacto do plástico no meio ambiente, atravessando a maior concentração de lixo do mundo em um veleiro feito totalmente de recipientes recicláveis. O barco flutua graças a 12 mil garrafas plásticas.\nNo Brasil, a produção mensal de garrafas plásticas é de 9 bilhões de unidades, sendo que 47% dessas garrafas são reaproveitadas e o restante vai para o lixo.\n\n                                                  Época. São Paulo: Globo, n. 619, 29 mar. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Quantos barcos como esse é possível construir com as garrafas que vão para o lixo no Brasil?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "352 500.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "397 500.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "750 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "35 250 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "39 750 000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

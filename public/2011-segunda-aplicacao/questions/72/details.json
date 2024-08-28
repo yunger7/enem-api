@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 72 - ENEM 2011",
+  "index": 72,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O quadro seguinte foi extraído da seção de solução de problemas de um manual de fogão a gás.\n\n                                                \n                \n                  \n                                                    \n              \n                                                Ao saborear um alimento preparado no fogão a gás, o consumidor observa que, embora devidamente assado, o alimento contém mais água que o esperado.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/72/Enem-2011-ppl-questao-72.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Sabendo que a receita foi preparada de forma correta, então, de acordo com o fabricante do fogão, o problema é que o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "gás estava no final, o que reduziu a temperatura da chama, deixando-a amarela.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cozinheiro demorou muito para retirar o alimento do forno após o cozimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "botão de comando não foi selecionado corretamente para o cozimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "tempo de cozimento e a temperatura selecionada estavam incorretos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "forno estava sujo de gordura ou molho, necessitando de limpeza.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

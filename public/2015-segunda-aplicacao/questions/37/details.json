@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 37 - ENEM 2015",
+  "index": 37,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/37/enem2015_2a_caderno9_questao37.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As novas tecnologias foram massificadas, alcançando e impactando de diferentes formas os lugares. A ironia proposta pela charge indica que o acesso à tecnologia está:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "vinculado a mudanças na paisagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "garantido de forma equitativa aos cidadãos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "priorizado para resolver as desigualdades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "relacionado a uma ação redentora na vida social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dissociado de revoluções na realidade socioespacial.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

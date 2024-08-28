@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 47 - ENEM 2016",
+  "index": 47,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O paclitaxel é um triterpeno poli-hidroxilado que foi originalmente isolado da casca de Taxus brevifolia, árvore de crescimento lento e em risco de extinção, mas agora é obtido por rota química semissintética. Esse fármaco é utilizado como agente quimioterápico no tratamento de tumores de ovário, mama e pulmão. Seu mecanismo de ação antitumoral envolve sua ligação à tubulina interferindo com a função dos microtúbulos.\n\n                                                  KRETZER, I. F. Terapia antitumoral combinada dea derivados do paclitaxel e etoposídeo associados à nanoemulsão lipídica rica em colesterol – LDE. Disponível em: wwwtesesusptar. Acesso em 29 lev 2012 (adaptado)",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com a ação antitumoral descrita, que função celular é diretamente afetada pelo paclitaxel?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Divisão celular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Transporte passivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Equilíbrio osmótico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Geração de energia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Síntese de proteinas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 53 - ENEM 2012",
+  "index": 53,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O quadro apresenta o teor de cafeína em diferentes bebidas comumente consumidas pela população.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/53/Enem-2012-ppl-questao-53.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Da análise do quadro conclui-se que o menor teor de cafeína por unidade de volume está presente no",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "café expresso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "café filtrado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "chá preto.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "refrigerante de cola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "chocolate quente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

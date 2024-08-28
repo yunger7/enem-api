@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 140 - ENEM 2012",
+  "index": 140,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A noz é uma especiaria muito apreciada nas festas de fim de ano. Uma pesquisa de preços feita em três supermercados obteve os seguintes valores: no supermercado A é possível comprar nozes a granel no valor de R$ 24,00 o quilograma; o supermercado B vende embalagens de nozes hermeticamente fechadas com 250 gramas a R$ 3,00; já o supermercado C vende nozes a granel a R$ 1,50 cada 100 gramas.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A sequência dos supermercados, de acordo com a ordem crescente do valor da noz, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A, B, C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B, A, C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "B, C, A.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "C, A, B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "C, B, A.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 81 - ENEM 2016",
+  "index": 81,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "As notas musicais podem ser agrupadas de modo a formar um conjunto. Esse conjunto pode formar uma escala musical. Dentre as diversas escalas existentes, a mais difundida é a escala diatônica, que utiliza as notas denominadas dó, ré, mi, fá, sol, lá e si. Essas notas estão organizadas em ordem crescente de alturas, sendo a nota dó a mais baixa e a nota si a mais alta.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Considerando uma mesma oitava, a nota si é a que tem menor",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "amplitude.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "frequência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "intensidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "comprimento de onda.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

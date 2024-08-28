@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 62 - ENEM 2013",
+  "index": 62,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Há processos industriais que envolvem reações químicas na obtenção de diversos produtos ou bens consumidos pelo homem. Determinadas etapas de obtenção desses produtos empregam catalisadores químicos tradicionais, que têm sido, na medida do possível, substituídos por enzimas.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em processos industriais, uma das vantagens de se substituírem os catalisadores químicos tradicionais por enzimas decorre do fato de estas serem",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "consumidas durante o processo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "compostos orgânicos e biodegradáveis.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "inespecíficas para os substratos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "estáveis em variações de temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "substratos nas reações químicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 111 - ENEM 2012",
+  "index": 111,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Cientistas solucionam origem de partículas de água em Saturno\n\nO telescópio espacial Herschel resolveu um problema que ficou sem solução durante 14 anos. A origem dos vapores de água na atmosfera superior de Saturno encontra-se nas partículas que saem de uma de suas luas, a Enceladus, e chegam até o planeta.\nA descoberta faz com que a Enceladus torne-se conhecida, a partir de agora, como a única lua do Sistema Solar capaz de influenciar a composição química do planeta que orbita.\nO volume despejado a cada segundo não é pouco. A Enceladus chega a expelir aproximadamente 250 kg de vapores de água que se formam na região polar sul. Desse total, uma parte é perdida no espaço e entre 3% a 5% deslocam-se até Saturno.\nO fenômeno, de certo modo, pôde ser compreendido graças ao avanço da tecnologia. Os astrônomos não conseguiram detectá-lo até o momento por causa da transparência dos vapores. Coube às ondas infravermelhas do Herschel esse encargo e achado.\nA primeira vez que um telescópio da ESA (Agência Espacial Europeia) detectou água na atmosfera superior de Saturno foi em 1997.\n\n                                                  Disponível em: www1.folha.uol.com.br. Acesso em: 26 jul. 2011.\n\n                              \n                                                Um texto é construído pela articulação dos vários elementos que o compõem. Tal articulação pode se dar por meio de palavras ou de expressões que remetem a outras ou, ainda, a segmentos maiores já apresentados ou a serem ainda apresentados no decorrer do texto.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A análise do modo como esse texto foi construído revela que a expressão",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“um problema” (ℓ. 1) remete o leitor para “A origem dos vapores de água na atmosfera superior de Saturno” (ℓ. 3), segmento que se encontra na frase seguinte.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“A descoberta” (ℓ. 7) retoma “um problema que ficou sem solução durante 14 anos.” (ℓ. 1), segmento que aparece na primeira frase do texto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“O volume despejado” (ℓ. 11) retoma “a composição química do planeta que orbita.” (ℓ. 9), segmento apresentado na frase imediatamente anterior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“O fenômeno” (ℓ. 17) remete o leitor para “transparência dos vapores” (ℓ. 20), segmento que é apresentado na frase seguinte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“esse encargo e achado” (ℓ. 21) retoma “avanço da tecnologia” (ℓ. 18), segmento presente na porção anterior do texto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

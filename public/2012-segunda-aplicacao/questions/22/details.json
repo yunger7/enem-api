@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 22 - ENEM 2012",
+  "index": 22,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O homem natural é tudo para si mesmo; é a unidade numérica, o inteiro absoluto, que só se relaciona consigo mesmo ou com seu semelhante. O homem civil é apenas uma unidade fracionária que se liga ao denominador, e cujo valor está em sua relação com o todo, que é o corpo social. As boas instituições sociais são as que melhor sabem desnaturar o homem, retirar-lhe sua existência absoluta para dar-lhe uma relativa, e transferir o eu para a unidade comum, de sorte que cada particular não se julgue mais como tal, e sim como uma parte da unidade, e só seja percebido no todo.\n\n                                                  ROUSSEAU, J. J. Emílio ou da Educação. São Paulo: Martins Fontes, 1999.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A visão de Rousseau em relação à natureza humana, conforme expressa o texto, diz que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o homem civil é formado a partir do desvio de sua própria natureza.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "as instituições sociais formam o homem de acordo com a sua essência natural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o homem civil é um todo no corpo social, pois as instituições sociais dependem dele",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o homem é forçado a sair da natureza para se tornar absoluto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as instituições sociais expressam a natureza humana, pois o homem é um ser político.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

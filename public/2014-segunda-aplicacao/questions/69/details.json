@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 69 - ENEM 2014",
+  "index": 69,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O movimento pelo saneamento do Brasil, desencadeado durante a Primeira República, colocou em evidência as precárias condições de saúde das populações rurais. A origem e trajetória desse movimento estiveram diretamente relacionadas à história da doença de Chagas.\n\n                                                  KROPF, S. P.; LIMA, N. T. Disponível em: www.fiocruz.br. Acesso em: 1 ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A intervenção ambiental considerada fundamental para a prevenção dessa doença é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "limpeza de terrenos baldios, com a retirada de matéria orgânica em decomposição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "construção de unidades de saúde, com atendimento mais eficiente aos indivíduos infectados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "melhoria das condições de habitação, com redução de insetos no ambiente domiciliar e peridomiciliar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "construção de estradas e rodovias, com garantias de melhor acesso da população rural ao sistema de saúde.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "limpeza do ambiente domiciliar e peridomiciliar, com retirada de entulhos e recipientes que possam acumular água.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

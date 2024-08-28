@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 143 - ENEM 2012",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O Ministério da Saúde acompanha com preocupação a difusão da tuberculose no Brasil. Um sistema de vigilância baseia-se no acompanhamento sistemático das taxas de incidência dessa doença nos estados. Depois de credenciar alguns estados a receberem recursos, em 2006, passou a ser de grande importância definir prioridades para a alocação de recursos de combate e prevenção, levando em consideração as taxas de incidência para os anos de 2000 e 2004, conforme o quadro seguinte.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/143/143.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Se a prioridade na distribuição de recursos for dada ao estado que tiver maior aumento absoluto em suas taxas de incidência, ela será dada para",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Amapá.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Amazonas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Minas Gerais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Pernambuco.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Rio de Janeiro.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

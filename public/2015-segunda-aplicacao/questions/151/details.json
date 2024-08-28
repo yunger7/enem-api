@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 151 - ENEM 2015",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A figura é uma representação simplificada do carrossel de um parque de diversões, visto de cima. Nessa representação, os cavalos estão identificados pelos pontos escuros, e ocupam circunferências de raios 3 m e 4 m, respectivamente, ambas centradas no ponto O. Em cada sessão de funcionamento, o carrossel efetua 10 voltas.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/151/enem2015.2.quest%C3%A3o151.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Quantos metros uma criança sentada no cavalo C1 percorrerá a mais do que uma criança no cavalo C2 , em uma sessão? Use 3,0 como aproximação para S.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "55,5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60,0",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "175,5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "235,5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "240,0",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 20 - ENEM 2012",
+  "index": 20,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Apesar de todo o esforço em prol de um língua internacional artificial, até o momento a sensação é de relativo fracasso. Praticamente nenhum país adotou o ensino obrigatório de uma língua artificial, a comunidade científica continua a se comunicar em inglês, e as línguas mais difundidas internacionalmente continuam a ser as de países política ou economicamente dominantes, como inglês, francês, espanhol, russo e chinês. Nem mesmo organismos supranacionais como a ONU e a União Europeia, onde reina uma babel de línguas, se mostraram até agora inclinados a adotar uma língua artificial.\n\n                                                  BIZZOCCH, A. Línguas de laboratório. Disponível em: http://revistalingua.uol.com.br. Acesso em: 19 ago. 2011(adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O esperanto, inventado no século XIX, é a língua artificial mais difundida atualmente. Entretanto, como o texto sugere, o desequilíbrio atual de poder entre os países impõe a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "busca de nova língua global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "recuperação das línguas mortas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "adoção de uma língua unificada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "valorização das línguas nacionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "supremacia de algumas línguas naturais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

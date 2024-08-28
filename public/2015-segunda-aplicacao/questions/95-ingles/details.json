@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 95 - ENEM 2015",
+  "index": 95,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/95/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-95.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Uma campanha pode ter por objetivo conscientizar a população sobre determinada questão social. Na campanha realizada no Reino Unido, a frase “A third of the food we buy in the UK ends up being thrown away” foi utilizada para enfatizar o(a):",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desigualdade social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "escassez de plantações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reeducação alimentar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "desperdício de comida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "custo dos alimentos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

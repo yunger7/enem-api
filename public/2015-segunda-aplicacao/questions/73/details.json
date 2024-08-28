@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 73 - ENEM 2015",
+  "index": 73,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O Nylon® é um polímero (uma poliamida) obtido pela reação do ácido adípico com a hexametilenodiamina, como indicado no esquema reacional.\n\n                                                \n                \n                  \n                                                    \n              \n                                                Na época da invenção desse composto, foi proposta uma nomenclatura comercial, baseada no número de átomos de carbono do diácido carboxílico, seguido do número de carbonos da diamina.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/73/73-1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De acordo com as informações do texto, o nome comercial de uma poliamida resultante da reação do ácido butanodioico com o 1,2-diamino-etano é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Nylon 4,3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Nylon 6,2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Nylon 3,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Nylon 4,2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Nylon 2,6.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

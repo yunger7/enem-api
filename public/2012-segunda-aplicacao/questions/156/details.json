@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 156 - ENEM 2012",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Vítor deseja revestir uma sala retangular de dimensões 3 m x 4 m, usando um tipo de peça de cerâmica. Em uma pesquisa inicial, ele selecionou cinco tipos de peças disponíveis, nos seguintes formatos e dimensões:• Tipo I: quadrados, com 0,5 m de lado.• Tipo II: triângulos equiláteros, com 0,5 m de lado.• Tipo III: retângulos, com dimensões 0,5 m x 0,6 m.• Tipo IV: triângulos retângulos isósceles, cujos catetos medem 0,5 m.• Tipo V: quadrados, com 0,6 m de lado.Analisando a pesquisa, o mestre de obras recomendou que Vítor escolhesse um tipo de piso que possibilitasse a utilização do menor número de peças e não acarretasse sobreposições ou cortes nas cerâmicas.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual o tipo de piso o mestre de obras recomendou que fosse comprado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Tipo I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Tipo II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Tipo III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Tipo IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Tipo V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

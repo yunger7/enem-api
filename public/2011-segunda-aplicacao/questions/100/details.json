@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 100 - ENEM 2011",
+  "index": 100,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O esporte de alto rendimento envolve atividades físicas de caráter competitivo, no qual os atletas competem consigo mesmos ou com outros, sujeitando-se a regras preestabelecidas aprovadas pelos organismos internacionais ou nacionais de cada modalidade.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As grandes competições são reservadas aos grandes talentos e possibilitam a promoção de espetáculos que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "geram modelos de atletas, que passam a ser exemplos seguidos por jovens e crianças.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "permitem aos espectadores assistirem às partidas, fazendo parte de equipes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "minimizam as possibilidades de participação e procura pelas práticas esportivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "incentivam o abandono das práticas esportivas, além do sedentarismo nos indivíduos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "possibilitam aos espectadores desenvolvimento tático e participação nas equipes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

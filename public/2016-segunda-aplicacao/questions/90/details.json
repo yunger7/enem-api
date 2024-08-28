@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 90 - ENEM 2016",
+  "index": 90,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para lavar e refrescar o ambiente, que estava a 40 ºC, uma pessoa resolveu jogar\nágua sobre um piso de granito. Ela observou que o líquido se concentrou em algumas regiões, molhando parcialmente a superfície. Ao adicionar detergente sobre essa água, a pessoa verificou que o líquido se espalhou e deixou o piso totalmente molhado.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A molhabilidade da superfície foi melhorada em função da:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "solubilidade do detergente em água ser alta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "tensão superficial da água ter sido reduzida:",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "pressão de vapor da água ter sido diminuída.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "densidade da solução ser maior que a da água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "viscosidade da solução ser menor que a da água.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

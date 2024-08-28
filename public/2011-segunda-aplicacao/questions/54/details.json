@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 54 - ENEM 2011",
+  "index": 54,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em abelhas, Apis mellifera, os óvulos não fertilizados originam machos haploides. Experimentos em laboratório têm obtido machos diploides e demonstram que os machos têm de ser homozigotos para um gene, enquanto as fêmeas têm de ser heterozigotas.\n\n                                                  Disponível em: http://www.nature.com (adaptado).",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/54/Enem-2011-ppl-questao-54.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Supondo que uma fêmea com genótipo AB se acasale com cinco machos com genótipos diferentes A, B, C, D e E, conforme o esquema. Qual a porcentagem de machos na prole desta fêmea?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "40%, pois a fêmea teria descendentes machos apenas nos cruzamentos com os machos A e B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20%, pois a fêmea produz dois tipos de gameta com relação a esse gene, e os machos, cinco tipos no total.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "20%, pois a fêmea produz um tipo de gameta com relação a esse gene, e os machos, cinco tipos no total.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "50%, pois a fêmea produz dois tipos de gametas com relação a esse gene, e os machos, um tipo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50%, pois a fêmea produz um tipo de gameta com relação a esse gene, e os machos, cinco tipos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

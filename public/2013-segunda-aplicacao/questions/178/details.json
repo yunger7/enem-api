@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 178 - ENEM 2013",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma característica interessante do som é sua frequência. Quando uma fonte sonora se aproxima do ouvinte, o som ouvido por ele tem uma frequência maior do que o som produzido pela mesma fonte sonora, se ela estiver parada. Entretanto, se a fonte sonora se afasta do ouvinte, a frequência é menor. Esse fenômeno é conhecido como efeito Doppler.\nUm ouvinte parado junto a uma fonte ouve o seu som com uma frequência constante, que será denotada por ƒ. Quatro experimentos foram feitos com essa fonte sonora em movimento. Denotaremos por ƒ1, ƒ2, ƒ3 e ƒ4 as frequências do som da fonte sonora em movimento ouvido pelo ouvinte, que continua parado, nos experimentos 1, 2, 3 e 4, respectivamente.\nDepois de calculadas as frequências, as seguintes relações foram obtida\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/178/178.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Em quais experimentos a fonte sonora se afastou do ouvinte?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Somente nos experimentos 1, 2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Somente nos experimentos 2, 3 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Somente nos experimentos 2 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Somente nos experimentos 3 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Somente no experimento 4.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

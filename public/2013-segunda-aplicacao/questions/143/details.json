@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 143 - ENEM 2013",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Globo Rural, São Paulo, jun. 2009 (adaptado).",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/143/producao-trigo-brasil-enem-2013-segunda-aplicacao-2.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A média da produção brasileira de trigo de 2005/06 a 2009/10, em milhões de toneladas, é de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4,87.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4,70.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "4,56.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "4,49.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "4,09.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

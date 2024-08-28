@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 104 - ENEM 2012",
+  "index": 104,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/104/Enem-2012-ppl-questao-104.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Em variados momentos de nossa vida, precisamos interpretar as diferentes linguagens dos sistemas de comunicação. O gráfico é um desses sistemas, que, no caso apresentado, indica que as habilidades associadas à inteligência humana variam de acordo com a idade. Considerando essa informação, constata-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as habilidades verbal e de resolução de problemas destacam-se entre 40 e 60 anos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a habilidade numérica diminui consideravelmente entre 20 e 40 anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a habilidade de resolução de problemas piora consideravelmente a partir dos 30 anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as habilidades humanas, em geral, declinam consideravelmente a partir dos 40 anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a habilidade numérica melhora muito na faixa etária entre 60 e 80 anos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

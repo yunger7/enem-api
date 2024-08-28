@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 146 - ENEM 2013",
+  "index": 146,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O preço das tintas cinza, preta e branca é o mesmo.",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/146/146.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando que não haja desperdício e sobras, o custo para pintar as partes pretas e o custo para pintar as partes brancas serão, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 320,00 e R$ 640,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 640,00 e R$ 960,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 960,00 e R$ 1 280,00.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 1 280,00 e R$ 2 240,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 2 240,00 e R$ 2 560,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 65 - ENEM 2013",
+  "index": 65,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A transferência de genes que poderiam melhorar o desempenho esportivo de atletas saudáveis foi denominada doping genético. Uma vez inserido no genoma do atleta, o gene se expressaria gerando um produto endógeno capaz de melhorar o desempenho atlético.\n\n                                                  ARTOLI, G. G.; HIRATA, R. D. C.; LANCHA JR., A. H. Revista Brasileira de Medicina Esportiva, v. 13, n. 5, 2007 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Um risco associado ao uso dessa biotecnologia é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "obtenção de baixo condicionamento físico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estímulo ao uso de anabolizantes pelos atletas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "falta de controle sobre a expressão fenotípica do atleta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "aparecimento de lesões decorrentes da prática esportiva habitual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "limitação das adaptações fisiológicas decorrentes do treinamento físico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 103 - ENEM 2016",
+  "index": 103,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Disponível em: www.superplacascombr. Acesso em: 3 ago. 2012.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/103/AVISO-O-AMBIENTE-EST%C3%81-SENDO-FILMADO.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A presença desse aviso em um hotel, além de informar sobre um fato e evitar possíveis atos indesejados no local, tem como objetivo implícito",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "isentar o hotel de responsabilidade por danos causados aos hóspedes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "impedir a destruição das câmeras como meio de apagar evidências.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "assegurar que o hotel resguardará a privacidade dos hóspedes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "inibir as pessoas de circular em uma área específica do hotel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "desestimular os hóspedes que requisitem as imagens gravadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}
