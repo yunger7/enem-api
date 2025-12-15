@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 88 - ENEM 2013",
+  "index": 88,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em 1861 foi anunciada a existência de um fóssil denominado Arqueopterix, que revolucionou o debate acerca da evolução dos animais. Tratava-se de um dinossauro que possuía penas em seu corpo. A partir dessa descoberta, a árvore filogenética dos animais acabou sofrendo transformações quanto ao ancestral direto das aves.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nessa nova árvore filogenética, de qual grupo as aves se originaram?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Peixes ósseos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Répteis.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Mamíferos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Peixes cartilaginosos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Anfíbios.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

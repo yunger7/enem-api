@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 85 - ENEM 2012",
+  "index": 85,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Motores a combustão interna apresentam melhor rendimento quando podem ser adotadas taxas de compressão mais altas nas suas câmaras de combustão, sem que o combustível sofra ignição espontânea. Combustíveis com maiores índices de resistência à compressão, ou seja, maior octanagem, estão associados a compostos com cadeias carbônicas menores, com maior número de ramificações e com ramificações mais afastadas das extremidades da cadeia. Adota-se como valor padrão de 100% de octanagem o isômero do octano mais resistente à compressão.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Com base nas informações do texto, qual dentre os isômeros seguintes seria esse composto?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "n-octano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,4-dimetil-hexano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2-metil-heptano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2,5-dimetil-hexano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2,2,4-trimetilpentano.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

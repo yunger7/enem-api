@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 158 - ENEM 2017",
+  "index": 158,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma repartição pública possui um sistema que armazena em seu banco de dados todos os ofícios, memorandos e cartas enviados ao longo dos anos. Para organizar todo esse material e facilitar a localização no sistema, o computador utilizado pela repartição gera um código para cada documento, de forma que os oito primeiros dígitos indicam a data em que o documento foi emitido (DDMMAAAA), os dois dígitos seguintes indicam o tipo de documento (ofício: 01, memorando: 02 e carta: 03) e os três últimos dígitos indicam a ordem do documento. Por exemplo, o código 0703201201003 indica um ofício emitido no dia 7 de março de 2012, cuja ordem é 003. No dia 27 de janeiro de 2001, essa repartição pública emitiu o memorando de ordem 012 e o enviou aos seus funcionários.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O código gerado para esse memorando foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0122701200102.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0201227012001.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0227012001012.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2701200101202.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2701200102012.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

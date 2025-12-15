@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 23 - ENEM 2013",
+  "index": 23,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Foi lento o processo de transferência da população para as cidades, pois durante séculos o Brasil foi um país agrário. Foi necessário mais de um século (século XVIII a século XIX) para que a urbanização brasileira atingisse a maturidade; e mais um século para que assumisse as características atuais.\n\n                                                  ENDLICH, A. M. Perspectivas sobre o urbano e o rural. In: SPOSITO, M. E. B.; WHITACKER, A. M. (Orgs.). Cidade e campo: relações e contradições entre o urbano e o rural. São Paulo: Expressão Popular, 2006  adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A dinâmica populacional descrita indica a ocorrência do seguinte processo:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Migração intrarregional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Migração pendular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Transumância.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Êxodo rural.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Nomadismo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

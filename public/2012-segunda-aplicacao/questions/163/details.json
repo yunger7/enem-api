@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 163 - ENEM 2012",
+  "index": 163,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No mês de setembro de 2011, a Petrobras atingiu a produção diária de 129 mil barris de petróleo na área do pré-sal no Brasil. O volume de um barril de petróleo corresponde a 159 litros.\n\n                                                  Disponível em: http://veja.abril.com.br. Acesso em: 20 nov. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com essas informações, em setembro de 2011, a produção diária, em m³, atingida pela Petrobras na área do pré-sal no Brasil foi de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "20,511.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20 511.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "205 110.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2 051 100.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "20 511 000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

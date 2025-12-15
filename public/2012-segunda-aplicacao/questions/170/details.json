@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 170 - ENEM 2012",
+  "index": 170,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A tabela mostra a altitude y de uma aeronave, registrada pela torre de controle, t minutos após o início dos procedimentos de pouso.\n\n                                                \n                \n                  \n                                                    \n              \n                                                \n                Considere que, durante todo o procedimento de pouso, a relação entre y e t é linear.\n\n                                                  Disponível em: www.meioaereo.com.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/170/170.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De acordo com os dados apresentados, a relação entre y e t é dada por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "y = – 400 t",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "y = – 2 000 t",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "y = 8 000 – 400 t",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "y = 10 000 – 400 t",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "y = 10 000 – 2 000 t",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 22 - ENEM 2015",
+  "index": 22,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Se os nossos adversários, que admitem a existência de uma natureza não criada por Deus, o Sumo Bem, quisessem admitir que essas considerações estão certas, deixariam de proferir tantas blasfêmias, como a de atribuir a Deus tanto a autoria dos bens quanto dos males. Pois sendo Ele fonte suprema da Bondade, nunca poderia ter criado aquilo que é contrário à sua natureza.\n\n                                                  AGOSTINHO. A natureza do Bem. Rio de Janeiro: Sétimo Selo, 2005 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para Agostinho, não se deve atribuir a Deus a origem do mal porque:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o surgimento do mal é anterior à existência de Deus",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o mal, enquanto princípio ontológico, independe de Deus.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Deus apenas transforma a matéria, que é, por natureza, má.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "por ser bom, Deus não pode criar o que lhe é oposto, o mal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Deus se limita a administrar a dialética existente entre o bem e o mal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

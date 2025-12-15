@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 53 - ENEM 2015",
+  "index": 53,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Além de ser uma prática ilegal, a adulteração de combustíveis é prejudicial ao meio ambiente, ao governo e, especialmente, ao consumidor final. Em geral, essa adulteração é feita utilizando compostos com propriedades físicas semelhantes às do combustível, mas de menor valor agregado.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando um combustível com 20% de adulterante, a mistura em que a adulteração seria identificada visualmente é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "etanol e água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "etanol e acetona.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "gasolina e água.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "gasolina e benzeno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "gasolina e querosene.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

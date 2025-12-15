@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 92 - ENEM 2015",
+  "index": 92,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Soy madre de un pequeño de 3 años y a partir del artículo “Desenchúfalo… ¡y a jugar!”, me puse a pensar en el tiempo que le dedico a mi hijo. Todos los días, cuando llego a mi casa, mi prioridad es mi hijo y nos turnamos con mi marido para ver quién cocina y quién se tira en el piso a jugar con Santiago. Nuestro hijo tiene toda tecnología a su disposición, porque su papá es técnico en sistemas, pero cuando llegamos a casa después de un agotador día laboral, nos desenchufamos los tres y usamos cualquier cosa que tengamos a mano: una pelota o una sábana para divertirnos. Esa pequeña terapia de risa es altamente curativa contra los bajones anímicos, contra el estrés, contra los pequeños enojos cotidianos, contra todo.\n\n                                                  OVIEDO, P. Sophia, n. 130, ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O texto é uma carta de leitor sobre a reportagem “Desenchúfalo… ¡y a jugar!”, publicada em uma revista. Ao relatar sua experiência pessoal, a leitora retoma o tema da reportagem e confirma a necessidade de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cercar as crianças da tecnologia disponível e treiná-las a usá-la.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desconectar as crianças dos aparelhos tecnológicos e brincar com elas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "oferecer às crianças uma variedade de brinquedos não tecnológicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "revezar o tempo que cada um dedica às brincadeiras com os filhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "controlar o tempo de que os filhos dispõem para usar os aparelhos tecnológicos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

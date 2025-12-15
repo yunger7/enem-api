@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 55 - ENEM 2012",
+  "index": 55,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A terapia fotodinâmica é um tratamento que utiliza luz para cura de câncer através da excitação de moléculas medicamentosas, que promovem a desestruturação das células tumorais. Para a eficácia do tratamento, é necessária a iluminação na região do tecido a ser tratado. Em geral, as moléculas medicamentosas absorvem as frequências mais altas. Por isso, as intervenções cutâneas são limitadas pela penetração da luz visível, conforme a figura:\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/55/Enem-2012-ppl-questao-55.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A profundidade de até 2 mm em que o tratamento cutâneo é eficiente se justifica porque a luz de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "curto comprimento de onda é mais refletida pela pele.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "maior energia é mais absorvida pelo tecido orgânico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "menor energia é absorvida nas regiões mais profundas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "todos os comprimentos de onda terão alta intensidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cada comprimento de onda percebe um índice de refração diferente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

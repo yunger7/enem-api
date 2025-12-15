@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 133 - ENEM 2015",
+  "index": 133,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/133/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-133.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando que a internet influencia os modos de comunicação contemporânea, a charge faz uma crítica ao uso vicioso dessa tecnologia, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "gera diminuição no tempo de descanso, substituído pelo contato com outras pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "propicia a continuação das atividades de trabalho, ainda que em ambiente doméstico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "promove o distanciamento nos relacionamentos, mesmo entre pessoas próximas fisicamente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "tem impacto negativo no tempo disponível para o lazer do casal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "implica a adoção de atitudes agressivas entre os membros de uma mesma família.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

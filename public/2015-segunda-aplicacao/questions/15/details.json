@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 15 - ENEM 2015",
+  "index": 15,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/15/enem2015_2a_caderno9_questao15.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As figuras representam a distância real (D) entre duas residências e a distância proporcional (d) em uma representação cartográfica, as quais permitem estabelecer relações espaciais entre o mapa e o reterreno. Para a ilustração apresentada, a escala numérica correta é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/5 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1/50 000.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1/80 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1/80 000 000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

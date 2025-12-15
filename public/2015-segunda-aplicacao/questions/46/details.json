@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 46 - ENEM 2015",
+  "index": 46,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em uma flauta, as notas musicais possuem frequência e comprimento de onda (λ) muito bem definidos. As figuras mostram esquematicamente um tubo de comprimento L, que representa de forma simplificada uma flauta, em que estão representados: em A o primeiro harmônico de uma nota musical (comprimento de onda λA), em B seu segundo harmônico (comprimento de onda λB) e em C o seu terceiro harmônico (comprimento de onda λC), onde λA>λB>λC.\n\nnull",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/46/46-1.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Em função do comprimento do tubo, qual o comprimento de onda da oscilação que forma o próximo harmônico?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "L/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "L/5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "L/2",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "L/8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "6L/8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

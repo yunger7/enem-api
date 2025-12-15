@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 142 - ENEM 2011",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Atualmente existem muitos aplicativos de fazendas virtuais que, apesar de críticas, possuem uma enorme quantidade de usuários. Embora apresentem algumas diferenças de funcionamento, as fazendas virtuais possuem a mesma concepção: cada vez que o usuário cuida de sua fazenda ou da de seus amigos, ganha pontos, e, quanto mais pontos acumula, maior é seu nível de experiência.\n\n                                                Em um aplicativo de fazenda virtual, o usuário precisa de 1 000 pontos para atingir o nível 1. Acumulando mais 1 200 pontos, atinge o nível 2; acumulando mais 1 400 pontos, atinge o nível 3 e assim por diante, sempre com esse padrão.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Um usuário que está no nível 15 de experiência acumulou",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3 800 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "15 200 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "32 200 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "35 000 pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "36 000 pontos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

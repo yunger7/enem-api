@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 173 - ENEM 2015",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O gráfico mostra a variação percentual do valor do Produto Interno Bruto (PIB) do Brasil, por trimestre, em relação ao trimestre anterior:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/173/enem2015.2.quest%C3%A3o173.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "De acordo com o gráfico, no período considerado, o trimestre em que o Brasil teve o maior valor do PIB foi o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "segundo trimestre de 2009.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "quarto trimestre de 2009.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "terceiro trimestre de 2010.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "quarto trimestre de 2010.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "primeiro trimestre de 2011.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

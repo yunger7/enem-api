@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 9 - ENEM 2013",
+  "index": 9,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/9/9.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A mudança na distribuição das classes de 2005 a 2010 implicou uma expressiva alteração no formato do primeiro para o segundo gráfico. Um processo associado a essa mudança está indicado no(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "expansão do mercado interno.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "concentração da renda nacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "persistência da crise internacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "crescimento demográfico acelerado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fracasso das políticas redistributivas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

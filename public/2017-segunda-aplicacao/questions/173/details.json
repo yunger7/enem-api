@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 173 - ENEM 2017",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ficou decidido que a região contemplada com a maior parte do recurso seria aquela com a maior mediana das taxas de desemprego dos últimos três anos.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/173/173.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A região que deve receber a maior parte do recurso é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "D.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "E.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

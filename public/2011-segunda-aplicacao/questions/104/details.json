@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 104 - ENEM 2011",
+  "index": 104,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Gravuras e pinturas são duas modalidades da prática gráfica rupestre, feitas com recursos técnicos diferentes. Existem vastas áreas nas quais há dominância de uma ou outra técnica no Brasil, o que não impede que ambas coexistam no mesmo espaço. Mas em todas as regiões há mãos, pés, antropomorfos e zoomorfos. Os grafismos realizados em blocos ou paredes foram gravados por meio de diversos recursos: picoteamento, entalhes e raspados.\n\n                                                  DANTAS, M. Antes: história da pré-história. Brasília: CCBB, 2006.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/104/Enem-2011-ppl-questao-104.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nas figuras que representam a arte da pré-história brasileira e estão localizadas no sítio arqueológico da Serra da Capivara, estado do Piauí, e, com base no texto, identificam-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "imagens do cotidiano que sugerem caçadas, danças, manifestações rituais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "cenas nas quais prevalece o grafismo entalhado em superfícies previamente polidas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aspectos recentes, cujo procedimento de datação indica o recuo das cronologias da prática pré-histórica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "situações ilusórias na reconstituição da pré-história, pois se localizam em ambientes degradados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "grafismos rupestres que comprovam que foram realizados por pessoas com sensibilidade estética.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

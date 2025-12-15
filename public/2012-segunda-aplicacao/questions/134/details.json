@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 134 - ENEM 2012",
+  "index": 134,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O bonde abre a viagem,\nNo banco ninguém,\nEstou só, stou sem.\nDepois sobe um homem,\nNo banco sentou,\nCompanheiro vou.\nO bonde está cheio,\nDe novo porém\nNão sou mais ninguém.\n\n                                                  ANDRADE, M. Poesias completas. Belo Horizonte: Itatiaia, 2005.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Em um texto literário, é comum que os recursos poéticos e linguísticos participem do significado do texto, isto é, forma e conteúdo se relacionam significativamente. Com relação ao poema de Mário de Andrade, a correlação entre um recurso formal e um aspecto da significação do texto é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a sucessão de orações coordenadas, que remete à sucessão de cenas e emoções sentidas pelo eu lírico ao longo da viagem.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a elisão dos verbos, recurso estilístico constante no poema, que acentua o ritmo acelerado da modernidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o emprego de versos curtos e irregulares em sua métrica, que reproduzem uma viagem de bonde, com suas paradas e retomadas de movimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a sonoridade do poema, carregada de sons nasais, que representa a tristeza do eu lírico ao longo de toda a viagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a ausência de rima nos versos, recurso muito utilizado pelos modernistas, que aproxima a linguagem do poema da linguagem cotidiana.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

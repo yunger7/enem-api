@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 107 - ENEM 2015",
+  "index": 107,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Disponível em: www.istoe.com.br. Acesso em: 5 dez. 2012.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/107/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-105.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Esse infográfico resume as conclusões de diversas pesquisas científicas sobre a adolescência. Tais conclusões.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desconstroem os estereótipos a respeito dos adolescentes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "estabelecem novos limites de duração para essa fase da vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reiteram a ideia da adolescência como um período conturbado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "confirmam a proximidade entre os universos adolescente e adulto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apontam a insegurança como uma característica típica dos adolescentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

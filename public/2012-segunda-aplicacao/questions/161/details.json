@@ -1,0 +1,50 @@
+{
+  "year": 2012,
+  "title": "Questão 161 - ENEM 2012",
+  "index": 161,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Considere os pontos A, B, C, D como na Figura 2. Suponha que alguns reparos devem ser efetuados na pirâmide. Para isso, uma pessoa fará o seguinte deslocamento: 1) partir do ponto A e ir até o ponto B, deslocando-se pela aresta AB; 2) ir de B até C, deslocando-se pela aresta que contém esses dois pontos; 3) ir de C até D, pelo caminho de menor comprimento; 4) deslocar-se de D até B pela aresta que contém esses dois pontos. ]\n\n                                                  Disponível em: http://viagenslacoste.blogspot.com. Acesso em: 29 fev. 2012.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/161/1611.png",
+    "https://enem.dev/2012-segunda-aplicacao/questions/161/162-a.png",
+    "https://enem.dev/2012-segunda-aplicacao/questions/161/162-b.png",
+    "https://enem.dev/2012-segunda-aplicacao/questions/161/162-c.png",
+    "https://enem.dev/2012-segunda-aplicacao/questions/161/162-d.png",
+    "https://enem.dev/2012-segunda-aplicacao/questions/161/162-e.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A projeção do trajeto da pessoa no plano da base da pirâmide é melhor representada por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/161/162-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/161/162-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/161/162-c.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/161/162-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/161/162-e.png",
+      "isCorrect": false
+    }
+  ]
+}

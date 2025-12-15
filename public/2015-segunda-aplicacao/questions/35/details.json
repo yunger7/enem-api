@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 35 - ENEM 2015",
+  "index": 35,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O ícone dos conflitos que assolam a região da bacia do Xingu na atualidade é o projeto da hidrelétrica de Belo Monte. Prevista para ser implantada no Médio Xingu, tem a capacidade de gerar, segundo os estudos da Eletronorte, 11 mil megawatts de energia, o que faria dela a segunda maior hidrelétrica do Brasil. Entre adesivos que refletem o teor polêmico do projeto — “Eu quero Belo Monte” e “Fora Belo Monte” —, os moradores de Altamira, cidade polo da região onde a usina deverá ser construída, se dividem.\n\n                                                  MARTINHO, N. O coração do Brasil. Horizonte Geográfico, n. 129, jun. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Na polêmica apresentada, de acordo com a perspectiva dos trabalhadores da região, um argumento favorável e outro contrário à implementação do projeto estão, respectivamente, na",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "urbanização da periferia e valorização dos imóveis rurais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "recuperação da autoestima e criação de empregos qualificados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "expansão de lavouras e crescimento do assalariamento agrícola.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "captação de investimentos e expropriação dos posseiros pobres.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "adoção do preservacionismo e estabelecimento de reservas permanentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

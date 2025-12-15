@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 27 - ENEM 2017",
+  "index": 27,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/27/27.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Essa escultura foi produzida durante o período da ditadura stalinista, na ex-União Soviética, e representa o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "luta do proletariado soviético para sua emancipação do sistema vigente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "trabalhador soviético retratado de acordo com a realidade do período.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "exaltação idealizada da capacidade de trabalho do povo soviético.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "união de operários e camponeses soviéticos pela volta do regime czarista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "sofrimento de trabalhadores soviéticos pela opressão do regime stalinista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

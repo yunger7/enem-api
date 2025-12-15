@@ -1,0 +1,46 @@
+{
+  "year": 2015,
+  "title": "Questão 178 - ENEM 2015",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma empresa que embala seus produtos em caixas de papelão, na forma de hexaedro regular, deseja que seu logotipo seja impresso nas faces opostas pintadas de cinza, conforme a figura:\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                A gráfica que fará as impressões dos logotipos apresentou as seguintes sugestões planificadas:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/178/enem2015.2.quest%C3%A3o178.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/178/enem2015.2.quest%C3%A3o178B.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Que opção sugerida pela gráfica atende ao desejo da empresa?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "IV",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

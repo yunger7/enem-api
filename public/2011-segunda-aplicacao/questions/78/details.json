@@ -1,0 +1,46 @@
+{
+  "year": 2011,
+  "title": "Questão 78 - ENEM 2011",
+  "index": 78,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Três amostras de minérios de ferro de regiões distintas foram analisadas e os resultados, com valores aproximados, estão na tabela:\n\n                                                \n                \n                  \n                                                    \n              \n                                                Considerando que as impurezas são inertes aos compostos envolvidos, as reações de redução do minério de ferro com carvão, de formas simplificadas, são:",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/78/Enem-2011-ppl-questao-78.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/78/Enem-2011-ppl-questao-78-1.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os minérios que apresentam, respectivamente, a maior pureza e o menor consumo de carvão por tonelada de ferro produzido são os das regiões:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A com 75% e C com 143 kg.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "B com 80% e A com 161 kg.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "C com 85% e B com 107 kg.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A com 90% e B com 200 kg.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "B com 95% e A com 161 kg.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 75 - ENEM 2014",
+  "index": 75,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um método para determinação do teor de etanol na gasolina consiste em misturar volumes conhecidos de água e de gasolina em um frasco específico. Após agitar o frasco e aguardar um período de tempo, medem-se os volumes das duas fases imiscíveis que são obtidas: uma orgânica e outra aquosa. O etanol, antes miscível com a gasolina, encontra-se agora miscível com a água.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para explicar o comportamento do etanol antes e depois da adição de água, é necessário conhecer",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a densidade dos líquidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o tamanho das moléculas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o ponto de ebulição dos líquidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os átomos presentes nas moléculas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o tipo de interação entre as moléculas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

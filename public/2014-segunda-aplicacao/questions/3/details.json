@@ -1,0 +1,46 @@
+{
+  "year": 2014,
+  "title": "Questão 3 - ENEM 2014",
+  "index": 3,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/3/questao3.2014.ppl_.jpg",
+    "https://enem.dev/2014-segunda-aplicacao/questions/3/questao3.2014.ppl_.2jpg1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As figuras indicam mudanças no universo feminino, como a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "decadência da Monarquia, revelada pela aparição solitária e informal das nobres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "redução na escolaridade, simbolizada pela vida dinâmica e sem dedicação à leitura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ampliação do status, conferida pela passagem do local rústico para os jardins do palácio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inclusão na política, representada pela diferença entre o espaço privado e o espaço público.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "valorização do corpo, salientada pelo uso de roupas mais curtas e pela postura mais relaxada.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

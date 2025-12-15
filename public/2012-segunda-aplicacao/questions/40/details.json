@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 40 - ENEM 2012",
+  "index": 40,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Desde a sua formação, há quase 4,5 bilhões de anos, a Terra sofreu várias modificações em seu clima, com períodos alternados de aquecimento e resfriamento e elevação ou decréscimo de pluviosidade, sendo algumas em escala global e outras em nível menor.\n\n                                                  ROSS, J. S. (Org.) Geografia do Brasil. São Paulo: Editora da Universidade de São Paulo, 2003 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Um dos fenômenos climáticos conhecidos no planeta atualmente é o El Niño que consiste",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "na mudança da dinâmica da altitude e da temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "nas temperaturas suavizadas pela proximidade com o mar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "na modificação da ação da temperatura em relação à latitude.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "no aquecimento das águas do Oceano Pacífico, que altera o clima.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "na interferência de fatores como pressão e ação dos ventos do Oceano Atlântico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

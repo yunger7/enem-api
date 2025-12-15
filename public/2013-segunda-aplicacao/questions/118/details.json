@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 118 - ENEM 2013",
+  "index": 118,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Músculos impossíveis e invejáveis\nClaramente, nas últimas duas décadas, constituiu-se uma cultura masculina da modificação corporal. Por que não aplaudir? Pessoalmente, levanto ferro há 35 anos e acho ótimo tanto para a saúde quanto para o humor. Então qual é o problema?\nAcontece que uma parte não negligenciável dos malhadores não encontra saúde nenhuma. Só nos Estados Unidos, as pesquisas mostram que, para quase 1 milhão deles, a insatisfação com seu corpo deixa de ser um incentivo e transforma-se numa obsessão doentia. Eles sofrem de uma verdadeira alteração da percepção da forma de seu próprio corpo. Por mais que treinem, “sequem” e fiquem fortes, desenvolvem preocupações irrealistas, constantes e angustiadas de que seu corpo seja feio, desproporcionado, miúdo ou gordo etc. Passam o tempo verificando furtivamente o espelho. São as primeiras vítimas do uso desregrado de qualquer substância que prometa facilitar o crescimento muscular.\n\n                                                  CALLIGARIS, C. Folha de S. Paulo, 8 fev. 2001 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O modelo de corpo perseguido pelos sujeitos descritos no texto possui como característica principal o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "agilidade, com o intuito de realizar ações com maior performance atlética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "equilíbrio, com o intuito de impedir oscilações ou desvios posturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "hipertrofia, com o intuito de ampliar o delineamento da massa corporal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "relaxamento, com o intuito de alcançar uma sensação de satisfação, beneficiando a autoestima.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "flexibilidade, com o intuito de evitar lesões musculares e outros riscos da atividade física.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

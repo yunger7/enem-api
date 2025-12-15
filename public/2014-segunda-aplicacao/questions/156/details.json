@@ -1,0 +1,49 @@
+{
+  "year": 2014,
+  "title": "Questão 156 - ENEM 2014",
+  "index": 156,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma cidade, os impostos que incidem sobre o consumo de energia elétrica residencial são de 30% sobre o custo do consumo mensal. O valor total da conta a ser paga no mês é o valor cobrado pelo consumo acrescido dos impostos.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-a.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-b.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-c.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-d.png",
+    "https://enem.dev/2014-segunda-aplicacao/questions/156/156-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Considerando x o valor total da conta mensal de uma determinada residência e y o valor dos impostos, qual é a expressão algébrica que relaciona x e y?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/156-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/156-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/156-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/156-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2014-segunda-aplicacao/questions/156/156-e.png",
+      "isCorrect": false
+    }
+  ]
+}

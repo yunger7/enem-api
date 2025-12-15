@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 54 - ENEM 2012",
+  "index": 54,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O uso de defensivos agrícolas é preocupante pela sua toxidade aos ecossistemas, tanto ao meio biótico como abiótico, afetando as cadeias alimentares. Alguns defensivos, como o DDT (dicloro-difeniltricloroetano), por serem muito estáveis, entram nas cadeias alimentares e permanecem nos ecossistemas.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/54/Enem-2012-ppl-questao-54.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Com base nas informações e na figura, o elo da cadeia alimentar que apresentará as maiores concentrações do defensivo é o do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "sapo, devido ao tempo de vida ser longo, acumulando maior quantidade de compostos tóxicos ao longo da vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cobra, devido à digestão lenta dos alimentos, resultando na concentração dos compostos tóxicos neste organismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "gafanhoto, devido ao elevado consumo de milho, resultando em altas concentrações dos compostos tóxicos no seu organismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "milho, devido à aplicação direta de defensivo na gramínea, gerando altas concentrações de compostos tóxicos em toda a planta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "gavião, devido à acumulação de compostos tóxicos ao longo da cadeia alimentar, resultando nas maiores concentrações neste organismo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

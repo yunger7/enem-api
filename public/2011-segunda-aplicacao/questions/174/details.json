@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 174 - ENEM 2011",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Suponha que cada canteiro tem 1 m² de área e que nas regiões sombreadas de cada canteiro serão plantadas as sementes do tipo A.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/174/174.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual o total da área, em m², reservada para as sementes do tipo B?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,25",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "5",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

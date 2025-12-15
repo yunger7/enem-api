@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 44 - ENEM 2016",
+  "index": 44,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/44/enem2016.2.questao44.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Na imagem, o autor procura representar as diferentes gerações de uma família associada a uma noção consagrada pelas elites intelectuais da época, que era a de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defesa da democracia racial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "idealização do universo rural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "crise dos valores republicanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "constatação do atraso sertanejo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "embranquecimento da população.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

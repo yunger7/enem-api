@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 155 - ENEM 2017",
+  "index": 155,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um programa de televisão criou um perfil em uma rede social, e a ideia era que esse perfil fosse sorteado para um dos seguidores, quando esses fossem em número de um milhão. Agora que essa quantidade de seguidores foi atingida, os organizadores perceberam que apenas 80% deles são realmente fãs do programa. Por conta disso, resolveram que todos os seguidores farão um teste, com perguntas objetivas referentes ao programa, e só poderão participar do sorteio aqueles que forem aprovados. Estatísticas revelam que, num teste dessa natureza, a taxa de aprovação é de 90% dos fãs e de 15% dos que não são fãs.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De acordo com essas informações, a razão entre a probabilidade de que um fã seja sorteado e a probabilidade de que o sorteado seja alguém que não é fã do programa é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "24.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "96.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

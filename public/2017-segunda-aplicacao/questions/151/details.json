@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 151 - ENEM 2017",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma escola organizou uma corrida de revezamento 4 x 400 metros, que consiste em uma prova esportiva na qual os atletas correm 400 metros cada um deles, segurando um bastão, repassando-o de um atleta para outro da mesma equipe, realizando três trocas ao longo do percurso, até o quarto atleta, que cruzará a linha de chegada com o bastão. A equipe ganhadora realizou a prova em um tempo total de 325 segundos.\n \n\n                                                O segundo corredor da equipe ganhadora correu seus 400 metros 15 segundos mais rápido do que o primeiro; já o terceiro realizou seus 400 metros 5 segundos mais rápido que o segundo corredor, e o último realizou seu percurso em 3/4 do tempo realizado pelo primeiro.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual foi o tempo, em segundo, em que o último atleta da equipe ganhadora realizou seu percurso de 400 metros?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "58",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "61",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "69",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "72",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "96",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

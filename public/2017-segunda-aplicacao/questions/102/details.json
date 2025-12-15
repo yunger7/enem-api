@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 102 - ENEM 2017",
+  "index": 102,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para a produção de adubo caseiro (compostagem), busca-se a decomposição aeróbica, que produz menos mau cheiro, seguindo estes passos:\nI. Reserve um recipiente para depositar o lixo orgânico e monte a composteira em um local sombreado.\nII. Deposite em apenas um dos lados da composteira o material orgânico e cubra-o com folhas.\nIII. Regue o material para umedecer a camada superficial.\nIV. Proteja o material de chuvas intensas e do sol direto.\nV. De dois em dois dias transfira o material para o outro lado para arejar.\nEm cerca de dois meses o adubo estará pronto\n\n                                                  Processo de compostagem. Disponível em: www.ib.usp.br. Acesso em: 2 ago. 2012 (adaptado)",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Dos procedimentos listados, o que contribui para o aumento da decomposição aeróbica é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

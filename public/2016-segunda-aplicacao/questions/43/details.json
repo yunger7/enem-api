@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 43 - ENEM 2016",
+  "index": 43,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Fundamos, como afirmam alguns cientistas, o antropoceno: uma nova era geológica com altíssimo poder de destruição, fruto dos últimos séculos que significaram um transtorno perverso do equilíbrio do sistema-Terra. Como enfrentar esta nova situação nunca ocorrida antes de forma globalizada e profunda? Temos pessoalmente trabalhado os paradigmas da sustentabilidade e do cuidado como relação amigável e cooperativa para com a natureza. Queremos, agora, agregar a ética da responsabilidade.\n\n                                                  BOFF, L. Responsabilidade coletiva. Disponível em: http://leonardoboff.wordpress.com. Acesso em: 14 mai 2013.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A ética da responsabilidade protagonizada pelo filósofo alemão Hans Jonas e reinvindicada no texto é expressa pela máxima:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“A tua ação possa valer como norma para todos os homens.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“A norma aceita por todos advenha da ação Comunicativa edo discurso.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“A tua ação possa produzir a máxima felicidade para a maioria das pessoas.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "O “O teu agir almeje alcançar determinados fins que possam justificar os meios.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“O efeito de tuas ações não destrua a possibilidade futura da vida das novas gerações.”",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

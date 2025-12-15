@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 61 - ENEM 2016",
+  "index": 61,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O eletrocardiograma, exame utilizado para avaliar o estado do coração de um paciente, trata-se do registro da atividade elétrica do coração ao longo de um certo intervalo de tempo. A figura representa o eletrocardiograma de um\npaciente adulto, descansado, não fumante, em um ambiente com temperatura agradável. Nessas condições. é considerado normal um ritmo cardíaco entre 60 e 100 batimentos por minuto",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/61/enem2016_2aaplicacao_biologia_azul_61.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base no eletrocardiograma apresentado, identifica-se que a frequência cardíaca do paciente é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "normal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "acima do valor ideal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "abaixo do valor ideal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "próxima do limite inferior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "próxima do limite superior",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

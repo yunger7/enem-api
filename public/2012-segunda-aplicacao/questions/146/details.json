@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 146 - ENEM 2012",
+  "index": 146,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma floresta, existem 4 espécies de insetos, A, B, C e P, que têm um ciclo de vida semelhante. Essas espécies passam por um período, em anos, de desenvolvimento dentro de seus casulos. Durante uma primavera, elas saem, põem seus ovos para o desenvolvimento da próxima geração e morrem.Sabe-se que as espécies A, B e C se alimentam de vegetais e a espécie P é predadora das outras 3. Além disso, a espécie P passa 4 anos em desenvolvimento dentro dos casulos, já a espécie A passa 8 anos, a espécie B passa 7 anos e a espécie C passa 6 anos.As espécies A, B e C só serão ameaçadas de extinção durante uma primavera pela espécie P, se apenas uma delas surgirem na primavera junto com a espécie P.Nessa primavera atual, todas as 4 espécies saíram dos casulos juntas.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual será a primeira e a segunda espécies a serem ameaçadas de extinção por surgirem sozinhas com a espécie predadora numa próxima primavera?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A primeira a ser ameaçada é a espécie C e a segunda é a espécie B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A primeira a ser ameaçada é a espécie A e a segunda é a espécie B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A primeira a ser ameaçada é a espécie C e a segunda é a espécie A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A primeira a ser ameaçada é a espécie A e a segunda é a espécie C.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "A primeira a ser ameaçada é a espécie B e a segunda é a espécie C.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

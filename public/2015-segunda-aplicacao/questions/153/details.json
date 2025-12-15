@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 153 - ENEM 2015",
+  "index": 153,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma barraca de tiro ao alvo de um parque de diversões dará um prêmio de R$ 20,00 ao participante, cada vez que ele acertar o alvo. Por outro lado, cada vez que ele errar o alvo, deverá pagar R$ 10,00. Não há cobrança inicial para participar do jogo. Um participante deu 80 tiros e, ao final, recebeu R$100,00.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual foi o número de vezes que esse participante acertou o alvo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "36",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "50",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "60",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "64",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

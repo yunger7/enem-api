@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 51 - ENEM 2016",
+  "index": 51,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um cosmonauta russo estava a bordo da estação espacial MIR quando um de seus rádios de comunicação quebrou. Ele constatou que dois capacitores do rádio de 3μF e 7μF ligados em série estavam queimados. Em função da disponibilidade, foi preciso substituir os capacitores defeituosos por um único capacitor que cumpria a mesma função.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual foi a capacitância, medida em μF, do capacitor utilizado pelo cosmonauta?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,10",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,50",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "10",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "21",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

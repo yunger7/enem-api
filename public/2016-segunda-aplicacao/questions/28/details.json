@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 28 - ENEM 2016",
+  "index": 28,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "FUNDAÇÃO JOÃO PINHEIRO. Déficit habitacional municipal no Brasil 2010. Belo Horizonte: FJPCE, 2013.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/28/enem2016.quest%C3%A3o28.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Relacionando as informações do mapa com o processo de ocupação brasileiro, as áreas de maior precariedade estão associadas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ao fenômeno da marcha para o oeste.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "à divergência de poderes políticos locais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ao processo de ocupação imigratória tardia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "à presença de espaços de baixo potencial produtivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a baixos investimentos públicos em equipamentos urbanos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

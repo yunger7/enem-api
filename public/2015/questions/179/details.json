@@ -1,43 +1,43 @@
 {
-    "title": "Questão 179 - ENEM 2015",
-    "index": 179,
-    "year": 2015,
-    "language": null,
-    "discipline": "ciencias-humanas",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Comparando-se essas probabilidades, obtém-se",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "P(I) < P(III) < P(II)",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "P(II) < P(I) < P(III)",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "P(I) < P(II) = P(III)",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "P(I) = P(II) < P(III)",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "P(I) = P(II) = P(III)",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "title": "Questão 179 - ENEM 2015",
+  "index": 179,
+  "year": 2015,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "Uma competição esportiva envolveu 20 equipes com 10 atletas cada. Uma denúncia à organização dizia que um dos atletas havia utilizado substância proibida. Os organizadores, então, decidiram fazer um exame antidoping. Foram propostos três modos diferentes para escolher os atletas que irão realizá-lo:Modo I: sortear três atletas dentre todos os participantes;Modo II: sortear primeiro uma das equipes e, desta, sortear três atletas;Modo III: sortear primeiro três equipes e, então, sortear um atleta de cada uma dessas três equipes.Considere que todos os atletas têm igual probabilidade de serem sorteados e que P(I), P(II) e P(III) sejam as probabilidades de o atleta que utilizou a substância proibida seja um dos escolhidos para o exame no caso do sorteio ser feito pelo modo I, II ou III.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Comparando-se essas probabilidades, obtém-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "P(I) < P(III) < P(II)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "P(II) < P(I) < P(III)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "P(I) < P(II) = P(III)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "P(I) = P(II) < P(III)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "P(I) = P(II) = P(III)",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 155 - ENEM 2011",
+  "index": 155,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A taxa de inflação é um índice que aponta, em percentuais, a evolução média dos preços de mercadorias e serviços. Entretanto, cada família percebe a variação dos preços de modo particular, pois o peso de cada item no seu orçamento é diferente. Assim, se o preço dos medicamentos sobe muito, o impacto da inflação para as famílias que têm mais idosos tende a ser maior. Se o preço dos alimentos cai, o impacto da inflação para as famílias mais pobres tende a ser menor, já que boa parte de seu orçamento é gasto em alimentação.\n\n                                                  Disponível em: http://www.dieese.org.br (adaptado).\n\n                              \n                                                Considere que os salários de determinado grupo de pessoas crescem 10,0% ao ano, mas a inflação, para esse grupo, cresce 6,0% ao ano.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O aumento percentual do poder de compra, em dois anos, das pessoas que pertencem ao referido grupo, mais aproximado, será de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4,0%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7,7%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "8,0%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8,6%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "14,0%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

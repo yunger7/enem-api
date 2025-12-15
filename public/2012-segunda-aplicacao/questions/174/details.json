@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 174 - ENEM 2012",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma loja resolveu fazer uma promoção de um determinado produto que custava R$ 100,00 em fevereiro, da seguinte maneira: em março, ela deu um desconto de 10% sobre o preço do produto em fevereiro; em abril, deu mais 10% de desconto sobre o preço do produto em março. Tendo obtido uma venda substancial, a loja resolveu aumentar o preço do produto da seguinte maneira: em maio, a loja aumentou em 10% o preço de abril e, em junho, a loja aumentou em mais 10% o preço de maio.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Desta forma, o preço deste produto, no final de junho, era",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 100,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 99,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 98,01.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 97,20.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "96,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

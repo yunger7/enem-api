@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 1 - ENEM 2015",
+  "index": 1,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em 1881, a Câmara dos Deputados aprovou uma reforma na lei eleitoral brasileira, a fim de introduzir o voto direto. A grande novidade, porém, ficou por conta da exigência de que os eleitores soubessem ler e escrever. As consequências logo se refletiram nas estatísticas. Em 1872, havia mais de 1 milhão de votantes, já em 1886, pouco mais de 100 mil cidadãos participaram das eleições parlamentares. Houve um corte de quase 90 por cento do eleitorado.\n\n                                                  CARVALHO, J. M. Cidadania no Brasil: o longo caminho. Rio de Janeiro:\nCivilização Brasileira, 2006 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nas últimas décadas do século XIX, o Império do Brasil passou por transformações como as descritas, que representaram a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ascensão dos “homens bons”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "restrição dos direitos políticos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "superação dos currais eleitorais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "afirmação do eleitorado monarquista",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ampliação da representação popular.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 32 - ENEM 2017",
+  "index": 32,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO II\nAo ser questionado sobre seu processo de criação de ready-mades, Marcei Duchamp afirmou: — Isto dependia do objeto; em geral, era preciso tomar cuidado com o seu look. É muito difícil escolher um objeto porque depois de quinze dias você começa a gostar dele ou a detestá-lo. É preciso chegar a qualquer coisa com uma indiferença tal que você não tenha nenhuma emoção estética. A escolha do ready-made é sempre baseada na indiferença visual e, ao mesmo tempo, numa ausência total de bom ou mau gosto.\n\n                                                  CABANNE, P Marcel Duchamp: engenheiro do tempo perdido.\nSão Paulo: Perspectiva, 1987 (adaptado).",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/32/32.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Relacionando o texto e a imagem da obra, entende-se que o artista Marcel Duchamp, ao criar os ready-mades, inaugurou um modo de fazer arte que consiste em",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "designar ao artista de vanguarda a tarefa de ser o artífice da arte do século XX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "considerar a forma dos objetos como elemento essencial da obra de arte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "revitalizar de maneira radical o conceito clássico do belo na arte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "criticar os princípios que determinam o que é uma obra de arte.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "atribuir aos objetos industriais o status de obra de arte.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

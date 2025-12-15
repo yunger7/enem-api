@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 100 - ENEM 2013",
+  "index": 100,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/100/4100.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nas últimas décadas, a ruptura, o efêmero, o descartável incorporam-se cada vez mais ao fazer artístico, em consonância com a pós-modernidade. No detalhe da obra Bastidores, percebe-se a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "utilização de objetos do cotidiano como tecido, bastidores, agulha, linha e fotocópia, que tornam a obra de abrangência regional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ruptura com meios e suportes tradicionais por utilizar objetos do cotidiano, dando-lhes novo sentido condizente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "apropriação de materiais e objetos do cotidiano, que conferem à obra um resultado inacabado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "apropriação de objetos de uso cotidiano das mulheres, o que confere à obra um caráter feminista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aplicação de materiais populares, o que a caracteriza como obra de arte utilitária.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

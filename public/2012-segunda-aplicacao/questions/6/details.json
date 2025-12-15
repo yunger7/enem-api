@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 6 - ENEM 2012",
+  "index": 6,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Pode-se viver sem ciência, pode-se adotar crenças sem querer justificá-las racionalmente, pode-se desprezar as evidências empíricas. No entanto, depois de Platão e Aristóteles, nenhum homem honesto pode ignorar que uma outra atitude intelectual foi experimentada, a de adotar crenças com base em razões e evidências e questionar tudo o mais a fim de descobrir seu sentido último.\n\n                                                  ZINGANO, M. Platão e Aristóteles: o fascínio da filosofia. São Paulo: Odysseus, 2002.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Platão e Aristóteles marcaram profundamente a formação do pensamento Ocidental. No texto, é ressaltado importante aspecto filosófico de ambos os autores que, em linhas gerais, refere-se à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "adoção da experiência do senso comum como critério de verdade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "incapacidade de a razão confirmar o conhecimento resultante de evidências empíricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pretensão de a experiência legitimar por si mesma a verdade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "defesa de que a honestidade condiciona a possibilidade de se pensar a verdade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "compreensão de que a verdade deve ser justificada racionalmente.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

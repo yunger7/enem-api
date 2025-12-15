@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 77 - ENEM 2014",
+  "index": 77,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Fusíveis são dispositivos de proteção de um circuito elétrico, sensíveis ao excesso de corrente elétrica. Os modelos mais simples consistem de um filamento metálico de baixo ponto de fusão, que se funde quando a corrente ultrapassa determinado valor, evitando que as demais partes do circuito sejam danificadas. A figura mostra um diagrama de um circuito em que o fusível F protege um resistor R de 12 Ω, uma lâmpada L de 6 W e um alto-falante que conduz 1 A.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/77/77-1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Sabendo que esse fusível foi projetado para trabalhar com uma corrente até 20% maior que a corrente nominal que atravessa esse circuito, qual é o valor, em ampères, da corrente máxima que o fusível F permite passar?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3,0.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

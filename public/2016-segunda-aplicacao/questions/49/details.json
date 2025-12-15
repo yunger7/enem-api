@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 49 - ENEM 2016",
+  "index": 49,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Algumas práticas agrícolas fazem uso de queimadas, apesar de produzirem grandes efeitos negativos. Por exemplo, quando ocorre a queima da palha de cana-de-açúcar, utilizada na produção de etanol, há emissão de poluentes como CO2, SOx, NOx e materiais particulados (MP) para a atmosfera. Assim, a produção de biocombustíveis pode, muitas vezes, ser acompanhada da emissão de vários poluentes.\n\n                                                  CARDOSO, A. A.; MACHADO, C. M. D.; PEREIRA, E. A. Biocombustível: o mito do combustível limpo. Química Nova na Escola, n. 28, maio 2008 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando a obtenção e o consumo desse biocombustível, há transformação química quando",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o etanol é armazenado em tanques de aço inoxidável.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a palha de cana-de-açúcar é exposta ao sol para secagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a palha da cana e o etanol são usados como fonte de energia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "os poluentes SOx, NOx e MP são mantidos intactos e dispersos na atmosfera.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "os materiais particulados (MP) são espalhados no ar e sofrem deposição seca.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

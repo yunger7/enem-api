@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 102 - ENEM 2015",
+  "index": 102,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/102/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-102.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Ao interagirmos socialmente, é comum deixarmos claro nosso posicionamento a respeito do assunto discutido. Para isso, muitas vezes, recorremos a determinadas estratégias argumentativas, dentre as quais se encontra o argumento de autoridade. Considerando o texto em suas cinco partes, constata-se que há o emprego de argumento de autoridade no trecho:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Seja curioso, saboreie os momentos da vida e tome consciência de como se sente . Refletir sobre suas experiências ajuda a descobrir o que realmente importa.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“As pesquisas mostram que quem tem menos de três pessoas em sua rede de contatos próxima [...] tem mais chances de desenvolver uma doença mental.”",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "“Caminhe ou corra, ande de bicicleta, pratique um esporte, dance. Os exercícios fazem as pessoas se sentirem bem.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“Tente algo novo, matricule-se em um curso [...] Escolha um desafio que você vai gostar de perseguir.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“Fazer parte de uma comunidade traz benefícios — entre eles relações sociais mais significativas”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

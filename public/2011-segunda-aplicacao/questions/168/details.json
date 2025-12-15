@@ -1,0 +1,49 @@
+{
+  "year": 2011,
+  "title": "Questão 168 - ENEM 2011",
+  "index": 168,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No Brasil, costumamos medir temperaturas utilizando a escala Celsius. Os países de língua inglesa utilizam a escala Farenheit. A relação entre essas duas escalas é dada pela expressão F = C × 1,8 + 32, em que F representa a medida da temperatura na escala Farenheit e C a medida da temperatura na escala Celsius.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/168/168-a.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/168/168-ab.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/168/168-c.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/168/168-d.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/168/168-e.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O gráfico que representa a relação entre essas duas grandezas é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/168/168-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/168/168-ab.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/168/168-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/168/168-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/168/168-e.png",
+      "isCorrect": false
+    }
+  ]
+}

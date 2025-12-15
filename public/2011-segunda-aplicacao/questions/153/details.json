@@ -1,0 +1,50 @@
+{
+  "year": 2011,
+  "title": "Questão 153 - ENEM 2011",
+  "index": 153,
+  "discipline": "matematica",
+  "language": null,
+  "context": "onde A é a altura do salto, Q é um coeficiente e T o tamanho do sapato. O coeficiente Q depende de diversas variáveis, entre as quais, o impacto que o salto deve provocar nas pessoas que o vejam em uso, que pode valer de zero a 1.\n\n                                                  Disponível em: http://revistaescola.abril.com.br. Acesso em: abr. 2010 (adaptado).\n\n                              \n                                                Júlia construiu corretamente o gráfico que revela o desenvolvimento da função citada no texto, considerando o coeficiente Q = 1.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/153/153.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/153/153-a.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/153/153-b.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/153/153-c.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/153/153-d.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/153/153-e.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Dos gráficos apresentados, fora de escala, qual foi o construído por Júlia??",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/153/153-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/153/153-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/153/153-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/153/153-d.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/153/153-e.png",
+      "isCorrect": false
+    }
+  ]
+}

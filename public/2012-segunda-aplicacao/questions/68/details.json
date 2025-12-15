@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 68 - ENEM 2012",
+  "index": 68,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Após a redescoberta do trabalho de Gregor Mendel, vários experimentos buscaram testar a universalidade de suas leis. Suponha um desses experimentos, realizado em um mesmo ambiente, em que uma planta de linhagem pura com baixa estatura (0,6 m) foi cruzada com uma planta de linhagem pura de alta estatura (1,0 m). Na prole (F1) todas as plantas apresentaram estatura de 0,8 m. Porém, na F2 (F1 × F1) os pesquisadores encontraram os dados a seguir.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/68/Enem-2012-ppl-questao-68.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Os pesquisadores chegaram à conclusão, a partir da observação da prole, que a altura nessa planta é uma característica que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "não segue as leis de Mendel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "não é herdada e, sim, ambiental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "apresenta herança mitocondrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "é definida por mais de um gene.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "é definida por um gene com vários alelos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

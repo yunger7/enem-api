@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 127 - ENEM 2013",
+  "index": 127,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/127/enem2013.2.quest%C3%A3o127.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Os textos relativos ao mundo do trabalho, geralmente, são elaborados no padrão normativo da língua. No anúncio, apesar de o enunciador ter usado uma variedade linguística não padrão, ele atinge seus propósitos comunicativos porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os fazendeiros podem contar com a comodidade de serem atendidos em suas fazendas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a parede de uma casa é um suporte eficiente para a divulgação escrita de um anúncio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a letra de forma torna a mensagem mais clara, de modo a facilitar a compreensão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "os mecânicos especializados em máquinas pesadas são raros na zona rural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o contexto e a seleção lexical permitem que se alcance o sentido pretendido.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

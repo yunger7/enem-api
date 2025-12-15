@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 14 - ENEM 2011",
+  "index": 14,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Como tratar com os índios\nA experiência de trezentos anos tem feito ver que a aspereza é um meio errado para domesticar os índios; parece, pois, que brandura e afago são os meios que nos restam. Perdoar-lhes alguns excessos, de que sem dúvida seria causa a sua barbaridade e longo hábito com a falta de leis. Os habitantes da América são menos sanguinários do que os negros d’África, mais mansos, tratáveis e hospitais.\n\n                                                  VILHENA, L. S. A Bahia no século XVIII. Salvador: Itapuã, 1969 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O escritor português Luís Vilhena escreve, no século XVIII, sobre um tema recorrente para os homens da sua época. Seu posicionamento emerge de um contexto em que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o índio, pela sua condição de ingenuidade, representava uma possibilidade de mão de obra nas indústrias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a abolição da escravatura abriu uma lacuna na cadeia produtiva, exigindo, dessa forma, o trabalho do nativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o nativo indígena, estereotipado como um papel em branco, deveria adequar-se ao mundo do trabalho compulsório.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a escravidão do indígena apresentou-se como alternativa de mão de obra assalariada para a lavoura açucareira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a escravidão do negro passa a ser substituída pela indígena, sob a alegação de os primeiros serem selvagens.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

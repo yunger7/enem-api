@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 9 - ENEM 2011",
+  "index": 9,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A exploração de recursos naturais e a ocupação do território brasileiro têm uma longa história de degradação de áreas naturais. É resultado, entre outros fatores, da ausência de uma cultura de ocupação que respeitasse as características de seus biomas.\n\n                                                  Disponível em: http://www.comciencia.br. Acesso em: 19 abr. 2010 (fragmento).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Ao longo da história, a apropriação da natureza e de seus recursos pelas sociedades humanas alterou os biomas do planeta. Em relação aos biomas brasileiros, em qual deles esse tipo de processo se fez sentir de forma mais profunda e irreversível?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Na Floresta Amazônica, especialmente a partir da década de 1980, devastada pela construção de rodovias e expansão urbana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "No Cerrado, que abriga muitas espécies de árvores sob risco de extinção, atingido pela mineração e agricultura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "No Pantanal, que abrange parte dos estados de Mato Grosso e Mato Grosso do Sul, degradado pela mineração e pecuária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Na Mata Atlântica, que hoje abriga 7% da área original, devastada pela exploração da madeira e pelo crescimento urbano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Na Mata dos Cocais, localizada no Nordeste do país, desmatada pelo assoreamento e pelo cultivo da cana-de-açúcar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

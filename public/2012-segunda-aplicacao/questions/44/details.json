@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 44 - ENEM 2012",
+  "index": 44,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/44/Enem-2012-ppl-questao-44.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A figura representada por Charles Chaplin critica o modelo de produção do início do século XX, nos Estados Unidos da América, que se espalhou por diversos países e setores da economia e teve como resultado",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a subordinação do trabalhador à máquina, levando o homem a desenvolver um trabalho repetitivo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a ampliação da capacidade criativa e da polivalência funcional para cada homem em seu posto de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a organização do trabalho que possibilitou ao trabalhador o controle sobre a mecanização do processo de produção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o rápido declínio do absenteísmo, o grande aumento da produção conjugado com a diminuição das áreas de estoque.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as novas técnicas de produção que provocaram ganhos de produtividade, repassados aos trabalhadores como forma de eliminar as greves.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 67 - ENEM 2012",
+  "index": 67,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em 1543, Nicolau Copérnico publicou um livro revolucionário em que propunha a Terra girando em torno do seu próprio eixo e rodando em torno do Sol. Isso contraria a concepção aristotélica, que acredita que a Terra é o centro do universo. Para os aristotélicos, se a Terra gira do oeste para o leste, coisas como nuvens e pássaros, que não estão presas à Terra, pareceriam estar sempre se movendo do leste para o oeste, justamente como o Sol. Mas foi Galileu Galilei que, em 1632, baseando-se em experiências, rebateu a crítica aristotélica, confirmando assim o sistema de Copérnico. Seu argumento, adaptado para a nossa época, é: se uma pessoa, dentro de um vagão de trem em repouso, solta uma bola, ela cai junto a seus pés. Mas se o vagão estiver se movendo com velocidade constante, a bola também cai junto a seus pés. Isto porque a bola, enquanto cai, continua a compartilhar do movimento do vagão.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O princípio físico usado por Galileu para rebater o argumento aristotélico foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a lei da inércia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "ação e reação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a segunda lei de Newton.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a conservação da energia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o princípio da equivalência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

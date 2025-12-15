@@ -1,0 +1,46 @@
+{
+  "year": 2012,
+  "title": "Questão 113 - ENEM 2012",
+  "index": 113,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/113/Enem-2012-ppl-questao-113.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/113/Enem-2012-ppl-questao-113-2.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As imagens representam, respectivamente, as obras Futebol, do artista plástico Nelson Leirner; e Superhomens, de Rubens Gerchman. São obras representativas de um movimento denominado Pop Art, que ecoou no Brasil na década de 1960, no qual artistas se apropriaram de imagens da vida diária e da cultura de massa, tornando-as objetos de arte. A partir de uma perspectiva ampliada e crítica sobre o esporte, interpretada como um elemento da cultura corporal de movimento, as imagens",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "banalizam o esporte ao misturar o futebol e a pintura em um mesmo campo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "deixam transparecer a preferência de ambos os artistas pelo futebol enquanto esporte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "permitem refletir sobre como as artes visuais se apropriaram do futebol como uma tradição nacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "fazem uma reflexão crítica sobre o futebol e a violência como temas circulantes na sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "destacam a importância do esporte como atividade física de lazer para a sociedade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

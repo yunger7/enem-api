@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 67 - ENEM 2013",
+  "index": 67,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A qualidade de óleos de cozinha, compostos principalmente por moléculas de ácidos graxos, pode ser medida pelo índice de iodo. Quanto maior o grau de insaturação da molécula, maior o índice de iodo determinado e melhor a qualidade do óleo. Na figura, são apresentados alguns compostos que podem estar presentes em diferentes óleos de cozinha:",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/67/67.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Dentre os compostos apresentados, os dois que proporcionam melhor qualidade para os óleos de cozinha são os ácidos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "esteárico e oleico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "linolênico e linoleico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "palmítico e esteárico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "palmítico e linolênico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "linolênico e esteárico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

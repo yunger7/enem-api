@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 111 - ENEM 2013",
+  "index": 111,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O rio que fazia uma volta atrás de nossa casa era a imagem de um vidro mole que fazia uma volta atrás de casa.\nPassou um homem depois e disse: Essa volta que o rio faz por trás de sua casa se chama enseada.\nNão era mais a imagem de uma cobra de vidro que fazia uma volta atrás da casa.\nEra uma enseada.\nAcho que o nome empobreceu a imagem.\n\n                                                  BARROS, M. O livro das ignorãças. Rio de Janeiro: Record, 2001.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Manoel de Barros desenvolve uma poética singular, marcada por “narrativas alegóricas”, que transparecem nas imagens construídas ao longo do texto. No poema, essa característica aparece representada pelo uso do recurso de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "resgate de uma imagem da infância, com a cobra de vidro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apropriação do universo poético pelo olhar objetivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "transfiguração do rio em um vidro mole e cobra de vidro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "rejeição da imagem de vidro e de cobra no imaginário poético.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "recorte de elementos como a casa e o rio no subconsciente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

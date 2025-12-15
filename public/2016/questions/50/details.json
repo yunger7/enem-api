@@ -1,43 +1,43 @@
 {
-    "title": "Questão 50 - ENEM 2016",
-    "index": 50,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "A variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "-1090.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "-150.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "-50.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "+157.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "+470.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 50 - ENEM 2016",
+  "index": 50,
+  "year": 2016,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "O benzeno, um importante solvente para a indústria química, é obtido industrialmente pela destilação do petróleo. Contudo, também pode ser sintetizado pela trimerização do acetileno catalisada por ferro metálico sob altas temperaturas, conforme a equação química:3C2H2(g) → C6H6(l)A energia envolvida nesse processo pode ser calculada indiretamente pela variação de entalpia das reações de combustão das substâncias participantes, nas mesmas condições experimentais:I. C2H2(g) + 5/2O2(g) →  2CO2(g) + H2O(l)         ∆Hco = –310 kcal/molII. C6H6(l) + 15/2O2(g) à 6CO2(g) + 3H2O(l)        ∆Hco = –780 kcal/mol\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "-1090.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "-150.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "-50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "+157.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "+470.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

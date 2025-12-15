@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 127 - ENEM 2015",
+  "index": 127,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/127/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-127.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As redes sociais permitem que seus usuários facilmente compartilhem entre si ideias e opiniões. Na tirinha, há um tom de crítica àqueles que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fazem uso inadequado das redes sociais para criticar o mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "são usuários de redes sociais e têm seus desejos atendidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "se supõem críticos, porém não apresentam ação efetiva.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "são usuários das redes sociais e não criticam o mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "se esforçam para promover mudanças no mundo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

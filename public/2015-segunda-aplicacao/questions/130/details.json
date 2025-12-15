@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 130 - ENEM 2015",
+  "index": 130,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A dança moderna propõe em primeiro lugar o conhecimento de si e o autodomínio. Minha proposta é esta: através do conhecimento e do autodomínio chego à forma, à minha forma, — e não o contrário. É uma inversão que muda toda a estética, toda a razão do movimento. A técnica na dança tem apenas uma finalidade: preparar o corpo para responder à exigência do espírito artístico.\n\n                                                  VIANNA, K.; CARVALHO, M. A. A dança. São Paulo: Siciliano, 1990",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Na abordagem dos autores, a técnica, o autodomínio e o conhecimento do bailarino estão a serviço da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "padronização do movimento da dança.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "subordinação do corpo a um padrão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "concretização da criação pessoal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ideia preconcebida de forma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "busca pela igualdade entre os bailarinos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,43 +1,43 @@
 {
-    "title": "Questão 70 - ENEM 2014",
-    "index": 70,
-    "year": 2014,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "CH3COOH",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Na2SO4",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "CH3OH",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "K2CO3",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "NH4Cl",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 70 - ENEM 2014",
+  "index": 70,
+  "year": 2014,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "Visando minimizar impactos ambientais, a legislação brasileira determina que resíduos químicos lançados diretamente no corpo receptor tenham pH entre 5,0 e 9,0. Um resíduo líquido aquoso gerado em um processo industrial tem concentração de íons hidroxila igual a 1,0 u 1010 mol/L. Para atender a legislação, um químico separou as seguintes substâncias, disponibilizadas no almoxarifado da empresa: CH3COOH, Na2SO4 , CH3 OH, K2CO3 e NH4Cl.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CH3COOH",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Na2SO4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "CH3OH",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "K2CO3",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "NH4Cl",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "year": 2013,
+  "title": "Questão 173 - ENEM 2013",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O proprietário de uma casa de espetáculos observou que, colocando o valor da entrada a R$ 10,00, sempre contava com 1 000 pessoas a cada apresentação, faturando R$ 10 000,00 com a venda dos ingressos. Entretanto, percebeu também que, a partir de R$ 10,00, a cada R$ 2,00 que ele aumentava no valor da entrada, recebia para os espetáculos 40 pessoas a menos.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-a.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-b.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-c.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-d.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/173/173-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nessas condições, considerando P o número de pessoas presentes em um determinado dia e F o faturamento com a venda dos ingressos, a expressão que relaciona o faturamento em função do número de pessoas é dada por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/173-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/173-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/173-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/173-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/173/173-e.png",
+      "isCorrect": false
+    }
+  ]
+}

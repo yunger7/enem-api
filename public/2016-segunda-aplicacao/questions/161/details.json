@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 161 - ENEM 2016",
+  "index": 161,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Dispondo de um grande terreno, uma empresa de entretenimento pretende construir um espaço retangular para shows e eventos, conforme a figura.\n\n                                                \n                \n                  \n                                                    \n              \n                                                \nA área para o público será cercada com dois tipos de materiais:\n\n\n \n• nos lados paralelos ao palco será usada uma tela do tipo A, mais resistente, cujo valor do metro linear é R$ 20,00;\n• nos outros dois lados será usada uma tela do tipo B, comum, cujo metro linear custa R$ 5,00.\n \nA empresa dispõe de R$ 5 000,00 para comprar todas as telas, mas quer fazer de tal maneira que obtenha a maior área possível para o público.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/161/Capturar17.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A quantidade de cada tipo de tela que a empresa deve comprar é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "50,0 m da tela tipo A e 800,0 m da tela tipo B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "62,5 m da tela tipo A e 250,0 m da tela tipo B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "100,0 m da tela tipo A e 600,0 m da tela tipo B.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "125,0 m da tela tipo A e 500,0 m da tela tipo B.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "200,0 m da tela tipo A e 200,0 m da tela tipo B.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "year": 2016,
+  "title": "Questão 148 - ENEM 2016",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O Índice de Massa Corporal (IMC) pode ser considerado uma alternativa prática, fácil e barata para a medição direta de gordura corporal. Seu valor pode ser obtido pela fórmula IMC =, na qual a massa é em quilograma e a altura, em metro. As crianças, naturalmente, começam a vida com um alto índice de gordura corpórea, mas vão ficando mais magras conforme envelhecem, por isso os cientistas criaram um IMC especialmente para as crianças e jovens adultos, dos dois aos vinte anos de idade, chamado de IMC por idade.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/148/Capturar4.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/148/5cc1be74206ed74330a1346316eea3e4.png?latex=%5Cfrac%7BMassa%7D%7B%5Cleft(Altura%5Cright)%5E2%7D"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O gráfico mostra o IMC por idade para meninos.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,12 e 5,12.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,68 e 12,28.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3,47 e 7,47.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5,00 e 10,76.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "7,77 e 11,77.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

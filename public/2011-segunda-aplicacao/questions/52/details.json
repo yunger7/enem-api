@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 52 - ENEM 2011",
+  "index": 52,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para ser considerada potável, é preciso que a água esteja isenta de elementos nocivos à saúde, de substâncias tóxicas e de organismos patogênicos. Entre os muitos testes feitos pelas empresas de saneamento, estão o da dosagem de cloro residual, cuja finalidade é assegurar que a água liberada para o consumo não tenha excesso de cloro, que pode deixar um gosto característico na água; a demanda bioquímica de oxigênio (DBO), que expressa o teor de oxigênio presente na água, fator importante para identificar o grau de poluição das águas; o de coliformes fecais, que identifica a existência de bactérias encontradas nas fezes humanas na amostra de água, e o de pH, cuja função é avaliar se a amostra de água está dentro dos padrões de acidez estabelecidos para o consumo.\n\n                                                  BRANCO, S. M. Água, origem, uso e preservação. São Paulo: Moderna, 2001 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Entre os testes descritos, os mais importantes para garantir a saúde do consumidor e a manutenção da vida aquática são, respectivamente, os de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "DBO e pH.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "pH e cloro residual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cloro residual e DBO.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "coliformes fecais e DBO.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "cloro residual e coliformes fecais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

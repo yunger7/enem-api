@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 71 - ENEM 2016",
+  "index": 71,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em Bangladesh, mais da metade dos poços artesianos cuja água serve à população local está contaminada com arsênio proveniente de minerais naturais e de pesticidas. O arsênio apresenta efeitos tóxicos cumulativos. A ONU desenvolveu um kit para tratamento dessa água a fim de torná-la segura para o consumo humano. O princípio desse kit é a remoção do arsênio por meio de uma reação de precipitação com sais de ferro(l) que origina um sólido volumoso de textura gelatinosa.\n\n                                                  Disponível em: http:itciaea.org. Acesso em: 11 dez.2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Com o uso desse kit, a população local pode remover o elemento tóxico por meio de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fervura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "filtração.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "destilação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "calcinação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "evaporação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

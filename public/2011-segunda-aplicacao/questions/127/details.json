@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 127 - ENEM 2011",
+  "index": 127,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Nas sociedades urbanas, desde que nascemos, estamos imersos em um ambiente dominado pela tecnologia da informação e da comunicação e por produtos tecnológicos como o rádio, a TV, o cinema e a internet, com os quais criamos redes sociais via web, MSN, sites de relacionamento e Orkut. Utilizamos a tecnologia tanto para entrar em contato com amigos, quanto para o trabalho e para operações comerciais. Enquanto circulamos pelas cidades, nossos sentidos são tomados por informações medidas pela tecnologia, estampadas em outdoors, cartazes e bancas de jornais.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com o texto, a vida moderna é profundamente influenciada pela tecnologia da informação e da comunicação. Com base nessa assertiva, conclui-se que as pessoas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "passaram a se relacionar com os amigos exclusivamente por meio da tecnologia de informação e comunicação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "se encontram imersas em um mundo que promove um rápido fluxo de informação, o que afeta suas relações sociais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "perdem a capacidade de se comunicar de outras maneiras, ficando limitadas ao ambiente virtual em suas relações sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "se familiarizam completamente com as tecnologias na vida adulta, quando passam a consumir mais produtos tecnológicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dão mais importância ao MSN, aos sites de relacionamento e ao Orkut que a outras maneiras de se informarem e de se comunicarem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

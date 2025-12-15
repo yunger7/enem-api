@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 145 - ENEM 2012",
+  "index": 145,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma churrascaria cobra, no almoço, R$ 12,00 por pessoa. Após às 15 h, esse valor cai para R$ 9,00. Estimase que o custo total de um almoço seja de R$ 7,00 por pessoa. Em média, por dia, almoçam na churrascaria 1 000 clientes, sendo que 3/4 deles comparecem até às 15 h.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual o lucro médio, por dia, da churrascaria?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 9 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 7 000,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 4 250,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 3 750,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 2 250,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

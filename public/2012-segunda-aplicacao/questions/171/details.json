@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 171 - ENEM 2012",
+  "index": 171,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Admita que esse processo seja executado 3 vezes, ou seja, divide-se cada um dos quadrados pretos da Figura 3 em 9 quadrados idênticos e remove-se o quadrado central de cada um deles.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/171/171.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O número de quadrados pretos restantes nesse momento é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "64.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "512.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "568.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "576.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "648.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

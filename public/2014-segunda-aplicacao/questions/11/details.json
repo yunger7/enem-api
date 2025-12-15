@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 11 - ENEM 2014",
+  "index": 11,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A justiça é a primeira virtude das instituições sociais, como a verdade o é dos sistemas de pensamento. Cada pessoa possui uma inviolabilidade fundada na justiça que nem mesmo o bem-estar da sociedade como um todo pode ignorar. Por essa razão, a justiça nega que a perda de liberdade de alguns se justifique por um bem maior partilhado por todos.\n\n                                                  HAWLS, J. Uma teoria da justiça. São Paulo: Martins Fontes, 2000 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O filósofo afirma que a ideia de justiça atua como um importante fundamento da organização social e aponta como seu elemento de ação e funcionamento o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "povo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Estado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "governo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "indivíduo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "magistrado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

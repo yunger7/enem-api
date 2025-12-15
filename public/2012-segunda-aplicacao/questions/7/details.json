@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 7 - ENEM 2012",
+  "index": 7,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/7/Enem-2012-ppl-questao-07.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "De acordo com algumas teorias políticas, a formação do Estado é explicada pela renúncia que os indivíduos fazem de sua liberdade natural quando, em troca da garantia de direitos individuais, transferem a um terceiro o monopólio do exercício da força. O conjunto dessas teorias é denominado de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "liberalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "despotismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "socialismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "anarquismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "contratualismo.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

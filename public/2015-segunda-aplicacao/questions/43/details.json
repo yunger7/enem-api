@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 43 - ENEM 2015",
+  "index": 43,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As autoridades de Kiribati, arquipélago do Oceano Pacífico formado por 33 atóis e uma ilha de coral, estão conscientizando sua população para que aceitem que, nas próximas décadas, terão de fugir do país. A estimativa é que, em um período de 50 anos, as ilhas podem desaparecer. O governo convocou os líderes de todas as ilhas para convencê-los da importância de mudar a mentalidade das pessoas, com pleno conhecimento que é uma questão muito sensível porque ameaça a própria identidade de um país. Kiribati já antecipou convênios com Austrália e Nova Zelândia para enviar seus cidadãos aos países vizinhos, algo que muitos dos moradores do arquipélago não aceitam.\n\n                                                  Disponível em: http://noticias.terra.com.br. Acesso em: 28 jul. 2012.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "No texto, faz-se referência a um problema que se tornou um tema recorrente na agenda global. Nesse sentido, a preocupação apresentada pela população de Kiribati fundamenta-se na previsão de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "submersão de terras habitadas, decorrente da elevação do nível do mar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "ocorrência de tsunamis, derivada de mudanças no eixo de rotação do planeta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "erupções vulcânicas frequentes, visto que estão assentados sobre o Círculo do Fogo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "terremotos com magnitude extrema, devido à proximidade de bordas de placas tectônicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "furacões de grande intensidade, em função de redução da temperatura média do Oceano Pacífico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

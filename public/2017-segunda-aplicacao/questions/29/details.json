@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 29 - ENEM 2017",
+  "index": 29,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Como se apresentam os atos de ler e escrever no contexto dos canais de chat da internet? O próprio nome que designa estes espaços no meio virtual elucida que os leitores-escritores ali estão empenhados em efetivar uma conversação. Porém, não se trata de uma conversação nos moldes tradicionais, mas de um projeto discursivo que se realiza só e através das ferramentas do computador via canal eletrônico mediado por um software específico. A dimensão temporal deste tipo de interlocução caracteriza-se pela sincronicidade em tempo real, aproximando-se de uma conversa telefônica, porém, devido às especificidades do meio que põe os interlocutores em contato, estes devem escrever suas mensagens. Apesar da sensação de estarem falando, os enunciados que produzem são construídos num “texto falado por escrito”, numa “conversação com expressão gráfica”. A interação que se dá “tela a tela”, para que seja bem sucedida, exige, além das habilidades técnicas anteriormente descritas, muito mais do que a simples habilidade linguística de seus interlocutores. No interior de uma enorme coordenação de ações, o fenômeno chat também envolve conhecimentos paralinguísticos e socioculturais que devem ser partilhados por seus usuários. Isso significa dizer que esta atividade comunicacional, assim como as demais, também apresenta uma vinculação situacional, ou seja, não pode a língua, nesta esfera específica da comunicação humana, ser separada do contexto em que se efetiva.\n\n                                                  BERNARDES, A. S.; VIEIRA, P M. T. Disponível em: www.anped.org.br. Acesso em: 14 ago. 2012.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "No texto, descreve-se o chat como um tipo de conversação “tela a tela” por meio do computador e enfatiza-se a necessidade de domínio de diversas habilidades. Uma característica desse tipo de interação é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "coordenação de ações, ou atitudes, que reflitam modelos de conversação tradicionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "presença obrigatória de elementos iconográficos que reproduzam características do texto falado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "inserção sequencial de elementos discursivos que sejam similares aos de uma conversa telefônica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "produção de uma conversa que articula elementos das modalidades oral e escrita da língua.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "agilidade na alternância de temas e de turnos conversacionais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

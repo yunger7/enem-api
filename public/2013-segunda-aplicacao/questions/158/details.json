@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 158 - ENEM 2013",
+  "index": 158,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O proprietário de um terreno retangular medindo 10 m por 31,5 m deseja instalar lâmpadas nos pontos C e D, conforme ilustrado na figura:\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/158/158.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Cada lâmpada ilumina uma região circular de 5 m de raio. Os segmentos AC e BD medem 2,5 m. O valor em m² mais aproximado da área do terreno iluminada pelas lâmpadas é\n(Aproxime √3 para 1,7 e π para 3.)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "34.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "61.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "69.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

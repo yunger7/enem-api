@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 32 - ENEM 2016",
+  "index": 32,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O Movimento Negro Unificado (MNU) distingue-se do Teatro Experimental do Negro (TEN) por sua crítica ao discurso nacional hegemônico. Isto é, enquanto o TEN defende a plena integração simbólica dos negros na identidade nacional “híbrida”, o MNU condena qualquer tipo de assimilação, fazendo do combate à ideologia da democracia racial uma das suas principais bandeiras de luta, visto que, aos olhos desse movimento, a igualdade formal assegurada pela lei entre negros e brancos e a difusão do mito de que a sociedade brasileira não é racista teriam servido para sustentar, ideologicamente, a opressão racial.\n\n                                                  COSTA, S. Dois Atlânticos: teoria social, antirracismo, cosmopolitismo. Belo Horizonte: UFMG, 2006 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "No texto, são comparadas duas organizações do movimento negro brasileiro, criadas em diferentes contextos históricos: o TEN, em 1944, e o MNU, em 1978. Ao assumir uma postura divergente da do TEN, o MNU pretendia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "pressionar o governo brasileiro a decretar a igualdade racial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "denunciar a permanência do racismo nas relações Sociais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "contestar a necessidade da igualdade entre negros e brancos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "defender a assimilação do negro por meios não democráticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "divulgar a ideia da miscigenação como marca da nacionalidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

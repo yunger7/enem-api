@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 124 - ENEM 2013",
+  "index": 124,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O Grandescompras é um site de compras coletivas do Brasil e surgiu devido a esta nova modalidade de comércio eletrônico que vem crescendo a cada dia no mundo, e também aqui no Brasil. As compras coletivas são a moda da vez, e para quem ainda não conhece esse sistema, ele já é bem popular nos Estados Unidos há muito tempo, vindo a se destacar aqui no Brasil após o início de 2010. O Grandescompras possui ofertas especiais que podem variar de 50% a 90%, de acordo com a quantidade de pessoas interessadas em adquirir o produto/serviço. Para se ter uma ideia, existem descontos em bares, restaurantes, salões de beleza e muitos outros lugares.\n\n                                                  Disponível em: www.noticiaki.com. Acesso em: 12 jan. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O advento da internet produziu mudanças no comportamento dos consumidores e nas relações de compra e venda. Segundo o texto, a adesão dos consumidores ao site de compras coletivas pela internet está relacionada ao fato de que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a venda eletrônica constitui um modismo característico dos dias atuais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o consumidor deseja realizar uma compra recorrendo a um meio fácil e seguro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a diminuição do preço de um produto está relacionada ao aumento de sua procura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "os descontos em produtos exclusivos aumentam o prestígio social dos internautas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a compra pela internet é uma prática recorrente entre moradores de países ricos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

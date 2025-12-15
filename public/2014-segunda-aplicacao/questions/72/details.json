@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 72 - ENEM 2014",
+  "index": 72,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Surtsey é uma ilha vulcânica situada perto da costa sul da Islândia. A erupção vulcânica que lhe deu origem ocorreu na década de 1960, o que faz dela, seguramente, a ilha mais nova do Oceano Atlântico. As primeiras espécies que aí se fixaram foram musgos e liquens. À medida que as aves foram fixando-se na ilha, as condições do solo foram melhorando e espécies vegetais mais complexas puderam iniciar a colonização do território. Em 1988 foi observada a presença do primeiro arbusto.\n\n                                                  Disponível em: www.nacopadasarvores.blogspot.com.br. Acesso em: 25 maio 2012 (fragmento)",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O conjunto das alterações ocorridas no ambiente descrito é exemplo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nicho ecológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "eficiência ecológica",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "sucessão ecológica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "irradiação adaptativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "resistência ambiental.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

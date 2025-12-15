@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 151 - ENEM 2016",
+  "index": 151,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um terreno retangular de lados cujas medidas, em metro, são x e y será cercado para a construção de um parque de diversões. Um dos lados do terreno encontra-se às margens de um rio. Observe a figura.\n\n\nPara cercar todo o terreno, o proprietário gastará R$ 7 500,00. O material da cerca custa R$ 4,00 por metro para os lados do terreno paralelos ao rio, e R$ 2,00 por metro para os demais lados.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/151/Capturar11.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4(2x + y) = 7 500",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "4(x + 2y) = 7 500",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2(x + y) = 7 500",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2(4x + y) = 7 500",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2(2x + y) = 7 500",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

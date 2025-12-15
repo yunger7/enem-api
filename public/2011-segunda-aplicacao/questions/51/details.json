@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 51 - ENEM 2011",
+  "index": 51,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A reciclagem exerce impacto considerável sobre a eficiência energética. Embora restaurar materiais que foram descartados também consuma energia, é possível que essa energia seja substancialmente menor. O gráfico seguinte indica a quantidade de energia necessária para a produção de materiais primários e reciclados. A maioria dos metais ocorre na crosta terrestre como óxidos que devem ser reduzidos para recuperar o metal elementar, o que consome grande quantidade de energia. As entalpias-padrão de formação dos óxidos de alumínio e ferro são, respectivamente: -1 675,7 kJ/mol e -824,2 kJ/mol.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/51/Enem-2011-ppl-questao-51.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A energia gasta na obtenção do alumínio a partir do seu material primário é maior do que a do aço, porque o alumínio",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "forma seu óxido absorvendo menos energia que o ferro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "requer 200 vezes mais energia para ser isolado do seu minério do que o ferro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "requer praticamente o dobro de energia para ser isolado do seu óxido do que requer o ferro, no estado padrão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "apresenta entalpia de formação no seu óxido menor do que a entalpia do ferro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "apresenta somente uma valência constante, enquanto o ferro pode apresentar normalmente duas valências.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

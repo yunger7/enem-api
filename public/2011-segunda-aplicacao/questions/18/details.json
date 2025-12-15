@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 18 - ENEM 2011",
+  "index": 18,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Texto I\nA escravidão não é algo que permaneça apesar do sucesso das três revoluções liberais, a inglesa, a norte americana e a francesa; ao contrário, ela conhece o seu máximo desenvolvimento em virtude desse sucesso. O que contribui de forma decisiva para o crescimento dessa instituição, que é sinônimo de poder absoluto do homem sobre o homem, é o mundo liberal.\n\n                                                  Losurdo, D. Contra-história do liberalismo. Aparecida: Ideias & Letras, 2006 (adaptado).\n\n                              \n                                                \n                Texto II\nE, sendo uma economia de exploração do homem, o capitalismo tanto comercializou escravos para o Brasil, o Caribe e o sul dos Estados Unidos, nas décadas de 30, 40, 50 e 60 do século XIX, como estabeleceu o comércio de trabalhadores chineses para Cuba e o fluxo de emigrantes europeus para os Estados Unidos e o Canadá. O tráfico negreiro se manteve para o Brasil depois de sua proibição, pela lei de 1831, porque ainda ofereceu respostas ao capitalismo.\n\n                                                  Tavares, L. H. D. Comércio proibido de escravos. São Paulo: Ática, 1988 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Ambos os textos apontam para uma relação entre escravidão e capitalismo no século XIX. Que relação é essa?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A imposição da escravidão à América pelo capitalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A escravidão na América levou à superação do capitalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A contribuição da escravidão para o desenvolvimento do sistema capitalista.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "A superação do ideário capitalista em razão do regime escravocrata.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A fusão dos sistemas escravocrata e capitalista, originando um novo sistema.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

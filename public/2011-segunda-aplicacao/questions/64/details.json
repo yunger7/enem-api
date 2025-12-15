@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 64 - ENEM 2011",
+  "index": 64,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O problema da poluição da água afeta muito a qualidade de vida de uma cidade, trazendo prejuízos de ordem social e econômica. A seguir, são apresentados dois processos que têm como intuito a despoluição de águas.\n\n                                                \n                PROCESSO 1 – Tratamento de esgotos: O processo é estritamente biológico e aeróbio, no qual o esgoto bruto da cidade e o lodo ativado são misturados, agitados e aerados em unidades conhecidas como tanques de aeração. Após este procedimento, o lodo é enviado para o decantador secundário, onde a parte sólida vai para o fundo e a parte líquida já está sem 90% das impurezas.\n\n                                                  SABESP. Tratamento de esgotos. Disponível em: http://site.sabesp.com.br.\nAcesso em: 30 abr. 2010 (adaptado).\n\n                              \n                                                \n                PROCESSO 2 – Tratamento de rios: O processo começa com a remoção mecânica dos resíduos sólidos carregados pelo rio e são adicionados os agentes coagulantes que agregam a sujeira. Após essa etapa, é realizada a microaeração, permitindo a flotação ou elevação dos flocos acima da superfície da água, facilitando sua remoção. Dependendo do uso a ser dado à água, ocorre a desinfecção do efluente.\n\n                                                  Sampa Online. Como Funciona o Sistema de Flotação e Remoção de Flutuantes para melhoria das águas do Rio Pinheiros. Disponível em: http://www.sampaonline.com.br.\nAcesso em: 29 abr. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Visando à manutenção da qualidade ambiental de um determinado corpo hídrico, o processo mais indicado para atender a esse objetivo é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2, dada a complexidade dos poluentes nos rios, pois consegue remover qualquer fonte poluidora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1, pois, apesar de ser complexo, tratar o esgoto antes de chegar ao rio impede novas cargas de dejetos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "2, porque o rio poluído é tratado no seu próprio leito e, se o esgoto for despejado nele, não causará problemas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1, pois tratar o esgoto residencial recupera a qualidade da água, podendo servir para o abastecimento residencial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1, por ser menos complexo, de fácil implantação e de menor custo, pois basta direcionar a rede de esgoto para a estação de tratamento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

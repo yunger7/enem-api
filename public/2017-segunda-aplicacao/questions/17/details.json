@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 17 - ENEM 2017",
+  "index": 17,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/17/17.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Inovando os padrões estéticos de sua época, a obra de Pablo Picasso foi produzida utilizando características de um movimento artístico que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dispensa a representação da realidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "agrega elementos da publicidade em suas composições.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "valoriza a composição dinâmica para representar movimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "busca uma composição reduzida e seus elementos primários de forma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "explora a sobreposição de planos geométricos e fragmentos de objetos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

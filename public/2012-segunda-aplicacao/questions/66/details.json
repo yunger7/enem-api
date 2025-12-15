@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 66 - ENEM 2012",
+  "index": 66,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A vesícula biliar é um órgão muscular onde a bile é armazenada. Os cálculos biliares que algumas vezes se formam neste órgão devem ser removidos cirurgicamente, dependendo da avaliação da gravidade das complicações decorrentes da presença desses cálculos no indivíduo. Entretanto, apesar de algum prejuízo causado pela remoção da vesícula biliar, o indivíduo pode ter uma vida relativamente normal.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A remoção cirúrgica desse órgão retardará a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "síntese de glicogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "produção de bile.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "secreção de suco gástrico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "produção de enzimas digestivas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "digestão das gorduras.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

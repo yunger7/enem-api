@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 86 - ENEM 2011",
+  "index": 86,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um detector de mentiras consiste em um circuito elétrico simples do qual faz parte o corpo humano. A inserção do corpo humano no circuito se dá do dedo indicador da mão direita até o dedo indicador da mão esquerda. Dessa forma, certa corrente elétrica pode passar por uma parte do corpo. Um medidor sensível (amperímetro) revela um fluxo de corrente quando uma tensão é aplicada no circuito. No entanto, a pessoa que se submete ao detector não sente a passagem da corrente. Se a pessoa mente, há uma ligeira alteração na condutividade de seu corpo, o que altera a intensidade da corrente detectada pelo medidor.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No dimensionamento do detector de mentiras, devem ser levados em conta os parâmetros: a resistência elétrica dos fios de ligação, a tensão aplicada no circuito e a resistência elétrica do medidor. Para que o detector funcione adequadamente como indicado no texto, quais  devem ser as características desses parâmetros?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Pequena resistência dos fios de ligação, alta tensão aplicada e alta resistência interna no medidor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Alta resistência dos fios de ligação, pequena tensão aplicada e alta resistência interna no medidor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Alta resistência dos fios de ligação, alta tensão aplicada e resistência interna desprezível no medidor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Pequena resistência dos fios de ligação, alta tensão aplicada e resistência interna desprezível no medidor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Pequena resistência dos fios de ligação, pequena tensão aplicada e resistência interna desprezível no medidor.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

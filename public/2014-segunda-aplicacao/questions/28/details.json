@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 28 - ENEM 2014",
+  "index": 28,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os movimentos sociais do século XXI, ações coletivas deliberadas que visam à transformação de valores e instituições da sociedade, manifestam-se na e pela internet. O mesmo pode ser dito do movimento ambiental, o movimento das mulheres, vários movimentos pelos direitos humanos, movimentos de identidade étnica, movimentos religiosos, movimentos nacionalistas e dos defensores/proponentes de uma lista infindável de projetos culturais e causas políticas.\n\n                                                  CASTELLS, M. A galáxia da internet: reflexões sobre a internet, os negócios e a sociedade.\nRio de Janeiro: Jorge Zahar, 2003.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "De acordo com o texto, a população engajada em processos políticos pode utilizar a rede mundial de computadores como recurso para mobilização, pois a internet caracteriza-se por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diminuir a insegurança do sistema eleitoral.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "reforçar a possibilidade de maior participação qualificada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "garantir o controle das informações geradas nas mobilizações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "incrementar o engajamento cívico para além das fronteiras locais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "ampliar a participação pela solução da escassez de tempo dos cidadãos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

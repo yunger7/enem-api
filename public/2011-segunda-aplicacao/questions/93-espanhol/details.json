@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 93 - ENEM 2011",
+  "index": 93,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "El peso y el olor a rancio de los libros de tapa dura están a un paso más cerca de convertirse en reliquia de museo. Es que Amazon.com, una de las librerías más grandes de Estados Unidos, anunció que en los tres últimos meses las ventas de libros electrónicos para Kindle, el e-reader de Amazon, superaron por primera vez a las de volúmenes de papel.\nEl hecho de que los e-books se vendan hoy más que los de papel es algo “asombroso si se tiene en cuenta que vendemos libros de tapa dura desde hace 15 años y (libros) Kindle desde hace 33 meses”, indicó en una declaración Jeffrey Bezos, principal ejecutivo de Amazon.com.\n\n                                                  Disponível em: http://www.clarin.com. Acesso em: 24 jul. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Extraída de um jornal argentino, a reportagem enfatiza uma mudança causada pelas novas tecnologias. Tomando-se como base os dados apresentados e a fala do entrevistado, constata-se que a intenção do autor ao produzir essa reportagem foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "anunciar que a venda de livros eletrônicos superou a de impressos na Amazon.com.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "informar que a Amazon.com está em primeiro lugar na venda de livros eletrônicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "comunicar que a Amazon.com interrompeu a venda de livros de capa dura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "divulgar o lançamento de novos livros eletrônicos no site da Amazon.com.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apresentar as expectativas da Amazon.com sobre novas vendas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

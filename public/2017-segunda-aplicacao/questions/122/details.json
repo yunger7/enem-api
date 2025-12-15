@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 122 - ENEM 2017",
+  "index": 122,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Uma mulher deu à luz o seu primeiro filho e, após o parto, os médicos testaram o sangue da criança para a determinação de seu grupo sanguíneo. O sangue da criança era do tipo O+. Imediatamente, a equipe médica aplicou na mãe uma solução contendo anticorpos anti-Rh, uma vez que ela tinha o tipo sanguíneo O-.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é a função dessa solução de anticorpos?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Modificar o fator Rh do próximo filho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Destruir as células sanguíneas do bebê.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Formar uma memória imunológica na mãe.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Neutralizar os anticorpos produzidos pela mãe.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Promover a alteração do tipo sanguíneo materno.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 113 - ENEM 2015",
+  "index": 113,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Telecommuting redefine o tradicional entendimento sobre o espaço de trabalho. Atualmente, as organizações estão se focando em novos valores, tais como, inovações, satisfação, responsabilidades, resultados e ambiente de trabalho familiar. A alternativa do telecommutingcomplementa esses princípios e oferece flexibilidade aos patrões e empregados. É um conceito novo que, a cada dia, ganha mais força ao redor do mundo. Grandes empresas escolheram o trabalho de telecommuting pelas facilidades que ele gera para o empregador. A implantação do telecommuting determina regras para se trabalhar em casa em dias específicos da semana e, nos demais dias, trabalhar no escritório. O local de trabalho pode ser a casa ou, temporariamente, por motivo de viagem, outros escritórios.\n\n                                                  FERREIRA JR., J.C. Disponível em: www.ccuec.unicamp.br. Acesso em: 1 ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Com o advento das novas tecnologias, a sociedade tem vivenciado mudanças de paradigmas em vários setores. Nesse sentido, o telecommuting traz novidades para o mundo do trabalho porque proporciona prioritariamente o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumento da produtividade do empregado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "equilibrio entre vida pessoal e profissional do trabalhador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fortalecimento da relação entre empregador e empregado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "participação do profissional nas decisões da organização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "maleabilidade dos locais de atuação do profissional da empresa.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

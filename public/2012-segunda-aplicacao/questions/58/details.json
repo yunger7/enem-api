@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 58 - ENEM 2012",
+  "index": 58,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Chuveiros elétricos possuem uma chave para regulagem da temperatura verão/inverno e para desligar o chuveiro. Além disso, é possível regular a temperatura da água, abrindo ou fechando o registro. Abrindo, diminui-se a temperatura e fechando, aumenta-se.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Aumentando-se o fluxo da água há uma redução na sua temperatura, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumenta-se a área da superfície da água dentro do chuveiro, aumentando a perda de calor por radiação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aumenta-se o calor específico da água, aumentando a dificuldade com que a massa de água se aquece no chuveiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "diminui-se a capacidade térmica do conjunto água/ chuveiro, diminuindo também a capacidade do conjunto de se aquecer.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diminui-se o contato entre a corrente elétrica do chuveiro e a água, diminuindo também a sua capacidade de aquecê-la.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "diminui-se o tempo de contato entre a água e a resistência do chuveiro, diminuindo a transferência de calor de uma para a outra.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

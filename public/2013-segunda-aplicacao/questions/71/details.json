@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 71 - ENEM 2013",
+  "index": 71,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As algas marinhas podem ser utilizadas para reduzir a contaminação por metais pesados em ambientes aquáticos. Elas podem funcionar como uma “esponja biológica”, absorvendo esses poluentes. Dentro das células dessas algas, esses metais são imobilizados no vacúolo por mecanismos bioquímicos.\n\n                                                  Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 21 nov. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nesse processo, as algas atuam como agentes que promovem a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "biodigestão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "eutrofização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "desnitrificação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "biorremediação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "biomonitoração.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

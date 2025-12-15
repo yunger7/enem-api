@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 17 - ENEM 2014",
+  "index": 17,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Texto II\nEm janeiro de 1928, Tarsila queria dar um presente de aniversário especial ao seu marido, Oswald de Andrade. Pintou o Abaporu. Eles acharam que parecia uma figura indígena, antropófaga, e Tarsila lembrou-se do dicionário tupi-guarani de seu pai. Batizou-se o quadro de Abaporu, que significa homem que come carne humana, o antropófago. E Oswald escreveu o Manifesto Antropófago fundaram o Movimento Antropofágico.\n\n                                                  Disponível em: www.tarsiladoamaral.com.br. Acesso em: 4 ago. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/17/questao17.2014.ppl_.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O movimento originado da obra Abaporu pretendia se apropriar",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da cultura europeia, para originar algo brasileiro.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "da arte clássica, para copiar o seu ideal de beleza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "do ideário republicano, para celebrar a modernidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "das técnicas artísticas nativas, para consagrar sua tradição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da herança colonial brasileira, para preservar sua identidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 116 - ENEM 2012",
+  "index": 116,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/116/Enem-2012-ppl-questao-116.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Essa peça publicitária foi construída relacionando elementos verbais e não verbais. Considerando-se as estratégias argumentativas utilizadas pelo seu autor, percebe-se que a linguagem verbal explora, predominantemente, a função apelativa da linguagem, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "imprime no texto a posição pessoal do autor em relação ao lugar descrito, objeto da propaganda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "utiliza o artifício das repetições para manter a atenção do leitor, potencial consumidor de seu produto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mantém o foco do texto no leitor, pelo emprego repetido de “você”, marca de interlocução.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "veicula informações sobre as características físicas do lugar, balneário com grande potencial turístico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estabelece uma comparação entre a paisagem e uma pintura, artifício geralmente eficaz em propagandas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

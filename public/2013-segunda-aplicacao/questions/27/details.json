@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 27 - ENEM 2013",
+  "index": 27,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Com um longo histórico de desencontros, o desenvolvimento econômico e o meio ambiente andam às turras no país. O noticiário dá a impressão de que se trata de diferenças irreconciliáveis, e talvez sejam.\n\n                                                  CINTRA, L. A.; MARTINS, R. Revista Carta na Escola, ago. 2009 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Nesse início de século XXI, um exemplo dos desencontros entre natureza e economia é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "replantio de espécies da Mata Atlântica em substituição às lavouras de café.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "derrubada de trechos de floresta para a conclusão de viadutos na Rodovia Transamazônica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "expansão da fronteira agrícola na Amazônia, a fim de expandir as áreas de plantio de soja.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "redução da Mata de Araucárias devido à urbanização descontrolada nas diferentes regiões do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "diminuição do Pantanal, tendo em vista a expansão dos latifúndios, que cumprem sua função social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,43 +1,43 @@
 {
-    "title": "Questão 173 - ENEM 2014",
-    "index": 173,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Qual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "8",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "80",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "800",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "8 000",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "80 000",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "title": "Questão 173 - ENEM 2014",
+  "index": 173,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área.Sabe-se que 1 hectare corresponde a 1 hectômetro quadrado.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "80",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "800",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80 000",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
 }

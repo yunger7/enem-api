@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 109 - ENEM 2013",
+  "index": 109,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I\nDois quadros\nNa seca inclemente do nosso Nordeste,\nO sol é mais quente e o céu mais azul\nE o povo se achando sem pão e sem veste,\nViaja à procura das terras do Sul.\nDe nuvem no espaço, não há um farrapo,\nSe acaba a esperança da gente roceira,\nNa mesma lagoa da festa do sapo,\nAgita-se o vento levando a poeira\nTEXTO II\nABC do Nordeste flagelado\nO – Outro tem opinião\nde deixar mãe, deixar pai,\nporém para o Sul não vai,\nprocura outra direção.\nVai bater no Maranhão\nonde nunca falta inverno;\noutro com grande consterno\ndeixa o casebre e a mobília\ne leva a sua família\npra construção do governo.\n\n                                                  Disponível em: www.revista.agulha.com.br. Acesso em: 23 abr. 2010 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os Textos I e II são de autoria do escritor nordestino Patativa do Assaré, que, em sua obra, retrata de forma bastante peculiar os problemas de sua região. Esses textos têm em comum o fato de abordarem",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a falta de esperança do povo nordestino, que se deixa vencer pela seca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a dúvida de que a ajuda do governo chegará ao povo nordestino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o êxodo do homem nordestino à procura de melhores condições de vida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "o sentimento de tristeza do povo nordestino devido à falta de chuva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o sofrimento dos animais durante os longos períodos de estiagem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 36 - ENEM 2011",
+  "index": 36,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As modificações naturais e artificiais na cobertura vegetal das bacias hidrográficas influenciam o seu comportamento hidrológico. A alteração da superfície da bacia tem impactos significativos sobre o escoamento. Esse impacto normalmente é caracterizado quanto ao efeito que provoca no comportamento das enchentes, nas vazões mínimas e na vazão média.\n\n                                                  TUCCI, C.E.M.; CLARKE, R.T. Impacto das mudanças da cobertura vegetal no escoamento: erosão. Revista Brasileira de Recursos Hídricos. V. 2, n°. 1 jan./jun. 1997 (fragmento).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Ao analisar três rios com coberturas vegetais distintas ― agrícola, floresta regenerada e floresta natural ― de uma mesma bacia hidrográfica, após uma mesma precipitação, conclui-se que a vegetação é fundamental no comportamento da vazão dos rios, uma vez que a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cobertura mais densa no ambiente agrícola proporciona o menor pico de vazão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cobertura mais espaçada na floresta natural ocasiona o maior pico de vazão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "floresta regenerada, por possuir mais densidade de biomassa, possui o menor pico de vazão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "vegetação agrícola proporciona o mais demorado e o segundo maior pico de vazão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "vegetação de floresta natural possui o menor pico de vazão.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

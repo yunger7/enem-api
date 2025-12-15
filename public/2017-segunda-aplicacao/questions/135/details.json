@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 135 - ENEM 2017",
+  "index": 135,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/135/135.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A faixa espectral da radiação solar que contribui fortemente para o efeito mostrado na tirinha é caraterizada como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "visível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "amarela.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "vermelha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ultravioleta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "infravermelha.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

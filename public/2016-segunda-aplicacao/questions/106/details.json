@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 106 - ENEM 2016",
+  "index": 106,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O acervo do Museu da Língua Portuguesa é o nosso idioma, um “patrimônio imaterial” que não pode ser, por isso, guardado e exposto em uma redoma de vidro. Assim, o museu, dedicado à valorização e difusão da língua portuguesa, reconhecidamente importante para a preservação de nossa identidade cultural, apresenta uma forma expositiva diferenciada das demais instituições museológicas do país e do mundo, usando tecnologia de ponta e recursos interativos para a apresentação de seus conteúdos.\n\n                                                  Disponível em: www.museulinguaponuguesa.org.br. Acesso em: 16 ago. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com o texto, embora a língua portuguesa seja um “patrimônio imaterial”, pode ser exposta em um museu. A relevância desse tipo de iniciativa está pautada no pressuposto de que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a língua é um importante instrumento de constituição social de seus usuários.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o modo de falar o português padrão deve ser divulgado ao grande público.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a escola precisa de parceiros na tarefa de valorização da língua portuguesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o contato do público com a norma-padrão solicita o uso de tecnologia de última geração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "as atividades lúdicas dos falantes com sua própria língua melhoram com o uso de recursos tecnológicos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

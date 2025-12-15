@@ -1,43 +1,43 @@
 {
-    "title": "Questão 168 - ENEM 2015",
-    "index": 168,
-    "year": 2015,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "D",
-    "alternativesIntroduction": "A probabilidade de o entrevistador ser entendido e ter sua pergunta oralmente respondida em inglês é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "23,7%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "30,0%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "44,1%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "65,7%",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "E",
-            "text": "90,0%",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 168 - ENEM 2015",
+  "index": 168,
+  "year": 2015,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Em uma escola, a probabilidade de um aluno compreender e falar inglês é de 30%. Três alunos dessa escola, que estão em fase final de seleção de intercâmbio, aguardam, em uma sala, serem chamados para uma entrevista. Mas, ao invés de chamá-los um a um, o entrevistador entra na sala e faz, oralmente, uma pergunta em inglês que pode ser respondida por qualquer um dos alunos.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A probabilidade de o entrevistador ser entendido e ter sua pergunta oralmente respondida em inglês é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "23,7%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "30,0%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "44,1%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "65,7%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "90,0%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

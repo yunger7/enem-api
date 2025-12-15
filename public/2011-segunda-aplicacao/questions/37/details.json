@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 37 - ENEM 2011",
+  "index": 37,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "“Não à liberdade para os inimigos da liberdade”, dizia Saint-Just. Isso significa dizer: não à tolerância para os intolerantes.\n\n                                                  Héritier, F. O eu, o outro e a tolerância. In: Héritier, F.; CHANGEUX, J. P. (orgs.).\nUma ética para quantos? São Paulo: Edusc, 1999 (fragmento).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A contemporaneidade abriga conflitos éticos e políticos, dos quais o racismo, a discriminação sexual e a intolerância religiosa são exemplos históricos. Com base no texto, qual é a principal contribuição da Ética para a estruturação política da sociedade contemporânea?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Revisar as leis e o sistema político como mecanismo de adequação às novas demandas éticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Propor modelos de conduta fundados na justiça, na liberdade e na diversidade humana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Criar novas leis éticas com a finalidade de punir os sujeitos racistas e intolerantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Instaurar um programa de reeducação ética fundado na prevenção da violência e na restrição da liberdade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Instituir princípios éticos que correspondam ao interesse de cada grupo social.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 132 - ENEM 2017",
+  "index": 132,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A figura mostra a bateria de um computador portátil, a qual necessita de uma corrente elétrica de 2 A para funcionar corretamente.\n\nnull",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/132/132.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Quando a bateria está completamente carregada, o tempo máximo, em minuto, que esse notebook pode ser usado antes que ela “descarregue” completamente é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "24,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "36,7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "132.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "333.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "528.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

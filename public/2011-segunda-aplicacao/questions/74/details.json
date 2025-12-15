@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 74 - ENEM 2011",
+  "index": 74,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A recapitulação é uma ideia audaciosa e influente, associada especialmente a Ernst Haeckel. Segundo a teoria da recapitulação, as fases de desenvolvimento de um organismo (ontogenia) correspondem à história de sua espécie (filogenia). A aparência transitória de estruturas semelhantes a fendas branquiais no desenvolvimento de humanos e outros mamíferos é um exemplo notável. Os mamíferos evoluíram de um estágio ancestral de peixe e suas fendas branquiais embrionárias recapitulam tal ancestralidade.\n\n                                                  RIDLEY, M. Evolução. Porto Alegre: Artmed, 2006 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Com base nos pressupostos da teoria da recapitulação, a assertiva que melhor a resume é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "\"A ontogenia recapitula a filogenia”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "“A vida recapitula a morte dos antepassados”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“A teoria da vida recapitula a história da vida”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“A aparência transitória é um exemplo notável”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“A ontogenia consiste na formação das brânquias dos peixes”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

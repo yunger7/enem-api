@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 177 - ENEM 2012",
+  "index": 177,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Assim, segundo a OMS, um indivíduo de 2,10 metros de altura que pesa 80 kg tem IMC inferior a 19, sendo classificado como “abaixo do peso”.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/177/177.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Se um indivíduo de 144 kg e 2 metros de altura perder 64 kg numa dieta, então este indivíduo migrará da classe",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "obesidade mórbida para a classe abaixo do peso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "obesidade mórbida para a classe peso normal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "obesidade do tipo 1 para a classe abaixo do peso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "obesidade do tipo 1 para a classe peso normal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "sobrepeso para a classe peso normal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

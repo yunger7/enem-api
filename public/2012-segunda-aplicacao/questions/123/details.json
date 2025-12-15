@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 123 - ENEM 2012",
+  "index": 123,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O que a internet esconde de você \nPara cada site que você pode visitar, existem pelo menos 400 outros que não consegue acessar. Eles existem, estão lá, mas são invisíveis. Estão presos num buraco negro digital maior do que a própria internet. A cada vez que você interage com um amigo nas redes sociais, vários outros são ignorados e têm as mensagens enterradas num enorme cemitério on-line. E, quando você faz uma pesquisa no Google, não recebe os resultados de fato — e sim uma versão maquiada, previamente modificada de acordo com critérios secretos. Sim, tudo isso é verdade — e não é nenhuma grande conspiração. Acontece todos os dias sem que você perceba. Pegue seu chapéu de Indiana Jones e vamos explorar a web perdida.\n\n                                                  GRAVATÁ, A. Superinteressante, nov. 2011 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os gêneros do discurso jornalístico, geralmente a manchete, a notícia e a reportagem, exigem um repórter que não diz “eu”, nem mesmo que se refira ao leitor do texto explicitamente. No trecho lido, ao contrário, é recorrente o emprego de “você”, o qual",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "remete a um sujeito “eu” que se prende ao próprio dizer, fortalecendo a subjetividade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "explicita uma construção metalinguística que se volta para o próprio dizer.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "deixa claro o leitor esperado para o texto, aquele que visita redes sociais e sites de busca no dia a dia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "estabelece conexão entre o fatual e o opinativo, o que descaracteriza o texto como reportagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "revela a intenção de tornar a leitura mais fácil, a partir de um texto em que se emprega vocabulário simples.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 99 - ENEM 2014",
+  "index": 99,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Ave a raiva desta noite\nA baita lasca fúria abrupta\nLouca besta vaca solta\nRuiva luz que contra o dia\nTanto e tarde madrugada\n\n                                                  LEMINSKI, P. Distraídos venceremos. São Paulo: Brasiliense, 2002 (fragmento).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No texto de Leminski, a linguagem produz efeitos sonoros e jogos de imagens. Esses jogos caracterizam a função poética da linguagem, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "objetivam convencer o leitor a praticar uma determinada ação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "transmitem informações, visando levar o leitor a adotar um determinado comportamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "visam provocar ruídos para chamar a atenção do leitor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "apresentam uma discussão sobre a própria linguagem, explicando o sentido das palavras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "representam um uso artístico da linguagem, com o objetivo de provocar prazer estético no leitor.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

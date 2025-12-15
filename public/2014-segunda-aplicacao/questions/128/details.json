@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 128 - ENEM 2014",
+  "index": 128,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Há o hipotrélico. O termo é novo, de impensada origem e ainda sem definição que lhe apanhe em todas as pétalas o significado. Sabe-se, só, que vem do bom português. Para a prática, tome-se hipotrélico querendo dizer: antipodático, sengraçante imprizido; ou talvez, vicedito: indivíduo pedante, importuno agudo, falta de respeito para com a opinião alheia. Sob mais que, tratando-se de palavra inventada, e, como adiante se verá, embirrando o hipotrélico em não tolerar neologismos, começa ele por se negar nominalmente a própria existência.\n\n                                                  ROSA, G. Tutameia: terceiras estórias. Rio de Janeiro: Nova Fronteira, 2001 (fragmento).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nesse trecho de uma obra de Guimarães Rosa, depreende-se a predominância de uma das funções da linguagem, identificada como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "metalinguística, pois o trecho tem como propósito essencial usar a língua portuguesa para explicar a própria língua, por isso a utilização de vários sinônimos e definições.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "referencial, pois o trecho tem como principal objetivo discorrer sobre um fato que não diz respeito ao escritor ou ao leitor, por isso o predomínio da terceira pessoa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fática, pois o trecho apresenta clara tentativa de estabelecimento de conexão com o leitor, por isso o emprego dos termos “sabe-se lá” e “tome-se hipotrélico”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "poética, pois o trecho trata da criação de palavras novas, necessária para textos em prosa, por isso o emprego de “hipotrélico”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "expressiva, pois o trecho tem como meta mostrar a subjetividade do autor, por isso o uso do advérbio de dúvida “talvez”.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

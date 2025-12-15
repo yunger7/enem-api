@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 85 - ENEM 2015",
+  "index": 85,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para irrigar sua plantação, um produtor rural construiu um reservatório a 20 metros de altura a partir da barragem de onde será bombeada a água. Para alimentar o motor elétrico das bombas, ele instalou um painel fotovoltaico. A potência do painel varia de acordo com a incidência solar, chegando a um valor de pico de 80 W ao meio-dia. Porém, entre as 11 horas e 30 minutos e as 12 horas e 30 minutos, disponibiliza uma potência média de 50 W. Considere a aceleração da gravidade igual a 10 m/s² e uma eficiência de transferência energética de 100%.\n\nnull",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é o volume de água, em litros, bombeado para o reservatório no intervalo de tempo citado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "150.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "250.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "450.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "900.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1440.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

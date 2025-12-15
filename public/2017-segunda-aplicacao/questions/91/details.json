@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 91 - ENEM 2017",
+  "index": 91,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Ao sintonizar uma estação de rádio AM, o ouvinte está selecionando apenas uma dentre as inúmeras ondas que chegam à antena receptora do aparelho. Essa seleção acontece em razão da ressonância do circuito receptor com a onda que se propaga.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O fenômeno físico abordado no texto é dependente de qual característica da onda?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Amplitude.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Polarização.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Frequência.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Intensidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Velocidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

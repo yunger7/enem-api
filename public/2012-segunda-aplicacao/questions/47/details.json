@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 47 - ENEM 2012",
+  "index": 47,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A produção de biocombustíveis é resultado direto do fomento a pesquisas científicas em biotecnologia que ocorreu no Brasil nas últimas décadas. A escolha do vegetal a ser usado considera, entre outros aspectos, a produtividade da matéria-prima em termos de rendimento e custos associados. O etanol é produzido a partir da fermentação de carboidratos e quanto mais simples a molécula de glicídio, mais eficiente é o processo.\n\n                                                  Etanol de quê? Revista Pesquisa Fapesp, 28 nov. 2007 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O vegetal que apresenta maior eficiência no processo da produção do etanol é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o milho, pois apresenta sementes com alto teor de amido.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a mandioca, pois apresenta raízes com alto teor de celulose.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a soja, pois apresenta sementes com alto teor de glicogênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o feijão, pois apresenta sementes com alto teor de quitina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a cana-de-açúcar, pois apresenta colmos com alto teor de sacarose.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

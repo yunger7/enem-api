@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 176 - ENEM 2011",
+  "index": 176,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Célia é uma confeiteira renomada na pequena cidade onde mora. Herdou de sua avó uma receita de brigadeiro que faz o maior sucesso. Os ingredientes da receita enchem sempre uma panela, de forma cilíndrica, com 40 cm de altura e 30 cm de diâmetro. Para inovar e atrair mais clientes, em vez de vender os brigadeiros na forma de “bolinhas”, Célia tem feito brigadeiros em forma de cones. Para isso, utiliza forminhas cônicas de 5 cm de altura e raio da base de 1,5 cm.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A cada receita produzida, a quantidade de cones de brigadeiro que Célia consegue obter é\n(Vcilindro = πR²h e Vcone = πR²h/3)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "600 unidades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "800 unidades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 400 unidades.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "3 200 unidades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "9 600 unidades.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

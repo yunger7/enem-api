@@ -1,43 +1,43 @@
 {
-    "title": "Questão 171 - ENEM 2013",
-    "index": 171,
-    "year": 2013,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Qual é a expressão que representa a relação entre X e Y",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "5X − 3Y + 15 = 0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "5X − 2Y + 10 = 0",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "3X − 3Y + 15 = 0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "3X − 2Y + 15 = 0",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "3X − 2Y + 10 = 0",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 171 - ENEM 2013",
+  "index": 171,
+  "year": 2013,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Na aferição de um novo semáforo, os tempos são ajustados de modo que, em cada ciclo completo (verde-amarelo- vermelho), a luz amarela permaneça acesa por 5 segundos, e o tempo em que a luz verde permaneça acesa seja igual a 2/3 do tempo em que a luz vermelha\nfique acesa. A luz verde fica acesa, em cada ciclo, durante X segundos e cada ciclo dura Y segundos.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é a expressão que representa a relação entre X e Y",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5X − 3Y + 15 = 0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5X − 2Y + 10 = 0",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "3X − 3Y + 15 = 0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3X − 2Y + 15 = 0",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3X − 2Y + 10 = 0",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

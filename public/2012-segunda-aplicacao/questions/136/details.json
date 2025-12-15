@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 136 - ENEM 2012",
+  "index": 136,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A tabela seguinte apresenta a média, em kg, de resíduos domiciliares produzidos anualmente por habitante, no período de 1995 a 2005.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/136/136.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Se essa produção continuar aumentando, mantendo o mesmo padrão observado na tabela, a previsão de produção de resíduos domiciliares, por habitante no ano de 2020, em kg, será",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "610.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "640.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "660.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "700.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "710.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

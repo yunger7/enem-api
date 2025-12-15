@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 63 - ENEM 2011",
+  "index": 63,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Estudos mostram que a prática de esportes pode aumentar a produção de radicais livres, um subproduto da nossa respiração que está ligado ao processo de envelhecimento celular e ao surgimento de doenças como o câncer. Para neutralizar essas moléculas nas células, quem faz esporte deve dar atenção especial aos antioxidantes. As vitaminas C, E e o selênio fazem parte desse grupo.\n\n                                                  SÁ, V. Exercícios bem nutridos. Disponível em: http://saude.abril.com.br.\nAcesso em: 29 abr. 2010.(adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A ação antioxidante das vitaminas C e E e do selênio deve-se às suas capacidades de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reagir com os radicais livres gerados no metabolismo celular através do processo de oxidação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "diminuir a produção de oxigênio no organismo e o processo de combustão que gera radicais livres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aderir à membrana das mitocôndrias, interferindo no mecanismo de formação desses radicais livres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inibir as reações em cadeia utilizadas no metabolismo celular para geração dos radicais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "induzir a adaptação do organismo em resposta à geração desses radicais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

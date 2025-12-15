@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 118 - ENEM 2017",
+  "index": 118,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A capacidade de uma bateria com acumuladores, tal como a usada no sistema elétrico de um automóvel, é especificada em ampère-hora (Ah). Uma bateria de 12V e 100 Ah fornece 12 J para cada coulomb de carga que flui através dela.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Se um gerador, de resistência interna desprezível, que fornece uma potência elétrica média igual a 600 W, fosse conectado aos terminais da bateria descrita, quanto tempo ele levaria para recarregá-la completamente?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,5 h",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 h",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "12 h",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "50 h",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "100 h",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

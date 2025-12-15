@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 154 - ENEM 2011",
+  "index": 154,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No labirinto em um parque de diversões, representado pela malha quadriculada, encontram-se sete crianças: Ana, Carol, Samanta, Denise, Roberta, Eliana e Larissa, representadas por pontos, identificados pela letra inicial do nome de cada uma delas. A malha é formada por quadrados, cujos lados medem 1 cm.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/154/154.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Considere que cada criança pode se deslocar apenas na direção vertical ou horizontal dentro do labirinto. Desse modo, Ana encontra-se equidistante de Samanta e de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Carol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Denise.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Eliana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Larissa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Roberta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

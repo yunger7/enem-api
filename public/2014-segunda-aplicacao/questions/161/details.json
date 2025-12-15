@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 161 - ENEM 2014",
+  "index": 161,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma revista publicará os dados, apresentados no gráfico, sobre como os tipos sanguíneos estão distribuídos entre a população brasileira. Contudo, o editor dessa revista solicitou que esse gráfico seja publicado na forma de setores, em que cada grupo esteja representado por um setor circular.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/161/161.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O ângulo do maior desses setores medirá, em graus,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "108,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "122,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "129,6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "151,2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "154,8.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

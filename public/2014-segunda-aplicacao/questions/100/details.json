@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 100 - ENEM 2014",
+  "index": 100,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Giocondas gêmeas\nA existência de uma segunda pintura da Mona Lisa — a Gioconda, de Leonardo da Vinci — foi confirmada pelo Museu do Prado, em Madri, em fevereiro. O quadro era conhecido desde o século XVIII, mas tido como uma reprodução tardia do original. Um trabalho de restauração revelou que seu fundo de cor negra na verdade recobria a reprodução de uma típica paisagem da Toscana, como a pintada por Da Vinci. Radiografias mostraram\nque a tela é irmã gêmea do original, provavelmente pintada por discípulos do mestre, sob supervisão de Da Vinci, no seu ateliê de Florença, entre 1503 e 1506. Os dois quadros serão, agora, expostos no Louvre. Há, entretanto, diferenças: a florentina Lisa Gherardini (Mona Lisa), aparentemente na meia-idade, parece mais moça na nova tela. O manto sobre o ombro esquerdo do quadro original surge como um véu transparente, e o decote aparece com mais nitidez. A descoberta reforça a tese de estudiosos, como o inglês Martin Kemp, de que assistentes de Da Vinci ajudaram na composição de telas importantes do mestre.\n\n                                                  Revista Planeta, ano 40, ed. 474, mar. 2012",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/100/GIOCONDASG%C3%8AMEAS.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para cumprir sua função social, o gênero notícia precisa divulgar informações novas. No texto Giocondas gêmeas, além de ser confirmada a existência de uma tela gêmea de Mona Lisa e de serem destacadas as diferenças entre elas, o valor informativo do texto está centrado na",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "afirmação de que a Gioconda genuína estava na fase da meia-idade",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "revelação da identidade da mulher pintada por Da Vinci, a florentina Lisa Gherardini.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "consideração de que as produções artísticas de Da Vinci datam do período renascentista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "descrição do fato de que a tela original mostra um manto sobre o ombro esquerdo da personagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "confirmação da hipótese de que Da Vinci teve assistentes que o auxiliaram em algumas de suas obras.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

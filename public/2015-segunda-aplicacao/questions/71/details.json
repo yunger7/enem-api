@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 71 - ENEM 2015",
+  "index": 71,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O quadro apresenta a composição do petróleo.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/71/71-1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para a separação dos constituintes com o objetivo de produzir a gasolina, o método a ser utilizado é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "filtração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "destilação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "decantação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "precipitação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "centrifugação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

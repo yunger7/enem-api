@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 48 - ENEM 2011",
+  "index": 48,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Estudos mostram que através de terapia gênica é possível alterar a composição e aumentar a resistência dos músculos. Nos músculos normais, quando há necessidade de reparos, as células-satélite são atraídas por sinais químicos emitidos pela lesão, se reproduzem e se fundem às fibras musculares, aumentando, assim, o seu volume. O mecanismo é regulado pela miostatina, uma proteína que “ordena” que as células-satélite parem de se reproduzir.\n\n                                                  Scientific American Brasil. N° 27, ago. 2004",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Uma técnica de terapia gênica consistindo na injeção de um gene que codifica uma proteína capaz de bloquear a ação da miostatina na fibra muscular provocaria",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "maior proliferação de células-satélite e de fibras musculares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "menor produção de células-satélite e de fibras musculares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "menor produção de miofibrilas e de fibras musculares atrofiadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "maior produção de células-satélite e diminuição do volume de fibras musculares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "maior proliferação de células-satélite e aumento do volume de fibras musculares.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

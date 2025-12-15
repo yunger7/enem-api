@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 30 - ENEM 2011",
+  "index": 30,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O processo de modernização da agricultura brasileira que vem se processando nas últimas décadas tem causado grandes transformações no campo. A principal delas é a privatização de grandes parcelas de terras, fato que não é recente na história brasileira.\n\n                                                  RIBEIRO, H. S. O migrante e a cidade: dilemas e conflitos.\nAraraquara: Wunderlich, 2001 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Embora esteja associado à ampliação do PIB e ao aumento das exportações, o processo de modernização da agricultura vivido pelo Brasil nas últimas décadas contribuiu para a exclusão social no campo, porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ampliou os salários e a concorrência pelas vagas de trabalho no agronegócio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "revelou a inadaptação dos trabalhadores rurais à modernidade capitalista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "contribuiu para a especulação fundiária e o êxodo de trabalhadores rurais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "impediu a participação dos pequenos agricultores no mercado de exportações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "significou uma expressiva diminuição da infraestrutura produtiva nas cidades do interior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

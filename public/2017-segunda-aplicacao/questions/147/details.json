@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 147 - ENEM 2017",
+  "index": 147,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Os computadores operam com dados em formato binário (com dois valores possíveis apenas para cada dígito), utilizando potências de 2 para representar quantidades. Assim, tem-se, por exemplo: 1 kB = 210 Bytes, 1 MB = 210 kB e 1 GB =210 MB, sendo que 210 = 1 024. Nesse caso, tem-se que kB significa quilobyte, MB significa megabyte e GB significa gigabyte. Entretanto, a maioria dos fabricantes de discos rígidos, pendrives ou similares adotam preferencialmente o significado usual desses prefixos, em base 10. Assim, nos produtos desses fabricantes , 1GB = 103 MB = 106 kB = 109 Bytes. Como a maioria dos programas de computadores utilizam as unidades baseadas em potências de 2, um disco informado pelo fabricante como sendo de 80 GB aparecerá aos usuários como possuindo, aproximadamente, 75GB.\nUm disco rígido está sendo vendido como possuindo 500 gigabytes, considerando unidades em potências de 10.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual dos valores está mais próximo do valor informado por um programa que utilize medidas baseadas em potências de 2?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "468 GB",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "476 GB",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "488 GB",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "500 GB",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "533 GB",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 157 - ENEM 2011",
+  "index": 157,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A renda de uma família é de R$ 1 750,00. O dinheiro é utilizado da seguinte maneira:\n \nAlimentação: R$ 600,00\nSaúde: R$ 300,00\nTransporte: R$ 150,00\nEducação: R$ 350,00\nLazer: R$ 200,00\nGastos eventuais: R$ 100,00\nPoupança: R$ 50,00\n \nNo mês de julho, o gasto com alimentação diminuiu 4%, o gasto com transporte aumentou 10% e o gasto com educação aumentou 10%.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para continuar utilizando os R$ 1 750,00, o que a família deverá decidir com relação ao valor destinado à poupança, mantendo as demais despesas inalteradas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Aumentá-lo em 4%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Aumentá-lo em 8%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Aumentá-lo em 16%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Diminuí-lo em 26%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Diminuí-lo em 52%.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

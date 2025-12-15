@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 147 - ENEM 2016",
+  "index": 147,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O gerente de um estacionamento, próximo a um grande aeroporto, sabe que um passageiro que utiliza seu carro nos traslados casa-aeroporto-casa gasta cerca de R$ 10,00 em combustível nesse trajeto. Ele sabe, também, que um passageiro que não utiliza seu carro nos traslados casa-aeroporto-casa gasta cerca de R$ 80,00 com transporte.\nSuponha que os passageiros que utilizam seus próprios veículos deixem seus carros nesse estacionamento por um período de dois dias.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para tornar atrativo a esses passageiros o uso do estacionamento, o valor, em real, cobrado por dia de estacionamento deve ser, no máximo, de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "35,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "40,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "45,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "70,00",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "90,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

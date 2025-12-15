@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 136 - ENEM 2011",
+  "index": 136,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Considere que o esquema represente uma trilha poligonal que Carlos deve percorrer, partindo do ponto A até chegar ao ponto M.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/136/1361.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Sabendo que o segmento AB possui 11 m de comprimento e, a partir desse, o comprimento de cada segmento seguinte possui um metro a menos que o comprimento do segmento anterior, quantos metros Carlos terá caminhado ao percorrer toda a trilha?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "176",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "121",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "111",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "66",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "65",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

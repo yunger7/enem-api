@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 167 - ENEM 2012",
+  "index": 167,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um professor, ao fazer uma atividade de origami (dobraduras) com seus alunos, pede para que estes dobrem um pedaço de papel em forma triangular, como na figura a seguir, de modo que M e N sejam pontos médios respectivamente de AB e AC, e D, ponto do lado BC, indica a nova posição do vértice A do triângulo ABC.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/167/167.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Se ABC é um triângulo qualquer, após a construção, são exemplos de triângulos isósceles os triângulos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CMA e CMB.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "CAD e ADB.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "NAM e NDM.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "CND e DMB.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "CND e NDM.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

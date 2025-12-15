@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 92 - ENEM 2014",
+  "index": 92,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Disponível em: www.mec.es. Acesso em: 27 fev. 2012.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/92/GRACIASPORNOFUMAR.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Gracias por no fumar é o título de um texto publicitário produzido pelo Ministério da Educação e Cultura da Espanha. Esse título, associado ao conteúdo do texto, tem como finalidade",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "proibir o consumo de cigarro em ambientes públicos",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "informar os sintomas do tabagismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "convencer os fumantes a abandonar o vício.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "questionar a qualidade de vida do fumante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "agradecer às pessoas que não fumam.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

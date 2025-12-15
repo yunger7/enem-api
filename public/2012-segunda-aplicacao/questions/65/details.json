@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 65 - ENEM 2012",
+  "index": 65,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Observe atentamente a charge.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/65/Enem-2012-ppl-questao-65.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Além do risco de acidentes, como o referenciado na charge, o principal problema enfrentado pelos países que dominam a tecnologia associada às usinas termonucleares é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a escassez de recursos minerais destinados à produção do combustível nuclear.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a produção dos equipamentos relacionados às diversas etapas do ciclo nuclear.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o destino final dos subprodutos das fissões ocorridas no núcleo do reator.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a formação de recursos humanos voltados para o trabalho nas usinas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o rigoroso controle da Agência Internacional de Energia Atômica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

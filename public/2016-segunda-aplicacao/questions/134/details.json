@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 134 - ENEM 2016",
+  "index": 134,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Anoitecer\n \nA Dolores\nÉ a hora em que o sino toca,\nmas aqui não há sinos;\nhá somente buzinas,\nsirenes roucas,\napitos aflitos, pungentes, trágicos,\nuivando escuro segredo;\ndesta hora tenho medo.\n[…]\nÉ a hora do descanso,\nmas o descanso vem tarde,\no corpo não pede sono,\ndepois de tanto rodar;\npede paz – morte – mergulho\nno poço mais ermo e quedo;\ndesta hora tenho medo.\nHora de delicadeza,\nagasalho, sombra, silêncio.\nHaverá disso no mundo?\nÉ antes a hora dos corvos,\nbicando em mim,\nmeu passado, meu futuro, meu degredo;\ndesta hora, sim, tenho medo.\n\n                                                  ANDRADE, C. D. A rosa do povo. Rio de Janeiro: Record, 2005 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base no contexto da Segunda Guerra Mundial, o livro A rosa do povo revela desdobramentos da visão poética. No fragmento, a expressividade lírica demonstra um(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defesa da esperança como forma de superação das atrocidades da guerra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desejo de resistência às formas de opressão e medo produzidas pela guerra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "olhar pessimista das instituições humanas e sociais submetidas ao conflito armado.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "exortação à solidariedade para a reconstrução dos espaços urbanos bombardeados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "espírito de contestação capaz de subverter a condição de vítima dos povos afetados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

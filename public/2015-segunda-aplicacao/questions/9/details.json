@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 9 - ENEM 2015",
+  "index": 9,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Decreto-lei 3.509, de 12 de setembro de 1865\nArt. 1º – O cidadão guarda-nacional que por si apresentar outra pessoa para o serviço do Exército por tempo de noves anos, com a idoneidade regulada pelas leis militares, ficará isento não só do recrutamento, senão também do serviço da Guarda Nacional. O substituído é responsável por o que o substituiu, no caso de deserção.\n\n                                                  Arquivo Histórico do Exército. Ordem do dia do Exército, n. 455, 1865 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No artigo, tem-se um dos mecanismos de formação dos “Voluntários da Pátria”, encaminhados para lutar na Guerra do Paraguai. Tal prática passou a ocorrer com muita frequência no Brasil nesse período e indica o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "forma como o Exército brasileiro se tornou o mais bem equipado da América do Sul.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "incentivo dos grandes proprietários à participação dos seus filhos no conflito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "solução adotada pelo país para aumentar o contingente de escravos no conflito",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "envio de escravos para os conflitos armados, visando sua qualificação para o trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fato de que muitos escravos passaram a substituir seus proprietários em troca de liberdade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

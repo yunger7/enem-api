@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 167 - ENEM 2015",
+  "index": 167,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O sindicato de trabalhadores de uma empresa sugere que o piso salarial da classe seja de R$ 1 800,00, propondo um aumento percentual fixo por cada ano dedicado ao trabalho. A expressão que corresponde à proposta salarial (s), em função do tempo de serviço (t), em anos, é s(t) = 1800.(1,03)t .",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "De acordo com a proposta do sindicato, o salário de um profissional dessa empresa com 2 anos de tempo de serviço será, em reais,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7.416,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3.819,24.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3.709,62.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3.708,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1.909,62.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

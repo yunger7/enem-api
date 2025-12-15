@@ -1,0 +1,49 @@
+{
+  "year": 2015,
+  "title": "Questão 58 - ENEM 2015",
+  "index": 58,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O avanço tecnológico da medicina propicia o desenvolvimento de tratamento para diversas doenças, como as relacionadas à visão. As correções que utilizam laser para o tratamento da miopia são consideradas seguras até 12 dioptrias, dependendo da espessura e curvatura da córnea. Para valores de dioptria superiores a esse, o implante de lentes intraoculares é mais indicado. Essas lentes, conhecidas como lentes fácicas (LF), são implantadas junto à córnea, antecedendo o cristalino (C), sem que esse precise ser removido, formando a imagem correta sobre a retina (R).\n\nnull",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-a.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-b.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-c.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-d.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/58/58-e.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O comportamento de um feixe de luz incidindo no olho que possui um implante de lentes fácicas para correção do problema de visão apresentado é esquematizado por:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/58-a.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/58-b.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/58-c.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/58-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/58/58-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

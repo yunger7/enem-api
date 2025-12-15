@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 52 - ENEM 2012",
+  "index": 52,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em dias com baixas temperaturas, as pessoas utilizam casacos ou blusas de lã com o intuito de minimizar a sensação de frio. Fisicamente, esta sensação ocorre pelo fato de o corpo humano liberar calor, que é a energia transferida de um corpo para outro em virtude da diferença de temperatura entre eles.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A utilização de vestimenta de lã diminui a sensação de frio, porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "possui a propriedade de gerar calor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "é constituída de material denso, o que não permite a entrada do ar frio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "diminui a taxa de transferência de calor do corpo humano para o meio externo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "tem como principal característica a absorção de calor, facilitando o equilíbrio térmico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "está em contato direto com o corpo humano, facilitando a transferência de calor por condução.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

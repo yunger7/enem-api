@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 124 - ENEM 2014",
+  "index": 124,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A escrita é uma tecnologia intelectual que vem auxiliar o trabalho biológico. É como uma nova memória, situada fora do sujeito, e ilimitada. Com ela não é mais necessário reter todos os relatos – este auxiliar cognitivo vem, portanto, relativizar a memória para que a mente humana possa desviar sua atenção consciente para outros recursos e faculdades. \n \nSe é arriscado associar diretamente o surgimento da ciência ao da escrita, podemos, de qualquer forma, afirmar que a escrita deu impulso e desempenhou um papel fundamental na construção do discurso científico. O distanciamento possibilitado pela grafia no papel traz o registro das experiências e das hipóteses, o conhecimento especulativo, o documentário de comprovações, a compilação de teorias e de paradigmas em torno dos quais as comunidades científicas vão se agrupar.\n\n                                                  RAMAL, A. C. Educação na cibercultura: hipertextualidade, leitura, escrita e aprendizagem.\nPorto Alegre: Artmed, 2002.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O advento da escrita como tecnologia intelectual está diretamente ligado a uma série de mudanças na forma de pensar e de construir o conhecimento nas sociedades. A partir do texto, constata-se que, na elaboração do discurso científico, a escrita",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "determinou de que modo a sociedade científica deveria se organizar para avançar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "possibilitou que os pesquisadores se distanciassem de informações presentes na memória.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "permitiu que fossem documentados conceitos e saberes advindos de experiências realizadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "facilitou que as informações ficassem armazenadas igualmente na memória e no papel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "consentiu que a atenção dos homens se desviasse para os saberes antigamente inalcançáveis.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

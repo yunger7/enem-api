@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 36 - ENEM 2012",
+  "index": 36,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A integração do espaço amazônico ao espaço nacional se deu no contexto das questões de fronteiras de políticas, no sentido do dinamismo pioneiro da integração. Essas fronteiras foram elementos fundamentais para a compreensão da geopolítica dos militares, que não apenas objetivavam a posse do vazio demográfico, mas representavam os interesses do governo brasileiro em manter sob sua influência uma grande área no interior do continente.\n\n                                                  MELLO, N. A. Políticas territoriais na Amazônia. São Paulo: Annablume, 2006",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "No texto, são apresentados fundamentos da política de colonização de uma importante região brasileira, ao longo do período dos governos militares. Uma estratégia estatal para a ocupação desse espaço foi:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Demarcação de reservas para preservação da floresta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Criação de restrições para exploração de recursos minerais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Adoção de estímulos para expansão de grupos econômicos privados.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Concessão de incentivos fiscais para instalação da indústria automobilística.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Construção de uma densa rede de transporte para escoamento da produção agrícola.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

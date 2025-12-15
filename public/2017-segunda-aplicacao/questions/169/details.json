@@ -1,0 +1,49 @@
+{
+  "year": 2017,
+  "title": "Questão 169 - ENEM 2017",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma pessoa pede informação na recepção de um prédio comercial de como chegar a uma sala, e recebe as seguintes instruções: suba a escada em forma de U à frente, ao final dela vire à esquerda, siga um pouco à frente e em seguida vire à direita e siga pelo corredor. Ao final do corredor, vire à direita.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/169/169-a.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/169/169-b.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/169/169-c.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/169/169-d.png",
+    "https://enem.dev/2017-segunda-aplicacao/questions/169/169-e.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Uma possível projeção vertical dessa trajetória no plano da base do prédio é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/169/169-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/169/169-b.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/169/169-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/169/169-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2017-segunda-aplicacao/questions/169/169-e.png",
+      "isCorrect": false
+    }
+  ]
+}

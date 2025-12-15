@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 34 - ENEM 2011",
+  "index": 34,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A aceleração da taxa de extinção de espécies é um grave e irreversível problema global causado pelos danos às reservas florestais. As previsões das taxas de extinção variam enormemente e, segundo alguns autores, poderão variar entre 20% e 50% de todas as espécies existentes até o final do século, essencialmente, pela destruição do hábitat nos trópicos.\n\n                                                  As Reservas Florestais pedem Socorro. Revista Geografia. Ed. 30, abr. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As taxas atuais de extinção nos países desenvolvidos são baixas em comparação com as das florestas tropicais e isso se deve à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "exploração sustentável da enorme diversidade natural existente nesses países.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "introdução de modernas tecnologias capazes de conter o avanço do desmatamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "degradação já causada anteriormente por pressões advindas do processo de industrialização.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "conservação de superfícies significativas de ecossistemas pouco alterados pela ação antrópica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "incorporação dos recursos florestais à riqueza nacional desses países, favorecendo o extrativismo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

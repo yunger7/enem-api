@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 179 - ENEM 2012",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No ano de 2010, o DataSenado realizou uma pesquisa intitulada “Condições de vida das pessoas com deficiência no Brasil”. A pesquisa ouviu 1 165 pessoas com deficiência e uma das questões foi a seguinte: “Para você, nos últimos anos, o preconceito em relação às pessoas com deficiência está igual, aumentando ou diminuindo?”. A porcentagem das respostas a esta pergunta é mostrada na tabela a seguir.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/179/179.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Pelos dados contidos na tabela, o número que mais se aproxima da quantidade de pessoas que responderam “diminuindo” é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "69.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "116.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "361.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "687.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "1 106.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

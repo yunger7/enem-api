@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 8 - ENEM 2013",
+  "index": 8,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Do outro lado do Atlântico, a coisa é bem diferente. A classe média europeia não está acostumada com a moleza. Toda pessoa normal que se preze esfria a barriga no tanque e a esquenta no fogão, caminha até a padaria para comprar o seu próprio pão e enche o tanque de gasolina com as próprias mãos.\n\n                                                  SETTI, A. Disponível em: http://colunas.revistaepoca.globo.com. Acesso em: 21 maio 2013 (fragmento).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A diferença entre os costumes assinalados no texto e os da classe média brasileira é consequência da ocorrência no Brasil de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "automação do trabalho nas fábricas, relacionada à expansão tecnológica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ampliação da oferta de empregos, vinculada à concessão de direitos sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "abertura do mercado nacional, associada à modernização conservadora.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "oferta de mão de obra barata, conjugada à herança patriarcal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "consolidação da estabilidade econômica, ligada à industrialização acelerada.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

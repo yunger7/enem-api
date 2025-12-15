@@ -1,43 +1,43 @@
 {
-    "title": "Questão 152 - ENEM 2014",
-    "index": 152,
-    "year": 2014,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Se o volume de esgoto gerado permanecer o mesmo e a meta dessa campanha se concretizar, o percentual de esgoto tratado passará a ser",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "72%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "68%",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "64%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "54%",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "18%",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 152 - ENEM 2014",
+  "index": 152,
+  "year": 2014,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Uma organização não governamental divulgou um levantamento de dados realizado em algumas cidades brasileiras sobre saneamento básico. Os resultados indicam que somente 36% do esgoto gerado nessas cidades é tratado, o que mostra que 8 bilhões de litros de esgoto sem nenhum tratamento são lançados todos os dias nas águas.Uma campanha para melhorar o saneamento básico nessas cidades tem como meta a redução da quantidade de esgoto lançado nas águas diariamente, sem tratamento, para 4 bilhões de litros nos próximos meses.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Se o volume de esgoto gerado permanecer o mesmo e a meta dessa campanha se concretizar, o percentual de esgoto tratado passará a ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "72%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "68%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "64%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "54%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "18%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

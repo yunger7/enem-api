@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 147 - ENEM 2015",
+  "index": 147,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um protocolo tem como objetivo firmar acordos e discussões internacionais para conjuntamente estabelecer metas de redução de emissão de gases de efeito estufa na atmosfera. O quadro mostra alguns dos países que assinaram o protocolo, organizados de acordo com o continente ao qual pertencem.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Em um dos acordos firmados, ao final do ano, dois dos países relacionados serão escolhidos aleatoriamente, para verificar se as metas de redução do protocolo estão sendo praticadas.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/147/enem2015.2.quest%C3%A3o147.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A probabilidade de o primeiro país escolhido pertencer à América do Norte e o segundo pertencer ao continente asiático é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/9",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3/10",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2/3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

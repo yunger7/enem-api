@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 22 - ENEM 2013",
+  "index": 22,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/22/22.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nos mapas, está representada a região dos Bálcãs, em dois momentos do século XX. Uma causa para a mudança geopolítica representada foi a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "adoção do euro como moeda única.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "suspensão do apoio econômico soviético.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "intervenção internacional liderada pela Otan.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "intensificação das tensões étnicas regionais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "formação de um Estado islâmico unificado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

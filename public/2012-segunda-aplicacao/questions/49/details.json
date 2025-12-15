@@ -1,0 +1,49 @@
+{
+  "year": 2012,
+  "title": "Questão 49 - ENEM 2012",
+  "index": 49,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um eletricista precisa medir a resistência elétrica de uma lâmpada. Ele dispõe de uma pilha, de uma lâmpada (L), de alguns fios e de dois aparelhos: um voltímetro (V), para medir a diferença de potencial entre dois pontos, e um amperímetro (A), para medir a corrente elétrica.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-a.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-b.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-c.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-d.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-e.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O circuito elétrico montado pelo eletricista para medir essa resistência é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-a.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-b.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-c.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/49/Enem-2012-ppl-questao-49-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

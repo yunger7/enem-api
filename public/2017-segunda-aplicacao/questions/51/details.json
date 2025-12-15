@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 51 - ENEM 2017",
+  "index": 51,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/51/51.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A evolução na estrutura etária apresentada influenciou o Estado a formular ações para",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "garantir a igualdade de gênero.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "priorizar a construção de escolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reestruturar o sistema previdenciário",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "investir no controle da natalidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fiscalizar a entrada de imigrantes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

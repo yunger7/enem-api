@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 63 - ENEM 2013",
+  "index": 63,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O sistema somatossensorial nos informa o que ocorre tanto na superfície do corpo como em seu interior, e processa muitas classes de diferentes estímulos, como pressão, temperatura, toque, posição. Em uma experiência, após vendar os olhos do indivíduo, foram feitos toques com as duas pontas de um compasso em diversas partes do corpo e em diferentes distâncias, visando à identificação das regiões e distâncias onde eram sentidos um ou dois toques. Os locais do corpo, a quantidade de toques que foram sentidos e a distância entre as duas pontas do compasso estão apresentados na tabela:",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/63/462.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "As diferenças observadas entre as várias regiões do corpo refletem que a densidade dos receptores",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "não é a mesma em todos os pontos, existindo regiões com maior capacidade de discriminação e sensibilidade, como o indicador e o polegar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "apresenta pequena diferenciação entre os diversos pontos, existindo regiões com menor capacidade de discriminação e sensibilidade, como o indicador e a panturrilha.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "apresenta pequena diferenciação entre os diversos pontos, diferenciando-se em regiões com maior capacidade de discriminação e sensibilidade, como as costas e o antebraço.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "não é a mesma em todos os pontos, existindo regiões com maior capacidade de discriminação e sensibilidade, como o panturrilha e as costas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "se equivale, existindo pontos que manifestam uma maior sensibilidade e discriminação, como as costas e o antebraço.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

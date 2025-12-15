@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 76 - ENEM 2013",
+  "index": 76,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O Instituto Luiz Coimbra (UFRJ) lançou o primeiro ônibus urbano movido a hidrogênio do Hemisfério Sul, com tecnologia inteiramente nacional. Sua tração provém de três fontes de energia, sendo uma delas a pilha de combustível, na qual o hidrogênio, gerado por um processo eletroquímico, reage com o oxigênio do ar, formando água.\n\n                                                  FRAGA, I. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 20 jul. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A transformação de energia que ocorre na pilha de combustível responsável pelo movimento do ônibus decorre da energia cinética oriunda do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "calor absorvido na produção de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "expansão gasosa causada pela produção de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "calor liberado pela reação entre o hidrogênio e o oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "contração gasosa causada pela reação entre o hidrogênio e o oxigênio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "eletricidade gerada pela reação de oxirredução do hidrogênio com o oxigênio.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

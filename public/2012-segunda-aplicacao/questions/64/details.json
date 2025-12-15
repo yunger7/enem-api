@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 64 - ENEM 2012",
+  "index": 64,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O freio ABS é um sistema que evita que as rodas de um automóvel sejam bloqueadas durante uma frenagem forte e entrem em derrapagem. Testes demonstram que, a partir de uma dada velocidade, a distância de frenagem será menor se for evitado o bloqueio das rodas.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O ganho na eficiência da frenagem na ausência de bloqueio das rodas resulta do fato de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o coeficiente de atrito estático tornar-se igual ao dinâmico momentos antes da derrapagem",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o coeficiente de atrito estático ser maior que o dinâmico, independentemente da superfície de contato entre os pneus e o pavimento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "o coeficiente de atrito estático ser menor que o dinâmico, independentemente da superfície de contato entre os pneus e o pavimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a superfície de contato entre os pneus e o pavimento ser maior com as rodas desbloqueadas, independentemente do coeficiente de atrito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a superfície de contato entre os pneus e o pavimento ser maior com as rodas desbloqueadas e o coeficiente de atrito estático ser maior que o dinâmico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

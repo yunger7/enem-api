@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 66 - ENEM 2013",
+  "index": 66,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Retirar a roda de um carro é uma tarefa facilitada por algumas características da ferramenta utilizada, habitualmente denominada chave de roda. As figuras representam alguns modelos de chaves de roda:",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/66/463.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em condições usuais, qual desses modelos permite a retirada da roda com mais facilidade?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1, em função de o momento da força ser menor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1, em função da ação de um binário de forças.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "2, em função de o braço da força aplicada ser maior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3, em função de o braço da força aplicada poder variar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3, em função de o momento da força produzida ser maior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

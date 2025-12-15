@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 86 - ENEM 2016",
+  "index": 86,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A figura mostra uma balança de braços iguais, em equilíbrio, na Terra, onde foi colocada uma massa m, e a indicação de uma balança de força na Lua, onde a aceleração da gravidade é igual a 1,6 m/s², sobre a qual foi colocada uma massa M.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/86/86-figura1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A razão das massas M / m é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "0,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,25.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

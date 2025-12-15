@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 64 - ENEM 2013",
+  "index": 64,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "À medida que se expira sobre uma solução de azul de bromotimol e hidróxido de sódio (NaOH), sua coloração azul característica vai se alterando. O azul de bromotimol é um indicador ácido-base que adquire cor azul em pH básico, verde em pH neutro e amarela em pH ácido. O gás carbônico (CO2) expirado reage com a água presente na solução (H2O), produzindo ácido carbônico (H2CO3). Este pode reagir com o NaOH da solução inicial, produzindo bicarbonato de sódio (NaHCO3):\nCO2+ H2O → H2CO3\nH2CO3 + NaOH → NaHCO3+ H2O\n\n                                                  ARROIO, A. et al. Química Nova na Escola, São Paulo, v. 29, 2006.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O que a pessoa irá observar à medida que expira no recipiente contendo essa solução?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A solução mudará de cor, de azul para verde, e, em seguida, de verde para amarelo. Com o acréscimo de ácido carbônico, o pH da solução irá reduzir até tornar-se neutro. Em seguida, um excesso de ácido carbônico tornará o pH da solução ácido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A solução somente terá sua cor alterada de azul para amarelo, pois será formado um excesso de ácido carbônico no recipiente, o que reduzirá bruscamente o pH da solução.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A cor da solução não será alterada com o acréscimo de ácido carbônico. Isso porque o meio é inicialmente neutro e a presença de ácido carbônico não produzirá nenhuma mudança no pH da solução.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A solução mudará de azul para verde e, em seguida, de verde para azul. Isso ocorrerá em função da neutralização de um meio inicialmente básico acompanhado de um aumento de pH na solução, à medida que ácido carbônico é adicionado ao meio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A cor da solução alterará de azul para amarelo e, em seguida, de amarelo para verde. Esse comportamento é justificado pelo fato de o ácido carbônico reduzir bruscamente o pH da solução e depois ser neutralizado pelo restante de NaOH presente no meio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

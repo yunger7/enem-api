@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 150 - ENEM 2017",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Sabe-se que, na localidade onde se encontra esse imóvel, o Imposto Predial Territorial Urbano (IPTU) é calculado conforme a área construída da residência. Nesse cálculo, são cobrados R$ 4,00 por cada metro quadrado de área construída.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/150/150.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O valor do IPTU desse imóvel, em real, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "250,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "250,80.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "258,64.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "276,48.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "286,00.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

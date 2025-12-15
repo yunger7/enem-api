@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 157 - ENEM 2015",
+  "index": 157,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Na construção de um conjunto habitacional de casas populares, todas serão feitas num mesmo modelo, ocupando, cada uma delas, terrenos cujas dimensões são iguais a 20 m de comprimento por 8 m de largura. Visando a comercialização dessas casas, antes do início das obras, a empresa resolveu apresentá-las por meio de maquetes construídas numa escala de 1 : 200.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As medidas do comprimento e da largura dos terrenos, respectivamente, em centímetros, na maquete construída, foram de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4 e 10",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "5 e 2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10 e 4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "20 e 8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50 e 20",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 135 - ENEM 2012",
+  "index": 135,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I \nPessoas e sociedades \nPessoa, no seu conceito jurídico, é todo ente capaz de direitos e obrigações. As pessoas podem ser físicas ou jurídicas.\nPessoa física – É a pessoa natural; é todo ser humano, é todo indivíduo (sem qualquer exceção). A existência da pessoa física termina com a morte. É o próprio ser humano. Sua personalidade começa com o seu nascimento (artigo 4º do Código Civil Brasileiro). No decorrer da sua vida, a pessoa física constituirá um patrimônio, que será afastado, por fim, em caso de morte, para transferência aos herdeiros.\nPessoa jurídica – É a existência legal de uma sociedade, associação ou instituição, que aferiu o direito de ter vida própria e isolada das pessoas físicas que a constituíram. É a união de pessoas capazes de possuir e exercitar direitos e contrair obrigações, independentemente das pessoas físicas, através das quais agem. É, portanto, uma nova pessoa, com personalidade distinta da de seus membros (da pessoa natural). Sua existência legal dá- se em decorrência de leis e só nascerá após o devido registro nos órgãos públicos competentes (Cartórios ou Juntas Comerciais).\n\n                                                  POLONI, A. S. Disponível em: http://uj.novaprolink.com.br. Acesso em: 30 ago. 2011 (adaptado)",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/135/135.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os textos I e II tratam da definição de pessoa física e de pessoa jurídica. Considerando sua função social, o cartum faz uma paródia do artigo científico, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "explica o conceito de pessoa física em linguagem coloquial e informal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "compara pessoa física e jurídica ao explorar dois tipos de profissão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "subverte o conceito de pessoa física com uma escolha lexical equivocada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "acrescenta conhecimento jurídico ao definir pessoa física.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "complementa as definições promovidas por Antonio Poloni.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

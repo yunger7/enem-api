@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 179 - ENEM 2015",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um técnico precisa consertar o termostato do aparelho de ar-condicionado de um escritório, que está desregulado. A temperatura T, em graus Celsius, no escritório, varia de acordo com a função , sendo h o tempo, medido em horas, a partir da meia-noite e A e B os parâmetros que o técnico precisa regular. Os funcionários do escritório pediram que a temperatura máxima fosse 26°C, a mínima 18°C, e que durante a tarde a temperatura fosse menor do que durante a manhã.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/179/2016_03_18_56ec2222c1fec.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Quais devem ser os valores de A e de B para que o pedido dos funcionários seja atendido?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A = 18 e B = 8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A = 22 e B = -4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "A = 22 e B = 4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A = 26 e B = -8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A = 26 e B = 8",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

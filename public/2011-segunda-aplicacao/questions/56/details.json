@@ -1,0 +1,46 @@
+{
+  "year": 2011,
+  "title": "Questão 56 - ENEM 2011",
+  "index": 56,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Uma residência possui dois aparelhos de TV, duas geladeiras, um computador, um ferro elétrico e oito lâmpadas incandescentes. A resistência elétrica de cada equipamento está representada pela figura I. A tensão elétrica que alimenta a rede da residência é de 120 V.\n\n                                                \n                \n                  \n                                                    \n              \n                                                Um eletricista fez duas ligações, que se encontram representadas pelas figuras II e III.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/56/Enem-2011-ppl-questao-56-1.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/56/Enem-2011-ppl-questao-56-2.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Com base nas informações, verifica-se que a corrente indicada pelo amperímetro da figura",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "II registrará uma corrente de 10 A.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "II registrará uma corrente de 12 A",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "II registrará uma corrente de 0,10 A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "III registrará uma corrente de 16,6 A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "III registrará uma corrente de 0,14 A.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

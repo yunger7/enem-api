@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 46 - ENEM 2011",
+  "index": 46,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os materiais radioativos emitem diferentes tipos de radiação. A radiação gama, por exemplo, por sua alta energia e penetração, consegue remover elétrons dos átomos dos tecidos internos e romper ligações químicas por ionização, podendo causar mutação no DNA. Já as partículas beta têm o mesmo efeito ionizante, mas atuam sobre as células da pele.\n\n                                                  RODRIGUES JR., A. A. O que é radiação? E contaminação radioativa? Vamos esclarecer. Física na Escola. V. 8, nº 2, 2007. São Paulo: Sociedade Brasileira de Física (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Segundo o texto, um indivíduo irradiado por uma fonte radioativa é exposto ao risco de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "transformar-se em um corpo radioativo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "absorver a radiação e armazená-la.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "emitir radiação e contaminar outras pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sofrer alterações gênicas e desenvolver câncer.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "transportar a radiação e contaminar outros ambientes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

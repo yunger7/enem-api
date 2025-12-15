@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 172 - ENEM 2017",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Numa turma de inclusão de jovens e adultos na educação formal profissional (Proeja), a média aritmética das idades dos seus dez alunos é de 32 anos. Em determinado dia, o aluno mais velho da turma faltou e, com isso, a média aritmética das idades dos nove alunos presentes foi de 30 anos.\n\n                                                  Disponível em: http://portal.mec.gov.br. Acesso em: 10 mar. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual é a idade do aluno que faltou naquela turma?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "18",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "31",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "50",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "62",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

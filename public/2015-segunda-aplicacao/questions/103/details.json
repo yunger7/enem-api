@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 103 - ENEM 2015",
+  "index": 103,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Não adianta isolar o fumante\nSe quiser mesmo combater o fumo, o governo precisa ir além das restrições. É preciso apoiar quem quer largar o cigarro.\nAo apoiar uma medida provisória para combater o fumo em locais públicos nos 27 estados brasileiros, o senado reafirmou um valor fundamental: a defesa da saúde e da vida.\nEm pelo menos um aspecto a MP 540/2011 é ainda mais rigorosa que as medidas em vigor em São Paulo, no Rio de Janeiro e no Paraná, estados que até agora adotaram as legislações mais duras contra o tabagismo. Ela proíbe os fumódromos em 100% dos locais fechados, incluindo até tabacarias, onde o fumo era autorizado sob determinadas condições.\nUma das principais medidas atinge o fumante no bolso. O governo fica autorizado a fixar um novo preço para o maço de cigarros. O Imposto sobre Produtos Industrializados (IPI) será elevado em 300%. Somando uma coisa e outra, o sabor de fumar se tornará muito mais ácido. Deverá subir 20% em 2012 e 55% em 2013.\nA visão fundamental da MP está correta. Sabe-se, há muito, que o tabaco faz mal à saúde. É razoável, portanto, que o Estado aja em nome da saúde pública.\n\n                                                  Época, 28 nov. 2011 (adaptado)",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O autor do texto analisa a aprovação da MP 540/2011 pelo Senado, deixando clara a sua opinião sobre o tema. O trecho que apresenta uma avaliação pessoal do autor como uma estratégia de persuasão do leitor é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“Ela proíbe os fumódromos em 100% dos locais fechados\".",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "\"O governo fica autorizado a fixar um novo preço para o maço de cigarros.’’",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“O Imposto sobre Produtos Industrializados (IPI) será elevado em 300%.”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“Somando uma coisa e outra, o sabor de fumar se tornará muito mais ácido.”",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "“Deverá subir 20% em 2012 e 55% em 2013.”",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

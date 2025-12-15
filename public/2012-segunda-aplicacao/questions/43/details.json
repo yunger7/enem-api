@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 43 - ENEM 2012",
+  "index": 43,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/43/Enem-2012-ppl-questao-43.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O gráfico divulgado pela Associação por Vias Seguras traça objetivamente, a partir de dados do Ministério da Saúde, um histórico do número de vítimas fatais em decorrência de acidentes de trânsito no Brasil ao longo de catorze anos. As informações nele dispostas demonstram que o número de vítimas fatais",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumentou de forma progressiva ao longo do período.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "teve sua maior redução no final da década de noventa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "estabilizou-se nos cinco primeiros anos do século XXI.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sofreu mais redução que aumento ao longo do período.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estabilizou-se na passagem do século XX ao século XXI.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

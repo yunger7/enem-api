@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 169 - ENEM 2011",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um pesquisador analisava duas culturas diferentes com o objetivo de verificar como ocorria a evolução, ao longo do tempo, do crescimento do número de bactérias presentes em cada uma das culturas, sob certas condições. Esta evolução foi representada no gráfico a seguir:\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/169/169.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em que intervalo de tempo o número de bactérias na colônia II foi maior do que o número de bactérias na colônia I?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "De 0 a 10 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "De 10 a 15 minutos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "De 15 a 20 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "De 30 a 55 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "De 55 a 75 minutos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

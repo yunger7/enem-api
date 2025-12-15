@@ -1,0 +1,50 @@
+{
+  "year": 2016,
+  "title": "Questão 165 - ENEM 2016",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um grupo de escoteiros mirins, numa atividade no parque da cidade onde moram, montou uma barraca conforme a foto da Figura 1. A Figura 2 mostra o esquema da estrutura dessa barraca, em forma de um prisma reto, em que foram usadas hastes metálicas.\n\n                                                \n                \n                  \n                                                    \n              \n                                                Após a armação das hastes, um dos escoteiros observou um inseto deslocar-se sobre elas, partindo do vértice A em direção ao vértice B, deste em direção ao vértice E e, finalmente, fez o trajeto do vértice E ao C.\nConsidere que todos esses deslocamentos foram feitos pelo caminho de menor distância entre os pontos.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar19.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar20.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar21.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar22.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar23.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar24.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A projeção do deslocamento do inseto no plano que contém a base ABCD é dada por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar20.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar21.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar22.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar23.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/165/Capturar24.jpg",
+      "isCorrect": true
+    }
+  ]
+}

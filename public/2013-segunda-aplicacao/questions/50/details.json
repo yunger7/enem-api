@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 50 - ENEM 2013",
+  "index": 50,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Lobos da espécie Canis lycaon, do leste dos Estados Unidos, estão intercruzando com coiotes (Canis latrans).\nAlém disso, indivíduos presentes na borda oeste da área de distribuição de C. lycaon estão se acasalando também com lobos cinzentos (Canis lupus). Todos esses cruzamentos têm gerado descendentes férteis.\n\n                                                  Scientific American Brasil, Rio de Janeiro, ano II, 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Os animais descritos foram classificados como espécies distintas no século XVIII. No entanto, aplicando-se o conceito biológico de espécie, proposto por Ernst Mayr em 1942, e ainda muito usado hoje em dia, esse fato não se confirma, porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "esses animais são morfologicamente muito semelhantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o fluxo gênico entre as três populações é mantido.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "apresentam nichos ecológicos muito parecidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "todos têm o mesmo ancestral comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "pertencem ao mesmo gênero.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

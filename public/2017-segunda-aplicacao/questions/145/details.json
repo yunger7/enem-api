@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 145 - ENEM 2017",
+  "index": 145,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em alguns países anglo-saxões, a unidade de volume utilizada para indicar o conteúdo de alguns recipientes é a onça fluida britânica. O volume de uma onça fluida britânica corresponde a 28,4130625 ml.\nA título de simplificação, considere uma onça fluida britânica correspondendo a 28 ml.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nessas condições, o volume de um recipiente com capacidade de 400 onças fluidas britânicas, em cm3, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "11 200.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "1 120.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "112.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "11,2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1,12.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

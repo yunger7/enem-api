@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 150 - ENEM 2015",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No comércio é comumente utilizado o salário mensal comissionado. Além de um valor fixo, o vendedor tem um incentivo, geralmente um percentual sobre as vendas. Considere um vendedor que tenha salário comissionado, sendo sua comissão dada pelo percentual do total de vendas que realizar no período. O gráfico expressa o valor total de seu salário, em reais, em função do total de vendas realizadas, também em reais.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/150/enem2015.2.quest%C3%A3o150.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual o valor percentual da sua comissão?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,0%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "5,0%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "16,7%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "27,7%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "50,0%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

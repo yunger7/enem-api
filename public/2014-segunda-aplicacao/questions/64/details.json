@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 64 - ENEM 2014",
+  "index": 64,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Estranha neve:\nespuma, espuma apenas\nque o vento espalha, bolha em baile no ar,\nvinda do Tietê alvoroçado ao abrir de comportas,\nespuma de dodecilbenzeno irredutível,\nemergindo das águas profanadas do rio-bandeirante,\nhoje rio-despejo\nde mil imundícies do progresso.\n\n                                                  ANDRADE, C. D. Poesia e prosa. Rio de Janeiro: Nova Aguilar, 1992 (fragmento).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nesse poema, o autor faz referência à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "disseminação de doenças nas áreas atingidas por inundações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "contaminação do lençol freático pela eliminação de lixo nos rios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ocorrência de enchente causada pela impermeabilização dos solos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "presença de detergentes sintéticos como agentes poluentes de águas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "destruição de fauna e flora pela contaminação de bacias hidrográficas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

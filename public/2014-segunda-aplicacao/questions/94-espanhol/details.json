@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 94 - ENEM 2014",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/94/SABESSECREO.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A charge é um gênero textual que possui caráter humorístico e crítico. Ao abordar o tema do\nuso da tecnologia, essa charge critica o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "postura das pessoas que não respeitam a opinião dos outros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "tendência de algumas pessoas a interferir em conversa alheia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "forma como a tecnologia ampliou a comunicação e a interação entre as pessoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "hábito das pessoas que passam muitas horas conectadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "indivíduo cujo comportamento destoa de seu discurso.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

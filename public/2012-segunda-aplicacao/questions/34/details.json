@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 34 - ENEM 2012",
+  "index": 34,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Na Serra do Navio (AP), uma empresa construiu uma usina de beneficiamento, um porto, uma estrada de ferro e vilas. Entretanto, depois que as reservas foram exauridas, a companhia fechou a mina e as vilas se esvaziaram. Sobrou uma pequena comunidade de pescadores. São 1,8 mil moradores que sofrem com graves problemas nos rins, dores no corpo, diarreia, e vômitos decorrentes da contaminação do solo e da água por arsênio.\n\n                                                  MILANEZ, B. Impactos da Mineração. Le Monde Diplomatique. São Paulo, ano 3, n. 36 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A existência de práticas de exploração mineral predatórias no Brasil tem provocado o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "criação de estruturas e práticas geradoras de impactos socioambientais pouco favoráveis à vida das comunidades.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "adequação da infraestrutura local dos municípios e regiões exploráveis à recepção dos grandes empreendimentos de exploração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ampliação do número de empresas mineradoras de grande porte que têm sua atuação prejudicada pelo atendimento às normas ambientais brasileiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "distanciamento geográfico das áreas exploráveis em relação às demarcações de terras indígenas que são pouco apropriadas à extração dos recursos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estabelecimento de projetos e ações por parte das empresas mineradoras em áreas de atuação nas quais as reservas mineralógicas foram exauridas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

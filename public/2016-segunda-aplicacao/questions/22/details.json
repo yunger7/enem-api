@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 22 - ENEM 2016",
+  "index": 22,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Pode-se admitir que a experiência passada dá somente uma informação direta e segura sobre determinados objetos em determinados períodos do tempo, dos quais ela teve conhecimento. Todavia, é esta a principal questão sobre a qual gostaria de insistir: por que esta experiência tem de ser estendida a tempos futuros e a outros objetos que, pelo que sabemos, unicamente são similares em aparência. O pão que outrora comi alimentou-me, isto é, um corpo dotado de tais qualidades sensíveis estava, a este tempo, dotado de tais poderes desconhecidos. Mas, segue-se daí que este outro pão deve também alimentar-me como ocorreu na outra vez, e que qualidades sensíveis semelhantes devem sempre ser acompanhadas de poderes ocultos semelhantes? A consequência não parece de nenhum modo necessária.\n\n                                                  HUME, D. Investigação acerca do entendimento humano. São Paulo: Abril Cultural, 1995.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O problema descrito no texto tem como consequência a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "universalidade do conjunto das proposições de observação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "normatividade das teorias científicas que se valem da experiência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dificuldade de se fundamentar as leis científicas em bases empíricas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "inviabilidade de se considerar a experiência na construção da ciência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "correspondência entre afirmações singulares e afirmações universais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 49 - ENEM 2015",
+  "index": 49,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Um eletricista projeta um circuito com três lâmpadas incandescentes idênticas, conectadas como na figura. Deseja-se que uma delas fique sempre acesa, por isso é ligada diretamente aos polos da bateria, entre os quais se mantém uma tensão constante. As outras duas lâmpadas são conectadas em um fio separado, que contém a chave. Com a chave aberta (desligada), a bateria fornece uma potência X.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/49/49-1.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Assumindo que as lâmpadas obedecem à Lei de Ohm, com a chave fechada, a potência fornecida pela bateria,em função de X é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2/3X",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "X",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3/2X",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2X",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3X",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

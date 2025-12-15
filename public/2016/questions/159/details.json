@@ -1,43 +1,43 @@
 {
-    "title": "Questão 159 - ENEM 2016",
-    "index": 159,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Para atender essas condições, a quantidade de vacinas contra febre amarela que o posto de saúde deve adquirir no início do sexto mês é",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "156",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "180",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "192",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "264",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "288",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 159 - ENEM 2016",
+  "index": 159,
+  "year": 2016,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Um posto de saúde registrou a quantidade de vacinas aplicadas contra febre amarela nos últimos cinco meses:\n• 1º mês: 21;\n• 2º mês: 22;\n• 3º mês: 25;\n• 4º mês: 31;\n• 5º mês: 21.No início do primeiro mês, esse posto de saúde tinha 228 vacinas contra febre amarela em estoque. A política de reposição do estoque prevê a aquisição de novas vacinas, no início do sexto mês, de tal forma que a quantidade inicial em estoque para os próximos meses seja igual a 12 vezes a média das quantidades mensais dessas vacinas aplicadas nos últimos cinco meses.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Para atender essas condições, a quantidade de vacinas contra febre amarela que o posto de saúde deve adquirir no início do sexto mês é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "156",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "180",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "192",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "264",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "288",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

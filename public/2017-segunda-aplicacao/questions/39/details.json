@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 39 - ENEM 2017",
+  "index": 39,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/39/39.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Importantes recursos de reflexão e crítica próprios do gênero textual, esses quadrinhos possibilitam pensar sobre o papel da tecnologia nas sociedades contemporâneas, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O indicam a solidão existencial dos usuários das redes sociais virtuais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "criticam a superficialidade das relações humanas mantidas pela internet.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "retratam a dificuldade de adaptação de pessoas mais velhas às relações virtuais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ironizam o crescimento da conexão virtual oposto à falta de vínculos reais entre as pessoas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "denunciam o enfraquecimento das relações humanas nos mundos virtual e real contemporâneos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

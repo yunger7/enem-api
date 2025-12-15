@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 50 - ENEM 2011",
+  "index": 50,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Iniciativas do poder público para prevenir o uso de bebidas alcoólicas por motoristas, causa de muitos acidentes nas estradas do país, trouxeram à ordem do dia, não sem suscitar polêmica, o instrumento popularmente conhecido como bafômetro. Do ponto de vista de detecção e medição, os instrumentos normalmente usados pelas polícias rodoviárias do Brasil e de outros países utilizam o ar que os “suspeitos” sopram para dentro do aparelho, através de um tubo descartável, para promover a oxidação do etanol a etanal. O método baseia-se no princípio da pilha de combustível: o etanol é oxidado em meio ácido sobre um disco plástico poroso coberto com pó de platina (catalisador) e umedecido com ácido sulfúrico, sendo um eletrodo conectado a cada lado desse disco poroso. A corrente elétrica produzida, proporcional à concentração de álcool no ar expirado dos pulmões da pessoa testada, é lida numa escala que é proporcional ao teor de álcool no sangue. O esquema de funcionamento desse detector de etanol pode ser visto na figura.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/50/Enem-2011-ppl-questao-50.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "No estudo das pilhas, empregam-se códigos e nomenclaturas próprias da Química, visando caracterizar os materiais, as reações e os processos envolvidos. Nesse contexto, a pilha que compõe o bafômetro apresenta o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "eletrodo A como cátodo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "etanol como agente oxidante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "eletrodo B como polo positivo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "gás oxigênio como agente redutor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fluxo de elétrons do eletrodo B para o eletrodo A.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

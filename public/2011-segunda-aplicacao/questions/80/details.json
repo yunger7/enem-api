@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 80 - ENEM 2011",
+  "index": 80,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Liquens são associações de organismos utilizados para monitoramento da qualidade do ar. Em ambientes urbanos, uma técnica de amostragem para biomonitoramento da qualidade do ar é a utilização de gaiolas contendo liquens que concentrarão os poluentes atmosféricos, sendo então recolhidos e levados para análise do teor dos poluentes na área monitorada.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Considerando-se que o monitoramento do ar, em ambientes urbanos, tem por finalidade verificar a quantidade de poluentes dispersos na atmosfera emitidos por atividades industriais, as gaiolas devem ser distribuídas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dentro da indústria, para que os liquens concentrem o máximo de poluentes lançados na atmosfera, independentemente da direção dos ventos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "próximo e distante das indústrias, para medir, respectivamente, os poluentes na área de emissão e os poluentes que são carreados pelos ventos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "dentro de cada residência da área urbana, para que os liquens concentrem o máximo de poluentes industriais que chegam em cada casa da cidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "próximo das indústrias, independentemente da direção dos ventos, para que os liquens concentrem os poluentes dispersos na atmosfera.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "na saída das chaminés, para que seja concentrado nos liquens o máximo de poluentes emitidos para a atmosfera sem interferência dos ventos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

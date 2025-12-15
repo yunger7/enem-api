@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 68 - ENEM 2013",
+  "index": 68,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Garrafas PET (politereftalato de etileno) têm sido utilizadas em mangues, onde as larvas de ostras e de mariscos, geradas na reprodução dessas espécies, aderem ao plástico. As garrafas são retiradas do mangue, limpas daquilo que não interessa e colocadas nas “fazendas” de criação, no mar.\n\n                                                  GALEMBECK, F. Ciência Hoje, São Paulo, v. 47, n. 280, abr. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nessa aplicação, o uso do PET é vantajoso, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diminui o consumo de garrafas plásticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "possui resistência mecânica e alta densidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "decompõe-se para formar petróleo a longo prazo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "é resistente ao sol, à água salobra, a fungos e bactérias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "é biodegradável e poroso, auxiliando na aderência de larvas e mariscos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 28 - ENEM 2013",
+  "index": 28,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O geoturismo é um segmento turístico recente que busca priorizar os aspectos naturais negligenciados pelo ecoturismo: geologia e geomorfologia, como cavernas, sítios paleontológicos, maciços rochosos, quedas d’água etc., proporcionando uma experiência turística que vai além da contemplação, agregando informações sobre a origem e formação dos locais visitados.\n\n                                                  BENTO, L. C. M.; RODRIGUES, S. C. Geoturismo e geomorfossítios: refletindo sobre o potencial turístico de quedas d’água – um estudo de caso do município de Indianápolis-MG. In: Revista Geográfica Acadêmica, v. 4, n. 2, 2010.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Atualmente, no Brasil, a utilização de pequenas propriedades rurais para a prática descrita pelo texto é indicada como método que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "possibilita a exploração de recursos minerais sem degradação da fauna e da flora locais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "associa a conservação do bioma a ganhos financeiros para o proprietário da terra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "permite a migração da população rural sem perda de sua identidade cultural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "impede o uso das áreas de mata para cultivos dependentes de sombreamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "viabiliza a produção agrícola com a utilização de culturas comerciais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 136 - ENEM 2014",
+  "index": 136,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma escola, cinco atletas disputam a medalha de ouro em uma competição de salto em distância. Segundo o regulamento dessa competição, a medalha de ouro será dada ao atleta mais regular em uma série de três saltos. Os resultados e as informações dos saltos desses cinco atletas estão no quadro.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/136/136.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A medalha de ouro foi conquistada pelo atleta número",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "I.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

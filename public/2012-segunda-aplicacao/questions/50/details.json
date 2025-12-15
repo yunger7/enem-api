@@ -1,0 +1,49 @@
+{
+  "year": 2012,
+  "title": "Questão 50 - ENEM 2012",
+  "index": 50,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O senso comum nos diz que os polímeros orgânicos (plásticos) em geral são isolantes elétricos. Entretanto, os polímeros condutores são materiais orgânicos que conduzem eletricidade. O que faz estes polímeros diferentes é a presença das ligações covalentes duplas conjugadas com ligações simples, ao longo de toda a cadeia principal, incluindo grupos aromáticos. Isso permite que um átomo de carbono desfaça a ligação dupla com um vizinho e refaça-a com outro. Assim, a carga elétrica desloca-se dentro do material.\n\n                                                  FRANCISCO, R. H. P. Polímeros condutores. Revista Eletrônica de Ciências, n. 4, fev. 2002. Disponível em: www.cdcc.usp.br. Acesso em: 29 fev. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-A.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-b.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-c.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-d.jpg",
+    "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-e.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com o texto, qual dos polímeros seguintes seria condutor de eletricidade?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-A.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-b.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-c.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2012-segunda-aplicacao/questions/50/Enem-2012-ppl-questao-50-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

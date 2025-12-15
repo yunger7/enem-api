@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 84 - ENEM 2016",
+  "index": 84,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Uma nova estratégia para o controle da dengue foi apresentada durante o Congresso internacional de Medicina Tropical, no Rio de Janeiro, em 2012. O projeto traz uma abordagem nova e natural para o combate à doença e já está em fase de testes. O objetivo do programa é cessar a transmissão do vírus da dengue pelo Aedes aegypti, a partir da introdução da bactéria Wolbachia – que é naturalmente encontrada em insetos — nas populações locais de mosquitos. Quando essa bactéria é introduzida no A. aegypti, atua como uma “vacina”, estimulando o sistema imunológico e bloqueando a multiplicação do vírus dentro do inseto.\n\n                                                  Disponível em: http://portalsaude.saude.gov.br. Acesso em: 20 dez 2012 (adaptado)",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual o conceito fundamental relacionado a essa estratégia?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Clonagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Mutualismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Parasitismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Transgênese.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Controle biológico.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

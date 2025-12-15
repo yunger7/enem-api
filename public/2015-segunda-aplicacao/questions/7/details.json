@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 7 - ENEM 2015",
+  "index": 7,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/7/enem2015_2a_caderno9_questao07.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Na imagem, encontram-se referências a um momento de intensa agitação estudantil no país. Tal mobilização se explica pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "divulgação de denúncias de corrupção envolvendo o presidente da República.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "criminalização dos movimentos sociais realizada pelo Governo Federal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "adoção do arrocho salarial implementada pelo Ministério da Fazenda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "compra de apoio político promovida pelo Poder Executivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "violência da repressão estatal atribuída às Forças Armadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

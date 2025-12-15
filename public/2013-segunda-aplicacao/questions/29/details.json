@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 29 - ENEM 2013",
+  "index": 29,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Há cinco anos as plantações de algodão de Burkina Faso, as maiores da África Ocidental, vêm sendo contaminadas por organismos geneticamente modificados (OGMs). E ao que tudo indica, o país é apenas o ponto de partida para a expansão dessa tecnologia, que traz enormes benefícios às empresas.\n\n                                                  GÉRARD, F. O pesado jogo dos transgênicos [2009]. Disponível em: www.diplomatique.org.br. Acesso em: 19 mar. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Com relação ao lucro obtido pelas empresas produtoras dos organismos geneticamente modificados, este tende a ser maximizado por meio do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "propriedade intelectual, que rende royalties sobre as patentes de sementes e insumos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "produção das sementes e insumos nos países consumidores, acarretando economia em logística.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "elaboração de produtos adaptados às culturas específicas, abandonando as vendas de produtos uniformizados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "manutenção, nos países menos desenvolvidos, de grandes fazendas voltadas para o abastecimento interno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cultivo de plantas com maiores índices de produtividade, o que lhes renderia maior publicidade no combate à fome.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

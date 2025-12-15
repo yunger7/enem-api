@@ -1,0 +1,46 @@
+{
+  "year": 2015,
+  "title": "Questão 80 - ENEM 2015",
+  "index": 80,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O álcool utilizado como combustível automotivo (etanol hidratado) deve apresentar uma taxa máxima de água em sua composição para não prejudicar o funcionamento do motor. Uma maneira simples e rápida de estimar a quantidade de etanol em misturas com água é medir a densidade da mistura. O gráfico mostra a variação da densidade da mistura (água e etanol) com a fração percentual da massa de etanol (fe), dada pela expressão\n\n                                                \n                \n                  \n                                                    \n              \n                                                em que me e ma são as massas de etanol e de água na mistura, respectivamente, a uma temperatura de 20°C.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/80/80-1.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/80/80-2.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Suponha que, em inspeção de rotina realizada em determinado posto, tenha-se verificado que 50,0 cm³ de álcool combustível tenham massa igual a 45,0 g. Qual é a fração percentual de etanol nessa mistura?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "7%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "10%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "55%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "90%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "93%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

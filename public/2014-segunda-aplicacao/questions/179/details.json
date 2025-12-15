@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 179 - ENEM 2014",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma fundição de alumínio utiliza, como matéria-prima, lingotes de alumínio para a fabricação de peças injetadas. Os lingotes são derretidos em um forno e o alumínio, em estado líquido, é injetado em moldes para se solidificar no formato desejado. O gráfico indica as curvas de resfriamento do alumínio fundido no molde para três diferentes fluidos refrigerantes (tipo I, tipo II e tipo III), que são utilizados para resfriar o molde, bem como a curva de resfriamento quando não é utilizado nenhum tipo de fluido refrigerante. A peça só pode ser retirada do molde (desmolde) quando atinge a temperatura de 100 °C.\nPara atender a uma encomenda, a fundição não poderá gastar mais do que 8 segundos para o desmolde da peça após a sua injeção.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/179/179.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com a exigência para o desmolde das peças injetadas, qual(is) fluido(s) refrigerante(s) poderá(ão) ser utilizado(s) no resfriamento?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Qualquer um dos fluidos do tipo I, II e III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Somente os fluidos do tipo II e III.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Somente o fluido do tipo III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Não será necessário utilizar nenhum fluido refrigerante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Nenhum dos fluidos refrigerantes indicados atende às exigências.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

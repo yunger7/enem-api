@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 173 - ENEM 2011",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Fabiana Murer garante mais uma medalha de ouro na Noruega. A atleta brasileira saltou 4,60 m na etapa da Diamond League e terminou em primeiro lugar na disputa. Ela ainda é detentora da melhor marca do ano. Ao final da prova, a classificação dos quatro melhores resultados foi:\n1º lugar: Fabiana Murer (BRA) – 4,60 m\n2º lugar: Aleksandra Kiryashiva (RUS) – 4,50 m\n3º lugar: Anna Rogowska (POL) – 4,40 m\n4º lugar: Monika Pyrek (POL) – 4,30 m\n\n                                                  Disponível em: http://www.globoesporte.globo.com. Acesso em: 24 jun. 2011 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A diferença entre as marcas da 1ª e da 4ª colocadas pode ser comparada com a altura de um animal adulto. Que animal é esse?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Gato.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Leão.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Pulga.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Elefante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Gafanhoto.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 33 - ENEM 2012",
+  "index": 33,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "De acordo com a Organização das Nações Unidas para Agricultura e Alimentação (FAO), daqui a aproximadamente 20 anos, 2/3 da população do mundo podem enfrentar falta d’água. Ainda de acordo com a FAO, o consumo mundial de água cresceu no século XX duas vezes mais do que a população. Com isso, para cada 6 pessoas no planeta, 1 não tem acesso à água limpa suficiente para suprir suas necessidades básicas diárias e 3 não têm saneamento básico adequado.\n\n                                                  MARAFON, G. J. O desencanto da terra. Rio de Janeiro: Garamond, 2011 (adaptado)",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Uma causa para a mudança verificada no consumo de água no século XX e uma medida que possa contribuir para evitar o problema descrito estão indicadas, respectivamente, em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Avanço da produção agrícola – reutilização dos recursos pluviais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Elevação da temperatura média – estímulo ao consumo consciente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Descontrole da taxa de natalidade – privatização das nascentes fluviais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Aumento da concentração de renda – irrigação racional das empresas rurais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Intensificação da produtividade industrial – sustentabilidade da exploração marítima.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

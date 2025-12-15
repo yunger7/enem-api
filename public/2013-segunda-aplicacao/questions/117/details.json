@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 117 - ENEM 2013",
+  "index": 117,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO II\nPartindo do chão coletivo da comunidade rural ou\ndas cidades, à medida que se impregna de um ethos urbano — seja por migração, seja pela difusão de novos conteúdos midiáticos —, irão surgindo indivíduos que, na área da visualidade, gerarão uma obra de feição original, autoral, única. O indivíduo-sujeito recorre à memória para a construção de uma biografia, a fim de criar seu projeto artístico, a sua identidade social.\n\n                                                  FROTA, L. C. Pequeno dicionário da arte do povo brasileiro (século XX). Rio de Janeiro: Aeroplano, 2005.",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/117/enem2013.2.quest%C3%A3o117.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A partir dos textos apresentados, os trabalhos que são pertinentes à criação popular caracterizam-se por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "temática nacionalista que abrange áreas regionais amplas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "produção de obras utilizando materiais e técnicas tradicionais da arte acadêmica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ligação estrutural com a arte canônica pela exposição e recepção em museus e galerias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "abordagem peculiar da realidade e do contexto, seguindo criação pessoal particular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "criação de técnicas e temas comuns a determinado grupo ou região, gerando movimentos artísticos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

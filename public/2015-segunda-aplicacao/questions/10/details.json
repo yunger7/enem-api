@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 10 - ENEM 2015",
+  "index": 10,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/10/enem2015_2a_caderno9_questao10.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O diálogo entre os personagens da charge evidencia, no Brasil, a(s)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reinserção do país na economia globalizada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "transformações políticas na vigência do Estado Novo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "alterações em áreas estratégicas para o desenvolvimento do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "suspensão das eleições legislativas durante o período da Ditadura Militar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "volta da democracia após um período sem eleições diretas para o Executivo Federal.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

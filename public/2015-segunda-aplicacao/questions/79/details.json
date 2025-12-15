@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 79 - ENEM 2015",
+  "index": 79,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O caramujo gigante africano, Achatina fulica, é uma espécie exótica que tem despertado o interesse das autoridades brasileiras, uma vez que tem causado danos ambientais e prejuízos econômicos à agricultura. A introdução da espécie no Brasil ocorreu clandestinamente, com o objetivo de ser utilizada na alimentação humana. Porém, o molusco teve pouca aceitação no comércio de alimentos, o que resultou em abandono e liberação intencional das criações por vários produtores. Por ser uma espécie herbívora generalista (alimenta-se de mais de 500 espécies diferentes de vegetais), com grande capacidade reprodutiva, tornou-se uma praga agrícola de difícil erradicação. Associada a isto, a ausência de predadores naturais fez com que ocorresse um crescimento descontrolado da população.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O desequilíbrio da cadeia alimentar observado foi causado pelo aumento da densidade populacional de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "consumidores terciários, em função da elevada disponibilidade de consumidores secundários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "consumidores primários, em função da ausência de consumidores secundários.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "consumidores secundários, em função da ausência de consumidores primários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "consumidores terciários, em função da elevada disponibilidade de produtores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "consumidores primários, em função do aumento de produtores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

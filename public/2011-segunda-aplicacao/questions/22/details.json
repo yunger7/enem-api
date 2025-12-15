@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 22 - ENEM 2011",
+  "index": 22,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "É uma mudança profunda na estrutura social, isto é, uma transformação que atinge todos os níveis da realidade social: o econômico, o político, o social e o ideológico. Uma revolução é uma luta entre forças de transformação e forças de conservação de uma sociedade. Quando ocorre uma revolução, a vida das pessoas sofre uma mudança radical no próprio dia a dia.\n\n                                                  AQUINO, R. S.L. et al. História das Sociedades: das sociedades modernas às sociedades atuais.\nRio de Janeiro: Record, 1999 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Na França, em 1871, após a derrota de Napoleão III na guerra contra a Rússia e a presidência de Louis Adolphe Thiers, os trabalhadores franceses organizaram uma rebelião que levou à tomada de Paris e à organização de um governo popular, denominado de Comuna de Paris. Este processo é considerado como uma importante experiência política, porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "extinguiu definitivamente o voto censitário e instituiu o voto por categoria profissional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "foi a mais duradoura experiência de governo popular na História contemporânea.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "criou um Estado dos trabalhadores formado por comunas livres e autônomas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "definiu um Estado voltado para atender os interesses de todas as classes sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "substituiu o exército por milícias comandadas pelos antigos generais, mas subordinadas ao poder das comunas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

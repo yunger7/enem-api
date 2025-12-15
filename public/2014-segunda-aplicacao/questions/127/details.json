@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 127 - ENEM 2014",
+  "index": 127,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "A tendência dos nomes \n \nO nome é uma das primeiras coisas que não escolhemos na vida. Estará inscrito nos registros: na maternidade, no RG, no CPF, no obituário etc. Enfim, uma escolha que não fizemos nos acompanha do berço ao túmulo, pois na lápide se dirá que ali jaz Fulano de Tal\n\n                                                  SILVA, D. Língua, n. 77, mar. 2012",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Algumas palavras atuam no desenvolvimento de um texto contribuindo para a sua progressão. A palavra “enfim” promove o encadeamento do texto, tendo sido utilizada com a intenção de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "explicar que os nomes das pessoas são escolhidos no nascimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ratificar que os nomes registrados no nascimento são imutáveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reiterar que os nomes recebidos são importantes até a morte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "concluir que os nomes acompanham os indivíduos até a morte.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "acrescentar que ninguém pode escolher o próprio nome.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 36 - ENEM 2013",
+  "index": 36,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/36/36.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Um fator no Brasil que explica a situação social demonstrada no gráfico está expresso em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Declínio do trabalho formal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Subsídio econômico do governo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Aumento do controle da migração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Decréscimo da renda dos empregados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Expansão da demanda de mão de obra.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 5 - ENEM 2011",
+  "index": 5,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Podeis interrogar, talvez: quais são as aspirações das massas obreiras, quais os seus interesses? E eu vos responderei: ordem e trabalho! Em primeiro lugar, a ordem, porque na desordem nada se constrói; porque num país como o nosso, onde há tanto trabalho a realizar, onde há tantas iniciativas a adotar, onde há tantas possibilidades a desenvolver, só a ordem assegura a confiança e a estabilidade. O trabalho só se pode desenvolver em ambiente de ordem.\n\n                                                  Discurso de Getúlio Vargas, pronunciado no Palácio da Guanabara, no dia do Trabalho (1º de Maio, 1938). BONAVIDES, P.; AMARAL, R. Textos políticos da História do Brasil. Brasília: Senado Federal, 2002 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O discurso de Getúlio Vargas, proferido durante o Estado Novo, envolve uma estratégia política na qual se evidencia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o estímulo à ação popular, que poderia tomar para si o poder político.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o disfarce das posições socialistas como anseios populares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a dissimulação do nazifascismo, para sua aceitação pela elite política.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o debate sobre as políticas do Estado, objetivando o consenso entre os partidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a apresentação do projeto político do governo como uma demanda popular.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 37 - ENEM 2012",
+  "index": 37,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/37/Enem-2012-ppl-questao-37.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O mapa representa um problema ambiental que tem se agravado no bioma brasileiro da Caatinga. As causas desse problema estão associadas ao",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "uso da lenha para obtenção de energia pela indústria local.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "extrativismo vegetal da madeira pelas indústrias moveleiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "uso da terra pelas fazendas monocultoras mecanizadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "extrativismo mineral praticado pelas empresas mineradoras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "uso do solo para pastagem pela agropecuária extensiva.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 2 - ENEM 2014",
+  "index": 2,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Sempre teceremos panos de seda\nE nem por isso vestiremos melhor\nSeremos sempre pobres e nuas\nE teremos sempre fome e sede\nNunca seremos capazes de ganhar tanto\nQue possamos ter melhor comida.\n\n                                                  CHRÉTIEN DE TROYES. Yvain ou le chevalier au lion (1177-1181). Apud MACEDO, J. R. A mulher na Idade Média. São Paulo: Contexto, 1992 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O tema do trabalho feminino vem sendo abordado pelos estudos históricos mais recentes. Algumas fontes são importantes para essa abordagem, tal como o poema apresentado, que alude à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "inserção das mulheres em atividades tradicionalmente masculinas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ambição das mulheres em ocupar lugar preponderante na sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "possibilidade de mobilidade social das mulheres na indústria têxtil medieval.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "exploração das mulheres nas manufaturas têxteis no mundo urbano medieval.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "servidão feminina como tipo de mão de obra vigente nas tecelagens europeias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

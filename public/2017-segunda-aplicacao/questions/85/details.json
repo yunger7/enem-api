@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 85 - ENEM 2017",
+  "index": 85,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/85/85.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O padrão da pirâmide etária ilustrada apresenta demanda de investimentos socioeconômicos para a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "redução da mortalidade infantil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "promoção da saúde dos idosos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "resolução do déficit habitacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "garantia da segurança alimentar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "universalização da educação básica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

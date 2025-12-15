@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 69 - ENEM 2011",
+  "index": 69,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Radioisótopos são frequentemente utilizados em diagnósticos por imagem. Um exemplo é aplicação de iodo-131 para detectar possíveis problemas associados à glândula tireoide. Para o exame, o paciente incorpora o isótopo radioativo pela ingestão de iodeto de potássio, o qual se concentrará na região a ser analisada. Um detector de radiação varre a região e um computador constrói a imagem que irá auxiliar no diagnóstico. O radioisótopo em questão apresenta um tempo de meia-vida igual a 8 minutos e emite radiação gama e partículas beta em seu decaimento radioativo.\n\n                                                  Química nuclear na medicina. Disponível em: www.qmc.ufsc.br.\nAcesso em: 28 jul. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No decaimento radioativo do iodo-131, tem-se a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "produção de uma partícula subatômica com carga positiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "possibilidade de sua aplicação na datação de fósseis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "formação de um elemento químico com diferente número de massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "emissão de radiação que necessita de um meio material para se propagar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "redução de sua massa a um quarto da massa inicial em menos de meia hora.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

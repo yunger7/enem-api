@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 19 - ENEM 2016",
+  "index": 19,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "ILLINGWORTH, L. G. Outubro de 1962. Disponível em: www.llgc.org.uk. Acesso em: 8 mar. 2016.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/19/enem2016.2questao19.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A charge faz alusão à intensa rivalidade entre as duas maiores potências do século XX. O momento mais tenso dessa disputa foi provocado pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ampliação da Guerra do Vietnã.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "construção do muro de Berlim.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "instalação de mísseis em Cuba.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "eclosão da Guerra dos Sete Dias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "invasão do território do Afeganistão.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 116 - ENEM 2013",
+  "index": 116,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Informações ao paciente — Nimesulida\nAção esperada do medicamento: Nimesulida possui propriedades anti–inflamatórias, analgésicas e antipiréticas.\nCuidados de armazenamento: Nimesulida gotas deve ser conservado em temperatura ambiente (entre 15 e 30 ºC), protegido da luz.\nGravidez e lactação: Informe a seu médico a ocorrência de gravidez durante o tratamento ou após o seu término. Informe ao médico se está amamentando. O uso de Nimesulida não é recomendado para gestantes e mulheres em fase de amamentação.\nCuidados de administração: Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento. Caso os sintomas não melhorem em 5 dias, entre em contato com o seu médico.\nRecomenda–se utilizar Nimesulida depois das refeições. Agite antes de usar.\nTODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.\n\n                                                  Disponível em: www.bulas.med.br. Acesso em: 3 ago. 2012 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O fragmento de bula apresenta informações ao paciente sobre as propriedades do medicamento e sobre o modo adequado de administrá–lo. Pela leitura desse texto, o paciente obtém a informação de que o medicamento deve ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mantido dentro da geladeira, preferencialmente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ingerido num intervalo de seis em seis horas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "administrado em horários específicos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "tomado por pelo menos uma semana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "utilizado somente por adultos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

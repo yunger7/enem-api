@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 76 - ENEM 2012",
+  "index": 76,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Considere a seguinte cadeia alimentar em um ambiente marinho:\nFitoplânctons → Copépodos → Sardinhas → Atuns\nImagine que nessa cadeia sejam introduzidas águas-vivas, que se alimentam dos copépodos (crustáceos planctônicos). Nessa área as águas vivas não são alimentos para outros organismos. No mesmo período ocorre sobrepesca das populações de sardinhas.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Como consequência das interferências descritas na cadeia alimentar será observada diminuição",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da população de copépodos em decorrência da diminuição do estoque de sardinhas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da população de atuns em consequência da diminuição da população de sardinhas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "da quantidade de fitoplâncton devido à redução no estoque de copépodos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "do estoque de copépodos em função do aumento da população de atuns.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da população de atuns pelo aumento da população de copépodos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 2 - ENEM 2016",
+  "index": 2,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Disponivel em: www1.folha.uol.com.br. Acesso em: 9 nov. 2011.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/2/enem2016.2.questao2.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Para além de objetivos específicos, muitos movimentos sociais interferem no contexto sociopolítico e ultrapassam dimensões imediatas, como foi o caso das mobilizações operárias, ocorridas em 1979 na cidade de São Paulo. Nesse sentido, ao mesmo tempo em que lutavam por seus direitos, essas mobilizações contribuíram com o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "elaboração de novas políticas que garantiram a estabilidade econômica do país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "instalação de empresas multinacionais no Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "legalização dos sindicatos no Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "surgimento das políticas governamentais assistencialistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "processo de redemocratização do Brasil.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

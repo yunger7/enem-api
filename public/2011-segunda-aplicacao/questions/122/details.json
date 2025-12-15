@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 122 - ENEM 2011",
+  "index": 122,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/122/Enem-2011-ppl-questao-122.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O texto publicitário tem como objetivo principal o convencimento do seu público leitor e, para alcançar esse objetivo, utiliza diferentes tipos de linguagem. Na peça publicitária, que foi divulgada na ocasião da aprovação da Lei Seca, os elementos verbais e não verbais foram usados a fim de levar a população a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reduzir gradativamente a ingestão de álcool antes de dirigir.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "associar o consumo de bebidas à ideia de morte na juventude.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "prevenir-se quanto aos efeitos do álcool no organismo humano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "incompatibilizar as bebidas alcoólicas com a direção de automóveis.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "reconhecer que tipo de bebida alcoólica deve ser evitada no trânsito.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

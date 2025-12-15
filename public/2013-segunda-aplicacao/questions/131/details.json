@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 131 - ENEM 2013",
+  "index": 131,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Para as pessoas que estudam a inserção das tecnologias da informação e da comunicação (TICs) na sociedade, não é suficiente dar acesso ao hardware (com softwares instalados). Deve-se, também, disponibilizar recursos físicos, digitais, humanos e sociais. Além disso, deve-se considerar conteúdo, linguagem, alfabetização e educação, comunidade e estrutura institucional, para se permitir o acesso significativo às tecnologias digitais. Por acesso significativo, entende-se não só a possibilidade de manejo do computador, de suas ferramentas e do acesso à internet, mas, sobretudo, a capacidade de utilizar esses conhecimentos para o acesso a conteúdos que tenham influência direta para a melhoria da qualidade de vida da pessoa, de seu grupo e de sua comunidade.\n\n                                                  WARSCHAUER, M. Tecnologia e inclusão social: a exclusão digital em debate. São Paulo: Senac, 2006.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O uso significativo dos recursos ligados às tecnologias da informação e da comunicação faz-se presente na hipótese de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "distribuição de laptops aos alunos para que possam registrar o conteúdo passado em sala de aula em meio digital, diminuindo, assim, o tempo gasto com atividades feitas em papel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "criação de uma rádio web escolar com programas gravados, editados e organizados pelos alunos e professores, com utilização de mídias como gravador de som, computador e internet.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "inserção, na grade curricular do ensino médio, de disciplina que tenha o objetivo de ensinar o uso de aplicativos de edição de texto, planilhas eletrônicas, navegadores, editores de imagem etc",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "liberação do uso dos laboratórios de informática em horários extraclasse para que os alunos possam utilizar as tecnologias da forma que precisarem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "incentivo ao uso da internet para realização de pesquisas escolares, pela grande quantidade de fontes e imagens que poderão enriquecer os trabalhos dos alunos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

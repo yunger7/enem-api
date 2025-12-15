@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 28 - ENEM 2015",
+  "index": 28,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/28/enem2015_2a_caderno9_questao28.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As diferentes representações cartográficas trazem consigo as ideologias de uma época. A representação destacada se insere no contexto das Cruzadas por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "revelar aspectos da estrutura demográfica de um povo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sinalizar a disseminação global de mitos e preceitos políticos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "utilizar técnicas para demonstrar a centralidade de algumas regiões.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "mostrar o território para melhor administração dos recursos naturais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "mundo eurocêntrica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

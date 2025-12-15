@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 120 - ENEM 2013",
+  "index": 120,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "História da máquina que faz o mundo rodar\nCego, aleijado e moleque,\nPadre, doutor e soldado,\nInspetor, juiz de direito,\nComandante e delegado,\nTudo, tudo joga o dinheiro\nEsperando bom resultado.\nMatuto, senhor de engenho,\nPraciano e mandioqueiro,\nDo agreste ao sertão\nTodos jogam seu dinheiro\nSe um diz que é mentiroso\nOutro diz que é verdadeiro.\nNa opinião do povo\nNão tem quem possa mandar\nFaça ou não faça a máquina\nO povo tem que esperar\nPor que quem joga dinheiro\nSó espera mesmo é ganhar.\nAssim é que muitos pensam\nQue no abismo não cai\nQue quem não for no Juazeiro\nDepois de morto ainda vai,\nAssim também é crença\nQue a dita máquina sai.\nQuando um diz: ele não faz,\nJá outro fica zangado\nDizendo: assim como Cristo\nMorreu e foi ressuscitado\nEle também faz a máquina\nE seu dinheiro é lucrado.\n\n                                                  CRUZ, A. F. Disponível em: www.jangadabrasil.org. Acesso em: 5 ago. 2012 (fragmento).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "No fragmento, as escolhas lexicais remetem às origens geográficas e sociais da literatura de cordel. Exemplifica essa remissão o uso de palavras como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cego, aleijado, moleque, soldado, juiz de direito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "agreste, sertão, Juazeiro, matuto, senhor de engenho.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "comandante, delegado, dinheiro, resultado, praciano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mentiroso, verdadeiro, joga, ganhar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "morto, crença, zangado, Cristo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

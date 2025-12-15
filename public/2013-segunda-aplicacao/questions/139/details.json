@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 139 - ENEM 2013",
+  "index": 139,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O cometa Halley orbita o Sol numa trajetória elíptica periódica. Ele foi observado da Terra nos anos de 1836 e 1911. Sua última aparição foi em 1986 e sua próxima aparição será em 2061.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é o ano da segunda aparição do cometa anterior ao ano de 2012?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1836",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1862",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1911",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1937",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1986",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

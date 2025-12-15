@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 172 - ENEM 2015",
+  "index": 172,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um meio de transporte coletivo que vem ganhando espaço no Brasil é a van, pois realiza, com relativo conforto e preço acessível, quase todos os tipos de transportes: escolar e urbano, intermunicipal e excursões em geral.\nO dono de uma van, cuja capacidade máxima é de 15 passageiros, cobra para uma excursão até a capital de seu estado R$ 60,00 de cada passageiro. Se não atingir a capacidade máxima da van, cada passageiro pagará mais R$ 2,00 por lugar vago.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Sendo x o número de lugares vagos, a expressão que representa o valor arrecadado V(x), em reais, pelo dono da van, para uma viagem até a capital é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "V(x) = 902x",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "V(x) = 930x",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "V(x) = 900 + 30x",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "V(x) = 60x + 2x²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "V(x) = 900 30x 2x²",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

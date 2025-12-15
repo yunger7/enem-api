@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 121 - ENEM 2012",
+  "index": 121,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I\n\nA canção do africano\nLá na úmida senzala,\nSentado na estreita sala,\nJunto ao braseiro, no chão,\nentoa o escravo o seu canto,\nE ao cantar correm-lhe em pranto\nSaudades do seu torrão…\nDe um lado, uma negra escrava\nOs olhos no filho crava,\nQue tem no colo a embalar…\nE à meia-voz lá responde\nAo canto, e o filhinho esconde,\nTalvez p’ra não o escutar!\n“Minha terra é lá bem longe,\nDas bandas de onde o sol vem;\nEsta terra é mais bonita,\nMas à outra eu quero bem.”\n\n                                                  ALVES, C. Poesias completas. Rio de Janeiro: Ediouro, 1995 (fragmento).\n\n                              \n                                                \n                TEXTO II\nNo caso da Literatura Brasileira, se é verdade que prevalecem as reformas radicais, elas têm acontecido mais no âmbito de movimentos literários do que de gerações literárias. A poesia de Castro Alves em relação à de Gonçalves Dias não é a de negação radical, mas de superação, dentro do mesmo espírito romântico.\n\n                                                  MELO NETO, J. C. Obra completa. Rio de Janeiro: Nova Aguilar, 2003 (fragmento).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O fragmento do poema de Castro Alves exemplifica a afirmação de João Cabral de Melo Neto porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "exalta o nacionalismo, embora lhe imprima um fundo ideológico retórico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "canta a paisagem local, no entanto, defende ideais do liberalismo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mantém o canto saudosista da terra pátria, mas renova o tema amoroso.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "explora a subjetividade do eu lírico, ainda que tematize a injustiça social.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "inova na abordagem de aspecto social, mas mantém a visão lírica da terra pátria.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

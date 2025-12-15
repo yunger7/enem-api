@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 66 - ENEM 2016",
+  "index": 66,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A descoberta dos organismos extremófilos foi uma surpresa para os pesquisadores. Alguns desses organismos, chamados de acidófilos, são capazes de sobreviver em ambientes extremamente ácidos. Uma característica desses organismos é a capacidade de produzir membranas celulares compostas de lipídeos feitos de éteres em vez dos ésteres de glicerol, comuns nos outros seres vivos (mesófilos), o que preserva a membrana celular desses organismos mesmo em condições extremas de acidez.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A degradação das membranas celulares de organismos não extremófilos em meio ácido é classificada como",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "hidrólise.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "termólise.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "eterificação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "condensação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "saponificação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

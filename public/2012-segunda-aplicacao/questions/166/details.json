@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 166 - ENEM 2012",
+  "index": 166,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um pequeno caminhão dispõe de dois reservatórios vazios, cada um com capacidade de 2 000 kg, os quais serão utilizados para transportar a produção de milho e soja até um centro consumidor. No centro de abastecimento abre-se o registro de um primeiro silo às 12 horas para alimentar o reservatório 1 com milho, numa taxa de 120 kg por minuto. Passados cinco minutos, abre-se o registro de um segundo silo para alimentar o reservatório 2 com soja, numa taxa de 80 kg por minuto. Considere que a encomenda de milho no centro consumidor seja de 1 800 kg e que, pela lei rodoviária local, a carga máxima a ser transportada por caminhão seja de 3 400 kg.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/166/166.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Nestas condições, em que instantes devem ser fechados os registros dos silos 1 e 2, respectivamente, para que a quantidade de soja transportada seja a máxima possível?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "12h15min e 12h20min",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12h15min e 12h25min",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "12h15min e 12h27min30seg",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "12h15min e 12h30min",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "12h15min e 12h32min30seg",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

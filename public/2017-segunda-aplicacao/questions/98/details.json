@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 98 - ENEM 2017",
+  "index": 98,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A aquisição deum telescópio deve levar em consideração diversos fatores, entre os quais estão o aumento angular, a resolução ou poder de separação e a magnitude limite. O aumento angular informa quantas vezes mais próximo de nós percebemos o objeto observado e é calculado como sendo a razão emtre as distâncias focais da objetiva (F1) e da ocular (F2). A resolução do telescópio (P) informa o menor ângulo que deve existir entre dois pontos observados para que seja possível distingui-los. A magnitude limite (M) indica o menor brilho que um telescópio pode captar. Os valores numéricos de P e M são calculados pelas expressões:\nD é o valor numérico do diâmetro da objetiva do telescópio, expresso em centímetro.\n \n\n                                                  Disponível em: www.telescopioastronomicos.com.br. Acesso em: 13 de maio 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Ao realizar a observação de um planeta distante e de baixa luminosidade, não se obteve uma imagem nítida. Para melhorar a qualidade dessa observação, os valores de D, F1 e F2 devem ser, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumentado, aumentado e diminuído.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "aumentado, diminuído e aumentado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aumentado, diminuído e diminuído.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "diminuído, aumentado e aumentado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "diminuído, aumentado e diminuído.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 165 - ENEM 2014",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um ciclista participará de uma competição e treinará alguns dias da seguinte maneira: no primeiro dia, pedalará 60 km; no segundo dia, a mesma distância do primeiro mais r km; no terceiro dia, a mesma distância do segundo mais r km; e, assim, sucessivamente, sempre pedalando a mesma distância do dia anterior mais r km. No último dia, ele deverá percorrer 180 km, completando o treinamento com um total de 1 560 km.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A distância r que o ciclista deverá pedalar a mais a cada dia, em km, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "10.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "13.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "20.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

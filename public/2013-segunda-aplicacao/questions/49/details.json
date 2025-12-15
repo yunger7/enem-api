@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 49 - ENEM 2013",
+  "index": 49,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/49/461.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A transformação química em questão é representada pela equação:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CH3COOH (aq) + NaHCO3(s) → Na+ (aq) + CH3COO− (aq) + CO2(g) + H2O (l)",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "CH3COOH (aq) + NaHCO3(s) → Na+ (aq) + CH3COO− (aq) + O2(g) + H2O (l)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "CH3COOH (aq) + NaHCO3(s) → Na+ (aq) + CH3COO− (aq) + H2O (l)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "CH3COOH (aq) + NaHCO3(s) → NaCO2+ (aq) + CH3COO− (aq) + H2O (l)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "CH3COOH (aq) + NaHCO3(s) → Na+ (aq) + CH3COO− (aq) + H2(g) + H2O (l)",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

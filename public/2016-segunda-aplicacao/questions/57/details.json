@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 57 - ENEM 2016",
+  "index": 57,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um eletricista deve instalar um chuveiro que tem as especificações 220 V — 4 400 W a 6 800 W. Para a instalação de chuveiros, recomenda-se uma rede própria, com fios de diâmetro adequado e um disjuntor dimensionado à potência e à corrente elétrica previstas, com uma margem de tolerância próxima de 10%. Os disjuntores são dispositivos de segurança utilizados para proteger as instalações elétricas de curtos-circuitos e sobrecargas elétricas e devem desarmar sempre que houver passagem de corrente elétrica superior à permitida no dispositivo.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para fazer uma instalação segura desse chuveiro, o valor da corrente máxima do disjuntor deve ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "20A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "25A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "30A.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "35A.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "40A.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

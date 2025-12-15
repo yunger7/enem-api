@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 56 - ENEM 2012",
+  "index": 56,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Diversos estudos têm sido desenvolvidos para encontrar soluções que minimizem o impacto ambiental de eventuais vazamentos em poços de petróleo, que liberam hidrocarbonetos potencialmente contaminantes. Alguns microrganismos podem ser usados como agentes de biorremediação nesses casos.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os microrganismos adequados a essa solução devem apresentar a capacidade de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "excretar hidrocarbonetos solúveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estabilizar quimicamente os hidrocarbonetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "utilizar hidrocarbonetos em seu metabolismo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "diminuir a degradação abiótica de hidrocarbonetos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "transferir hidrocarbonetos para niveis tróficos superiores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 136 - ENEM 2016",
+  "index": 136,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O gráfico mostra a média de produção diária de petróleo no Brasil, em milhão de barris, no período de 2004 a 2010.\nEstimativas feitas naquela época indicavam que a média de produção diária de petróleo no Brasil, em 2012, seria 10% superior à média dos três últimos anos apresentados no gráfico.\n\n                                                  Disponível em: http://blogs.estadao.com.br. Acesso em: 2 ago. 2012.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/136/Capturar.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Estimativas feitas naquela época indicavam que de produção diária de petróleo no Brasil, em milhão de barris, em 2012, teria sido igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,940.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,134.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "2,167.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2,420.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "6,402",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

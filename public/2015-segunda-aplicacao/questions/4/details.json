@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 4 - ENEM 2015",
+  "index": 4,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nOs problemas ambientais são consequência direta da intervenção humana nos diferentes ecossistemas da Terra, causando desequilíbrios no meio ambiente e comprometendo a qualidade de vida.\n\n                                                  Disponível em: www.repository.utl.pt. Acesso em: 29 jul. 2012.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/4/enem2015_2a_caderno9_questao041.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As imagens representam as geleiras da Groenlândia, que sofreram e sofrem impactos, resultantes do(a):",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ilha de calor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "chuva ácida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "erosão eólica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inversão térmica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aquecimento global.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

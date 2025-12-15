@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 11 - ENEM 2015",
+  "index": 11,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/11/enem2015_2a_caderno9_questao11.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A mudança apresentada na tabela é reflexo da Lei Eusébio de Queioz que, em 1850:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aboliu a escravidão no território brasileiro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "definiu o tráfico de escravos como pirataria.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "elevou as taxas para importação de escravos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "libertou os escravos com mais de 60 anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "garantiu o direito de alforria aos escravos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

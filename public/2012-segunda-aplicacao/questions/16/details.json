@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 16 - ENEM 2012",
+  "index": 16,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/16/Enem-2012-ppl-questao-16.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A imagem registra uma especificidade do contexto urbano em que a ausência ou ineficiência das políticas públicas resultou em",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "garantia dos direitos humanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "superação do déficit habitacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "controle da especulação imobiliária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "mediação dos conflitos entre classes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumento da segregação socioespacial.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

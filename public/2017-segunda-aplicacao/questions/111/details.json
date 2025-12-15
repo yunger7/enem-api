@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 111 - ENEM 2017",
+  "index": 111,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os combustíveis de origem fóssil, como o petróleo e o gás natural, geram um sério problema ambiental, devido à liberação de dióxido de carbono durante o processo de combustão. O quadro apresenta as massas molares e as reações de combustão não balanceadas de diferentes combustíveis.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/111/111.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Considerando a combustão completa de 58 g de cada um dos combustíveis listados no quadro, a substância que emite mais CO2é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "etano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "butano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "metano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "propano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "acetileno.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

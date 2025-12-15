@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 171 - ENEM 2014",
+  "index": 171,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O número de frutos de uma determinada espécie de planta se distribui de acordo com as probabilidades apresentadas no quadro.\n\nnull",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/171/171.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A probabilidade de que, em tal planta, existam, pelo menos, dois frutos é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3%.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "7%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "13%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "16%.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "20%.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

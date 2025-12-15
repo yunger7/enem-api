@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 21 - ENEM 2017",
+  "index": 21,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/21/21.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Na tirinha, o leitor é conduzido a refletir sobre relacionamentos afetivos. A articulação dos recursos verbais e não verbais tem o objetivo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "criticar a superficialidade com que as relações amorosas são expostas nas redes sociais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "negar antigos conceitos ou experiências afetivas ligadas à vida amorosa dos adolescentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "enfatizar a importância de incorporar novas experiências na vida amorosa dos adolescentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "valorizar as manifestações nas redes sociais como medida do sucesso de uma relação amorosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "associar a popularidade de uma mensagem nas redes sociais à profundidade de uma relação amorosa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 75 - ENEM 2016",
+  "index": 75,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A obtenção do alumínio dá-se a partir da bauxita (Al2O3 3H2), que é purificada e eletrolisada  numa temperatura de 1000 °C. Na célula eletrolítica, o ânodo é formado por barras de grafica ou carvão, que são  consumidas no processo de eletrólise, com formação de gás carbônico, e o cátodo é uma caixa de aço coberta de grafita.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A etapa de obtenção do alumínio ocorre no",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ânodo, com formação de gás carbônico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cátodo, com redução do carvão na caixa de aço.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cátodo, com oxidação do alumínio na caixa de aço.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ânodo, com depósito de alumínio nas barras de gráfica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cátodo, com o fluxo de elétrons das barras de grafita para a caixa de aço.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

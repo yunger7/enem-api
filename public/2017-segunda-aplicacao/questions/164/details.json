@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 164 - ENEM 2017",
+  "index": 164,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um dos principais indicadores de inflação é o Índice Nacional de Preços ao Consumidor Amplo (IPCA). O gráfico apresenta os valores do IPCA nos anos de 1994 a 2011.\n\nnull",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/164/164.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O valor mais próximo da mediana de todos os valores da inflação indicados no gráfico é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5,97.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6,24.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "6,50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8,07.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "10,10.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

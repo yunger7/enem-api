@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 32 - ENEM 2011",
+  "index": 32,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Hoje, o Brasil produz cerca de 16 bilhões de litros de álcool por ano, em quase 3 milhões de hectares, o suficiente para atender a 40% da frota de veículos nacionais. Para substituir completamente a gasolina, essa produção teria mais que dobrar. De acordo com a Embrapa, há espaço para isso: cerca de 90 milhões de hectares disponíveis para a expansão da agricultura.\n\n                                                  GIRARDI, G. O país do etanol. Revista Horizonte Geográfico. Nº 112, 2010.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O Brasil apresenta grande potencialidade para a produção de biocombustíveis, visto que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "estimula a produção do etanol a partir do milho, que se apresenta como alternativa de fonte renovável de maior rentabilidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "desenvolve nas áreas agricultáveis de grande porte o cultivo da cana-de-açúcar amparado por técnicas e tecnologias tradicionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "disponibiliza, na maior parte das áreas agricultáveis de cana, novos recursos tecnológicos substitutivos de técnicas antigas e poluidoras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "promove a exploração de energias renováveis de segunda geração, já que garantem produtividade similar ao do álcool.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "oferece a combinação de solo, clima e fontes renováveis capazes de favorecer uma cadeia de produção com potencial de abastecer o mercado.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

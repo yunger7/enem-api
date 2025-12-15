@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 134 - ENEM 2013",
+  "index": 134,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/134/enem2013.2.quest%C3%A3o134.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os resultados da pesquisa realizada a respeito do consumo de álcool por adolescentes chamam a atenção para",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "os efeitos maléficos do álcool nos adolescentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o consumo exagerado de álcool entre adolescentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o risco do consumo de álcool cada vez mais precoce.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a problemática do consumo de álcool na década de 1990.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a diferença de comportamento entre adolescentes e adultos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

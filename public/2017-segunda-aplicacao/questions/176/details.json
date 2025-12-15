@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 176 - ENEM 2017",
+  "index": 176,
+  "discipline": "matematica",
+  "language": null,
+  "context": "As estimativas indicavam que as duas regiões maiores produtoras produziriam, juntas, um total de 119,9 milhões de toneladas dessas culturas, em 2012.\n\n                                                  Disponível em: www.ibge.gov.br. Acesso em: 3 jul. 2012",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/176/176.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "De acordo com esses dados, qual seria o valor mais próximo da produção, em milhão de tonelada, de cereais, leguminosas e oleoginosas, em 2012, na Região Sudeste do país?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10,3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "11,4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "13,6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "16,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "18,1",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

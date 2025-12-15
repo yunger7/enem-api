@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 123 - ENEM 2011",
+  "index": 123,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I\nBrasil africano\nDe várias partes da África, veio a metade dos nossos antepassados no período da escravidão, entre os séculos XVII e XIX. As muitas línguas que falavam mudaram o português existente no Brasil. Da estética à culinária, dos costumes à religião, as influências também foram numerosas e permanecem. Os estudos africanos no país remontam ao começo do século XX, mas há, ainda, muito para ser descoberto e compreendido dessas tantas trocas culturais.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/123/Enem-2011-ppl-questao-123.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Ao relacionar-se a temática dos Textos I e II, sobre a influência africana no Brasil, constata-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "fazem alusão ao fato de que a contribuição do povo africano para a cultura brasileira não é comprovada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "revelam que os estudos referentes à contribuição do povo africano na formação do Brasil é incipiente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "demonstram que a construção da identidade nacional é marcada pela presença da cultura africana.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "informam que os negros foram os responsáveis pela formação cultural do nosso país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "remetem à ideia de que essa influência inexistiu no âmbito linguístico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 8 - ENEM 2016",
+  "index": 8,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Disponível em: http://portaldoprofessor.mec.gov.br. Acesso em: 12 ago. 2012.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/8/enem2016.2.questao8.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A projeção cartográfica do mapa configura-se como hegemônica desde a sua elaboração, no século XVI. A sua principal contribuição inovadora foi a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "redução comparativa das terras setentrionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "manutenção da proporção real das áreas representadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "consolidação das técnicas utilizadas nas cartas medievais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "valorização dos continentes recém-descobertos pelas Grandes Navegações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "adoção de um plano em que os paralelos fazem ângulos constantes com os meridianos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

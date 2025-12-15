@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 90 - ENEM 2014",
+  "index": 90,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A eutrofização é um dos fenômenos responsáveis pela mortalidade de parte das espécies aquáticas e, em regiões próximas a centros urbanos, pela perda da qualidade de vida da população. Um exemplo é a Lagoa da Pampulha, um dos mais conhecidos pontos turísticos da capital de Minas Gerais, onde as atividades de pesca e nado não são mais permitidas.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Para evitar a ocorrência desse fenômeno em lagos deve-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "manter inalterado seu volume de água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aumentar a população de algas planctônicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "diminuir o teor de nutrientes despejados nas águas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "impedir a fotossíntese das algas abaixo da superfície.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "aumentar a população de espécies do topo da cadeia alimentar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

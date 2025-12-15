@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 165 - ENEM 2017",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma equipe de ambientalistas apresentou um mapa de uma reserva ambiental em que faltava a especificação da escala utilizada para a sua confecção. O problema foi resolvido, pois um dos integrantes da equipe lembrava-se de que a distância real de 72 km, percorrida na reserva, equivalia a 3,6 cm no mapa.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual foi a escala utilizada na confecção do mapa?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 : 20",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 : 2 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 : 20 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 : 200 000",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 : 2 000 000",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

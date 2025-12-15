@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 88 - ENEM 2014",
+  "index": 88,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A escolha de uma determinada substância para ser utilizada como combustível passa pela análise da poluição que ela causa ao ambiente e pela quantidade de energia liberada em sua combustão completa. O quadro apresenta a entalpia de combustão de algumas substâncias. As massas molares dos elementos H, C e O são, respectivamente, iguais a 1 g/mol, 12 g/mol e 16 g/mol.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/88/88-1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Levando-se em conta somente o aspecto energético, a substância mais eficiente para a obtenção de energia, na combustão de 1 kg de combustível, é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "etano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "etanol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "metanol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "acetileno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "hidrogênio.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 48 - ENEM 2016",
+  "index": 48,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Para a instalação de um aparelho de ar-condicionado, é sugerido que ele seja colocado na parte superior da parede do cômodo, pois a maioria dos fluidos (líquidos e gases), quando aquecidos, sofrem expansão, tendo sua densidade diminuída e sofrendo um deslocamento ascendente. Por sua vez, quando são resfriados, tornam-se mais densos e sofrem um deslocamento descendente.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A sugestão apresentada no texto minimiza o consumo de energia, porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diminui a umidade do ar dentro do cômodo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aumenta a taxa de condução térmica para fora do cômodo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "torna mais fácil o escoamento da água para fora do cômodo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "facilita a circulação das correntes de ar frio e quente dentro do cômodo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "diminui a taxa de emissão de calor por parte do apa - relho para dentro do cômodo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

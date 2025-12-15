@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 80 - ENEM 2017",
+  "index": 80,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nA Resolução n° 7 do Conselho Nacional de Justiça (CNJ) passou a disciplinar o exercício do nepotismo cruzado, isto é, a troca de parentes entre agentes para que tais parentes sejam contratados diretamente, sem concurso. Exemplificando: o desembargador A nomeia como assessor o filho do desembargador B que, em contrapartida, nomeia o filho deste como seu assessor.\n\n                                                  COSTA, W. S. Do nepotismo cruzado: características e pressupostos. Jusnavigandi, n. 950, 8 fev. 2006.\n \n\n                              \n                                                \n                TEXTO II\nNo Brasil, pode-se dizer que só excepcionalmente\ntivemos um sistema administrativo e um corpo de\nfuncionários puramente dedicados a interesses objetivos\ne fundados nesses interesses.\n\n                                                  HOLANDA, S. B. Raízes do Brasil. Rio de Janeiro: José Olympio, 1993.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A administração pública no Brasil possui raízes históricas marcadas pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "valorização do mérito individual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "punição dos desvios de conduta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "distinção entre o público e o privado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "prevalência das vontades particulares.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "obediência a um ordenamento impessoal",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

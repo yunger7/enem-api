@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 143 - ENEM 2017",
+  "index": 143,
+  "discipline": "matematica",
+  "language": null,
+  "context": "No centro de uma praça será construída uma estátua que ocupará um terreno quadrado com área de 9 metros quadrados. O executor da obra percebeu que a escala do desenho na planta baixa do projeto é de 1 : 25.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Na planta baixa, a área da figura que representa esse terreno, em centímetro quadrado, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "144.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "225.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3 600.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "7 500.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "32 400.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

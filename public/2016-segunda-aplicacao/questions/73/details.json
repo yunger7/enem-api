@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 73 - ENEM 2016",
+  "index": 73,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "No dia 27 de junho de 2011, o asteroide 2011 MD, com cerca de 10 m de diâmetro, passou a 12 mil quilômetros do planeta Terra, uma distância menor do que a órbita de um satélite. A trajetória do asteroide é apresentada na figura.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/73/73-figura1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A explicação física para a trajetória descrita é o fato de o asteroide",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "deslocar-se em um local onde a resistência do ar é nula.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "deslocar-se em um ambiente onde não há interação gravitacional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "sofrer a ação de uma força resultante no mesmo sentido de sua velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sofrer a ação de uma força gravitacional resultante no sentido contrário ao de sua velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estar sob a ação de uma força resultante cuja direção é diferente da direção de sua velocidade.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

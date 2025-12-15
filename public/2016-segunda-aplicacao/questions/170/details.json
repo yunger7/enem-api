@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 170 - ENEM 2016",
+  "index": 170,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em um trabalho escolar, João foi convidado a calcular as áreas de vários quadrados diferentes, dispostos na sequência, da esquerda para a direita, como mostra a figura.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                O primeiro quadrado da sequência tem lado medindo 1 cm, o segundo quadrado tem lado medindo 2 cm, o terceiro quadrado tem lado medindo 3 cm e assim por diante. O objetivo do trabalho é identificar em quanto a área de cada quadrado da sequência excede a área do quadrado anterior. A área do quadrado que ocupa a posição n, na sequência foi representada por An.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/170/quest%C3%A3o-170-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para n ≥ 2, o valor da diferença An – An–1, em centímetro quadrado, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2n – 1",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "2n + 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "–2n + 1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "(n – 1)²",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "n² – 1",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

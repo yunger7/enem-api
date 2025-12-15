@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 126 - ENEM 2015",
+  "index": 126,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/126/enem-2015-segunda-aplica%C3%A7%C3%A3o-quest%C3%A3o-126.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Campanhas educativas têm o propósito de provocar uma reflexão em torno de questões sociais de grande relevância, tais como as relacionadas à cidadania e também à saúde. Com a imagem de um relógio despertador e o slogan “Sempre é hora de combater a dengue”, a Campanha Nacional de Combate à Dengue objetiva convencer a população de que é preciso",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "eliminar potenciais criadouros, quando aparecer a doença.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "posicionar-se criticamente sobre as ações de combate ao mosquito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "prevenir-se permanentemente contra a doença.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "repensar as ações de prevenção da doença.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "preparar os agentes de combate ao mosquito.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

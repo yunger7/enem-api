@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 23 - ENEM 2017",
+  "index": 23,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Chamou-me o bragantino e levou-me pelos corredores e pátios até ao hospício propriamente. Aí é que percebi que ficava e onde, na seção, na de indigentes, aquela em que a imagem do que a Desgraça pode sobre a vida dos homens é mais formidável. O mobiliário, o vestuário das camas, as camas, tudo é de uma pobreza sem par. Sem fazer monopólio, os loucos são da proveniência mais diversa, originando-se em geral das camadas mais pobres da nossa gente pobre. São de imigrantes italianos, portugueses e outros mais exóticos, são os negros roceiros, que teimam em dormir pelos desvãos das janelas sobre uma esteira esmolambada e uma manta sórdida; são copeiros, cocheiros, moços de cavalariça, trabalhadores braçais. No meio disto, muitos com educação, mas que a falta de recursos e proteção atira naquela geena social.\n\n                                                  BARRETO, L. Diário do hospício e O cemitério dos vivos.\nSão Paulo: Cosac& Naify, 2010.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No relato de sua experiência no sanatório onde foi interno, Lima Barreto expõe uma realidade social e humana marcada pela exclusão. Em seu testemunho, essa reclusão demarca uma",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "medida necessária de intervenção terapêutica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "forma de punição indireta aos hábitos desregrados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "compensação para as desgraças dos indivíduos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "oportunidade de ressocialização em um novo ambiente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "conveniência da invisibilidade a grupos vulneráveis e periféricos.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

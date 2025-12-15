@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 25 - ENEM 2012",
+  "index": 25,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\n\nJá existe, em nosso país, uma consciência nacional que vai introduzindo o elemento da dignidade humana em nossa legislação, e para qual a escravidão é uma verdadeira mancha. Essa consciência resulta da mistura de duas correntes diversas: o arrependimento dos descendentes de senhores e a afinidade de sofrimento dos herdeiros de escravos.\n\n                                                  NABUCO, J. O abolicionismo. Disponível em: www.dominiopublico.gov.br. Acesso em: 12 out. 2011 (adaptado).\n\n                              \n                                                \n                TEXTO II\nJoaquim Nabuco era bom de marketing. Como verdadeiro estrategista, soube trabalhar nos bastidores para impulsionar a campanha abolicionista, utilizando com maestria a imprensa de sua época. Criou repercussão internacional para a causa abolicionista, publicando em jornais estrangeiros lidos e respeitados pelas elites brasileiras. Com isso, a campanha ganhou vulto e a escravidão se tornou um constrangimento, uma vergonha nacional, caminhando assim para o seu fim.\n\n                                                  COSTA e SILVA, P. Um abolicionista bom de marketing. Disponível em: www.revistadehistoria.com.br. Acesso em: 27 jan. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Segundo Joaquim Nabuco, a solução do problema escravista no Brasil ocorreria como resultado da:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Evolução moral da sociedade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Vontade política do Imperador.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Atuação isenta da Igreja Católica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Ineficácia econômica do trabalho escravo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Implantação nacional do movimento republicano.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

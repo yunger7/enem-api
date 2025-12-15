@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 96 - ENEM 2014",
+  "index": 96,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Interfaces\nUm dos mais importantes componentes do hipertexto é a sua interface. As interfaces permitem a visualização do conteúdo, determinam o tipo de interação que se estabelece entre as pessoas e a informação, direcionando sua escolha e o acesso ao conteúdo.\nO hipertexto retoma e transforma antigas interfaces da escrita (a noção de interface não deve ser limitada às técnicas de comunicação contemporânea). Constitui-se, na verdade, em uma poderosa rede de interfaces que se conectam a partir de princípios básicos e que permitem uma “interação amigável”.\nAs  particularidades do hipertexto virtual, como sua dinamicidade e seus aspectos multimidiáticos, devem-se ao seu suporte ótico, magnético, digital e à sua interface amigável. A influência do hipertexto é tanta,que as representações de tipo cartográfico ganham cada vez mais importância nas tecnologias intelectuais\nde suporte informático.\nEsta influência também é devida ao fato de a memória humana, segundo estudos da psicologia cognitiva, compreender e reter melhor as informações organizadas, especialmente em diagramas e em mapas conceituais manipuláveis. Por isso, imagina-se que o hipertexto deva favorecer o domínio mais rápido e fácil das informações, em contraponto a um audiovisual tradicional, por exemplo.\n \n\n                                                  Disponível em: vsites.unb.br. Acesso em: 1 ago. 2012.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O texto informa como as interfaces são reaproveitadas pelo hipertexto virtual, influenciando as tecnologias de informação e comunicação. De acordo com o texto, qual é a finalidade do uso do hipertexto quanto à absorção e manipulação das informações?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Mesclar antigas interfaces com mecanismos virtuais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Auxiliar os estudos de psicologia cognitiva com base nos hipertextos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Amparar a pesquisa de mapas e diagramas relacionados à cartografia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Salientar a importância das tecnologias de informação e comunicação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ajudar na apreensão das informações de modo mais eficaz e facilitado.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

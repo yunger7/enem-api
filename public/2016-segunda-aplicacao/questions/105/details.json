@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 105 - ENEM 2016",
+  "index": 105,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I\nMama África Mama África (a minha mãe)\né mãe solteira\ne tem que fazer\nmamadeira todo dia\nalém de trabalhar\ncomo empacotadeira\nnas Casas Bahia\nMama África tem tanto o que fazer\nalém de cuidar neném\nalém de fazer denguim\nfilhinho tem que entender\nMama África vai e vem\nmas não se afasta de você\nquando Mama sai de casa\nseus filhos se olodunzam\nrola o maior jazz \nMama tem calos nos pés\nMama precisa de paz\nMama não quer brincar mais\nfilhinho dá um tempo\né tanto contratempo\nno ritmo de vida de Mama\n\n                                                  CHICO CÉSAR. Mama África. São Paulo: MZA Music, 1995.\n\n                              \n                                                \n                TEXTO II\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                \n                                                  Fonte: IBGE A nova família brasileira. Disponível em: http://veja.abril.com.br. Acesso em: 17 dez. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/105/FAM%C3%8DLIAS.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A pesquisa, realizada pelo IBGE, evidencia características das famílias brasileiras, também tematizadas pela canção Mama África. Ambos os textos destacam o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "preocupação das mulheres com o mercado de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "responsabilidade das mulheres no sustento das famílias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "comprometimento das mulheres na reconstituição do casamento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "dedicação das mulheres no cuidado com os filhos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "importância das mulheres nas tarefas diárias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

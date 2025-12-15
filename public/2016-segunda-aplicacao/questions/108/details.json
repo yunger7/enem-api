@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 108 - ENEM 2016",
+  "index": 108,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Disponível em: http://portal.saude.gov.br. Acesso em: 8 nov. 2013 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/108/PARA-DOAR-SANGUE.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Na campanha publicitária, há uma tentativa de sensibilizar o público-alvo, visando levá-lo à doação de sangue. Analisando a estratégia argumentativa utilizada, percebe-se que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a exposição de alguns dados sobre a jovem procura provocar compaixão, visto que, em razão da doença, ela vive de maneira diferente dos demais jovens de sua idade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a campanha defende a ideia de que, para doar, é preciso conhecer o doente, considerando que foi preciso apresentar a jovem para gerar identificação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o questionamento seguido da resposta propõe reflexão por parte do público-alvo, visto que o texto critica a prática de escolher para quem doar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "as escolhas verbais associadas à imagem parecem contraditórias, pois constroem uma aparência incompatível com a de uma jovem doente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a campanha explora a expressão da jovem a fim de gerar comoção no leitor, levando-o a doar sangue para as pessoas com leucemia.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

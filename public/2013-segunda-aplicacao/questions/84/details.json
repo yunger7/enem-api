@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 84 - ENEM 2013",
+  "index": 84,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "É comum nos referirmos a dias quentes como dias “de calor”. Muitas vezes ouvimos expressões como “hoje está calor” ou “hoje o calor está muito forte” quando a temperatura ambiente está alta.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "No contexto científico, é correto o significado de “calor” usado nessas expressões?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Sim, pois o calor de um corpo depende de sua temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Sim, pois calor é sinônimo de alta temperatura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Não, pois calor é energia térmica em trânsito.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Não, pois calor é a quantidade de energia térmica contida em um corpo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Não, pois o calor é diretamente proporcional à temperatura, mas são conceitos diferentes",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

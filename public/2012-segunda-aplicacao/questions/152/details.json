@@ -1,0 +1,37 @@
+{
+  "year": 2012,
+  "title": "Questão 152 - ENEM 2012",
+  "index": 152,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O apresentador de um programa de auditório propôs aos participantes de uma competição a seguinte tarefa: cada participante teria 10 minutos para recolher moedas douradas colocadas aleatoriamente em um terreno destinado à realização da competição. A pontuação dos competidores seria calculada ao final do tempo destinado a cada um dos participantes, no qual as moedas coletadas por eles seriam contadas e a pontuação de cada um seria calculada, subtraindo do número de moedas coletadas uma porcentagem de valor igual ao número de moedas coletadas. Dessa forma, um participante que coletasse 60 moedas teria sua pontuação calculada da seguinte forma: pontuação = 60 – 36 (60% de 60) = 24. O vencedor da prova seria o participante que alcançasse a maior pontuação.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual será o limite máximo de pontos que um competidor pode alcançar nessa prova?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "25",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "50",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "75",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "100",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

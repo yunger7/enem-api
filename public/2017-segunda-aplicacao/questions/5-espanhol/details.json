@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 5 - ENEM 2017",
+  "index": 5,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Un gran disco rojo, siluetas de manos y flguras animales que decoran las paredes de diferentes cuevas del norte de Espana son las pinturas rupestres más antiguas jamás halladas. Hasta ahora se creia que — con una antigüedad de entre 20 000 y 25 000 anos — las pinturas rupestres más antiguas estaban en cuevas de Francia y Portugal. Las fechas en las que, según el nuevo hallazgo, se dibujaron estas pinturas coinciden con la primera migración conocida de los humanos modernos (los Homo sapiens) a Europa desde África. Pero hace 40 000 anos, sus primos los neandertales todavía vivían en lo que hoy es Espana. En estas pinturas pueden estar alguna de las claves para entender el desarrollo de la historia humana. Pero si, por el contrario, se comprueba que los artistas fueron los neandertales, el hallazgo “anade un nuevo elemento a nuestro conocimiento sobre sus capacidades y su sofisticación”. Eso indicaria que el pensamiento humano, abstracto y avanzado, y probablemente también el lenguaje, surgieron cientos de miles de anos antes de lo que se creía.\n\n                                                  Disponível em: www.bbc.co.uk. Acesso em: 15 jun. 2012 (adaptado)",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A pintura rupestre é uma arte pré-histórica por meio da qual nossos ancestrais retratavam seu entorno, seu cotidiano, suas crenças. O achado arqueológico apresentado no texto pode ser de grande relevância por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "oferecer informações sobre o movimento migratório dos Homo sapiens e dos neandertais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "comprovar a sofisticação artística e a capacidade criativa dos neandertais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "ressignificar o conhecimento sobre o desenvolvimento do pensamento e da linguagem.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ampliar a variedade de imagens representadas por pinturas rupestres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "atestar o grau de parentesco primitivo entre Homo sapiens e neandertais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

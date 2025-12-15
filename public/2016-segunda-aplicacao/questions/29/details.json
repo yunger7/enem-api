@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 29 - ENEM 2016",
+  "index": 29,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/29/enem2016.2questao29.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O processo ambiental ao qual a charge faz referência tende a se agravar em função do(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "expansão gradual das áreas de desertificação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aumento acelerado do nível médio dos Oceanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "controle eficaz da emissão antrópica de gases poluentes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "crescimento paulatino do uso de fontes energéticas alternativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dissenso político entre países componentes de acordos climáticos internacionais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

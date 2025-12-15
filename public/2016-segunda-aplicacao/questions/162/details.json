@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 162 - ENEM 2016",
+  "index": 162,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Um clube tem um campo de futebol com área total de 8 000 m2, correspondente ao gramado. Usualmente, a poda da grama desse campo é feita por duas máquinas do clube próprias para o serviço. Trabalhando no mesmo ritmo, as duas máquinas podam juntas 200 m2 por hora. Por motivo de urgência na realização de uma partida de futebol, o administrador do campo precisará solicitar ao clube vizinho máquinas iguais às suas para fazer o serviço de poda em um tempo máximo de 5 h.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Utilizando as duas máquinas que o clube já possui, qual o número mínimo de máquinas que o administrador do campo deverá solicitar ao clube vizinho?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "14",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "16",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 88 - ENEM 2012",
+  "index": 88,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A vegetação do cerrado é constituída por árvores esparsas que apresentam troncos retorcidos e raízes profundas, disseminadas em meio a arbustos",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "As raízes dessas árvores são uma importante estratégia evolutiva, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumentam a taxa de fotossíntese das árvores, o que eleva a produção de biomassa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "melhoram a sustentação das árvores no solo, que se torna arenoso nos períodos intensos de seca.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "possibilitam a absorção de água de regiões mais profundas do solo, inclusive em períodos de seca.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "dificultam a ação de predadores que se alimentam desses órgãos, provocando a morte das árvores.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "diminuem a superfície de contato desses órgãos com a atmosfera, impedindo a perda de água por evaporação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 53 - ENEM 2017",
+  "index": 53,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A destruição, o transporte e a deposição de pequenos fragmentos rochosos dependem da direção e intensidade com que este agente atua na superfície terrestre, sobretudo em regiões áridas e semiáridas, com pouca presença de vegetação. É nesse ambiente que se verifica o constante trabalho de formação, destruição e reconstrução de elevações de areia que recebem o nome de dunas.\n\n                                                  LEINZ, V.; AMARAL, S. E. Geologia geral. São Paulo: Cia. Editora Nacional, 1995 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A modelagem do relevo apresentado relaciona-se ao processo de erosão decorrente da ação",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "glacial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "fluvial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "éolica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "pluvial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "marinha.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 178 - ENEM 2017",
+  "index": 178,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em cada plano, o consumidor paga um valor fixo(preço mensal da assinatura) pela franquia contratada e um valor variável, que depende da quantidade de MB utilizado além da franquia. Considere que a velocidade máxima de acesso seja a mesma, independentemente do plano, que os consumos mensais de X, Y e Z são de 190 MB, 450 MB e 890 MB, respectivamente, e que cada um deles escolherá apenas um plano.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/178/178.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base nos dados do quadro, as escolhas dos planos com menores custos para os consumidores X, Y e Z, respectivamente, são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A, C e C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A, B e D.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "B, B e D.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "B, C e C",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "B, C e D.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

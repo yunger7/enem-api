@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 30 - ENEM 2014",
+  "index": 30,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A principal forma de relação entre o homem e a natureza, ou melhor, entre o homem e o meio, é dada pela técnica — um conjunto de meios instrumentais e sociais, com os quais o homem realiza sua vida, produz e, ao mesmo tempo, cria espaço.\n\n                                                  SANTOS, M. A natureza do espaço. São Paulo: Edusp, 2002 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A relação estabelecida no texto, associada a uma profunda degradação ambiental, é verificada na",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "racionalização do uso de recursos hídricos para fins de abastecimento residencial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apropriação de reservas extrativistas para atender à demanda de subsistência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "retirada da cobertura vegetal com o intuito de desenvolver a agricultura intensiva.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ampliação da produção de alimentos orgânicos para minimizar problemas da fome.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reordenação do espaço rural para favorecer o desenvolvimento do ecoturismo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

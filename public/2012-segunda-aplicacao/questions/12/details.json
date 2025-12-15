@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 12 - ENEM 2012",
+  "index": 12,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/12/Enem-2012-ppl-questao-12.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Cada uma das personagens adota uma forma diferente de designar os países “não desenvolvidos”, porém, atualmente tem-se adotado a terminologia “países em desenvolvimento” porque",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "representa melhor a ausência de desigualdades econômicas que se observa hoje entre essas nações.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "facilita as relações comerciais no mercado globalizado, ao aproximar países mais e menos desenvolvidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "indica que os países estão em processo de desenvolvimento, reduzindo o estigma inerente ao termo “subdesenvolvidos”.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "demonstra o crescimento econômico desses países, que vem sendo maior ao longo dos anos, erradicando as desigualdades.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reafirma que durante a Guerra Fria os países que eram subdesenvolvidos alcançaram estágios avançados de desenvolvimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 150 - ENEM 2012",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O sistema de numeração romana, hoje em desuso, já foi o principal sistema de numeração da Europa. Nos dias atuais, a numeração romana é usada no nosso cotidiano essencialmente para designar os séculos, mas já foi necessário fazer contas e descrever números bastante grandes nesse sistema de numeração. Para isto, os romanos colocavam um traço sobre o número para representar que esse número deveria ser multiplicado por 1 000. Por exemplo, o número X representa o número 10 × 1 000, ou seja, 10 000.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "De acordo com essas informações, os números MCCV e XLIII são, respectivamente, iguais a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 205 000 e 43 000.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "1 205 000 e 63 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 205 000 e 493 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "1 250 000 e 43 000.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 250 000 e 63 000.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

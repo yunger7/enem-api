@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 12 - ENEM 2015",
+  "index": 12,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O acúmulo gradual de sais nas camadas superiores do solo, um processo chamado salinização, retarda o crescimento das safras, diminui a produção das culturas e, consequentemente, mata as plantas e arruína o solo. A salinização mais grave ocorre na Ásia, em especial na China, na Índia e no Paquistão.\n\n                                                  MILLER, G. Ciência ambiental. São Paulo: Thomson, 2007",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O fenômeno descrito no texto representa um grande impacto ambiental em áreas agrícolas e tem como causa direta o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "rotação de cultivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "associação de culturas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "plantio em curvas de nível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "manipulação genética das plantas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "instalação de sistemas de irrigação.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

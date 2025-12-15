@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 164 - ENEM 2011",
+  "index": 164,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma cidade, a cada inauguração de prédios, a orientação da prefeitura, por meio de uma lei de incentivo à cultura, é a construção de uma obra de arte na entrada ou no hall desse prédio. Em contrapartida, a prefeitura oferece abatimento em impostos. No edifício das Acácias, o artista contratado resolveu fazer um quadro composto de 12 mosaicos, de dimensões de 12 cm por 6 cm cada um, conforme a figura.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/164/164.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A área da figura sombreada do quadro é de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "36 cm².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "72 cm².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "144 cm².",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "288 cm².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "432 cm².",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

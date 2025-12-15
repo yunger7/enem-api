@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 52 - ENEM 2013",
+  "index": 52,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Conta-se que um curioso incidente aconteceu durante a Primeira Guerra Mundial. Quando voava a uma altitude de dois mil metros, um piloto francês viu o que acreditava ser uma mosca parada perto de sua face. Apanhando-a rapidamente, ficou surpreso ao verificar que se tratava de um projétil alemão.\n\n                                                  PERELMAN, J. Aprenda física brincando. São Paulo: Hemus, 1970.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O piloto consegue apanhar o projétil, pois",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ele foi disparado em direção ao avião francês, freado pelo ar e parou justamente na frente do piloto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "o avião se movia no mesmo sentido que o dele, com velocidade visivelmente superior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ele foi disparado para cima com velocidade constante, no instante em que o avião francês passou.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o avião se movia no sentido oposto ao dele, com velocidade de mesmo valor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "o avião se movia no mesmo sentido que o dele, com velocidade de mesmo valor.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

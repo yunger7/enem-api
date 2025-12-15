@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 106 - ENEM 2012",
+  "index": 106,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Só é meu\nO país que trago dentro da alma.\nEntro nele sem passaporte\nComo em minha casa.\n[…]\nAs ruas me pertencem.\nMas não há casas nas ruas.\nAs casas foram destruídas desde a minha infância.\nOs seus habitantes vagueiam no espaço\nÀ procura de um lar.\n[…]\nSó é meu\nO mundo que trago dentro da alma.\n\n                                                  BANDEIRA, M. Um poema de Chagall. In: Estrela da vida inteira: poemas traduzidos. Rio de Janeiro: Nova Fronteira, 1993 (fragmento).",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/106/Enem-2012-ppl-questao-106.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A arte, em suas diversas manifestações, desperta sentimentos que atravessam fronteiras culturais. Relacionando a temática do texto com a imagem, percebe-se a ligação entre a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alegria e a satisfação na produção das obras modernistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "memória e a lembrança passadas no íntimo do enunciador",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "saudade e o refúgio encontrados pelo homem na natureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "lembrança e o rancor relacionados ao seu ofício original.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "exaustão e o medo impostos ao corpo de todo artista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

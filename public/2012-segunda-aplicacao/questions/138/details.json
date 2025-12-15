@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 138 - ENEM 2012",
+  "index": 138,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Considere que, para iluminar dois ambientes com a mesma eficiência, é necessário que ambos tenham a mesma quantidade de lúmens por Watt, independentemente da quantidade de lâmpadas. Considere também que a relação custo/benefício de qualquer uma dessas lâmpadas é dada pela razão entre o preço médio (R$) e a vida útil (mil horas).\nAugusto deseja instalar lâmpadas em um dos ambientes de sua casa, de modo a obter uma eficiência de exatamente 240 lúmens por Watt.",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/138/138.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Dos modelos de lâmpadas apresentados na figura, o que atende a necessidade de Augusto com a menor relação custo/benefício é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "LED.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "halógena.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fluorescente.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "incandescente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fluorescente compacta",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

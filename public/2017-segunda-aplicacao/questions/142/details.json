@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 142 - ENEM 2017",
+  "index": 142,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Duas amigas irão fazer um curso no exterior durante 60 dias e usarão a mesma marca de xampu. Uma delas gasta um frasco desse xampu em 10 dias enquanto que a outra leva 20 dias para gastar um frasco com o mesmo volume. Elas combinam de usar, conjuntamente, cada frasco de xampu que levarem.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O número mínimo de frascos de xampu que deverão levar nessa viagem é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "9.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 163 - ENEM 2013",
+  "index": 163,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O símbolo internacional de acesso, mostrado na figura, anuncia local acessível para o portador de necessidades especiais. Na concepção desse símbolo, foram empregados elementos gráficos geométricos elementares.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/163/163.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Os elementos geométricos que constituem os contornos das partes claras da figura são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "retas e círculos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "retas e circunferências.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "arcos de circunferências e retas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "coroas circulares e segmentos de retas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "arcos de circunferências e segmentos de retas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

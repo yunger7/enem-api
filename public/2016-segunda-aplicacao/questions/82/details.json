@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 82 - ENEM 2016",
+  "index": 82,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O ambiente marinho pode ser contaminado com rejeitos radioativos provenientes de testes com armas nucleares. Os materiais radioativos podem se acumular nos organismos. Por exemplo, o estrôncio-90 é quimicamente semelhante ao cálcio e pode substituir esse elemento nos processos biológicos.\n\n                                                  FIGUEIRA, R. C. L.; CUNHA. I. I. L. A contaminação dos oceanos por radionuclídeos antrupogênios. Química Nova na Escola, n. 1. 1996 (adaptado).\n\n                              \n                                                \n                Um pesquisador analisou as seguintes amostras coletadas em uma região marinha próxima a um local que manipula o estrôncio radioativo: coluna vertebral de tartarugas, concha de moluscos, endoesqueleto de ouriços-do-mar, sedimento de recife de corais e tentáculos de polvo.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Em qual das amostras analisadas a radioatividade foi menor?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Concha de moluscos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Tentáculos de polvo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "O sedimento de recife de corais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Coluna vertebral de tartarugas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Endoesqueleto de ouriços-do-mar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

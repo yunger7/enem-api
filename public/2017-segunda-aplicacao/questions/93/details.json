@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 93 - ENEM 2017",
+  "index": 93,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "As lâmpadas fluorescentes apresentam vantagens como maior eficiência luminosa, vida útil mais longa e redução do consumo de energia. Contudo, um dos constituintes dessas lâmpadas é o mercúrio, que apresenta sérias restrições ambientais em função de sua toxidade. Dessa forma, as lâmpadas fluorescentes devem passar por um processo prévio de descontaminação antes do descarte ou reciclagem do material. O ideal é que nesse processo se tenha o menor impacto ambiental e, se possível, o mercúrio seja recuperado e empregado em novos produtos.\n\n\n\n                                                  DURÃO JR., W.A.; WINDMOLLER, C.C. A questão do mercúrio em lâmpadas fluorescentes. Química Nova na Escola, n. 28, 2008 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando os impactos ambientais negativos, o processo menos indicado de descontaminação desse metal presente nas lâmpadas seria o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "encapsulamento, no qual as lâmpadas são trituradas por via seca ou úmida, o material resultante é encapsulado em concreto e a disposição final do resíduo é armazenada em aterros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "lixiviação ácida, com a dissolução dos resíduos sólidos das lâmpadas em ácido (HNO_3), seguida de filtração e neutralização da solução para recuperar os compostos de mercúrio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "incineração, com a oxidação das lâmpadas junto com o lixo urbano em altas temperaturas, com redução do material sólido e lançamento dos gases e vapores para a atmosfera.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "processo térmico, no qual o resíduo é aquecido em sistema fechado para vaporizar o mercúrio e em seguida ocorre o resfriamento para condensar o vapor e obter o mercúrio elementar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "separação por via química, na qual as lâmpadas são trituradas em sistema fechado, em seguida aditivos químico são adicionados para a precipitação e separação do mercúrio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

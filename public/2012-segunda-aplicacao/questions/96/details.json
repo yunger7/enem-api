@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 96 - ENEM 2012",
+  "index": 96,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/96/Enem-2012-ppl-questao-96.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Sem formação acadêmica específica em artes visuais, Heitor dos Prazeres, que também é compositor e instrumentista, é reconhecido artista popular do Rio de Janeiro. Suas pinturas de perspectivas imprecisas e com traços bem demarcados são figurativas e sugerem movimento. Essa obra retrata",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a confraternização de uma população socialmente marginalizada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "o inconformismo da população de baixa renda da capital.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o cotidiano da burguesia contemporânea da capital.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a instabilidade de uma realidade rural do Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a solidariedade da população nordestina.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

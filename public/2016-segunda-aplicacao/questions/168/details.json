@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 168 - ENEM 2016",
+  "index": 168,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma caixa contém uma cédula de R$ 5,00, uma de R$ 20,00 e duas de R$ 50,00 de modelos diferentes. Retira-se aleatoriamente uma cédula dessa caixa, anota-se o seu valor e devolve-se a cédula à caixa. Em seguida, repete-se o procedimento anterior.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A probabilidade de que a soma dos valores anotados seja pelo menos igual a R$ 55,00 é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "3/4",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "2/9",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "5/9",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

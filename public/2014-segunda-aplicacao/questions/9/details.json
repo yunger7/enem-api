@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 9 - ENEM 2014",
+  "index": 9,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nDeputado (definição do século XVIII):\nSubstant. Aquele a quem se deu alguma comissão de jurisdição, ou conhecimento. Mandado da parte de alguma República, ou soberano. O que tem comissão do ministro próprio.\n\n                                                  SILVA, A. M. Diccionario da lingua portugueza. Lisboa:\nOfficina de Simão Thaddeo Ferreira,1789 (adaptado).\n\n                              \n                                                \n                TEXTO II\nDeputado (definição do século XXI):\n[…]\n4. Aquele que representa os interesses de outrem em reuniões e decisões oficiais.\n5. Aquele que é eleito para legislar e representar os interesses dos  cidadãos.\n6. Aquele que é comissionado para tratar dos negócios alheios.\n\n                                                  AULETE, C. Minidicionário contemporâneo da língua portuguesa.\nSão Paulo: Lexikon, 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A mudança mais significativa no sentido da palavra “deputado”, entre o século XVIII e os dias de hoje, dá-se pelo(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumento na importância como representação política dos cidadãos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "crescente participação dos funcionários no poder do Estado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "incentivo à intermediação dos interesses de particulares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "criação de diversas pequenas cidades-repúblicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "diminuição do poder das assembleias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

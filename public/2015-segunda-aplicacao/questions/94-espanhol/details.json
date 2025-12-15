@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 94 - ENEM 2015",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "Siete crisantemos\nA las buenas costumbres nunca me he acostumbrado,\ndel calor de la lumbre del hogar me aburrí.\nTambién en el infierno llueve sobre mojado.\nlo sé porque he pasado más de una noche allí.\n\n                                                  SABINA, J. Esta boca es mía. Madri: Ariola, 1994 (fragmento).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nessa estrofe da canção Siete crisantemos, do cantor espanhol Joaquín Sabina, a expressão “llueve sobre mojado” faz referência ao(à)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "constância necessária para viver.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "esperança de uma vida melhor.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "desprezo pelos bons costumes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "rotina entediante da vida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "rechaço a uma vida confortável.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

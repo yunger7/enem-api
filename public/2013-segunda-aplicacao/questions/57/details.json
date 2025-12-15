@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 57 - ENEM 2013",
+  "index": 57,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A banda larga brasileira é lenta. No Japão já existem redes de fibras ópticas, que permitem acessos à internet com velocidade de 1 gigabit por segundo (Gbps), o suficiente para baixar em um minuto, por exemplo, 80 filmes. No Brasil a maioria das conexões ainda é de 1 megabit por segundo (Mbps), ou seja, menos de um milésimo dos acessos mais rápidos do Japão. A fibra óptica é composta basicamente de um material dielétrico (sílica ou plástico), segundo uma estrutura cilíndrica, transparente e flexível. Ela é formada de uma região central envolta por uma camada, também de material dielétrico, com índice de refração diferente ao do núcleo.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A transmissão em uma fibra óptica acontecerá de forma correta se o índice de refração do núcleo, em relação ao revestimento, for",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "superior e ocorrer difração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "superior e ocorrer reflexão interna total.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "inferior e ocorrer reflexão interna parcial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "inferior e ocorrer interferência destrutiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "inferior e ocorrer interferência construtiva.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

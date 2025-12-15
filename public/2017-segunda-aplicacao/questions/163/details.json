@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 163 - ENEM 2017",
+  "index": 163,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Para a Olimpíada de 2012, a piscina principal do Centro Aquático de Londres, medindo 50 metros de comprimento, foi remodelada para ajudar os atletas a melhorar suas marcas. Observe duas das melhorias:\n\nnull",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/163/163.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A capacidade da piscina em destaque, em metro cúbico, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3 750.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "1 500.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1 250.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "375.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "150.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

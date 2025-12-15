@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 91 - ENEM 2014",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": "Disponível em: http://1.bp.blogspot.com. Acesso em: 30 jul. 2012.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/91/IFYOUCANTREADIT.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Implementar políticas adequadas de alimentação e nutrição é uma meta prioritária em vários países do mundo. A partir da campanha If you can´t read it, why eat it?, os leitores são alertados para o perigo de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "acessarem informações equivocadas sobre a formulação química de alimentos empacotados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "consumirem alimentos industrializados sem o interesse em conhecer a sua composição.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "acessarem informações equivocadas sobre a formulação química de alimentos empacotados.desenvolverem problemas de saúde pela falta de conhecimento a respeito do teor dos alimentos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "incentivarem crianças a ingerirem grande quantidade de alimentos processados e com conservantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ignorarem o aumento constante da obesidade causada pela má alimentação na fase de desenvolvimento da criança.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

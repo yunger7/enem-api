@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 102 - ENEM 2012",
+  "index": 102,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/102/Enem-2012-ppl-questao-102.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As variações e as mudanças nas línguas estão correlacionadas a fatores sociais. Na tira, a dedução do pai da garota é confirmada e gera o efeito de humor, pois seu interlocutor apresenta um vocabulário",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "urbano, típico de quem nasce nas grandes metrópoles brasileiras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "formal, relativo a quem frequenta a escola por muitos anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "elitizado, encontrado entre falantes de classe socioeconômica alta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "especial, restrito a quem frequenta os espaços da juventude.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "conservador, representado por uma fala arcaica para a geração atual.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

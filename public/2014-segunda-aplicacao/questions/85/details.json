@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "title": "Questão 85 - ENEM 2014",
+  "index": 85,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A formação de estalactites depende da reversibilidade de uma reação química. O carbonato de cálcio (CaCO3) é encontrado em depósitos subterrâneos na forma de pedra calcária. Quando um volume de água rica em CO2 dissolvido infiltra-se no calcário, o minério dissolve-se formando íons Ca2+ e HCO3−. Numa segunda etapa, a solução aquosa desses íons chega a uma caverna e ocorre a reação inversa, promovendo a liberação de CO2 e a deposição de CaCO3, de acordo com a equação apresentada.",
+  "files": [
+    "https://enem.dev/2014-segunda-aplicacao/questions/85/85-1.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Considerando o equilíbrio que ocorre na segunda etapa, a formação de carbonato será favorecida pelo(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diminuição da concentração de íons OH− no meio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aumento da pressão do ar no interior da caverna.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "diminuição da concentração de HCO3− no meio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumento da temperatura no interior da caverna.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "aumento da concentração de CO2 dissolvido.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

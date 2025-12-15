@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 99 - ENEM 2011",
+  "index": 99,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Como a ideia de gênero está fundada nas diferenças biológicas entre os sexos, ela aponta para o caráter implicitamente relacional do feminino e do masculino. Assim, gênero é uma categoria relacional porque leva em conta o outro sexo, em presença ou ausência. Além disso, relaciona-se com outras categorias, pois não somos vistos(as) de acordo apenas com nosso sexo ou com o que a cultura fez dele, mas de uma maneira muito mais ampla: somos classificados(as) de acordo com nossa idade, raça, etnia, classe social, altura e peso corporal, habilidades motoras, entre muitas outras.\n\n                                                  SOUSA, E. S.; ALTMANN, H. Meninos e meninas: expectativas corporais e implicações na educação física escolar. Cadernos Cedes. Ano XIX, nº 48, ago.1999.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Diante do exposto, é possível perceber que as diferenças entre sexo masculino e feminino se encontram em todos os campos de atividades. Atualmente, no campo da prática de atividades físicas, percebe-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "um aumento da participação, tanto do sexo feminino como do sexo masculino, na prática de exercícios e jogos que eram exclusivamente pertencentes a um determinado sexo, incluindo as pessoas com deficiência.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "uma manutenção na prática de exercícios direcionados ao uso de força física somente para os homens e outros que exigem delicadeza exclusivamente para as mulheres.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "um aumento da oferta por espaços que permitem praticar exercícios ao ar livre e/ou em academias direcionados a recreação e jogos, voltados para homens e mulheres, separando-os em razão de suas diferenças.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "uma manutenção das diferenças entre os sexos feminino e masculino, porém com um aumento significativo de mulheres que deixaram de praticar exercícios por não encontrar uma atividade adequada ao seu corpo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "um aumento da procura por parte do sexo masculino de exercícios que propiciam relaxamento, educação postural e alongamento, com o objetivo de melhorar o desempenho na prática da musculação.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

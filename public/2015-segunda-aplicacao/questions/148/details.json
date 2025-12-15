@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 148 - ENEM 2015",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Ao se perfurar um poço no chão, na forma de um cilindro circular reto, toda a terra retirada é amontoada na forma de um cone circular reto, cujo raio da base é o triplo do raio do poço e a altura é 2,4 metros. Sabe-se que o volume desse cone de terra é 20% maior do que o volume do poço cilíndrico, pois a terra fica mais fofa após ser escavada.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é a profundidade, em metros, desse poço?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,44",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "6,00",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "7,20",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "8,64",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "36,00",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

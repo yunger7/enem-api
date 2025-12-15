@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 99 - ENEM 2012",
+  "index": 99,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/99/Enem-2012-ppl-questao-98.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Na tira, o recurso utilizado para produzir humor é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "transformação da inércia em movimento por meio do balanço.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "universalização do enunciador por meio do uso da primeira pessoa do plural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "polissemia da palavra balanço, ou seja, seus múltiplos sentidos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "pressuposição de que o ócio é melhor que o trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "metaforização da vida como caminho a ser seguido continuamente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

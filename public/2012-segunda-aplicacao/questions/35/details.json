@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 35 - ENEM 2012",
+  "index": 35,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A urbanização afeta o funcionamento do ciclo hidrológico, pois interfere no rearranjo dos armazenamentos e na trajetória das águas.\n\n                                                  CHRISTOFOLETTI, A. Aplicabilidade do Conhecimento Geomorfológico nos Projetos de Planejamento. In: GUERRA, A. J. T.; CUNHA, S. B. (Org.). Geomorfologia: uma atualização de bases e conceitos. Rio de Janeiro: Bertrand Brasil, 1995.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Os efeitos da urbanização sobre os corpos hídricos apresentados no texto resultam em",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "circulação difusa da água pela superfície, provocada pelas edificações urbanas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "redução da quantidade da água do rio, em virtude do aprofundamento do seu leito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "alteração do mecanismo de evaporação, dada a pouca profundidade do lençol freático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "redução da capacidade de infiltração da água no solo, em decorrência da sua impermeabilização.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "assoreamento no curso superior dos rios, trecho de maior declividade, em função do transporte e deposição dos sedimentos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

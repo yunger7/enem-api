@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 70 - ENEM 2011",
+  "index": 70,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Própolis é uma resina produzida pelas abelhas a partir de material extraído das plantas. Desde 1996, um grupo da Universidade Federal de Minas Gerais (UFMG) dedica-se a estudar o uso de própolis em tratamentos bucais, pois se sabe que tem ações anti-inflamatória, antifúngica, antibacteriana, cicatrizante e anestésica.\n\n                                                  LIMA, A. Revista Minas Faz Ciência, FAPEMIG, dez. 2008 a fev. 2009 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Os estudos conduzidos pelo grupo de pesquisadores têm um cunho social interessante, porque podem resultar",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "na prescrição médica da própolis para prevenção de doenças crônicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "na prevenção e diminuição do contágio por doenças infectocontagiosas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no uso da própolis como forma de prevenção de doenças como AIDS, gripe H1N1 e dengue.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "no acesso ao tratamento de baixo custo de “sapinho”, cáries e outras doenças comuns em crianças.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "na introdução da própolis na alimentação e nas práticas higiênicas dos jovens para evitar doenças inflamatórias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

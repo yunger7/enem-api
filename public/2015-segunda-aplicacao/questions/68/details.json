@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 68 - ENEM 2015",
+  "index": 68,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Cinco indústrias de ramos diferentes foram instaladas ao longo do curso de um rio. O descarte dos efluentes dessas indústrias acarreta impacto na qualidade de suas águas. O pH foi determinado em diferentes pontos desse rio, a 25 °C, e os resultados são apresentados no quadro.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/68/68-1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A indústria que descarta um efluente com características básicas é a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "primeira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "segunda.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "terceira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "quarta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "quinta.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 89 - ENEM 2014",
+  "index": 89,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Fertilizantes químicos mistos, denominados NPK, são utilizados para aumentar a produtividade agrícola, por fornecerem os nutrientes nitrogênio, fósforo e potássio, necessários para o desenvolvimento das plantas. A quantidade de cada nutriente varia de acordo com a finalidade do adubo. Um determinado adubo NPK possui, em sua composição, as seguintes substâncias: nitrato de amônio (NH4NO3), ureia (CO(NH2)2), nitrato de potássio (KNO3), fosfato de sódio (Na3PO4) e cloreto de potássio (KCl).\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A adição do adubo descrito provocou diminuição no pH de um solo. Considerando o caráter ácido/básico das substâncias constituintes desse adubo, a diminuição do pH do solo deve ser atribuída à presença, no adubo, de uma quantidade significativa de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ureia.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "fosfato de sódio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "nitrato de amônio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "nitrato de potássio",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "cloreto de potássio.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

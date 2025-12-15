@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 84 - ENEM 2015",
+  "index": 84,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O acúmulo de plásticos na natureza pode levar a impactos ambientais negativos, tanto em ambientes terrestres quanto aquáticos. Uma das formas de minimizar esse problema é a reciclagem, para a qual é necessária a separação dos diferentes tipos de plásticos. Em um processo de separação foi proposto o seguinte procedimento:I. Coloque a mistura de plásticos picados em um tanque e acrescente água até a metade da sua capacidade.II. Mantenha essa mistura em repouso por cerca de 10 minutos.III. Retire os pedaços que flutuaram e transfira-os para outro tanque com uma solução de álcool.IV. Coloque os pedaços sedimentados em outro tanque com solução de sal e agite bem.\n\nnull",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual propriedade da matéria possibilita a utilização do procedimento descrito?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Volume.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Densidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Porosidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Maleabilidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

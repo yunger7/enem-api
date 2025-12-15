@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 161 - ENEM 2015",
+  "index": 161,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma fábrica brasileira de exportação de peixes vende para o exterior atum em conserva, em dois tipos de latas cilíndricas: uma de altura igual a 4 cm e raio 6 cm, e outra de altura desconhecida e raio de 3 cm, respectivamente, conforme a figura. Sabe-se que a medida do volume da lata que possui raio maior, V1, é 1,6 vezes a medida do volume da lata que possui raio menor, V2.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/161/enem2015.2.quest%C3%A3o161.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A medida da altura desconhecida vale",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "8 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "10 cm.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "16 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "20 cm.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "40 cm.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

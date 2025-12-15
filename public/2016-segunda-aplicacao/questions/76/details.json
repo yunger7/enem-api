@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 76 - ENEM 2016",
+  "index": 76,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O quadro apresenta o consumo médio urbano de veículos do mesmo porte que utilizam diferentes combustíveis e seus respectivos preços. No caso do carro elétrico, o consumo está especificado em termos da distância percorrida em função da quantidade de energia elétrica gasta para carregar suas baterias.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/76/76-figura1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Considerando somente as informações contidas no quadro, o combustível que apresenta o maior custo por quilômetro rodado é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "diesel.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "etanol.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "gasolina.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "eletricidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "gás natural.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

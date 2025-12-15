@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 169 - ENEM 2016",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": "A bocha é um esporte jogado em canchas, que são terrenos planos e nivelados, limitados por tablados perimétricos de madeira. O objetivo desse esporte é lançar bochas, que são bolas feitas de um material sintético, de maneira a situá-las o mais perto possível do bolim, que é uma bola menor feita, preferencialmente, de aço, previamente lançada.\nA Figura 1 ilustra uma bocha e um bolim que foram jogados em uma cancha. Suponha que um jogador tenha lançado uma bocha, de raio 5 cm, que tenha ficado encostada no bolim, de raio 2 cm, conforme ilustra a figura 2.\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Considere o ponto C como o centro da bocha, e o ponto O como o centro do bolim. Sabe-se que A e B são pontos em que a bocha e o bolim, respectivamente, tocam o chão da cancha, e que a distância entre A e B é igual a d.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/169/quest%C3%A3o-169-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Nessas condições, qual a razão entre d e o raio do bolim?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2√10/5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "√10/2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "√10",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

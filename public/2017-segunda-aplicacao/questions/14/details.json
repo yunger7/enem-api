@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 14 - ENEM 2017",
+  "index": 14,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Os esportes podem ser classificados levando em consideração critérios como a quantidade de competidores e a interação com o adversário. Os chamados Esportes individuais em interação com o oponente são aqueles em que os atletas se enfrentam diretamente, tentando alcançar os objetivos do jogo e evitando, concomitantemente, que o adversário o faça, porém sem a colaboração de um companheiro de equipe. Os Esportes coletivos em interação com o oponente são aqueles nos quais os atletas, colaborando com seus companheiros de equipe, de forma combinada, enfrentam-se diretamente com a equipe adversária, tentando atingir os objetivos do jogo, evitando, ao mesmo tempo, que os adversários o façam.\n\n                                                  GONZALEZ, R J. Sistema de classificação de esportes com base nos critérios: cooperação, interação com o adversário, ambiente, desempenho comparado e objetivos táticos da ação.\nEFDeportes, n. 71, abr. 2004.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "São exemplos de “esportes individuais em interação com o oponente” e “esportes coletivos em interação com o oponente”, respectivamente,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "judô e futebol americano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "lançamento de disco e polo aquático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "remo e futebol.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "[i] badminton [/i] e nado sincronizado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "salto em distância e basquetebol.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

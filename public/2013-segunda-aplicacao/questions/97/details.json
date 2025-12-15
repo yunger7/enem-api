@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 97 - ENEM 2013",
+  "index": 97,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Usei uma conexão via computador, pela primeira vez, em 1988. Morava na França, trabalhando como correspondente da Folha de S. Paulo e concordei em utilizar um laptop Toshiba T1000, equipado com um modem de 1 200 bauds, para transmitir minhas reportagens. O texto entrava direto nos terminais da redação, digitalizado, segundos depois de composto na tela de cristal líquido do pequeno Toshiba. O laptop sequer tinha disco rígido, era tudo comandado por disquete e gravado em disquete. Permitiu-me aposentar não só a Olivetti como o vetusto telex de casa. Em seguida, eu pegava o telefone e chamava a redação para saber se o texto “entrara” bem. Até que, um dia, o engenheiro de informática do jornal me disse que, dali em diante, não precisaríamos usar mais a ligação telefônica internacional tradicional, muito cara, para saber se o texto havia chegado corretamente ou tirar dúvidas sobre o manuseio do computador. Poderíamos fazer aquilo via chat, uma conversa textual na tela do próprio laptop. Essa maravilha seria possível por meio de um programinha de conversação.\n\n                                                  SPYE, J. Conectado. São Paulo: Martins Fontes, 2006 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O texto apresenta uma situação de uso das tecnologias de comunicação e informação por um jornalista. A mudança do uso do telefone para o uso do chat evidencia a transformação na dinâmica",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "do trabalho, em função das tecnologias de comunicação e informação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "do acesso às informações divulgadas pela mídia digital aos internautas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da divulgação das notícias pela mídia digital e os impactos provocados no cotidiano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da valorização de profissionais da imprensa com a chegada das mídias digitais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dos avanços na área de telejornalismo na ascensão da imprensa internacional.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

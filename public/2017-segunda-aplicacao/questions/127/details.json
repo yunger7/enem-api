@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 127 - ENEM 2017",
+  "index": 127,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Os distúrbios por deficiência de iodo (DDI) são fenômenos naturais e permanentes amplamente distribuídos em várias regiões do mundo. Populações que vivem em áreas deficientes em iodo têm o risco de apresentar os distúrbios causados por essa deficiência, cujos impactos sobre os níveis de desenvolvimento humano, social e econômico são muito graves. No Brasil , vigora uma lei que obriga os produtores de sal de cozinha a incluírem em seu produto certa quantidade de iodeto de potássio.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Essa inclusão visa prevenir problemas em qual glândula humana?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Hipófise.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Tireoide.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Pâncreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Pâncreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Paratireoide.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

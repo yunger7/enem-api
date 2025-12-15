@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 21 - ENEM 2013",
+  "index": 21,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nNão é sem razão que o ser humano procura de boa vontade juntar-se em sociedade com outros que estão já unidos, ou pretendem unir-se, para a mútua conservação da vida, da liberdade e dos bens a que chamo de propriedade.\n\n                                                  LOCKE, J. Segundo tratado sobre governo: ensaio relativo à verdadeira origem, extensão e objetivo do governo civil. São Paulo: Abril Cultural, 1978 (adaptado).\n\n                              \n                                                \n                TEXTO II\nPara que essas classes com interesses econômicos em conflitos não destruam a si mesmas e à sociedade numa luta estéril, surge a necessidade de um poder que, na aparência, esteja acima da sociedade, que atenue o conflito, mantenha-o dentro dos limites da ordem.\n\n                                                  ENGELS, F. In: GALLINO, L. Dicionário de sociologia. São Paulo: Paulus, 2005 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Os textos expressam duas visões sobre a forma como os indivíduos se organizam socialmente. Tais visões apontam, respectivamente, para as concepções:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Liberal, em defesa da liberdade e da propriedade privada — Conflituosa, exemplificada pela luta de classes.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Heterogênea, favorável à propriedade privada — Consensual, sob o controle de classes com interesses comuns.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Igualitária, baseada na filantropia — Complementar, com objetivos comuns unindo classes antagônicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Compulsória, na qual as pessoas possuem papéis que se complementam — Individualista, na qual as pessoas lutam por seus interesses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Libertária, em defesa da razão humana — Contraditória, na qual vigora o estado de natureza.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

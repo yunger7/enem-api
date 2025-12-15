@@ -1,43 +1,43 @@
 {
-    "title": "Questão 179 - ENEM 2016",
-    "index": 179,
-    "year": 2016,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "O filtro descartado é o",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "F1.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "F2.",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "F3.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "F4.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "F5.",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 179 - ENEM 2016",
+  "index": 179,
+  "year": 2016,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Diante da hipótese do comprometimento da qualidade da água retirada do volume\nmorto de alguns sistemas hídricos, os técnicos de um laboratório decidiram testar cinco\ntipos de filtros de água.\nDentre esses, os quatro com melhor desempenho serão escolhidos para futura\ncomercialização.Nos testes, foram medidas as massas de agentes contaminantes, em miligrama, que\nnão são capturados por cada filtro em diferentes períodos, em dia, como segue:• Filtro 1 (F1): 18 mg em 6 dias;\n• Filtro 2 (F2): 15 mg em 3 dias;\n• Filtro 3 (F3): 18 mg em 4 dias;\n• Filtro 4 (F4): 6 mg em 3 dias;\n• Filtro 5 (F5): 3 mg em 2 dias.Ao final, descarta-se o filtro com a maior razão entre a medida da massa de contaminantes\nnão capturados e o número de dias, o que corresponde ao de pior desempenho\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O filtro descartado é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "F1.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "F2.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "F3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "F4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "F5.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

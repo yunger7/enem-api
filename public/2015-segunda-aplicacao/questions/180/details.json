@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 180 - ENEM 2015",
+  "index": 180,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Num campeonato de futebol de 2012, um time sagrou-se campeão com um total de 77 pontos (P) em 38 jogos, tendo 22 vitórias (V), 11 empates (E) e 5 derrotas (D). No critério adotado para esse ano, somente as vitórias e empates têm pontuações positivas e inteiras. As derrotas têm valor zero e o valor de cada vitória é maior que o valor de cada empate. Um torcedor, considerando a fórmula da soma de pontos injusta, propôs aos organizadores do campeonato que, para o ano de 2013, o time derrotado em cada partida perca 2 pontos, privilegiando os times que perdem menos ao longo do campeonato. Cada vitória e cada empate continuariam com a mesma pontuação de 2012.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual a expressão que fornece a quantidade de pontos (P), em função do número de vitórias (V), do número de empates (E) e do número de derrotas (D), no sistema de pontuação proposto pelo torcedor para o ano de 2013?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "P = 3V + E",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "P = 3V - 2D",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "P = 3V + E -D",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "P = 3V + E -2D",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "P = 3V + E + 2D",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

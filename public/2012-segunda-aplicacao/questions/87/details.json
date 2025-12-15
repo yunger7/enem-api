@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 87 - ENEM 2012",
+  "index": 87,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Ácido muriático (ou ácido clorídrico comercial) é bastante utilizado na limpeza pesada de pisos para remoção de resíduos de cimento, por exemplo. Sua aplicação em resíduos contendo quantidades apreciáveis de CaCO3 resulta na liberação de um gás. Considerando a ampla utilização desse ácido por profissionais da área de limpeza, torna-se importante conhecer os produtos formados durante seu uso.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A fórmula do gás citado no texto e um teste que pode ser realizado para confirmar sua presença são, respectivamente:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "CO2  e borbulhá-lo em solução de KCℓ",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "CO2  e borbulhá-lo em solução de HNO3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "H2  e borbulhá-lo em solução de NaOH",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "H2  e borbulhá-lo em solução de H2 SO4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "CO2  e borbulhá-lo em solução Ba(OH)2",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

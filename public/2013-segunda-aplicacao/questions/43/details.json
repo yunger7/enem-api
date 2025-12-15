@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 43 - ENEM 2013",
+  "index": 43,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O termo injusto se aplica tanto às pessoas que infringem a lei quanto às pessoas ambiciosas (no sentido de quererem mais do que aquilo a que têm direito) e iníquas, de tal forma que as cumpridoras da lei e as pessoas corretas serão justas. O justo, então, é aquilo conforme à lei e o injusto é o ilegal e iníquo.\n\n                                                  ARISTÓTELES. Ética à Nicômaco. São Paulo: Nova Cultural: 1996 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Segundo Aristóteles, pode-se reconhecer uma ação justa quando ela observa o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "compromisso com os movimentos desvinculados da legalidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "benefício para o maior número possível de indivíduos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "interesse para a classe social do agente da ação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fundamento na categoria de progresso histórico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "princípio de dar a cada um o que lhe é devido.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

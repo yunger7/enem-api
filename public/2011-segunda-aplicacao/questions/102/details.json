@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 102 - ENEM 2011",
+  "index": 102,
+  "discipline": "linguagens",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/102/Enem-2011-ppl-questao-102.jpg"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Vicente do Rego Monteiro foi um dos pintores, cujas telas foram expostas durante a Semana de Arte Moderna. Tal como Michelangelo, ele se inspirou em temas bíblicos, porém com um estilo peculiar. Considerando-se as obras apresentadas, o artista brasileiro",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "estava preocupado em retratar detalhes da cena.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "demonstrou irreverência ao retratar a cena bíblica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "optou por fazer uma escultura minimalista, diferentemente de Michelangelo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "deu aos personagens traços cubistas, em vez dos traços europeus, típicos de Michelangelo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "reproduziu o estilo da famosa obra de Michelangelo, uma vez que retratou a mesma cena bíblica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

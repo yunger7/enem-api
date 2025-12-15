@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 20 - ENEM 2011",
+  "index": 20,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os principais distúrbios começaram em Nottingham, em 1811. Uma grande manifestação de malharistas, gritando por trabalho e por um preço mais liberal, foi dissolvida pelo exército. Naquela noite, sessenta armações de malha foram destruídas na grande vila de Arnold por amotinados que não tomaram nenhuma precaução em se disfarçar e foram aplaudidos pela multidão.\n\n                                                  THOMPSON, E.P. A formação da classe operária inglesa.\nRio de Janeiro: Paz e Terra, 1987 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Esse texto diz respeito à nova realidade socioeconômica da Inglaterra implantada a partir da Revolução Industrial. A principal consequência para os trabalhadores nas primeiras décadas do século XIX se manifestou por meio",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "de petições enviadas ao Parlamento inglês na defesa de direitos coletivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "do descontentamento pelo aumento de preços dos alimentos básicos e moradia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da conquista de direitos trabalhistas pela atuação combativa dos sindicatos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "da destruição de máquinas que deterioravam as condições de vida e de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "da vitória sobre a burguesia, com a redução da jornada de trabalho para oito horas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

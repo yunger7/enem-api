@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 41 - ENEM 2011",
+  "index": 41,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Eleições, no Império, eram um acontecimento muito especial. Nesses dias o mais modesto cidadão vestia sua melhor roupa, ou a menos surrada, e exibia até sapatos, peças do vestuário tão valorizadas entre aqueles que pouco tinham. Em contraste com essa maioria, vestimentas de gala de autoridades civis, militares e eclesiásticas ― tudo do bom e do melhor compunha a indumentária de quem era mais que um cidadão qualquer e queria exibir em público essa sua privilegiada condição.\n\n                                                  CAVANI, S. Às urnas, cidadãos! In: Revista de História da Biblioteca Nacional.\nAno 3, nº 26, nov. 2007.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "No Brasil do século XIX, a noção de cidadania estava vinculada à participação nos processos eleitorais. As eleições revelavam um tipo de cidadania carente da igualdade jurídica defendida nesse mesmo período por muitos movimentos europeus herdeiros do Iluminismo devido à",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "exclusão dos analfabetos, que impedia a maioria da população de participar das eleições.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "raridade das eleições, que criava apenas a ilusão de participação entre os cidadãos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "vigência da Constituição do Império, que definia como cidadãos apenas aqueles que eram eleitos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "presença do Poder Moderador, que significava, na prática, a inutilidade das eleições legislativas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "existência do voto censitário, que reafirmava as hierarquias sociais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

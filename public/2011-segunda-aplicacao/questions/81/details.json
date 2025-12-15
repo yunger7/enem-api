@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 81 - ENEM 2011",
+  "index": 81,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "As chamadas estruturas metal-orgânicas são cristais metálicos porosos e estáveis, capazes de absorver e comprimir gases em espaços ínfimos. Um grama deste material, se espalhado, ocuparia uma área de pelo menos 5 000 m². Os cientistas esperam que o uso de tais materiais contribua para a produção de energias mais limpas e de métodos para a captura de gases do efeito estufa.\n\n                                                  Disponível em: http://www1.folha.uol.com.br. Acesso em: 20 jul. 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A maior eficiência destes materiais em absorver gás carbônico é consequência",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da alta estabilidade dos cristais metálicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da alta densidade apresentada pelos materiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "da capacidade de comprimir os gases ocupando grandes áreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da grande superfície de contato entre os cristais porosos e o gás carbônico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "do uso de grande quantidade de materiais para absorver grande quantidade de gás.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

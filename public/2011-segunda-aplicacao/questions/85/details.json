@@ -1,0 +1,50 @@
+{
+  "year": 2011,
+  "title": "Questão 85 - ENEM 2011",
+  "index": 85,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A força de atrito é uma força que depende do contato entre corpos. Pode ser definida como uma força de oposição à tendência de deslocamento dos corpos e é gerada devido a irregularidades entre duas superfícies em contato. Na figura, as setas representam forças que atuam no corpo e o ponto ampliado representa as irregularidades que existem entre as duas superfícies.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-A.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-B.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-C.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-D.jpg",
+    "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-E.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Na figura, os vetores que representam as forças que provocam o deslocamento e o atrito são, respectivamente:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-A.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-B.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-C.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-D.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2011-segunda-aplicacao/questions/85/Enem-2011-ppl-questao-85-E.jpg",
+      "isCorrect": false
+    }
+  ]
+}

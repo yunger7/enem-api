@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 25 - ENEM 2015",
+  "index": 25,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nA melhor banda de todos os tempos da última semana\nO melhor disco brasileiro de música americana\nO melhor disco dos últimos anos de sucessos do passado\nO maior sucesso de todos os tempos entre os dez maiores fracassos\nNão importa contradição\nO que importa é televisão\nDizem que não há nada que você não se acostume\nCala a boca e aumenta o volume então.\n\n                                                  MELLO, B.; BRITTO, S. A melhor banda de todos os tempos da última semana. São Paulo: Abril Music, 2001 (fragmento).\n\n                              \n                                                \n                TEXTO II\nO fetichismo na música e a regressão da audição \nAldous Huxley levantou em um de seus ensaios a seguinte pergunta: quem ainda se diverte realmente hoje num lugar de diversão? Com o mesmo direito poder-se-ia perguntar: para quem a música de entretenimento serve ainda como entretenimento? Ao invés de entreter, parece que tal música contribui ainda mais para o emudecimento dos homens, para a morte da linguagem como expressão, para a incapacidade de comunicação.\n\n                                                  ADORNO, T. Textos escolhidos. São Paulo: Nova Cultural, 1999.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A aproximação entre a letra da canção e a crítica de Adorno indica o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "lado efêmero e restritivo da indústria cultural.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "baixa renovação da indústria de entretenimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "influência da músicaamericana na cultura brasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fusão entre elementos da indústria cultural e da cultura popular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "declínio da forma musical em prol de outros meios de entretenimento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,43 +1,43 @@
 {
-    "title": "Questão 87 - ENEM 2016",
-    "index": 87,
-    "year": 2016,
-    "language": null,
-    "discipline": "ciencias-natureza",
-    "context": null,
-    "files": [],
-    "correctAlternative": "E",
-    "alternativesIntroduction": "Tendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes insipidus?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "Alta taxa de glicose no sangue.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "Aumento da pressão arterial.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "C",
-            "text": "Ganho de massa corporal.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "Anemia crônica.",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "Desidratação.",
-            "file": null,
-            "isCorrect": true
-        }
-    ]
+  "title": "Questão 87 - ENEM 2016",
+  "index": 87,
+  "year": 2016,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "Portadores de diabetes insipidus reclamam da confusão feita pelos profissionais da saúde quanto aos dois tipos de diabetes: mellitus e insipidus. Enquanto o primeiro tipo está associado aos níveis ou à ação da insulina, o segundo não está ligado à deficiência desse hormônio. O diabetes insipidus é caracterizado por um distúrbio na produção ou no funcionamento do hormônio antidiurético (na sigla em inglês, ADH), secretado pela neuro-hipófise para controlar a reabsorção de água pelos túbulos renais.\n\nnull",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Tendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes insipidus?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Alta taxa de glicose no sangue.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Aumento da pressão arterial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Ganho de massa corporal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Anemia crônica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Desidratação.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
 }

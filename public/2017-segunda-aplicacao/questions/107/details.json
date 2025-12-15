@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 107 - ENEM 2017",
+  "index": 107,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O osciloscópio é um instrumento que permite observar uma diferença de potencial (ddp) em um circuito elétrico em função do tempo ou em função de outra ddp. A leitura o sinal é feita em uma tela sob a forma de um gráfico tensão x tempo.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/107/107.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A frequência de oscilação do circuito elétrico estudado é mais próxima de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "300 Hz",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "250 Hz",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "200 Hz",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "150 Hz",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "125 Hz",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

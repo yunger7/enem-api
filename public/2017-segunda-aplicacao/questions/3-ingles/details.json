@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 3 - ENEM 2017",
+  "index": 3,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/3/3-ingl%C3%AAs.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A proposta da capa da revista, associando aspectos verbais e visuais, transmite a seguinte mensagem:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "O combate aos problemas decorrentes do aquecimento global é visto como uma guerra.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "O aquecimento global é mundialmente considerado um problema insuperável e irreversível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "O problema do aquecimento global poderá ser solucionado com a ajuda do Exército.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "As grandes guerras provocaram devastação, o que contribuiu para o aquecimento global.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "O Exército está trabalhando no processo de reposição de árvores em áreas devastadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 10 - ENEM 2012",
+  "index": 10,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "“Enquanto houver um só assassino pelas ruas, nossos filhos viverão para condená-lo por nossas bocas.”\n\n                                                  Hebe de Bonafini, líder das Mães da Praça de Maio, apud SOSNOWLKI, A. O Estado de São Paulo, 27 maio 2000.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O movimento das Mães da Praça de Maio foi criado na Argentina durante o período da Ditadura Militar (1976-1983). A declaração resume o objetivo do movimento, demonstrando que sua causa foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a fuga dos artistas, provocada pela censura estatal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a escalada das mortes, provocada pela guerrilha urbana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o aumento da violência, provocado pelo desemprego estrutural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o desaparecimento de cidadãos, provocado pela ação repressora.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "o aprofundamento da miséria, provocado pela política econômica.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

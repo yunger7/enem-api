@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 4 - ENEM 2013",
+  "index": 4,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/4/4.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Os eventos ocorridos no dia 11 de setembro de 2001 geraram mudanças sociais nos Estados Unidos, que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ampliaram o isolacionismo e autossuficiência da economia norte-americana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mitigaram o patriotismo e os laços familiares em razão das mortes causadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "atenuaram o xenofobismo e a tensão política entre os países do Oriente e Ocidente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aumentaram o preconceito contra os indivíduos de origem árabe e religião islâmica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "diminuíram a popularidade e legitimidade imediata do chefe de Estado para lidar com o evento.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

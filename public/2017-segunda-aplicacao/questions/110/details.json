@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 110 - ENEM 2017",
+  "index": 110,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "As lâmpadas econômicas transformam 80% da energia elétrica consumida em luz e dissipam os 20% restantes em forma de calor. Já as incandescentes transformam 20% da energia elétrica consumida em luz e dissipam o restante em forma de calor. Assim, quando duas dessas lâmpadas possuem luminosidades equivalentes, a econômica apresenta uma potência igual a um quarto da potência da incandescente.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Quando uma lâmpada incandescente de 60W é substituída por uma econômica de mesma luminosidade, deixa-se de transferir para o ambiente, a cada segundo, uma quantidade de calor, em joule, igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "15.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "45.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "48.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

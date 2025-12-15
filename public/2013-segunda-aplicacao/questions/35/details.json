@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 35 - ENEM 2013",
+  "index": 35,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "No alvorecer do século XX, o Rio de Janeiro sofreu, de fato, uma intervenção que alterou profundamente sua fisionomia e estrutura, e que repercutiu como um terremoto nas condições de vida da população.\n\n                                                  BENCHIMOL, J. Reforma urbana e Revolta da Vacina na cidade do Rio de Janeiro. In: FERREIRA, J.; DELGADO, L. A.N. O Brasil republicano: o tempo do liberalismo excludente. Rio de Janeiro: Civilização Brasileira, 2008.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O texto refere-se à reforma urbanística ocorrida na capital da República, na qual a ação governamental e seu resultado social encontram-se na:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Cobrança de impostos — ocupação da periferia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Destruição de cortiços — revolta da população pobre.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Criação do transporte de massa — ampliação das favelas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Construção de hospitais públicos — insatisfação da elite urbana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Edificação de novas moradias — concentração de trabalhadores.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

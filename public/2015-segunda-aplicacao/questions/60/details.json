@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 60 - ENEM 2015",
+  "index": 60,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A remoção de petróleo derramado em ecossistemas marinhos é complexa e muitas vezes envolve a adição de mais sustâncias ao ambiente. Para facilitar o processo de recuperação dessas áreas, pesquisadores têm estudado a bioquímica de bactérias encontradas em locais sujeitos a esse tipo de impacto. Eles verificaram que algumas dessas espécies utilizam as moléculas de hidrocarbonetos como fonte energética, atuando como biorremediadores, removendo o óleo do ambiente.\n\n                                                  KREPSKY, N.; SILVA SOBRINHO, F.; CRAPEZ, M. A. C. Ciência Hoje, n. 223, jan.-fev. 2006 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Para serem eficientes no processo de biorremediação citado, as espécies escolhidas devem possuir",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "células flageladas, que capturem as particulas de óleo presentes na água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "altas taxas de mutação, para se adaptarem ao ambiente impactado pelo óleo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "enzimas, que catalisem reações de quebra das moléculas constituintes do óleo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "parede celular espessa, que impossibilite que as bactérias se contaminem com o óleo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "capacidade de fotossíntese, que possibilite a liberação de oxigênio para a renovação do ambiente poluído.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

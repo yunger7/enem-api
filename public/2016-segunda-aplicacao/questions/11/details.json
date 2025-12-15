@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 11 - ENEM 2016",
+  "index": 11,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A justiça e a conformidade ao contrato consistem em algo com que a maioria dos homens parece concordar. Constitui um princípio julgado estender-se até os esconderijos dos ladrões e às confederações dos maiores vilões; até os que se afastaram a tal ponto da própria humanidade conservam entre si a fé e as regras da justiça.\n\n                                                  LOCKE, J. Ensaio acerca do entendimento humano. São Paulo: Nova Cultural, 2000 (adaptado).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com Locke, até a mais precária coletividade depende de uma noção de justiça, pois tal noção",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "identifica indivíduos despreparados para a vida em comum.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "contribui com a manutenção da ordem e do equilíbrio social.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "estabelece um conjunto de regras para a formação da sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "determina o que é certo ou errado num contexto de interesses conflitantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "representa os interesses da coletividade, expressos pela vontade da maioria.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

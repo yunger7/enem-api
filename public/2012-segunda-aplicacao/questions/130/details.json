@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 130 - ENEM 2012",
+  "index": 130,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "TEXTO I\n\nPoema de sete faces\n\nMundo mundo vasto mundo,\nSe eu me chamasse Raimundo\nseria uma rima, não seria uma solução.\nMundo mundo vasto mundo,\nmais vasto é meu coração.\n\n                                                  ANDRADE, C. D. Antologia poética. Rio de Janeiro: Record, 2001 (fragmento).\n\n                              \n                                                \n                TEXTO II\nCDA (imitado)\nÓ vida, triste vida!\nSe eu me chamasse Aparecida\ndava na mesma.\n\n                                                  FONTELA, O. Poesia reunida. São Paulo: Cosac Naify; Rio de Janeiro: 7Letras, 2006",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Orides Fontela intitula seu poema CDA, sigla de Carlos Drummond de Andrade, e entre parênteses indica “imitado” porque, como nos versos de Drummond,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresenta o receio de colocar os dramas pessoais no mundo vasto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "expõe o egocentrismo de sentir o coração maior que o mundo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aponta a insuficiência da poesia para solucionar os problemas da vida.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "adota tom melancólico para evidenciar a desesperança com a vida.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "invoca a tristeza da vida para potencializar a ineficácia da rima.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 32 - ENEM 2015",
+  "index": 32,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O filósofo Auguste Comte (1798 – 1857) preenche sua doutrina com uma imagem do progresso social na qual se conjugam ciência e política deve assumir o aspecto de uma ação científica e a política deve ser estudada de maneira científica (a física social). Desde que a Revolução francesa favoreceu a integração do povo na vida social, o posotivismo obstina-se no programa de uma comunidade pacífica. E o Estado, instituição do “reino absoluto da lei”, é a garantia da ordem que impede o retorno potencial das revoluções e engendra o progresso.\n\n                                                  RUBY, C. Introdução à filosofia política. São Paulo: Unesp, 1998 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A característica do Estado positivo que lhe permite garantir não só a ordem, como também o desejado progresso das nações, é ser",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "espaço coletivo, onde as carências e desejos da população se realizam por meio das leis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "produto científico da física social, transcendendo e transformando as exigências da realidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "elementounificador, organizando e reprimindo, se necessário, as ações dos membros da comunidade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "programa necessário, tal como a Revolução Francesa, devendo portanto se manter aberto a novas insurreições.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "agente repressor, tendo um papel importante a cada revolução, por impor pelo menos um curto período de ordem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

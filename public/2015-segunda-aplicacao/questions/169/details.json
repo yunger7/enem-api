@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 169 - ENEM 2015",
+  "index": 169,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma confecção possuía 36 funcionários, alcançando uma produtividade de 5 400 camisetas por dia, com uma jornada de trabalho diária dos funcionários de 6 horas. Entretanto, com o lançamento da nova coleção e de uma nova campanha de marketing, o número de encomendas cresceu de forma acentuada, aumentando a demanda diária para 21 600 camisetas. Buscando atender essa nova demanda, a empresa aumentou o quadro de funcionários para 96. Ainda assim, a carga horária de trabalho necessita ser ajustada.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual deve ser a nova jornada de trabalho diária dos funcionários para que a empresa consiga atender a demanda?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 hora e 30 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2 horas e 15 minutos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "9 horas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "16 horas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "24 horas",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

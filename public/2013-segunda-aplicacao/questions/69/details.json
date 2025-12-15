@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 69 - ENEM 2013",
+  "index": 69,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": null,
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/69/671.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Quais são os processos de propagação de calor relacionados à fala de cada personagem?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Convecção e condução.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Convecção e irradiação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Condução e convecção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Irradiação e convecção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Irradiação e condução.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 173 - ENEM 2012",
+  "index": 173,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma família deseja realizar um jantar comemorativo de um casamento e dispõe para isso de um salão de festas de um clube, onde a área disponível para acomodação das mesas é de 500 m2 . As 100 mesas existentes no salão encontram-se normalmente agrupadas duas a duas, comportando 6 cadeiras. A área de cada mesa é de 1 m2 e o espaço necessário em torno deste agrupamento, para acomodação das cadeiras e para circulação, é de 6 m2 . As mesas podem ser dispostas de maneira isolada, comportando 4 pessoas cada. Nessa situação, o espaço necessário para acomodação das cadeiras e para circulação é de 4 m2 . O número de convidados previsto para o evento é de 400 pessoas.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Para poder acomodar todos os convidados sentados, com as mesas existentes e dentro da área disponível para acomodação das mesas e cadeiras, como deverão ser organizadas as mesas?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Todas deverão ser separadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Todas mantidas no agrupamento original de duas mesas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Um terço das mesas separadas e dois terços agrupadas duas a duas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Um quarto das mesas separadas e o restante em agrupamento de duas a duas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Sessenta por cento das mesas separadas e quarenta por cento agrupadas duas a duas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

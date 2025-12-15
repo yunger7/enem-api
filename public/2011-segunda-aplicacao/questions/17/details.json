@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 17 - ENEM 2011",
+  "index": 17,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Os mapas árabes ainda desenhavam o sul em cima e o norte embaixo, mas no século XIII a Europa já havia restabelecido a ordem natural do universo. O norte estava em cima e o sul embaixo. O mundo era um corpo, ao norte estava o rosto, limpo, que olhava o céu. Ao sul estavam as partes baixas, sujas, onde iam parar as imundícies e os seres escuros que eram a imagem invertida dos luminosos habitantes do norte.\n\n                                                  GALEANO, E. Espelhos: Sul. Porto Alegre: L &PM, 2008 (adaptado).",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/17/Enem-2011-ppl-questao-17.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A confecção de um mapa pode significar uma leitura ideológica do espaço. Assim, a Projeção de Mercator, muito utilizada para a visualização dos continentes, caracteriza-se por",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "apresentar um hemisfério terrestre envolvido por um cone. As deformações aumentam na direção da base do cone.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "partir de um plano tangente sobre a esfera terrestre. Seus paralelos e meridianos são projetados a partir do centro do plano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "conservar as formas, mas distorcer as superfícies das massas continentais. Seus paralelos e meridianos formam ângulos retos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "alterar a forma dos continentes, preservando a área. Seus paralelos e meridianos formam ângulos retos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "representar as formas e as superfícies dos continentes proporcionais à realidade. As linhas de meridianos acompanham a curvatura da terra.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

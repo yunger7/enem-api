@@ -1,0 +1,50 @@
+{
+  "year": 2013,
+  "title": "Questão 162 - ENEM 2013",
+  "index": 162,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em um jogo educativo, o tabuleiro é uma representação da reta numérica e o jogador deve posicionar as fichas contendo números reais corretamente no tabuleiro, cujas linhas pontilhadas equivalem a 1 (uma) unidade de medida. Cada acerto vale 10 pontos.\nNa sua vez de jogar, Clara recebe as seguintes fichas:\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/162/162.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/162/162-a.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/162/162-b.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/162/162-c.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/162/162-d.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/162/162-e.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Para que Clara atinja 40 pontos nessa rodada, a figura que representa seu jogo, após a colocação das fichas no tabuleiro, é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/162/162-a.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/162/162-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/162/162-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/162/162-d.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/162/162-e.png",
+      "isCorrect": false
+    }
+  ]
+}

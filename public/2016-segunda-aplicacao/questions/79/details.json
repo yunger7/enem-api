@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 79 - ENEM 2016",
+  "index": 79,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em um hospital, acidentalmente, uma funcionária ficou exposta a alta quantidade de radiação liberada por um aparelho de raios X em funcionamento. Posteriormente, ela engravidou e seu filho nasceu com grave anemia. Foi verificado que a criança apresentava a doença devido à exposição anterior da mãe à radiação.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O que justifica, nesse caso, o aparecimento da anemia na criança?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A célula-ovo sofreu uma alteração genética.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "As células somáticas da mãe sofreram uma mutação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A célula gamética materna que foi fecundada sofreu uma mutação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "As hemácias da mãe que foram transmitidas à criança não eram normais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "As células hematopoiéticas sofreram alteração do número de cromossomos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

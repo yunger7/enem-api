@@ -1,0 +1,46 @@
+{
+  "year": 2011,
+  "title": "Questão 159 - ENEM 2011",
+  "index": 159,
+  "discipline": "matematica",
+  "language": null,
+  "context": "José e Antônio discutiam qual dos dois teria mais chances de acertar na loteria. José tinha gasto R$ 14,00 numa aposta de 7 números na Mega-Sena, enquanto Antônio gastou R$ 15,00 em três apostas da quina, não repetindo números em suas apostas. Na discussão, eles consideravam a chance de José acertar a quadra da Mega-Sena e de Antônio acertar o terno da Quina.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/159/159.png",
+    "https://enem.dev/2011-segunda-aplicacao/questions/159/159-2.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nessas condições, a razão entre as probabilidades de acerto de José e de Antônio nos menores prêmios de cada loteria é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "261/3114,  o que mostra que Antônio tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "783/1038,  o que mostra que Antônio tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1038/261,  o que mostra que José tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3114/261, o que mostra que Antônio tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "3114/261, o que mostra que José tem mais chances de acertar.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

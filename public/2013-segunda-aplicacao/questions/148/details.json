@@ -1,0 +1,50 @@
+{
+  "year": 2013,
+  "title": "Questão 148 - ENEM 2013",
+  "index": 148,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O quadrado ABCD, de centro O e lado 2 cm, corresponde à trajetória de uma partícula P que partiu de M, ponto médio de AB, seguindo pelos lados do quadrado e passando por B, C, D, A até retornar ao ponto M.\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-a.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-b.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-c.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-d.png",
+    "https://enem.dev/2013-segunda-aplicacao/questions/148/148-e.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Seja F(x) a função que representa a distância da partícula P ao centro O do quadrado, a cada instante de sua trajetória, sendo x (em cm) o comprimento do percurso percorrido por tal partícula. Qual o gráfico que representa F(x)?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/148-a.png",
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/148-b.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/148-c.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/148-d.png",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2013-segunda-aplicacao/questions/148/148-e.png",
+      "isCorrect": false
+    }
+  ]
+}

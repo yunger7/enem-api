@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 28 - ENEM 2011",
+  "index": 28,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A confusão era grande e ficou ainda maior depois do discurso do presidente norte-americano Barack Obama em defesa da guerra, ao receber o Prêmio Nobel da Paz de 2009. Como liberal, Obama poderia ter utilizado os argumentos do filósofo alemão Immanuel Kant (1724-1804), que também defendeu, na sua época, a legitimidade das guerras como meio de difusão da civilização européia.\n\n                                                  FIORI, J. L. A moral internacional e o poder. Revista CULT. Nº 145.\nSão Paulo: Bregantini, abr. 2010.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O argumento utilizado por Barack Obama ao defender a guerra em nome da paz constitui um tipo de raciocínio",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "indutivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dedutivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "paradoxal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "metafórico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "analógico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

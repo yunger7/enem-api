@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 177 - ENEM 2013",
+  "index": 177,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma fábrica de brinquedos educativos vende uma caixa com fichas pretas e fichas brancas para compor sequências de figuras seguindo padrões. Na caixa, a orientação para representar as primeiras figuras da sequência de barcos é acompanhada deste desenho:\n\nnull",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/177/177.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual é o total de fichas necessárias para formar a 15ª figura da sequência?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "87",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "120",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "240",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "360",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

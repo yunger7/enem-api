@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 176 - ENEM 2016",
+  "index": 176,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Admita que um tipo de eucalipto tenha expectativa de crescimento exponencial, nos primeiros anos após seu plantio, modelado pela função y(t) = at – 1, na qual y representa a altura da planta em metro, t é considerado em ano, e a é uma constante maior que 1. O gráfico representa a função y.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/176/quest%C3%A3o-176-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Admita ainda que y(0) fornece a altura da muda quando plantada, e deseja-se cortar os eucaliptos quando as mudas crescerem 7,5 m após o plantio. O tempo entre a plantação e o corte, em ano, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "6.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "log2 7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "log2 15.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 120 - ENEM 2014",
+  "index": 120,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Você se preocupa com sua família, com seu trabalho e com sua casa.\n E com você? \n \nA mulher conquistou um espaço de destaque no ambiente profissional, além de cuidar da casa e do bem-estar da família. Acompanhada por essa mudança, também veio uma nova vida, com antigos hábitos tipicamente masculinos, como o estresse, a falta de tempo para se cuidar, o tabagismo e a maior incidência de obesidade e depressão. Isso aumentou muito os casos de infarto e doenças cardiovasculares. Elas já respondem por 30% do número total dos casos, que matam seis vezes mais do que o câncer de mama. \n \nCuide-se. Preocupe-se com sua saúde. Visite e incentive quem você gosta a visitar um cardiologista.\n\n                                                  Cláudia, ano 52, n. 2,  fev. 2013 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Esse texto, publicado em uma revista, inicialmente aponta modificações ocorridas na sociedade e, em seguida,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "descreve as diferentes atividades das mulheres hoje em dia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "estimula as leitoras a buscar sua realização na vida profissional.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "alerta as mulheres para a possibilidade de problemas cardíacos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "informa as leitoras sobre mortes por câncer de mama e por infarto",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "valoriza as mulheres preocupadas com o bem-estar da família.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

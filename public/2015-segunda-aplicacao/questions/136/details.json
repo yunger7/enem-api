@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 136 - ENEM 2015",
+  "index": 136,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma pesquisa recente aponta que 8 em cada 10 homens brasileiros dizem cuidar de sua beleza, não apenas de sua higiene pessoal.\n\n                                                  CAETANO, M.; SOEIRO, R.; DAVINO, R. Cosméticos. Superinteressante, n. 304, maio 2012 (adaptado).\n\n                              \n                                                \n                Outra maneira de representar esse resultado é exibindo o valor percentual dos homens brasileiros que dizem cuidar de sua beleza.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual é o valor percentual que faz essa representação?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "80%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "8%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,8%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "0,08%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "0,008%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

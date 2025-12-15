@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 150 - ENEM 2011",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Em uma sala de aula, três alunos resolveram fazer uma brincadeira de medição. Cada um escolheu um objeto próprio para medir o comprimento da lousa. O primeiro foi até a lousa e, usando o comprimento de um livro, verificou que era possível enfileirar 13 deles e ainda sobrava um pequeno espaço igual à metade do comprimento do livro. O segundo pegou seu lápis e começou a medir a lousa. No final, percebeu que esse comprimento era igual a 20 lápis. O terceiro, para economizar tempo, pegou uma régua graduada e mediu o comprimento do livro que o colega havia usado, obtendo 28 cm.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Com base nessas informações, qual é a medida mais aproximada do comprimento do lápis?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10 cm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "18 cm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "19 cm",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "26 cm",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "41 cm",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

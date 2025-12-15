@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 144 - ENEM 2016",
+  "index": 144,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O veículo terrestre mais veloz já fabricado até hoje é o Sonic Wind LSRV, que está sendo preparado para atingir a velocidade de 3 000 km/h. Ele é mais veloz do que o Concorde, um dos aviões de passageiros mais rápidos já feitos, que alcança 2 330 km/h.\n\n\nPara uma distância fixa, a velocidade e o tempo são inversamente proporcionais.\n\n\n                                                  BASILIO, A. Galileu, mar. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/144/Capturar2.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Para percorrer uma distância de 1 000 km, o valor mais próximo da diferença, em minuto, entre os tempos gastos pelo Sonic Wind LSRV e pelo Concorde, em suas velocidades máximas, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,1",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,7",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6,0",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "11,2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "40,2",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

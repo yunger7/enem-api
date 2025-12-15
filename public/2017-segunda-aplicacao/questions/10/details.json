@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 10 - ENEM 2017",
+  "index": 10,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O exercício da crônica\nEscrever prosa é uma arte ingrata. Eu digo prosa fiada, como faz um cronista; não a prosa de um ficcionista, na qual este é levado meio a tapas pelas personagens e situações que, azar dele, criou porque quis. Com um prosador do cotidiano, a coisa fia mais fino. Senta-se diante de sua máquina, acende um cigarro, olha através da janela e busca fundo em sua imaginação um fato qualquer, de preferência colhido no noticiário matutino, ou da véspera, em que, com as suas artimanhas peculiares, possa injetar um sangue novo.\n\n                                                  MORAES, V. Para viver um grande amor: crônicas e poemas.\nSão Paulo: Cia. das Letras, 1991.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Nesse trecho, Vinicius de Moraes exercita a crônica para pensá-la como gênero e prática. Do ponto de vista dele, cabe ao cronista",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "criar fatos com a imaginação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "reproduzir as notícias dos jornais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "escrever em linguagem coloquial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "construir personagens verossímeis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ressignificar o cotidiano pela escrita.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

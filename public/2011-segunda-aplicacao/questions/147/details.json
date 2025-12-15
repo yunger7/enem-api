@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 147 - ENEM 2011",
+  "index": 147,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Por falta de tratamentos simples, mais de 1 bilhão de pessoas pobres no mundo acordam doentes todos os dias. Entre essas doenças está a ancilostomose, que aflige 600 milhões de pessoas e causa anemia severa e desnutrição proteica. Para fornecer tratamento a essas pessoas, estima-se um gasto anual de cinquenta centavos de dólar por paciente.\n\n                                                  Hortez, P. J. Um plano para derrotar Doenças Tropicais Negligenciadas. Scientific American Brasil. Ano 8, no 33 (adaptado).\n\n                              \n                                                Uma organização está disposta a lançar uma campanha internacional a fim de obter recursos suficientes para cobrir o tratamento das pessoas com ancilostomose por um ano. Segundo seu planejamento, estima-se um valor médio de US$ 3,00 por doador.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "De acordo com o planejamento dessa organização, para arrecadar o total de recursos necessários para cobrir o tratamento das pessoas com ancilostomose, por um ano, o número mínimo de contribuintes necessários é de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "200 milhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "120 milhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "36 milhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "40 milhões.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "100 milhões.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

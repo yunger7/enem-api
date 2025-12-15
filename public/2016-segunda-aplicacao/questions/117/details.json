@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 117 - ENEM 2016",
+  "index": 117,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "RIC. Disponível em: www.nanquim.com.br. Acesso em: 8 dez. 2012.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/117/PAREM-A-SPRENSAS.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O texto faz referência aos sistemas de comunicação e informação. A crítica feita a urna das ferramentas midiáticas se fundamenta na falta de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "opinião dos leitores nas redes sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "recursos tecnológicos nas empresas jornalísticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "instantaneidade na divulgação da notícia impressa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "credibilidade das informações veiculadas nos blogs.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "adequação da linguagem jornalística ao público jovem.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

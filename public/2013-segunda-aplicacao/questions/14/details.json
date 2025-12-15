@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 14 - ENEM 2013",
+  "index": 14,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O contrário de um fato qualquer é sempre possível, pois, além de jamais implicar uma contradição, o espírito o concebe com a mesma facilidade e distinção como se ele estivesse em completo acordo com a realidade.\nQue o Sol não nascerá amanhã é tão inteligível e não implica mais contradição do que a afirmação de que ele nascerá. Podemos em vão, todavia, tentar demonstrar sua falsidade de maneira absolutamente precisa. Se ela fosse emonstrativamente falsa, implicaria uma contradição e o espírito nunca poderia concebê-la distintamente, assim como não pode conceber que 1 + 1 seja diferente de 2.\n\n                                                  HUME, D. Investigação acerca do entendimento humano. São Paulo: Nova Cultural, 1999 (adaptado).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O filósofo escocês David Hume refere-se a fatos, ou seja, a eventos espaço-temporais, que acontecem no mundo. Com relação ao conhecimento referente a tais eventos, Hume considera que os fenômenos",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "acontecem de forma inquestionável, ao serem apreensíveis pela razão humana.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ocorrem de maneira necessária, permitindo um saber próximo ao de estilo matemático.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "propiciam segurança ao observador, por se basearem em dados que os tornam incontestáveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "devem ter seus resultados previstos por duas modalidades de provas, com conclusões idênticas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "exigem previsões obtidas por raciocínio, distinto do conhecimento baseado em cálculo abstrato.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

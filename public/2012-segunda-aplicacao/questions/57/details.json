@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 57 - ENEM 2012",
+  "index": 57,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Um estudo modificou geneticamente a Escherichia coli, visando permitir que essa bactéria seja capaz de produzir etanol pela metabolização do alginato, açúcar presente em grande quantidade nas algas marrons. A experiência mostrou que a bactéria transgênica tem capacidade de obter um rendimento elevado na produção de etanol, o que pode ser aplicado em escala industrial.\n\n                                                  Combustível de algas. Revista Pesquisa Fapesp, ed.192, fev. 2012 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O benefício dessa nova tecnologia, em comparação às fontes atuais de produção de etanol, baseia-se no fato de que esse modelo experimental",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aumentará a extensão de área continental cultivada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aumentará a captação de CO2  atmosférico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "facilitará o transporte do etanol no final da etapa produtiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "reduzirá o consumo de água doce durante a produção de matéria-prima.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "reduzirá a contaminação dos mares por metais pesados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

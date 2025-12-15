@@ -1,0 +1,45 @@
+{
+  "year": 2012,
+  "title": "Questão 59 - ENEM 2012",
+  "index": 59,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O polímero PET (tereftalato de polietileno), material presente em diversas embalagens descartáveis, pode levar centenas de anos para ser degradado e seu processo de reciclagem requer um grande aporte energético. Nesse contexto, uma técnica que visa baratear o processo foi implementada recentemente. Trata-se do aquecimento de uma mistura de plásticos em um reator, a 700 °C e 34 atm, que promove a quebra das ligações químicas entre átomos de hidrogênio e carbono na cadeia do polímero, produzindo gás hidrogênio e compostos de carbono que podem ser transformados em microesferas para serem usadas em tintas, lubrificantes, pneus, dentre outros produtos.\n\nnull",
+  "files": [
+    "https://enem.dev/2012-segunda-aplicacao/questions/59/Enem-2012-ppl-questao-59.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando o processo de reciclagem do PET, para tratar 1 000 g desse polímero, com rendimento de 100%, o volume de gás hidrogênio liberado, nas condições apresentadas, encontra-se no intervalo entreDados: Constante dos gases R = 0,082 L atm/mol K; Massa molar do monômero do PET = 192 g/mol; Equação de estado dos gases ideais: PV = nRT",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0 e 20 litros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20 e 40 litros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "40 e 60 litros.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "60 e 80 litros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80 e 100 litros.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 68 - ENEM 2014",
+  "index": 68,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Antes de técnicas modernas de determinação de paternidade por exame de DNA, o sistema de determinação sanguínea ABO foi amplamente utilizado como ferramenta para excluir possíveis pais. Embora restrito à análise fenotípica, era possível concluir a exclusão de genótipos também. Considere que uma mulher teve um filho cuja paternidade estava sendo contestada. A análise do sangue revelou que ela era tipo sanguíneo AB e o filho, tipo sanguíneo B.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O genótipo do homem, pelo sistema ABO, que exclui a possibilidade de paternidade desse filho é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "IAIA.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "IAi.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "IBIB.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "IBi.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ii.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

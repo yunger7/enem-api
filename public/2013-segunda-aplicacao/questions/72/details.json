@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 72 - ENEM 2013",
+  "index": 72,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Em um violão afinado, quando se toca a corda Lá com seu comprimento efetivo (harmônico fundamental), o som produzido tem frequência de 440 Hz.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Se a mesma corda do violão é comprimida na metade do seu comprimento, a frequência do novo harmônico",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "se reduz à metade, porque o comprimento de onda dobrou.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "dobra, porque o comprimento de onda foi reduzido à metade.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "quadruplica, porque o comprimento de onda foi reduzido à metade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "quadruplica, porque o comprimento de onda foi reduzido à quarta parte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "não se modifica, porque é uma característica independente do comprimento da corda que vibra.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

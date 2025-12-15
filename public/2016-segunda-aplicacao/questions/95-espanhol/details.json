@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 95 - ENEM 2016",
+  "index": 95,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "La excelente cosecha literaria latinoamericana de la segunda mitad del siglo XX puede resumirse en unos cuantos nombres: los del colombiano Gabriel García Márquez, el peruano Mario Vargas Llosa, los argentinos Jorge Luis Borges y Julio Cortázar, el cubano Alejo Carpentier, el chileno José Donosco, los mexicanos Octavio Paz y Carlos Fuentes… Hay más escritores dignos de figurar en ese cuadro de honor, por supuesto. Pero en él no podría faltar ninguno de los mencionados. Carlos Fuentes, fallecido ayer a los 83 años em Ciudad de México, se labró a pulso su puesto en él. Novelista, ensayista, dramaturgo, guionista de cine, profesor en las más destacadas universidades americanas y europeas, Fuentes supo reflejar en su obra el espíritu de México, forjado en el mestizaje y en la red de complejidades que comporta. Pero no sólo eso. En todo momento, Fuentes fue un paladín de la libertad, tanto en lo relativo a la imaginación y el talento creativo que impregna sus obras, como en lo referente al compromiso social.\n\n                                                  Disponível em: www.lavanguarda.com. Acesso em: 27 jul. 2012.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Apesar da proximidade entre as linguas portuguesas e espanhola, muitas expressões não são equivalentes. No texto, a expressão “a pulso” indica que Carlos Fuentes",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "trabalhou em suas obras as questões relativas ao contexto social de seu país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "escreveu suas principais obras com base no princípio da liberdade de criação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "integrou o quadro dos escritores latino-americanos mais destacados do século XX.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "alcançou o devido reconhecimento literário dentro e fora de seu país por mérito próprio.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "tratou em suas obras dos principais assuntos da cultura mexicana do passado e do presente.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

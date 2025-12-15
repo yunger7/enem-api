@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 80 - ENEM 2016",
+  "index": 80,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Chamamos de lixo a grande diversidade de resíduos sólidos de diferentes procedências, como os gerados em residências. O aumento na produção de resíduos sólidos leva à necessidade de se pensar em maneiras adequadas de tratamento. No Brasil, 76% do lixo é disposto em lixões e somente 24% tem como destino um tratamento adequado, considerando os aterros sanitários, as usinas de compostagem ou a incineração.\n\n                                                  FADINI, P S.; FADINI, A A. A, Lixo: desafios e compromissos. Química Nova na Escola, maio 2001 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Comparando os tratamentos descritos, as usinas de compostagem apresentam como vantagem serem o destino",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "que gera um produto passível de utilização na agricultura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "onde ocorre a eliminação da matéria orgânica presente no lixo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mais barato, pois não implica custos de tratamento nem controle.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "que possibilita o acesso de catadores, pela disposição do lixo a céu aberto.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "em que se podem utilizar áreas contaminadas com resíduos de atividades de mineração.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 174 - ENEM 2016",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": "O pacote de salgadinho preferido de uma menina é vendido em embalagens com diferentes quantidades. A cada embalagem é atribuído um número de pontos na promoção: “Ao totalizar exatamente 12 pontos em embalagens e acrescentar mais R$ 10,00 ao valor da compra, você ganhará um bichinho de pelúcia”. Esse salgadinho é vendido em três embalagens com as seguintes massas, pontos e preços:",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/174/quest%C3%A3o-174-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A menor quantia a ser gasta por essa menina que a possibilite levar o bichinho de pelúcia nessa promoção é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 10,80.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "R$ 12,80.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 20,80.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "R$ 22,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 22,80.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

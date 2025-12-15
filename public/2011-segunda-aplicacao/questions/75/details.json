@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 75 - ENEM 2011",
+  "index": 75,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O gráfico seguinte mostra os resultados obtidos para testes alternativos de DBO (Demanda Bioquímica de Oxigênio), realizados por alunos de uma escola, com amostras de água coletadas em diferentes locais ao longo de um rio que corta a cidade habitada por eles.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/75/Enem-2011-ppl-questao-75.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Uma justificativa aceitável para os baixos valores de oxigênio dissolvido encontrados em algumas amostras de água do rio é o fato de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "o rio poder apresentar variações naturais nas quantidades de sais inorgânicos dissolvidos que afetam a demanda bioquímica de oxigênio da água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a presença de áreas com baixas temperaturas no curso do rio poder ocasionar uma maior demanda de oxigênio, tornando o recurso hídrico inapropriado para o uso nestes pontos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as amostras terem sido coletadas em pontos onde há grande demanda de oxigênio, indicando aporte de material orgânico no curso d’água, o que compromete a utilização do recurso hídrico.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a presença de atividade humana nos arredores do rio, associada ao uso inadequado do recurso hídrico, ocasionar diminuição na demanda bioquímica de oxigênio nas amostras analisadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a diminuição da demanda bioquímica de oxigênio decorrente da elevação do pH, como consequência do aporte de material de origem biológica, comprometer o uso do recurso hídrico nestas regiões.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

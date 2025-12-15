@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 174 - ENEM 2013",
+  "index": 174,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma dona de casa faz um comparativo de custos para decidir se irá adquirir uma máquina lavadora de louças para substituir a lavagem manual. Decide calcular o custo com a lavagem de louças por um período de 30 dias, com duas lavagens por dia. Ela constatou que não precisa considerar os custos do detergente e do sabão, pois, na máquina lavadora e na lavagem manual, são equivalentes. Verificou que gasta em média 90 litros de água em cada lavagem manual. Cada lavagem na máquina gasta 16 litros de água e 0,9 kWh de energia. Sabe-se que a companhia de distribuição de água cobra R$ 6,25 por metro cúbico (pelo consumo de água e dispersão e tratamento de esgoto) e a companhia elétrica cobra R$ 0,45 por kWh consumido.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "De acordo com essas informações, num período de 30 dias, a lavagem manual ficará mais cara que a da máquina lavadora em quantos reais?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "3,45",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "4,72",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "9,45",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "27,75",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

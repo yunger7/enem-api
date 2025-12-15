@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "title": "Questão 100 - ENEM 2017",
+  "index": 100,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O ferro metálico é obtido em altos-fornos pela mistura do minério hematita (α-Fe2O3) contendo impurezas, coque ( C ) e calcário (CaCO3 ), sendo estes mantidos sob um fluxo de ar quente que leva à queima do coque, com a temperatura no alto-forno chegando próximo a 2 000 °C. As etapas caracterizam o processo em função da temperatura.",
+  "files": [
+    "https://enem.dev/2017-segunda-aplicacao/questions/100/99.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "No processo de redução desse metal, o agente redutor é o",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "C.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "CO.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "CO².",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "CaO.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "CaCO³.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

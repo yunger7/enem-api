@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 25 - ENEM 2016",
+  "index": 25,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A história não corresponde exatamente ao que foi realmente conservado na memória popular, mas àquilo que foi selecionado, escrito, descrito, popularizado e institucionalizado por quem estava encarregado de fazê-lo. Os historiadores, sejam quais forem seus objetivos, estão envolvidos nesse processo, uma vez que eles contribuem, conscientemente ou não, para a criação, demolição e reestruturação de imagens do passado que pertencem não só ao mundo da investigação especializada, mas também à esfera pública na qual o homem atua como ser político.\n\n                                                  HOBSBAWM, E.; RANGER, T. A invenção das tradições. Rio de Janeiro: Paz e Terra, 1984 (adaptado).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Uma vez que a neutralidade é inalcançável na atividade mencionada, é tarefa do profissional envolvido",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Criticar as ideias dominantes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "respeitar os interesses sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "defender os direitos das minorias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "explicitar as escolhas realizadas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "satisfazer os financiadores de pesquisas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

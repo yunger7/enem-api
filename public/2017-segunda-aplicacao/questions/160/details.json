@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 160 - ENEM 2017",
+  "index": 160,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma televisão pode ser posicionada de modo que se consiga enxergar os detalhes de uma imagem em alta definição. Considere que a distância ideal, com conforto visual, para se assistir à televisão de 32 polegadas é de 1,8 metro. Suponha que haja uma relação de proporcionalidade direta entre o tamanho da tela (medido em polegada) e a distância ideal. Considere que um espectador dispõe de uma televisão de 60 polegadas e que ele deseja se posicionar em frente a ela, com conforto visual.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "A distância da televisão, em metro, em que o espectador deve se posicionar para que tenha conforto visual é mais próxima de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,33.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,96.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1,57.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3,37.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "3,60.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

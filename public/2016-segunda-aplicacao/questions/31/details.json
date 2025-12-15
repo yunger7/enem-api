@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 31 - ENEM 2016",
+  "index": 31,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\nAté aqui expus a natureza do homem (cujo orgulho e outras paixões o obrigaram a submeter-se ao governo), juntamente com o grande poder do seu governante, o qual comparei com o Leviatã, tirando essa comparação dos dois últimos versículos do capítulo 41 de Jó, onde Deus, após ter estabelecido o grande poder do Leviatã, lhe chamou Rei dos Soberbos. Não há nada na Terra, disse ele, que se lhe possa comparar.\n\n                                                  HOBBES, T. O Leviatã. São Paulo: Martins Fontes, 2003.\n\n                              \n                                                \n                TEXTO II\nEu asseguro, tranquilamente, que o governo civil é a solução adequada para as inconveniências do estado de natureza, que devem certamente ser grandes quando os homens podem ser juízes em causa própria, pois é fácil imaginar que um homem tão injusto a ponto de lesar o irmão dificilmente será justo para condenar a si mesmo pela mesma ofensa.\n\n                                                  LOCKE, J. Segundo tratado sobre o governo civil. Petrópolis: Vozes, 1994.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Thomas Hobbes e John Locke, importantes teóricos contratualistas, discutiram aspectos ligados à natureza humana e ao Estado. Thomas Hobbes, diferentemente de John Locke, entende o estado de natureza como um(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "condição de guerra de todos contra todos, miséria universal, insegurança e medo da morte violenta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "organização pré-social e pré-política em que o homem nasce com os direitos naturais: vida, liberdade, igualdade e propriedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "capricho típico da menoridade, que deve ser eliminado pela exigência moral, para que o homem possa constituir o Estado civil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "situação em que os homens nascem como detentores de livre-arbítrio, mas são feridos em sua livre decisão pelo pecado original.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estado de felicidade, saúde e liberdade que é destruído pela civilização, que perturba as relações Sociais e violenta a humanidade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

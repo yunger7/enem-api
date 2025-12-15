@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 95 - ENEM 2011",
+  "index": 95,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "El día de los muertos en México (2 de noviembre)\nEste día se celebra la máxima festividad de los muertos en México. La celebración está llena de muchas costumbres. A las personas les gusta ir y llevar flores a las tumbas de sus muertos pero para otras representa todo un rito que comienza en la madrugada cuando muchas familias hacen altares de muertos sobre las lápidas de sus difuntos familiares. Estos altares tienen un gran significado ya que con ellos se cree que se ayuda a sus muertos a llevar un buen camino durante la muerte. Esta creencia es una mezcla de las tradiciones religiosas precolombinas y la católica. Otros altares más complejos, según la tradición, deben de constar de 7 niveles o escalones que representan los niveles que tiene que pasar el alma de un muerto para poder descansar. Estos altares se realizan generalmente en lugares con gran espacio.\n\n                                                  Disponível em: http://www.sanmiguelguide.com. Acesso em: 22 maio 2009 (adaptado).",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/95/Enem-2011-ppl-questao-95.jpg"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Como no Brasil, o México também homenageia seus mortos no dia 2 de novembro, mas cada lugar tem suas próprias características. Baseando-se no texto, a origem dessa celebração no México deve-se",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "à mistura entre a tradição cristã e as religiões que existiam antes no país.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "à família mexicana, que gosta de levar flores aos cemitérios.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "à festa que ajuda os mortos a irem por um bom caminho no além.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aos altares que têm a função de enfeitar os cenários da festa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "às cerimônias que são celebradas dentro das casas das famílias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

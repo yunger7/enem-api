@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 91 - ENEM 2016",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "ingles",
+  "context": null,
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/91/quest%C3%A3o-91-enem-2016-segunda-aplica%C3%A7%C3%A3o.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "A campanha desse pôster, direcionada aos croatas, tem como propósito",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "alertar os cidadãos sobre a lei em vigor contra a discriminação.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "conscientizar sobre as consequências do preconceito na sociedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "reduzir os prejuízos causados por motoristas alcoolizadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "fazer uma crítica à falta de habilidade das mulheres ao volante.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "evitar os acidentes de trânsito envolvendo mulheres.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

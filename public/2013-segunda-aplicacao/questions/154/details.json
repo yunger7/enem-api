@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 154 - ENEM 2013",
+  "index": 154,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Todos os anos, a Receita Federal alerta os contribuintes para não deixarem o envio de seus dados para o último dia do prazo de entrega, pois, após esse prazo, terá que pagar uma multa. Em certo ano, a quatro dias do prazo final, contabilizou-se o recebimento de 16,2 milhões de declarações, o equivalente a cerca de 60% do total estimado pela Receita Federal. Nesse mesmo momento, foi observado que a média de entrada era de aproximadamente 90 000 declarações por hora.\n\n                                                  Disponível em: www.folha.uol.com.br. Acesso em: 30 maio 2010 (adaptado).",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Considerando o total estimado para entrega e permanecendo nesses últimos dias a mesma média por hora de recebimentos das declarações, qual a quantidade aproximada de pessoas que terão que pagar multa por atraso, sabendo que a Receita Federal recebe declarações 24 horas por dia?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2,16 milhões",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "4,05 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6,21 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "7,65 milhões",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8,64 milhões",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

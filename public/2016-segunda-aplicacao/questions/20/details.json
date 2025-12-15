@@ -1,0 +1,49 @@
+{
+  "year": 2016,
+  "title": "Questão 20 - ENEM 2016",
+  "index": 20,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em 1967, o geógrafo brasileiro Pedro Pinchas Geiger propôs uma divisão regional do país em regiões geoeconômicas ou complexos regionais. Essa divisão baseia-se no processo histórico de formação do território brasileiro, levando em conta, especialmente, os efeitos da industrialização. Dessa forma, busca-se refletir a realidade do país e compreender seus mais profundos contrastes.\n\n                                                  Disponível em: http://educacao.uol.com.br. Acesso em: 23ago. 2012 (adaptado).",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/20/oo-2.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/20/s-3.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/20/l%C3%A7-2.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/20/oo-3.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/20/s-5.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "A divisão em regiões geoeconômicas ou complexos regionais encontra-se na seguinte representação:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/20/oo-2.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/20/s-3.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/20/l%C3%A7-2.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/20/oo-3.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/20/s-5.jpg",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 2 - ENEM 2015",
+  "index": 2,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Em 1943, Getúlio Vargas criou o Departamento de Propaganda e Difusão Cultural junto ao Ministério da Justiça, esvaziando o Ministério da Educação não só da propaganda, mas também do rádio e do cinema. A decisão tinha como objetivo colocar os meios de comunicação de massa a serviço direto do Poder Executivo, iniciativa que tinha inspiração direta no recém-criado Ministério da Propaganda alemão.\n \n \n\n                                                  CAPELATO, M. H. Propaganda política e controle dos meios de comunicação. Rio de Janeiro: FGV, 1999",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "No contexto citado, a transferência de funções entre ministérios teve como finalidade o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "desativação de um sistema tradicional de comunicação voltado para a educação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "O controle do conteúdo da informação por meio de uma orientação política e ideológica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "O subordinação do Ministério da Educação ao Ministério da Justiça e ao Poder Executivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ampliação do raio de atuação das emissoras de rádio como forma de difusão da cultura popular.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "demonstração de força política do Executivo diante de ministérios herdados do governo anterior.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

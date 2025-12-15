@@ -1,0 +1,49 @@
+{
+  "year": 2016,
+  "title": "Questão 150 - ENEM 2016",
+  "index": 150,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma empresa farmacêutica fez um estudo da eficácia (em porcentagem) de um medicamento durante 12 h de tratamento em um paciente. O medicamento foi administrado em duas doses, com espaçamento de 6 h entre elas. Assim que foi administrada a primeira dose, a eficácia  do remédio cresceu linearmente durante 1h, até atingir a máxima eficácia (100%), e permaneceu em máxima eficácia durante 2h. Após essas 2h em que a eficácia foi máxima, ela passou a diminuir linearmente, atingindo 20% de eficácia ao complentar as 6h iniciais dose, que passou a aumentar linearmente, atingindo a máxima eficácia após 0,5 h e permanecendo em 100% por 3,5h. Nas horas restantes da análise, a eficácia desceu lineramente, atingindo ao final do tratamento 50%de eficácia.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar6.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar7.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar8.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar9.jpg",
+    "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar10.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Considerando as grandezas tempo (em hora), no eixo das abscissas; e eficácia do medicamento (em porcentagem), no eixo das ordenadas, qual é o gráfico que representa tal estudo?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar6.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar7.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar8.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar9.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2016-segunda-aplicacao/questions/150/Capturar10.jpg",
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "year": 2015,
+  "title": "Questão 149 - ENEM 2015",
+  "index": 149,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Os maias desenvolveram um sistema de numeração vigesimal que podia representar qualquer número inteiro, não negativo, com apenas três símbolos. Uma concha representava o zero, um ponto representava o número 1 e uma barrinha horizontal, o número 5. Até o número 19, os maias representavam os números como mostra a Figura 1:\n\n                                              \n                                                \n                \n                  \n                                                    \n              \n                                                \n                Números superiores a 19 são escritos na vertical, seguindo potências de 20 em notação posicional, como mostra a Figura 2.\nOu seja, o número que se encontra na primeira posição é multiplicado por 200 = 1, o número que se encontra na segunda posição é multiplicado por 201 = 20 e assim por diante. Os resultados obtidos em cada posição são somados para obter o número no sistema decimal.\nUm arqueólogo achou o hieroglifo da Figura 3 em um sítio arqueológico:",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/149/enem2015.2.ques%C3%A3o149.png",
+    "https://enem.dev/2015-segunda-aplicacao/questions/149/enem2015.2.quest%C3%A3o149b.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O número, no sistema decimal, que o hieroglifo da Figura 3 representa é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "279.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "539.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 619.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "5 219.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "7 613.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

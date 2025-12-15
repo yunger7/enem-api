@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 100 - ENEM 2016",
+  "index": 100,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O hip hop tem sua filosofia própria, com valores construídos pela condição das experiências vividas nas periferias de muitas cidades. Colocando-se como um contraponto à miséria, às drogas, ao crime e à violência, o hip hop busca interpretar a realidade social. Seu objetivo é justamente encontrar saídas e fornecer uma alternativa à população excluída.\n\n                                                  SOUZA, J.; FIALHO, V. M.; ARALDI, J. Hip hop: da rua para a escola. Porto Alegre: Sulina, 2008.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "As autoras abordam no texto um movimento cultural que também tem características reconhecidas",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "nos traços e formas que representam personagens de olhos desproporcionalmente maiores e expressivos, conhecidos como mangá.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "nas formas de se vestir e de cortar os cabelos com objetivos contestadores à ordem social, próprios do movimento punk.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "nas frases e dizeres de qualquer espécie, rabiscados sobre fachadas de edifícios, que marcam a pichação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "nos movimentos leves e sincronizados com os pés que deslocam o dançarino, denominado moonwalk.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "nas declamações rápidas e ritmadas de um texto, com alturas aproximadas, características do rap.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

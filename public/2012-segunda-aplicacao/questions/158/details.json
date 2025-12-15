@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 158 - ENEM 2012",
+  "index": 158,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma pizzaria oferece, no cardápio, duas opções de tamanhos e preços:Pizza média (6 fatias): R$ 24,00Pizza grande (8 fatias): R$ 32,00Um grupo de jovens estava prestes a decidir o tipo de pizza com melhor custo-benefício, quando um dos amigos questionou ao garçom a respeito do diâmetro de cada uma das pizzas. A informação obtida foi de que os diâmetros das pizzas média e grande eram, respectivamente, 30 cm e 40 cm. Considerando que os dois tamanhos e preços das pizzas atendem o grupo e que não haverá desperdício, iniciou-se um debate entre eles:• Alan: A pizza grande tem melhor custo-benefício, pois a área de sua fatia é superior à área da fatia da pizza média.• Breno: A pizza média tem melhor custo-benefício, pois, como é dividida em menos fatias, cada fatia tem uma maior quantidade de pizza.• Cleber: As duas apresentam a mesma relação custo-benefício, já que cada fatia custa R$ 4,00, independentemente da escolha do tamanho.• Davidson: Como a razão entre os diâmetros e os preços das pizzas é a mesma, nenhuma das pizzas tem melhor custo-benefício que a outra.• Eric: A pizza grande possui melhor relação custo-benefício, pois, independentemente do diâmetro, ela é dividida em um número maior de fatias.\n\nnull",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual jovem apresentou o melhor argumento para a escolha da pizza?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Alan.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Breno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Cleber.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Davidson.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Eric.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

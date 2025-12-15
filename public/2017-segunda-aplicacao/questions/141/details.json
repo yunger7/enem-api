@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 141 - ENEM 2017",
+  "index": 141,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma empresa de entregas presta serviços para outras empresas que fabricam e vendem produtos. Os fabricantes dos produtos podem contratar um entre dois planos oferecidos pela empresa que faz as entregas. No plano A, cobra-se uma taxa fixa mensal no valor de R$ 500,00, além de uma tarifa de R$ 4,00 por cada quilograma enviado (para qualquer destino dentro da área de cobertura). No plano B, cobra-se uma taxa fixa mensal no valor de R$ 200,00, porém a tarifa por cada quilograma enviado sobe para R$ 6,00. Certo fabricante havia decidido contratar o plano A por um período de 6 meses. Contudo, ao perceber que ele precisará enviar apenas 650 quilogramas de mercadoria durante todo o período, ele resolveu contratar o plano B.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual alternativa avalia corretamente a decisão final do fabricante de contratar o plano B?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A decisão foi boa para o fabricante, pois o plano B custará ao todo R$ 500,00 a menos do que o plano A custaria.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "A decisão foi boa para o fabricante, pois o plano B custará ao todo R$ 1 500,00 a menos do que o plano A custaria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A decisão foi ruim para o fabricante, pois o plano B custará ao todo R$ 1 000,00 a mais do que o plano A custaria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A decisão foi ruim para o fabricante, pois o plano B custará ao todo R$ 1 300,00 a mais do que o plano A custaria.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A decisão foi ruim para o fabricante, pois o plano B custará ao todo R$ 6 000,00 a mais do que o plano A custaria.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

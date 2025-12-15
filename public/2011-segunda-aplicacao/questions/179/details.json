@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 179 - ENEM 2011",
+  "index": 179,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Na zona rural, a utilização de unidades de medida como o hectare é bastante comum. O hectare equivale à área de um quadrado de lado igual a 100 metros. Na figura, há a representação de um terreno por meio da área em destaque. Nesta figura, cada quadrado que compõe esta malha representa uma área de 1 hectare.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/179/179.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O terreno em destaque foi comercializado pelo valor R$ 3 600 000,00. O valor do metro quadrado desse terreno foi de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "R$ 30,00.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "R$ 300,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "R$ 360,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "R$ 3 600,00.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "R$ 300 000,00.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

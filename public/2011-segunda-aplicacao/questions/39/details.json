@@ -1,0 +1,43 @@
+{
+  "year": 2011,
+  "title": "Questão 39 - ENEM 2011",
+  "index": 39,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Escrevendo em jornais, entrando para a política, fugindo para quilombos, montando pecúlios para comprar alforrias… Os negros brasileiros não esperaram passivamente pela libertação. Em vez disso, lutaram em diversas frentes contra a escravidão, a ponto de conseguir que, à época em que a Lei Áurea foi assinada, apenas uma pequena minoria continuasse formalmente a ser propriedade.\n\n                                                  Antes da Lei Áurea. Liberdade Conquistada. Revista Nossa História. Ano 2, nº 19.\nSão Paulo: Vera Cruz, 2005.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "No que diz respeito à Abolição, o texto apresenta uma análise historiográfica realizada nas últimas décadas por historiadores, brasileiros e brasilianistas, que se diferencia das análises mais tradicionais. Essa análise recente apresenta a extinção do regime escravista, em grande parte, como resultado",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "da ação benevolente da Princesa Isabel, que, assessorada por intelectuais e políticos negros, tomou a abolição como uma causa pessoal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "da ação da imprensa engajada que, controlada por intelectuais brancos sensíveis à causa da liberdade, levantou a bandeira abolicionista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "das necessidades do capitalismo inglês de substituir o trabalho escravo pelo assalariado, visando ampliar o mercado consumidor no Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "da luta dos próprios negros, escravos ou libertos, que empreenderam um conjunto de ações que tornaram o regime escravista incapaz de se sustentar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "do espírito humanitário de uma moderna camada proprietária que, influenciada pelo liberalismo, tomou atitudes individuais, libertando seus escravos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

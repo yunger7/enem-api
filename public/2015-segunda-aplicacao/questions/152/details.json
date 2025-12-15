@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 152 - ENEM 2015",
+  "index": 152,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "O padrão internacional ISO 216 define os tamanhos de papel utilizados em quase todos os países. O formato-base é uma folha retangular de papel chamada de A0, cujas dimensões estão na razão 1 :¥ . A partir de então, dobra-se a folha ao meio, sempre no lado maior, definindo os demais formatos, conforme o número da dobradura. Por exemplo, A1 é a folha A0 dobrada ao meio uma vez, A2 é a folha A0 dobrada ao meio duas vezes, e assim sucessivamente, conforme figura.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/152/enem2015.2.quest%C3%A3o152.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Um tamanho de papel bastante comum em escritórios brasileiros é o A4, cujas dimensões são 21,0 cm por 29,7 cm.Quais são as dimensões, em centímetros, da folha A0?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "21,0 u 118,8",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "84,0 u 29,7",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "84,0 u 118,8",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "168,0 u 237,6",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "336,0 u 475,2",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

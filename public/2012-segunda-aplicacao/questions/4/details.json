@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 4 - ENEM 2012",
+  "index": 4,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A primeira produção cinematográfica de propaganda nitidamente antissemita foi Os Rotschilds (1940), de Erich Waschneck. Ambientado na Europa conturbada pelas guerras napoleônicas, o filme mostrava como essa importante família de banqueiros judeus beneficiou-se das discórdias entre as nações europeias, acumulando fortuna à custa da guerra, do sofrimento e da morte de milhões de pessoas. O judeu é retratado como uma criatura perigosa, de mãos aduncas, rosto encarniçado e olhar sádico e maléfico.\n\n                                                  PEREIRA, W. Cinema e genocídio judaico: dimensões da memória audiovisual do nazismo e do holocausto. In: Educando para a cidadania e a democracia. 6ª Jornada Interdisciplinar.\nRio de Janeiro: SME; UERJ, jun. 2008 (fragmento).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os Rotschilds foi produzido na Alemanha nazista. A partir do texto e naquela conjuntura política, o principal objetivo do filme foi",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defender a liberdade religiosa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "controlar o genocídio racial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aprofundar a intolerância étnica.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "legitimar o expansionismo territorial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "contestar o nacionalismo autoritário.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

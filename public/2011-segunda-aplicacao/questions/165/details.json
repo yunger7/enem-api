@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 165 - ENEM 2011",
+  "index": 165,
+  "discipline": "matematica",
+  "language": null,
+  "context": "onde n é o número de disciplinas escolhidas pelo aluno. Alex deseja matricular seu filho Júlio e, consultando seu orçamento familiar mensal, avaliou que poderia pagar uma mensalidade de, no máximo, R$ 720,00. O número máximo de disciplinas que Júlio poderá escolher ao se matricular nesse curso, sem estourar o orçamento familiar, é igual a A 3. B 4. C 6. D 7. E 8.",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/165/165.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O número máximo de disciplinas que Júlio poderá escolher ao se matricular nesse curso, sem estourar o orçamento familiar, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "6.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "7.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

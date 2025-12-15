@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 91 - ENEM 2016",
+  "index": 91,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/91/91-figura1.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Essa propaganda foi criada para uma campanha de conscientização sobre a violência contra a mulher. As palavras que compõem a imagem indicam que a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "violência contra a mulher está aumentando.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "agressão à mulher acontece de forma física e verbal.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "violência contra a mulher é praticada por homens.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "agressão à mulher é um fenômeno mundial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "violência contra a mulher ocorre no ambiente doméstico.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

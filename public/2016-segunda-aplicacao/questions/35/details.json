@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 35 - ENEM 2016",
+  "index": 35,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Quando a Corte chegou ao Rio de Janeiro, a Colônia tinha acabado de passar por uma explosão populacional. Em pouco mais de cem anos, o número de habitantes aumentara dez vezes.\n\n                                                  GOMES, L. 1808: como uma rainha louca, um príncipe medroso e uma Corte corrupta enganaram Napoleão e mudaram a história de Portugal e do Brasil. São Paulo: Planeta do Brasil, 2008 (adaptado).",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A alteração demográfica destacada no período teve como causa a atividade",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cafeeira, com a atração da imigração europeia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "industrial, com a intensificação do êxodo rural.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mineradora, com a ampliação do tráfico africano.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "canavieira, com o aumento do apresamento indígena.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "manufatureira, com a incorporação do trabalho assalariado.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

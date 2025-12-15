@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 92 - ENEM 2011",
+  "index": 92,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": null,
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/92/Enem-2011-ppl-questao-92ESP.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Suponha que uma pessoa queira visitar a Espanha e deseje planejar sua visita de acordo com os feriados nacionais espanhóis. Ao observar o calendário com alguns dos principais feriados espanhóis, essa pessoa constatará que, na Espanha,",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "poucos feriados são oficiais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a Semana Santa tem uma data precisa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "no décimo mês do ano inexistem feriados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "poucos feriados têm relação com a religião.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "quase todos os feriados ocorrem na segunda metade do ano.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

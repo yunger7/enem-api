@@ -1,0 +1,43 @@
+{
+  "year": 2016,
+  "title": "Questão 15 - ENEM 2016",
+  "index": 15,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "A imagem da relação patrão-empregado geralmente veiculada pelas classes dominantes brasileiras na República Velha era de que esta relação se assemelhava em muitos aspectos à relação entre pais e filhos. O patrão era uma espécie de “juiz doméstico” que procurava guiar e aconselhar o trabalhador, que, em troca, devia realizar suas tarefas com dedicação e respeitar o seu patrão.\n\n                                                  CHALHOUB, S. Trabalho, lar e botequim: o cotidiano dos trabalhadores da Rio de Janeiro da Belle Époque. Campinas: Unicamp, 2001.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "No contexto da transição do trabalho escravo para o trabalho livre, a construção da imagem descrita no texto tinha por objetivo",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "esvaziar o conflito de uma relação baseada na desigualdade entre os indivíduos que dela participavam.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "driblar a lentidão da nascente Justiça do Trabalho, que não conseguia conter os conflitos cotidianos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "separar os âmbitos público e privado na organização do trabalho para aumentar a eficiência dos funcionários.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "burlar a aplicação das leis trabalhistas conquistadas pelos operários nos primeiros governos civis do período republicano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "compensar os prejuízos econômicos sofridos pelas elites em função da ausência de indenização pela libertação dos escravos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

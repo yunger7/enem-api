@@ -1,0 +1,45 @@
+{
+  "year": 2015,
+  "title": "Questão 76 - ENEM 2015",
+  "index": 76,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A figura representa uma embalagem cartonada e sua constituição em multicamadas. De acordo com as orientações do fabricante, essas embalagens não devem ser utilizadas em fornos micro-ondas.",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/76/76-1.jpg"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A restrição citada deve-se ao fato de a:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A embalagem aberta se expandir pela pressão do vapor formado em seu interior.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "camada de polietileno se danificar, colocando o alumínio em contato com o alimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fina camada de alumínio blindar a radiação, não permitindo que o alimento se aqueça.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "absorção de radiação pelo papel, que se aquece e pode levar à queima da camada de polietileno.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "geração de centelhas na camada de alumínio, que pode levar à queima da camada de papel e de polietileno.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

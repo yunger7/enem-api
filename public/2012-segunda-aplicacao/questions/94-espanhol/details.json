@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 94 - ENEM 2012",
+  "index": 94,
+  "discipline": "linguagens",
+  "language": "espanhol",
+  "context": "¿Están locos los españoles?\n¿Están locos los españoles? Esa fue la pregunta que me hizo un alemán en el año 1991. “Ni siquiera este próspero país podría permitirse organizar unos Juegos Olímpicos y una Expo al mismo tiempo”, me dijo. Desde entonces hemos creado una red de trenes de alta velocidad envidia de los alemanes, tenemos más kilómetros per capita de autopistas que ellos, el metro de Madrid es considerado el segundo mejor del mundo, se han invertido cantidades fabulosas en enriquecer a los constructores, a los partidos políticos y a no pocos bolsillos de políticos. Mientras, los sobrios alemanes seguían inyectando dinero en investigación y desarrollo, con lo cual se mantienen como el primer país exportador de la UE. Señores políticos, yo no gasto lo que no tengo. Es su responsabilidad el habernos metido en esta situación y espero que las urnas les castiguen a todas las formaciones políticas en la medida de su responsabilidad.\n\n                                                  ESCÓS, F. A. Disponível em: www.elpaís.com.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A afirmativa que esclarece a opinião do autor da carta a respeito das escolhas de investimento feitas pelos administradores espanhóis é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "A Alemanha, mesmo sendo um próspero país, não foi capaz de realizar dois grandes eventos simultaneamente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "A Espanha, assim como a Alemanha, também injetou capital em ações que visassem ao seu desenvolvimento econômico",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "A Espanha, dona de uma invejável rede de trens de alta velocidade, investiu na modernização das estradas e vias de metrô.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "A Alemanha, diferentemente da Espanha, investe recursos na pesquisa e se mantem líder no ranking dos países exportadores da União Europeia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "A Espanha, apesar da escassez de recursos públicos, aplicou capital em obras de infraestrutura, o que, hoje, justifica a crise em que se encontra.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

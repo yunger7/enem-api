@@ -1,0 +1,49 @@
+{
+  "year": 2015,
+  "title": "Questão 64 - ENEM 2015",
+  "index": 64,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "As superbactérias respondem por um número crescente de infecções e mortes em todo o mundo. O termo superbactérias é atribuído às bactérias que apresentam resistência a praticamente todos os antibióticos. Dessa forma, no organismo de um paciente, a população de uma espécie bacteriana patogênica pode ser constituída principalmente por bactérias sensíveis a antibióticos usuais e por um número reduzido de superbactérias que, por mutação ou intercâmbio de material genético, tornaram-se resistentes aos antibióticos existentes.\n\n                                                  FERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. Superbactérias: o problema mundial da resistência a antibióticos. Ciência Hoje, n. 287, nov. 2011 (adaptado).",
+  "files": [
+    "https://enem.dev/2015-segunda-aplicacao/questions/64/64-a.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/64/64-b.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/64/64-c.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/64/64-d.jpg",
+    "https://enem.dev/2015-segunda-aplicacao/questions/64/64-e.jpg"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual figura representa o comportamento populacional das bactérias ao longo de uma semana de tratamento com um antibiótico comum?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/64/64-a.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/64/64-b.jpg",
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/64/64-c.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/64/64-d.jpg",
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": null,
+      "file": "https://enem.dev/2015-segunda-aplicacao/questions/64/64-e.jpg",
+      "isCorrect": false
+    }
+  ]
+}

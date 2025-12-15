@@ -1,43 +1,43 @@
 {
-    "title": "Questão 138 - ENEM 2012",
-    "index": 138,
-    "year": 2012,
-    "language": null,
-    "discipline": "matematica",
-    "context": null,
-    "files": [],
-    "correctAlternative": "B",
-    "alternativesIntroduction": "Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto?",
-    "alternatives": [
-        {
-            "letter": "A",
-            "text": "600, 550, 350",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "B",
-            "text": "300, 300, 150",
-            "file": null,
-            "isCorrect": true
-        },
-        {
-            "letter": "C",
-            "text": "300, 250, 200",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "D",
-            "text": "200, 200, 100",
-            "file": null,
-            "isCorrect": false
-        },
-        {
-            "letter": "E",
-            "text": "100, 100, 50",
-            "file": null,
-            "isCorrect": false
-        }
-    ]
+  "title": "Questão 138 - ENEM 2012",
+  "index": 138,
+  "year": 2012,
+  "language": null,
+  "discipline": "matematica",
+  "context": "José, Carlos e Paulo devem transportar em suas bicicletas uma certa quantidade de laranjas. Decidiram dividir o trajeto a ser percorrido em duas partes, sendo que ao final da primeira parte eles redistribuiriam a quantidade de laranjas que cada um carregava dependendo do cansaço de cada um. Na primeira parte do trajeto José, Carlos e Paulo dividiram as laranjas na proporção 6 : 5 : 4, respectivamente. Na segunda parte do trajeto José, Carlos e Paulo dividiram as laranjas na proporção 4 : 4 : 2, respectivamente.\n\nnull",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "600, 550, 350",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "300, 300, 150",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "300, 250, 200",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "200, 200, 100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "100, 100, 50",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
 }

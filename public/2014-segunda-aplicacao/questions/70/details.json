@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 70 - ENEM 2014",
+  "index": 70,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "Água dura é aquela que contém concentrações relativamente altas de íons Ca2+ e Mg2+ dissolvidos. Apesar de esses íons não representarem risco para a saúde, eles podem tornar a água imprópria para alguns tipos de consumo doméstico ou industrial. Objetivando reduzir a concentração de íons Ca2+ e Mg2+ de uma amostra de água dura ao mínimo possível, um técnico em química testou os seguintes procedimentos no laboratório:\nI – Decantação da amostra de água.\nII – Filtração da amostra de água.\nIII – Aquecimento da amostra de água.\nIV – Adição do solvente orgânico CCl4 à amostra de água.\nV – Adição de CaO e Na2CO3 à amostra de água\n\n                                                  BROWN, T. L. et al. Química, a ciência central. São Paulo: Pearson Prentice Hall, 2005 (adaptado)",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O método considerado viável para tratar a água dura e aumentar seu potencial de utilização é o(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "decantação, pois permite que esses íons se depositem no fundo do recipiente.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "filtração, pois assim os íons Ca2+ e Mg2+ são retidos no filtro e separados da água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "aquecimento da amostra de água, para que esses íons sejam evaporados e separados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "adição do solvente orgânico CCl4 à amostra, para solubilizar esses íons e separá-los da água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reação química com CaO e Na2CO3 , para precipitar esses íons na forma de compostos insolúveis.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

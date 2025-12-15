@@ -1,0 +1,43 @@
+{
+  "year": 2015,
+  "title": "Questão 21 - ENEM 2015",
+  "index": 21,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "Suponha homens numa morada subterrânea, em forma de caverna, cuja entrada, aberta à luz, se estende sobre todo o comprimento da fachada; eles estão lá desde a infância, as pernas e o pescoço presos por correntes, de tal sorte que não podem trocar de lugar e só podem olhar para frente, pois os grilhões os impedem de voltar a cabeça; a luz de uma fogueira acesa ao longe, numa elevada do terreno, brilha por detrás deles; entre a fogueira e os prisioneiros, há um caminho ascendente; ao longo do caminho, imagine um pequeno muro, semelhante aos tapumes que os manipuladores de marionetes armam entre eles e o público e sobre os quais exibem seus prestígios.\n\n                                                  PLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 2007.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Essa narrativa de Platão é uma importante manifestação cultural do pensamento grego antigo, cuja ideia central, do ponto de vista filosófico, evidencia o (a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "caráter antropológico, descrevendo as origens do homem primitivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "sistema penal da época, criticando o sistema carcerário da sociedade ateniense.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "vida cultural e artística, expressa por dramaturgos trágicos e cômicos gregos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sistema político elitista, provindo do surgimento da pólis e da democracia ateniense.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "teoria do conhecimento, expondo a passagem do mundo ilusório para o mundo das ideias.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

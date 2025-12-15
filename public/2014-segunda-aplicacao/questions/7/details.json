@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 7 - ENEM 2014",
+  "index": 7,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "No sistema democrático de Schumpeter, os únicos participantes plenos são os membros de elites políticas em partidos e em instituições públicas. O papel dos cidadãos ordinários é não apenas altamente limitado, mas frequentemente retratado como uma intrusão indesejada no funcionamento tranquilo do processo “público” de tomada de decisões.\n\n                                                  HELD, D. Modelos de democracia. Belo Horizonte: Paideia, 1987.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O modelo de sistema democrático apresentado pelo texto pressupõe a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "consolidação da racionalidade comunicativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "adoção dos institutos do plebiscito e do referendo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "condução de debates entre cidadãos iguais e o Estado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "substituição da dinâmica representativa pela cívico participativa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "deliberação dos líderes políticos com restrição da participação das massas.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

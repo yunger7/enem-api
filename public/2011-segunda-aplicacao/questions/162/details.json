@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "title": "Questão 162 - ENEM 2011",
+  "index": 162,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Observe os dados da tabela seguinte, sobre o número de ocorrências de acidente de trabalho no Brasil em 2004.\n\nnull",
+  "files": [
+    "https://enem.dev/2011-segunda-aplicacao/questions/162/162.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O risco de acidente de trabalho de grupos de estudo é o resultado da probabilidade experimental calculada a partir de dados estatísticos. Assim sendo, considerando o disposto na tabela, qual o risco aproximado de um acidentado ser um homem com idade entre 25 e 29 anos?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "15%",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "18%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "20%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "78%",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "79%",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

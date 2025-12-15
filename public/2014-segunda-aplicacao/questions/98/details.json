@@ -1,0 +1,43 @@
+{
+  "year": 2014,
+  "title": "Questão 98 - ENEM 2014",
+  "index": 98,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Soneto\n \nOh! Páginas da vida que eu amava,\nRompei-vos! nunca mais! tão desgraçado!…\nArdei, lembranças doces do passado!\nQuero rir-me de tudo que eu amava!\nE que doido que eu fui!como eu pensava\nEm mãe, amor de irmã! em sossegado\nAdormecer na vida acalentado\nPelos lábios que eu tímido beijava!\nEmbora — é meu destino. Em treva densa\nDentro do peito a existência finda\nPressinto a morte na fatal doença!\nA mim a solidão da noite infinda\nPossa dormir o trovador sem crença.\nPerdoa minha mãe — eu te amo ainda!\n\n                                                  AZEVEDO, A. Lira dos vinte anos. São Paulo: Martins Fontes, 1996.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A produção de Álvares de Azevedo situa-se na década de 1850, período conhecido na literatura brasileira como Ultrarromantismo. Nesse poema, a força expressiva da exacerbação romântica identifica-se com a(o)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "amor materno, que surge como possibilidade de salvação para o eu lírico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "saudosismo da infância, indicado pela menção às figuras da mãe e da irmã.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "construção de versos irônicos e sarcásticos, apenas com aparência melancólica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "presença do tédio sentido pelo eu lírico, indicado pelo seu desejo de dormir.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "fixação do eu lírico pela ideia da morte, o que o leva a sentir um tormento constante.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

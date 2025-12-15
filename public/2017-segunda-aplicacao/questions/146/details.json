@@ -1,0 +1,43 @@
+{
+  "year": 2017,
+  "title": "Questão 146 - ENEM 2017",
+  "index": 146,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma aluna estuda numa turma de 40 alunos. Em um dia, essa turma foi dividida em três salas, A, B e C, de acordo com a capacidade das salas. Na sala A ficaram 1 O alunos, na B, outros 12 alunos e na C, 18 alunos. Será feito um sorteio no qual, primeiro, será sorteada uma sala e, posteriormente, será sorteado um aluno dessa sala.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Qual é a probabilidade de aquela aluna específica ser sorteada, sabendo que ela está na sala C?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1/3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1/18",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "1/40",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1/54",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "7/18",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

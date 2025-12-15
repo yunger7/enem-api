@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "title": "Questão 77 - ENEM 2013",
+  "index": 77,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O estudo do comportamento dos neurônios ao longo de nossa vida pode aumentar a possibilidade de cura do autismo, uma doença genética. A ilustração do experimento mostra a criação de neurônios normais a partir de células da pele de pacientes com autismo:",
+  "files": [
+    "https://enem.dev/2013-segunda-aplicacao/questions/77/672.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Analisando-se o experimento, a diferenciação de células-tronco em neurônios ocorre estimulada pela",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "extração e utilização de células da pele de um indivíduo portador da doença.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "regressão das células epiteliais a células-tronco em um meio de cultura apropriado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "atividade genética natural do neurônio autista num meio de cultura semelhante ao cérebro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aplicação de um fator de crescimento (hormônio IGF1) e do antibiótico Gentamicina no meio de cultura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "criação de um meio de cultura de células que imita o cérebro pela utilização de vitaminas e sais minerais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

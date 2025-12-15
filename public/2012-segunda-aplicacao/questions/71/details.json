@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 71 - ENEM 2012",
+  "index": 71,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "O DNA (ácido desoxirribonucleico), material genético de seres vivos, é uma molécula de fita dupla, que pode ser extraída de forma caseira a partir de frutas, como  morango ou banana amassados, com uso de detergente, de sal de cozinha, de álcool comercial e de uma peneira ou de um coador de papel.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O papel do detergente nessa extração de DNA é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "aglomerar o DNA em solução para que se torne visível.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "promover lise mecânica do tecido para obtenção do DNA.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "emulsificar a mistura para promover a precipitação do DNA.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "promover atividades enzimáticas para acelerar a extração do DNA.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "romper as membranas celulares para liberação do DNA em solução.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

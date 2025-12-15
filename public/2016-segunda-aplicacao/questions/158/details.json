@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "title": "Questão 158 - ENEM 2016",
+  "index": 158,
+  "discipline": "matematica",
+  "language": null,
+  "context": "Uma empresa europeia construiu um avião solar, como na figura, objetivando dar uma volta ao mundo utilizando somente energia solar. O avião solar tem comprimento AB igual a 20 m e uma envergadura de asas CD igual a 60 m.\n\n\nPara uma feira de ciências, uma equipe de alunos fez uma maquete desse avião. A escala utilizada pelos alunos foi de 3 : 400.",
+  "files": [
+    "https://enem.dev/2016-segunda-aplicacao/questions/158/Capturar14.jpg"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A envergadura CD na referida maquete, em centímetro, é igual a",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "20",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "45",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "55",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "80",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

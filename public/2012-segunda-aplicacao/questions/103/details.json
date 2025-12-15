@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 103 - ENEM 2012",
+  "index": 103,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "Entrevista\nAlmir Suruí\nNão temos o direito de ficar isolados\nSoa contraditório, mas a mesma modernidade que quase dizimou os suruís nos tempos do primeiro contato promete salvar a cultura e preservar o território desse povo. Em 2007, o líder Almir Suruí, de 37 anos, fechou uma parceria inédita com o Google e levou a tecnologia às tribos. Os índios passaram a valorizar a história dos anciãos. E a resguardar, em vídeos e fotos on-line, as tradições da aldeia. Ainda se valeram de smartphones e GPS para delimitar suas terras e identificar os desmatamentos ilegais. Em 2011, Almir Suruí foi eleitopela revista americana Fast Company um dos 100 líderes mais criativos do mundo dos negócios.\nÉPOCA – Quando o senhor percebeu que a internet poderia ser uma aliada do povo suruí?\nAlmir Suruí – Meu povo acredita no diálogo. Para nós, é uma ferrament muito importante. Sem a tecnologia, não teríamos como dialogar suficientemente para propor e discutir os direitos e territórios de nosso povo. Nós, povos indígenas, não temos mais o direito de ficar isolados. Ao usar a tecnologia, valorizamos a floresta e criamos um novo modelo de desenvolvimento. Se a gente usasse a tecnologia de qualquer jeito, seria um risco. Mas hoje temos a pretensão de usar a ferramenta para valorizar nosso povo, buscar nossa autonomia e ajudar na implementação das políticas públicas a favor do meio ambiente e das pessoas.\n\n                                                  RIBEIRO, A. Época, 20 fev. 2012 (fragmento).",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "As tecnologias da comunicação e informação podem ser consideradas como artefatos culturais. No fragmento de entrevista, Almir Suruí argumenta com base no pressuposto de que",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as tecnologias da informação presentes nas aldeias revelam-se contraditórias com a memória coletiva baseada na oralidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "as tradições culturais e os modos de transmiti-las não são afetados pelas tecnologias da informação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "as tecnologias da informação inviabilizam o desenvolvimento sustentável nas aldeias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "as tecnologias da informação trazem novas possibilidades para a preservação de uma cultura.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "as tecnologias da informação permitem que os povos indígenas se mantenham isolados em suas comunidades.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2013,
+  "title": "Questão 128 - ENEM 2013",
+  "index": 128,
+  "discipline": "linguagens",
+  "language": null,
+  "context": "O cordelista por ele mesmo\nAos doze anos eu era\nforte, esperto e nutrido.\nVinha do Sítio de Piroca\nmuito alegre e divertido\nvender cestos e balaios\nque eu mesmo havia tecido.\nPassava o dia na feira\ne à tarde regressava\nlevando umas panelas\nque minha mãe comprava\ne bebendo água salgada\nnas cacimbas onde passava.\n\n                                                  BORGES, J. F. Dicionário dos sonhos e outras histórias de cordel. Porto Alegre: LP&M, 2003 (fragmento).",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Literatura de cordel é uma criação popular em verso, cuja linguagem privilegia, tematicamente, histórias de cunho regional, lendas, fatos ocorridos para firmar certas crenças e ações destacadas nas sociedades locais. A respeito do uso das formas variantes da linguagem no Brasil, o verso do fragmento que permite reconhecer uma região brasileira é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "“muito alegre e divertido”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "“Passava o dia na feira”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "“levando umas panelas”.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "“que minha mãe comprava”",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "“nas cacimbas onde passava”.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

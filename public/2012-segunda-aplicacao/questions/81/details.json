@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 81 - ENEM 2012",
+  "index": 81,
+  "discipline": "ciencias-natureza",
+  "language": null,
+  "context": "A grafita é uma variedade alotrópica do carbono. Trata-se de um sólido preto, macio e escorregadio, que apresenta brilho característico e boa condutibilidade elétrica.",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Considerando essas propriedades, a grafita tem potencial de aplicabilidade em:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Lubrificantes, condutores de eletricidade e cátodos de baterias alcalinas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Ferramentas para riscar ou cortar materiais, lubrificantes e condutores de eletricidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Ferramentas para amolar ou polir materiais, brocas odontológicas e condutores de eletricidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Lubrificantes, brocas odontológicas, condutores de eletricidade, captadores de radicais livres e cátodos de baterias alcalinas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Ferramentas para riscar ou cortar materiais, nanoestruturas capazes de transportar drogas com efeito radioterápico e cátodos de baterias alcalinas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "year": 2012,
+  "title": "Questão 39 - ENEM 2012",
+  "index": 39,
+  "discipline": "ciencias-humanas",
+  "language": null,
+  "context": "TEXTO I\n\nO Estado sou eu.\n\n                                                  Frase atribuída a Luís XIV, Rei Sol, 1638-1715. Disponível em: http://portaldoprofessor.mec.gov.br. Acesso em: 30 nov. 2011.\n\n                              \n                                                \n                TEXTO II\n\nA nação é anterior a tudo. Ela é a fonte de tudo. Sua vontade é sempre legal; na verdade é a própria lei.\n\n                                                  SIEYÈS, E-J. O que é o Terceiro Estado. Apud. ELIAS, N. Os alemães: a luta pelo poder e a evolução do habitus nos séculos XIX e XX. Rio de Janeiro: Jorge Zahar, 1997.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Os textos apresentados expressam alteração na relação entre governantes e governados na Europa. Da frase atribuída ao rei Luís XIV até o pronunciamento de Sieyès, representante das classes médias que integravam o Terceiro Estado Francês, infere-se uma mudança decorrente da",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "ampliação dos poderes soberanos do rei, considerado guardião da tradição e protetor de seus súditos e do Império.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "associação entre vontade popular e nação, composta por cidadãos que dividem uma mesma cultura nacional.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "reforma aristocrática, marcada pela adequação dos nobres aos valores modernos, tais como o princípio do mérito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "organização dos Estados centralizados, acompanhados pelo aprofundamento da eficiência burocrática.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "crítica ao movimento revolucionário, tido como ilegítimo em meio à ascensão popular conduzida pelo ideário nacionalista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}
