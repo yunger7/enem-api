@@ -6,7 +6,7 @@
     "discipline": "linguagens",
     "context": "**TEXTO I**\n\nCorreu à sala dos retratos, abriu o piano, sentou-se e espalmou as mãos no teclado. Começou a tocar alguma coisa própria, uma inspiração real e pronta, uma polca, uma polca buliçosa, como dizem os anúncios. Nenhuma repulsa da parte do compositor; os dedos iam arrancando as notas, ligando-as, meneando-as; dir-se-ia que a musa compunha e bailava a um tempo. \\[…….\\] Compunha só, teclando ou escrevendo, sem os vãos esforços da véspera, sem exasperação, sem nada pedir ao céu, sem interrogar os olhos de Mozart. Nenhum tédio. Vida, graça, novidade, escorriam-lhe da alma como de uma fonte perene.\n\nASSIS, M. Um homem célebre. Disponivel em: www.biblio.com.br.  \nAcesso em: 2 jun. 2019.\n\n**TEXTO II**\n\nUm homem célebre expõe o suplicio do músico popular que busca atingir a sublimidade da obra-prima clássica, e com ela a galeria dos imortais, mas que é traído por uma disposição interior incontrolável que o empurra implacavelmente na direção oposta. Pestana, célebre nos saraus, salões, bailes e ruas do Rio de Janeiro por suas composições irresistivelmente dançantes, esconde-se dos rumores à sua volta num quarto povoado de ícones da grande música europeia, mergulha nas sonatas do classicismo vienense, prepara-se para o supremo salto criativo e, quando dá por si, é o autor de mais uma inelutável e saltitante polca.\n\nWISNIK, J. M. Machado maxixe: o caso Pestana. Teresa: revista de literatura brasileira,  \n2004 (adaptado).",
     "files": [],
-    "correctAlternative": "E",
+    "correctAlternative": "D",
     "alternativesIntroduction": "O conto de Machado de Assis faz uma referência velada a maxixe, gênero musical inicialmente associado à escravidão e à mestiçagem. No Texto II, o conflito do personagem em compor obras do gênero é representativo da",
     "alternatives": [
         {
@@ -31,13 +31,13 @@
             "letter": "D",
             "text": "Tensa relação entre o erudito e o popular na constituição da música brasileira.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",
             "text": "Importância atribuída à música clássica a sociedade brasileira do século XIX.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         }
     ]
 }
