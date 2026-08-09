@@ -1,0 +1,45 @@
+{
+    "title": "Questão 162 - ENEM 2025",
+    "index": 162,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica produzirá caixas de papelão com capacidade para exatamente 48 potes cilíndricos idênticos, cuja altura mede\no dobro do diâmetro de sua base. Essas caixas têm formato de paralelepípedo reto retângulo, fechadas nas laterais e na base.\nA parte superior é tampada por quatro abas (duas grandes e duas pequenas) que se sobrepõem para fechar a caixa. Cada aba\ngrande ocupa metade da face superior do paralelepípedo, enquanto cada aba pequena ocupa um terço. A figura apresenta uma\ndessas caixas com as abas abertas.\n\n![](https://enem.dev/2025-reaplicacao/questions/162/9168d590-506c-416b-a72c-ec55872444ff.png)\n\nEm uma reunião, cinco funcionários apresentaram expressões para calcular a quantidade de papelão para confeccionar cada\ncaixa, em função da medida (d) do diâmetro de cada pote.\n\n• Funcionário 1: 80d 2.\n• Funcionário 2: 104d 2.\n• Funcionário 3: 128d 2.\n• Funcionário 4: 144d 2.\n• Funcionário 5: 152d 2.",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/162/9168d590-506c-416b-a72c-ec55872444ff.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para a fábrica produzir caixas nas condições pretendidas, deverá ser utilizada a expressão apresentada pelo funcionário",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

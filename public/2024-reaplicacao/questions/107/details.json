@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2024",
+    "index": 107,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um experimento foi montado com o intuito de determinar\no tempo de queda livre de corpos com tamanhos e massas\ndistintas. Para isso, utilizou-se uma prateleira a 50,0 cm do\nchão, onde foram colocadas três frutas, conforme a figura.\nEm um determinado instante, a prateleira foi removida,\nliberando todas as frutas simultaneamente.\n\n![](https://enem.dev/2024-reaplicacao/questions/107/53d8e563-1f44-457f-a59d-f5f7f6e9eb62.png)\n\nConsidere o tempo de queda da melancia como t1,\ndo melão como t2 e da maçã como t3.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/107/53d8e563-1f44-457f-a59d-f5f7f6e9eb62.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Desprezando-se as forças dissipativas, a relação entre os tempos de queda das frutas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "t1 = t2 = t3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "t1 > t2 > t3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "t1 < t2 < t3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "t1 > t2 < t3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "t1 < t2 > t3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

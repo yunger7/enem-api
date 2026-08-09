@@ -1,0 +1,46 @@
+{
+    "title": "Questão 114 - ENEM 2025",
+    "index": 114,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/114/33401b71-a719-40c8-ba99-c10cf25d576c.png)\n\nA tirinha ilustra um processo físico em que uma onda sonora,\nproduzida pela Mônica, causa a quebra das taças de cristal.\nO fenômeno ondulatório que provoca a quebra das taças só é\npossível em razão de uma característica da voz produzida pela\nMônica naquele momento, que, diferentemente do que sugere\na tirinha, não está relacionada à sua intensidade.\n\n![](https://enem.dev/2025/questions/114/d75b340b-3e98-4a76-acd4-e8df98a9605d.png)\n\nDisponível em: https://artedafisicapibid.blogspot.com.\n\nAcesso em: 23 nov. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/114/33401b71-a719-40c8-ba99-c10cf25d576c.png",
+        "https://enem.dev/2025/questions/114/d75b340b-3e98-4a76-acd4-e8df98a9605d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse fenômeno e a característica associada à voz da Mônica são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflexão e comprimento de onda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ressonância e frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "interferência e velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ressonância e timbre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reflexão e amplitude.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 75 - ENEM 2025",
+    "index": 75,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2025/questions/75/717483a2-baa4-4cea-b9be-8d15b515a2d4.png)\n\nA partir do século XIX e, principalmente, no século XX, iniciou-se\no uso de produtos sintéticos na agricultura. No Brasil, a partir da\ndécada de 1960 e, posteriormente, nos anos 1970, os inseticidas\nampliam sua fatia no mercado dos defensivos agrícolas.\n\nTROPPMAIR, H. Biogeografia e meio ambiente.",
+    "files": [
+        "https://enem.dev/2025/questions/75/717483a2-baa4-4cea-b9be-8d15b515a2d4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Rio de Janeiro: TB, 2012 (adaptado). Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desagregação de camadas pedológicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diversidade de polinizadores naturais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "contaminação de lençóis freáticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produtividade da terra cultivada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ocorrência da erosão laminar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

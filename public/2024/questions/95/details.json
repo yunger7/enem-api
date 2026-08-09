@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2024",
+    "index": 95,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O desenvolvimento da biotecnologia e da clonagem\ngênica em procariotos fez com que a produção de proteínas\nse tornasse mais intensa, rápida e econômica. Para a\nprodução de hormônios, enzimas e proteínas de resistência\na drogas, uma variação da técnica de reação em cadeia\npela polimerase (PCR, na sigla em inglês) utiliza a enzima\ntranscriptase reversa (RT-PCR), que sintetiza moléculas\nde DNA complementares a partir de fitas de RNA.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse contexto, essa técnica é importante para detectar genes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "expressos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "plasmidiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "bacterianos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "autossômicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

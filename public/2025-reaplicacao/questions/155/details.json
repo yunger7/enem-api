@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2025",
+    "index": 155,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Índice de Desenvolvimento da Educação Básica (Ideb)\né uma das primeiras iniciativas brasileiras para medir\nnacionalmente a qualidade do aprendizado no ensino básico e\nestabelecer metas para a melhoria do ensino. A tabela apresenta\nos resultados e as metas dos anos iniciais e dos anos finais em\ncinco escolas do ensino fundamental nos anos de 2015 e 2017.\n\nAnos iniciais do\nensino fundamental\n\nAnos finais do\n ensino fundamental\n\nescola\n\nIdeb\nMeta\nIdeb\nMeta\n\n2015\n2017\n2017\n2015\n2017\n2017\n\nI\n5,7\n5,9\n6,0\n4,0\n4,5\n4,5\n\nII\n5,1\n5,4\n5,3\n4,2\n4,3\n4,3\n\nIII\n6,5\n7,1\n7,1\n6,1\n5,9\n6,1\n\nIV\n6,4\n6,2\n6,2\n4,5\n4,5\n4,5\n\nV\n5,4\n5,4\n5,6\n4,6\n4,6\n4,7\n\nAtingir a meta significa alcançar ou superar o valor\nestabelecido.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A escola que aumentou o seu Ideb no período e atingiu a meta estabelecida, tanto nos anos iniciais como nos anos finais do ensino fundamental, foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

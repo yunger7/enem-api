@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2024",
+    "index": 165,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para estimar a quantidade de tijolos a ser usada na\nconstrução de uma parede, é necessário saber como o\ntijolo será assentado, pois a estimativa depende de qual\nface do tijolo ficará aparente na parede.\n\nEm uma obra, um pedreiro deverá construir uma\nparede, na qual haverá uma janela, ambas em formato\nretangular, utilizando tijolos em forma de blocos de faces\ntambém retangulares, com as medidas indicadas na figura\na seguir.\n\n![](https://enem.dev/2024-reaplicacao/questions/165/283679e1-628e-44b4-b6dd-137ec11d3104.png)\n\nSegundo as orientações que recebeu, a janela não\npoderá ser tão pequena a ponto de a medida de sua área\nequivaler à área da face aparente de 100 tijolos, e nem tão\ngrande a ponto de ocupar uma área de medida maior ou\n\nigual a 1\n\n6\n da medida da área da parede, na situação em\n\nque não houvesse janela na parede. Despreze a espessura\nda massa para assentar esses tijolos.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/165/283679e1-628e-44b4-b6dd-137ec11d3104.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, as quantidades mínima e máxima de tijolos que poderão ser utilizados na construção dessa parede são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100 e 400.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "100 e 2 400.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 000 e 2 300.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "733 e 2 396.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 500 e 2 800.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

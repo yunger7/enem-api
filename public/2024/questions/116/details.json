@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2024",
+    "index": 116,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O magnésio metálico utilizado em ligas leves é\nproduzido em um processo que envolve várias etapas e\nutiliza água do mar como matéria-prima. A primeira etapa\ndesse processo consiste na reação entre o íon Mg2+ e\nhidróxido de cálcio, Ca(OH)2, obtendo uma mistura que\ncontém hidróxido de magnésio, pouco solúvel, e íons Ca2+,\nde acordo com a equação química:\n\nMg2+ (aq) + Ca(OH)2 (aq) → Mg(OH)2 (s) + Ca2+ (aq)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O método adequado para separar o Mg(OH)2 dessa mistura é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "filtração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "catação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dissolução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "evaporação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

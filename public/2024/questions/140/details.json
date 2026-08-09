@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2024",
+    "index": 140,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "João e Felipe participaram, na escola, de uma maratona\nde matemática na qual, durante uma semana, resolveram\n200 questões cada. Nessa maratona, a porcentagem P de\nacertos de cada participante é convertida em um conceito:\n\n•\t insatisfatório: se 0 ≤ P < 50;\n•\t regular: se 50 ≤ P < 60;\n•\t bom: se 60 ≤ P < 75;\n•\t muito bom: se 75 ≤ P < 90;\n•\t excelente: se 90 ≤ P ≤ 100.\n\nJoão acertou 75% das questões da maratona e Felipe\nacertou 30% a menos que a quantidade de questões que\nJoão acertou.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Os conceitos de João e Felipe foram, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "muito bom e bom.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "muito bom e regular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "muito bom e insatisfatório.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "bom e regular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "bom e insatisfatório.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

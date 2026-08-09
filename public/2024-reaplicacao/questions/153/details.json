@@ -1,0 +1,45 @@
+{
+    "title": "Questão 153 - ENEM 2024",
+    "index": 153,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma microempresa pretende fabricar pipas para vender\nno próximo verão. Um modelo de pipa está representado\npelo quadrilátero ABCD.\n\n![](https://enem.dev/2024-reaplicacao/questions/153/604417c4-7296-436f-b248-f3d5b87d23fd.png)\n\nNessa representação, os segmentos AB, BC e CE\nmedem, respectivamente, 20 cm, 34 cm e 30 cm. Além\ndisso, E pertence ao segmento AC e é ponto médio do\nsegmento BD.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/153/604417c4-7296-436f-b248-f3d5b87d23fd.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A medida da área, em centímetro quadrado, desse modelo de pipa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "58.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "96.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "108.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "184.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "672.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

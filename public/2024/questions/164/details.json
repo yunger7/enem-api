@@ -1,0 +1,45 @@
+{
+    "title": "Questão 164 - ENEM 2024",
+    "index": 164,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A prefeitura de uma cidade planeja construir três postos\nde saúde. Esses postos devem ser construídos em locais\nequidistantes entre si e de forma que as distâncias desses\ntrês postos ao hospital dessa cidade sejam iguais. Foram\nconseguidos três locais para a construção dos postos de\nsaúde que apresentam as características desejadas, e\nque distam 10 km entre si, conforme o esquema, no qual o\nponto H representa o local onde está construído o hospital;\nos pontos P1, P2 e P3, os postos de saúde; e esses quatro\npontos estão em um mesmo plano.\n\n![](https://enem.dev/2024/questions/164/8582e6cb-623b-4ee5-bbe7-ac3047beda9d.png)",
+    "files": [
+        "https://enem.dev/2024/questions/164/8582e6cb-623b-4ee5-bbe7-ac3047beda9d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 e 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 e 5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5 e 6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "7 e 8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8 e 9.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

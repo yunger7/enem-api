@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2025",
+    "index": 92,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/92/2ded1b96-738b-4e03-a8b0-f63343e1cc6a.png)\n\nA maioria dos seres vivos tem um relógio biológico\n(ciclo circadiano), que regula as mudanças metabólicas e\ncomportamentais de acordo com o ciclo de 24 horas de\nrotação da Terra. Em 2015, um artigo publicado na revista\nScience Advantage mostrou ser possível a transferência dos\ngenes do relógio circadiano da cianobactéria Synechococcus\nelongatus para o genoma da bactéria Escherichia coli, um\norganismo não circadiano.\n\nCHEN, A. H. et al. Transplantability of a Circardian Lock\n\nto Noncircardian Organism. Science Advantage,\n\nn. 1, 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/92/2ded1b96-738b-4e03-a8b0-f63343e1cc6a.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Estarão presentes no organismo geneticamente modificado os genes do",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "metabolismo de E. coli, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ciclo circadiano de E. coli, apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "metabolismo de S. elongatus e do ciclo circadiano de E. coli.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ciclo circadiano de S. elongatus e do metabolismo de E. coli.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "ciclo circadiano de S. elongatus e do ciclo circadiano de E. coli.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2024",
+    "index": 98,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A utilização de fusíveis em equipamentos eletrônicos\né fundamental para a sua preservação. De forma\nsimplificada, esse dispositivo é composto de terminais\nmetálicos, conectados por um fio condutor envolvido por\num corpo de vidro, como ilustrado na figura. A passagem de\ncorrente elétrica gera calor por efeito Joule, o que provoca\num aumento local na temperatura. Considere que são\nnecessários, em média, 4 A de corrente para a elevação\nda temperatura em 1 °C. As temperaturas de fusão de\ndiferentes materiais são apresentadas a seguir.\n\n![](https://enem.dev/2024-reaplicacao/questions/98/cd89b09a-f8aa-470c-8614-63982ebaa16e.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/98/cd89b09a-f8aa-470c-8614-63982ebaa16e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para um equipamento que deve operar com uma corrente menor que 1 000 A, o material adequado para o fusível é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estanho.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "frâncio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "prata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "silício.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "zinco.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

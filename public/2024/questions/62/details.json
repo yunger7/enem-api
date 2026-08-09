@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2024",
+    "index": 62,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O empirismo moderno foi, em grande parte,\ncondicionado por dois dogmas. Um deles é a crença em\ncerta divisão fundamental entre verdades analíticas, ou\nfundadas em significados independentemente de questões\nde fato, e verdades sintéticas, ou fundadas em fatos. O outro\ndogma é o reducionismo: a crença de que todo enunciado\nsignificativo é equivalente a algum construto lógico sobre\ntermos que se referem à experiência imediata.\n\nQUINE, W. V. O. Dois dogmas do empirismo. In: RYLE, G. et al.\n\nEnsaios. São Paulo: Abril Cultural, 1975.\nTEXTO II\n\nTeses: 1. Somente os enunciados que possuem conteúdo\nfactual são teoricamente significativos; enunciados que não\npodem, em princípio, estar fundamentados pela experiência\nsão carentes de significado. 2. As ciências empíricas usam\nsomente o conteúdo empírico da realidade. 3. A filosofia usa\num conceito não empírico da realidade.\n\nCARNAP, R. Pseudoproblemas na filosofia. In: SCHLICK, M.;\n\nCARNAP, R.; POPPER, K. Coletânea de textos.\n\nSão Paulo: Abril Cultural, 1975.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ao comparar os textos, conclui-se que eles apresentam posicionamentos filosóficos divergentes com relação ao",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estatuto epistemológico da linguagem.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "alicerce estruturante da moralidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "conteúdo essencial da metafísica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "princípio constitutivo da ontologia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "domínio reflexivo da estética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2025",
+    "index": 112,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/112/a1fec014-7950-483a-96f8-04cbb3dde690.png)\n\nGolden Rice, ou arroz dourado, é uma variedade de arroz\nenriquecida em betacaroteno, precursor da vitamina A.\nFoi desenvolvida para ajudar a combater a doença decorrente\nda deficiência dessa vitamina. Para a obtenção dessa variedade\nde arroz, foram utilizados métodos de engenharia genética.\n\nBORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia.\n\nViçosa: UFV, 2008 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/112/a1fec014-7950-483a-96f8-04cbb3dde690.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse alimento contribui para diminuir a carência associada a qual doença?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Hemofilia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Escorbuto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Raquitismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cegueira noturna.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Anemia perniciosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

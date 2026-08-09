@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2024",
+    "index": 176,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "É comum pensarmos na equivalência entre a idade\nde um animal de estimação, no caso de cães e gatos, e\nde um ser humano.\n\nDe acordo com as diretrizes de idade criadas pela\nAmerican Animal Hospital Association (AAHA), o International\nCat Care e a American Association of Feline Practitioners\n(AAFP), a última fase da vida de um gato é chamada\nde geriátrica e começa aos 15 anos de vida do animal.\nA tabela apresenta os primeiros anos da fase geriátrica da\nequivalência entre a idade do gato e a idade de um humano.\n\nIdade do gato\n\nIdade equivalente de um\n\n(ano)\n\nhumano (ano)\n\n15\n76\n\n16\n80\n\n17\n84\n\n18\n88\n\n19\n92\n\n20\n96\n\n21\n100\n\n22\n104\n\n23\n108\n\n24\n112\n\n25\n116\n\nSabe-se que o gato mais velho do mundo morreu\nao completar 38 anos de vida. Considere que o padrão\nobservado na tabela se mantém.\n\nDisponível em: https://canaldopet.ig.com.br.\n\nAcesso em: 28 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com os dados apresentados, a idade em que o gato mais velho do mundo morreu é equivalente a qual idade, em ano, de um humano?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "129",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "133",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "158",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "168",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "176",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

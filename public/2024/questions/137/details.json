@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2024",
+    "index": 137,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao calcular a média de suas notas em 4 provas, um\nestudante dividiu, por engano, a soma das notas por 5.\nCom isso, a média obtida foi 1 unidade menor do que\ndeveria ser, caso fosse calculada corretamente.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor correto da média das notas desse estudante é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "19.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "21.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

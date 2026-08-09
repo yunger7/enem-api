@@ -1,0 +1,45 @@
+{
+    "title": "Questão 56 - ENEM 2025",
+    "index": 56,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2025/questions/56/0ed3997d-172f-4a7c-9d63-08038072d675.png)\n\nPor séculos, o Rio Reno tem sido uma rota de navegação\nconfiável, ajudando a criar gigantes fabris ao longo de suas\nmargens. No entanto, esses dias parecem estar no fim, pois\no nível da água tem diminuído regularmente, o que impede a\nnavegação fluvial do final do verão até o outono. Isso mostra\ncomo a crise climática atinge as economias dos países ricos.\n\nDisponível em: www.estadao.com.br. Acesso em: 10 ago. 2023 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/56/0ed3997d-172f-4a7c-9d63-08038072d675.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o efeito econômico do problema ambiental apresentado no texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Supressão da extração de minério.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Intensificação da atividade de pesca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Encarecimento da logística de transporte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Inviabilização da agricultura de subsistência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sucateamento da indústria de transformação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

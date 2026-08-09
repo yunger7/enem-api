@@ -1,0 +1,46 @@
+{
+    "title": "Questão 134 - ENEM 2025",
+    "index": 134,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/134/b4734aaa-0ba4-42fb-998c-bb65dd163066.png)\n\nAlguns hormônios sexuais têm ganhado notável atenção nos\núltimos anos por suas concentrações cada vez maiores no solo e\nna água em todo o mundo. O motivo da preocupação é porque,\nem níveis poluentes, eles têm sido associados ao câncer de mama\ne ao câncer de próstata, além de perturbarem a fisiologia dos\npeixes, podendo, ainda, afetarem o desenvolvimento reprodutivo\nde animais domésticos e selvagens. Assim, o descarte inadequado\ndesses hormônios representa uma séria ameaça ao solo, plantas,\nrecursos hídricos e humanos. De baixa polaridade, eles apresentam\numa solubilidade pequena e variável em água, dependendo dos\ngrupos presentes em suas estruturas, representando um grande\nrisco para os ambientes aquáticos. As figuras a seguir apresentam\nas estruturas de alguns desses hormônios.\n\n![](https://enem.dev/2025/questions/134/ee2a2d22-6c12-4080-aa2f-f4a2f4bb3402.png)\n\nMUHAMMAD, A. et al. Environmental Impact of Estrogens\n\non Human, Animal and Plant Life: a Critical Review.\n\nEnvironment International, n. 99, 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/134/b4734aaa-0ba4-42fb-998c-bb65dd163066.png",
+        "https://enem.dev/2025/questions/134/ee2a2d22-6c12-4080-aa2f-f4a2f4bb3402.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estradiol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Estriol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Estrona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Novestrol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Noretindrona.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

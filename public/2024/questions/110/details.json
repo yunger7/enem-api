@@ -1,0 +1,45 @@
+{
+    "title": "Questão 110 - ENEM 2024",
+    "index": 110,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Cerrado e a Amazônia abrigam grande número de\nserpentes popularmente conhecidas como cobras-corais.\nNa Amazônia predominam as corais-verdadeiras, que\nsão peçonhentas, enquanto no Cerrado prevalecem as\nfalsas-corais, que não possuem peçonha. Essas espécies\napresentam um padrão de coloração muito semelhante.\nEssa similaridade traz uma vantagem tanto para as corais\nfalsas como para as verdadeiras.\n\nFRANÇA, F. G. R. [...] serpentes corais em ambientes\n\ncampestres, savânicos e florestais da América do Sul.\n\nBrasília: UnB, 2008 (adaptado).\n\nNas fotografias, são apresentados exemplos dessas\nserpentes: uma coral-verdadeira e uma falsa-coral.\n\n![](https://enem.dev/2024/questions/110/74ddc3cc-894e-4b0d-9e73-554f449d3e40.png)\n\nSILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo\n\neducativo para reconhecimento das cobras-corais do estado de\n\nMinas Gerais, Brasil. Herpetologia Brasileira,\n\nn. 1, 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/110/74ddc3cc-894e-4b0d-9e73-554f449d3e40.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a vantagem dessa similaridade para as falsas-corais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Facilita a captura de presas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminui a competição por recursos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Possibilita a geração de indivíduos híbridos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Reduz a possibilidade de sofrerem predação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Otimiza o encontro de parceiros reprodutivos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

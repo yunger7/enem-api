@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2024",
+    "index": 95,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O politereftalato de etileno (PET) é um polímero muito utilizado na confecção de embalagens para vários produtos\nindustriais, gerando grande quantidade de resíduos no lixo urbano. Como sua degradação é muito lenta no meio\nambiente, faz-se necessário o uso de diferentes técnicas de reciclagem desse material. O PET é bastante susceptível\nà reciclagem química, que se baseia em submeter o polímero a uma reação química, para transformá-lo em outros\ncompostos orgânicos, como exemplificado pelo esquema.\n\n![](https://enem.dev/2024-reaplicacao/questions/95/3aa2d505-f32b-428e-af59-63477fd34f02.png)\n\nPASZUN, D.; SPYCHAJ, T. Chemical Recycling of Poly (Ethylene Terephthalate). Ind. Chem. Res., n. 36, 1997.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/95/3aa2d505-f32b-428e-af59-63477fd34f02.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No esquema, o PET foi reciclado utilizando-se uma reação de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidrólise.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "eterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "esterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "neutralização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "transesterificação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

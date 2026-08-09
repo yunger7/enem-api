@@ -1,0 +1,45 @@
+{
+    "title": "Questão 167 - ENEM 2024",
+    "index": 167,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Atualmente, há telefones celulares com telas de\ndiversos tamanhos e em formatos retangulares. Alguns\n\ndeles apresentam telas medindo 3 1\n\n2\n polegadas, com\n\ndeterminadas especificações técnicas. Além disso, em\nmuitos modelos, com a inclusão de novas funções no\ncelular, suas telas ficaram maiores, sendo muito comum\n\nencontrarmos atualmente telas medindo 4 5\n\n6 polegadas,\nconforme a figura.\n\n![](https://enem.dev/2024/questions/167/fc504f36-3d48-42c4-bff1-4bb4b293fba8.png)\n\nDisponível em: www.tecmundo.com.br.\n\nAcesso em: 5 nov. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/167/fc504f36-3d48-42c4-bff1-4bb4b293fba8.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1,8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

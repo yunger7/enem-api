@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2024",
+    "index": 111,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As lhamas que vivem nas montanhas dos Andes\nda América do Sul têm hemoglobinas geneticamente\ndiferenciadas de outros mamíferos que vivem ao nível\ndo mar, por exemplo. Essa diferenciação trata-se de uma\nadaptação à sua sobrevivência em altitudes elevadas onde\no ar é rarefeito.\n\nSCHMIDT-NIELSEN, K. Fisiologia animal: adaptação\n\nao meio ambiente. São Paulo: Santos, 2002.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A adaptação desses animais em relação ao seu ambiente confere maior",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "afinidade pelo O2, maximizando a captação desse gás.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "capacidade de tamponamento, evitando alterações de pH no sangue.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "afinidade pelo CO2, facilitando seu transporte para eliminação nos pulmões.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "velocidade no transporte de gases, aumentando a eficiência de troca gasosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "solubilidade de gases no plasma, melhorando seu transporte nos tecidos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

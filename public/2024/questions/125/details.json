@@ -1,0 +1,45 @@
+{
+    "title": "Questão 125 - ENEM 2024",
+    "index": 125,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As placas que indicam saída de emergência brilham no\nescuro, pois apresentam substâncias que fosforecem na\ncor amarelo-esverdeada após exposição à luz ambiente,\nconforme a figura.\n\n![](https://enem.dev/2024/questions/125/759d5232-9351-4318-97b9-2cba9bb64e4b.png)\n\nEsse fenômeno ocorre pela presença do sulfeto de\nzinco (ZnS), dopado com prata ou cobre, na superfície\nda placa.\n\nZinc Sulphide Phosphorescence. Disponível em:\nhttps://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/125/759d5232-9351-4318-97b9-2cba9bb64e4b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O aparecimento do brilho nessas condições ocorre como consequência de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "colisões interatômicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "coloração dos átomos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "transições eletrônicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "reações nucleares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reflexão da luz.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

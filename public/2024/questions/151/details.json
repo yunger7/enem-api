@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2024",
+    "index": 151,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O arquiteto Renzo Piano exibiu a maquete da nova\nsede do Museu Whitney de Arte Americana, um prédio\nassimétrico que tem um vão aberto para a galeria principal,\ncuja medida da área é 1 672 m2.\n\nConsidere que a escala da maquete exibida é 1 : 200.\n\nÉpoca, n. 682, jun. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,18.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8,36.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "41,80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "83,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "418,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

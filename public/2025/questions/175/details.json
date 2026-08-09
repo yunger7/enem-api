@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2025",
+    "index": 175,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/175/e6abe707-68b0-4af8-ab69-9caa9e27a702.png)\n\nUm pai comprou oito presentes diferentes (dentre os\nquais, uma bicicleta e um celular) para dar a seus três filhos.\nEle pretende distribuir os presentes de modo que o filho\nmais velho e o mais novo recebam três presentes cada um,\ne o do meio receba os dois presentes restantes. O mais velho\nganhará, entre seus presentes, ou uma bicicleta ou um celular,\nmas não ambos.",
+    "files": [
+        "https://enem.dev/2025/questions/175/e6abe707-68b0-4af8-ab69-9caa9e27a702.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De quantas maneiras distintas a distribuição dos presentes pode ser feita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "53",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "300",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "360",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "560",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

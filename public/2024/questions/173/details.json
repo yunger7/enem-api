@@ -1,0 +1,45 @@
+{
+    "title": "Questão 173 - ENEM 2024",
+    "index": 173,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa tem 400 funcionários, distribuídos em\ntrês setores: administrativo, logística e produção. O gráfico\napresenta a distribuição quantitativa desses funcionários,\npor setor e por faixa etária.\n\n![](https://enem.dev/2024/questions/173/0fba04c2-bada-4bda-94a1-3630bc73adae.png)\n\nUma viagem de férias será sorteada entre esses\nfuncionários, de forma que todos terão igual probabilidade\nde serem sorteados.",
+    "files": [
+        "https://enem.dev/2024/questions/173/0fba04c2-bada-4bda-94a1-3630bc73adae.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A maior probabilidade é que o funcionário sorteado esteja na faixa etária",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

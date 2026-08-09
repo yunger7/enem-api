@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2024",
+    "index": 103,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Aquecedores solares são equipamentos utilizados para\no aquecimento de água pelo calor do Sol. São compostos\npor coletores solares, nos quais ocorre o aquecimento da\nágua, e por um reservatório térmico, em que é armazenada\na água quente para ser utilizada posteriormente. A figura\nilustra esquematicamente como funciona esse equipamento.\n\n![](https://enem.dev/2024/questions/103/d45c964b-f142-482e-8712-3409c72d8f26.png)\n\n5 dicas de instalação de aquecedor solar. Disponível em:\nhttps://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/103/d45c964b-f142-482e-8712-3409c72d8f26.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "difusão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "absorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "condução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "irradiação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convecção.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

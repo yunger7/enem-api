@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2024",
+    "index": 124,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Utilizando-se um mesmo meio nutritivo, três gêneros\nbacterianos diferentes foram submetidos ao cultivo em\ntubos de ensaio. Após certo período de crescimento da\ncultura bacteriana em condições físico-químicas ideais,\nobservou-se que o padrão de distribuição das células\n(representadas por pontos na figura) ao longo dos tubos\nera diferente em cada um dos casos.\n\n![](https://enem.dev/2024/questions/124/0177bc64-6e1a-4c0b-a8ec-be62494b3ebe.png)",
+    "files": [
+        "https://enem.dev/2024/questions/124/0177bc64-6e1a-4c0b-a8ec-be62494b3ebe.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em relação ao metabolismo energético, os microrganismos presentes nos tubos 1, 2 e 3 são classificados, respectivamente, como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

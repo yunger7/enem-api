@@ -1,4 +1,5 @@
 import z from '@/lib/zod';
+import { ApplicationQuerySchema } from '@/lib/zod/schemas/application';
 
 export const QuestionIndexPath = z.string().openapi({
     ref: 'index',
@@ -149,6 +150,7 @@ export const GetQuestionsQuerySchema = z.object({
         .optional()
         .describe('O idioma desejado das questões')
         .openapi({ example: 'ingles' }),
+    application: ApplicationQuerySchema,
 });
 
 export const GetQuestionDetailsQuerySchema = z.object({
@@ -157,4 +159,5 @@ export const GetQuestionDetailsQuerySchema = z.object({
         .optional()
         .describe('O idioma desejado da questão')
         .openapi({ example: 'ingles' }),
+    application: ApplicationQuerySchema,
 });

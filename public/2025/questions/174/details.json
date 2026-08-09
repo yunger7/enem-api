@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2025",
+    "index": 174,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/174/1ec83456-b905-47c0-8711-15e50b3bf441.png)\n\nUm carro que custa 60 mil reais é comercializado por uma\nrevendedora que oferece duas opções de pagamento, todas\nsem entrada e sem juros:\n\n•\topção 1: pagamento em n parcelas iguais;\n•\topção 2: pagamento em 6 parcelas a mais do que na\nopção 1 e, com isso, o valor de cada parcela se torna\nR$ 500,00 menor do que o valor da parcela na opção 1.\n\nNas duas opções de pagamento, o valor total a ser pago\npelo carro é o mesmo.",
+    "files": [
+        "https://enem.dev/2025/questions/174/1ec83456-b905-47c0-8711-15e50b3bf441.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é a quantidade n de parcelas contidas na opção 1 de pagamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "42",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "48",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 168 - ENEM 2025",
+    "index": 168,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/168/28c338b6-3da9-4dbf-bf51-48fe8390ccea.png)\n\nEm um país, a primeira etapa para obtenção da carteira de motorista é a contratação de três produtos:\n\n•\tpacote com 20 aulas teóricas;\n•\tpacote com 10 aulas práticas;\n•\taluguel do veículo para realização das aulas práticas.\n\nUma pessoa que pretende obter a carteira de motorista pesquisou o valor do aluguel do veículo e os valores de cada aula\nteórica e de cada aula prática em três autoescolas. O quadro apresenta esses valores.\n\nAutoescola\nValor de cada aula teórica (R$)\nValor de cada aula prática (R$)\nAluguel do veículo (R$)\n\nI\n10\n80\n400\n\nII\n30\n50\n200\n\nIII\n20\n40\n400\n\nEla contratará os três produtos numa mesma autoescola de modo que o custo total nessa primeira etapa seja o menor possível.",
+    "files": [
+        "https://enem.dev/2025/questions/168/28c338b6-3da9-4dbf-bf51-48fe8390ccea.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A autoescola que será contratada é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, com o custo total de R$ 1 400,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, com o custo total de R$ 280,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II, com o custo total de R$ 1 300,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "III, com o custo total de R$ 460,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III, com o custo total de R$ 1 200,00.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

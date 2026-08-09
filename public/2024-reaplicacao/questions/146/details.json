@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2024",
+    "index": 146,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três amigos foram a um restaurante que\nvende diferentes opções de pratos, cada um deles\ncomercializados a um mesmo valor fixo, em real. Eles\nconsumiram, juntos, R$ 16,50 em sucos e cada um pediu\nexatamente um desses pratos, sendo esses os únicos\ngastos efetuados no restaurante. O valor total da conta\nfoi de R$ 82,50, incluída nesse valor uma taxa de serviço\nde 10%, calculada sobre todos os gastos efetuados.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o preço cobrado, em real, de cada prato comercializado nesse restaurante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "19,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "19,50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "19,80",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "24,20",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

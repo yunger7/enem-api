@@ -1,0 +1,49 @@
+{
+    "title": "Questão 125 - ENEM 2024",
+    "index": 125,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Animais invertebrados que vivem em regiões de estuário, cujas águas têm grandes variações de salinidade,\napresentam estratégias que permitem adaptações a essas variações. Animais que mantêm osmolaridade interna\nrelativamente constante são chamados de osmorreguladores. Já os animais que não controlam ativamente a condição\nosmótica de seus líquidos corporais, adaptando-se à osmolaridade do ambiente, são chamados de osmoconformadores.\n\nUm pesquisador coletou animais de duas espécies de invertebrados, sendo o Animal A um osmorregulador e\no Animal B, um osmoconformador. Ambos foram submetidos, em laboratório, a ambientes aquáticos com diferentes\nosmolaridades. Em cada situação, foi medida a pressão osmótica interna tanto do Animal A como do Animal B.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/125/87570e89-fc40-4b20-aa8d-07e4d14ee288.png",
+        "https://enem.dev/2024-reaplicacao/questions/125/4511b4f4-8fd5-4283-8f77-e813045c4737.png",
+        "https://enem.dev/2024-reaplicacao/questions/125/796af152-16ed-4515-9c3a-49afcea7293e.png",
+        "https://enem.dev/2024-reaplicacao/questions/125/d296bce1-f113-437c-a3ef-f2f5e5c9a08c.png",
+        "https://enem.dev/2024-reaplicacao/questions/125/27c9e7ed-762b-4bf2-aa39-d063cab0b1d2.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gráfico que representa corretamente os dados obtidos pelo pesquisador é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/125/87570e89-fc40-4b20-aa8d-07e4d14ee288.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/125/4511b4f4-8fd5-4283-8f77-e813045c4737.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/125/796af152-16ed-4515-9c3a-49afcea7293e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/125/d296bce1-f113-437c-a3ef-f2f5e5c9a08c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/125/27c9e7ed-762b-4bf2-aa39-d063cab0b1d2.png",
+            "isCorrect": false
+        }
+    ]
+}

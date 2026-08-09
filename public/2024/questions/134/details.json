@@ -1,0 +1,45 @@
+{
+    "title": "Questão 134 - ENEM 2024",
+    "index": 134,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação\nde solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente,\nconforme representado na figura.\n\n![](https://enem.dev/2024/questions/134/7e5e86ac-de50-4528-beb4-ba692ea2e1a0.png)\n\nLUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/134/7e5e86ac-de50-4528-beb4-ba692ea2e1a0.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

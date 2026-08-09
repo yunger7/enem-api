@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2025",
+    "index": 123,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A entalpia é uma função de estado que permite obter\ninformações sobre as variações de energia, isto é, o calor\ntrocado entre o sistema e a vizinhança, à pressão constante.\nAssim, é possível saber se uma reação química libera ou absorve\ncalor. A reação entre hidrogênio e cloro gasosos, apresentada\nna equação, libera 43 kcal de energia. Consequentemente,\na variação de entalpia da reação por mol de cloreto de\nhidrogênio formado é de −21,5 kcal.\n\nH2 (g) + Cl2 (g) → 2 HCl (g)\n\nPara calcular o valor da entalpia dessa reação, um estudante\nconsultou dados tabelados sobre os reagentes utilizados e o\nproduto obtido.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esses dados são referentes ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

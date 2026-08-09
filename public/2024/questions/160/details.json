@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2024",
+    "index": 160,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma piscina tem capacidade de 2 500 000 litros.\nSeu sistema de abastecimento foi regulado para ter\numa vazão constante de 6 000 litros de água por minuto.\n\nO mesmo sistema foi instalado em uma segunda\npiscina, com capacidade de 2 750 000 litros, e regulado\npara ter uma vazão, também constante, capaz de enchê-la\nem um tempo 20% maior que o gasto para encher\na primeira piscina.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8 250.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7 920.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 545.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 500.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5 280.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

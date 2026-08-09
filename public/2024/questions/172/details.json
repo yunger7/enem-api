@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2024",
+    "index": 172,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que\npartem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros,\ne o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem\ndiferentes partes do trecho, conforme o esquema.\n\n![](https://enem.dev/2024/questions/172/b2228774-f0c3-4f19-96b6-3d08ee1412ed.png)\n\nO alcance de cada uma das cinco câmeras é:\n\n•\t câmera I: 1\n5\n do percurso;\n\n•\t câmera II: 3\n10 do percurso;\n\n•\t câmera III: 1\n10\n do percurso;\n\n•\t câmera IV: 1\n10 do percurso;\n\n•\t câmera V: 3\n10\n do percurso.\n\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de\n250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.",
+    "files": [
+        "https://enem.dev/2024/questions/172/b2228774-f0c3-4f19-96b6-3d08ee1412ed.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual câmera registra o momento em que os ônibus A e B se encontram?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V 24 . 2 k . 16 . 36 . 4 .",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

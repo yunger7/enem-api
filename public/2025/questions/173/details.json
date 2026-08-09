@@ -1,0 +1,46 @@
+{
+    "title": "Questão 173 - ENEM 2025",
+    "index": 173,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/173/9322acba-51b1-4f60-98ae-d599722d7503.png)\n\nEm uma cidade, será construído um túnel que atravessa uma\nmontanha para facilitar o trânsito de automóveis e bicicletas.\nDois projetos foram elaborados e os esquemas com as vistas\nfrontais desses projetos são apresentados na figura.\n\n![](https://enem.dev/2025/questions/173/0de21e76-ebd8-409f-aaff-48d4986e573a.png)\n\nO Projeto 1 conta com dois túneis, um exclusivo para\nbicicletas e o outro, para automóveis. O Projeto 2 conta com\num único túnel, com espaços reservados para o trânsito exclusivo\nde bicicletas e automóveis. Nos dois projetos, os túneis têm o\nformato de semicilindro reto de mesma extensão, com vias de\nida e volta para os dois tipos de veículos, separados por muretas.\n\nO projeto a ser aprovado será aquele que apresentar a\nmenor área da seção transversal, pois implicará menor volume\nde material retirado da montanha.\n\nConsidere 3 como aproximação para p e desconsidere as\nespessuras das muretas.",
+    "files": [
+        "https://enem.dev/2025/questions/173/9322acba-51b1-4f60-98ae-d599722d7503.png",
+        "https://enem.dev/2025/questions/173/0de21e76-ebd8-409f-aaff-48d4986e573a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O projeto a ser aprovado é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o 1, pois apresenta área de seção transversal medindo 67,5 m2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "o 2, pois apresenta área de seção transversal medindo 121,5 m2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o 1, pois apresenta área de seção transversal medindo 135 m2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "o 2, pois apresenta área de seção transversal medindo 243 m2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "qualquer um dos dois, pois apresentam áreas de suas seções transversais com medidas iguais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

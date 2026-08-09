@@ -1,0 +1,45 @@
+{
+    "title": "Questão 12 - ENEM 2025",
+    "index": 12,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2025/questions/12/35b4f280-0321-4bb5-a7d0-276c73de059c.png)\n\nO Ministério do Esporte no Brasil lançou o programa Maré\nInclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse\nprograma visa ampliar as oportunidades para pessoas com\ndeficiência que desejam praticar o surf. O parasurf é a prática\ndo surf adaptada para permitir que pessoas com deficiência\npratiquem o esporte em todas as suas categorias, modalidades\ne manifestações. Para a Secretaria Nacional do Paradesporto,\na iniciativa é mais do que um programa de esporte, é uma\niniciativa que busca transformar vidas e promover a inclusão por\nmeio do parasurf, criando um legado de igualdade e respeito.\n\nDisponível em: www.gov.br/esporte. Acesso em: 6 set. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/12/35b4f280-0321-4bb5-a7d0-276c73de059c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "De acordo com esse texto, o programa voltado ao estímulo da prática do parasurf evidencia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adesão de diferentes países a programas inclusivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "preocupação política em atender a demandas paralímpicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "importância de uma política pública esportiva para a inclusão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "eficiência das iniciativas de inclusão em megaeventos esportivos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "escassez de investimento em práticas corporais de aventura na natureza.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

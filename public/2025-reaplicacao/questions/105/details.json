@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2025",
+    "index": 105,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No processo de mosturação da cerveja, as enzimas presentes\nno malte degradam o amido antes da etapa de fermentação.\nA alfa-amilase atua entre 67 °C e 72 °C, degradando o malte\nem carboidratos de cadeia curta, e a beta-amilase, entre\n55 °C e 65 °C, degradando-o em carboidratos de cadeia\nlonga. Em uma etapa posterior, na fermentação alcoólica,\nas leveduras utilizam carboidratos de cadeias com até três\nátomos de carbono, preferencialmente.\n\nPALMER, J. J. How to Brew: Everything You Need to Know to Brew Beer Right\n\nthe First Time. Boulder: Brewers Publications, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Uma mosturação realizada a 68 °C resultará em um produto final com maior",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

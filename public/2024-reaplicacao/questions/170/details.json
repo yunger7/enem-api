@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2024",
+    "index": 170,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dois objetos metálicos, ambos com temperatura inicial\nigual a 10 °C, são aquecidos. Suas temperaturas, y1 e y2,\nem função do tempo t, em segundo, estão representadas\nno plano cartesiano pelas semirretas com origem no ponto\nA(0 ; 10) e que passam, respectivamente, pelos pontos\nB(20 ; 50) e C(40 ; 30). Sabe-se que, em determinado\nintervalo de tempo, a temperatura y1 aumentou 20 °C.\n\n![](https://enem.dev/2024-reaplicacao/questions/170/e38c659c-e5c3-470d-920b-494fe636f387.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/170/e38c659c-e5c3-470d-920b-494fe636f387.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse mesmo intervalo de tempo, a temperatura y2, em grau Celsius, aumentou",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2024",
+    "index": 118,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A hidroxiapatita, Ca5(PO4)3OH, é um mineral\nconstituinte do esmalte dos dentes. Entre as diversas\nreações que ocorrem no meio bucal, encontram-se em\nequilíbrio as reações de desmineralização e mineralização\nda hidroxiapatita em meio aquoso, ilustradas a seguir.\nA desmineralização está associada à fragilização do esmalte\ndo dente e à formação de cáries.\n\n5 Ca2+ (aq)\n+\n3 PO4\n3− (aq)\n+\nH2O (l)\n\nCa5(PO4)3OH (s)\n\nDesmineralização\n\n+\nH+ (aq)\n\nMineralização\n\nO uso de creme dental pode minimizar a perda da\nhidroxiapatita. O quadro apresenta o agente de polimento\ne o pH de alguns cremes dentais comerciais.\n\nCreme dental\nAgente de polimento\npH\n\nI\nBicarbonato de sódio\n9,5\n\nII\nCarbonato de cálcio\n11,0\n\nIII\nCitrato de potássio\n7,7\n\nIV\nDióxido de silício\n6,9\n\nV\nFosfato de cálcio\n7,3\n\nSTORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S.\n\nA química na odontologia. Química Nova na Escola,\n\nv. 39, fev. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

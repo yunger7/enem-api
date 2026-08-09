@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2025",
+    "index": 152,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/152/69131499-873d-4d5b-9f0e-c558217238f3.png)\n\nQuatro candidatos se apresentaram para realizar a prova de\num concurso. Antes de iniciar a prova, os celulares dos quatro\ncandidatos foram recolhidos pelo aplicador, que os guardou,\ncada um, dentro de um envelope preto. Ao término da prova,\no aplicador devolveu os quatro envelopes com os celulares aos\nquatro candidatos, de maneira aleatória, já que não havia feito\na identificação dos envelopes.",
+    "files": [
+        "https://enem.dev/2025/questions/152/69131499-873d-4d5b-9f0e-c558217238f3.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A probabilidade de que todos os candidatos tenham recebido de volta os envelopes com os seus respectivos celulares é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

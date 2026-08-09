@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2024",
+    "index": 117,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Aquecedores elétricos utilizam resistência de fio,\nsuportando uma corrente máxima dimensionada pelo\nfabricante. O dimensionamento original do circuito elétrico\nde um aquecedor, esquematizado na figura, foi utilizado\npara provocar a elevação de temperatura em um volume\nde água, durante um determinado intervalo de tempo.\n\n![](https://enem.dev/2024-reaplicacao/questions/117/a7094a45-2ed4-4a8e-b87d-4e527d52c2d1.png)\n\nCaso se pretenda utilizar uma tensão de 250 V,\no circuito precisará ser redimensionado, para garantir o\ncorreto funcionamento do aquecedor. A corrente deve\nser mantida, considerando-se o aquecimento do mesmo\nvolume de água, à mesma temperatura, durante o mesmo\nintervalo de tempo.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/117/a7094a45-2ed4-4a8e-b87d-4e527d52c2d1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nesse redimensionamento, deve-se acrescentar ao circuito um resistor de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22,5 Ω em paralelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "22,5 Ω em série.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "71,1 Ω em paralelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "71,1 Ω em série.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "101,1 Ω em paralelo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

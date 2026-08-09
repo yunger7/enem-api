@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2024",
+    "index": 152,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A pressão sonora (P), medida em newton por metro quadrado (N/m²), e o nível dessa pressão sonora (n), medido\nem decibel (dB), se relacionam mediante a expressão\n\nn\nP\nP\n\n0\nlog\n,\n\n\u001a\n\u0019\n20\n\nsendo P0 = 2 × 10–5 N/m2 uma constante, denominada limiar de percepção do ouvido humano.\n\nDurante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som\nautomotivo ligado, atingiu um nível de pressão sonora de 80 dB.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A pressão sonora, em newton por metro quadrado, proveniente desse ruído foi igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8 × 10−5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 × 10−2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 × 10−1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1 × 103",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 × 109 \u001b",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

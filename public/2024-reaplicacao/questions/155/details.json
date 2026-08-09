@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2024",
+    "index": 155,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa com 425 funcionários resolve sortear,\nnuma festa comemorativa, uma bicicleta entre os\nfuncionários que têm filhos. Dos seus 425 funcionários,\n68 não têm filhos, 153 têm um filho, 119 têm dois filhos e\no restante tem mais de dois filhos. Cartões, com um único\nnúmero impresso, serão distribuídos a funcionários que\ntêm, pelo menos, um filho. Cada funcionário receberá, no\nmáximo, um desses cartões.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A probabilidade de a bicicleta ser sorteada para um funcionário que tenha exatamente dois filhos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "357",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "238",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "119",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "119 E 1 119",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

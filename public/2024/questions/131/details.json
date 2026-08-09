@@ -1,0 +1,50 @@
+{
+    "title": "Questão 131 - ENEM 2024",
+    "index": 131,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O LED é um dispositivo eletrônico que conduz corrente\nelétrica em um único sentido, sendo caracterizado por uma\ntensão e uma corrente máxima de funcionamento, Imáx. Um LED\nacende apenas se a corrente que o percorre está no sentido\npermitido e se a diferença de potencial à qual está submetido\né igual ou superior à sua tensão de funcionamento. A figura\nilustra o símbolo do LED usado na representação de circuitos.\n\n![](https://enem.dev/2024/questions/131/b1c4c3fa-4ad0-44dd-86d2-f9a23ebc7988.png)\n\nUm estudante de física analisa as propriedades do LED\nem um circuito simples de corrente contínua. Ele dispõe dos\nseguintes materiais: uma bateria ideal de 4,5 V; dois LEDs\nde tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de\n1,5 kΩ cada.",
+    "files": [
+        "https://enem.dev/2024/questions/131/b1c4c3fa-4ad0-44dd-86d2-f9a23ebc7988.png",
+        "https://enem.dev/2024/questions/131/29d99609-2c9d-43fe-9237-7b4703100127.png",
+        "https://enem.dev/2024/questions/131/7a598a86-d09f-4da2-8ea0-bc9f5ce8a513.png",
+        "https://enem.dev/2024/questions/131/3bf00023-f75c-4c64-9fc4-e4d55071be68.png",
+        "https://enem.dev/2024/questions/131/86c65a6e-07a8-464d-8cdb-f2a9252e8766.png",
+        "https://enem.dev/2024/questions/131/69a20b9f-e3c6-4000-9340-03278b00f7cb.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por Imáx, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/131/29d99609-2c9d-43fe-9237-7b4703100127.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/131/7a598a86-d09f-4da2-8ea0-bc9f5ce8a513.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/131/3bf00023-f75c-4c64-9fc4-e4d55071be68.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/131/86c65a6e-07a8-464d-8cdb-f2a9252e8766.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/131/69a20b9f-e3c6-4000-9340-03278b00f7cb.png",
+            "isCorrect": false
+        }
+    ]
+}

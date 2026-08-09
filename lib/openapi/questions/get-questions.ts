@@ -10,7 +10,9 @@ import { openApiErrorResponses } from '@/lib/openapi/responses';
 export const getQuestions: ZodOpenApiOperationObject = {
     operationId: 'getQuestions',
     summary: 'Listar questões',
-    description: 'Listar questões de uma prova por seu ano',
+    description:
+        'Listar questões de uma prova por seu ano. Use application=reaplicacao ' +
+            'para as questões da reaplicação.',
     requestParams: {
         path: z.object({
             year: ExamYearPath,

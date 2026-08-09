@@ -1,0 +1,43 @@
+{
+    "title": "Questão 41 - ENEM 2024",
+    "index": 41,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O Brasil somou cerca de 60 mil novos casos de câncer\nde mama até o final de 2019, número que corresponde a\n25% de todos os diagnósticos da condição registrados no\npaís, segundo dados do Instituto Nacional do Câncer (Inca).\nApesar de o Outubro Rosa ser o mês de conscientização\nsobre a questão voltada para as mulheres, é muito importante\nlembrar que um dos grandes mitos da medicina é o de que\no câncer de mama não afeta o sexo masculino.\nFatores importantes para detectar o câncer de mama\nmasculino:\n\n1.\t\u0007  \u0007Genética: se houver casos na família, as chances são\num pouco mais elevadas.\n2.\t\u0007  \u0007Hormônios: homens podem desenvolver tecido real das\nglândulas mamárias por tomarem certos medicamentos\nou apresentarem níveis hormonais anormais.\n3.\t\u0007  \u0007Caroços: é necessário que os médicos se atentem a\nalguns sintomas suspeitos, como um caroço na área\ndo tórax.\n4.\t\u0007  \u0007Retração na pele: em situações mais graves do câncer\nde mama masculino, é possível também ocorrer uma\nretração do mamilo.\n\nDisponível em: https://pebmed.com.br.\n\nAcesso em: 24 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As informações dessa reportagem auxiliam no combate ao câncer de mama masculino por apresentarem um alerta sobre o(s)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sinais indicadores da doença.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "índice de crescimento de casos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "exames para diagnóstico do tumor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mitos a respeito da herança genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "período de campanhas de conscientização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 152 - ENEM 2025",
+    "index": 152,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo de computador, uma nave só pode se localizar\nem um dos vértices de um cubo com posição fixada na tela.\nA partir de um vértice, a nave só pode se deslocar para outro\nvértice que não lhe seja adjacente. A figura exemplifica algumas\npossibilidades de deslocamento da nave quando ela está\nposicionada no vértice V.\n\n![](https://enem.dev/2025-reaplicacao/questions/152/3a679861-3277-4d68-a7ee-83d09af6be5f.png)",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/152/3a679861-3277-4d68-a7ee-83d09af6be5f.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número total de deslocamentos distintos que podem ser observados nesse jogo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

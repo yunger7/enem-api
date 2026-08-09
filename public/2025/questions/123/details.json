@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2025",
+    "index": 123,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/123/a8dcb107-546c-4e3b-bd0c-503c539cde18.png)\n\nPlantas e algas realizam fotossíntese oxigênica para\nsíntese de matéria orgânica e, para isso, utilizam trifosfato de\nadenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato\nreduzido (NADPH). Já algumas bactérias fotossintetizantes\nnão apresentam cloroplasto e clorofila, mas um pigmento\ndenominado bacterioclorofila. Esses procariotos realizam a\nfotossíntese anoxigênica, um processo de síntese de matéria\norgânica utilizando o gás carbônico (CO2) e o gás sulfídrico (H2S).",
+    "files": [
+        "https://enem.dev/2025/questions/123/a8dcb107-546c-4e3b-bd0c-503c539cde18.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na fotossíntese oxigênica, qual composto desempenha função análoga à do H2S?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ATP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "NADPH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Clorofila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2024",
+    "index": 101,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Após realizar uma inspeção veicular, um cidadão descobre\nque seu automóvel a gasolina emite anualmente 3 000 kg de\nCO2 (massa molar 44 g mol−1). Pensando em compensar\nesse impacto, resolveu plantar árvores nativas do Brasil\neficientes na fixação de carbono (massa molar 12 g mol−1).\nAo pesquisar espécies nativas para esse fim, encontrou\nos seguintes dados para a espécie angico-branco: i) cada\n1 000 m2 de plantação dessa árvore correspondem a uma\nmassa arbórea de 3 520 kg; ii) sua massa arbórea contém\n50% de carbono; e iii) apresenta boa adaptação à região.\n\nDisponível em: www.cnpf.embrapa.br.\n\nAcesso em: 12 out. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A menor área que o cidadão deve utilizar para a plantação de angico-branco, visando compensar as emissões de CO2, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "230 m2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "465 m2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "850 m2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 700 m2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 000 m2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

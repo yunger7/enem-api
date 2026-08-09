@@ -1,0 +1,43 @@
+{
+    "title": "Questão 92 - ENEM 2025",
+    "index": 92,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A datação por decaimento radioativo é utilizada para determinar a idade de objetos encontrados em expedições arqueológicas e\nantropológicas. A quantidade de material radioativo nesses objetos geralmente é muito pequena, mas o desenvolvimento tecnológico\ntem permitido aplicar essa técnica com isótopos como o potássio 40\n\n19K. A técnica se baseia no tempo de meia-vida, definido como\no tempo necessário para que a concentração do elemento se reduza à metade de sua concentração inicial. A determinação da\nidade só pode ser feita por esse método porque, no processo de decaimento radioativo, o tempo de meia-vida não depende\nda concentração inicial do elemento.\n\nA tabela a seguir apresenta a idade de um objeto estimada pela relação entre a proporção da concentração de potássio\nradioativo (40\n\n19K) e seus produtos de decaimento radioativo.\n\nConcentração de 40\n\n19K : concentração\ndo material proveniente de\n\ndecaimento radioativo\n\n1 : 0\n0\n1 : 1\n1,3 × 109\n\n1 : 3\n2,6 × 109\n\n1 : 7\n3,9 × 109\n\n1 : 19\n1,7 × 1010\n\n1 : 40\n2,1 × 1010\n\nUma amostra de granito analisada apresentou 2,5 g de 40\n\n19K e 17,5 g de seus produtos de decaimento radioativo.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A idade estimada, em ano, para essa amostra de granito é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

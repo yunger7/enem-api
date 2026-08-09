@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2025",
+    "index": 150,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/150/25f04a59-0ea0-4fe8-a08a-ddd4a13310ad.png)\n\nUma fábrica de tijolos ecológicos com 3 funcionários,\ncada um trabalhando 6 horas diárias, produz 720 unidades\npor dia. Para atender ao crescimento da demanda por esse\ntipo de tijolo, essa fábrica passou a ter 5 funcionários, cada um\ntrabalhando 9 horas por dia, aumentando, assim, sua capacidade\nde produção. Todos os funcionários produzem igual quantidade\nde tijolos a cada hora, independentemente de trabalharem\n6 ou 9 horas diárias.",
+    "files": [
+        "https://enem.dev/2025/questions/150/25f04a59-0ea0-4fe8-a08a-ddd4a13310ad.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O número de tijolos fabricados diariamente após o aumento da capacidade de produção é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "800.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 080.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 200.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 800.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2 520.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

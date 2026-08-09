@@ -12,7 +12,7 @@ export async function getStats() {
     let totalQuestions = 0;
 
     for (const exam of exams) {
-        const examDetails = await getExamDetails(exam.year);
+        const examDetails = await getExamDetails({ year: exam.year });
 
         totalQuestions += examDetails?.questions.length || 0;
     }

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2024",
+    "index": 92,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2024-reaplicacao/questions/92/1fbd95ed-0231-44cd-a835-acac084a8041.png)\n\nNas últimas décadas, a população dos centros urbanos tem requerido a pavimentação das vias públicas, visando\no aumento do conforto e a minimização do desgaste de veículos. No entanto, essa melhoria da qualidade de vida pode\ntrazer implicações ao meio ambiente. A impermeabilização impede a infiltração de água no solo, sendo carreados,\nportanto, todos os dejetos e impurezas para os cursos de água.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/92/1fbd95ed-0231-44cd-a835-acac084a8041.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual ação poderia mitigar os efeitos danosos da contaminação dos cursos de água em virtude da impermeabilização das vias públicas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reciclar o lixo doméstico seco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Incentivar a construção de fossas sépticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Difundir o uso de vasos de plantas nas vias públicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promover a construção de parques e espaços arborizados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Propor políticas de expansão da canalização das redes fluviais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

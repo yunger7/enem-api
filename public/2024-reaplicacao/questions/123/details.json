@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2024",
+    "index": 123,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "É comum o álcool ser mencionado como combustível\necologicamente correto, pois, durante sua queima,\no ciclo biogeoquímico do carbono apresenta balanço\nde massa igual a zero. No entanto, o processo de\nprodução da cana-de-açúcar, matéria-prima empregada\nna indústria sucroalcooleira, faz uso de adubação para\nmelhorar a fertilidade do solo e aumentar a produção.\nDentre os principais nutrientes (nitrogênio, fósforo\ne potássio) que possuem balanço positivo no ciclo\nbiogeoquímico, o nitrogênio é um que merece mais\natenção ambiental. Sabe-se que boa parte do nitrogênio\nativo desses fertilizantes encontra-se na forma dos\níons NH4\n\n−. Por intemperismo e percolação,\nesses compostos lixiviam para o solo, contaminando\nrios e lagos.\n\n+ e NO3\n\nCARDOSO, A. A.; MACHADO, C. M. D.; PEREIRA, E. A.\n\nBiocombustível, o mito do combustível limpo.\nQuímica Nova na Escola, n. 28, maio 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O método de adubação mencionado tem como uma de suas consequências a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "elevação da alcalinidade das águas naturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução de nutrientes disponíveis, que afeta a vida aquática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "proliferação de grandes quantidades de algas nos cursos d’água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "retenção de íons nitrato e amônio nos solos, que diminui suas solubilidades.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "multiplicação de espécies nativas, que mantém o equilíbrio trófico do ecossistema natural.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

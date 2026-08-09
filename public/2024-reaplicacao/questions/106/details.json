@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2024",
+    "index": 106,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A hipertensão arterial é um problema de saúde que\nse agrava pelo crescente consumo de sal rico em sódio.\nO consumo máximo diário recomendado pelo Ministério da\nSaúde é de, aproximadamente, 5 g de NaCl. No entanto,\nos brasileiros consomem em média 12 g desse sal por dia.\nPor isso, a indústria lançou no mercado o chamado sal\nlight, que apresenta um teor reduzido de cloreto de sódio.\nSua composição é cerca de 50% de NaCl e 50% de KCl,\nem massa.\n\nMassas molares:\n\nNa = 23 g\n\nmol; Cl = 35,5 g\n\nmol; K = 39 g\n\nmol\n\nPesquisa de orçamentos familiares: análise do consumo alimentar\n\npessoal no Brasil. Disponível em: www.biblioteca.ibge.gov.br.\n\nAcesso em: 27 nov. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Ainda que os brasileiros consumam apenas sal light, a massa de sódio ingerida em excesso será mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,4 g.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1,0 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,4 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,8 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,5 g.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2024",
+    "index": 177,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa produz mochilas escolares sob\nencomenda. Essa empresa tem um custo total de produção,\ncomposto por um custo fixo, que não depende do número\nde mochilas, mais um custo variável, que é proporcional\nao número de mochilas produzidas. O custo total cresce\nde forma linear, e a tabela apresenta esse custo para três\nquantidades de mochilas produzidas.\n\nQuantidade de\n\nmochilas\n30\n50\n100\n\nCusto total (R$)\n1 050,00\n1 650,00\n3 150,00",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O custo total, em real, para a produção de 80 mochilas será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 400,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 520,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 550,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 700,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 800,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

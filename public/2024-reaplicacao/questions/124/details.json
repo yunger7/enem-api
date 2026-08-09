@@ -1,0 +1,45 @@
+{
+    "title": "Questão 124 - ENEM 2024",
+    "index": 124,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A transferência de calor por radiação pode ser\nobservada realizando-se a experiência de colocar a\nmesma quantidade de água quente em dois copos\nmetálicos com as mesmas características, sendo que a\nsuperfície externa de um deles é pintada de preto (copo 1),\ne a do outro é espelhada (copo 2). Sabe-se que todo\nmaterial emite e absorve energia radiante e que bons\nemissores são também bons absorvedores dessa energia.\n\n![](https://enem.dev/2024-reaplicacao/questions/124/71fca6be-cf30-4814-85d2-c21d2931165b.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/124/71fca6be-cf30-4814-85d2-c21d2931165b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao se colocar um termômetro dentro de cada copo observa-se, após alguns minutos, que a temperatura da água",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dos dois copos diminui igualmente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do copo 1 diminui, e a do copo 2 permanece a mesma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do copo 2 diminui, e a do copo 1 permanece a mesma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do copo 1 diminui mais rapidamente do que a do copo 2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "do copo 2 diminui mais rapidamente do que a do copo 1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

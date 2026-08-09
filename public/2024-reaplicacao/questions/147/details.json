@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2024",
+    "index": 147,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantos metros quadrados a equipe II construiu a mais do que a equipe I?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "144",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "180",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "204",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "240",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "276",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

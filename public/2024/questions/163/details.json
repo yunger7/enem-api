@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2024",
+    "index": 163,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um sistema de polias circulares e correias é um dos\nmecanismos responsáveis pela transmissão de movimento\nem máquinas rotativas. O manual de um motor traz uma\nfigura representando um sistema composto por duas polias\ne uma correia de transmissão, tensionada e perfeitamente\najustada sobre as polias, de modo a não apresentar folgas\nnos contatos com as polias. Considere que as partes\ndessa correia que não ficam em contato com as polias são\nrepresentadas por segmentos de reta tangentes às polias.\n\n![](https://enem.dev/2024/questions/163/7beef4de-3450-47ba-aa0a-d6215d1ac523.png)\n\nPara substituição dessa correia, é necessária a\nespecificação de seu comprimento.\n\nConsidere 3 como valor aproximado para π.",
+    "files": [
+        "https://enem.dev/2024/questions/163/7beef4de-3450-47ba-aa0a-d6215d1ac523.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A medida do comprimento dessa correia, em centímetro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "54.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "66.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "68.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "72.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

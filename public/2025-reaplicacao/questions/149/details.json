@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2025",
+    "index": 149,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O proprietário de um terreno retangular, de dimensões\n60 m × 70 m, pretende construir uma cerca de arame farpado\ndando cinco voltas de fio ao redor desse terreno. O arame a\nser utilizado é vendido em rolos de dois tipos, com preços e\nmetragens diferentes:\n\n• tipo I: R$ 300,00 por um rolo de 100 metros;\n• tipo II: R$ 440,00 por um rolo de 150 metros.\n\nEsse proprietário comprará a quantidade mínima de rolos\nde um mesmo tipo, de modo a obter o menor custo total com\narame farpado.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para isso, ele comprará rolos do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2025",
+    "index": 138,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma palestra, um veterinário apresentou a evolução\ndo rebanho bovino de dois produtores que possuem, cada\num, 100 bovinos. O produtor 1 utiliza o procedimento de\ninseminação artificial, enquanto o produtor 2 não utiliza esse\nprocedimento, sendo p1(t) e p2(t) os números de animais dos\nrebanhos desses dois produtores, respectivamente, depois de\nt semanas. Ambos os rebanhos apresentaram crescimento\nlinear, conforme representado no gráfico.\n\n![](https://enem.dev/2025-reaplicacao/questions/138/9faffd61-bee7-407e-b7a0-1ded56153bb2.png)\n\nPara comparar o crescimento populacional desses dois\nrebanhos, o veterinário calculou a razão entre as taxas de variação\ndas funções que descrevem a evolução do número de animais do\nrebanho do produtor 1 e do rebanho do produtor 2, nessa ordem.",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/138/9faffd61-bee7-407e-b7a0-1ded56153bb2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O valor dessa razão calculada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2024",
+    "index": 91,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Tendo em vista a necessidade de economia de energia elétrica, os climatizadores de ar surgem como uma\nalternativa econômica. Esses dispositivos utilizam a evaporação da água como método de troca de calor, conforme\nesquematizado na figura.\n\n![](https://enem.dev/2024-reaplicacao/questions/91/98f6e1ef-beef-4ace-9e33-f70a3281ac4c.png)\n\nO ar externo (quente) é aspirado para o interior do painel evaporativo e, em contato com a água fria, tem sua\ntemperatura diminuída. Umidificado e mais frio, o ar é empurrado pelo ventilador ao ambiente interno. Quanto maior\né a redução de temperatura produzida pelo climatizador, maior é a sua eficiência. A Tabela 1 apresenta a redução\nde temperatura produzida por um desses aparelhos, em função da temperatura de entrada do ar e de sua umidade\nrelativa (UR) percentual; enquanto a Tabela 2 apresenta os valores médios de temperatura (T) e os valores da UR do\nar de cinco cidades brasileiras, no mês de setembro.\n\nTabela 1\n\nTemperatura de entrada do ar (°C)\n25,5\n26,0\n26,5\n27,0\n27,5\n28,0\n28,5\n\nUmidade relativa do ar (%)\nRedução de temperatura produzida\n\n30 a 39\n8,6\n8,7\n8,8\n9,0\n9,1\n9,2\n9,4\n\n40 a 49\n7,1\n7,2\n7,3\n7,4\n7,5\n7,6\n7,8\n\n50 a 59\n5,6\n5,7\n5,8\n5,9\n6,0\n6,1\n6,2\n\n60 a 69\n4,5\n4,6\n4,6\n4,7\n4,7\n4,8\n4,8\n\n70 a 80\n2,5\n2,5\n2,5\n2,5\n2,6\n2,6\n2,6\n\nTabela 2\n\nCidade\nT (°C)\nUR (%)\n\nBarbalha (CE)\n26,0\n58\n\nBelém (PA)\n27,5\n75\n\nCáceres (MT)\n28,5\n51\n\nCorumbá (MS)\n27,0\n52\n\nJanaúba (MG)\n25,5\n40\n\nDisponível em: https://pt.climate-data.org.; www.brizztech.com.br. Acesso em: 25 nov. 2021(adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/91/98f6e1ef-beef-4ace-9e33-f70a3281ac4c.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando os dados apresentados para o mês de setembro, em qual destas cidades o climatizador de ar é mais eficiente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Barbalha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Belém.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cáceres.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Corumbá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Janaúba.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

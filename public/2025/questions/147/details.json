@@ -1,0 +1,46 @@
+{
+    "title": "Questão 147 - ENEM 2025",
+    "index": 147,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/147/0955e113-5216-42f6-84c2-c4a0f68c0aa7.png)\n\nUma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual\ndas matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.\n\n![](https://enem.dev/2025/questions/147/5aa9bce1-021d-425e-8560-1b8f16497495.png)\n\nPara planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição\npercentual das matrículas, por idioma, será igual à registrada em 2023.",
+    "files": [
+        "https://enem.dev/2025/questions/147/0955e113-5216-42f6-84c2-c4a0f68c0aa7.png",
+        "https://enem.dev/2025/questions/147/5aa9bce1-021d-425e-8560-1b8f16497495.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "22.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "40.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

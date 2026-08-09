@@ -1,0 +1,46 @@
+{
+    "title": "Questão 154 - ENEM 2025",
+    "index": 154,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/154/0362c43f-c6b5-48f7-aec4-bdccbacb271b.png)\n\nUma livraria comercializa livros dos seguintes gêneros\nliterários: ficção científica, autoajuda, romance e biografia.\nO gráfico apresenta o estoque dos livros que essa livraria tem,\npor gênero literário e por nacionalidade do autor, bem como a\ndemanda por gênero literário, obtida por meio de uma enquete\nfeita com seus clientes habituais.\n\nEstoque e demanda por livros\n\n![](https://enem.dev/2025/questions/154/9967977b-167a-4301-8f30-2c2de6819cfa.png)\n\nO gerente da livraria fará a encomenda de novos exemplares\nsomente do gênero cuja quantidade em estoque seja insuficiente\npara atender a demanda constatada pela enquete.",
+    "files": [
+        "https://enem.dev/2025/questions/154/0362c43f-c6b5-48f7-aec4-bdccbacb271b.png",
+        "https://enem.dev/2025/questions/154/9967977b-167a-4301-8f30-2c2de6819cfa.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gênero de livro do qual o gerente deverá encomendar mais exemplares é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ficção, pois é o que apresenta maior demanda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "biografia, pois é o gênero que tem a menor demanda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "autoajuda, pois a quantidade em estoque é inferior à demanda.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "biografia, pois é o gênero que tem a menor quantidade de livros em estoque.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "romance, pois é o que apresenta o menor estoque de livros de autores brasileiros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

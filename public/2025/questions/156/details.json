@@ -1,0 +1,46 @@
+{
+    "title": "Questão 156 - ENEM 2025",
+    "index": 156,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/156/6a4b54b1-b51d-47fa-b48b-cfe8d09ce00b.png)\n\nUm artista, que costuma fazer desenhos com areia na\npraia, pediu a um banhista que fizesse um pequeno desenho,\nque serviria de esboço para uma grande obra de arte a ser\nfeita na areia. Esse desenho está representado na figura.\n\n![](https://enem.dev/2025/questions/156/68ef4f57-8bd1-4026-8b81-b31309b7a07f.png)\n\nApós a conclusão, a obra de arte obtida manteve as mesmas\nproporções do desenho feito pelo banhista, sendo que as\nmedidas indicadas na figura foram ampliadas para 30 m.",
+    "files": [
+        "https://enem.dev/2025/questions/156/6a4b54b1-b51d-47fa-b48b-cfe8d09ce00b.png",
+        "https://enem.dev/2025/questions/156/68ef4f57-8bd1-4026-8b81-b31309b7a07f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em qual escala esse desenho representa a obra de arte?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 2,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 150",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

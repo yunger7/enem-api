@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2024",
+    "index": 122,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pisaster ochraceus é uma espécie de estrela-do-mar\nque ocorre em comunidades da zona entremarés da América\ndo Norte Ocidental. Seu principal alimento são moluscos da\nespécie Mytilus californianus. Esse molusco, por sua vez,\né dominante e compete por espaço com muitos outros\ninvertebrados e até algas. Pesquisadores estudam as\nrelações ecológicas nesse ambiente desde a década\nde 1960, com o objetivo de entender a dinâmica dessas\ncomunidades. Alguns dados são apresentados no gráfico.\n\n![](https://enem.dev/2024-reaplicacao/questions/122/17c9b215-f137-4cb6-8f57-4ad4e3f49645.png)\n\nCAMPBELL, N. et al. Biologia. São Paulo:\n\nArtmed, 2010 (adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/122/17c9b215-f137-4cb6-8f57-4ad4e3f49645.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A presença de Pisaster influencia a diversidade de espécies, nesse ecossistema, porque esses animais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fragmentam hábitats, formando novos espaços de colonização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "servem de presa, aumentando a competição entre as outras espécies.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "isolam geograficamente as populações, reduzindo a taxa de especiação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuem o número de moluscos, reduzindo a competição destes com outros seres.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "liberam substâncias inibidoras de outros organismos, favorecendo o aumento da população de moluscos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

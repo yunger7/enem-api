@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2024",
+    "index": 177,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na planta baixa de uma casa, um quarto retangular,\ncuja área é de 24 m2, está representado por um retângulo\ncom lados medindo 0,10 m e 0,15 m.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A escala dessa planta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 24.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 : 40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1 : 60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 1 600.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 16 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

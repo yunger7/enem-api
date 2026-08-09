@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2025",
+    "index": 126,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "o lado sombrio da luz\n\nA poluição luminosa causa malefícios para diversos seres vivos, como os vaga-lumes, insetos que emitem a própria luz como\nsinal para corte, afugentar predadores e até para predar outros insetos. Em situação hipotética, num campo de futebol, ao redor\nde um holofote, foram alocadas cinco populações de diferentes espécies de vaga-lumes, posicionadas de forma equidistante a\n20 m da fonte luminosa. Verificou-se que cada espécie era afetada de forma distinta pela intensidade luminosa, e a sua dinâmica\npopulacional foi verificada pelo período de um ano, sendo a população inicial de todas as espécies de 2 000 indivíduos, conforme\napresentado na tabela.\n\nespécie de\nvaga-lume\n\nFator afetado\n\ntaxa de\nnatalidade\n\npela luz\n\n1\nDefesa\n400\n1 000\n100\n200\n\n2\nComunicação\n300\n400\n200\n700\n\n3\nAlimentação\n300\n900\n70\n160\n\n4\nReprodução\n100\n300\n100\n200\n\n5\nLocalização\n300\n750\n200\n650",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual espécie de vaga-lume foi mais afetada pela poluição luminosa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

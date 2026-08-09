@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2025",
+    "index": 142,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/142/6390e713-1129-48e4-ad59-77e69b581333.png)\n\nUma empresa de tecnologia vai padronizar a velocidade de\nconexão de internet que oferece a seus clientes em dez cidades.\nA direção da empresa decide que seu novo padrão de velocidade de\nreferência será a mediana dos valores das velocidades de referência\nde conexões nessas dez cidades. Esses valores, em megabyte\npor segundo (MB/s), são apresentados no quadro.\n\nCidades\nVelocidade de referência (MB/s)\n\nC1\n390\n\nC2\n380\n\nC3\n320\n\nC4\n390\n\nC5\n340\n\nC6\n380\n\nC7\n390\n\nC8\n400\n\nC9\n350\n\nC10\n360",
+    "files": [
+        "https://enem.dev/2025/questions/142/6390e713-1129-48e4-ad59-77e69b581333.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A velocidade de referência, em megabyte por segundo, a ser adotada por essa empresa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "360.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "370.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "380.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "390.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "400.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

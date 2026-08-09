@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2025",
+    "index": 142,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Por causa da escassez de água, a companhia de\nabastecimento de um município adotou uma medida de\ncontenção de consumo. A medida consiste em calcular o\nacréscimo de consumo de água em um dos meses desse ano,\nem relação ao volume de água consumida no mesmo mês do\nano anterior, para determinar o aumento a ser implementado\nna conta. Em função da faixa em que esse acréscimo de\nconsumo se enquadrar, aplicam-se diferentes percentuais de\naumento ao valor mensal a ser pago, em real. Para acréscimos\nde consumo de até 20%, o aumento no valor mensal da conta\né de 50%, e para acréscimos de consumo superiores a 20%,\no aumento no valor mensal da conta é de 100%.\n\nUma família, em determinado mês desse ano, consumiu\n25% a mais de água em comparação ao consumo do mesmo\nmês do ano anterior. Com isso, o valor da conta de água dessa\nfamília seria de R$ 120,00, caso a companhia não estivesse\nadotando a medida de contenção de consumo.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é o valor a ser pago, em real, por essa família no referido mês com a aplicação de medida de contenção de consumo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

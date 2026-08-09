@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2025",
+    "index": 175,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pretende-se utilizar uma bomba de combustível para abastecer, simultaneamente, duas aeronaves (A1 e A2), usando para\nisso vazões σ1 > 0 e σ2 > 0, respectivamente. A aeronave A2 tem um volume de 100 litros de combustível antes do início do\nabastecimento, mas A1 está sem combustível. Portanto, passados t segundos a partir do início do abastecimento, os volumes\nde combustível nas aeronaves são dados por V1 = σ1t e V2 = σ2t + 100. A vazão σ1 é ajustável, mas a vazão σ2 deve ser mantida\na um valor fixo de 2 litros por segundo, conforme especificado pelo fabricante de A2. O abastecimento das duas aeronaves se\ninicia no mesmo instante, e o operador da bomba foi orientado para programá-la de modo que A1 e A2 tenham o mesmo volume\nVT de combustível após 10 minutos de abastecimento.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Após ser ajustada, a vazão σ1, em termos do volume VT, é expressa por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

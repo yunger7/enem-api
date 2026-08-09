@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2024",
+    "index": 91,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Muitas pessoas ainda se espantam com o fato de um\npassageiro sair ileso de um acidente de carro enquanto\no veículo onde estava teve perda total. Essas pessoas\ntalvez considerem, equivocadamente, que os carros mais\nseguros são os que têm as estruturas mais rígidas, ou seja,\nestruturas, que durante uma colisão, apresentam menor\ndeformação. Na verdade, o que ocorre é o contrário. Por isso,\na partir de 1958, passaram a ser produzidos carros com partes\nque se deformam facilmente.\n\nDAY, C. Crumple Zones. Disponível em: https://pubs.aip.org.\n\nAcesso em: 2 jul. 2024 (adaptado).\n\nAssim, além dos cintos de segurança e dos airbags,\nos carros modernos passaram a contar com o dispositivo\nde segurança conhecido como crumple zone (região\ndeformável, em inglês), conforme a figura.\n\n![](https://enem.dev/2024/questions/91/f6852f11-5177-4f1f-b373-f4cc06e20395.png)\n\nMomentum and Car safety. GCSE Physics Revision.\n\nDisponível em: www.shalom-education.com.\n\nAcesso em: 5 jul. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/91/f6852f11-5177-4f1f-b373-f4cc06e20395.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando o carro, seus ocupantes e o muro da figura como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aciona os airbags do veículo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "absorve a energia cinética do sistema.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "consome a quantidade de movimento do sistema.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cria uma barreira de proteção para seus ocupantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminui a velocidade do centro de massa do sistema.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

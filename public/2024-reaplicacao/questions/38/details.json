@@ -1,0 +1,43 @@
+{
+    "title": "Questão 38 - ENEM 2024",
+    "index": 38,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Um ano depois de ter sido criado, o ChatGPT,\n\nferramenta capaz de produzir textos em\n\nqualquer área, generalizou-se, gerando\ndúvidas sobre autoria de teses e trabalhos\n\nUm professor da Faculdade de Letras de uma\nuniversidade em Portugal pediu um trabalho acadêmico\na uma turma de 50 alunos do 1º ano. Quando começou\na corrigi-los, notou algo estranho: nenhum dos trabalhos\ncontinha um único erro ortográfico ou gramatical, coisa nunca\nantes vista. E as frases eram curtas e diretas, sem orações\nintercalares, um estilo típico do inglês, mas pouco frequente\nna escrita portuguesa. Independentemente do conteúdo e\ndo tema, que variava, a estrutura era praticamente igual\nem todos. Especialista em linguística forense, o docente\nrapidamente concluiu: “esses textos não foram escritos\npor humanos”.\n\nO professor tinha conversado com os alunos sobre o\nChatGPT e tinha deixado claro que a ferramenta poderia\nser utilizada, mas não para a execução integral dos textos.\n\nA utilização do ChatGPT abriu um debate em todo\no mundo por apresentar riscos e possibilidades de uso\nindevido. Foram várias as escolas e outros estabelecimentos\nde ensino que adotaram ferramentas que permitem detectar\nas tendências do programa.\n\nDisponível em: https://expresso.pt.\n\nAcesso em: 24 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com esse texto, o uso de uma ferramenta da inteligência artificial em contexto acadêmico revela um impacto de natureza",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "colaborativa, por fomentar o intercâmbio entre instituições de ensino de vários países.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "teórica, por se basear na tradução de textos da língua inglesa para outras línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mercadológica, por requerer recursos para o aperfeiçoamento profissional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "normativa, por estabelecer parâmetros para a checagem de fontes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pedagógica, por potencializar desafios para a educação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

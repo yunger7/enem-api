@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2025",
+    "index": 172,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O esquema apresenta dois postes de 6 metros de altura\nsobre um solo horizontal, com um fio elétrico passando pelos\npontos A e B, distando 8 metros entre si, que representam os\nextremos superiores de cada poste.\n\n![](https://enem.dev/2025-reaplicacao/questions/172/2052a7fb-0210-47c1-8d69-ff731e309f0e.png)\n\nConsiderando o ponto A como origem do plano cartesiano\ne o segmento AB contido no eixo horizontal desse plano, admita\nque a curva que o fio elétrico forma entre A e B seja modelada\npela função quadrática y = 0,02x2 – 0,16x, com x e y em metro.",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/172/2052a7fb-0210-47c1-8d69-ff731e309f0e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A menor distância, em metro, dessa parte do fio até o solo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

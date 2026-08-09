@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2025",
+    "index": 145,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma loja de artigos esportivos fez a seguinte promoção: para cada compra com valor superior a R$ 500,00 realizada na loja,\no cliente retira aleatoriamente uma única ficha de uma urna para receber um brinde. A urna contém 20 fichas brancas, 30 azuis\ne 50 vermelhas, todas com igual probabilidade de serem retiradas.\n\nO gerente dessa loja acrescentará algumas fichas brancas a essa urna, de modo que a probabilidade de a primeira ficha\nretirada ser branca seja superior a 50%.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a quantidade mínima de fichas brancas que ele acrescentará à urna?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

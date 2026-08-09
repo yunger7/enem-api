@@ -1,0 +1,46 @@
+{
+    "title": "Questão 133 - ENEM 2025",
+    "index": 133,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/133/5984f0c9-1bfc-4e7b-bd2f-863b0e12bd10.png)\n\nO despejo acidental de óleo nos oceanos tem ocasionado\nincontáveis prejuízos à vida marinha e à economia de regiões\ncosteiras. Métodos tradicionais de tratamento do despejo geram\nresíduos de difícil descarte e nem sempre são eficazes. Por isso,\npesquisadores desenvolveram um filtro capaz de separar óleo\ne água. O dispositivo é montado sobre uma malha de aço com\numa sequência de camadas. A primeira camada é formada\npor um polímero de carga positiva, a segunda é composta por\nnanopartículas de sílica (SiO2), a terceira é formada pelo mesmo\npolímero e a última é um surfactante, conforme apresentado\nna figura.\n\nRepresentação esquemática do dispositivo\n\n![](https://enem.dev/2025/questions/133/db2e94fe-c393-486a-a930-540a19e07fc5.png)\n\nBROWN, P. S.; BHUSHAN, B. Mechanically durable, superoleophobic\n\ncoatings prepared by layer-by-layer technique for anti-smudge\n\nand oil-water separation. Scientific Reports,\n\nv. 5, mar. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/133/5984f0c9-1bfc-4e7b-bd2f-863b0e12bd10.png",
+        "https://enem.dev/2025/questions/133/db2e94fe-c393-486a-a930-540a19e07fc5.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na utilização desse dispositivo, a retenção do óleo ocorre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "no surfactante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "na camada superior de polímero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "nas nanopartículas de sílica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "na camada inferior de polímero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "na malha de aço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

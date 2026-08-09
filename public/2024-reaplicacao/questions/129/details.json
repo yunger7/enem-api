@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2024",
+    "index": 129,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A agência norte-americana que regula medicamentos\n(FDA) aprovou um fármaco cujo uso contínuo reduz o risco\nde infecção do vírus HIV. Esse fármaco surge como profilaxia\nmedicamentosa aos grupos de alto risco, uma vez que age\nna célula infectada inibindo a ação da enzima transcriptase\nreversa. Contudo, a camisinha ainda é o método mais\nseguro, barato e eficaz na prevenção de doenças como a\naids, com taxas de aproximadamente 100% de proteção.\n\nSEGATTO, C. Época, n. 740, jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O bloqueio dessa enzima contribui para o controle da doença, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inibe a transcrição do DNA viral, que impede a formação de moléculas de RNA celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impede a transformação do RNA viral numa fita dupla de DNA, que se integra ao DNA celular.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "evita a duplicação do RNA viral, que leva à formação de proteínas virais defeituosas e inativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dificulta a duplicação do DNA celular, com a formação de duas novas fitas a partir do DNA viral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "controla a formação de moléculas de RNA transportadoras, que impedem a formação de novos vírus.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 47 - ENEM 2025",
+    "index": 47,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2025/questions/47/77bbea4a-ee41-4b55-941a-c7deeeabaa72.png)\n\nConcentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019\n\n![](https://enem.dev/2025/questions/47/f910628a-746b-4eba-948e-3bff9a2d1b8c.png)",
+    "files": [
+        "https://enem.dev/2025/questions/47/77bbea4a-ee41-4b55-941a-c7deeeabaa72.png",
+        "https://enem.dev/2025/questions/47/f910628a-746b-4eba-948e-3bff9a2d1b8c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Amplitude das temperaturas médias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Homogeneidade da insolação anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ocorrência de chuvas de relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Circulação de massas de ar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Ausência de frentes frias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

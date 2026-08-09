@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2024",
+    "index": 173,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa decide fazer uma viagem de automóvel,\ncujo trecho a ser percorrido é de 560 km em rodovias\nasfaltadas. Ela partiu com o tanque contendo 50 litros\nde gasolina e parou para descansar em um posto de\ncombustível que ficava a 80 km do destino. Na faixa de\nvelocidade em que ela dirigiu até essa parada, o rendimento\nmédio de seu veículo foi de 12 km por litro. Sabendo que,\nem certa faixa de velocidade, o rendimento médio de seu\ncarro é de 16 km por litro, decide alterar sua velocidade\npara percorrer o trecho final da viagem de forma a garantir\nesse maior rendimento. Aproveitando que se encontrava em\num posto de gasolina, essa pessoa pretende reabastecer\nseu carro de modo a conseguir chegar ao destino com,\npelo menos, 25 litros de gasolina no tanque.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade mínima de gasolina, em litro, com que essa pessoa deve reabastecer seu veículo nesse posto, antes de seguir viagem, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "55.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

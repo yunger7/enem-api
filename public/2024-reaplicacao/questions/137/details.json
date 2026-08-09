@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2024",
+    "index": 137,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os integrantes de uma banda de rock realizaram um\nprocesso seletivo para contratar um novo vocalista. Foram\npré-selecionados cinco cantores para a realização de três\ntestes. As frequências, medidas em hertz, alcançadas\nnesses testes, por cada cantor foram:\n\n•\t I: 380; 410; 470.\n•\t II: 330; 350; 490.\n•\t III: 420; 420; 390.\n•\t IV: 407; 410; 404.\n•\t V: 310; 380; 480.\n\nOs integrantes da banda decidiram selecionar o cantor\nque apresentou a maior frequência média nos três testes.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O cantor selecionado foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

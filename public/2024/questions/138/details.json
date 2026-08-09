@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2024",
+    "index": 138,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para abrir a porta de uma empresa, cada funcionário\ndeve cadastrar uma senha utilizando um teclado\nalfanumérico como o representado na figura.\n\n![](https://enem.dev/2024/questions/138/e02fd12e-d4bd-47a9-8ac0-4a873394bab7.png)\n\nPor exemplo: a tecla que contém o número 2 traz as\nletras correlacionadas A, B e C. Cada toque nessa tecla\nmostra, sequencialmente, os seguintes caracteres: 2, A, B\ne C. Para os próximos toques, essa sequência se repete.\nAs demais teclas funcionam da mesma maneira.\n\nAs senhas a serem cadastradas pelos funcionários\ndevem conter 5 caracteres, sendo 2 algarismos distintos\nseguidos de 3 letras diferentes, nessa ordem. Um funcionário\nirá cadastrar a sua primeira senha, podendo escolher entre\nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as\nrespectivas letras correlacionadas, quando houver.",
+    "files": [
+        "https://enem.dev/2024/questions/138/e02fd12e-d4bd-47a9-8ac0-4a873394bab7.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número de possibilidades diferentes que esse funcionário tem para cadastrar sua senha é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11 520.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14 400.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "312 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "390 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

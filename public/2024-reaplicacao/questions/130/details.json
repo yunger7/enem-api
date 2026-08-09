@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2024",
+    "index": 130,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um laboratório, pesquisadores tentavam desenvolver\numa vacina contra um vírus que infecta tanto roedores como\no homem. Uma das vacinas foi capaz de imunizar 100% dos\nratos testados, o que foi considerado um grande sucesso.\nEntretanto, quatro semanas após, novos experimentos\ncom outras cobaias mostraram que 40% dos animais não\nsobreviveram a testes para a mesma vacina. Em um terceiro\nexperimento, três meses depois, apenas 15% das novas\ncobaias sobreviveram aos testes.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual o principal mecanismo envolvido na perda de imunização das cobaias?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuição da carga viral nas cobaias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Supressão do sistema imune das cobaias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Elevada taxa de mutação dos vírus ativos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Perda da memória imunológica das cobaias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mudança da janela imunológica dos animais testados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

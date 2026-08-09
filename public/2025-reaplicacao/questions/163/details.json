@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2025",
+    "index": 163,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um mestre de obras coordena o andamento da construção de uma pequena ponte. Esse trabalho estava inicialmente sendo\nrealizado por 24 profissionais, com um mesmo rendimento r, que completariam a obra em um determinado prazo. Entretanto,\ndurante o andamento da obra, 18 deles abandonaram o serviço e os demais continuaram trabalhando com rendimento r.\nPara terminar a obra exatamente no prazo estabelecido, o mestre de obras solicitou ao setor de recursos humanos (RH) da\nempresa a contratação de novos profissionais. Para isso, o RH sugeriu que fossem contratados menos profissionais e ofereceu\nas seguintes opções de contratação, indicando o rendimento desses profissionais em relação ao rendimento dos que saíram.\n\n• Opção I: contratar 6 profissionais com rendimento igual a 2r.\n• Opção II: contratar 8 profissionais com rendimento igual a 2,2r.\n• Opção III: contratar 9 profissionais com rendimento igual a 1,5r.\n• Opção IV: contratar 12 profissionais com rendimento igual a 1,5r.\n• Opção V: contratar 15 profissionais com rendimento igual a 2r.\n\nO mestre de obras deverá escolher a opção que permita terminar a obra dentro do prazo e com o menor número de\nprofissionais.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessas condições, a escolha do mestre de obras deverá ser a opção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2024",
+    "index": 176,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As receitas anuais obtidas por uma indústria no período\nde 2014 a 2021, em milhão de reais, foram registradas, por\npontos, em um gráfico. Nele, também está representada a\nreta que descreve a tendência de evolução das receitas.\nEssa reta pode ser utilizada para estimar as receitas dos\nanos seguintes.\n\n![](https://enem.dev/2024/questions/176/d54daea3-8bd4-4e36-be18-e39b73a407a3.png)",
+    "files": [
+        "https://enem.dev/2024/questions/176/d54daea3-8bd4-4e36-be18-e39b73a407a3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A estimativa da receita, em milhão de reais, dessa indústria, para o ano de 2026, obtida a partir dessa reta de tendência, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

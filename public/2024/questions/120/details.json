@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2024",
+    "index": 120,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O vírus linfotrópico de células T humanas tipo 1\n(HTLV-1) é um retrovírus do mesmo grupo do vírus da\nimunodeficiência humana (HIV). Ambos são transmitidos\nda mesma forma e infectam as mesmas células de defesa\ndo organismo, os linfócitos T. A diferença entre eles é que o\nHTLV-1 estimula o aumento da produção desses linfócitos,\nenquanto o HIV causa destruição dessas células.\n\nROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus\n\nlinfotrópico de células T humanas tipo 1 (HTLV-1): quando\n\nsuspeitar da infecção? Revista da Associação\n\nMédica Brasileira, v. 56, 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma possível consequência da infecção por HTLV-1 é o desenvolvimento de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aids.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "câncer.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "diabetes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hepatite B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "hemorragia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2024",
+    "index": 18,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Um estudo norte-americano analisou os efeitos\nda pandemia da covid-19 sobre a saúde mental e a\nmanutenção da atividade física, revelando que um fator\nestá diretamente ligado ao outro. De acordo com os dados,\nfamílias de baixa renda foram mais impactadas pelo\nciclo vicioso de falta de motivação e pelo sedentarismo.\nDiante da necessidade de distanciamento social e do\ninício da quarentena, as opções de espaços seguros\npara exercícios físicos diminuíram, o que dificultou que as\npessoas mantivessem seus níveis de atividade. Os dados\nevidenciaram que as pessoas mais ativas tinham melhor\nestado de saúde mental. As pessoas com menor renda\ntiveram mais dificuldade para manter os níveis de atividade\nfísica durante a pandemia, sendo aproximadamente\nduas vezes menos propensas a continuarem no mesmo\nritmo de exercícios de antes da pandemia. Habitantes\nde áreas urbanas mostraram maior probabilidade de\nnão conseguirem manter os níveis de atividade física\nsemelhantes aos de pessoas que vivem em zonas rurais,\nonde há mais oportunidades de sair para espaços abertos.\n\nDisponível em: https://revistagalileu.globo.com.\n\nAcesso em: 6 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O texto evidencia a perspectiva ampliada de saúde ao abordar criticamente a pandemia da covid-19 a partir do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "busca por espaços para a prática de exercícios físicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "necessidade de se manter ativo para ter equilíbrio emocional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "distanciamento social e sua vinculação com a prática de atividades físicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "relação entre os determinantes socioeconômicos e a prática de exercícios.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "benefício de morar em áreas rurais para preservar a estabilidade psicológica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 99 - ENEM 2025",
+    "index": 99,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/99/8e37ff7d-b069-4672-97f7-0c7d3d68416a.png)\n\nO monstro de gila, um lagarto encontrado em um deserto dos\nEstados Unidos, apresenta adaptações à falta de alimento nesse\nambiente. Esse lagarto possui um hormônio que controla os níveis\nde açúcar em seu próprio sangue. Foi observado que esse hormônio\ntambém controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nRUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais.\n\nDisponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/99/8e37ff7d-b069-4672-97f7-0c7d3d68416a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cerrado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Pampas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Caatinga.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Restinga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Pantanal.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

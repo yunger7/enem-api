@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2024",
+    "index": 144,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa ampliou uma foto no computador e,\nao imprimi-la, verificou que a qualidade não estava\nboa. Assim, ficou curioso em saber as grandezas\nenvolvidas no parâmetro que define a qualidade de\numa imagem. Ao pesquisar, descobriu que um parâmetro\nque define a qualidade da imagem, ou resolução, pode\nser considerado pela quantidade de pontos, chamados\npixels, que há em cada quadradinho de 1 cm de lado\ncontido na imagem.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a pesquisa realizada, a unidade de medida do parâmetro de qualidade de uma imagem é expressa por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cm2 ⋅ pixel",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cm ⋅ pixel cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "pixel",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pixel cm",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pixel cm2",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

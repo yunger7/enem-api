@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2025",
+    "index": 115,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manual de uso e instalação de um aquecedor solar traz,\nentre outras, as seguintes informações:\n\nVolume do reservatório\n400 L\n\nPotência de apoio elétrico\n2 000 W\n\ntensão\n220 V\n\nCorrente\n9,5 A\n\nDisjuntor\n12,0 A\n\nA potência de apoio refere-se à potência de um resistor,\ninstalado no interior do reservatório, que serve para aquecer a\nágua nos dias nublados e chuvosos. Considere que esse resistor\né acionado quando a água atinge uma temperatura de 25 °C\ne é desligado quando a temperatura atinge 35 °C. Considere o\ncalor específico da água igual a 1 000 cal ⋅ kg−1 ⋅ °C−1, 1 cal igual\na 4,2 joules e a densidade da água equivalente a 1 kg ⋅ L−1.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com o reservatório cheio, a quantidade de energia dissipada nesse resistor, em watt-hora, é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

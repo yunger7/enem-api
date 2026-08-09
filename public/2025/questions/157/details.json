@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2025",
+    "index": 157,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/157/07b5fa2a-67bd-4627-b940-9a360fc786f7.png)\n\nO cortisol é um hormônio produzido pelas glândulas\nadrenais e pode ser considerado um importante marcador\ndo estresse fisiológico. Em um estudo desenvolvido com\nenfermeiros, foi verificado que a concentração de cortisol\nsalivar em um dia de trabalho, denotada por T, era, em média,\n1,59 vezes a concentração de cortisol salivar em um dia de\nfolga, denotada por F.\n\nROCHA, M. C. P. et al. Estresse em enfermeiros: o uso do cortisol salivar no\n\ndia de trabalho e de folga. Rev. Esc. Enferm. USP, n. 5, 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/157/07b5fa2a-67bd-4627-b940-9a360fc786f7.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse estudo, a relação obtida entre T e F foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "T = 1,59 + F",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "F = 1,59 + T",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "T F = 1 59 ,",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "F T = 1 59 ,",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "F ⋅ T = 1,59",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -6,17 +6,24 @@ type GetQuestionDetailsPayload = {
     year: string | number;
     index: string | number;
     language?: string | null;
+    application?: 'regular' | 'reaplicacao';
 };
 
 export async function getQuestionDetails(payload: GetQuestionDetailsPayload) {
-    let filePath = `${process.cwd()}/public/${payload.year}/questions/${payload.index}/details.json`;
+    const application = payload.application ?? 'regular';
+    const folder =
+        application === 'reaplicacao'
+            ? `${payload.year}-reaplicacao`
+            : `${payload.year}`;
+
+    let filePath = `${process.cwd()}/public/${folder}/questions/${payload.index}/details.json`;
 
     if (!existsSync(filePath)) {
         if (!payload.language) {
             return null;
         }
 
-        filePath = `${process.cwd()}/public/${payload.year}/questions/${payload.index}-${payload.language}/details.json`;
+        filePath = `${process.cwd()}/public/${folder}/questions/${payload.index}-${payload.language}/details.json`;
 
         if (!existsSync(filePath)) {
             return null;

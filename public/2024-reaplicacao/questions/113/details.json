@@ -1,0 +1,45 @@
+{
+    "title": "Questão 113 - ENEM 2024",
+    "index": 113,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A evolução das populações envolve processos de variação\ne adaptação ao longo do tempo, podendo desencadear\no surgimento de novas raças ou espécies a partir de uma\npreexistente. A grande diversidade de organismos presentes\nem nosso planeta pode ser explicada pela moderna teoria\nevolucionista, que associa o darwinismo aos conceitos de\ngenética. Com base nesses conhecimentos, é possível realizar\na reprodução diferencial de genótipos e a formação de raças\ncom diferentes fenótipos, como representado na figura.\n\n![](https://enem.dev/2024-reaplicacao/questions/113/a2009703-dcb8-4799-9a95-3c46d909f648.png)\n\nCAIN, M. et al. Discover Biology. Nova York:\n\nW. W. Norton & Company, 2002 (adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/113/a2009703-dcb8-4799-9a95-3c46d909f648.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A formação dessas raças deve-se ao processo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "deriva genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "seleção artificial.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "formação de híbridos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "especiação alopátrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "divergência adaptativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

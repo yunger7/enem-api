@@ -1,0 +1,46 @@
+{
+    "title": "Questão 94 - ENEM 2025",
+    "index": 94,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/94/b6c2d50d-c6bf-4f0a-8807-497c8f479358.png)\n\nRéguas elétricas são dispositivos que permitem a ligação\nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos\nà rede elétrica. Uma estudante comprou uma régua com seis\ntomadas, conforme a figura. Essa régua suporta uma intensidade\nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o\nfusível de segurança da régua se rompe, inutilizando-a até que\num novo fusível seja instalado. Considere as potências nominais\nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\n\nAparelho\nPotência (watt)\n\nLuminária de LED\n5\n\n![](https://enem.dev/2025/questions/94/40ae3d0a-42ac-4901-ab37-8d166eef495b.png)\n\nComputador\n250\n\nImpressora a laser\n660\n\nSecador de cabelos\n750\n\nCafeteira\n900\n\nCondicionador\n\nde ar portátil\n1 100\n\nEm um dia quente, a estudante mantém o computador e o\ncondicionador de ar portátil ligados à régua permanentemente.\nNessa situação, ela tenta realizar algumas atividades, uma de\ncada vez, utilizando a mesma régua, na seguinte ordem:\n\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V,\nadequada para o funcionamento desses aparelhos.",
+    "files": [
+        "https://enem.dev/2025/questions/94/b6c2d50d-c6bf-4f0a-8807-497c8f479358.png",
+        "https://enem.dev/2025/questions/94/40ae3d0a-42ac-4901-ab37-8d166eef495b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considerando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

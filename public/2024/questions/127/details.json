@@ -1,0 +1,50 @@
+{
+    "title": "Questão 127 - ENEM 2024",
+    "index": 127,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um experimento de laboratório, duas barras\nmetálicas, A e B, são carregadas com cargas opostas e\nimersas em óleo. Farelo de milho é jogado sobre o óleo e,\napós um certo tempo, o farelo assume o formato das linhas\nde campo elétrico entre as barras. A figura representa a\nvista superior desse experimento.\n\n![](https://enem.dev/2024/questions/127/95b96027-44f7-4989-b5b9-3d8d64c14db4.png)\n\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4:\n\nmódulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/127/95b96027-44f7-4989-b5b9-3d8d64c14db4.png",
+        "https://enem.dev/2024/questions/127/785ab8cd-3401-49fe-b4a9-0410f9164abb.png",
+        "https://enem.dev/2024/questions/127/75a79893-729f-4a1f-a2bd-5a1f9a1cb6ec.png",
+        "https://enem.dev/2024/questions/127/ea3c1860-20bd-4529-9ce9-16b26d2c76c9.png",
+        "https://enem.dev/2024/questions/127/421e0f94-f7b5-4456-828a-86920d640c85.png",
+        "https://enem.dev/2024/questions/127/1ef057d3-e4fe-4c2f-91c5-2660d2244359.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/127/75a79893-729f-4a1f-a2bd-5a1f9a1cb6ec.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/127/ea3c1860-20bd-4529-9ce9-16b26d2c76c9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/127/1ef057d3-e4fe-4c2f-91c5-2660d2244359.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/127/785ab8cd-3401-49fe-b4a9-0410f9164abb.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/127/421e0f94-f7b5-4456-828a-86920d640c85.png",
+            "isCorrect": true
+        }
+    ]
+}

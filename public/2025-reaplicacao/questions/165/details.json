@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2025",
+    "index": 165,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um país decidiu investir em programas de reeducação alimentar da população adulta de suas cidades. Foram cinco os níveis\nde investimento, distribuídos de acordo com a idade média da população obesa em cada cidade, conforme o quadro.\n\nNível de investimento\nIdade média da\npopulação obesa (M)\n\nI\nM ≥ 50\n\nII\n42 < M < 50\n\nIII\n37 < M ≤ 42\n\nIV\n30 < M ≤ 37\n\nV\nM ≤ 30\n\nEm uma cidade desse país, 70% da população obesa era composta por homens. A média de idade dos homens obesos era\nde 50 anos, e a média de idade das mulheres obesas era de 30 anos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O nível de investimento recebido por essa cidade foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

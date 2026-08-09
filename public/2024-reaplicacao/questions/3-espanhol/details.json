@@ -1,0 +1,43 @@
+{
+    "title": "Questão 3 - ENEM 2024",
+    "index": 3,
+    "year": 2024,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "No me tomé ni un día de reposo […] Ahora sé por\nqué el esfuerzo de escribir un cuento corto es tan intenso\ncomo empezar una novela. […] El cuento, en cambio,\nno tiene principio ni fin: fragua o no fragua. Y si no fragua,\nla experiencia propia y la ajena enseñan que en la mayoría\nde las veces es más saludable empezarlo de nuevo por\notro camino, o tirarlo a la basura. Alguien que no recuerdo\nlo dijo bien con una frase de consolación: “Un buen escritor\nse aprecia mejor por lo que rompe que por lo que publica”.\nEs cierto que no rompí los borradores y las notas, pero hice\nalgo peor: los eché al olvido.\n\nGARCÍA MÁRQUEZ, G. Doce cuentos peregrinos.\n\nBuenos Aires: Debolsillo, 2006.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "No prólogo de Doce cuentos peregrinos, Gabriel García Márquez discorre sobre seu ofício literário. Ao utilizar a expressão “los eché al olvido”, ele declara que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o ato de escrever contos demanda um esforço significativo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o melhor a se fazer quando a escrita deixa de fluir é recomeçar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "as obras literárias perdem seu valor estético depois de lado pelo autor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o escritor experiente rasga as anotações feitas durante o processo criativo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

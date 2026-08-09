@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2024",
+    "index": 149,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma empresa é comercializado um produto em\nembalagens em formato de cilindro circular reto, com raio\nmedindo 3 cm, e altura medindo 15 cm. Essa empresa\nplaneja comercializar o mesmo produto em embalagens\nem formato de cubo, com capacidade igual a 80% da\ncapacidade da embalagem cilíndrica utilizada atualmente.\n\nUse 3 como valor aproximado para π.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A medida da aresta da nova embalagem, em centímetro, deve ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6 6 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 12 3",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

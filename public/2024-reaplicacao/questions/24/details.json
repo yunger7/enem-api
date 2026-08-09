@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2024",
+    "index": 24,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Mas, afinal: o corretor ortográfico\n\najuda ou atrapalha?\nQuem nunca passou por aquela situação constrangedora\nproporcionada pelo corretor ortográfico que atire a primeira\npedra. Essa ferramenta, que, na teoria, deveria nos ajudar a\nescrever perfeitamente e com mais facilidade, tem potencial\npara ser mais uma inimiga do que uma aliada.\n\nUm especialista em inovação e tecnologia afirma\nque essa ferramenta pode ser criada de várias maneiras.\n“Temos o trabalho humano, com pessoas checando os\ndetalhes. E de outro lado existe a alimentação do corretor\npor dicionários, que, em tese, têm as palavras escritas\ncorretamente”. Mas, afinal: será que o corretor mais ajuda\nou mais atrapalha na escrita?\n\nDe acordo com uma professora de um curso de\nLetras, depende primeiramente da concepção de escrita.\n“Se consideramos apenas a gramática e a ortografia,\nhá ferramentas de revisão que auxiliam em aspectos\nortográficos e até sintáticos. Mas essas ferramentas não\ngarantem a coesão e a coerência, ou seja, as articulações\ne o sentido do texto. O acesso amplo à informação pode\nauxiliar na construção de repertório para a escrita, mas\ntambém é necessário ter contato com diferentes gêneros\ntextuais e contar com o aprendizado de aspectos formais\nrelacionados à escrita”, explica a professora.\n\nDisponível em: https://canaltech.com.br.\n\nAcesso em: 5 fev. 2024 (adaptado).\nDe acordo com esse texto, o uso do corretor ortográfico",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ajusta a grafia com uma programação abastecida por dicionários.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "alinha a redação do texto às circunstâncias de interação verbal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "atua no aprendizado da estruturação de gêneros textuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "amplia o repertório vocabular da língua portuguesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "colabora na construção dos sentidos do texto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

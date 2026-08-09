@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2024",
+    "index": 132,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Segundo especialistas, há uma ligação causal entre\na ocupação nos 12 municípios do sistema de captação\nde água Cantareira, a destruição da mata ciliar de seus\n8 171 km de rios e o esgotamento do sistema. Choveu menos\nno último ano, mas, se a mata nativa ainda estivesse lá,\nos reservatórios poderiam ter mais água — e de melhor\nqualidade. Técnicos propõem o plantio de 30 milhões de\nmudas para recompor a mata ciliar em 34 mil hectares.\n\nSANT’ANNA, L. O Estado de S. Paulo, 21 fev. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Essa ação está diretamente relacionada à prevenção do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "salinização da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "assoreamento do rio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "compactação do solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "contaminação das margens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "eutrofização dos reservatórios.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

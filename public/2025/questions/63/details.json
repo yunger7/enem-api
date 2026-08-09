@@ -1,0 +1,46 @@
+{
+    "title": "Questão 63 - ENEM 2025",
+    "index": 63,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2025/questions/63/f226ffcf-3035-4666-8573-22f01b1704bf.png)\n\nProdução e exportações brasileiras no ranking mundial em 2019\n\n![](https://enem.dev/2025/questions/63/2f2a0a88-c6d4-4eaf-8772-67cccca4de83.png)\n\nFonte: USDA, 2020. Elaboração CNA.\n*Fatia de participação na produção mundial.",
+    "files": [
+        "https://enem.dev/2025/questions/63/f226ffcf-3035-4666-8573-22f01b1704bf.png",
+        "https://enem.dev/2025/questions/63/2f2a0a88-c6d4-4eaf-8772-67cccca4de83.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual condição favoreceu o cenário produtivo exposto na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Redução do poder de compra da população brasileira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ampliação da entrada do capital agroindustrial no campo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Diminuição do uso de trabalho especializado na agropecuária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Valorização da moeda nacional em relação ao dólar americano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Inclusão de pequenas propriedades em cultivos de subsistência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

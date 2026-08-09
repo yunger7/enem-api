@@ -1,0 +1,46 @@
+{
+    "title": "Questão 126 - ENEM 2025",
+    "index": 126,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/126/68fc17a0-158b-4164-879e-858b260c5a01.png)\n\nSegundo o princípio da independência dos movimentos, de\nGalileu, sempre que a velocidade resultante de um corpo puder\nser decomposta em duas ou mais componentes perpendiculares\nentre si, cada um desses movimentos poderá ser analisado\nseparadamente como se os outros não existissem. Esse princípio\né muito útil para a simplificação de alguns problemas reais, em\ntrês dimensões.\n\nConsidere um avião que, ao decolar, é instruído pela\ntorre a atingir, em 6 minutos, uma posição de 20 km a Leste,\n20 km a Norte e 1 km de altitude em relação ao ponto de\ndecolagem, conforme a figura (fora de escala). No entanto,\nno instante da decolagem, começa a soprar um vento cujo\nvetor velocidade tem componentes 30 km/h para Leste,\n20 km/h para Sul e 1 km/h de cima para baixo.\n\n![](https://enem.dev/2025/questions/126/cb27e94a-442d-438a-b341-e63201d55151.png)",
+    "files": [
+        "https://enem.dev/2025/questions/126/68fc17a0-158b-4164-879e-858b260c5a01.png",
+        "https://enem.dev/2025/questions/126/cb27e94a-442d-438a-b341-e63201d55151.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Durante a ação do vento, a velocidade v que o piloto deve estabelecer em relação ao ar para que o avião chegue à posição esperada no tempo indicado tem as componentes",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "230 km/h para Leste, 180 km/h para Sul e 9 km/h para baixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "230 km/h para Leste, 180 km/h para Norte e 9 km/h para cima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "200 km/h para Oeste, 200 km/h para Norte e 10 km/h para cima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "170 km/h para Leste, 180 km/h para Norte e 11 km/h para cima.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

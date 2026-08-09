@@ -1,0 +1,45 @@
+{
+    "title": "Questão 160 - ENEM 2024",
+    "index": 160,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Apesar de a participação das mulheres no mercado de\ntrabalho ter crescido ao longo dos anos, ainda existe uma\ngrande diferença salarial entre homens e mulheres. Os dados\ndo Cadastro Geral de Empregados e Desempregados (Caged)\napresentados no gráfico mostram a evolução da diferença salarial\nde contratação, com medições feitas de dois em dois anos.\n\n![](https://enem.dev/2024-reaplicacao/questions/160/730418e0-1b20-42e2-9c82-f2743aa84550.png)\n\nDisponível em: http://classificados.folha.uol.com.br.\n\nAcesso em: 21 jun. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/160/730418e0-1b20-42e2-9c82-f2743aa84550.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com os dados fornecidos, qual valor mais se aproxima da diferença salarial média entre homens e mulheres nesse período?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "121,7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "120,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "110,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "82,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "65,5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

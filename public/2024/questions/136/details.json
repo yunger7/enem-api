@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2024",
+    "index": 136,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O tamanho mínimo que a visão humana é capaz de\nvisualizar sem o uso de equipamento auxiliar é equivalente\na 100 micrômetros (1 micrômetro = 10-3 milímetros).\nUma estudante pretende visualizar e analisar hemácias\ndo sangue humano, que medem 0,007 mm de diâmetro.\nEla adquiriu um microscópio óptico que tem uma lente\nocular que amplia em 10 vezes a imagem do objeto em\nobservação, e um conjunto de lentes objetivas com estas\ncapacidades de ampliação:\n\n•\t lente I: 2 vezes;\n•\t lente II: 10 vezes;\n•\t lente III: 15 vezes;\n•\t lente IV: 1,1 vez;\n•\t lente V: 1,4 vez.\n\n![](https://enem.dev/2024/questions/136/6ba93148-0142-4212-9672-7f0dd915e87b.png)\n\nO funcionamento desse microscópio permite o uso da\nlente ocular sozinha ou a combinação dela com uma\nde suas lentes objetivas, proporcionando, nesse caso,\num aumento de sua capacidade de ampliação final, que é\ndada pelo produto entre as capacidades de ampliação da\nocular e da objetiva.\n\nEssa estudante pretende selecionar a lente objetiva de\nmenor capacidade de ampliação que permita, na combinação\ncom a ocular, visualizar hemácias do sangue humano.",
+    "files": [
+        "https://enem.dev/2024/questions/136/6ba93148-0142-4212-9672-7f0dd915e87b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A lente objetiva a ser selecionada pela estudante é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

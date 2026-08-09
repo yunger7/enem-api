@@ -1,0 +1,45 @@
+{
+    "title": "Questão 123 - ENEM 2024",
+    "index": 123,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os pesticidas naturais vêm sendo utilizados no controle\nde pragas e doenças agrícolas como substituintes de\npesticidas sintéticos tradicionais, por serem menos nocivos\nao ambiente, biodegradáveis e minimizarem custos e riscos\nrelativos à lavoura. Por exemplo, os compostos 1 e 2 estão\nenvolvidos nas respostas de defesa das plantas. Os grupos\nfuncionais presentes nesses compostos são importantes\npara suas propriedades no controle de pragas.\n\n![](https://enem.dev/2024/questions/123/b401f29e-bf63-4d98-8528-28d247c9f629.png)\n\nPINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura:\n\nperspectivas para o desenvolvimento de tecnologias sustentáveis.\n\nQuímica Nova, n. 10, 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/123/b401f29e-bf63-4d98-8528-28d247c9f629.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é a função orgânica correspondente ao grupo funcional comum presente nesses dois compostos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ácido carboxílico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Cetona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alceno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Álcool.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Fenol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2025",
+    "index": 146,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A prefeitura de uma cidade lançou um edital convidando empresas para um processo de licitação, para execução de serviços\nrelacionados a obras em uma rodovia. Cinco empresas se inscreveram para participar do pregão. Elas devem dar lances em três\nmodalidades: maquinário, recursos humanos e manta asfáltica. As regras a serem seguidas no dia do pregão são:\n\n• lances apresentados são conhecidos por todos e não podem ser alterados até o fim do pregão;\n• para a prestação de serviço em cada modalidade, os lances devem ser de valores múltiplos de R$ 500,00;\n• para cada modalidade haverá um período de 10 minutos para as empresas fazerem seus lances.\n\nA empresa cuja soma dos valores dos lances for menor que a das outras participantes será a vencedora. Em caso de empate,\nvence a licitação a empresa que tiver oferecido o lance de menor valor na modalidade “maquinário”. Se os lances das empresas\nempatadas forem iguais nessa modalidade, elas compartilharão os serviços.\n\nNo dia do pregão, o dono da Empresa 2 organizou um quadro para registrar os valores dos lances. Em determinado momento,\nfaltava apenas seu lance para manta asfáltica.\n\nMaquinário (R$)\nNota 1\nRecursos\nHumanos (R$)\nNota 2\nManta\nAsfáltica (R$)\nNota 3\n\nEmpresa 1\n10 000,00\n10\n5 500,00\n7\n12 000,00\n8\n\nEmpresa 2\n11 000,00\n9\n7 000,00\n8\n?\n\nEmpresa 3\n11 500,00\n7\n6 000,00\n6\n11 000,00\n10\n\nEmpresa 4\n12 000,00\n6\n5 000,00\n9\n11 500,00\n9\n\nEmpresa 5\n11 000,00\n8\n5 000,00\n10\n12 500,00\n7\n\nEle pretende que seu lance seja do maior valor possível, mas que permita que sua empresa seja a única vencedora nesse\nprocesso licitatório.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor do lance a ser feito pelo dono da Empresa 2 deverá ser, em real, de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

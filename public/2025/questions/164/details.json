@@ -1,0 +1,46 @@
+{
+    "title": "Questão 164 - ENEM 2025",
+    "index": 164,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/164/f1abbc5d-f2ef-4c10-82fb-1cab2f30530a.png)\n\nO dono de uma embarcação deve partir do ponto P e\nchegar ao ponto R por meio de dois deslocamentos lineares\ne navegando a uma velocidade constante. Essa viagem será\nfeita durante a noite, e como ele dispõe somente de uma\nbússola e de um relógio, planejou sua rota da seguinte forma:\n\n1º – partir do ponto P na direção 110 e navegar por 4 horas,\nalcançando um ponto Q;\n\n2º – partir do ponto Q na direção 90 e navegar por 2 horas,\nalcançando o ponto de destino R.\n\nNo entanto, ao direcionar o barco para o primeiro\ndeslocamento, o fez na direção 340, em vez de 110. Com isso,\nrealizou os seguintes deslocamentos:\n\n1º – partiu do ponto P na direção 340 e navegou por 4 horas,\nalcançando um ponto S;\n\n2º – partiu do ponto S na direção 90 e navegou por 2 horas,\nalcançando o ponto T.\n\nA figura apresenta a bússola, a rota planejada e a rota\nexecutada.\n\n![](https://enem.dev/2025/questions/164/82b38ce2-8f80-4f23-b1a8-c4ffc84b4954.png)\n\nO dono da embarcação só percebeu o equívoco ao chegar\nao ponto T. Com isso, agora ele precisa definir a direção e o\ntempo de navegação que lhe permita, partindo do ponto T,\nchegar ao ponto de destino R por meio de uma rota retilínea.\n\nConsidere 0,64 como aproximação para cos 50°.",
+    "files": [
+        "https://enem.dev/2025/questions/164/f1abbc5d-f2ef-4c10-82fb-1cab2f30530a.png",
+        "https://enem.dev/2025/questions/164/82b38ce2-8f80-4f23-b1a8-c4ffc84b4954.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A direção e o tempo aproximado de navegação que o dono da embarcação deve utilizar são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "135 e 7 horas e 15 minutos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "45 e 7 horas e 15 minutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "135 e 12 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "135 e 6 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "45 e 6 horas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 153 - ENEM 2025",
+    "index": 153,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/153/1bf95fc2-d77c-4b75-9d0d-3223fc534c3d.png)\n\nEm um jogo digital, há três personagens: um herói e dois\nvilões. A programação é feita de tal forma que o herói sempre\nserá atacado pelo vilão que estiver mais próximo dele. Uma das\nmaneiras de “confundir” os vilões é movimentar o herói por\ntrajetórias que o mantenha equidistante dos vilões, gerando\nindefinição entre eles e, com isso, não sendo atacado.\n\nPara a programação de uma das etapas desse jogo,\no programador considerou, no plano cartesiano, o quadrado\nSTUV como a região de movimentação dos personagens, onde\nV e T representam as posições fixas dos vilões, e S, a posição\ninicial do herói, como apresentado na figura.\n\n![](https://enem.dev/2025/questions/153/4e87ba37-6a4f-480d-a0a7-1597b7ee3963.png)",
+    "files": [
+        "https://enem.dev/2025/questions/153/1bf95fc2-d77c-4b75-9d0d-3223fc534c3d.png",
+        "https://enem.dev/2025/questions/153/4e87ba37-6a4f-480d-a0a7-1597b7ee3963.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é a equação da trajetória em que o herói poderá se movimentar sem ser atacado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "y = −3x + 20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "y = −3x + 16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "y = −3x − 20",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "y = 3x + 16",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "y = 3x − 16",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

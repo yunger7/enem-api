@@ -1,5 +1,69 @@
 [
     {
+        "title": "ENEM 2025",
+        "year": 2025,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
+        "title": "ENEM 2024",
+        "year": 2024,
+        "disciplines": [
+            {
+                "label": "Ciências Humanas e suas Tecnologias",
+                "value": "ciencias-humanas"
+            },
+            {
+                "label": "Ciências da Natureza e suas Tecnologias",
+                "value": "ciencias-natureza"
+            },
+            {
+                "label": "Linguagens, Códigos e suas Tecnologias",
+                "value": "linguagens"
+            },
+            {
+                "label": "Matemática e suas Tecnologias",
+                "value": "matematica"
+            }
+        ],
+        "languages": [
+            {
+                "label": "Espanhol",
+                "value": "espanhol"
+            },
+            {
+                "label": "Inglês",
+                "value": "ingles"
+            }
+        ]
+    },
+    {
         "title": "ENEM 2023",
         "year": 2023,
         "disciplines": [

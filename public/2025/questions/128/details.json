@@ -1,0 +1,46 @@
+{
+    "title": "Questão 128 - ENEM 2025",
+    "index": 128,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/128/112c1091-ab60-4345-8632-a5965cdbaa6e.png)\n\nA resistência de um fio de platina pode ser usada para\nmedir temperaturas entre 0 °C e 100 °C e já foi utilizada como\nreferência para a escala internacional de temperatura. Para\num sensor feito de platina, a relação entre a resistência e\na temperatura pode ser descrita por uma equação do tipo\nR(T) = A + BT, em que T é a temperatura e A e B são constantes.\nO gráfico apresenta a dependência da resistência em função\nda temperatura para cinco diferentes sensores.\n\n![](https://enem.dev/2025/questions/128/050edb8b-9699-4562-9d5e-bf2de52ebc56.png)",
+    "files": [
+        "https://enem.dev/2025/questions/128/112c1091-ab60-4345-8632-a5965cdbaa6e.png",
+        "https://enem.dev/2025/questions/128/050edb8b-9699-4562-9d5e-bf2de52ebc56.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Os sensores que apresentam maior sensibilidade são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 e 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 e 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 e 5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2024",
+    "index": 162,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma imobiliária iniciou uma campanha de divulgação\npara promover a venda de apartamentos que podem ser\npagos em 100 parcelas mensais. O valor da primeira delas\né fixado no momento da compra, com o pagamento dessa\nprimeira parcela. A partir da segunda parcela, o valor é\ndeterminado pela aplicação de um acréscimo percentual\nfixo ao valor da parcela anterior. Como atrativo, a imobiliária\nfará o pagamento de todas as parcelas correspondentes\nao mês de aniversário do comprador.\n\nUm cliente, que faz aniversário no mês de maio,\ndecidiu comprar um desses apartamentos por meio do\nfinanciamento oferecido pela imobiliária, e pretende escolher\no mês mais adequado para realizar essa compra, de modo\nque o valor total dos pagamentos seja o menor possível.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Fevereiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Abril.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Maio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Junho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Agosto.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

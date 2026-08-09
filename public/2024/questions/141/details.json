@@ -1,0 +1,46 @@
+{
+    "title": "Questão 141 - ENEM 2024",
+    "index": 141,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três grandezas (I, II e III) se relacionam entre si.\nOs gráficos a seguir, formados por segmentos de reta,\ndescrevem as relações de dependência existentes entre\nas grandezas I e II, e entre as grandezas II e III.\n\n![](https://enem.dev/2024/questions/141/042fdb3a-23c3-430f-a9a2-b459ba2dfb15.png)\n\n![](https://enem.dev/2024/questions/141/6c818ea6-8ace-4758-a6ee-7a7bab8ee84b.png)",
+    "files": [
+        "https://enem.dev/2024/questions/141/042fdb3a-23c3-430f-a9a2-b459ba2dfb15.png",
+        "https://enem.dev/2024/questions/141/6c818ea6-8ace-4758-a6ee-7a7bab8ee84b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor máximo assumido pela grandeza III, quando a grandeza I varia de 1 a 3, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

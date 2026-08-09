@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2024",
+    "index": 167,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Visando obter créditos de carbono, uma empresa,\nemissora de gases de efeito estufa, elabora um projeto de\nreflorestamento em uma área desmatada. De acordo com o\nprojeto, no primeiro ano serão reflorestados 500 hectares.\nA partir daí, a cada ano, a área total reflorestada será\naumentada em 50% em relação ao ano anterior.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A expressão algébrica que representa a área total reflorestada (An), em hectare, ao final de n anos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "An = 500 ⋅ 0,5n−1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "An = 500 ⋅ 1,5n−1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "An = 500 + n ⋅ 250",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "An = 500 ⋅ (1 + 0,5n−1)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "An = 500 + (n − 1) ⋅ 250",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

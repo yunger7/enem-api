@@ -1,0 +1,45 @@
+{
+    "title": "Questão 96 - ENEM 2024",
+    "index": 96,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos automóveis, é importante garantir que o centro de\nmassa (CM) de cada conjunto roda/pneu coincida com o\nseu centro geométrico. Esse processo é realizado em uma\nmáquina de balanceamento, na qual o conjunto roda e pneu\né colocado para girar a uma velocidade de valor constante.\nCom base nas oscilações medidas, a máquina indica a\nposição do centro de massa do conjunto, e pequenas\npeças de chumbo são fixadas em lugares específicos da\nroda até que as vibrações diminuam. Durante o treinamento\nde sua equipe, a fim de corrigir a posição do centro de\nmassa indicada pela máquina, um mecânico apresenta\no esquema a seguir, com cinco possíveis pontos da roda\npara posicionar uma peça de chumbo.\n\n![](https://enem.dev/2024/questions/96/85c9bdd5-2518-4a40-bbd6-077d753c0c5f.png)",
+    "files": [
+        "https://enem.dev/2024/questions/96/85c9bdd5-2518-4a40-bbd6-077d753c0c5f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

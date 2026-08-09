@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2024",
+    "index": 174,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em 2017, foram publicados os resultados de uma\npesquisa sobre a distância média preferida entre pessoas\n“estranhas”, “conhecidas” e “amigas”, dependendo do local\nonde vivem, conforme apresentado.\n\nDistância média preferida (cm)\n\n![](https://enem.dev/2024-reaplicacao/questions/174/3bffae38-2786-4bdd-8c25-c69ac41e3818.png)\n\nSOROKOWSKA, A. et al. Prefered Interpersonal Distances: a Global\n\nComparison. J Cross-Cultural Psychol., n. 48, 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/174/3bffae38-2786-4bdd-8c25-c69ac41e3818.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dentre os locais considerados no gráfico, os que apresentam as menores distâncias médias preferidas entre “estranhos”, “conhecidos” e “amigos” são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "China, Índia e China.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Argentina, Argentina e Noruega.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Noruega, Argentina e Argentina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Nigéria, Nigéria e México.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "China, Índia e Nigéria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

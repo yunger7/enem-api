@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2024",
+    "index": 96,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A proprietária de um haras comprou um cavalo e, após\nalguns dias, descobriu que o animal apresentava uma\ndoença viral séria. Sentindo-se prejudicada, iniciou\numa disputa judicial para determinar se o cavalo já foi\ncomprado infectado ou se ele adquiriu a doença na nova\npropriedade. Nesses casos, os anticorpos podem auxiliar\nna decisão do juiz, pois sabe-se que a presença da\nimunoglobulina M (IgM), primeira classe de anticorpo a\nser secretada, refere-se a infecções recentes (primárias\nou recorrentes), e que a imunoglobulina G (IgG) refere-se\na infecções um pouco mais antigas. Além das classes, a\nforça de ligação do anticorpo (avidez) também poderá\ntrazer informações importantes, porque quanto maior a\navidez, mais antiga é a infecção inicial.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual resultado laboratorial favorecerá a nova proprietária no julgamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "IgM positivo e IgG positivo, com baixa avidez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "IgM negativo e IgG negativo, com baixa avidez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IgM negativo e IgG positivo, independentemente da avidez.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IgM positivo e IgG positivo, independentemente da avidez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IgM positivo e IgG negativo, independentemente da avidez.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

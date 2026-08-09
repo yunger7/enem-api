@@ -1,0 +1,45 @@
+{
+    "title": "Questão 129 - ENEM 2025",
+    "index": 129,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/129/d51949ca-03aa-41ce-b83e-840aea3f4d38.png)\n\nO ácido úsnico é retirado de liquens e foi testado contra\ndiversas espécies, conforme o quadro.\n\nTeste\nResultado\n\nAedes aegypti (larvas)\nBaixa eficiência\n\nBacilo de Koch\nMédia eficiência\n\nMoluscos aquáticos (adultos)\nAlta eficiência\n\nPernilongo (larvas)\nMédia eficiência\n\nVermes platelmintos\nIneficiente",
+    "files": [
+        "https://enem.dev/2025/questions/129/d51949ca-03aa-41ce-b83e-840aea3f4d38.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O ácido úsnico mostrou-se mais indicado para o controle da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "esquistossomose.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "febre amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "coqueluche.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tuberculose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dengue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

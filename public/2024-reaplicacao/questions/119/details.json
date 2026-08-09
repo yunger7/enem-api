@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2024",
+    "index": 119,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O titânio é encontrado na natureza em minerais, dos\nquais o rutilo (TiO2) está presente na principal mina do\nBrasil, localizada no Rio Grande do Norte. Para obtenção\ndo titânio metálico, o TiO2 é submetido a duas operações\nindustriais. A primeira consiste na cloração, produzindo\ntetracloreto de titânio, conforme a equação:\n\nTiO2 + 2 Cl2 + 2 CO →\n← TiCI4 + 2 CO2\n\nA segunda operação consiste na redução do tetracloreto\nde titânio, utilizando magnésio metálico:\n\n2 Mg + TiCl4 →\n← 2 MgCl2 + Ti\n\nConsidere as massas molares:\n\nCl = 35,5 g\n\n; Ti = 48 g\n\n.\n\nmol\n\nmol",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual a massa de gás cloro necessária para produzir 480 kg de titânio metálico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "179 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "359 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "480 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "710 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 420 kg",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

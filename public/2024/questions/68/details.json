@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2024",
+    "index": 68,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Uma única árvore joga entre 300 e 1 000 litros de água\npor dia para a atmosfera. Considerando a demanda mínima\nque uma pessoa consome de água, ou seja, 120 litros por\ndia, uma única árvore pode ser capaz de produzir água\npara até oito pessoas.\n\nMAGNO, C. Estudiosos explicam o motivo de chover tanto\n\nem Belém. Disponível em: www.diarioonline.com.br.\n\nAcesso em: 6 nov. 2021.\n\nA Amazônia perdeu diariamente uma área de floresta\nmaior do que 4 mil campos de futebol apenas em setembro\nde 2021. Em todo o mês, foram devastados 1 224 km²,\no que corresponde ao tamanho da cidade do Rio de Janeiro\ne é a pior marca para setembro em 10 anos. Os dados\nsão do Sistema de Alerta de Desmatamento (SAD) do\nInstituto do Homem e Meio Ambiente da Amazônia (Imazon),\nque monitora a floresta por meio de imagens de satélites.\n\nFREITAS, A. Desmatamento na Amazônia em setembro foi o maior\n\npara o período em 10 anos. Disponível em: www.cnnbrasil.com.br.\n\nAcesso em: 6 nov. 2021.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para a região amazônica, a relação entre as informações dos textos indica uma redução do(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "circulação de ventos alísios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aquecimento dos solos locais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "média de temperatura oceânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "índice de refletividade superficial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "intensidade de chuvas convectivas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

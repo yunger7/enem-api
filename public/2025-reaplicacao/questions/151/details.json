@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2025",
+    "index": 151,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o objetivo de reduzir o consumo de água potável e\ncombater o desperdício, o síndico de um prédio pretende instalar\num sistema de captação de água da chuva para uso na limpeza\ndas áreas externas e irrigação do jardim. Para isso, ao lado desse\nprédio, será instalado um reservatório cilíndrico, cujo diâmetro\ninterno terá 3 metros. Esse reservatório receberá toda a água\nda chuva, sem perdas, que cai na laje superior desse prédio,\ncuja área mede 450 m2. Sua capacidade deverá ser igual ao\nvolume de água captada através dessa laje durante um dia com\numa chuva de 60 mm, ou seja, 60 litros por metro quadrado.\n\nUtilize 3 como aproximação para p.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O reservatório a ser instalado deverá ter altura interna mínima, em metro, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

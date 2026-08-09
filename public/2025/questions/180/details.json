@@ -1,0 +1,46 @@
+{
+    "title": "Questão 180 - ENEM 2025",
+    "index": 180,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/180/82a3ddcf-9389-4755-82ab-724525c4c0fd.png)\n\nQuatro amigos, cada um com 100 moedas, criaram um jogo,\nno qual cada um assume uma das quatro posições, 1, 2, 3 ou 4,\nindicadas na figura, e nela permanece até o final.\n\n![](https://enem.dev/2025/questions/180/db013cd2-6618-42f5-b026-be00ffc0d19b.png)\n\nO desenvolvimento do jogo se dá em rodadas e, em todas\nelas, cada jogador transfere e recebe uma quantidade de moedas,\nda seguinte maneira:\n\n•\to jogador na posição 1 transfere 1 moeda para o jogador\nna posição 2;\n•\to jogador na posição 2 transfere 2 moedas para o jogador\nna posição 3;\n•\to jogador na posição 3 transfere 3 moedas para o jogador\nna posição 4;\n•\to jogador na posição 4 transfere 4 moedas para o jogador\nna posição 1, completando a rodada.",
+    "files": [
+        "https://enem.dev/2025/questions/180/82a3ddcf-9389-4755-82ab-724525c4c0fd.png",
+        "https://enem.dev/2025/questions/180/db013cd2-6618-42f5-b026-be00ffc0d19b.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Ao final da rodada n, qual é a expressão algébrica que representa o número de moedas do jogador na posição 1?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "103 + 4n",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "103 + 3n",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100 + 4n",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "100 + 3n",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "99 + 4n",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

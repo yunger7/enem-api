@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2024",
+    "index": 1,
+    "year": 2024,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2024-reaplicacao/questions/1-ingles/275ca72e-6931-4daf-b6d3-0ef75bda63e7.png)\n\nBARRY, L. Disponível em: www.avclub.com. Acesso em: 25 out. 2021.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/1-ingles/275ca72e-6931-4daf-b6d3-0ef75bda63e7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa história em quadrinhos, que apresenta dois personagens frente a um quadro, ilustra a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "necessidade de promoção do ensino de Arte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "diversidade de opiniões sobre dispositivos culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dificuldade de valorização de elementos culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "importância de identificação com produções artísticas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "possibilidade de aprendizado de técnicas artísticas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

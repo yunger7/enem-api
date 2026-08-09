@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2024",
+    "index": 178,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O dono de dois cachorrinhos, um shitzu e um poodle,\nfez uma pesquisa na internet sobre preços de banho para\nseus cães em cinco lojas próximas à sua casa. Ele pretendia\nlevar os dois cachorrinhos a um mesmo petshop naquela\nsemana para tomar banho.\n\nPetshop\nShitzu\nPoodle\nPromoção da\n\nsemana\n\nI\nR$ 29,00 R$ 18,00\nBanho para cães da raça\n\npoodle: R$ 15,00\n\n10% de desconto no valor\ndo banho para cães da\n\nII\nR$ 23,00 R$ 20,00\n\nraça poodle\n\nTraga dois cachorrinhos\npara tomar banho e ganhe\n\nIII\nR$ 25,00 R$ 20,00\n\nR$ 5,00 de desconto no\n\nvalor total\n\nTraga dois cachorrinhos\npara tomar banho e ganhe\n\nIV\nR$ 22,00 R$ 28,00\n\n10% de desconto no\nvalor total\n\n20% de desconto no valor\ndo banho para cães da\n\nV\nR$ 30,00 R$ 24,00\n\nraça shitzu\n\nO local escolhido foi o que apresentou o menor preço\npara banho dos dois cachorrinhos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O petshop escolhido foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

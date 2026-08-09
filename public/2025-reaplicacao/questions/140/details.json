@@ -1,0 +1,51 @@
+{
+    "title": "Questão 140 - ENEM 2025",
+    "index": 140,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os egípcios utilizavam um dos sistemas de escrita numérica\nmais antigos, datado aproximadamente de 3500 a.C. Esse sistema\ntrabalhava com agrupamentos não posicionais. O quadro\napresenta alguns dos símbolos utilizados e seus respectivos\nvalores equivalentes.\n\n![](https://enem.dev/2025-reaplicacao/questions/140/bf5d6eac-2d52-4205-a5c5-738cc90db469.png)\n\nAssim, a representação do número 12 023, em símbolos\negípcios, é:\n\n![](https://enem.dev/2025-reaplicacao/questions/140/dd2936ab-b50b-4800-81ed-ff681e7538b8.png)\n\n12 023 = 1 ⋅ (10)4 + 2 ⋅ (10)3 + 2 ⋅ (10) + 3 =\n\nDisponível em: www.matematica.br. Acesso em: 24 ago. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/140/bf5d6eac-2d52-4205-a5c5-738cc90db469.png",
+        "https://enem.dev/2025-reaplicacao/questions/140/dd2936ab-b50b-4800-81ed-ff681e7538b8.png",
+        "https://enem.dev/2025-reaplicacao/questions/140/6bb158a2-9788-44ab-b367-e412224fc60f.png",
+        "https://enem.dev/2025-reaplicacao/questions/140/c731dedd-eb80-4017-95e6-cd3d6049916e.png",
+        "https://enem.dev/2025-reaplicacao/questions/140/0bf12944-82bb-45ba-9ef7-b3bfe21beca5.png",
+        "https://enem.dev/2025-reaplicacao/questions/140/abf37f32-587a-4bed-bfff-82f3ffaef4f1.png",
+        "https://enem.dev/2025-reaplicacao/questions/140/6e2178d3-013f-4c9f-b8b0-cffa41a0d4e8.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "No sistema egípcio, qual é a representação do número 2 030?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/140/6bb158a2-9788-44ab-b367-e412224fc60f.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/140/c731dedd-eb80-4017-95e6-cd3d6049916e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/140/0bf12944-82bb-45ba-9ef7-b3bfe21beca5.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/140/abf37f32-587a-4bed-bfff-82f3ffaef4f1.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025-reaplicacao/questions/140/6e2178d3-013f-4c9f-b8b0-cffa41a0d4e8.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2025",
+    "index": 155,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/155/fc4f8916-c4df-47b5-81bd-6c156a4a6673.png)\n\nDez casais fundaram um grupo de dança e decidiram\nconstituir uma diretoria com três cargos: presidente, secretário\ne tesoureiro. Para maior representatividade, decidiu-se que no\nmáximo uma pessoa por casal poderá ocupar um cargo nessa\ndiretoria.",
+    "files": [
+        "https://enem.dev/2025/questions/155/fc4f8916-c4df-47b5-81bd-6c156a4a6673.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantas diretorias diferentes podem ser constituídas por esses 10 casais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 × 9 × 8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20 × 18 × 16",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "20 × 19 × 18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 × 9 × 8 × 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20 × 18 × 16 × 2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

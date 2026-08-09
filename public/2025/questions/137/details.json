@@ -1,0 +1,46 @@
+{
+    "title": "Questão 137 - ENEM 2025",
+    "index": 137,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/137/af5f148e-3cfe-4a49-8cde-a5c44d08402c.png)\n\nA reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela\nreportagem estão apresentados no infográfico.\n\nPerfil dos brasileiros nas redes sociais\n\n![](https://enem.dev/2025/questions/137/20a49a97-aaea-44e2-90c9-8bc22b6c001d.png)\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 22 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/137/af5f148e-3cfe-4a49-8cde-a5c44d08402c.png",
+        "https://enem.dev/2025/questions/137/20a49a97-aaea-44e2-90c9-8bc22b6c001d.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "46",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

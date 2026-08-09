@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2025",
+    "index": 147,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A produtividade P de um tipo de semente depende da\nquantidade Q de fertilizante aplicada, ambas em quilograma por\nhectare. Foram realizados quatro experimentos em pequenas\nregiões, onde foi possível medir a produção para diferentes\nvalores de Q para aquele tipo de solo, obtendo-se os seguintes\nresultados:\n\n• região 1: Q = 0 kg/ha resultou P = 1 000 kg/ha;\n• região 2: Q = 100 kg/ha resultou P = 6 000 kg/ha;\n• região 3: Q = 200 kg/ha resultou P = 9 000 kg/ha;\n• região 4: Q = 500 kg/ha resultou P = 6 000 kg/ha.\n\nA produtividade P é modelada por uma função quadrática na\nvariável Q. O objetivo desses experimentos é obter a dosagem\nideal de fertilizante que torne a produção máxima.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual deve ser a dosagem de fertilizante a ser aplicada, em quilograma por hectare, para que a produção seja máxima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

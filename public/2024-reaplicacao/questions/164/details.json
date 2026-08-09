@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2024",
+    "index": 164,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O limite recomendável de carga a ser transportada por\num caminhão é 10 000 kg. Ao transportar uma carga que\nexcede em 300 kg esse limite, o consumo de combustível\né 2% maior que o consumo observado ao transportar\n10 000 kg.\nEm uma rodovia, o consumo de combustível desse\ncaminhão é proporcional à quilometragem percorrida,\nquando considerada uma mesma carga transportada.\nSabe-se que, transportando 10 000 kg por 90 km nessa\nrodovia, esse caminhão consome 60 litros de combustível.\nSuponha que esse caminhão irá transportar uma carga de\n10 300 kg por 75 km nessa rodovia.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantos litros de combustível esse caminhão consumirá para efetuar esse transporte?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "49,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "51,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "58,8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "61,2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

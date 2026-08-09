@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2024",
+    "index": 134,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Problemas no DNA são responsáveis por cerca de\nmetade dos casos de perda de audição na infância.\nUm estudo com camundongos mostrou que a injeção de\num vírus, geneticamente modificado, no embrião desses\nanimais pode corrigir o problema e restaurar parte da audição.\n\nDisponível em: www.bbc.com. Acesso em: 11 jul. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o texto, qual técnica permite a correção parcial do problema?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Terapia gênica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Marcação molecular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Clonagem terapêutica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Hibridização genômica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sequenciamento gênico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

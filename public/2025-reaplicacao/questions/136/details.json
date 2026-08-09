@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2025",
+    "index": 136,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma escultura metálica é composta por uma esfera de\nraio 5 cm e um pedestal em forma de paralelepípedo reto\nretângulo. O pedestal tem 15 cm de altura e sua base tem forma\nde quadrado, com lados de medida 8 cm. A fixação da esfera\nse dá no ponto de interseção das diagonais da face quadrada\ndo pedestal, sendo esse o ponto de tangência entre os dois\nsólidos que compõem a escultura. O museu responsável pela\nguarda da escultura deverá transportá-la para um outro local e\npretende acondicioná-la em uma caixa perfeitamente ajustada\nàs dimensões da escultura. No estoque do museu, existem cinco\ntipos de caixa, todos com tampa e em formato de paralelepípedo\nreto retângulo com estas dimensões:\n\n• caixa 1: 8 cm × 8 cm × 25 cm;\n• caixa 2: 13 cm × 13 cm × 20 cm;\n• caixa 3: 10 cm × 10 cm × 20 cm;\n• caixa 4: 10 cm × 10 cm × 25 cm;\n• caixa 5: 13 cm × 13 cm × 25 cm.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A caixa a ser escolhida, para embalar a escultura nas condições pretendidas, é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

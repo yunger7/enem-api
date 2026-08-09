@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2024",
+    "index": 105,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma equipe de pesquisadores interessados em estudar\na concentração de ozônio em uma região da atmosfera\nplaneja enviar um balão para captar dados meteorológicos\na 20 000 m de altitude. Para recuperar os dados captados\npelo dispositivo de medida, o balão precisa estourar quando\natingir a altitude desejada e retornar ao solo, o que ocorrerá\nquando seu volume atingir o valor limite a partir do qual não\nhá mais expansão. As figuras mostram a forma do balão e\ncomo a temperatura e a pressão atmosférica variam com\na altitude em relação ao nível do mar.\n\n![](https://enem.dev/2024-reaplicacao/questions/105/9300580f-3b31-4495-9753-a642c140a9d8.png)\n\nPara essa situação, considera-se o gás dentro do balão\ne os gases atmosféricos como gases ideais. Assume-se\ntambém que a pressão interna ao balão depende somente\nda pressão atmosférica.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/105/9300580f-3b31-4495-9753-a642c140a9d8.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quantas vezes o raio do balão deve aumentar para captar os dados meteorológicos desejados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,83",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1,25",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

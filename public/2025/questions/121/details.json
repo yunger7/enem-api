@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2025",
+    "index": 121,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "![](https://enem.dev/2025/questions/121/2579e06a-28ba-4da8-8986-f6c214094d1c.png)\n\nA dimetilamina é uma substância de elevada toxidez que\nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa\nsubstância se espalhou por uma rodovia após um acidente de\ntrânsito envolvendo um caminhão que transportava esse produto.\nPara minimizar a agressão ao meio ambiente, bem como evitar\na evaporação da dimetilamina com a elevação da temperatura\nao longo do dia, um químico considerou o uso de algumas\nsubstâncias ou misturas como água, vinagre, óleo de soja, sal\nde cozinha e bicarbonato de sódio.",
+    "files": [
+        "https://enem.dev/2025/questions/121/2579e06a-28ba-4da8-8986-f6c214094d1c.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "vinagre.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "óleo de soja.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "sal de cozinha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "bicarbonato de sódio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

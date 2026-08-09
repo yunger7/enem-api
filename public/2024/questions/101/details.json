@@ -1,0 +1,45 @@
+{
+    "title": "Questão 101 - ENEM 2024",
+    "index": 101,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A saúde do professor: acústica arquitetônica\n\nDentre os parâmetros acústicos que afetam a\ninteligibilidade dos sons emitidos em ambientes fechados,\ndestacam-se o ruído de fundo do ambiente e o decréscimo\ndo nível sonoro com a distância da fonte emissora. Assim,\nsentar-se no fundo da sala de aula pode prejudicar a\naprendizagem dos estudantes, por impedir que eles\ndistingam, com precisão, os sons emitidos, diminuindo a\ninteligibilidade da fala de seus professores. Considere a\nsituação exemplificada pelo infográfico: à distância de\n1 metro, o nível sonoro da fala de um professor é de\n60 dB e diminui com a distância. Considere, ainda, que o\nruído de fundo nessa sala de aula pode chegar a 45 dB\ne que, para ser compreendida, o nível sonoro da fala do\nprofessor deve estar 5 dB acima desse ruído.\n\n![](https://enem.dev/2024/questions/101/b84ffc3a-7d6c-409d-8bdf-4f09b57d48ca.png)\n\nDisponível em: www.ufrrj.br. Acesso em: 2 dez. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/101/b84ffc3a-7d6c-409d-8bdf-4f09b57d48ca.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,0 m.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "4,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6,5 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8,0 m.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9,5 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

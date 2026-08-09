@@ -1,0 +1,45 @@
+{
+    "title": "Questão 128 - ENEM 2024",
+    "index": 128,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Placas solares comuns dependem de dias ensolarados\npara gerar energia. Mas podemos gerar eletricidade com\na ajuda de gotas de chuva, revestindo placas solares\ncom uma fina camada de grafeno. Os íons dissociados a\npartir da água da chuva (Am+ e Bn−) tornam a combinação\ngrafeno e água da chuva um par perfeito para geração\nde energia. O processo requer apenas uma camada de\ngrafeno para que grande quantidade de elétrons (e−)\nse movimente ao longo da superfície.\n\n![](https://enem.dev/2024/questions/128/9db935ca-e42a-4bf1-9c59-c98d56b7424f.png)\n\nTANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain.\nAngewandte Chemie International Edition, n. 55, 2016 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/128/9db935ca-e42a-4bf1-9c59-c98d56b7424f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao produzir eletricidade em dias chuvosos, o grafeno",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oxida os cátions dissolvidos na água da chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impede a difusão da água através das placas solares.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminui a energia de ativação da reação no pseudocapacitor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "forma um compósito não metálico com os íons na água da chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gera uma diferença de potencial pela interação dos elétrons com os cátions.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 107 - ENEM 2025",
+    "index": 107,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A fotografia de corpos celestes a partir da Terra pode\nser feita com um telescópio instalado sobre um suporte de\nguiagem. Esse suporte é composto por um sistema mecânico que\né utilizado para compensar o movimento de rotação da Terra,\nao manter o telescópio apontado para um “ponto fixo” no céu.\nUm estudante de física, em Brasília (latitude 16° Sul), adquiriu\num telescópio e um suporte de guiagem. Como experimento, ele\nusou o telescópio para estimar a velocidade linear de rotação\nda Terra na sua latitude. Para realizar os cálculos, ele utilizou o\nesboço a seguir e considerou p = 3 e cos (16°) = 0,9.\n\n![](https://enem.dev/2025-reaplicacao/questions/107/771ea92a-d580-4413-9386-b170f7a72d4f.png)",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/107/771ea92a-d580-4413-9386-b170f7a72d4f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A velocidade linear, em quilômetro por hora, obtida pelo estudante é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

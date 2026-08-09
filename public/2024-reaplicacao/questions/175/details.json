@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2024",
+    "index": 175,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma incorporadora põe à venda diversos apartamentos\nde 2 e de 3 quartos. Os de 2 quartos têm varanda e custam\nR$ 220 000,00. Alguns apartamentos de 3 quartos não têm\nvaranda e custam R$ 300 000,00. Se tiverem varanda,\no preço será 15% maior. A previsão do mercado é de\nque imóveis de 2 quartos possam ser revendidos daqui\na 12 meses por 5% a mais que o preço pelo qual foram\ncomprados, enquanto apartamentos de 3 quartos poderão\nser revendidos daqui a 12 meses por 4% a mais do que o\nvalor pago, independentemente de terem varanda.\n\nUma agência imobiliária tem R$ 1 000 000,00 para\ninvestir e decidiu comprar alguns desses apartamentos.\nA intenção é revendê-los daqui a 12 meses com o maior lucro\npossível. As possibilidades de compra foram analisadas e,\nlevando em conta o valor a investir e a previsão do mercado,\numa decisão sobre a compra foi tomada.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A decisão quanto à quantidade e ao tipo de apartamentos a comprar foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 de 2 quartos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 de 3 quartos sem varanda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 de 3 quartos com varanda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 de 2 quartos e 1 de 3 quartos sem varanda.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 de 2 quartos, 1 de 3 quartos sem varanda e 1 de 3 quartos com varanda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

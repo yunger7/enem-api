@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2025",
+    "index": 130,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere o esquema básico de funcionamento de uma usina nuclear responsável pelo fornecimento de energia elétrica a\numa cidade próxima.\n\n![](https://enem.dev/2025-reaplicacao/questions/130/f5a120a2-2a08-4c37-a505-9e7d615a1d9b.png)\n\nNo reator, ocorre a fissão nuclear, que gera energia suficiente para aquecer a água dentro do gerador de vapor. O vapor\npassa pelas pás da turbina gerando energia elétrica. Em seguida, ele é resfriado no condensador. A bomba l é responsável por\nfazer a água aquecida pela fissão nuclear circular e aquecer a água dentro da câmara geradora de vapor. A bomba ll leva a água\ndo condensador para a câmara geradora de vapor. A bomba lll faz circular a água do ambiente aquático para resfriar/condensar\no vapor que passou pelas turbinas. As setas cinza indicam o sentido do fluxo de água.\n\nDisponível em: https://energiainteligenteufjf.com.br. Acesso em: 5 mar. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/130/f5a120a2-2a08-4c37-a505-9e7d615a1d9b.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Se a bomba l parar de funcionar, o que ocorrerá na usina nuclear?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

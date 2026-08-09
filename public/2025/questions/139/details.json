@@ -1,0 +1,46 @@
+{
+    "title": "Questão 139 - ENEM 2025",
+    "index": 139,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/139/80f345e3-dbdb-4ad6-a76f-e843a61990a9.png)\n\nNo entorno de uma lagoa circular, cujo raio mede 1 km,\nhá um uma ciclovia. Devido aos frequentes roubos de bicicleta,\na prefeitura planeja alocar policiais em posições estratégicas\npara patrulhar essa ciclovia, de forma a torná-la totalmente\nprotegida. Um ponto da ciclovia é considerado protegido se\nhouver pelo menos um policial a, no máximo, 200 m de distância\ndaquele ponto, posicionado sobre a ciclovia. A figura ilustra\num ponto P sobre a ciclovia, que estará protegido se houver\npelo menos um policial posicionado sobre a região de cor\ncinza escuro.\n\nDesconsidere a largura da pista da ciclovia e utilize 3 como\naproximação para p.\n\n![](https://enem.dev/2025/questions/139/effc5e2b-0599-4743-a6bb-667da993217c.png)",
+    "files": [
+        "https://enem.dev/2025/questions/139/80f345e3-dbdb-4ad6-a76f-e843a61990a9.png",
+        "https://enem.dev/2025/questions/139/effc5e2b-0599-4743-a6bb-667da993217c.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, a quantidade mínima necessária de policiais a serem alocados ao longo dessa ciclovia para torná-la protegida é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
