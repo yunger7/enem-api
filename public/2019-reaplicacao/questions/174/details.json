@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2019",
+    "index": 174,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa, investindo na segurança, contrata\numa firma para instalar mais uma câmera de segurança\nno teto de uma sala. Para iniciar o serviço, o representante\nda empresa informa ao instalador que nessa sala já\nestão instaladas duas câmeras e, a terceira, deverá ser\ncolocada de maneira a ficar equidistante destas. Além\ndisso, ele apresenta outras duas informações:\n\n(i) \u0007um esboço em um sistema de coordenadas\n\ncartesianas, do teto da sala, onde estão inseridas\nas posições das câmeras 1 e 2, conforme\na figura.\n\ny\n\nLargura da sala (m)\n\nCâmera 2\n\nCâmera 1\n\nx\n\n1\n0\n2\n3\n4\n\nComprimento da sala (m)\n\n(ii) \u0007\n\ncinco relações entre as coordenadas (x ; y) da\nposição onde a câmera 3 deverá ser instalada.\n\nR1:\ny = x\n\nR2:\ny = − 3x + 5\n\nR3:\ny = − 3x + 10\n\nR4:\ny\nx\n\n1\n3\n5\n3\n\nR5:\ny\nx\n\n1\n3\n1\n10\n\nO instalador, após analisar as informações e as\ncinco relações, faz a opção correta dentre as relações\napresentadas para instalar a terceira câmera.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A relação escolhida pelo instalador foi a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

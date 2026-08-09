@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2019",
+    "index": 116,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O processo de calagem consiste na diminuição da\nacidez do solo usando compostos inorgânicos, sendo o\nmais usado o calcário dolomítico, que é constituído de\ncarbonato de cálcio (CaCO3) e carbonato de magnésio\n(MgCO3). Além de aumentarem o pH do solo, esses\ncompostos são fontes de cálcio e magnésio, nutrientes\nimportantes para os vegetais.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os compostos contidos no calcário dolomítico elevam o pH do solo, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "são óxidos inorgânicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "são fontes de oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o ânion reage com a água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "são substâncias anfóteras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "os cátions reagem com a água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

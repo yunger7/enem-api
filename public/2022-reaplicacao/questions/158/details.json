@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2022",
+    "index": 158,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para tornar uma pista de automobilismo mais segura, foram solicitadas intervenções em seu traçado.\nOs engenheiros contratados elaboraram um projeto com cinco possíveis modificações, destacadas nos setores\n(I), (II), (III), (IV) e (V) pelas linhas tracejadas, como mostra a figura. No entanto, na temporada atual, só é\npermitido que se façam duas dessas alterações.\n\nTodos os trechos passíveis de modificação, tanto no traçado original quanto no novo traçado, são\nsemicircunferências ou segmentos de reta.\n\n200 m\n\n60°\n60°\n\n360 m\n\n480 m\n\nPretende-se que a nova pista tenha extensão mais próxima que a da original após duas modificações. Os trechos\nem comum da pista original e da nova pista não serão alterados.\n\nUtilize 3 como aproximação para π.\nPara atender às condições apresentadas, quais setores deverão ser modificados?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e V B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II e III C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e V D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "III e IV E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IV e V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2018",
+    "index": 168,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A inclinação de um telhado depende do tipo e da marca das telhas escolhidas. A figura é o esboço do telhado da casa de um específico proprietário. As telhas serão apoiadas sobre a superfície quadrada plana ABCD, sendo BOC um triângulo retângulo em O. Sabe-se que h é a altura do telhado em relação ao forro da casa (a figura plana ABOE), b = 10 é o comprimento do segmento OB, e d é a largura do telhado (segmento AB), todas as medidas dadas em metro.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um milheiro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Disponível em: www.toptelha.com.br. Acesso em: 31 jul. 2012. Sabe-se que, em função do tipo de telha escolhida pelo proprietário, a porcentagem i de inclinação ideal do b = ×100 , é de telhado, descrita por meio da relação i h 40%, e que a expressão que determina o número N de telhas necessárias na cobertura é dada por N d = × 2 10 5 , . Além disso, essas telhas são vendidas somente em milheiros. O proprietário avalia ser fundamental respeitar a inclinação ideal informada pelo fabricante, por isso argumenta ser necessário adquirir a quantidade mínima de telhas correspondente a",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "h O A d b",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

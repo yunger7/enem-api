@@ -1,0 +1,43 @@
+{
+    "title": "Questão 35 - ENEM 2019",
+    "index": 35,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Há casais que jogam com os sonhos como se\njogassem tênis. Ficam à espera do momento certo para\na cortada. O jogo de tênis é assim: recebe-se o sonho\ndo outro para destruí-lo, arrebentá-lo como bolha de\nsabão. O que se busca é ter razão e o que se ganha é o\ndistanciamento. Aqui, quem ganha, sempre perde.\n\nJá no frescobol é diferente. O sonho do outro é um\nbrinquedo que deve ser preservado, pois sabe-se que,\nse é sonho, é coisa delicada, do coração. Assim cresce\no amor. Ninguém ganha para que os dois ganhem.\nE se deseja então que o outro viva sempre, eternamente,\npara que o jogo nunca tenha fim…\n\nALVES, R. Tênis X Frescobol. As melhores crônicas de Rubem Alves.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Campinas: Papirus, 2012. O texto de Rubem Alves faz uma analogia entre dois jogos que utilizam raquetes e as diferentes formas de as pessoas se relacionarem afetivamente, de modo que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "o tênis indica um jogo em que a cooperação predomina, o que representa o distanciamento na relação entre as pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tênis indica um jogo em que a competição é predominante, o que representa um sonho comum no relacionamento entre pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o frescobol indica um jogo em que a cooperação prevalece, o que simboliza o compartilhamento de sonhos entre as pessoas no relacionamento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "o frescobol indica um jogo em que a competição prevalece, o que simboliza um relacionamento em que uma pessoa busca destruir o sonho da outra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o frescobol e o tênis indicam, respectivamente, situações de competição e cooperação, o que ilustra os diferentes sonhos das pessoas no relacionamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

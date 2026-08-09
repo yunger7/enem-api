@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2019",
+    "index": 130,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A principal explicação para a grande variedade\nde espécies na Amazônia é a teoria do refúgio.\nNos últimos 100 000 anos, o planeta sofreu vários\nperíodos de glaciação, em que as florestas enfrentaram\nfases de seca. Dessa forma, as matas expandiram-se e\ndepois reduziram-se. Nos períodos de seca prolongados,\ncada núcleo de floresta ficava isolado do outro. Então,\nos grupos de animais dessas áreas isoladas passaram\npor processos de diferenciação genética, muitas vezes\nse transformando em espécies ou subespécies diferentes\ndas originais e das que ficaram em outros refúgios.\n\nDisponível em: http://ambientes.ambientebrasil.com.br.\n\nAcesso em: 22 abr. 2015.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O principal processo evolutivo relacionado ao texto é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "anagênese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "coevolução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "evolução alopátrica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "evolução simpátrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convergência adaptativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

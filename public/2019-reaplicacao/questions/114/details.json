@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2019",
+    "index": 114,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos processos biotecnológicos mais antigos\né a utilização de microrganismos para a produção de\nalimentos. Num desses processos, certos tipos de\nbactérias anaeróbicas utilizam os açúcares presentes\nnos alimentos e realizam sua oxidação parcial, gerando\ncomo produto final da reação o ácido lático.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual produto destinado ao consumo humano tem sua produção baseada nesse processo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Pão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vinho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Iogurte.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Vinagre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cachaça.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

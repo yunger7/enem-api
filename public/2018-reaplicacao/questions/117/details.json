@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2018",
+    "index": 117,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As indústrias de cerâmica utilizam argila para produzir artefatos como tijolos e telhas. Uma amostra de argila contém 45% em massa de sílica (SiO2) e 10% em massa de água (H2O). Durante a secagem por aquecimento em uma estufa, somente a umidade é removida. Após o processo de secagem, o teor de sílica na argila seca será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "45%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "55%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "90%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "100%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2019",
+    "index": 178,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um trabalho escolar, um aluno fez uma planta\ndo seu bairro, utilizando a escala 1 : 500, sendo que as\nquadras possuem as mesmas medidas, conforme a figura.\n\n8 cm\n\n20 cm\n\nPonte\n9 cm\n\nO professor constatou que o aluno esqueceu de\ncolocar a medida do comprimento da ponte na planta,\nmas foi informado por ele que ela media 73 m.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor a ser colocado na planta, em centímetro, referente ao comprimento da ponte deve ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,46.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "14,6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "68.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "146.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

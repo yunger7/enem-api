@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2018",
+    "index": 95,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O fitato, presente em diversos cereais, apresenta a propriedade de associar-se a alguns minerais, proteínas e\ncarboidratos, formando complexos insolúveis e incapazes de serem digeridos por animais monogástricos. Por esse\nmotivo, muitas rações ricas em cereais contêm, na sua formulação final, a enzima fitase como aditivo. O esquema de\nação dessa enzima sobre o fitato está representado na figura.\n\nCa\n\n![](https://enem.dev/2018-reaplicacao/questions/95/64fcee0a-8510-46a8-917c-030e8336b6c5.png)\n\nO4P\nPO4\n\nFitase\n\nAmido\n\nROMANO, F.; RUSSO, A. Biocatalysis Research Progress. Hauppauge (NY): Nova Science Publishers, 2008 (adaptado).",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/95/64fcee0a-8510-46a8-917c-030e8336b6c5.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A adição de fitase nessas rações acarretará um aumento da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eliminação de produtos nitrogenados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "disponibilidade de nutrientes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "desnaturação de proteínas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "assimilação de fitato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "absorção de amido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

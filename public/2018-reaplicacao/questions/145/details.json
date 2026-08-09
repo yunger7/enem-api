@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2018",
+    "index": 145,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um rapaz possui um carro usado e deseja utilizá-lo\ncomo parte do pagamento na compra de um carro novo.\nEle sabe que, mesmo assim, terá que financiar parte do\nvalor da compra.\n\nDepois de escolher o modelo desejado, o rapaz faz\numa pesquisa sobre as condições de compra em três lojas\ndiferentes. Em cada uma, é informado sobre o valor que\na loja pagaria por seu carro usado, no caso de a compra\nser feita na própria loja. Nas três lojas são cobrados juros\nsimples sobre o valor a ser financiado, e a duração do\nfinanciamento é de um ano. O rapaz escolherá a loja em\nque o total, em real, a ser desembolsado será menor.\nO quadro resume o resultado da pesquisa.\n\nLoja\nValor oferecido pelo\n\nValor do carro\n\nPercentual\nde juros (%)\n\ncarro usado (R$)\n\nnovo (R$)\n\nA\n13 500,00\n28 500,00\n18 ao ano\n\nB\n13 000,00\n27 000,00\n20 ao ano\n\nC\n12 000,00\n26 500,00\n19 ao ano",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A quantia a ser desembolsada pelo rapaz, em real, será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "16 800.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "17 255.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "17 700.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

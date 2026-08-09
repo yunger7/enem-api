@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2018",
+    "index": 109,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Bebidas podem ser refrigeradas de modo mais rápido utilizando-se caixas de isopor contendo gelo e um pouco de sal grosso comercial. Nesse processo ocorre o derretimento do gelo com consequente formação de líquido e resfriamento das bebidas. Uma interpretação equivocada, baseada no senso comum, relaciona esse efeito à grande capacidade do sal grosso de remover calor do gelo. Do ponto de vista científico, o resfriamento rápido ocorre em razão da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "variação da solubilidade do sal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alteração da polaridade da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elevação da densidade do líquido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "modificação da viscosidade do líquido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuição da temperatura de fusão do líquido.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

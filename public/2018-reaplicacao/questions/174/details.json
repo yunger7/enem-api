@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2018",
+    "index": 174,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Usando a capacidade máxima de carga do caminhão\nde uma loja de materiais de construção, é possível levar\n60 sacos de cimento, ou 90 sacos de cal, ou 120 latas de\nareia. No pedido de um cliente, foi solicitada a entrega de\n15 sacos de cimento, 30 sacos de cal e a maior quantidade\nde latas de areia que fosse possível transportar, atingindo\na capacidade máxima de carga do caminhão.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, qual a quantidade máxima de latas de areia que poderão ser enviadas ao cliente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "80",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "90",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

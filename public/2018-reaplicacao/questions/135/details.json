@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2018",
+    "index": 135,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Baterias de lítio, utilizadas em dispositivos eletrônicos\nportáteis, são constituídas de células individuais com\nddp de 3,6 V. É comum os fabricantes de computadores\nutilizarem as células individuais para a obtenção de\nbaterias de 10,8 V ou 14,4 V. No entanto, fazem a\npropaganda de seus produtos fornecendo a informação\ndo número de células da bateria e sua capacidade de\ncarga em mAh, por exemplo, 4 400 mAh.\n\nDisponível em: www.laptopbattery.net. Acesso em: 15 nov. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dentre as baterias de 10,8 V e 14,4 V, constituídas por 12 células individuais, qual possui maior capacidade de carga?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A bateria de 10,8 V, porque possui combinações em paralelo de 4 conjuntos com 3 células em série.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A bateria de 14,4 V, porque possui combinações em paralelo de 3 conjuntos com 4 células em série.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A bateria de 14,4 V, porque possui combinações em série de 3 conjuntos com 4 células em paralelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A bateria de 10,8 V, porque possui combinações em série de 4 conjuntos com 3 células em paralelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A bateria de 10,8 V, porque possui combinações em série de 3 conjuntos com 4 células em série.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

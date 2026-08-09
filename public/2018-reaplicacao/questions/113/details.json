@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2018",
+    "index": 113,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em pacientes portadores de astrocitoma pilocítico,\num tipo de tumor cerebral, o gene BRAF se quebra\ne parte dele se funde a outro gene, o KIAA1549. Para\ndetectar essa alteração cromossômica, foi desenvolvida\numa sonda que é um fragmento de DNA que contém\npartículas fluorescentes capazes de reagir com os genes\nBRAF e KIAA1549 fazendo cada um deles emitir uma cor\ndiferente. Em uma célula normal, como os dois genes\nestão em regiões distintas do genoma, as duas cores\naparecem separadamente. Já quando há a fusão dos\ndois genes, as cores aparecem sobrepostas.\n\nDisponível em: http://agencia.fapesp.br. Acesso em: 3 out. 2015.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A alteração cromossômica presente nos pacientes com astrocitoma pilocítico é classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "estrutural do tipo deleção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "numérica do tipo euploidia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "estrutural do tipo duplicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "numérica do tipo aneuploidia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "estrutural do tipo translocação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

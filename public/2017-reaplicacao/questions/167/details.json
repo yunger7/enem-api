@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2017",
+    "index": 167,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma embalagem de farinha encontra-se a receita\nde um bolo, sendo parte dela reproduzida a seguir:\n\n• 640 g de farinha  (equivalente a 4 xícaras).\n\n• 16 g de fermento biológico (equivalente a 2 colheres medidas).\n\nPossuindo apenas a colher medida indicada na\nreceita, uma dona de casa teve que fazer algumas\nconversões para poder medir com precisão a farinha.\nConsidere que a farinha e o fermento possuem\ndensidades iguais.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Cada xícara indicada na receita é equivalente a quantas colheres medidas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "80",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "320",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

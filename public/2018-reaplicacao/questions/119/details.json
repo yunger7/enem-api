@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2018",
+    "index": 119,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Objetos de prata sofrem escurecimento devido à\nsua reação com enxofre. Estes materiais recuperam seu\nbrilho característico quando envoltos por papel alumínio e\nmergulhados em um recipiente contendo água quente e\nsal de cozinha.\n\nA reação não balanceada que ocorre é:\n\nAg2S (s) + Al (s) → Al2S3 (s) + Ag (s)\n\nDados da massa molar dos elementos (g mol−1):\nAg = 108; S = 32.\n\nUCKO, D. A. Química para as ciências da saúde: uma introdução à química geral,\n\norgânica e biológica. São Paulo: Manole, 1995 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Utilizando o processo descrito, a massa de prata metálica que será regenerada na superfície de um objeto que contém 2,48 g de Ag2S é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,54 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,08 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,91 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,16 g.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3,82 g.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2018",
+    "index": 123,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um biólogo foi convidado para realizar um estudo do possível crescimento de populações de roedores em cinco\n\ndiferentes regiões impactadas pelo desmatamento para ocupação humana, o que poderia estar prejudicando a\n\nprodução e armazenagem local de grãos. Para cada uma das cinco populações analisadas (I a V), identificou as\n\ntaxas de natalidade (n), mortalidade (m), emigração (e) e imigração (i), em número de indivíduos, conforme ilustrado\n\nno quadro.\n\nn\nm\ne\ni\n\nI\n65\n40\n23\n5\n\nII\n27\n8\n18\n2\n\nIII\n54\n28\n15\n16\n\nIV\n52\n25\n12\n40\n\nV\n12\n9\n6\n4\n\nEm longo prazo, se essas taxas permanecerem constantes, qual dessas regiões deverá apresentar maiores prejuízos",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "na produção/armazenagem de grãos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

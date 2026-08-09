@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2023",
+    "index": 177,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa, procurando um estacionamento, encontrou\ncinco opções com as seguintes formas de cobrança:\n\n•\t A: R$ 6,00 por hora ou fração de hora;\n•\t B: R$ 6,00 pelas duas primeiras horas e R$ 3,00\na cada hora ou fração de hora subsequente;\n•\t C: R$ 6,00 por hora ou fração de hora, com tolerância\nde 15 minutos;\n•\t D: R$ 6,00 pelas duas primeiras horas e R$ 3,00\na cada hora ou fração de hora subsequente, com\ntolerância de 15 minutos;\n•\t E: R$ 0,10 por minuto.\nEssa pessoa irá utilizar o estacionamento por 5 horas\ne 12 minutos.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O estacionamento que permite a essa pessoa pagar o menor valor possível é A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

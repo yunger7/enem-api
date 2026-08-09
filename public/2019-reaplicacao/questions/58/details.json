@@ -1,0 +1,45 @@
+{
+    "title": "Questão 58 - ENEM 2019",
+    "index": 58,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/58/7714ac9a-4530-477b-8b4a-ef33083f7029.png)\n\nAtlas Geográfico. Rio de Janeiro: IBGE, 1986. Disponível em: www.ibge.gov.br. Acesso em: 16 ago. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/58/7714ac9a-4530-477b-8b4a-ef33083f7029.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A partida final da Copa do Mundo de 2014 aconteceu no dia 13 de julho, às 16 horas, na cidade do Rio de Janeiro. Considerando o horário de verão em Berlim, de 1 hora, os telespectadores alemães assistiram ao apito inicial do juiz às",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "19 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "20 horas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "21 horas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

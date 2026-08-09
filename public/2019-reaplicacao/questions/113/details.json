@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2019",
+    "index": 113,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O\nmármore,\nrocha\nmetamórfica\ncomposta\nprincipalmente de carbonato de cálcio (CaCO3), é muito\nutilizada como material de construção e também na\nprodução de esculturas. Entretanto, se peças de mármore\nsão expostas a ambientes externos, particularmente\nem grandes cidades e zonas industriais, elas sofrem ao\nlongo do tempo um processo de desgaste, caracterizado\npela perda de massa da peça.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse processo de deterioração ocorre em função da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oxidação do mármore superficial pelo oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "decomposição do mármore pela radiação solar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "onda de choque provocada por ruídos externos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "abrasão por material particulado presente no ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "acidez da chuva que cai sobre a superfície da peça.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

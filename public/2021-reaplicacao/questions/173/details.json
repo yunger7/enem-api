@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2021",
+    "index": 173,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O rendimento de um carro bicombustível (abastecido\ncom álcool ou gasolina), popularmente conhecido como\n\u001e\b\u0007\u0007\u0004\u0002~\n@$\u0002\u000b\f\b\u0005\u000f\u0004\u0002\b!\b\t\r\n\u001e\u000e\u000f\u0004\u0002\u001e\u0004\u0010\u0002?2\u001e\u0004\u00042\u0002^\u0002\u0010\n\u0005\u0004\u0007\u0002\u000f\u0004\u0002\u000b\f\n\u0002\n\u000b\f\b\u0005\u000f\u0004\u0002 \b!\b\t\r\n\u001e\u000e\u000f\u0004\u0002 \u001e\u0004\u0010\u0002 J\b\t\u00042\u000e\u0005\b$\u0002 \u001e\u0004\u0005P\u0004\u0007\u0010\n\u0002 \u0004\u0002 J\u0007?\u0006\u001e\u0004$\u0002\nque apresenta o rendimento médio dos carros populares.\n\nkm\n\nGasolina\n\n13\n9\n\nÁlcool\n\n0\n1\nL\n\n28\nMT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "\u001a %\u0004\u0005+\b\u0002 \u0002 \u0010\u0002 \u000e\u000f\b\u000f \u0004\u0002 P \u0002 \u0010\b\u0002 #\u000e\bJ \u0010$\u0002 \"\u0004\u0002 % \u0007 \u0007 \u0004\u0002 P\u0004\u000e\u0002 \u000f \u0002 \u0002 \u0002 \u0010$\u0002 \u0010\u0002 \u0010\u0002 \b\u0007\u0007\u0004\u0002 %\u0004% 2\b\u0007\u0002 ~ @$\u0002 tendo abastecido o carro nos primeiros 559 km com gasolina e, no restante do percurso, com álcool. \u0003\u0004\u0005 \u000e\u000f \u0007 \u0002 \u0002 \u0005\u0004\u0002 \u0010\u0004\u0010 \u0005 \u0004\u0002 \u000f\u0004\u0002 \b!\b \u000e\u0010 \u0005 \u0004\u0002 \u0005 \u0004\u0002 havia mais combustível no tanque. Qual o valor mais próximo do rendimento médio do carro ao concluir todo o percurso de 1 009 km?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

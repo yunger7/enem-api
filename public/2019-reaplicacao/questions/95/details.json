@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2019",
+    "index": 95,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Algumas espécies de orquídeas apresentam flores\nque mimetizam vespas fêmeas, de forma que vespas\nmachos são atraídas na tentativa de acasalamento. Ao\nchegarem às flores, os machos frequentemente entram\nem contato com o pólen da flor, sem prejuízo de suas\natividades. Contudo, como não conseguem se acasalar,\nesses machos procuram novas fêmeas, podendo\nencontrar novas flores e polinizá-las.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Essa interação ecológica pode ser classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "comensalismo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "amensalismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "mutualismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "parasitismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "simbiose.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

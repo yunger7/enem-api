@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2021",
+    "index": 168,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma rede de supermercados vende latas de sucos\nem packs (pacotes) com 12 latas. A venda é feita da\nseguinte forma:\n\n• um pack é vendido por R$ 21,60;\n• na compra de dois packs, o segundo tem 40% de\ndesconto sobre o seu valor.\nEntretanto, essa rede de supermercados costuma\ndisponibilizar também o valor unitário do produto em cada\numa das situações de compra. Para obter esse valor, basta\ndividir o total gasto pela quantidade de latas adquiridas.\n\nEm determinado dia, nos cinco supermercados da rede\nque vendem os packs da forma descrita, os registros do\nvalor unitário da lata de suco para o cliente que comprava\ndois packs eram diferentes entre si, conforme os dados:\n\nLoja I: R$ 1,08;\nLoja II: R$ 1,40;\nLoja III: R$ 1,44;\nLoja IV: R$ 1,76;\nLoja V: R$ 1,78.\n\nEm um dos supermercados, o valor unitário está correto,\nde acordo com o costume da rede ao vender dois packs.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Esse supermercado corresponde à loja",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

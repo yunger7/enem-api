@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2018",
+    "index": 161,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um automóvel pode ser abastecido com os\ncombustíveis A ou B e tem capacidade para armazenar\nT litro. O quadro indica os preços e mostra o rendimento\ndesse automóvel, por litro, quando abastecido com esses\ncombustíveis.\n\nCombustível\nPreço (R$)\nRendimento\n\nA\nPA\n18 km/L\n\nB\nPB\n12 km/L\n\nO dono desse automóvel estabelece duas estratégias\nde viagem. Em ambas ele irá abastecer duas vezes. O\nprimeiro abastecimento é feito a partir do tanque vazio\ne o reabastecimento é feito quando o tanque esvaziar\nnovamente.\n\n1ª estratégia de viagem: abastecer meio tanque com\no combustível A e depois abastecer um quarto de tanque\ncom o combustível B.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "2ª estratégia de viagem: abastecer meio tanque com o combustível B e depois abastecer um quarto de tanque com o combustível A. O custo (C) da estratégia que possibilita percorrer a maior distância é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C T P T P A B =   ⋅ 2 4  ⋅ +   ",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "C T P T P A B =   ⋅ ⋅ 2 18 4 12  ⋅ + +   ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C T P T P A B =   ⋅ ⋅ 2 15 4 15  ⋅ + +   ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C T P T P B B =   ⋅ 2 4  ⋅ +   ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C T P T P B A =   ⋅ ⋅ 2 12 4 18  ⋅ ⋅ +   ",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

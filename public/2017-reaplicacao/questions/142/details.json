@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2017",
+    "index": 142,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O número mínimo de frascos de xampu que deverão levar nessa viagem é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

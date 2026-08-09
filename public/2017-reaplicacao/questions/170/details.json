@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2017",
+    "index": 170,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Chegando ao destino de uma mesma viagem, os\nturistas X e Y alugarão, cada um deles, um carro. Fizeram,\npreviamente, cotações com as mesmas três locadoras\nde automóveis da região. Os valores dos aluguéis estão\nrepresentados pelas expressões dadas no quadro, sendo\nK o número de quilômetros percorridos, e N o número de\ndiárias pagas pelo aluguel.\n\nEmpresa\nValor cobrado, em real,\n\npelo aluguel do carro\n\nI\n100 N + 0,8 K\n\nII\n70 N + 1,2 K\n\nIII\n120 N + 0,6 K\n\nO turista X alugará um carro em uma mesma locadora\npor três dias e percorrerá 250 km. Já a pessoa Y usará o\ncarro por apenas um dia e percorrerá 120 km.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com o intuito de economizarem com as locações dos carros, e mediante as informações, os turistas X e Y alugarão os carros, respectivamente, nas empresas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "II e II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e I.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

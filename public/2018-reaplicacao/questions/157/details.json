@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2018",
+    "index": 157,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica comercializa chocolates em uma caixa\nde madeira, como na figura.\n\n20 cm\n\n8 cm\n\n20 cm",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A caixa de madeira tem a forma de um paralelepípedo reto-retângulo cujas dimensões externas, em centímetro, estão indicadas na figura. Sabe-se também que a espessura da madeira, em todas as suas faces, é de 0,5 cm. Qual é o volume de madeira utilizado, em centímetro cúbico, na construção de uma caixa de madeira como a descrita para embalar os chocolates?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "654",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "666",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "673",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "681",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "693",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

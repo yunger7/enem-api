@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2022",
+    "index": 136,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUma faculdade oferece dois cursos diferentes na área\nde Humanas. Para um aluno ingressar nesses cursos, o\nvestibular contém questões objetivas e uma redação, e a\nnota final do candidato é a soma dessas notas, utilizando\no seguinte critério de pesos:\n\n•\t questões objetivas: peso 1 para o curso I e\npeso 1 para o curso II;\n•\t redação: peso 2 para o curso I e peso 3 para o\ncurso II.\nUm candidato que concorre aos dois cursos obteve\nnota X nas questões objetivas e nota Y na redação.\nPara analisar sua nota para o curso I e para o curso II,\no candidato representa sua nota com um produto de\nmatrizes A . B, em que a matriz A representa os pesos,\ne a matriz B contém as notas obtidas pelo candidato.\nA matriz resultante A . B é uma matriz coluna, em que,\nna primeira linha, tem sua nota final para o curso I e, na\nsegunda linha, tem sua nota final para o curso II.\nNessas condições, qual representação algébrica gera o\nresultado final desse candidato nos dois cursos?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

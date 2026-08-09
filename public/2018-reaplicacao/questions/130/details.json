@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2018",
+    "index": 130,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A radiação na região do infravermelho interage com\na oscilação do campo elétrico gerada pelo movimento\nvibracional de átomos de uma ligação química. Quanto\nmais fortes forem as ligações e mais leves os átomos\nenvolvidos, maior será a energia e, portanto, maior a\nfrequência da radiação no infravermelho associada à\nvibração da ligação química. A estrutura química da\nmolécula 2-amino-6-cianopiridina é mostrada.\n\nNC\nN\nNH2",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A ligação química dessa molécula, envolvendo átomos diferentes do hidrogênio, que absorve a radiação no infravermelho com maior frequência é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C―C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C―N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C=C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "C=N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C≡N",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

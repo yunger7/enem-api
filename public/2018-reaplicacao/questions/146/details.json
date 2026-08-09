@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2018",
+    "index": 146,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta os dados da pescaria de uma\nespécie de peixe realizada ao final de um dia de pesca,\nem lagos diferentes.\n\nNúmero\nde barcos\nutilizados (B)\n\nNúmero de\n\nQuantidade\n\nLago (L)\n\nhoras de\npesca (H)\n\npescada\n(C, em kg)\n\nI\n5\n5\n250\n\nII\n6\n10\n300\n\nIII\n4\n5\n180\n\nIV\n3\n7\n215\n\nV\n3\n10\n220",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Considere que a medida do esforço de pesca (E) seja dada pela função E = 2 ⋅ 10−7 ⋅ B ⋅ H. A captura (quantidade pescada C) e a população de peixes P(L) dessa espécie no lago L, no início desse dia de pescaria, relacionam-se pela fórmula C = E ⋅ P(L). Em qual lago a população de peixes dessa espécie era maior no início do dia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

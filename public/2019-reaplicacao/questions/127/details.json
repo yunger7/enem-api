@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2019",
+    "index": 127,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As fêmeas do mosquito da dengue, Aedes aegypti,\ntêm um olfato extremamente refinado. Além de identificar\nas coleções de águas para oviposição, elas são capazes\nde detectar de forma precisa e eficaz a presença humana\npela interpretação de moléculas de odor eliminadas\ndurante a sudorese. Após perceber o indivíduo, voam\nrapidamente em direção à fonte alimentar, iniciando o\nrepasto sanguíneo durante o qual podem transmitir o\nvírus da dengue. Portanto, o olfato desempenha um\npapel importante para a sobrevivência dessa espécie.\n\nGUIDOBALDI, F.; MAY-CONCHA, I. J.; GUERENSTEIN, P. G.\n\nMorphology and Physiology of the Olfactory System of\nBlood-Feeding Insects. Journal of Physiology-Paris,\n\nn. 2-3, abr.-jun. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Medidas que interferem na localização do hospedeiro pelo vetor por meio dessa modalidade sensorial incluem a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "colocação de telas nas janelas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "eliminação de locais de oviposição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "instalação de borrifadores de água em locais abertos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "conscientização para a necessidade de banhos diários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "utilização de cremes ou pomadas com princípios ativos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

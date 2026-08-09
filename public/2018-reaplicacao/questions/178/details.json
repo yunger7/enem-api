@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2018",
+    "index": 178,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um torrefador comprou uma saca de 60 kg de café\nespecial cru (antes de torrar) por R$ 400,00. Devido à\nperda de umidade durante o processo de torrefação, são\nperdidos 10 kg de café por saca.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O torrefador irá vender o café torrado em embalagens de um quilograma e tem por objetivo obter um lucro de 200%, em relação ao valor pago, por unidade vendida. Que preço de venda, por unidade, este torrefador deverá estabelecer para atingir o seu objetivo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 32,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 24,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 20,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 16,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 8,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

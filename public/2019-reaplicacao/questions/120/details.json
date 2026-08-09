@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2019",
+    "index": 120,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2014, iniciou-se em São Paulo uma séria\ncrise hídrica que também afetou o setor energético,\nagravada pelo aumento do uso de ar-condicionado e\nventiladores. Com isso, intensifica-se a discussão sobre\na matriz energética adotada nas diversas regiões do\npaís. Sendo assim, há necessidade de se buscarem\nfontes alternativas de energia renovável que impliquem\nmenores impactos ambientais.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando essas informações, qual fonte poderia ser utilizada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Urânio enriquecido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Carvão mineral.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Gás natural.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Óleo diesel.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Biomassa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

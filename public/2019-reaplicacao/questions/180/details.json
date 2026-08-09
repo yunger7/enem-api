@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2019",
+    "index": 180,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pista circular delimitada por duas circunferências\nconcêntricas foi construída. Na circunferência interna dessa\npista, de raio 0,3 km, serão colocados aparelhos de ginástica\nlocalizados nos pontos P, Q e R, conforme a figura.\n\nO segmento RP é um diâmetro dessa circunferência\n\ninterna, e o ângulo PRQ\n\n tem medida igual a π\n\n5 radianos.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para uma pessoa ir do ponto P ao ponto Q andando pela circunferência interna no sentido anti-horário, ela percorrerá uma distância, em quilômetro, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,009π",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,03π",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,06π",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,12π",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,18π",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

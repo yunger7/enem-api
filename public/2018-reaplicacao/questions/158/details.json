@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2018",
+    "index": 158,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um projétil é lançado por um canhão e atinge o solo\na uma distância de 150 metros do ponto de partida. Ele\npercorre uma trajetória parabólica, e a altura máxima que\natinge em relação ao solo é de 25 metros.\n\n![](https://enem.dev/2018-reaplicacao/questions/158/965f6652-e93e-484a-abe7-83c47108778a.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/158/965f6652-e93e-484a-abe7-83c47108778a.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Admita um sistema de coordenadas xy em que no eixo vertical y está representada a altura e no eixo horizontal x está representada a distância, ambas em metro. Considere que o canhão está no ponto (150; 0) e que o projétil atinge o solo no ponto (0; 0) do plano xy. A equação da parábola que representa a trajetória descrita pelo projétil é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "y = 150x − x2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "y = 3 750x − 25x2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "75y = 300x − 2x2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "125y = 450x − 3x2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "225y = 150x − x2",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2023",
+    "index": 147,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo regras da Fifa, em um campo de futebol, a área penal é a região limitada pelo retângulo ABCD, indicado na figura, cujo lado AB mede, aproximadamente, 16 m. O ponto penal P, equidistante dos lados AB e CD, fica localizado a 11 m do lado AD. O arco de circunferência, exterior à região penal, tem centro em P, e o raio mede, aproximadamente, 9 m.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "E P D C De acordo com as medidas especificadas no texto e na figura, a distância EF entre as extremidades do arco de círculo é A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "superior a 14 m e inferior a 19 m. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "superior a 19 m e inferior a 23 m. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "superior a 23 m. Disponível em: www.cbf.com.br. Acesso em: 5 ago. 2008 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2018",
+    "index": 179,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na intenção de ampliar suas fatias de mercado, as operadoras de telefonia apresentam diferentes planos e\npromoções. Uma operadora oferece três diferentes planos baseados na quantidade de minutos utilizados mensalmente,\napresentados no gráfico. Um casal foi à loja dessa operadora para comprar dois celulares, um para a esposa e outro\npara o marido. Ela utiliza o telefone, em média, 30 minutos por mês, enquanto ele, em média, utiliza 90 minutos por mês.\n\nConta (R$)\n\n0\n    10       20      30       40      50       60       70      80       90      100",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base nas informações do gráfico, qual é o plano de menor custo mensal para cada um deles?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O plano A para ambos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "O plano B para ambos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O plano C para ambos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "O plano B para a esposa e o plano C para o marido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "O plano C para a esposa e o plano B para o marido.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

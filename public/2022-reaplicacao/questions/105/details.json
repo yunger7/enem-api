@@ -1,0 +1,45 @@
+{
+    "title": "Questão 105 - ENEM 2022",
+    "index": 105,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUm multímetro pode atuar como voltímetro (leitura\nem volt) ou como amperímetro (leitura em ampère),\ndependendo da função selecionada. A forma de conectar\no multímetro ao circuito depende da grandeza física a\nser medida. Uma lâmpada de lanterna, de resistência\nelétrica igual a 40 Ω, brilha quando conectada a quatro\npilhas em série, cada uma com 1,5 V de tensão elétrica.\nO multímetro 2 indica o valor 5,62, conforme a figura, e o\nmultímetro 1 está conectado, porém desligado.\n\n![](https://enem.dev/2022-reaplicacao/questions/105/e2a86fcd-c6fe-4405-a14d-3323b7df1016.png)\n\nMultímetro 2\n\nMultímetro 1\n\nLâmpada\nLâmpada",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/105/e2a86fcd-c6fe-4405-a14d-3323b7df1016.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Pilhas em série Ao se ligar o multímetro 1, a grandeza física e o seu valor correspondente indicados na tela são, respectivamente, A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "corrente elétrica e 0,14. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "corrente elétrica e 0,15. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "corrente elétrica e 0,29. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tensão elétrica e 0,14. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tensão elétrica e 225.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

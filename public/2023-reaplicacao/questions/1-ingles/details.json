@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2023",
+    "index": 1,
+    "year": 2023,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2023-reaplicacao/questions/1-ingles/45c044c0-c597-429d-ad20-f90f5ea03f07.png)\n\nDisponível em: https://images1.the-dots.com. Acesso em: 29 out. 2021.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/1-ingles/45c044c0-c597-429d-ad20-f90f5ea03f07.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Por meio de recursos verbais e não verbais, esse cartaz de campanha objetiva A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "criticar os jovens por abandono do lar. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "apontar as causas da violência doméstica.  C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "relatar o drama da vulnerabilidade emocional.  D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "divulgar o fundo de ajuda a pessoas desabrigadas.  E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "destacar a fragilidade das construções para o inverno.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

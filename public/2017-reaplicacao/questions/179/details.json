@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2017",
+    "index": 179,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma lagartixa está no interior de um quarto e começa\na se deslocar. Esse quarto, apresentando o formato de\num paralelepípedo retangular, é representado pela figura.\n\nF\nE\nG\n\nTeto\nLucro (real)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Porta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A lagartixa parte do ponto B e vai até o ponto A. A seguir, de A ela se desloca, pela parede, até o ponto M, que é o ponto médio do segmento EF. Finalmente, pelo teto, ela vai do ponto M até o ponto H. Considere que todos esses deslocamentos foram feitos pelo caminho de menor distância entre os respectivos pontos envolvidos. A projeção ortogonal desses deslocamentos no plano que contém o chão do quarto é dado por:",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Chão",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

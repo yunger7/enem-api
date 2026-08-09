@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2022",
+    "index": 141,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma indústria planeja produzir caixa-d’água, em\nformato cilíndrico, com 1 m de altura, capaz de armazenar\n0,4 m³ de água.\nA medida do raio da base dessa caixa-d’água, em metro,\ndeve ser",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0 2 , π B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0 4 , π C C 0 2 , π D D 0 4 , π E E 1 2 , π",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

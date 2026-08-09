@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2018",
+    "index": 131,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao soltar um martelo e uma pena na Lua em 1973,\no astronauta David Scott confirmou que ambos atingiram\njuntos a superfície. O cientista italiano Galileu Galilei\n(1564-1642), um dos maiores pensadores de todos os\ntempos, previu que, se minimizarmos a resistência do ar,\nos corpos chegariam juntos à superfície.\n\nOLIVEIRA, A. A influência do olhar. Disponível em: www.cienciahoje.org.br.\n\nAcesso em: 15 ago. 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Na demonstração, o astronauta deixou cair em um mesmo instante e de uma mesma altura um martelo de 1,32 kg e uma pena de 30 g. Durante a queda no vácuo, esses objetos apresentam iguais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "inércias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "impulsos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "trabalhos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acelerações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "energias potenciais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

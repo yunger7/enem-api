@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2019",
+    "index": 140,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Considere que a safra nacional de cereais,\nleguminosas e oleaginosas, em 2012, aponte uma\nparticipação por região conforme indicado no gráfico.\nEm valores absolutos, essas estimativas indicam que\nas duas regiões maiores produtoras deveriam produzir\njuntas um total de 119,8 milhões de toneladas em 2012.\n\nSudeste\n\n11,4%\n\nNordeste\n\n10,4%\n\nSul\n37,2%\n\nNorte\n\n2,7%\n\nCentro-Oeste\n\n38,3%",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com esses dados, a produção estimada, em milhão de tonelada, de cereais, leguminosas e oleaginosas, em 2012, na Região Sudeste do país, foi um valor mais aproximado de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "13,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "15,7.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "18,1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "35,6.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

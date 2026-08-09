@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2023",
+    "index": 110,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A altura de uma nota musical é determinada pela\nfrequência da vibração que a nota causa. No piano,\nconsidere como referência a nota Lá, cuja frequência\né 440 hertz, e a existência de outras notas Lá com\nfrequências acima e abaixo desta. A tabela a seguir\nmostra as frequências de algumas notas Lá, em função do\nnúmero n de oitavas abaixo e acima do Lá de referência,\ne o gráfico corresponde a uma função contínua que passa\npelos pontos dados na tabela.\n\nNúmero n de oitavas\nNúmero de hertz\n−2\n110\n−1\n220\n0\n440\n1\n880\n2\n1 760\n3\n3 520\n\nFrequência (hertz)\n\n1 000\n2 000\n3 000\n4 000\n5 000\n6 000\n7 000\n\n−2\n−1\n0\n1\n2\n3\n4\n\nJABLONSKI, F. J. Astrofísica observacional. Disponível em:\nhttp://mtc-m18.sid.inpe.br. Acesso em: 28 dez. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir dessas informações, verifica-se que A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a variação da frequência da nota Lá é constante e igual a 2. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a frequência da nota Lá cresce exponencialmente em função do número n de oitavas. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "para cada oitava acima da nota Lá usada como referência, a variação da frequência é 110 hertz. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a função que estabelece a relação entre o número de oitavas e a frequência da nota Lá é decrescente somente entre −2 e 0. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a função que estabelece a relação entre o número de oitavas e a frequência da nota Lá é decrescente para as oitavas abaixo e crescente para as oitavas acima do Lá usado como referência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

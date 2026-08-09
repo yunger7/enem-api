@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2019",
+    "index": 122,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Recentemente um grupo de biólogos descobriu um\nanimal que vive em uma região extremamente árida no\nterritório brasileiro. Fizeram a coleta do sangue e da urina\ndesse animal e observaram que sua urina apresenta\numa concentração hipertônica em relação ao sangue.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Que adaptação desse animal lhe permite viver na região citada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Diminuição da transpiração.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Eliminação de fezes hidratadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Predominância de hábitos diurnos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Eliminação de muita água na urina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Excreção de amônia como produto nitrogenado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

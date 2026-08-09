@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2022",
+    "index": 176,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em busca de diversificar a vivência do filho, seus\npais registraram a quantidade de horas de uso diário\ndo aparelho celular dele durante a primeira semana\nde agosto. O resultado desse registro, em hora, foi o\nseguinte:\n\n•\t segunda-feira: 5;\n•\t terça-feira: 2;\n•\t quarta-feira: 9;\n•\t quinta-feira: 2;\n•\t sexta-feira: 8;\n•\t sábado: 12;\n•\t domingo: 4.\nCom base nesse registro, os pais planejaram incluir\natividades físicas e culturais na vivência do filho no\nsábado da segunda semana do mesmo mês.\n\nConsequentemente, a quantidade de horas de uso\ndo aparelho no sábado deveria ser reduzida, de modo\nque a média diária de uso na segunda semana fosse,\nno mínimo, uma hora a menos do que a média diária na\nprimeira semana. Ao longo dos demais dias da segunda\nsemana, a quantidade de horas de uso do aparelho seria\na mesma da primeira semana.\nQual é a quantidade máxima de horas de uso do\naparelho no sábado da segunda semana que atende\nao planejamento dos pais?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11 30 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

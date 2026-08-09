@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2022",
+    "index": 143,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUm curso preparatório para concursos tem duas\nturmas, A e B. Do total de alunos, 54% estão na\nturma A. A direção do curso decidiu pagar um bônus\nsalarial aos professores dessas turmas, de acordo com\na probabilidade de um aluno do curso, escolhido ao\nacaso, ser aprovado no concurso. Foi estabelecida a\ntabela que indica como o bônus seria definido.\n\nProbabilidade de aprovação (%)\nBônus\n\n0 < P < 10\nI\n\n10 < P < 20\nII\n\n20 < P < 35\nIII\n\n35 < P < 50\nIV\n\n50 < P < 100\nV\n\nPara calcular a probabilidade desejada, foi aplicado\num simulado anterior ao concurso. Nele, o percentual de\naprovados da turma A foi de 25%, enquanto houve uma\naprovação de 40% para os alunos da turma B.\nDessa forma, os professores desse curso devem receber\no bônus",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

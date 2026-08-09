@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2022",
+    "index": 91,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Três inseticidas mortais para as abelhas serão\nproibidos na União Europeia (UE) durante dois anos, a\npartir de julho, anunciou a Comissão Europeia em 2013.\nA medida foi adotada por causa da morte de milhares de\nabelhas, insetos vitais para o nosso ecossistema, uma vez\nque desempenham um importante papel na agricultura e,\nportanto, na produção de alimentos para a humanidade.\n\nDisponível em: http://noticias.r7.com. Acesso em: 24 maio 2013 (adaptado).\n\nO impacto dos inseticidas mencionados na produção de\nalimentos agrícolas é causado pelo(a)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução da produção de mel. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "decréscimo da taxa de polinização. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "contaminação do solo com abelhas mortas. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento de resíduos tóxicos nos alimentos. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alteração da cadeia alimentar no ecossistema.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

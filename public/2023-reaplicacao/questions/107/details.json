@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2023",
+    "index": 107,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Dois operários deslizam uma pedra, para cima, sobre uma superfície inclinada com velocidade constante.\nUm deles puxa a pedra utilizando uma corda, enquanto o outro a empurra, conforme a figura. No instante em que\na pedra desliza sobre a posição B, apesar da força de atrito fB exercida pela superfície, os pés dos operários não",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "deslizam nas posições A e C, por causa, respectivamente, das forças de atrito fA e fC, exercidas sobre esses pés.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "O diagrama que representa os sentidos das forças de atrito exercidas pela superfície da rampa nas posições A, B e C é: fC",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fA",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fB",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "fA",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

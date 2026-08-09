@@ -1,0 +1,43 @@
+{
+    "title": "Questão 11 - ENEM 2018",
+    "index": 11,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma língua, múltiplos falares\n\nDesde suas origens, o Brasil tem uma língua dividida\nem falares diversos. Mesmo antes da chegada dos\nportugueses, o território brasileiro já era multilíngue. Havia\ncerca de 1,2 mil línguas faladas pelos povos indígenas.\nO português trazido pelo colonizador tampouco era uma\nlíngua homogênea, havia variações dependendo da\nregião de Portugal de onde ele vinha. Há de se considerar\ntambém que a chegada de falantes de português\nacontece em diferentes etapas, em momentos históricos\nespecíficos. Na cidade de São Paulo, por exemplo, temos\nprimeiramente o encontro linguístico de portugueses com\níndios e, além dos negros da África, vieram italianos,\njaponeses, alemães, árabes, todos com suas línguas.\n“Todo este processo vai produzindo diversidades\nlinguísticas que caracterizam falares diferentes”, afirma\num linguista da Unicamp. Daí que na mesma São Paulo\npode-se encontrar modos de falar distintos como o de\nAdoniran Barbosa, que eternizou em suas composições\no sotaque típico de um filho de imigrantes italianos, ou\no chamado erre retroflexo, aquele erre dobrado que,\njunto com a letra i, resulta naquele jeito de falar “cairne” e\n“poirta” característico do interior de São Paulo.\n\nMARIUZZO, P. Disponível em: www.labjor.unicamp.br. Acesso em: 30 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir desse breve histórico da língua portuguesa no Brasil, um dos elementos de identidade nacional, entende-se que a diversidade linguística é resultado da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "imposição da língua do colonizador sobre as línguas indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "interação entre os falantes de línguas e culturas diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "sobreposição das línguas europeias sobre as africanas e indígenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "heterogeneidade da língua trazida pelo colonizador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "preservação dos sotaques característicos dos imigrantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

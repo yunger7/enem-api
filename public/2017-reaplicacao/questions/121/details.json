@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2017",
+    "index": 121,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Rudolf Diesel patenteou um motor a combustão\ninterna\nde\nelevada\neficiência,\ncujo\nciclo\nestá\nesquematizado no diagrama pressão × volume. O ciclo\nDiesel é composto por quatro etapas, duas das quais\nsão transformações adiabáticas. O motor de Diesel é\ncaracterizado pela compressão de ar apenas, com a\ninjeção do combustível no final.\n\nPressão",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "B C",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Volume V1 V2 V3 No ciclo Diesel, o calor é absorvido em:",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A → B e B → C, pois em ambos ocorre elevação da temperatura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C → D, pois representa uma expansão adiabática e o sistema realiza trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "B → C, pois representa expansão isobárica em que o sistema realiza trabalho e a temperatura se eleva.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2019",
+    "index": 141,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O projeto de transposição do Rio São Francisco\nconsiste na tentativa de solucionar um problema que\nhá muito afeta as populações do semiárido brasileiro,\na seca. O projeto prevê a retirada de 26,4 m³/s de água\ndesse rio. Para tornar mais compreensível a informação\ndo volume de água a ser retirado, deseja-se expressar\nessa quantidade em litro por minuto.\n\nDisponível em: www.infoescola.com. Acesso em: 28 out. 2015.\n\nCom base nas informações, qual expressão representa\na quantidade de água retirada, em litro por minuto?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "26 4 1000 60 , ×",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "26 4 10 60 , ×",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C 26,4 × 1 × 60 D 26,4 × 10 × 60 E 26,4 × 1 000 × 60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

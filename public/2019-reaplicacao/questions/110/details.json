@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2019",
+    "index": 110,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um laudo de análise de laboratório apontou que\namostras de leite de uma usina de beneficiamento\nestavam em desacordo com os padrões estabelecidos\npela legislação. Foi observado que a concentração de\nsacarose era maior do que a permitida.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual teste listado permite detectar a irregularidade descrita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Medida da turbidez.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Determinação da cor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Determinação do pH.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Medida da densidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Medida da condutividade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

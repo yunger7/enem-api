@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2022",
+    "index": 161,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As hemácias são células sanguíneas responsáveis\npelo\ntransporte\nde\numa\nsubstância\nchamada\nhemoglobina, a qual tem a função de levar oxigênio\ndos pulmões para os tecidos. Hemácias normais têm\ndiâmetro médio de 7,8 x 10 -6 metros.\n\nGUYTON, A. C.; HALL, J. E. Tratado de fisiologia médica.\n\nRio de Janeiro: Elsevier, 2006 (adaptado).\n\nO diâmetro médio dessas hemácias, em metros, é\n\nrepresentado pela razão 78\n\n, em que d é igual a\n\nd",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 000. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "100 000. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 000 000. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10 000 000. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "100 000 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

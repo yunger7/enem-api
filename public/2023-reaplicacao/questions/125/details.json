@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2023",
+    "index": 125,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para se utilizar um controle remoto que funciona com\numa diferença de potencial de 3 V, compraram-se duas\npilhas tipo AA de 1,5 V cada uma. Sabe-se que a ligação\nem série dessas pilhas possibilita um aumento da diferença\nde potencial do conjunto e da energia total disponível.\nQuando ligadas em paralelo, no entanto, só ocorre o\naumento da energia total disponível.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dos esquemas representa a ligação correta das pilhas utilizadas no controle remoto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 2 - ENEM 2018",
+    "index": 2,
+    "year": 2018,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Incivismo\n\nPasear por el centro de Barcelona (España) de noche\nimplica, a ciencia cierta, tropezarse con, por ejemplo,\njóvenes bebiendo en portales y plazas, con alguno de\nellos aliviando la vejiga en las esquinas... La orden\npara la policía local ha sido la de multiplicar la ofensiva\ncontra la falta de civismo, combatiéndose también, por\nlo tanto, las molestias callejeras que perturban el sueño.\nY, aunque no hay milagros, las cifras ya constatan el\nesfuerzo de este año por poner un freno. Con respecto\na las molestias (ruidos, peleas, música a altas horas en\nla vía pública), las multas se han multiplicado por cuatro.\nLas multas por consumir alcohol en la calle superan ya\nlas 5 000 este verano.\n\nCASTÁN, P. Disponível em: www.elperiodico.com. Acesso em: 25 ago. 2011 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para combater a falta de civismo, a polícia da cidade de Barcelona tem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumentado a aplicação de multas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "encarcerado os jovens baderneiros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "isolado o centro da cidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "controlado a distribuição de álcool.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "proibido a música em alto volume.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

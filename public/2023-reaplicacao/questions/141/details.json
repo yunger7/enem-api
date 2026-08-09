@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2023",
+    "index": 141,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Após uma reforma, um clube decide comprar duchas\npara serem instaladas no vestiário. O tipo de ducha\nescolhida, segundo o fabricante, tem probabilidade igual a\n\n1\n10 de apresentar funcionamento irregular. O administrador\n\ndo clube planeja adquirir uma certa quantidade dessas\n\nduchas, de forma que a probabilidade de que pelo menos\n\numa das duchas adquiridas apresente funcionamento\n\nregular seja igual a, no mínimo, 99\n\n100\n.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A quantidade mínima de duchas que deverá ser adquirida para atender ao planejamento desse administrador é A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "8. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "10. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

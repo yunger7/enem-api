@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2023",
+    "index": 96,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A primeira experiência empresarial de mineração\nda Amazônia ocorreu no Amapá, em 1945, com a\nexploração de manganês na Serra do Navio. Para atender\nàs exigências do mercado consumidor, foi inicialmente\nlavrado o minério de alto teor (média de 40% de Mn),\ncorrespondendo a cerca de 22 milhões de toneladas,\no que comprometeu a vida útil da jazida. As atividades de\nlavra foram interrompidas em 1998 por causa da exaustão\ndo minério economicamente viável, sendo que, do ponto\nde vista ambiental, pouco mais de 50% da área atingida\ndurante a atividade mineradora foi recuperada. Contudo, as\nconsequências mais danosas do empreendimento não\nforam apenas de ordem ambiental, mas também social.\nA população local viu seu minério ser esgotado sem\nreceber ajuda de programas que lhe garantissem emprego\nalternativo e condições de vida dignas.\n\nAmazônia: a floresta e o futuro. Scientific American Brasil, n. 2, 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A exemplo do caso descrito, é possível citar, como impactos socioambientais decorrentes da extração e do processamento de minérios, o fato de essa prática A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "produzir resíduos e renovar os recursos naturais. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "alterar a paisagem e consumir grande quantidade de energia. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "gerar baixos lucros às empresas e afetar os lençóis de água subterrâneos. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "contaminar o ambiente com mercúrio e consumir grande quantidade de energia. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apresentar pequena demanda da parte do mercado consumidor e alterar a paisagem.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

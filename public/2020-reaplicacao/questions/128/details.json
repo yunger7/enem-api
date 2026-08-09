@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2020",
+    "index": 128,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos chuveiros elétricos, a água entra em contato com\numa resistência aquecida por efeito Joule. A potência\ndissipada pelo aparelho varia em função da tensão à qual\nestá ligado e do valor da resistência elétrica escolhida\ncom a chave seletora. No quadro estão indicados valores\nde tensão e as possíveis resistências para cinco modelos\nde chuveiro. Nesse quadro, o valor das resistências é\nmedido a partir da extremidade esquerda.\n\nChuveiro\n\nTensão\nPosição de seleção da resistência elétrica",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A 127 V 5,0 Ω",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,2 Ω 127 V 6,2 Ω",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8,0 Ω 17,3 Ω",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "10,0 Ω 12,1 Ω 23,0 Ω",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,5 Ω 24,2 Ω Qual chuveiro apresenta a maior potência elétrica? A \t A B \t B C \t C D \t D E \t E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

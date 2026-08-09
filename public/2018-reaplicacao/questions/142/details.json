@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2018",
+    "index": 142,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As Artes Marciais Mistas, tradução do inglês: MMA – mixed martial arts, são realizadas num octógono regular. De acordo com a figura, em certo momento os dois lutadores estão respectivamente nas posições G e F, e o juiz está na posição I. O triângulo IGH é equilátero e GÎF é o ângulo formado pelas semirretas com origem na posição do juiz, respectivamente passando pelas posições de cada um dos lutadores.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A medida do ângulo GÎF é",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

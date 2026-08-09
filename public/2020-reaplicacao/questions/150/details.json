@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2020",
+    "index": 150,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2020-reaplicacao/questions/150/e5172c75-3566-41ce-85a3-95921782445b.png)",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/150/e5172c75-3566-41ce-85a3-95921782445b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma formiga move-se sobre um castiçal de vidro transparente, do ponto A para B em linha reta, percorre o arco circular BCD, sendo C localizado na parte da frente do castiçal, e desce o arco DE, como representado na fi gura.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os pontos A, B, D e E estão sobre um mesmo plano perpendicular à mesa sobre a qual se encontra o castiçal. A projeção ortogonal, sobre o plano da mesa, do trajeto percorrido pela formiga, do ponto A até o ponto E, é melhor representada por B C D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

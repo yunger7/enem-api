@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2020",
+    "index": 138,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O índice pluviométrico é uma medida, em milímetro,\nque fornece a quantidade de precipitação de chuva num\ndeterminado local e num intervalo de tempo (hora, dia,\nmês e/ou ano). Os valores mensais do índice pluviométrico\nde uma cidade brasileira, no primeiro semestre, são\nmostrados no gráfico.\n\nÍndice pluviométrico (mm)\n\n10\n0\nJan.   Fev.   Mar.\n\nAbr.  Maio   Jun.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com a previsão meteorológica, o índice pluviométrico no mês de julho será igual ao índice do mês de junho somado à variação correspondente ao maior acréscimo, em milímetro, do índice pluviométrico entre dois meses consecutivos do semestre apresentado. O índice pluviométrico, em milímetro, previsto para o mês de julho, na cidade considerada, será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2022",
+    "index": 145,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um cliente vai a uma loja de materiais de revestimento\ncerâmico para adquirir porcelanato para a substituição do\npiso de uma sala com formato retangular, com área total\nde 36 m2. O vendedor dessa loja lhe oferece dois projetos.\n\n•\t Projeto A: porcelanato quadrado, com 0,60 m de\nlado, para ser disposto de maneira que a diagonal\ndo quadrado seja paralela ao contorno da sala.\nCusto da caixa com 10 peças: R$ 60,00.\n•\t Projeto B: porcelanato quadrado, com 0,40 m de\nlado, para ser disposto de maneira que os lados\ndo quadrado sejam paralelos ao contorno da sala.\nCusto da caixa com 12 peças: R$ 40,00.\nO vendedor informa que a fábrica recomenda a\ncompra de uma quantidade adicional do número de peças\npara eventual necessidade de cortes e para reserva. No\ncaso do projeto A, devem ser adquiridos 25% a mais, e\nno caso do projeto B, uma quantidade 10% maior do que\no valor exato da área de recobrimento.\n\nO cliente decide, então, que irá adotar o projeto de\nmenor custo.\nO custo mínimo que o cliente deverá ter, em conformidade\ncom seu objetivo e com as informações apresentadas,\nserá de",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 600,00. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 660,00. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 720,00. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 780,00. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 840,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

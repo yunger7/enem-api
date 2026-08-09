@@ -1,0 +1,43 @@
+{
+    "title": "Questão 1 - ENEM 2018",
+    "index": 1,
+    "year": 2018,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "La tolerancia es la capacidad de conceder la misma\nimportancia a la forma de ser, de pensar y de vivir de los\ndemás que a nuestra propia manera de ser, de pensar y\nde vivir.\n\nSi\nentendemos\nque\nnuestras\ncreencias\ny\ncostumbres no son ni mejores ni peores que las de\notras personas, sino simplemente distintas, estaremos\nrespetando a los demás.\n\nCompartir las diferencias nos enriquece, nos hace\nmás grandes. Algunas veces, a lo largo del tiempo se\npueden observar una serie de ejemplos de individuos,\ncuyas formas de actuar se originan precisamente de la\nfalta de respeto hacia los demás. El dejar pasar actitudes\ndesconsideradas e injustas es una forma indirecta de\nno respetar a quien las sufre y de no importarnos en lo\nabsoluto. Por eso, ser tolerante es también definirse, dar\nun paso al frente, hacer una opción por la justicia y la paz.\n\nDE LAI, J. Disponível em: www.elobservatodo.cl. Acesso em: 9 ago. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O texto discute o sentido de tolerância. Nele, esse sentido assume um papel social, uma vez que a tolerância",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "supõe ser mais importante a opinião alheia do que a própria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "legitima as diversas formas de expressão de vontade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "incentiva os sentimentos de justiça e de igualdade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "minimiza os efeitos das ações desrespeitosas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fortalece o comportamento individualista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 62 - ENEM 2023",
+    "index": 62,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O processo produtivo do café integra vários\nsubprocessos, realizados em unidades físicas bem\ndefinidas e caracterizadas no tempo e no espaço por\nelementos arquitetônicos, resultando uma arquitetura\nespecífica e original: a fazenda cafeeira. O desenvolvimento\ntecnológico, ao inovar o processo produtivo, alcançou\noutros espaços para além da fazenda cafeeira.\n\nRevista História Viva. Disponível em: www2.uol.com.br. Acesso em: 23 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com o texto, a produção de café gerou mudanças no espaço urbano, que estão evidenciadas no(a) A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "transporte em lombo de animais, gerando problemas sanitários. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "derrubada da vegetação nativa, abrindo novas áreas de plantio. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "presença de trabalhadores livres no sistema de parceria, aumentando a produtividade. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "plantio em regiões próximas aos centros urbanos, reduzindo os gastos com o transporte. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "melhoria da infraestrutura de circulação, introduzindo ferrovias e diversificação de serviços.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

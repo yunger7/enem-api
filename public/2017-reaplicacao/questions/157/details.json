@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2017",
+    "index": 157,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O estado de qualquer substância gasosa é\ndeterminado pela medida de três grandezas: o volume (V ),\na pressão (P ) e a temperatura (T ) dessa substância.\nPara os chamados gases “ideais”, o valor do quociente\n\n⋅\n é sempre constante. Considere um reservatório que\n\nestá cheio de um gás ideal. Sem vazar o gás, realiza-se\numa compressão do reservatório, reduzindo seu volume à\nmetade. Ao mesmo tempo, uma fonte de calor faz a\ntemperatura do gás ser quadruplicada. Considere P0 e P1\nrespectivamente, os valores da pressão do gás no\nreservatório, antes e depois do procedimento descrito.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A relação entre P0 e P1 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

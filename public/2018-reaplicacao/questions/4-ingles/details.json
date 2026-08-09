@@ -1,0 +1,45 @@
+{
+    "title": "Questão 4 - ENEM 2018",
+    "index": 4,
+    "year": 2018,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018-reaplicacao/questions/4-ingles/3f39d4e3-5adc-4f7e-930f-69f900f2511a.png)\n\nSpring Break Camp, 2015. Fôlder. Orange County Regional History Center.",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/4-ingles/3f39d4e3-5adc-4f7e-930f-69f900f2511a.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Tendo em vista a procura por atividades de lazer em períodos de recesso escolar, esse fôlder",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divulga uma proposta de acampamento com abordagem temática.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "anuncia a exibição de uma série de filmes sobre tradições culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "comunica a abertura de inscrições para um curso de música folclórica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "encoraja a realização de oficinas de contação de história para crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convida para a apresentação de uma peça teatral sobre cultura indígena.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

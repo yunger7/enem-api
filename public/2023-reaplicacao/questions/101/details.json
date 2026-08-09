@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2023",
+    "index": 101,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de demonstrar a transferência\nde energia de um sistema para outro, um professor\nsolicitou a seus alunos que determinassem o calor\nde combustão de alguns alimentos e, para auxiliar\nnessa tarefa, forneceu um quadro que apresenta cinco\nalimentos identificados por números e seus respectivos\ncalores de combustão.\n\nAlimento\nCalor de combustão (cal/g)\n\nI\n15\n\nII\n120\n\nIII\n160\n\nIV\n240\n\nV\n400\n\nPosteriormente, entregou uma amostra de 0,5 g de\num alimento indeterminado a um dos estudantes, que\nrealizou o seguinte procedimento experimental: colocou\n4 mL de água em um tubo de ensaio e mediu a temperatura,\nencontrando 20 °C. Em seguida, o estudante queimou o\nalimento recebido, abaixo do tubo de ensaio contendo a\nágua, o que elevou a temperatura da água para 50 °C.\nConsidere que, nas condições do experimento, a perda de\ncalor para o ambiente é desprezível e o calor específico\nda água e sua densidade são, respectivamente,\n1 cal/(g °C) e 1 g/mL.\n\nQual alimento do quadro o estudante recebeu do professor?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

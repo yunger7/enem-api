@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2019",
+    "index": 133,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisadores descobriram que uma espécie de\nabelha sem ferrão nativa do Brasil — a mandaguari\n(Scaptotrigona depilis) — cultiva um fungo nos ninhos\ndentro da colmeia. Após observações, verificaram\nque a sobrevivência das larvas da abelha depende da\ningestão de filamentos do fungo, que produz metabólitos\nsecundários com ação antimicrobiana, antitumoral e\nimunológica, além da alimentação convencional. Por\nsua vez, o fungo depende da abelha para se reproduzir\ne garante a sua multiplicação ao longo das gerações.\n\nMIURA, J. Pequenas agricultoras: abelhas Mandaguari cultivam\n\nfungos para alimentar suas larvas. Disponível em:\n\nwww.embrapa.br. Acesso em: 3 maio 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O uso de fungicida ocasionaria à colmeia dessa espécie o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "controle de pragas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acúmulo de resíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ampliação de espaço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "redução da população.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "incremento de alimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

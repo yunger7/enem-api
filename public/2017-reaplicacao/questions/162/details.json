@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2017",
+    "index": 162,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um funcionário da Secretaria de Meio Ambiente de\num município resolve apresentar ao prefeito um plano\nde priorização para a limpeza das lagoas da cidade.\nPara a execução desse plano, o prefeito decide voltar\nsuas ações, primeiramente, para aquela lagoa que\ntiver o maior coeficiente de impacto, o qual é definido\ncomo o produto entre o nível de contaminação médio\npor mercúrio em peixes e o tamanho da população\nribeirinha. O quadro mostra as lagoas do município e\nsuas correspondentes informações.\n\nContaminação\n\nTamanho da\n\nmédia por\n\npopulação\n\nLagoa\n\nmercúrio\n em peixes\n(miligrama)\n\nribeirinha\n(habitante)\n\nAntiga\n2,1\n1 522\n\nBela\n3,4\n2 508\n\nDelícia\n42,9\n2 476\n\nSalgada\n53,9\n2 455\n\nVermelha\n61,4\n 145",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A primeira lagoa que sofrerá a intervenção planejada será a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Antiga.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Delícia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Salgada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Vermelha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2018",
+    "index": 116,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sobre a diluição do ácido sulfúrico em água, o químico\ne escritor Primo Levi afirma que, “está escrito em todos\nos tratados, é preciso operar às avessas, quer dizer,\nverter o ácido na água e não o contrário, senão aquele\nlíquido oleoso de aspecto tão inócuo está sujeito a iras\nfuribundas: sabem-no até os meninos do ginásio”.\n\n(furibundo: adj. furioso)\n\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O alerta dado por Levi justifica-se porque a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diluição do ácido libera muito calor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "mistura de água e ácido é explosiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "água provoca a neutralização do ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "mistura final de água e ácido separa-se em fases.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "água inibe a liberação dos vapores provenientes do ácido.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

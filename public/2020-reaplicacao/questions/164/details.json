@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2020",
+    "index": 164,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dois atletas partem de pontos, respectivamente P1 e\nP2, em duas pistas planas distintas, conforme a figura,\ndeslocando-se no sentido anti-horário até a linha de\nchegada, percorrendo, desta forma, a mesma distância\n(L). Os trechos retos dos finais das curvas até a linha de\nchegada desse percurso têm o mesmo comprimento (l)\nnas duas pistas e são tangentes aos trechos curvos, que\nsão semicírculos de centro C. O raio do semicírculo maior\né R1 e o raio do semicírculo menor é R2.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "R2 R1",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R 1            2 R −1 C 1 R 2            1 D 1 R −R 2           1 R + 1 E 1 R 1           2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Linha de chegada 2ª aplicação MT - 2° dia | Caderno 7 - AZUL - Página 26 Sabe-se que o comprimento de um arco circular é dado pelo produto do seu raio pelo ângulo, medido em radiano, subentendido pelo arco. Nas condições apresentadas, a razão da medida do A R −R 2 1 ângulo C 2 1 P P pela diferença L− l  é dada por 1 R −1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

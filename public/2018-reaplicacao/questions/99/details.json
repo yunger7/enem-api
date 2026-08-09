@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2018",
+    "index": 99,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O sucesso adaptativo dos répteis relaciona-se, dentre outros fatores, ao surgimento de um revestimento epidérmico de queratina para economia de água metabólica. Essa característica seria prejudicial em anfíbios, pois acarretaria problemas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "circulatórios, em razão da limitação na força contrátil do coração tricavitário.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "excretórios, em razão de incapacidade renal de processar níveis elevados de urina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "digestivos, em razão da limitação do intestino em absorver alimentos muito diluídos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "locomotores, em razão de incapacidade óssea de sustentar um animal mais pesado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "respiratórios, em razão da pequena capacidade dos pulmões de realizar trocas gasosas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

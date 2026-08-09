@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2023",
+    "index": 168,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em 1953, o veterinário francês Monsier LeBeau\ndescobriu que um cão de pequeno porte tem um ritmo de\nenvelhecimento maior do que o de um ser humano, sendo\nmais acentuado nos dois primeiros anos de vida. Depois\ndesse tempo, esse ritmo de envelhecimento diminui\ne obtêm-se as seguintes relações:\n\n•\t um cão de um ano corresponde a um humano de\n15 anos;\n\n•\t um cão de 2 anos corresponde a um humano de\n24 anos;\n\n•\t depois de 2 anos de idade, cada ano vivido por um\ncão equivale a quatro anos vividos por humanos.\n\nDisponível em: http://online.wsj.com. Acesso em: 16 nov. 2014 (adaptado).\n\nConsidere o dia em que um cão de pequeno porte\ncompletou 6 anos de idade.\n\nCom base nessas informações, a idade humana, em\nano, correspondente à idade desse cão, nesse dia, é",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "44. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "35.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

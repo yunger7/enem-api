@@ -1,0 +1,43 @@
+{
+    "title": "Questão 117 - ENEM 2019",
+    "index": 117,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O mangue é composto por três tipos de árvores\n(Rhizophora mangle — mangue-bravo ou vermelho,\nAvicennia schaueriana — mangue-seriba, e Laguncularia\nracemosa — mangue-branco). Uma característica\nmorfológica comum aos três tipos de árvores encontradas\nno mangue está relacionada à pouca disponibilidade de\noxigênio encontrado em seu solo.\n\nALVES, J. R. P. (Org.). Manguezais: educar para proteger.\n\nRio de Janeiro: Femar; Semads, 2001 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A característica morfológica de valor adaptativo referenciada no texto é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ausência de frutos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ausência de estômatos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "presença de folhas largas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "presença de raízes-escoras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "presença de pneumatóforos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2020",
+    "index": 177,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa chega ao hotel no qual fez uma\npré-reserva com diária no valor de R$ 210,00. Como\na confirmação da reserva não foi feita, quando chegou\nao hotel não havia quarto disponível. Dessa forma,\no recepcionista apresentou-lhe algumas opções de\nhotéis com diárias mais baratas, mas localizados a\ncerta distância desse hotel, conforme apresentado.\n\n•\t H1: diária de R$ 180,00 e distância de 7 km;\n•\t H2: diária de R$ 200,00 e distância de 1,6 km;\n•\t H3: diária de R$ 199,00 e distância de 4,5 km;\n•\t H4: diária de R$ 190,00 e distância de 1,5 km;\n•\t H5: diária de R$ 205,00 e distância de 1,2 km.\n\nPara se locomover até um outro hotel, essa pessoa\nutiliza um táxi que cobra R$ 2,50 por quilômetro rodado\nmais taxa fixa de R$ 6,00.\n\nSua escolha será em função do menor custo,\ncomposto pelo valor da diária mais a locomoção de táxi.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O hotel escolhido foi o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

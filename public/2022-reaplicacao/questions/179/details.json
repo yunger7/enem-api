@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2022",
+    "index": 179,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUm proprietário precisa comprar tubos para\nligações hidráulicas durante a reforma de sua casa,\noptando pela compra do material de menor custo.\nO engenheiro responsável pela obra afirmou ao\nproprietário que os tubos precisam suportar uma vazão\nde 1,2 litro por segundo. Para manter o padrão das\ntubulações já existentes na casa, os tubos devem ter\n15, 20 ou 25 mm de diâmetro. Uma loja de materiais\nde construção apresentou ao proprietário o quadro no\nqual se encontram cinco tipos de tubo, com indicação\nde diâmetro, vazão e custo para cada um deles.\n\nMATERIAL\nDIÂMETRO\n\nVAZÃO\n(em L/s)\n\nCUSTO\n(em R$/m)\n\n(em mm)\n\n15\n0,40\n0,50\n20\n1,20\n1,25\n25\n1,25\n1,35\n\nPVC\nsoldável\n\n15\n0,50\n0,65\n20\n1,10\n1,05\n25\n1,20\n1,35\n\n15\n0,60\n0,30\n20\n1,20\n1,25\n25\n1,30\n1,55\n\nPolipropileno\n\n15\n0,50\n0,80\n20\n1,10\n1,10\n25\n1,20\n1,15\n\nPVC\nroscável\n\n15\n0,60\n0,35\n20\n1,20\n1,20\n25\n1,30\n1,25\n\nPolietileno\n\nreticulado\n\nO proprietário deverá comprar",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "PVC soldável com 20 mm de diâmetro. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "PEX com 20 mm de diâmetro. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Polipropileno com 15 mm de diâmetro. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "PVC roscável com 25 mm de diâmetro. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Polietileno reticulado com 20 mm de diâmetro. 31 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

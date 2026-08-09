@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2020",
+    "index": 137,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Provedores de conteúdos postam anúncios de\nempresas em seus websites. O provedor A cobra R$ 0,10\npor clique feito no anúncio, além do pagamento de uma\ntaxa de contratação de R$ 50,00. O provedor B cobra uma\ntaxa de contratação por anúncio mais atrativa, no valor de\nR$ 20,00, mais um valor por clique feito no anúncio. Para\num anúncio que receberá 100 cliques, o provedor B fixará\numa proposta com um valor a ser cobrado por clique, de\nmodo que venha a receber, pelo menos, o mesmo total\nque receberia o provedor A.\n\nO gerente do provedor B deve avaliar os valores por\nclique a serem fixados.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor mínimo que o gerente do provedor B deverá escolher é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

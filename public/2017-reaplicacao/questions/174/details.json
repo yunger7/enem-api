@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2017",
+    "index": 174,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em certa loja de roupas, o lucro na venda de uma\ncamiseta é de 25% do preço de custo da camiseta pago\npela loja. Já o lucro na venda de uma bermuda é de\n30% do preço de custo da bermuda, e na venda de uma\ncalça o lucro é de 20% sobre o preço de custo da calça.\nUm cliente comprou nessa loja duas camisetas, cujo preço\nde custo foi R$ 40,00 cada uma, uma bermuda que teve\npreço de custo de R$ 60,00 e duas calças, ambas com\nmesmo preço de custo. Sabe-se que, com essa compra,\no cliente proporcionou um lucro de R$ 78,00 para a loja.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando essas informações, qual foi o preço de custo, em real, pago por uma calça?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

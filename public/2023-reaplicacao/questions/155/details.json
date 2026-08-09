@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2023",
+    "index": 155,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa tinha um projeto para um salão de festas\nno formato de paralelepípedo reto retângulo. Ela comprou\na quantidade exata de azulejos para cobrir as paredes\nlaterais, incluindo as regiões destinadas a uma porta e\numa janela. Os azulejos que cobririam essas regiões\nseriam reservados para futuras substituições. Esse projeto\nprevia que o salão teria, como dimensões internas, 10 m\nde comprimento por 6 m de largura por 2,5 m de altura.\n\nEm decorrência de uma mudança no projeto, o salão\nficará com 12 m de comprimento por 5 m de largura e as\nmesmas dimensões para porta e janela. Como a compra\nde azulejos já foi feita, essa pessoa ajustará a altura do\nsalão de modo que a área lateral, incluindo as regiões\nda porta e da janela, seja equivalente à área lateral antes da\nalteração do projeto.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a medida, em metro, dessa nova altura, expressa com duas casas decimais? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,25 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,00 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,50 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,35 E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

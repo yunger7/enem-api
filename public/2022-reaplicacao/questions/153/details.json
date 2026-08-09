@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2022",
+    "index": 153,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico a seguir associa a distância percorrida (em\nquilômetro) com o tempo (em minuto) gasto por um grupo\nde carros que partiu de um mesmo ponto e se deslocou\nem um trecho de uma rodovia. Esse grupo parou em três\nsemáforos (S1, S2 e S3) ao longo do percurso feito.\n\nDistância (km)\n\nTempo (min)\n\n0\n2\n4\n6\n8 10 12 14 16 18 20\n\nTEIXEIRA, P. et al. Funções 10º escolaridade. Lisboa: Ministério da Educação, 1997.\n\nAs distâncias, em quilômetro, do ponto de partida a cada\num dos semáforos S1, S2 e S3 são",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2, 6 e 8. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2, 8 e 16. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4, 4 e 2. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4, 8 e 10. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4, 10 e 18.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

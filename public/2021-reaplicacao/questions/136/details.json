@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2021",
+    "index": 136,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um inseto percorreu sobre a superfície de um objeto,\nem formato de um prisma reto ABCDEFGH, com base\nretangular, uma trajetória poligonal, com vértices nos\npontos: A\u0002/\u0002X\u0002/\u0002Y\u0002/\u0002G\u0002/\u0002F\u0002/\u0002E\u0002/\u0002X\u0002/\u0002G\u0002/\u0002E, na ordem em que\nforam apresentados.\n\nG\nF",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "H E",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A D µ\u0002 \u0005 ?\u0007\u000e\u0004\u0002 \u0007 %\u0007 \u0005\r\b\u0007\u0002 \b\u0002 %\u0007\u0004\" '\u001d\u0004\u0002 \u0004\u0007\r\u0004J\u0004\u0005\b2\u0002 \u000f\u0004\u0002 trajeto percorrido pelo inseto sobre o plano determinado pela base do prisma. \u0012\u0002 \u0007 %\u0007 \u0005\r\b'\u001d\u0004\u0002 \u000f\b\u0002 %\u0007\u0004\" '\u001d\u0004\u0002 \u0004\u0007\r\u0004J\u0004\u0005\b2\u0002 \u000f\u0004\u0002 \r\u0007\b\" \u0004\u0002 percorrido pelo inseto é B C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "B C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

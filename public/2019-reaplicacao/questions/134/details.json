@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2019",
+    "index": 134,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um laboratório de química foram encontrados\ncinco frascos não rotulados, contendo: propanona,\nágua, tolueno, tetracloreto de carbono e etanol. Para\nidentificar os líquidos presentes nos frascos, foram feitos\ntestes de solubilidade e inflamabilidade. Foram obtidos\nos seguintes resultados:\n\n- Frascos 1, 3 e 5 contêm líquidos miscíveis entre si;\n\n- Frascos 2 e 4 contêm líquidos miscíveis entre si;\n\n- Frascos 3 e 4 contêm líquidos não inflamáveis.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nesses resultados, pode-se concluir que a água está contida no frasco",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

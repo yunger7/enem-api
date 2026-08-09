@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2018",
+    "index": 167,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente de uma empresa sabe que 70% de seus\nfuncionários são do sexo masculino e foi informado de\nque a porcentagem de empregados fumantes nessa\nempresa é de 5% dos homens e de 5% das mulheres.\nSelecionando, ao acaso, a ficha de cadastro de um dos\nfuncionários, verificou tratar-se de um fumante.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a probabilidade de esse funcionário ser do sexo feminino?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "30,0%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "16,7%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,5%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

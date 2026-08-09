@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2019",
+    "index": 115,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma atividade prática, um professor propôs o\nseguinte experimento:\n\nMateriais: copo plástico pequeno, leite e suco\nde limão.\n\nProcedimento: coloque leite até a metade do copo\nplástico e, em seguida, adicione lentamente 20 gotas\nde limão.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Levando-se em consideração a faixa de pH do suco de limão, a composição biomolecular do leite e os resultados que os alunos observariam na realização do experimento, qual processo digestório estaria sendo simulado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ação da bile sobre as gorduras no duodeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ação do suco pancreático sobre as gorduras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ação da saliva sobre os carboidratos na boca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ação do suco entérico sobre as proteínas no íleo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ação do suco gástrico sobre as proteínas no estômago.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

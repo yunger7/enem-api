@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2022",
+    "index": 157,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O espaço de que o hotel dispõe para instalar o novo\nreservatório tem formato retangular com largura de 5 m\ne comprimento de 6 m. O gerente analisa cinco opções\ndisponíveis para esse reservatório.\n\nReservatórios retangulares\n\nReservatório\nLargura\n\nComprimento\n\nAltura\n\n(m)\n\n(m)\n\n(m)\n\nR1\n6\n6\n2\n\nR2\n4\n5\n2,5\n\nR3\n5\n6\n2\n\nReservatórios cilíndricos\n\nReservatório\nRaio (m)\nAltura (m)\n\nR4\n6\n6\n\nR5\n4\n5\n\nA opção de reservatório que atende à necessidade do\nhotel e que cabe no espaço disponível é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R1. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R2. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R3. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R4. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

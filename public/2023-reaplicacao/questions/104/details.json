@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2023",
+    "index": 104,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na última década, para melhorar a performance\ndos motores a combustão e reduzir o consumo, a\nindústria automobilística tem investido cada vez\nmais no desenvolvimento dos turbocompressores.\nO turbocompressor é formado por duas câmaras\ndistintas, chamadas caixa fria e caixa quente. No interior\nde cada uma dessas caixas, existe um rotor e ambos são\ninterligados por um mesmo eixo. Com a caixa quente\ninstalada no coletor de escapamento, a passagem dos\ngases faz girar o rotor. Consequentemente, gira também\no rotor da caixa fria, produzindo a compressão. Em alguns\nmodelos, é instalado, entre a turbina e a câmara de\nexplosão, um dispositivo denominado intercooler, que é\nreconhecido como um dos componentes principais para\nmelhorar a performance dos motores turbo. O intercooler\né uma espécie de radiador ou, mais especificamente,\num permutador de calor. Ele é posicionado entre o turbo\ne o coletor de admissão, tendo como uma das principais\nvantagens a redução da temperatura do ar quente que\nsai do turbo.\n\nDisponível em: www.turbocenter.com.br. Acesso em: 21 nov. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O ar que sai do turbo está em alta temperatura porque A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sofreu uma compressão isocórica. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sofreu uma compressão adiabática. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "sofreu uma transformação isotérmica. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "recebeu diretamente calor dos gases aquecidos do sistema de escape. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "recebeu diretamente calor do motor a combustão que está em alta temperatura.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

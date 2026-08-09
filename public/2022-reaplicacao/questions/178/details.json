@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2022",
+    "index": 178,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um carcinicultor tem um viveiro de camarão cuja\ncerca na superfície tem formato de um trapézio isósceles.\nA base maior e a altura desse trapézio têm medidas,\nrespectivamente, de 45 e 20 metros. Para manter\numa produção de qualidade, ele segue o padrão de\n10 camarões para cada metro quadrado da área\ndelimitada para o viveiro, com uma produção atual\ncorrespondente\na\n6 000\ncamarões.\nMantendo\no\nmesmo padrão de qualidade, ele pretende aumentar a\ncapacidade produtiva desse viveiro em 2 400 unidades\nde camarão, com a ampliação da área delimitada para\no viveiro, modificando apenas a medida da base menor\ndo trapézio.\nEm quantos metros ele deverá aumentar a medida da\nbase menor do trapézio para alcançar a capacidade\nprodutiva desejada?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "21 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "36 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "39 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "54",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2020",
+    "index": 165,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Foi feita uma pesquisa sobre a escolaridade dos\n\nfuncionários de uma empresa. Verificou-se que 1\n\n4 dos\n\nenquanto 2\n\n3 das mulheres que trabalham na empresa\n\nsão homens.\n\nA fração que representa o número de funcionários homens\n\nem relação ao total de funcionários dessa empresa é",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "1 8",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 11",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11 24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "D 2 E 8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

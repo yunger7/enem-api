@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2020",
+    "index": 144,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os alunos do curso de matemática de uma\nuniversidade desejam fazer uma placa de formatura,\nno formato de um triângulo equilátero, em que os seus\nnomes aparecerão dentro de uma região quadrada,\ninscrita na placa, conforme a figura.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que a área do quadrado, em que aparecerão os nomes dos formandos, mede 1 m2, qual é aproximadamente a medida, em metro, de cada lado do triângulo que representa a placa? (Utilize 1,7 como valor aproximado para 3 ).",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,6 B \t 2,1 C \t 2,4 D \t 3,7 E \t 6,4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

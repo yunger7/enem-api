@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2020",
+    "index": 142,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um imposto é dito cumulativo se incide em duas ou\nmais etapas da circulação de mercadorias, sem que na\netapa posterior possa ser abatido o montante pago na\netapa anterior. PIS e Cofins são exemplos de impostos\ncumulativos e correspondem a um percentual total de\n3,65%, que incide em cada etapa da comercialização\nde um produto.\n\nConsidere um produto com preço inicial C. Suponha\nque ele é revendido para uma loja pelo preço inicial\nacrescido dos impostos descritos. Em seguida, o produto\né revendido por essa loja ao consumidor pelo valor pago\nacrescido novamente dos mesmos impostos.\n\nDisponível em: www.centraltributaria.com.br. Acesso em: 15 jul. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual a expressão algébrica que corresponde ao valor pago em impostos pelo consumidor?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

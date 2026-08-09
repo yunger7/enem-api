@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2020",
+    "index": 158,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O valor cobrado por uma corrida de táxi é calculado somando-se a bandeirada, um valor fi xo que é cobrado em\nqualquer corrida, a um valor variável que depende da distância percorrida.\n\nUma empresa de táxi cobra pela bandeirada o valor de R$ 4,50. Para corridas de até 200 metros, é cobrada\nsomente a bandeirada, e para corridas superiores a 200 metros é cobrado o valor de R$ 0,02 para cada metro\nadicional percorrido.\n\nPara analisar o valor cobrado, em real, em função da distância percorrida, em metro, a empresa elaborou um\ngráfi co, com uma simulação para uma distância de 600 metros.\nO gráfi co que representa o valor da corrida, em real, em função da distância percorrida, em metro, é\n\nR$",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "12,50",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "8,00 4,50 m 600 2ª aplicação MT - 2° dia | Caderno 7 - AZUL - Página 23 R$ 12,50 4,50 m 600 R$ 16,50 4,50 m 600",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,50 m 600 R$ 16,50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "4,50 m 600 R$",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

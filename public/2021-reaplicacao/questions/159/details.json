@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2021",
+    "index": 159,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um nutricionista preparou cinco opções de dieta para seus clientes. A quantidade de calorias, em quilocaloria, de\n\u001e\b\u000f\b\u0002\u000f\u000e\n\r\b\u0002^\u0002\b%\u0007\n\n\u0005\r\b\u000f\b\u0002\u0005\u0004\u0002\u000b\f\b\u000f\u0007\u0004$\u0002\n\u0010\u0002P\f\u0005'\u001d\u0004\u0002\u000f\n\u0002\r\u0007>\t\u0002\u001e\u0004\u0010%\u0004\u0005\n\u0005\r\n\t\u0002!?\t\u000e\u001e\u0004\tI\u0002%\u0007\u0004\r\nG\u0005\b\t$\u0002\u001e\b\u0007!\u0004\u000e\u000f\u0007\b\r\u0004\t\u0002\n\u0002\t\f%2\n\u0010\n\u0005\r\u0004\t(\n\nDieta\nProteínas\n\nCarboidratos\n\n(kcal)\n\n(kcal)\n\nI\n66\n42\n87\n\nII\n57\n42\n105\n\nIII\n63\n39\n96\n\nIV\n66\n48\n84\n\nV\n69\n36\n93\n\n\u0003\u0004\u0010\u0004\u0002\f\u0010\u0002\u000f\n\u0002\n\f\t\u0002\u001e2\u000e\n\u0005\r\n\t\u0002\b%\u0007\n\n\u0005\r\u0004\f\u0002\u0010\f\u000e\r\b\u0002\u0007\n\u000f\f'\u001d\u0004\u0002\u000f\n\u0002\u0010\b\t\t\b\u0002\u001e\u0004\u0007%\u0004\u0007\b2$\u0002\u0004\u0002\u0005\f\r\u0007\u000e\u001e\u000e\u0004\u0005\u000e\t\r\b\u0002\u0007\n\u001e\u0004\u0010\n\u0005\u000f\u0004\f\u0002\u000b\f\n\u0002\n2\n\u0002\nescolhesse uma das cinco dietas do quadro e quadruplicasse a quantidade de proteínas, triplicasse a quantidade de\ncarboidratos e duplicasse a quantidade de suplementos recomendadas pela dieta escolhida.\n\n\u0017\u0002\u001e2\u000e\n\u0005\r\n\u0002\nJ\f\u000e\u0007?\u0002\b\u0002\u0007\n\u001e\u0004\u0010\n\u0005\u000f\b'\u001d\u0004\u0002\u000f\u0004\u0002\u0005\f\r\u0007\u000e\u001e\u000e\u0004\u0005\u000e\t\r\b$\u0002\u0010\b\t\u0002\u000f\n\n\"\b\u0002\n\t\u001e\u00042+\n\u0007\u0002\b\u0002\u000f\u000e\n\r\b\u0002\u0005\b\u0002\u000b\f\b2\u0002\n2\n\u0002\u001e\u0004\u0005\t\f\u0010\u000e\u0007?\u0002\b\u0002\u0010\n\u0005\u0004\u0007\u0002\nquantidade de calorias dentre as opções disponíveis.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O cliente deverá escolher a dieta",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

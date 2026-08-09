@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2020",
+    "index": 167,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pretende-se comprar uma mesa capaz de acomodar\n6 pessoas, de modo que, assentadas em torno da mesa,\ncada pessoa disponha de, pelo menos, 60 cm de espaço\nlivre na borda do tampo da mesa, que deverá ter a menor\nárea possível. Na loja visitada há mesas com tampos nas\nformas e dimensões especificadas:\n\n•\t Mesa I: hexágono regular, com lados medindo 60 cm;\n•\t Mesa II: retângulo, com lados medindo 130 cm e 60 cm;\n•\t Mesa III: retângulo, com lados medindo 120 cm e 60 cm;\n•\t Mesa IV: quadrado, com lados medindo 60 cm;\n•\t Mesa V: triângulo equilátero, com lados medindo\n120 cm.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A mesa que atende aos critérios especificados é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2020",
+    "index": 169,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um laboratório realizou um teste para calcular\na velocidade de reprodução de um tipo de bactéria.\nPara tanto, realizou um experimento para observar a\nreprodução de uma quantidade x dessas bactérias por\num período de duas horas. Após esse período, constava\nno habitáculo do experimento uma população de 189 440\nda citada bactéria. Constatou-se, assim, que a população\nde bactérias dobrava a cada 0,25 hora.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A quantidade inicial de bactérias era de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

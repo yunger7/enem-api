@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2020",
+    "index": 98,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um grupo de roedores, a presença de um gene dominante (A) determina indivíduos com pelagem na\ncor amarela. Entretanto, em homozigose é letal, ou seja, provoca a morte dos indivíduos no útero. Já o alelo\nrecessivo (a) não é letal e determina a presença de pelos pretos. Com base nessas informações, considere o\nheredograma:\n\n1\n2\n3\n4\n\n5\n6\n7\n8\n9\n10",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a probabilidade de, na próxima ninhada do casal de roedores que está representado na figura pelos números 7 e 8, nascer uma fêmea de pelagem amarela (representada pelo número 11)?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2018",
+    "index": 102,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para preparar um sopa instantânea, uma pessoa\naquece em um forno micro-ondas 500 g de água em uma\ntigela de vidro de 300 g. A temperatura inicial da tigela e da\nágua era de 6 °C. Com o forno de micro-ondas funcionando\na uma potência de 800 W, a tigela e a água atingiram a\ntemperatura de 40 °C em 2,5 min. Considere que os\ncalores específicos do vidro e da sopa são, respectivamente,\n\n0,2 cal\ng °C e 1,0 cal\n\ng °C, e que 1 cal = 4,2 J.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Que percentual aproximado da potência usada pelo micro-ondas é efetivamente convertido em calor para o aquecimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11,8%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "45,0%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "57,1%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "66,7%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "78,4%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

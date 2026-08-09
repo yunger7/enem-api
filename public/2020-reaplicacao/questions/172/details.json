@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2020",
+    "index": 172,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um estudante, morador da cidade de Contagem,\nouviu dizer que nessa cidade existem ruas que formam\num hexágono regular. Ao pesquisar em um sítio de\nmapas, verificou que o fato é verídico, como mostra a figura.\n\n\n\n![](https://enem.dev/2020-reaplicacao/questions/172/8b6cbb69-3fd6-4dce-a3c3-56717686ef56.png)\n\n\n\nDisponível em: www.google.com. Acesso em: 7 dez. 2017 (adaptado).\nEle observou que o mapa apresentado na tela do\ncomputador estava na escala 1 : 20 000. Nesse instante,\nmediu o comprimento de um dos segmentos que formam\nos lados desse hexágono, encontrando 5 cm.\nSe esse estudante resolver dar uma volta completa pelas\nruas que formam esse hexágono, ele percorrerá, em\nquilômetro,",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/172/8b6cbb69-3fd6-4dce-a3c3-56717686ef56.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

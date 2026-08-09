@@ -1,0 +1,45 @@
+{
+    "title": "Questão 111 - ENEM 2019",
+    "index": 111,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Observe o esquema que ilustra duas situações no\nambiente marinho.\n\n![](https://enem.dev/2019-reaplicacao/questions/111/31ec5583-eed9-4903-ba30-e0c63f85a66b.png)\n\nDisponível em: www.teachoceanscience.net.\n\nAcesso em: 7 jul. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/111/31ec5583-eed9-4903-ba30-e0c63f85a66b.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o processo responsável pela diminuição da concentração de oxigênio no lado B do esquema?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Lixiviação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Eutrofização.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Volatilização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fermentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Bioacumulação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

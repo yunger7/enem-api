@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2017",
+    "index": 168,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Numa tarefa escolar, um aluno precisava fazer a planta\nbaixa de sua casa em uma escala de 1 : 40. Ele verificou\nque a base da casa era retangular, tendo 12 metros de\ncomprimento e 8 metros de largura. O aluno foi a uma\npapelaria e lá observou que havia cinco tipos de folhas\nde papel, todas com diferentes dimensões. O quadro\ncontém os cinco tipos de folhas, com seus comprimentos\ne larguras fornecidos em centímetro.\n\nFolha de papel\nComprimento\nLargura\n\nTipo I\n16\n12\n\nTipo II\n30\n20\n\nTipo III\n32\n22\n\nTipo IV\n34\n24\n\nTipo V\n48\n32\n\nO aluno analisou os cinco tipos de folha e comprou\na que possuía as dimensões mínimas necessárias para\nque ele fizesse a planta de sua casa na escala desejada,\ndeixando exatamente 2 centímetros de margem em cada\num dos quatro lados da folha.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A folha escolhida pelo aluno foi a de tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

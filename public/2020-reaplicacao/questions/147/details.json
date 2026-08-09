@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2020",
+    "index": 147,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os pesquisadores de uma empresa especializada\nem grãos selecionaram cinco diferentes tipos de semente\nde feijão e concluíram que, quando armazenadas por\naté seis meses, o poder germinativo de cada um desses\ntipos expressa, em porcentagem, quantas sementes\nsão capazes de germinar, transcorrido o tempo de\narmazenamento correspondente. Considere que o tempo\nzero corresponde ao plantio direto da semente sem\narmazenamento, conforme descrito no quadro.\n\nTempo de armazenamento (em mês)\n\nSemente\n\n0\n3\n6\n\nde feijão\n\nPoder germinativo (em porcentagem)\n\nTipo 1\n84\n84\n79\n\nTipo 2\n85\n82\n79\n\nTipo 3\n86\n80\n77\n\nTipo 4\n82\n82\n80\n\nTipo 5\n85\n85\n76\n\nUm agricultor irá plantar três áreas distintas\nutilizando sementes de um mesmo tipo. A primeira área\nserá plantada quando da aquisição das sementes, a\nsegunda, três meses após a primeira e a terceira, três\nmeses após a segunda, respeitando assim o tempo de\narmazenamento utilizado pelos pesquisadores. Esse\nagricultor irá optar pela compra do tipo de semente\nque apresentar a maior média dos três percentuais de\npoder germinativo.\n\nDisponível em: http://sistemasdeproducao.cnptia.embrapa.br.\n\nAcesso em: 22 out. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Segundo essas informações, qual será o tipo de semente a ser adquirida por ele?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

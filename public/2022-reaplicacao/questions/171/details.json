@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2022",
+    "index": 171,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O chocolate é um dos alimentos mais apreciados\ne desejados do mundo. Uma loja especializada nesse\nproduto oferece uma promoção para os bombons, que\ncustam R$ 2,00 cada. Cada cliente tem x% de desconto\nna compra de x bombons. A promoção é válida para a\ncompra de até 40 bombons, ou seja, 40% é o desconto\nmáximo possível. Queremos escrever uma expressão\npara V em função de x, com x ≤40 .\nQual é a expressão do valor V, em reais, na compra de x\nbombons da promoção, por cliente?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "V x = 1 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "V x 2 1 50 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "V x x 2 1 50 D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "V x x 1 100 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V x x 2 1 100",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

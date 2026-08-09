@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2017",
+    "index": 169,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma possível projeção vertical dessa trajetória no plano da base do prédio é:\n\nA\nInício\nescada\n\nSala\n\nB\nInício\nescada\n\nSala",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sala",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Início escada Sala",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Início escada Sala",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Início escada",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

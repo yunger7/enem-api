@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2023",
+    "index": 144,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A tartaruga ou tachão de trânsito é um dispositivo de\nsinalização horizontal utilizado para canalizar o tráfego\nou garantir o afastamento do fluxo de veículos de zonas\nperigosas ou com grande risco de acidentes. A Figura 1\napresenta alguns deles já instalados.\n\n![](https://enem.dev/2023-reaplicacao/questions/144/54d2bedb-014e-438f-b813-e944eeee0565.png)\n\nFigura 1\n\nDisponível em: www.alfasinalizacao.com.br. Acesso em: 28 nov. 2021 (adaptado).\nO modelo geométrico de um tachão está representado\nna Figura 2. Ele é formado por duas faces retangulares\nparalelas e quatro faces trapezoidais. Suas arestas\nlaterais, se prolongadas, concorrem em um mesmo ponto.\n\nFigura 2",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/144/54d2bedb-014e-438f-b813-e944eeee0565.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é o sólido representado pelo modelo geométrico do tachão? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Paralelepípedo reto. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Paralelepípedo oblíquo. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Pirâmide quadrangular. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Tronco de pirâmide hexagonal. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Tronco de pirâmide quadrangular.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2017",
+    "index": 109,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns profissionais burlam a fiscalização quando adicionam quantidades controladas de solução aquosa de\nhidróxido de sódio a tambores de leite de validade vencida. Assim que o teor de acidez, em termos de ácido lático,\nencontra-se na faixa permitida pela legislação, o leite adulterado passa a ser comercializado. A reação entre o hidróxido\nde sódio e o ácido lático pode ser representada pela equação química:\n\nCH3CH(OH)COOH (aq) + NaOH (aq) → CH3CH(OH)COONa (aq) + H2O (l)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A consequência dessa adulteração é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do pH do leite.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "diluição significativa do leite.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "precipitação do lactato de sódio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminuição da concentração de sais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumento da concentração dos íons H+.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

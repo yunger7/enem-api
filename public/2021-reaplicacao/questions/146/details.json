@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2021",
+    "index": 146,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma confeiteira pretende divulgar em um sítio\nda internet os doces que produz, mas só fará isso\nse acreditar que o número de acessos por semana\n\u001e\u0004\u0010%\n\u0005\t\b\u0007?\u0002\n\f\u0002J\b\t\r\u0004\u0002\u001e\u0004\u0010\u0002\b\u0002\u000f\u000e#\f2J\b'\u001d\u0004(\u0002\u001f\u0004\u0007\u0002\u000e\t\t\u0004$\u0002%\n\u000f\u000e\f\u0002\nque lhe enviassem dados sobre o número de acessos ao\n\tG\r\u000e\u0004\u0002\u0005\b\t\u0002K2\r\u000e\u0010\b\t\u0002&\u0002\n\u0010\b\u0005\b\t\u0002\n\u0002\u0007\n\n!\n\f\u0002\u0004\u0002J\u0007?\u0006\u001e\u0004\u0002\b\u0002\nJ\f\u000e\u0007(\n\n160\n160\n\n158\n158\n\n156\n156\n\nAcesso\n\n154\n154\n\n152\n152\n\n150\n148\n\n1ª\n2ª\n3ª\n4ª\n5ª\n\nSemana\n\nA confeiteira acredita que, se o número de acessos\nmantiver o mesmo crescimento semanal para as próximas\n&\u0002\n\u0010\b\u0005\b\t$\u0002\b\u0004\u0002\u0006\u0005\b2\u0002\u000f\n\n\u0002%\n\u0007G\u0004\u000f\u0004\u0002#\b2\n\u0007?\u0002\b\u0002%\n\u0005\b\u0002\u000e\u0005#\n\t\r\u000e\u0007\u0002\n\u0005\b\u0002\u000f\u000e#\f2J\b'\u001d\u0004(",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número de acessos que a confeiteira acredita ser \u0006 \u000e \u0005 \u0002%\b\u0007\b\u0002 \u0002\b\u0002\u000f\u000e# 2J\b' \u0004\u0002\u0005\u0004\u0002 G \u000e\u0004\u0002#\b2+\b\u0002\b\u0002% \u0005\b\u0002^",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

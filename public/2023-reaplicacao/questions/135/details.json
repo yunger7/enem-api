@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2023",
+    "index": 135,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Balões cheios de gás hélio são soltos no ar pelas\ncrianças e sobem até não serem mais vistos em poucos\nminutos.\n\nDurante a subida, o gás no interior do balão sofre\naumento de",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "volume. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "pressão. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "densidade. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "temperatura. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "massa molar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

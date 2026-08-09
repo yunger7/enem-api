@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2018",
+    "index": 173,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "De acordo com a Organização Mundial da Saúde\n(OMS), o limite de ruído suportável para o ouvido humano\né de 65 decibéis. Ruídos com intensidade superior a este\nvalor começam a incomodar e causar danos ao ouvido.\nEm razão disto, toda vez que os ruídos oriundos do\nprocesso de fabricação de peças em uma fábrica\nultrapassam este valor, é disparado um alarme sonoro,\nindicando que os funcionários devem colocar proteção\nnos ouvidos. O gráfico fornece a intensidade sonora\nregistrada no último turno de trabalho dessa fábrica. Nele,\na variável t indica o tempo (medido em hora), e I indica a\nintensidade sonora (medida em decibel).\n\nI (decibel)\n\nt1\nt3\nt4\nt5\nt6\nt7\nt (hora)\nt2\n\nDisponível em: www.crmariocovas.sp.gov.br. Acesso em: 24 abr. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com o gráfico, quantas vezes foi necessário colocar a proteção de ouvidos no último turno de trabalho?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

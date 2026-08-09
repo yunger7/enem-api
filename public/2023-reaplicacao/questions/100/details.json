@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2023",
+    "index": 100,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A crescente facilidade para aquisição de aerogeradores\ne painéis fotovoltaicos tem permitido que unidades\nconsumidoras tenham suas próprias unidades microgeradoras\nde energia. A integração das unidades microgeradoras à rede\npública de distribuição pode beneficiar tanto as unidades\nconsumidoras quanto as concessionárias de fornecimento,\nconforme o fluxograma. Quando as unidades microgeradoras\nnão geram energia suficiente para a unidade consumidora,\na rede de distribuição supre a diferença. Quando a unidade\nmicrogeradora gera excedente de energia, esse excedente\npoderá ser entregue à concessionária em troca de crédito.\n\nUnidade microgeradora eólica ou fotovoltaica\n\nRede pública\nde distruibuição\n\nQuadro de\n\nUnidade\nconsumidora\n\nenergia e\n\nde energia\n\nmedidor\n\nA vantagem técnica que as unidades microgeradoras\nproporcionam para as concessionárias da rede pública é a",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução das perdas energéticas provenientes do transporte de longa distância. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "sincronização dos picos de produção das microgeradoras com os picos de demanda da rede pública. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "diminuição da necessidade da rede pública, no caso de todas as unidades consumidoras optarem pela microgeração. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "intensificação do uso da energia gerada por pequenas termoelétricas próximas às unidades consumidoras. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuição da dependência da energia gerada em grandes parques eólicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

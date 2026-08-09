@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2022",
+    "index": 155,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As bactérias são microrganismos formados por uma\núnica célula. Elas estão presentes em praticamente\ntodos os meios: no ar, na água, no solo ou no interior de\noutros seres vivos. A forma de reprodução mais comum\ndas bactérias é a assexuada por bipartição. Nesse\nprocesso, cada uma delas tem seu DNA duplicado e,\nposteriormente, se divide em duas células bacterianas.\n\nDe modo geral, em condições favoráveis, esse\nprocesso de bipartição se conclui a cada 20 minutos.\n\nDisponível em: www.sobiologia.com.br. Acesso em: 16 nov. 2013 (adaptado).\nConsidere que, no instante t = 0, há uma quantidade N0\nde bactérias em um meio favorável à sua reprodução, de\nmodo que nele só se reproduzem por bipartição.\n\nA sequência formada pela quantidade de bactérias nesse\nmeio nos instantes 0, 20, 40, 60, 80 e 100 minutos é",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N0 , N0 2, N0 3, N0 4, N0 5, N0 6 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "N0 , N0 2, N0 4, N0 8, N0 16, N0 32 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "N0 , 2N0 , 3N0 , 4N0 , 5N0 , 6N0 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "N0 , 2N0 , 4N0 , 8N0 , 16N0 , 32N0 E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "N0 , 3N0 , 7N0 , 15N0 , 31N0 , 63N0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

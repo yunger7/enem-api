@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2019",
+    "index": 3,
+    "year": 2019,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/3-espanhol/2e04c68e-6975-432c-884c-868bd25723e2.png)\n\nDZWONIK, C. Disponível em: www.tarinja.net.\n\nAcesso em: 12 ago. 2013.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/3-espanhol/2e04c68e-6975-432c-884c-868bd25723e2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A palavra clave, repetida diversas vezes na tirinha de Gaturro, leva o leitor a uma reflexão sobre o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "uso exaustivo das tecnologias na vida moderna.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "qualidade de vida alcançada com os avanços tecnológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "praticidade da utilização dos códigos tecnológicos e sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "necessidade de aprender a utilizar as novas tecnologias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "quantidade de informações necessárias para resolver problemas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

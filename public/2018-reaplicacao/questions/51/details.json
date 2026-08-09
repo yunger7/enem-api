@@ -1,0 +1,43 @@
+{
+    "title": "Questão 51 - ENEM 2018",
+    "index": 51,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Os antigos filósofos, observando o grande volume\nde água de rios como o Nilo, Reno e outros, imaginavam\nque as chuvas eram insuficientes para alimentar tão\nconsideráveis massas de água. Foi no século XVIII que\nPierre Pernault mediu a quantidade de chuva durante\ntrês anos na cabeceira do rio Sena. Também mediu o\nvolume de água do referido rio e chegou à conclusão\nde que apenas a sexta parte se escoava e o restante\nera evaporado.\n\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A investigação feita por Pierre Pernault contribuiu diretamente para a explicação científica sobre",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "intemperismo químico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "rede de drenagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "degelo de altitude.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "erosão pluvial.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ciclo hidrológico.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2018",
+    "index": 94,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Do\nponto\nde\nvista\ngenético,\no\nnúmero\nde\ncromossomos é uma característica marcante de cada\nespécie. A goiabeira (Psidium guajava L.), por exemplo,\napresenta como padrão específico 22 cromossomos.\nA organização celular do gametófito feminino (saco\nembrionário) das flores de Angiospermas é complexa,\nsendo formado por um conjunto de oito células que, após\na fecundação, originarão células com diferentes números\ncromossômicos. Nesse grupo, as células somáticas\nsão diploides, as gaméticas são haploides e o tecido de\nreserva da semente é triploide.\nDurante o ciclo de vida de uma goiabeira, quantos\ncromossomos podem ser encontrados, respectivamente,\nna oosfera, no zigoto e no endosperma?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22, 22, 33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "11, 22, 33",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "22, 44, 33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11, 22, 44",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "11, 22, 22",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

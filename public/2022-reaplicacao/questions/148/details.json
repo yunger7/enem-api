@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2022",
+    "index": 148,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três amigos realizaram uma viagem de carro entre\nduas cidades, num tempo total de 31 horas. Para não\nfazer paradas, revezaram na direção, de forma que cada\num deles dirigisse um terço da quilometragem total.\nO primeiro, mais prudente, dirigiu a uma velocidade\nmédia de 75 quilômetros por hora; o segundo, a uma\nvelocidade média de 90 quilômetros por hora; e o último,\nmais apressado, dirigiu a uma velocidade média de\n100 quilômetros por hora.\nA distância percorrida por eles, em quilômetros, foi de",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "900. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 700. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2 738. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 790. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8 215.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

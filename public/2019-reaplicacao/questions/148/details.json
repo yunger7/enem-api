@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2019",
+    "index": 148,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um gerente decidiu fazer um estudo financeiro da\nempresa onde trabalha analisando as receitas anuais\ndos três últimos anos. Tais receitas são apresentadas\nno quadro.\n\nAno\nReceita (bilhão de reais)\n\nI\n2,2\n\nII\n4,2\n\nIII\n7,4\n\nEstes dados serão utilizados para projetar a receita\nmínima esperada para o ano atual (ano IV), pois a\nreceita esperada para o ano IV é obtida em função das\nvariações das receitas anuais anteriores, utilizando a\nseguinte regra: a variação do ano IV para o ano III será\nigual à variação do ano III para o II adicionada à média\naritmética entre essa variação e a variação do ano II\npara o I.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor da receita mínima esperada, em bilhão de reais, será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13,2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "16,8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20,6.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2019",
+    "index": 124,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um professor percebeu que seu apontador a\nlaser, de luz monocromática, estava com o brilho\npouco intenso. Ele trocou as baterias do apontador e\nnotou que a intensidade luminosa aumentou sem que\na cor do laser se alterasse. Sabe-se que a luz é uma\nonda eletromagnética e apresenta propriedades como\namplitude, comprimento de onda, fase, frequência\ne velocidade.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dentre as propriedades de ondas citadas, aquela associada ao aumento do brilho do laser é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "amplitude.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "frequência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fase da onda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "velocidade da onda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comprimento de onda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

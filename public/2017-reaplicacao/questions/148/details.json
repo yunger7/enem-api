@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2017",
+    "index": 148,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao abrir um negócio, um microempresário descreveu suas vendas, em milhares de reais (unidade monetária\nbrasileira), durante os dois primeiros anos. No primeiro ano, suas vendas cresceram de modo linear. Posteriormente,\nele decidiu investir em propaganda, o que fez suas vendas crescerem de modo exponencial.\n\nQual é o gráfico que melhor descreve as vendas em função do tempo?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Vendas (real)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real) 0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real) 0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0 0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8 2,0 Tempo (ano) Vendas (real)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

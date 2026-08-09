@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2023",
+    "index": 137,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa fundada em 2005, ao longo dos anos\nganhou popularidade e aumentou consideravelmente sua\natuação na economia do país. Os lucros anuais e seu\npadrão de crescimento podem ser observados na tabela.\n\nAno\nLucro\n(em milhares de reais)\n\n2005\n3\n\n2006\n5\n\n2007\n9\n\n2008\n17\n\n2009\n33\n\n...\n...\n\nSupondo que se tenha mantido o padrão observado na\ntabela para os 5 anos seguintes, estima-se que o lucro total\ndessa empresa, de 2005 a 2014, em milhar de real, foi",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "120. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "134. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 025. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 056. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "2 074.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

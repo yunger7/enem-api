@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2018",
+    "index": 127,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "De acordo com o Ministério da Saúde, a cegueira\nnoturna ou nictalopia é uma doença caracterizada pela\ndificuldade de se enxergar em ambientes com baixa\nluminosidade. Sua ocorrência pode estar relacionada\na uma alteração ocular congênita ou a problemas\nnutricionais. Com esses sintomas, uma senhora dirigiu-se\nao serviço de saúde e seu médico sugeriu a ingestão de\nvegetais ricos em carotenoides, como a cenoura.\n\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 1 mar. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Essa indicação médica deve-se ao fato de que os carotenoides são os precursores de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hormônios, estimulantes da regeneração celular da retina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "enzimas, utilizadas na geração de ATP pela respiração celular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "vitamina A, necessária para a formação de estruturas fotorreceptoras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "tocoferol, uma vitamina com função na propagação dos impulsos nervosos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "vitamina C, substância antioxidante que diminui a degeneração de cones e bastonetes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

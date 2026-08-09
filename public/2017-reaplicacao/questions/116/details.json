@@ -1,0 +1,45 @@
+{
+    "title": "Questão 116 - ENEM 2017",
+    "index": 116,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para estudar os cromossomos, é preciso observá-los\nno momento em que se encontram no ponto máximo\nde sua condensação. A imagem corresponde ao tecido\nda raiz de cebola, visto ao microscópio, e cada número\nmarca uma das diferentes etapas do ciclo celular.\n\n![](https://enem.dev/2017-reaplicacao/questions/116/ee619818-33a2-4ef8-8f9d-edd22edb1be2.png)\n\nDisponível em: www.histologia.icb.ufg.br. Acesso em: 6 mar. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/116/ee619818-33a2-4ef8-8f9d-edd22edb1be2.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual número corresponde à melhor etapa para que esse estudo seja possível?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

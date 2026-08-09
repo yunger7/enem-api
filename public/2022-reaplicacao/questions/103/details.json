@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2022",
+    "index": 103,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em muitos animais, machos e fêmeas da mesma\nespécie\napresentam\ndiferenças\nmorfológicas\nou\ncomportamentais evidentes. Um exemplo clássico de\ndimorfismo sexual é o caso do pavão, em que o macho\npossui cauda vistosa e penas coloridas, as quais estão\nausentes nas fêmeas. Em outras espécies, os machos\npossuem chifres, garras ou dentes maiores do que\nas fêmeas, e utilizam essas estruturas em combates\nfísicos para defender territórios e ter acesso a fêmeas\ncoespecíficas e receptivas.\nEsse padrão de dimorfismo evolui porque",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desenvolve-se no processo direcional de deriva genética. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "as fêmeas sofrem menor pressão seletiva total do ambiente. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "machos e fêmeas coespecíficos são fenotipicamente distintos. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a seleção sexual favorece o sucesso reprodutivo individual de machos dimórficos. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o material genético de machos dimórficos é mais susceptível a mutações gênicas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

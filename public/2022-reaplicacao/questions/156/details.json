@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2022",
+    "index": 156,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nNo mercado de valores, denominam-se ativos\ndiversos produtos que podem ser negociados em\nmercados de valores (ações de uma companhia, moeda\nestrangeira, metais preciosos, entre outros).\n\nCurioso para descobrir o melhor momento para\nvender um ativo, um jovem perguntou a um corretor o que\nfazer. Ele respondeu que sempre sugere a seus clientes\nque verifiquem o gráfico que representa a variação, nas\núltimas horas, do preço do ativo que lhes interessa,\numa vez que são de fácil leitura, pois são formados por\nsegmentos de reta. Um bom momento para vender é\nimediatamente após o gráfico apresentar dois períodos\nconsecutivos cujos segmentos têm inclinação positiva,\nsendo que no segundo a inclinação é maior ou igual a\n45°. Para exemplificar, mostrou ao jovem o gráfico a\nseguir, no qual se observa a variação do preço de um\nativo num período de 19 horas.\n\nPreço (R$)\n\n27,90\n\n27,23\n\n26,52\n26,01\n\n25,19\n\n23,92\n\n23,92\n23,92\n\n22,93\n\nTempo\n\n1 2 3,5\n6\n8\n11 12\n15\n17\n19\n\n(h)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em quantos períodos a variação do preço do ativo, apresentada no gráfico, indicava que era um bom momento para efetuar a venda? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 23 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

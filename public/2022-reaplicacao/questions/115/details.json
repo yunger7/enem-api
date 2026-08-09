@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2022",
+    "index": 115,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na área de comunicações, a demanda por\ngrande volume de dados exige uma transmissão em\nalta frequência. Uma inovação nesse sentido foi o\ndesenvolvimento da fibra óptica, que faz uso da luz\ncomo portadora de sinais. A fibra óptica é um meio de\npropagação da luz formada por duas camadas de vidro,\ncom índices de refração diferentes. Considere que a\ncamada externa da fibra apresente índice de refração n2,\ne a camada interna, índice de refração n1, como ilustrado\nna figura.\n\nn2\n\nn1\n\nLuz incidente\n\nO objetivo dessa diferença é obter a condição de\nreflexão interna total do sinal óptico que se encontre na\ncamada interna, de forma que ele se propague por toda\na extensão da fibra.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A tecnologia envolvida na confecção das fibras ópticas deve garantir que o ângulo de refração e a relação entre n1 e n2 sejam, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

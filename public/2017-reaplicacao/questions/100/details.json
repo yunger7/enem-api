@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2017",
+    "index": 100,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ferro metálico é obtido em altos-fornos pela\nmistura do minério hematita (α-Fe2O3) contendo\nimpurezas, coque (C) e calcário (CaCO3), sendo estes\nmantidos sob um fluxo de ar quente que leva à queima\ndo coque, com a temperatura no alto-forno chegando\npróximo a 2 000 °C. As etapas caracterizam o processo\nem função da temperatura.\n\nEntre 200 °C e 700 °C:\n\n3 Fe2O3 + CO → 2 Fe3O4 + CO2\nCaCO3 → CaO + CO2\nFe3O4 + CO → 3 FeO + CO2\n\nEntre 700 °C e 1 200 °C:\n\nC + CO2 → 2 CO\n\nFeO + CO → Fe + CO2\n\nEntre 1 200 °C e 2 000 °C:\n\nFerro impuro se funde\n\nFormação de escória fundida (CaSiO3)\n\n2 C + O2 → 2 CO\n\nBROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. Química: a ciência central.\n\nSão Paulo: Pearson Education, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "No processo de redução desse metal, o agente redutor é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CO.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "CO2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CaO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "CaCO3.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

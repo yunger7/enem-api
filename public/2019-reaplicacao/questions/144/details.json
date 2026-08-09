@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2019",
+    "index": 144,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jardineiro cultiva plantas ornamentais e as coloca\nà venda quando estas atingem 30 centímetros de altura.\nEsse jardineiro estudou o crescimento de suas plantas,\nem função do tempo, e deduziu uma fórmula que calcula\na altura em função do tempo, a partir do momento em\nque a planta brota do solo até o momento em que ela\natinge sua altura máxima de 40 centímetros. A fórmula é\nh = 5·log2 (t + 1), em que t é o tempo contado em dia e\nh, a altura da planta em centímetro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir do momento em que uma dessas plantas é colocada à venda, em quanto tempo, em dia, ela alcançará sua altura máxima?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "63",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "96",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "128",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "192",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "255",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

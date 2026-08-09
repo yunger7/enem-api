@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2023",
+    "index": 91,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No calor tórrido e seco da Serra do Cabral, em Minas\nGerais, o delgado talo com translúcidas flores lilases\ndesponta da areia branca. Philcoxia minensis recorre a\ntruques para sobreviver. Um deles é manter as folhas\nenterradas, protegidas do sol, que mesmo assim chega\nsuficiente para a fotossíntese. O segundo é atrair vermes\nsubterrâneos, que viram suplemento alimentar num\nsolo pobre. A digestão fica por conta das fosfatases\nsecretadas pelas glândulas.\n\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 7 jul. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual tipo de substância liberada pelos vermes digeridos é absorvida por Philcoxia minensis? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Glicose. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aminoácidos. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Sais minerais. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Fosfolipídeos. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácidos nucleicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

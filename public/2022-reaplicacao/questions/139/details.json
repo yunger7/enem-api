@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2022",
+    "index": 139,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nA classificação de um país no quadro de medalhas\nolímpicas deve-se primeiro ao número de medalhas de\nouro que o país conquistou. Em caso de empate no\nnúmero de medalhas de ouro, passa a ser considerado\no número de medalhas de prata e, por fim, o de\nmedalhas de bronze. O quadro de medalhas a seguir\napresenta os países classificados do 9º ao 11º lugar\nnas Olimpíadas de Londres, realizadas em 2012.\n\nOuro\nPrata\nBronze\n\n9º Hungria\n8\n4\n5\n\n10º Austrália\n7\n16\n12\n\n11º Japão\n7\n14\n17\n\nNessa olimpíada, o Brasil obteve 3 medalhas de ouro,\n5 de prata e 9 de bronze, classificando-se em 22º lugar\nno quadro geral de medalhas.\n\nDisponível em: http://olimpiadas.uol.com.br. Acesso em: 28 fev. 2013 (adaptado).\n\nSupondo que o número de medalhas dos demais\npaíses permaneça inalterado, qual o número mínimo de\nmedalhas que o Brasil deveria ter ganhado a mais nas\nOlimpíadas de Londres a fim de ficar exatamente na\n10ª posição?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "22 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "19 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16 E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

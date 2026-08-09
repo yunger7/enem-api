@@ -1,0 +1,52 @@
+{
+    "title": "Questão 139 - ENEM 2021",
+    "index": 139,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "\u0017\t\u0002 %\u0005\n\f\t\u0002\n\t\r\u001d\u0004\u0002\n\u0005\r\u0007\n\u0002 \u0004\t\u0002 \u000e\r\n\u0005\t\u0002 \u0010\b\u000e\t\u0002 \u000e\u0010%\u0004\u0007\r\b\u0005\r\n\t\u0002\npara a segurança de um carro. Segundo revendedores\nespecializados, o desgaste do pneu em um trajeto é\ndiretamente proporcional ao número de voltas que ele\nefetua em contato com o solo, sem derrapar, durante esse\ntrajeto, sendo que a constante de proporcionalidade k\n\u000f\n%\n\u0005\u000f\n\u0002 \u000f\u0004\u0002 \u0010\b\r\n\u0007\u000e\b2\u0002\n\u0010%\u0007\nJ\b\u000f\u0004\u0002 \u0005\b\u0002 \t\f\b\u0002 P\b!\u0007\u000e\u001e\b'\u001d\u0004(\u0002\nO proprietário de um carro, cujo diâmetro do pneu\nmede L m, conforme indicado na imagem, pretende obter\n\f\u0010\b\u0002\n@%\u0007\n\t\t\u001d\u0004\u0002\u000b\f\n\u0002P\u0004\u0007\u0005\n'\b\u0002\f\u0010\b\u0002\n\t\r\u000e\u0010\b\r\u000e#\b\u0002%\b\u0007\b\u0002\b\u0002\u0010\n\u000f\u000e\u000f\b\u0002\ndo desgaste D desse pneu ao longo de uma viagem\nde x km. Para efeito dos cálculos, considerou o diâmetro\ndo pneu como sendo L$\u0002\u000e\u0005\u000f\n%\n\u0005\u000f\n\u0005\r\n\u0010\n\u0005\r\n\u0002\u000f\b\u0002\n@\r\n\u0005\t\u001d\u0004\u0002\ndo trajeto.\n\n![](https://enem.dev/2021-reaplicacao/questions/139/62552717-689a-4177-b6df-371b3df12f0d.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/863133c1-b206-4fb0-bdb2-860b2f25b033.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/44fbdba9-0739-4e94-9bff-cac643905ad3.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/0ca93c10-3d2e-4295-9d5d-d5de0c1aa660.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/d937a450-d232-479d-8f77-01c8e20b4fe3.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/76b0536a-52bc-41b8-bfa4-417b2a50f600.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/e048eeec-a8ac-4b18-895e-1cb63015875c.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/139/e5ccb6d6-4a98-4545-aca1-56777da67498.png)\n\nL metro\n\n\u0013\u000e\t%\u0004\u0005G#\n2\u0002\n\u0010I\u0002+\r\r%I\u0007\n#\u000e\t\r\b(%\n\u0005\n\u001e\b\u0007\u0007\u0004\t(\u001e\u0004\u0010(!\u0007(\u0002\u0012\u001e\n\t\t\u0004\u0002\n\u0010I\u0002\u0002\b!\u0007(\u0002&\u0002\b\u000f\b%\r\b\u000f\u0004(\n\n15\nMT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/139/62552717-689a-4177-b6df-371b3df12f0d.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/863133c1-b206-4fb0-bdb2-860b2f25b033.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/44fbdba9-0739-4e94-9bff-cac643905ad3.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/0ca93c10-3d2e-4295-9d5d-d5de0c1aa660.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/d937a450-d232-479d-8f77-01c8e20b4fe3.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/76b0536a-52bc-41b8-bfa4-417b2a50f600.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/e048eeec-a8ac-4b18-895e-1cb63015875c.png",
+        "https://enem.dev/2021-reaplicacao/questions/139/e5ccb6d6-4a98-4545-aca1-56777da67498.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor de D\u0002^\u0002\u000f\b\u000f\u0004\u0002% 2\b\u0002 @%\u0007 \u0004",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2023",
+    "index": 178,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Estudantes de psicologia experimental estão analisando\num modelo matemático que foi desenvolvido a partir de\num experimento com pombos. Nesse experimento, um\nalimento considerado como uma recompensa reforçadora\nera fornecido em quantidades (Q) para as aves, com a\npossibilidade de atraso no tempo de entrega.\n\nO modelo matemático que relaciona os valores\nreforçadores V1 e V2 de duas recompensas em função de suas\nrespectivas quantidades Q1 e Q2 e de seus respectivos tempos\nde atraso T1 e T2 na disponibilização de cada uma delas é\n\nV\nV\n\nQ\nQ\n\nAo analisarem o caso em que a quantidade Q1 é o\ndobro da quantidade Q2, cinco estudantes fizeram as\nseguintes afirmações sobre em que condição o valor V1\nserá maior que o valor V2:\n\n•\t estudante 1: sempre, pois Q1 é o dobro de Q2;\n•\t estudante 2: apenas quando a razão entre T2 e T1\nfor maior que 0,5;\n•\t estudante 3: apenas quando a razão entre T2 e T1\nfor menor que 0,5;\n•\t estudante 4: apenas quando T1 for igual a T2;\n•\t estudante 5: apenas quando a razão entre T2 e T1\n\nfor maior que 0,5 e menor que 1.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual estudante fez a afirmação correta? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

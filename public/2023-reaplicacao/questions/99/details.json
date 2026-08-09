@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2023",
+    "index": 99,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O processo de radiação de alimentos consiste em\nsubmeter os alimentos, já embalados ou a granel, a uma\nquantidade controlada de radiação ionizante, por um\ndeterminado período de tempo. Esse procedimento não\naumenta o nível de radioatividade normal dos alimentos.\nA aplicação de uma dose de radiação normalmente resulta\nna morte de insetos, bactérias patogênicas, fungos e\nleveduras, aumentando assim o tempo de conservação\ndos alimentos, e pode retardar a maturação de algumas\nfrutas e legumes, sendo possível assim aumentar seu\nperíodo de armazenamento.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Em relação ao processo de conservação de alimentos descrito no texto, infere-se que A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as frutas e os legumes submetidos a uma dose de radiação apodrecem mais rapidamente que as demais. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o processo de radiação de alimentos torna-os altamente radioativos e impróprios para o consumo humano. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "apenas os alimentos já embalados em recipientes adequados podem ser submetidos a uma dose de radiação ionizante. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alimentos tratados com radiação ficam mais sensíveis ao ataque de insetos, bactérias patogênicas, fungos e leveduras. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "com a eliminação dos principais agentes patogênicos, a aplicação da radiação em alimentos contribui para sua melhor conservação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

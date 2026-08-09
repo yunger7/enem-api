@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2017",
+    "index": 125,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O quadro é um esquema da via de produção de\nbiocombustível com base no cultivo de uma cianobactéria\ngeneticamente modificada com a inserção do gene\nDGAT. Além da introdução desse gene, os pesquisadores\ninterromperam as vias de síntese de outros compostos\norgânicos, visando aumentar a eficiência na produção do\nbiocombustível (triacilglicerol).\n\nCO2\nO2\n\nFotossíntese\n\nTriose-P\nPiruvato\n\nAcetil-CoA\nÁcido graxo\n\nPhaA\n\nPoli-β-hidroxibutarato\n\nUDP-glicose\n\nGlicose-1-P\n\nDiacilglicerol\nAGPase\n\nGlicogênio\n\nSacarose\n\nTriacilglicerol\n\nNational Renewable Energy Laboratory. NREL creates new pathways for producing biofuels\n\nand acids from cyanobacteria. Disponível em: www.nrel.gov.\n\nAcesso em: 16 maio 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as vias mostradas, uma fonte de matéria-prima primária desse biocombustível é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ácido graxo, produzido a partir da sacarose.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "gás carbônico, adquirido via fotossíntese.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "sacarose, um dissacarídeo rico em energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "gene DGAT, introduzido por engenharia genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "glicogênio, reserva energética das cianobactérias.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

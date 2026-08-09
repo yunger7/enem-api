@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2019",
+    "index": 22,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A expansão do português no Brasil, as variações\nregionais com suas possíveis explicações e as\nraízes das inovações da linguagem estão emergindo\npor meio do trabalho de linguistas que estão\ndesenterrando as raízes do português brasileiro\nao examinar cartas pessoais e administrativas,\ntestamentos,\nrelatos\nde\nviagens,\nprocessos\njudiciais, cartas de leitores e anúncios de jornais\ndesde o século XVI, coletados em instituições\ncomo a Biblioteca Nacional e o Arquivo Público do\nEstado de São Paulo. No acervo de documentos\nque servem para estudos sobre o português paulista\nestá uma carta de 1807, escrita pelo soldado Manoel\nCoelho, que teria seduzido a filha de um fazendeiro.\nQuando soube, o pai da moça, enfurecido, forçou o\nrapaz a se casar com ela. O soldado, porém, bateu\no pé: “Nem por bem, nem por mar!”, não se casaria.\nUm linguista pesquisador estranhou a citação, já\nque o fato se passava na Vila de São Paulo, mas\ndepois percebeu: “Ele quis dizer ‘nem por bem, nem\npor mal!’. O soldado escrevia como falava. Não se\nsabe se casou com a filha do fazendeiro, mas deixou\numa prova valiosa de como se falava no início do\nséculo XIX.”\n\nFIORAVANTI, C. Ora pois, uma língua bem brasileira.\n\nPesquisa Fapesp, n. 230, abr. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O fato relatado evidencia que fenômenos presentes na fala podem aparecer em textos escritos. Além disso, sugere que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "os diferentes falares do português provêm de textos escritos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o tipo de escrita usado pelo soldado era desprestigiado no século XIX.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "os fenômenos de mudança da língua portuguesa são historicamente previsíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as formas variantes do português brasileiro atual já figuravam no português antigo escrito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "as origens da norma-padrão do português brasileiro podem ser observadas em textos antigos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

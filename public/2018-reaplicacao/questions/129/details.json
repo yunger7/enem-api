@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2018",
+    "index": 129,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A fotossíntese é um processo físico-químico realizado por organismos clorofilados. Nos vegetais, é dividido em duas fases complementares: uma responsável pela síntese de ATP e pela redução do NADP+ e a outra pela fixação de carbono. Para que a etapa produtora de ATP e NADPH ocorra, são essenciais",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água e oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "glicose e oxigênio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "radiação luminosa e água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "glicose e radiação luminosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "oxigênio e dióxido de carbono.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

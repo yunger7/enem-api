@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2019",
+    "index": 166,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Alguns modelos de rádios automotivos estão protegidos por um código de segurança. Para ativar o sistema\nde áudio, deve-se digitar o código secreto composto por quatro algarismos. No primeiro caso de erro na digitação,\na pessoa deve esperar 60 segundos para digitar o código novamente. O tempo de espera duplica, em relação\nao tempo de espera anterior, a cada digitação errada. Uma pessoa conseguiu ativar o rádio somente na quarta\ntentativa, sendo de 30 segundos o tempo gasto para digitação do código secreto a cada tentativa. Nos casos da\ndigitação incorreta, ela iniciou a nova tentativa imediatamente após a liberação do sistema de espera.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O tempo total, em segundo, gasto por essa pessoa para ativar o rádio foi igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "420.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "540.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "660.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 020.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

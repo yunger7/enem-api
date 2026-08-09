@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2018",
+    "index": 97,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No século XVII, um cientista alemão chamado\nJan Baptista van Helmont fez a seguinte experiência\npara tentar entender como as plantas se nutriam:\nplantou uma muda de salgueiro, que pesava 2,5 kg, em\num vaso contendo 100 kg de terra seca. Tampou o vaso\ncom uma placa de ferro perfurada para deixar passar\nágua. Molhou diariamente a planta com água da chuva.\nApós 5 anos, pesou novamente a terra seca e encontrou\nos mesmos 100 kg, enquanto que a planta de salgueiro\npesava 80 kg.\n\nBAKER, J. J. W.; ALLEN, G. E. Estudo da biologia.\n\nSão Paulo: Edgar Blucher, 1975 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os resultados desse experimento permitem confrontar a interpretação equivocada do senso comum de que as plantas",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "absorvem gás carbônico do ar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "usam a luz como fonte de energia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "absorvem matéria orgânica do solo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "usam a água para constituir seu corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "produzem oxigênio na presença de luz.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

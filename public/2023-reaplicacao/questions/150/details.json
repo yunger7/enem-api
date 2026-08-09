@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2023",
+    "index": 150,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em quantos dias de trabalho o novo quadro de funcionários\nconfeccionará a mesma quantidade de calças jeans?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,0 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,0 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,3 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8,3 E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "12,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2018",
+    "index": 132,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para que se faça a reciclagem das latas de alumínio\nsão necessárias algumas ações, dentre elas:\n\n1) recolher as latas e separá-las de outros materiais\ndiferentes do alumínio por catação;\n\n2) colocar as latas em uma máquina que separa as\nmais leves das mais pesadas por meio de um intenso jato\nde ar;",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "3) retirar, por ação magnética, os objetos restantes que contêm ferro em sua composição. As ações indicadas possuem em comum o fato de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exigirem o fornecimento de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fazerem uso da energia luminosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "necessitarem da ação humana direta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "serem relacionadas a uma corrente elétrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ocorrerem sob a realização de trabalho de uma força.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

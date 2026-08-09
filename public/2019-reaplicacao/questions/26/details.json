@@ -1,0 +1,43 @@
+{
+    "title": "Questão 26 - ENEM 2019",
+    "index": 26,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Um ponto interessante do marco civil da internet,\nsegundo Marília Maciel, pesquisadora do Centro de\nTecnologia e Sociedade da Fundação Getúlio Vargas\n(CTS/FGV), é o que trata da garantia do princípio\nda neutralidade de rede. “Isso quer dizer que, se eu\ncompro um pacote de um mega ou de cinco megas de\ninternet, o uso que eu vou fazer desses meus megas\nde velocidade depende das minhas escolhas. Não é\no operador que vai dizer o que eu posso acessar. Eu\ncomprei tantos megas e posso acessar texto, vídeo\nou fazer um curso de ensino a distância on-line”.\nO novo texto assegura que o usuário vai poder continuar\na contratar pacotes de velocidades diferentes, mas,\ndentro daquela velocidade escolhida, ele poderá\nacessar qualquer tipo de aplicativo na internet.\n\nGANDRA, A. Disponível em: www.ebc.com.br.\n\nAcesso em: 20 nov. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com o aprimoramento dos recursos tecnológicos, a circulação de informações e seus usos têm reconfigurado os mais diversos setores da sociedade. O texto trata da legislação que regulamenta o uso da internet, criando a seguinte expectativa para o usuário brasileiro:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Proibição do corte do acesso pelo uso excessivo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da capacidade da rede.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mudança no perfil do internauta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Promoção do acesso irrestrito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Garantia de conexão a baixo custo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

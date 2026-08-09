@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2020",
+    "index": 124,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os acidentes de trânsito são causados geralmente por\n\nexcesso de velocidade. Em zonas urbanas no Brasil, o\n\nlimite de velocidade normalmente adotado é de 60 km  h−1.\n\nUma alternativa para diminuir o número de acidentes\n\nseria reduzir esse limite de velocidade. Considere uma\n\npista seca em bom estado, onde um carro é capaz de\n\nfrear com uma desaceleração constante de 5 m  s−2 e\n\nque o limite de velocidade reduza de 60 km  h−1 para\n\n50 km  h−1.\n\nNessas condições, a distância necessária para a\n\nfrenagem desde a velocidade limite até a parada completa",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "do veículo será reduzida em um valor mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2020",
+    "index": 153,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pesquisa de mercado sobre produtos de higiene e limpeza apresentou o comparativo entre duas marcas, A\ne B. Esses produtos são concentrados e, para sua utilização, é necessária sua diluição em água.\n\nO quadro apresenta a comparação em relação ao preço dos produtos de cada marca e ao rendimento de\ncada produto em litro.\n\nProdutos\nPreço\nMarca A\n\nSabão líquido concentrado (1 L)\nR$ 6,00\nR$ 5,10\n3 L\n2,5 L\n\nAlvejante concentrado (1 L)\nR$ 4,50\nR$ 3,00\n12 L\n9 L\n\nAmaciante concentrado (1 L)\nR$ 4,50\nR$ 5,00\n7 L\n6 L\n\nDetergente concentrado (1 L)\nR$ 1,60\nR$ 2,20\n3 L\n4 L",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Um consumidor pretende comprar um litro de cada produto e para isso escolherá a marca com o menor custo em relação ao rendimento. Nessas condições, as marcas dos quatro produtos adquiridos pelo consumidor, na ordem apresentada na tabela, são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

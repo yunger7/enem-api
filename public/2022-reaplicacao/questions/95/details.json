@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2022",
+    "index": 95,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um menino está ajudando sua mãe na cozinha. Ela\nlhe pede que tire do fogo uma panela que já estava lá há\nbastante tempo, em fogo baixo, orientando-lhe que tome\ncuidado para não se queimar, buscando tocar apenas no\ncabo de madeira, e não na base de metal da panela.\nA mãe lhe fez essa recomendação porque o metal, em\nrelação à madeira, apresenta maior",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "calor específico. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "energia interna. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "temperatura. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "condutividade térmica. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "coeficiente de dilatação térmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

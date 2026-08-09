@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2018",
+    "index": 115,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Podemos esperar que, evoluindo de ancestrais que\ndisputavam os mesmos recursos, as espécies tenham\ndesenvolvido características que asseguram menor ou\nnenhuma competição com membros de outras espécies.\nEspécies em coexistência, com um potencial aparente\npara competir, exibirão diferenças em comportamento,\nfisiologia ou morfologia.\n\nTOWNSEND, C. R.; BEGON, M.; HARPER, J. L. Fundamentos em ecologia.\n\nPorto Alegre: Artmed, 2006 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual fenômeno evolutivo explica a manutenção das diferenças ecológicas e biológicas citadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Mutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Fluxo gênico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Seleção natural.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Deriva genética.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Equilíbrio de Hardy-Weinberg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2017",
+    "index": 156,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gráfico mostra a expansão da base de assinantes\nde telefonia celular no Brasil, em milhões de unidades, no\nperíodo de 2006 a 2011.\n\nMilhão\n\n100\n99,92\n120,98\n150,64\n173,96\n202,94\n224,02\n\n0\n2007\n2008\n2009\n2010\n2011\nAno\n\nDisponível em: www.guiadocelular.com. Acesso em: 1 ago. 2012.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o gráfico, a taxa de crescimento do número de aparelhos celulares no Brasil, de 2007 para 2011, foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8,53%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "85,17%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "103,04%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "185,17%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "345,00%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

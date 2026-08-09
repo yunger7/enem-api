@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2017",
+    "index": 139,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um motorista de um carro flex (bicombustível) calcula\nque, abastecido com 45 litros de gasolina ou com 60 litros\nde etanol, o carro percorre a mesma distância.\n\nChamando de x o valor do litro de gasolina e de y o valor do\nlitro de etanol, a situação em que abastecer com gasolina\né economicamente mais vantajosa do que abastecer com\netanol é expressa por",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "x y = 4",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "x y = 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "x y > 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "x y > 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "x y < 4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

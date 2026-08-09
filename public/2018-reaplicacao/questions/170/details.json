@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2018",
+    "index": 170,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para pintar um automóvel, cuja cor é personalizada, a oficina encarregada de fazer o serviço terá de, por meio de uma mistura adequada de tintas, compor tons de azul e de branco. O tom azul representa 40% dessa mistura. Sabe-se, ainda, que a oficina deverá adquirir somente a tinta de tom azul, pois já possui, em seus estoques, 6 litros da tinta de tom branco, que serão totalmente utilizados na referida composição. A quantidade, em litro, de tinta de tom azul que a oficina deverá adquirir para compor essa mistura, sem que haja sobras, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4,0.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

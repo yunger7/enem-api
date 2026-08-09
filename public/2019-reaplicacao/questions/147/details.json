@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2019",
+    "index": 147,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa comprou um aparelho sem fio para\ntransmitir músicas a partir do seu computador para o\nrádio de seu quarto. Esse aparelho possui quatro chaves\nseletoras e cada uma pode estar na posição 0 ou 1.\nCada escolha das posições dessas chaves corresponde\na uma frequência diferente de transmissão.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade de frequências diferentes que esse aparelho pode transmitir é determinada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "24.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

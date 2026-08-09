@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2017",
+    "index": 119,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Pesquisadores avaliaram a qualidade da água potável distribuída em cidades brasileiras. Entre as várias\nsubstâncias encontradas, destacam-se as apresentadas no esquema. A presença dessas substâncias pode ser\nverificada por análises químicas, como uma reação ácido-base, mediante a adição de hidróxido de sódio.\n\nO\nCI\nOH\n\nN\nN\n\nN\nN\n\nN\nNH\nNH\n\nCafeína\nAtrazina\n\nBenzo[a]pireno\nDipirona sódica",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Apesar de não ser perceptível visualmente, por causa das condições de diluição, essa análise apresentará resultado positivo para o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cafeína.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "atrazina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "triclosan.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "benzo[a]pireno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dipirona sódica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

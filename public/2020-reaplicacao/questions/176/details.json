@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2020",
+    "index": 176,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma campanha promocional de uma loja, um\ncliente gira uma roleta, conforme a apresentada no\nesquema, almejando obter um desconto sobre o valor\ntotal de sua compra. O resultado é o que está marcado na\nregião apontada pela seta, sendo que todas as regiões\nsão congruentes. Além disso, um dispositivo impede\nque a seta venha a apontar exatamente para a linha\nde fronteira entre duas regiões adjacentes. Um cliente\nrealiza uma compra e gira a roleta, torcendo para obter o\ndesconto máximo.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A probabilidade, em porcentagem, de esse cliente ganhar o desconto máximo com um único giro da roleta é melhor aproximada por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

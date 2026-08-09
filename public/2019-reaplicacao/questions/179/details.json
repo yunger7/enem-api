@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2019",
+    "index": 179,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta a quantidade de um tipo de pão\nvendido em uma semana em uma padaria.\n\nDia da semana\nNúmero de pães vendidos\n\nDomingo\n250\n\nSegunda-feira\n208\n\nTerça-feira\n215\n\nQuarta-feira\n251\n\nQuinta-feira\n187\n\nSexta-feira\n187",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Sábado 186 O dono da padaria decidiu que, na semana seguinte, a produção diária desse tipo de pão seria igual ao número de pães vendidos no dia da semana em que tal quantidade foi a mais próxima da média das quantidades vendidas na semana. O dia da semana utilizado como referência para a quantidade de pães a serem produzidos diariamente foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "domingo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "segunda-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "terça-feira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "quarta-feira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "sábado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2017",
+    "index": 159,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A baixa procura por carne bovina e o aumento de\noferta de animais para abate fizeram com que o preço\nda arroba do boi apresentasse queda para o consumidor.\nNo ano de 2012, o preço da arroba do boi caiu de\nR$ 100,00 para R$ 93,00.\n\nDisponível em: www.diariodemarilia.com.br. Acesso em: 14 ago. 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com o mesmo valor destinado à aquisição de carne, em termos de perda ou ganho, o consumidor",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ganhou 6,5% em poder aquisitivo de carne.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ganhou 7% em poder aquisitivo de carne.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ganhou 7,5% em poder aquisitivo de carne.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "perdeu 7% em poder aquisitivo de carne.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "perdeu 7,5% em poder aquisitivo de carne.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

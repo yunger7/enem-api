@@ -1,0 +1,43 @@
+{
+    "title": "Questão 4 - ENEM 2018",
+    "index": 4,
+    "year": 2018,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "Eduardo Galeano\n\nLibertad\n\nPájaros prohibidos\n\nLos presos políticos uruguayos no pueden hablar sin\npermiso, silbar, sonreír, cantar, caminar rápido ni saludar\na otro preso. Tampoco pueden dibujar ni recibir dibujos\nde mujeres embarazadas, parejas, mariposas, estrellas\nni pájaros.\n\nDidaskó Pérez, maestro de escuela, torturado y preso\npor tener ideas ideológicas, recibe un domingo la visita\nde su hija Milay, de cinco años. La hija le trae un dibujo\nde pájaros. Los censores se lo rompen en la entrada a\nla cárcel.\n\nEl domingo siguiente, Milay le trae un dibujo de\nárboles. Los árboles no están prohibidos, y el domingo\npasa. Didashkó le elogia la obra y le pregunta por los\ncirculitos de colores que aparecen en la copa de los\nárboles, muchos pequeños círculos entre las ramas:\n\n— ¿Son naranjas? ¿qué frutas son?\nLa niña lo hace callar:\n— Ssssshhhh.\nY en secreto le explica:\n— Bobo, ¿no ves que son ojos? Los ojos de los\npájaros que te traje a escondidas.\n\nGALEANO, E. Memoria del fuego III. El siglo del viento. Madrid: Siglo Veintiuno de España, 1986.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A narrativa desse conto, que tem como pano de fundo a ditadura militar uruguaia, revela a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "desvinculação social dos presos políticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "condição precária dos presídios uruguaios.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "perspicácia da criança ao burlar a censura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "falta de sensibilidade no trato com as crianças.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dificuldade de comunicação entre os presos políticos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

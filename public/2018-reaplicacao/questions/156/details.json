@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2018",
+    "index": 156,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Alguns modelos de rádios automotivos estão\nprotegidos por um código de segurança. Para ativar\no sistema de áudio, deve-se digitar o código secreto\ncomposto por quatro algarismos. No primeiro caso de erro\nna digitação, a pessoa deve esperar 60 segundos para\ndigitar o código novamente. O tempo de espera duplica,\nem relação ao tempo de espera anterior, a cada digitação\nerrada. Uma pessoa conseguiu ativar o rádio somente na\nquarta tentativa, sendo de 30 segundos o tempo gasto\npara digitação do código secreto a cada tentativa. Nos\ncasos da digitação incorreta, ela iniciou a nova tentativa\nimediatamente após a liberação do sistema de espera.\nO tempo total, em segundo, gasto por essa pessoa para\nativar o rádio foi igual a",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "420.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "540.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "660.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 020.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

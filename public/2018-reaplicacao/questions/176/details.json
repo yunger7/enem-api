@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2018",
+    "index": 176,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de construção comprou um terreno\nde formato retangular por R$ 700 000,00. O terreno tem\n90 m de comprimento e 240 m de largura. O engenheiro\nda empresa elaborou três projetos diferentes para serem\navaliados pela direção da construtora, da seguinte\nmaneira:\n\nProjeto 1: dividir o terreno em lotes iguais de\n45 m × 10 m, sem ruas entre os lotes, e vender cada lote\npor R$ 23 000,00;\n\nProjeto 2: dividir o terreno em lotes iguais de\n20 m × 30 m, deixando entre lotes ruas de 10 m de\nlargura e 240 m de comprimento, e vender cada lote\npor R$ 35 000,00;\n\nProjeto 3: dividir o terreno em lotes iguais de\n35 m × 20 m, deixando entre lotes ruas de 20 m de\nlargura e 240 m de comprimento, e vender cada lote\npor R$ 45 000,00.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A direção da empresa decidiu dividir o terreno e utilizar o projeto que permitirá o maior lucro, sendo que este será igual ao valor obtido pela venda dos lotes, menos o valor da compra do terreno. Nesse caso, o lucro da construtora, em real, será de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "380 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "404 000,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1 104 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 120 000,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 460 000,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

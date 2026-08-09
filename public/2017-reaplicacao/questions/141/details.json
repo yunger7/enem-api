@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2017",
+    "index": 141,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de entregas presta serviços para\noutras empresas que fabricam e vendem produtos.\nOs fabricantes dos produtos podem contratar um entre\ndois planos oferecidos pela empresa que faz as entregas.\nNo plano A, cobra-se uma taxa fixa mensal no valor\nde R$ 500,00, além de uma tarifa de R$ 4,00 por cada\nquilograma enviado (para qualquer destino dentro da\nárea de cobertura). No plano B, cobra-se uma taxa fixa\nmensal no valor de R$ 200,00, porém a tarifa por cada\nquilograma enviado sobe para R$ 6,00. Certo fabricante\nhavia decidido contratar o plano A por um período de\n6 meses. Contudo, ao perceber que ele precisará enviar\napenas 650 quilogramas de mercadoria durante todo o\nperíodo, ele resolveu contratar o plano B.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual alternativa avalia corretamente a decisão final do fabricante de contratar o plano B?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A decisão foi boa para o fabricante, pois o plano B custará ao todo R$ 500,00 a menos do que o plano A custaria.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A decisão foi boa para o fabricante, pois o plano B custará ao todo R$ 1 500,00 a menos do que o plano A custaria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A decisão foi ruim para o fabricante, pois o plano B custará ao todo R$ 1 000,00 a mais do que o plano A custaria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A decisão foi ruim para o fabricante, pois o plano B custará ao todo R$ 1 300,00 a mais do que o plano A custaria.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A decisão foi ruim para o fabricante, pois o plano B custará ao todo R$ 6 000,00 a mais do que o plano A custaria.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

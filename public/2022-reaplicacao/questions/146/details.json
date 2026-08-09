@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2022",
+    "index": 146,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nO gerente de uma loja de roupas resolveu avaliar o\ndesempenho dos seus vendedores, registrando o total\nde vendas em reais V que cada um deles realizou em\num mês. De acordo com o valor de V, o desempenho do\nvendedor recebeu uma classificação, conforme a seguir:\n\n•\t N1: se V for maior que 20 000;\n•\t N2: se V ∈ ]10 000, 20 000];\n•\t N3: se V ∈ ]7 000, 10 000];\n•\t N4: se V ∈ ]4 000, 7 000];\n•\t N5: se V ∈ [0, 4 000].\nNo último mês, a funcionária Valéria vendeu\nR$ 10 000,00 em roupas, enquanto Bianca vendeu 35%\na menos que sua colega.\n As classificações que Valéria e Bianca receberam foram,\nrespectivamente,",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "N2 e N3. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "N2 e N4. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "N2 e N5. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "N3 e N4. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "N3 e N5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

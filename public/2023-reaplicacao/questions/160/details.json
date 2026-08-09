@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2023",
+    "index": 160,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Duas empresas do mercado de pequenos reparos\ndomésticos determinam o valor de seus serviços a partir\nde um valor fixo acrescido de um valor cobrado por hora.\nA empresa X cobra R$ 60,00 de valor fixo mais R$ 18,00 por\nhora de serviço prestado. A empresa Y cobra R$ 24,00 de\nvalor fixo e está definindo um novo valor a ser cobrado por\nhora. Sua estratégia de mercado prevê que, em relação\nà empresa X, o custo total do serviço deve ser menor ou\nigual para trabalhos de até duas horas de duração.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o valor máximo, em real, que a empresa Y poderá cobrar por hora de serviço prestado a fim de atender à sua estratégia de mercado? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "48 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "54 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "78",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

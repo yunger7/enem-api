@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2017",
+    "index": 124,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O aproveitamento da luz solar como fonte de energia\nrenovável tem aumentado significativamente nos últimos\nanos. Uma das aplicações é o aquecimento de água\n(ρágua = 1 kg/L) para uso residencial. Em um local, a\nintensidade da radiação solar efetivamente captada\npor um painel solar com área de 1 m2 é de 0,03 kW/m2.\nO valor do calor específico da água é igual 4,2 kJ/(kg °C).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa situação, em quanto tempo é possível aquecer 1 litro de água de 20 °C até 70 °C?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "490 s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 800 s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 300 s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7 000 s",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "9 800 s",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

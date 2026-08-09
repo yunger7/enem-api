@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2021",
+    "index": 163,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O preço médio cobrado por um pintor para executar\n\f\u0010\u0002\n\u0007#\u000e'\u0004\u0002\u001e\u0004\u0005\t\u000e\t\r\n\u0002\n\u0010\u0002\f\u0010\b\u0002\r\b@\b\u0002\u0006@\b\u0002\u000f\n\u0002\u0015·\u0002&$\u0002\u0010\b\u000e\t\u0002\numa quantia proporcional à área pintada. O quadro\napresenta os valores cobrados por ele em trabalhos\nrecentes.\n\nÁrea pintada (m2)\nTotal a pagar (R$)\n\n5\n35,00\n\n10\n45,00\n\n20\n65,00\n\n40\n105,00\n\n80\n185,00\n\n24\nMT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual o preço cobrado para realizar um serviço de pintura de uma área de 150 m2?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

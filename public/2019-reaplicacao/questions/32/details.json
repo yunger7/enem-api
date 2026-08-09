@@ -1,0 +1,43 @@
+{
+    "title": "Questão 32 - ENEM 2019",
+    "index": 32,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O debate sobre o conceito de saúde refere-se à\nimportância de minimizar a simplificação que abrange o\nentendimento do senso comum sobre esse fenômeno.\nÉ possível entendê-lo de modo reducionista, tão somente,\nà luz dos pressupostos biológicos e das associações\nestatísticas presentes nos estudos epidemiológicos.\nOs problemas que daí decorrem são: a) o foco\ncentra-se na doença; b) a culpabilização do indivíduo\nfrente à sua própria doença; c) a crença na possibilidade\nde resolução do problema encerrando-se uma suposta\ncausa, a qual recai no processo de medicalização;\nd) a naturalização da doença; e) o ceticismo em relação\nà contribuição de diferentes saberes para auxiliar na\ncompreensão dos fenômenos relacionados à saúde.\n\nBAGRICHEVSKY, M. et al. Considerações teóricas acerca das\nquestões relacionadas à promoção da saúde. In: BAGRICHEVSKY,\n\nM.; PALMA, A.; ESTEVÃO, A. (Org.). A saúde em debate na\n\neducação física. Blumenau: Edibes, 2003.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O texto apresenta uma reflexão crítica sobre o conceito de saúde, que deve ser entendida mediante",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dados estatísticos presentes em estudos epidemiológicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pressupostos relacionados à ausência de doenças nos indivíduos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "responsabilização dos indivíduos pela adoção de hábitos saudáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "intervenção da medicina nos diferentes processos que acometem a saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compreensão dos fenômenos sociais, políticos e econômicos relacionados à saúde.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2020",
+    "index": 130,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As tintas anti-incrustantes impedem que qualquer forma de vida se incruste às superfícies submersas de\nembarcações no mar. Essas tintas, a partir da década de 1960, apresentavam em sua formulação o composto\ntributilestanho (TBT), uma das substâncias mais tóxicas produzidas pelo homem, que se acumula na cadeia alimentar,\nafetando principalmente os moluscos. No quadro estão apresentadas cinco cadeias alimentares contendo moluscos.\nConsidere que a concentração de TBT no início da cadeia é a mesma.\n\nCadeia alimentar\n\n1\nalga  mexilhão  estrela-do-mar  lagosta  peixe menor  peixe maior\n\n2\nalga  microcrustáceo  anêmona-do-mar  caracol marinho  caranguejo  ave aquática\n\n3\nalga  hidromedusa  ostra  estrela-do-mar  peixe  tubarão\n\n4\ncianobactéria  larva de equinodermo  camarão  lagosta  lula  homem\n\n5\ncianobactéria  protozoário  esponja  estrela-do-mar  peixe  polvo\n\nKUGLER, H. No silêncio dos mares: substância altamente tóxica é usada de forma ilegal na costa brasileira.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Espera-se encontrar maior concentração de TBT no molusco da cadeia",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

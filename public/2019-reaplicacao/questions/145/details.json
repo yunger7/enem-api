@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2019",
+    "index": 145,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um asteroide batizado de 2013-TV135 passou\na aproximadamente 6,7 × 106 quilômetros da Terra.\nA presença do objeto espacial nas proximidades\nda Terra foi detectada por astrônomos ucranianos,\nque alertaram para uma possível volta do asteroide\nem 2032.\n\nDisponível em: www1.folha.uol.com.br. Acesso em: 30 out. 2013.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O valor posicional do algarismo 7, presente na notação científica da distância, em quilômetro, entre o asteroide e a Terra, corresponde a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7 décimos de quilômetro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7 centenas de quilômetros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7 dezenas de milhar de quilômetros.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7 centenas de milhar de quilômetros.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7 unidades de milhão de quilômetros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

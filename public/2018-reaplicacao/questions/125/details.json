@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2018",
+    "index": 125,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As\nlarvas\ndo\ninseto\ndo\nbicho-da-farinha\n(Tenebrio molitor) conseguem se alimentar de isopor\ndescartado (poliestireno expandido), transformando-o\nem dióxido de carbono e outros componentes.\nDessa forma, essas larvas contribuem para a redução\ndos impactos negativos causados pelo acúmulo de\nisopor no ambiente.\n\nDisponível em: www.bbc.com. Acesso em: 29 out. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A redução dos impactos causados pelo acúmulo de isopor é resultante de qual processo desempenhado pelas larvas do bicho-da-farinha?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Bioindicação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Biomarcação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Biodegradação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Bioacumulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Biomonitoramento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

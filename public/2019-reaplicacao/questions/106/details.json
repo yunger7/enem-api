@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2019",
+    "index": 106,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Astrônomos medem a velocidade de afastamento de\n\ngaláxias distantes pela detecção da luz emitida por\n\nesses sistemas. A Lei de Hubble afirma que a velocidade\n\nde afastamento de uma galáxia (em km\ns ) é proporcional\n\nà sua distância até a Terra, medida em megaparsec\n\n(Mpc). Nessa lei, a constante de proporcionalidade é a\n\nconstante de Hubble (H0) e seu valor mais aceito é de\n\n72 km s\nMpc\n\n/\n(\n). O parsec (pc) é uma unidade de distância\n\nutilizada em astronomia que vale aproximadamente\n\n3 × 1016 m. Observações astronômicas determinaram\n\nque a velocidade de afastamento de uma determinada\n\ngaláxia é de 1 440 km\ns .",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Utilizando a Lei de Hubble, pode-se concluir que a distância até essa galáxia, medida em km, é igual a:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "20 × 100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20 × 106",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 × 1020",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "6 × 1023",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 × 1026",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

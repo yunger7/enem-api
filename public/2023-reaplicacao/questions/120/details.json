@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2023",
+    "index": 120,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na produção do politereftalato de etileno, o PET,\nutiliza-se como reagente o para-dimetilbenzeno,\ntambém chamado de para-xileno, que deve ter alta\npureza. No entanto, o para-xileno obtido do petróleo\npossui contaminação dos seus isômeros orto-xileno\ne meta-xileno, cujas estruturas são apresentadas na\nfigura. No quadro, são listadas as temperaturas de fusão\ne ebulição desses três isômeros.\n\norto-xileno\nmeta-xileno\npara-xileno\n\nIsômero\nTemperatura de\n\nTemperatura de\n\nfusão (°C)\n\nebulição (°C)\n\norto-xileno\n−25\n144\n\nmeta-xileno\n− 47,4\n139,3\n\npara-xileno\n13,5\n137,5",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual processo de separação permite a purificação desse reagente? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Destilação simples. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cristalização simples. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Destilação fracionada. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Extração líquido-líquido. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Solidificação fracionada.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

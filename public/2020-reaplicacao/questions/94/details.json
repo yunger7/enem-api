@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2020",
+    "index": 94,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os tanques de armazenamento de gasolina podem,\ncom o tempo, sofrer processos oxidativos, resultando na\ncontaminação do combustível e do solo à sua volta. Uma\nforma de evitar tais problemas econômicos e ambientais é\nutilizar preferencialmente metais de sacrifício, protegendo\nos tanques de armazenamento.\n\nSuponha que seja necessário usar um metal de\nsacrifício em um tanque de aço (liga de ferro-carbono).\nConsidere as semirreações de redução e seus respectivos\npotenciais padrão.\n\nSemirreação\nE° (V)\n\nFe2+ + 2 e− → Fe\n−0,44\n\nZn2+ + 2 e− → Zn\n−0,76\n\nCu2+ + 2 e− → Cu\n+0,34\n\nNi2+ + 2 e− → Ni\n−0,25\n\nCd2+ + 2 e− → Cd\n−0,40\n\nHg2+ + 2 e− → Hg\n+0,86",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dos metais citados, o que garantirá proteção ao tanque de aço é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2022",
+    "index": 128,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O audiograma corresponde a uma maneira objetiva de se representar a sensibilidade auditiva para diferentes\nfrequências sonoras. Quanto maior a sensibilidade, menor é a intensidade necessária para que o som seja detectado.\nNo gráfico, cada curva tracejada corresponde a uma determinada porcentagem de uma mesma população testada.\nA curva cheia superior corresponde aos níveis de intensidade sonora relatados como dolorosos.\n\n120\nDor\n\n100\n99%\n\nNível de intensidade sonora (dB)\n\n0\n20\n40\n100\n200\n400\n1 000 2 000\n4 000\n10 000\nFrequência (Hz)\n\nLENT, R. Cem bilhões de neurônios? Conceitos fundamentais de neurociência. São Paulo: Atheneu, 2010 (adaptado).\n\nA faixa de frequência, em Hz, na qual a maioria da população testada tem maior sensibilidade auditiva, encontra-se",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "abaixo de 80. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "entre 80 e 100. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "entre 2 000 e 4 000. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "entre 4 000 e 10 000. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "acima de 10 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

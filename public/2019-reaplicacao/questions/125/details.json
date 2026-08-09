@@ -1,0 +1,43 @@
+{
+    "title": "Questão 125 - ENEM 2019",
+    "index": 125,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Antigamente, em lugares com invernos rigorosos,\nas pessoas acendiam fogueiras dentro de uma sala\nfechada para se aquecerem do frio. O risco no uso\ndesse recurso ocorria quando as pessoas adormeciam\nantes de apagarem totalmente a fogueira, o que poderia\nlevá-las a óbito, mesmo sem a ocorrência de incêndio.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A causa principal desse risco era o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "produção de fuligem pela fogueira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "liberação de calor intenso pela fogueira.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consumo de todo o oxigênio pelas pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "geração de queimaduras pela emissão de faíscas da lenha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "geração de monóxido de carbono pela combustão incompleta da lenha.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

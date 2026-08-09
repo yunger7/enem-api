@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2020",
+    "index": 163,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um reservatório de água é abastecido por uma\ntorneira ao mesmo tempo que, por um ralo, escoa\nágua de seu interior. Os gráficos representam as\nvazões Q, em litro por minuto, da torneira e do ralo,\nem função do tempo t, em minuto.\n\nQ (L/min)\n               Torneira\n\nt (min)\n25\n0\n\n5\n10\n15\n20\n\nRalo\n\nQ (L/min)\n\nt (min)\n\n25\n0\n\n5\n10\n15\n20",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nos primeiros 25 minutos, o(s) intervalo(s) de tempo em que o volume de água nesse reservatório decresce é(são)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

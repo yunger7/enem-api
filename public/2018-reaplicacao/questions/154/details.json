@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2018",
+    "index": 154,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa especializada em embalagem de\npapelão recebeu uma encomenda para fabricar caixas\npara um determinado modelo de televisor, como o da\nfigura.\n\n![](https://enem.dev/2018-reaplicacao/questions/154/49eb7575-df4c-4cf9-8076-8466145f0cef.png)\n\nA embalagem deve deixar uma folga de 5 cm em\ncada uma das dimensões. Esta folga será utilizada para\nproteger a televisão com isopor. O papelão utilizado na\nconfecção das caixas possui uma espessura de 0,5 cm.\n\nA empresa possui 5 protótipos de caixa de papelão,\nna forma de um paralelepípedo reto-retângulo, cujas\nmedidas externas: comprimento, altura e largura, em\ncentímetro, são respectivamente iguais a:\n\nCaixa 1: 68,0 × 50,0 × 18,5\n\nCaixa 2: 68,5 × 50,5 × 19,0\n\nCaixa 3: 72,5 × 54,5 × 23,0\n\nCaixa 4: 73,0 × 55,0 × 23,5\n\nCaixa 5: 73,5 × 55,5 × 24,0",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/154/49eb7575-df4c-4cf9-8076-8466145f0cef.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O modelo de caixa de papelão que atende exatamente as medidas das dimensões especificadas é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "caixa 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "caixa 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "caixa 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "caixa 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "caixa 5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

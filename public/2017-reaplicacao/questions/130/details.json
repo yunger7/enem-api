@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2017",
+    "index": 130,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O resultado de um teste de DNA para identificar o\nfilho de um casal, entre cinco jovens, está representado\nna figura. As barras escuras correspondem aos genes\ncompartilhados.\n\nMãe\nPai\nI\nII\nIII\nIV\nV",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual dos jovens é filho do casal?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2019",
+    "index": 97,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ácido ricinoleico, um ácido graxo funcionalizado,\ncuja nomenclatura oficial é ácido D-(−)-12-hidroxioctadec-cis-9-enoico, é obtido da hidrólise ácida do\nóleo de mamona. As aplicações do ácido ricinoleico na\nindústria são inúmeras, podendo ser empregado desde\na fabricação de cosméticos até a síntese de alguns\npolímeros.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para uma amostra de solução desse ácido, o uso de um polarímetro permite determinar o ângulo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "difração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "giro levógiro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "giro destrógiro.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2020",
+    "index": 108,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os esgotos domésticos são, em geral, fontes do íon\ntripolifosfato (P3O10\n\n5−, de massa molar igual a 253 g mol−1),\num possível constituinte dos detergentes. Esse íon reage\ncom a água, como mostra a equação a seguir, e produz\no íon fosfato (PO4\n\n3−, de massa molar igual a 95 g mol−1),\num contaminante que pode causar a morte de um\ncorpo hídrico. Em um lago de 8 000 m3, todo o fósforo\npresente é proveniente da liberação de esgoto que\ncontém 0,085 mg L−1 de íon tripolifosfato, numa taxa de\n16 m3 por dia. De acordo com a legislação brasileira, a\nconcentração máxima de fosfato permitido para água\nde consumo humano é de 0,030 mg L−1.\n\n5− (aq) + 2 H2O (l) → 3 PO4\n3− (aq) + 4 H+ (aq)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O número de dias necessário para que o lago alcance a concentração máxima de fósforo (na forma de íon fosfato) permitida para o consumo humano está mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

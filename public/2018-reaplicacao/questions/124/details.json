@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2018",
+    "index": 124,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O aproveitamento integral e racional das matérias-primas lignocelulósicas poderá revolucionar uma série\n\nde segmentos industriais, tais como o de combustíveis, mediante a produção de bioetanol de segunda geração.\n\nEste processo requer um tratamento prévio da biomassa, destacando-se o uso de ácidos minerais diluídos.\n\nNo pré-tratamento de material lignocelulósico por via ácida, empregou-se uma solução de ácido sulfúrico, que foi\n\npreparada diluindo-se 2 000 vezes uma solução de ácido sulfúrico, de concentração igual a 98 g\n\ntotal do ácido na solução diluída. O quadro apresenta os valores aproximados de logaritmos decimais.\n\nNúmero\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nlog\n0,3\n0,5\n0,6\n0,7\n0,8\n0,85\n0,9\n0,95\n1\n\nSabendo-se que as massas molares, em g\n\nmol, dos elementos H, O e S são, respectivamente, iguais a 1, 16 e 32,",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "qual é o pH da solução diluída de ácido sulfúrico preparada conforme descrito?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3,2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,6 L, ocorrendo dissociação Disponível em: www.cgee.org.br. Acesso em: 3 ago. 2012 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2019",
+    "index": 169,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa fez um depósito inicial de R$ 200,00\nem um Fundo de Investimentos que possui rendimento\nconstante sob juros compostos de 5% ao mês.\nEsse Fundo possui cinco planos de carência (tempo\nmínimo necessário de rendimento do Fundo sem\nmovimentação do cliente). Os planos são:\n\n•\t Plano A: carência de 10 meses;\n\n•\t Plano B: carência de 15 meses;\n\n•\t Plano C: carência de 20 meses;\n\n•\t Plano D: carência de 28 meses;\n\n•\t Plano E: carência de 40 meses.\n\nO objetivo dessa pessoa é deixar essa aplicação\nrendendo até que o valor inicialmente aplicado duplique,\nquando somado aos juros do Fundo. Considere as\naproximações: log 2 = 0,30 e log 1,05 = 0,02.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para que essa pessoa atinja seu objetivo apenas no período de carência, mas com a menor carência possível, deverá optar pelo plano",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

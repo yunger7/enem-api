@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2018",
+    "index": 148,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Visando atingir metas econômicas previamente\nestabelecidas, é comum no final do mês algumas\nlojas colocarem certos produtos em promoção.\nUma determinada loja de departamentos colocou\nem oferta os seguintes produtos: televisão, sofá e\nestante. Na compra da televisão mais o sofá, o cliente\npagaria R$ 3 800,00. Se ele levasse o sofá mais\na estante, pagaria R$ 3 400,00. A televisão mais a\nestante sairiam por R$ 4 200,00. Um cliente resolveu\nlevar duas televisões e um sofá que estavam na\npromoção, conseguindo ainda mais 5% de desconto\npelo pagamento à vista.\nO valor total, em real, pago pelo cliente foi de",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 610,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 035,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5 415,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 795,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "6 100,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

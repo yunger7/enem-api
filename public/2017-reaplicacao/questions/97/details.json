@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2017",
+    "index": 97,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A horticultura tem sido recomendada para a\nagricultura familiar, porém as perdas são grandes\ndevido à escassez de processos compatíveis para\nconservar frutas e hortaliças. O processo, denominado\ndesidratação osmótica, tem se mostrado uma alternativa\nimportante nesse sentido, pois origina produtos com boas\ncondições de armazenamento e qualidade semelhante à\nmatéria-prima.\n\nGOMES, A. T.; CEREDA, M. P.; VILPOUX, O. Desidratação osmótica: uma tecnologia de\n\nbaixo custo para o desenvolvimento da agricultura familiar. Revista Brasileira de Gestão e\n\nDesenvolvimento Regional, n. 3, set.-dez. 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esse processo para conservar os alimentos remove a água por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do ponto de ebulição do solvente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "passagem do soluto através de uma membrana semipermeável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "utilização de solutos voláteis, que facilitam a evaporação do solvente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aumento da volatilidade do solvente pela adição de solutos ao produto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pressão gerada pela diferença de concentração entre o produto e a solução.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2019",
+    "index": 84,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Particularmente nos dias de inverno, pode\nocorrer um rápido resfriamento do solo ou um\nrápido aquecimento das camadas atmosféricas\nsuperiores. O ar quente fica por cima da camada de\nar frio, passando a funcionar como um bloqueio, o\nque impede a formação de correntes de ar (vento).\nDessa forma, o ar frio próximo ao solo não sobe\nporque é o mais denso, e o ar quente que lhe está\npor cima não desce porque é o menos denso.\nNas grandes cidades, esse fenômeno tende a se\nagravar, uma vez que a expressiva concentração de\nindústrias e automóveis intensifica o lançamento de\npoluentes e material particulado na atmosfera, o que\ntorna o ar mais impuro e, por conseguinte, contribui\npara o aumento de casos de irritação nos olhos e\ndoenças respiratórias.\n\nAYOADE, J. O. Introdução à climatologia para os trópicos.\n\nRio de Janeiro: Bertrand Brasil, 1996 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Agravado pela ação antrópica, o fenômeno atmosférico descrito no texto é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ilha de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inversão térmica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ciclone tropical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "chuva orográfica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

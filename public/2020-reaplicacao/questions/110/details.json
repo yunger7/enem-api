@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2020",
+    "index": 110,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Tanto a conservação de materiais biológicos como\no resfriamento de certos fotodetectores exigem baixas\ntemperaturas que não são facilmente atingidas por\nrefrigeradores. Uma prática comum para atingi-las é\no uso de nitrogênio líquido, obtido pela expansão\nadiabática do gás N2, contido em um recipiente\nacoplado a um êmbolo, que resulta no resfriamento\nem temperaturas que chegam até seu ponto de\nliquefação em −196 °C. A figura exibe o esboço de\ncurvas de pressão em função do volume ocupado por\numa quantidade de gás para os processos isotérmico\ne adiabático. As diferenças entre esses processos\npodem ser identificadas com base na primeira lei da\ntermodinâmica, que associa a variação de energia\ninterna à diferença entre o calor trocado com o meio\nexterior e o trabalho realizado no processo.\n\nIsoterma\n\nPressão\n\nAdiabática\n\nVolume",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A expansão adiabática viabiliza o resfriamento do N2 porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 21 - ENEM 2019",
+    "index": 21,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A partir de 2018, a Resolução n. 518 do Contran\nobriga todo novo projeto de automóvel, SUV e picape\ndupla a ter pontos de ancoragem para cadeirinhas\ninfantis. Em 2020, a regra passa a valer para todos os\nmodelos à venda no Brasil.\n\nEsse tipo de fixação possui travas na cadeirinha no\nformato de garras que são encaixadas em um ponto fixo\nna estrutura do veículo. O Isofix reduz o deslocamento\ndo pescoço, ombros e coluna cervical.\n\nDesde 2008, a Lei da Cadeirinha estabelece que\nbebês e crianças só podem ser transportados em\nassentos infantis indicados segundo a faixa etária e o\npeso. Como reflexo, as mortes de menores de 10 anos\ncaíram 23% no Brasil.\n\n![](https://enem.dev/2019-reaplicacao/questions/21/409e9866-501c-45e8-92f8-45ddcb5e1fdb.png)\n\nA cadeirinha do tipo Isofix não é presa no cinto, mas\nem dois pontos de apoio soldados à estrutura do carro.\nHá ainda um terceiro ponto, que pode ser de fixação\nsuperior (top tether), atrás do encosto. Cada garra de\nengate se encaixa num ponto de fixação. Depois, é só\napertar o botão para soltá-lo.\n\nCARVALHO, C. Disponível em: http://quatrorodas.abril.com.br.\n\nAcesso em: 22 ago. 2017 (adaptado).",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/21/409e9866-501c-45e8-92f8-45ddcb5e1fdb.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Segundo o texto, a cadeira infantil do tipo Isofix tem por característica",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "apresentar um esquema de fixação superior ao top tether presente em projetos de carros no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ficar presa no cinto e em mais dois pontos da estrutura de automóveis fabricados no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ser mais segura e mais simples de usar que outros modelos disponíveis no Brasil.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estar presente em todos os modelos de carros à venda no Brasil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ser capaz de reduzir os acidentes em 23% no Brasil.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2018",
+    "index": 165,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um comerciante abrirá um supermercado, no mês\nde outubro, e precisa distribuir 5 produtos de limpeza em\numa gôndola de cinco prateleiras que estão dispostas\numa acima da outra (um tipo de produto por prateleira).\nEle sabe que a terceira prateleira oferece uma melhor\nvisibilidade dos produtos aos clientes.\n\nEle fez uma pesquisa sobre o número de vendas\ndesses produtos, nos meses de agosto e setembro, em\numa loja da concorrência (mostrada a seguir), e pretende\nincrementar suas vendas, em relação a seu concorrente,\ncolocando na terceira prateleira de seu supermercado o\nproduto que teve o maior índice de aumento nas vendas\nno mês de setembro em relação ao mês de agosto, na\nloja concorrente.\n\nNúmero de\nunidades vendidas\n\nNúmero de\nunidades vendidas\n\nProduto\n\nem agosto\n\nem setembro\n\nI\n400\n450\n\nII\n210\n295\n\nIII\n200\n220\n\nIV\n300\n390\n\nV\n180\n240",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O comerciante deve colocar na terceira prateleira o produto número",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

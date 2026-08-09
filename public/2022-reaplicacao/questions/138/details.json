@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2022",
+    "index": 138,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O diabetes mellitus é uma doença crônica,\ncaracterizada pelo aumento de glicose no sangue.\nO Sistema de Cadastramento e Acompanhamento de\nHipertensos e Diabéticos destina-se ao cadastramento e\nacompanhamento de portadores de hipertensão arterial\ne/ou diabetes mellitus atendidos na rede ambulatorial do\nSistema Único de Saúde. A tabela mostra o número de\npessoas portadoras de  diabetes mellitus tipo 2, a forma\nmais grave da doença, distribuídas pelas macrorregiões\nde saúde de Minas Gerais, em 2012.\n\nNúmero de portadores\n\nMacrorregião\n\nde diabetes mellitus\n\nde saúde\n\ntipo 2\n\nSul\n714\n\nCentro-Sul\n186\n\nCentro\n448\n\nJequitinhonha\n36\n\nOeste\n460\n\nLeste\n255\n\nSudeste\n110\n\nNorte\n45\n\nNoroeste\n86\n\nLeste do Sul\n47\n\nNordeste\n39\n\nTriângulo do Sul\n153\n\nTriângulo do Norte\n128\n\nDisponível em: http://tabnet.datasus.gov.br. Acesso em: 5 nov. 2017.\n\nA mediana do número de portadores de diabetes mellitus\ntipo 2 das macrorregiões de saúde de Minas Gerais é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "110,00. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "119,00. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "128,00. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "182,50. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "208,23.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

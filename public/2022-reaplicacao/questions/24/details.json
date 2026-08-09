@@ -1,0 +1,43 @@
+{
+    "title": "Questão 24 - ENEM 2022",
+    "index": 24,
+    "year": 2022,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Claude Monet, influenciado por Turner, passou a\npintar temas que apresentassem fluidez. Para isso,\nele fragmentou a imagem com pinceladas de cor\npura, passando a retratar a impressão captada diante\ndo modelo. Monet inspirava-se, por exemplo, no pôr do\nsol, na luminosidade do feno ou num jardim florido.\nSuas obras contêm a característica de dissociação das\ncores e gradação dos tons complementares. As tintas não\neram misturadas na palheta, dessa forma, a luz emanada\ndas manchas e das pinceladas coloridas impressionava a\nretina, formando novas cores.\n\nDisponível em: http://professormarioartes.blogspot.com.\n\nAcesso em: 12 ago. 2012 (adaptado).\nDiante dessa nova concepção artística, a cor é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "composta por uma substância química que, sob a incidência de raios luminosos, absorve-os, refletindo para os nossos olhos os raios de tons vermelhos. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "formada pelo equilíbrio óptico causado pela impressão simultânea de cores como magenta, ciano e amarelo, consideradas cores primárias. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "imaterial e só se pode senti-la, passando a ser uma sensação provocada pela ação dos raios de luz sobre os nossos olhos. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "resultante da mistura óptica de duas outras que estão presentes em sua composição de origem, causando um equilíbrio entre elas. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "física, presente nos raios solares e na luz branca, sendo impossível perceber sua existência pela decomposição da luz solar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

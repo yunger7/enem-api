@@ -1,0 +1,43 @@
+{
+    "title": "Questão 172 - ENEM 2019",
+    "index": 172,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para a compra de um repelente eletrônico, uma\npessoa fez uma pesquisa nos mercados de seu bairro.\nCada tipo de repelente pesquisado traz escrito no rótulo\nda embalagem as informações quanto à duração, em\ndia, associada à quantidade de horas de utilização por\ndia. Essas informações e o preço por unidade foram\nrepresentados no quadro.\n\nTipo\nDuração\n\nHoras por dia\n\nPreço\nem real\n\nem dia\n\nde utilização\n\nI\n30\n12\n12,00\n\nII\n32\n9\n9,00\n\nIII\n40\n10\n10,00\n\nIV\n44\n8\n11,00\n\nV\n48\n8\n12,00\n\nA pessoa comprará aquele que apresentar o menor\ncusto diário, quando ligado durante 8 horas por dia.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, o repelente eletrônico que essa pessoa comprará é do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

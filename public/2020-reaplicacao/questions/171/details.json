@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2020",
+    "index": 171,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A taxa de mortalidade infantil vem decaindo a\ncada ano no Brasil. O gráfico, gerado a partir de\ndados do IBGE, apresenta a evolução da taxa de\nmortalidade infantil (número de óbitos para cada\n1 000 nascidos vivos) de crianças com até 5 anos, no\nBrasil, no período de 2000 a 2011.\n\nÓbitos por 1 000 nascidos vivos\n\n30,1\n\n22,5\n18,7\n\n0\n2000\n2009\n2011\n\nConsidere que, para os próximos anos, o\ndecréscimo anual médio do número de óbitos para\ncada 1 000 nascidos vivos registrado, no período de\n2009 a 2011, será mantido.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir das informações fornecidas, a taxa de mortalidade infantil de crianças com até 5 anos tornar-se-á inferior a 10 no período de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

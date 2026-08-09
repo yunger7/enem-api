@@ -1,0 +1,45 @@
+{
+    "title": "Questão 117 - ENEM 2023",
+    "index": 117,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Observam-se, na figura, peixes nadando na superfície\nde um lago em estágio muito avançado de eutrofização.\nEsse fenômeno pode ser causado pelo aporte externo\nde nutrientes na água, principalmente em razão da ação\nantrópica. Os corpos-d’água adquirem uma coloração\nturva, o que bloqueia a penetração de luz e impede a\nfotossíntese. O problema se agrava quando as algas\ncomeçam a morrer e uma grande quantidade de nutrientes\nprovenientes delas ficam disponíveis aos decompositores,\nque proliferam.\n\n![](https://enem.dev/2023-reaplicacao/questions/117/3a267786-f540-471f-af78-58f6912686e7.png)\n\nDisponível em: www.pea.org.br. Acesso em: 15 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/117/3a267786-f540-471f-af78-58f6912686e7.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O comportamento do animal no ambiente mencionado se deve ao(à) A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "proliferação de microrganismos patogênicos, o que promove sua fuga para a superfície. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aumento da quantidade de nutrientes, o que facilita a sua alimentação. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elevação da densidade da água, o que dificulta o deslocamento vertical. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "restrição de oxigênio, o que os obriga a buscar o gás na interface. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "redução da luminosidade, o que os impede de enxergar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

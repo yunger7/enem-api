@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2017",
+    "index": 133,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Dados compilados por Jeremy Jackson, do Instituto Scripps de Oceanografia (EUA), mostram que o declínio\nde 90% dos indivíduos de 11 espécies de tubarões do Atlântico Norte, causado pelo excesso de pesca, fez com\nque a população de uma arraia, normalmente devorada por eles, explodisse para 40 milhões de indivíduos.\nDoce vingança: essa horda de arraias é capaz de devorar 840 mil toneladas de moluscos por ano, o que provavelmente\nexplica o colapso da antes lucrativa pesca de mariscos na Baía de Chesapeake (EUA).\n\nLOPES, R. J. Nós, o asteroide. Revista Unesp Ciência, abr. 2010. Disponível em: https://issuu.com. Acesso em: 9 maio 2017 (adaptado).\n\nQual das figuras representa a variação do tamanho populacional de tubarões, arraias e moluscos no Atlântico Norte,\na partir do momento em que a pesca de tubarões foi iniciada (tempo zero)?\n\nMoluscos",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Tamanho populacional",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Arraias Tubarões Tempo 0 Moluscos Tamanho populacional Arraias",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Tubarões 0 Tempo Moluscos Tamanho populacional Arraias",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Tubarões 0 Tempo Moluscos Tamanho populacional Arraias",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Tubarões Tempo Moluscos Tamanho populacional",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Arraias Tubarões 0 Tempo",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

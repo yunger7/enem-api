@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2023",
+    "index": 131,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A primeira tecnologia comercial de comunicação da\ninternet foi realizada usando a rede de voz telefônica,\nimplantada por pares de fios condutores (par trançado),\nque permitiam uma transferência máxima de 56 kbps\n(quilobites por segundo). Nesse padrão de comunicação, a\ntransferência se faz usando uma onda quadrada modulada,\ncom os níveis 1 e 0 representados pela diferença de\npotencial (d.d.p.) nos fios ou pela ausência dessa d.d.p.\nNas comunicações atuais, a capacidade de transferência\nde dados por fibra óptica ou micro-ondas (usando uma\nonda de 2,5 GHz na tecnologia 4G ou uma de 3,5 GHz\nna tecnologia 5G) é muito superior. Na 5G está prevista\numa capacidade de transferência superior a 10 Gbps para\ncada dispositivo conectado. Considere que a informação\n\né transportada a uma velocidade igual a 2\n\n3\n da velocidade\n\nda luz (c = 3 × 108 m/s), por uma perturbação do campo\nelétrico ou por uma onda eletromagnética.\n\nOs comprimentos, em metro, de um bit de informação\ntransportado no par trançado e na rede 5G,\nrespectivamente, são mais próximos de",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,6 × 103 e 2,0 × 10–2. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "3,6 × 103 e 8,6 × 10–2. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,6 × 10–1 e 2,0 × 10–1. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5,4 × 10–1 e 8,6 × 10–2. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,4 × 10–1 e 3,0 × 10–2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

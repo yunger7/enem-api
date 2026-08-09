@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2022",
+    "index": 123,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os airbags de segurança dos automóveis são\nacionados com o impacto, que envia um sinal elétrico\npara o dispositivo e inicia a reação explosiva do trinitreto\nde sódio (NaN3), produzindo sódio metálico e nitrogênio\nmolecular, conforme a equação:\n\n2 NaN3 (s) → 2 Na (s) + 3 N2 (g)\n\nO gás produzido tem função de inflar o airbag. Esse tipo\nde dispositivo contém, aproximadamente, 100 g de NaN3.\n\nConsidere: PV = nRT; P = 1 atm; T = 25 °C;\n\nR = 0,0821 L atm\n\n⋅\n\n; 0 °C = 273 K\n\nK mol\n\n⋅\n\nMassas molares: NaN3 = 65 g\n\n; N2 = 28 g\n\n; Na = 23 g\n\nmol\n\nmol\n\nmol\n\nNesse dispositivo, o volume de gás produzido, em litro, é",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,7. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9,4. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18,8. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "56,5. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "113,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

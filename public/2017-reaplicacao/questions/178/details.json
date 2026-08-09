@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2017",
+    "index": 178,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os consumidores X, Y e Z desejam trocar seus planos\nde internet móvel na tentativa de obterem um serviço de\nmelhor qualidade. Após pesquisarem, escolheram uma\noperadora que oferece cinco planos para diferentes\nperfis, conforme apresentado no quadro.\n\nPlano\nFranquia\nPreço mensal\nda assinatura\n\nPreço por MB",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "excedente",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A, C e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A, B e D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "B, B e D.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "B, C e C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "B, C e D.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

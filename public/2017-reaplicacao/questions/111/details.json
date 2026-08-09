@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2017",
+    "index": 111,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os combustíveis de origem fóssil, como o petróleo e o gás natural, geram um sério problema ambiental, devido\nà liberação de dióxido de carbono durante o processo de combustão. O quadro apresenta as massas molares e as\nreações de combustão não balanceadas de diferentes combustíveis.\n\nCombustível\nMassa molar (g/mol)\nReação de combustão (não balanceada)\n\nMetano\n16\nCH4 (g) + O2 (g) → CO2 (g) + H2O (g)\n\nAcetileno\n26\nC2H2 (g) + O2 (g) → CO2 (g) + H2O (g)\n\nEtano\n30\nC2H6 (g) + O2 (g) → CO2 (g) + H2O (g)\n\nPropano\n44\nC3H8 (g) + O2 (g) → CO2 (g) + H2O (g)\n\nButano\n58\nC4H10 (g) + O2 (g) → CO2 (g) + H2O (g)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a combustão completa de 58 g de cada um dos combustíveis listados no quadro, a substância que emite mais CO2 é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "etano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "butano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "metano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "propano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "acetileno.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 103 - ENEM 2017",
+    "index": 103,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Muitas indústrias e fábricas lançam para o ar, através\nde suas chaminés, poluentes prejudiciais às plantas e aos\nanimais. Um desses poluentes reage quando em contato\ncom o gás oxigênio e a água da atmosfera, conforme as\nequações químicas:\n\nEquação 1: 2 SO2 + O2 → 2 SO3\n\nEquação 2: SO3 + H2O → H2SO4",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com as equações, a alteração ambiental decorrente da presença desse poluente intensifica o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "formação de chuva ácida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "surgimento de ilha de calor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "redução da camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ocorrência de inversão térmica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emissão de gases de efeito estufa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 130 - ENEM 2023",
+    "index": 130,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de pesquisadores interessados no estudo\ndo efeito da paisagem na diversidade genética em\npopulações de marsupiais Caluromys philander considerou\nduas paisagens distintas: uma contínua (Pontos 1 e 2)\ne outra fragmentada (Fragmentos 1 e 2), que foi desmatada\npara o plantio de soja. Coletaram amostras de tecidos de\ndez indivíduos em cada paisagem e extraíram o DNA,\nverificando a variabilidade genética, como apresentado\nno quadro.\n\nGenótipo de um lócus gênico de\nindivíduos de Caluromys philander\n\nContínua\nFragmentada\n\nIndivíduo\n\nPonto 1\nPonto 2 Fragmento 1\nFragmento 2\n\n1\nA2A3\nA2A2\nA1A1\nA3A3\n\n2\nA2A3\nA2A2\nA2A1\nA3A3\n\n3\nA3A3\nA3A3\nA1A1\nA3A3\n\n4\nA1A2\nA2A3\nA1A1\nA3A3\n\n5\nA3A3\nA2A3\nA2A2\nA3A3\n\n6\nA2A3\nA3A3\nA1A1\nA2A2\n\n7\nA2A3\nA2A4\nA1A1\nA3A3\n\n8\nA2A2\nA2A3\nA1A1\nA3A3\n\n9\nA2A2\nA2A4\nA1A1\nA3A3\n\n10\nA1A2\nA2A2\nA1A1\nA3A3\n\nLIMA, J. S.; OPREA, M.; COLLEVATI, R. G. Efeito da paisagem na diversidade e diferenciação\n\ngenética das populações. Genética na Escola, n. 1, 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nos resultados, qual é a estratégia eficiente no manejo e na conservação dessa espécie? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Realização da fragmentação do hábitat. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Criação de barreiras de redução do fluxo gênico. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Manutenção da conectividade entre os fragmentos. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Diminuição da dispersão de indivíduos entre diferentes populações. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manutenção do acasalamento entre indivíduos aparentados dentro das populações.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

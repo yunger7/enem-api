@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2022",
+    "index": 159,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um túnel viário de uma única via possui a entrada na forma de um triângulo equilátero de lado 6 m. O motorista\nde um caminhão com 3 m de largura deve decidir se passa por esse túnel ou se toma um caminho mais longo. Para\ndecidir, o motorista calcula a altura que esse caminhão deveria ter para tangenciar a entrada do túnel. Considere o\ncaminhão como um paralelepípedo reto.\nEssa altura, em metro, é",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 2 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 3 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 2 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 3 24 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação 400 m 300 m 50 m Pista original Novo trecho na pista",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

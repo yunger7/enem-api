@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2023",
+    "index": 158,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma quadra oficial de futebol de salão ocupa uma área\nque corresponde à área de um retângulo com comprimento\nde 40 m e largura de 20 m. Para segurança dos atletas, as\nlinhas demarcatórias da quadra, nas laterais e nos fundos,\ndeverão estar a uma distância de, no mínimo, 2 m de\nobstáculos que não fazem parte da quadra, tais como\nrede de proteção, tela, grade ou parede.\n\nDisponível em: www.cbfs.com.br. Acesso em: 20 out. 2019 (adaptado).\nA gerência do Departamento de Obras de uma\nPrefeitura avalia adquirir um terreno e nele construir\numa quadra oficial de futebol de salão. Há cinco terrenos\ndisponíveis, e a gerência comprará o terreno que tiver\nmenor área, desde que comporte a construção da quadra\ngarantindo todas as demandas que ofereçam segurança\naos atletas. Planeja-se ainda que a quadra seja construída\nde modo que o seu lado maior seja paralelo à rua. A figura\nilustra os terrenos disponíveis e que estão sendo avaliados.\n\nRua\n\nRua\n\nRua\n\nCalçada\n\nCalçada\n\nCalçada\n\n44 m\n24 m\n22 m\n\n40 m\n20 m\n\n42 m\n22 m\n\nTerreno 1\n\nTerreno 2\n\nTerreno 3\n\nRua\n\nRua\n\nCalçada\n\nCalçada\n\n60 m\n\n50 m\n\n40 m\n\n48 m\n\nTerreno 5\n\n20 m\n\nTerreno 4",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual dos cinco terrenos a gerência deve adquirir a fim de atender a todas as exigências apresentadas? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

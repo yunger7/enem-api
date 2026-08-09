@@ -1,0 +1,43 @@
+{
+    "title": "Questão 42 - ENEM 2018",
+    "index": 42,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Física com a boca\nPor que nossa voz fica tremida ao falar na frente do\n\nventilador?\nAlém de ventinho, o ventilador gera ondas sonoras.\nQuando você não tem mais o que fazer e fica falando\nna frente dele, as ondas da voz se propagam na direção\ncontrária às do ventilador. Davi Akkerman – presidente\nda Associação Brasileira para a Qualidade Acústica –\ndiz que isso causa o mismatch, nome bacana para o\ndesencontro entre as ondas. “O vento também contribui\npara a distorção da voz, pelo fato de ser uma vibração que\ninfluencia no som”, diz. Assim, o ruído do ventilador e a\ninfluência do vento na propagação das ondas contribuem\npara distorcer sua bela voz.\n\nDisponível em: http://super.abril.com.br. Acesso em: 30 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Sinais de pontuação são símbolos gráficos usados para organizar a escrita e ajudar na compreensão da mensagem. No texto, o sentido não é alterado em caso de substituição dos travessões por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aspas, para colocar em destaque a informação seguinte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "vírgulas, para acrescentar uma caracterização de Davi Akkerman.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "reticências, para deixar subentendida a formação do especialista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dois-pontos, para acrescentar uma informação introduzida anteriormente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ponto e vírgula, para enumerar informações fundamentais para o desenvolvimento temático.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

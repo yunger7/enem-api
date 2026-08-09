@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2023",
+    "index": 161,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um reservatório que abastece uma região urbana está\ncom uma quantidade V de água. Previsões meteorológicas\nindicam que a região passará por uma escassez de\nchuva e, por isso, as autoridades locais determinaram a\nrealização de várias medições do volume de água nesse\nreservatório para efeito de monitoramento.\n\nA primeira medição indicou que o volume de água\nreduziu-se à metade; a segunda indicou a retirada da terça\nparte do que restou; a terceira, a retirada da quarta parte\ndo que restou; a quarta, a retirada da quinta parte do que\nrestou e assim sucessivamente nas demais medições,\nmantendo o seguinte padrão de retirada: na n-ésima\nmedição, a retirada da (n + 1)-ésima parte do que restou.\n\nConsidere que não houve reabastecimento de água no\nreservatório no período em que foram feitas as medições.\n\nMantendo esse padrão de retirada, as quantidades de\nágua restantes no reservatório referentes às 7ª, 8ª e 9ª\nmedições são iguais a, respectivamente,",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "7 8V, 8 9V e 9 10V B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6 7V, 7 8V e 8 9V C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6 8V, 7 9V e 8 10V D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 7V, 1 8V e 1 9V E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 8V, 1 9V e 1 10V",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

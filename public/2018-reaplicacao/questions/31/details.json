@@ -1,0 +1,46 @@
+{
+    "title": "Questão 31 - ENEM 2018",
+    "index": 31,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018-reaplicacao/questions/31/6e1f2e36-9e1d-47a4-9d49-6f64c22949ef.png)\n\nMUYBRIDGE, E. Cavalo em movimento. Fotografia.\n\nUniversidade do Texas, Austin, cerca de 1886.\n\nDisponível em: www.utexasaustin.edu. Acesso em: 31 ago. 2016 (adaptado).\nTEXTO II\n\n![](https://enem.dev/2018-reaplicacao/questions/31/32e93139-b384-46ce-a548-53747bd1db77.png)\n\nGÉRICAULT, T. Corrida de cavalos ou O Derby de 1821 em Epson.\n\nÓleo sobre tela, 92 x 123 cm. Museu do Louvre, Paris.\n\nDisponível em: www.louvre.fr. Acesso em: 31 ago. 2016.\nTEXTO III\n\nA arte pode estar, às vezes, muito mais preparada do\nque a ciência para captar o devir e a fluidez do mundo,\npois o artista não quer manipular, mas sim “habitar” as\ncoisas. O famoso artista francês Rodin, no seu livro\nL’Art (A Arte, 1911), comenta que a técnica de fotografia\nem série, mostrando todos os momentos do galope de\num cavalo em diversos quadros, apesar de seu grande\nrealismo, não é capaz de capturar o movimento. O corpo\ndo animal é fotografado em diferentes posições, mas\nele não parece estar galopando: “na imagem científica\n[fotográfica], o tempo é suspenso bruscamente”.\n\nPara Rodin, um pintor é capaz, em única cena, de\nnos transmitir a experiência de ver um cavalo de corrida,\ne isso porque ele representa o animal em um movimento\nambíguo, em que os membros traseiros e dianteiros\nparecem estar em instantes diferentes. Rodin diz que\nessa exposição talvez seja logicamente inconcebível,\nmas é paradoxalmente muito mais adequada à maneira\ncomo o movimento se dá: “o artista é verdadeiro e a\nfotografia mentirosa, pois na realidade o tempo não para”.\n\nFEITOSA, C. Explicando a filosofia com arte. Rio de Janeiro: Ediouro, 2004.",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/31/6e1f2e36-9e1d-47a4-9d49-6f64c22949ef.png",
+        "https://enem.dev/2018-reaplicacao/questions/31/32e93139-b384-46ce-a548-53747bd1db77.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Observando-se as imagens (Textos I e II), o paradoxo apontado por Rodin (Texto III) procede e cria uma maneira original de perceber a relação entre a arte e a técnica, porque o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fotografia é realista na captação da sensação do movimento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pintura explora os sentimentos do artista e não tem um caráter científico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fotógrafo faz um estudo sobre os movimentos e consegue captar a essência da sua representação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "pintor representa de forma equivocada as patas dos cavalos, confundindo nossa noção de realidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pintura inverte a lógica comumente aceita de que a fotografia faz um registro objetivo e fidedigno da realidade.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

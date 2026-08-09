@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2018",
+    "index": 136,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O índice de massa corporal (IMC) de uma pessoa é\ndefinido como o quociente entre a massa dessa pessoa,\nmedida em quilograma, e o quadrado da sua altura,\nmedida em metro. Esse índice é usado como parâmetro\npara verificar se o indivíduo está ou não acima do peso\nideal para a sua altura. Durante o ano de 2011, uma\npessoa foi acompanhada por um nutricionista e passou\npor um processo de reeducação alimentar. O gráfico\nindica a variação mensal do IMC dessa pessoa, durante\no referido período. Para avaliar o sucesso do tratamento,\no nutricionista vai analisar as medidas estatísticas\nreferentes à variação do IMC.\n\n29,8\n\n29,5\n\n29,2\n\n28,9\n\n28,6\n\n28,3\n\n28,0\n\n27,7\n\n27,4\n\n27,1\n\n26,8\n\n26,5\n\n26,2\n\n25,9\n\nMês\n\nFev.\n\nMar.\n\nAbr.\n\nJan.\n\nMaio\n\nNov.\n\nDez.\n\nJun.\n\nJul.\n\nAgo.\n\nSet.\n\nOut.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "De acordo com o gráfico, podemos concluir que a mediana da variação mensal do IMC dessa pessoa é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "27,40.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "27,55.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "27,70.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "28,15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "28,45.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

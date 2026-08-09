@@ -1,0 +1,45 @@
+{
+    "title": "Questão 36 - ENEM 2020",
+    "index": 36,
+    "year": 2020,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "CAPTCHA, herói ou vilão?\n\nTodas as pessoas que já utilizaram a web para\nrealização de tarefas como criar um perfil em uma rede\nsocial, fazer um cadastro em um sistema de comércio\neletrônico ou em um portal de notícias, entre tantas\noutras, já se depararam com o CAPTCHA. Esse teste\napresenta-se como um conjunto de caracteres que\naparecem em imagens distorcidas (conforme Figura 1) e\nque as pessoas precisam decifrar e digitar num campo\nde formulário. Elas precisam realizar essa tarefa para\nprovar que são seres humanos, e não robôs. O uso do\nCAPTCHA com esse objetivo presume, portanto, que\nqualquer ser humano, mas nenhum robô, seria capaz de\nexecutar a tarefa proposta.\n\n![](https://enem.dev/2020-reaplicacao/questions/36/b14abc1c-061b-46b8-b81b-448be17c7d90.png)\n\nFigura 1\n\nPara as empresas que utilizam o CAPTCHA, ele\né o “herói” que tem a missão de diferenciar pessoas\nde robôs. Para as pessoas que precisam passar pelo\nteste do CAPTCHA para executarem suas tarefas,\ncertamente ele é um vilão. Em muitos casos, quando\ntentam passar pelos testes, veem-se obrigados a\nrepetir diversas vezes até conseguirem acertar.\nAlém de problemas com a falta de segurança e da\nexperiência ruim para a maioria das pessoas, outro fator\nnegativo para o CAPTCHA são as suas barreiras de\nacessibilidade. Isso representa um grande problema,\nprincipalmente para as pessoas que são cegas, têm\nbaixa visão ou dificuldades de aprendizagem, como a\ndislexia, as quais podem ficar impedidas de realizar\nimportantes tarefas na web.\n\nDisponível em: http://acessodigital.net. Acesso em: 30 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/36/b14abc1c-061b-46b8-b81b-448be17c7d90.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os efeitos causados pelo surgimento de novas tecnologias podem contribuir positiva ou negativamente para a sociedade. De acordo com o texto, a ferramenta CAPTCHA causa impacto social porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 54 - ENEM 2018",
+    "index": 54,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Composição da população brasileira, por faixa de idade\n\n1980\n2011\n2040\n\n70 ou mais\n\n60-69\n\n50-59\n\n40-49\n\n30-39\n\n20-29\n\n10-19\n\n0-9\n\nHomens\nMulheres\nHomens\nMulheres\n\nHomens\nMulheres\n\nFonte: IBGE",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A evolução da pirâmide etária apresentada indica a seguinte tendência:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Crescimento da faixa juvenil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumento da expectativa de vida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Elevação da taxa de fecundidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Predomínio da população masculina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Expansão do índice de mortalidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

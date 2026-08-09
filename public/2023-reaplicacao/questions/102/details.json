@@ -1,0 +1,43 @@
+{
+    "title": "Questão 102 - ENEM 2023",
+    "index": 102,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um fabricante de eletrodomésticos desenvolveu\num compartimento refrigerador inovador que consegue\nresfriar, em apenas 7 minutos, duas latas de refrigerante\n(350 mL cada), com densidade igual a 1,0 g/mL.\nA refrigeração do líquido consome 21% da potência\ndo sistema quando o refrigerante tem sua temperatura\ndiminuída em 15 °C. Considere o calor específico do\nrefrigerante igual a 1,0 cal/(g °C) e 1 cal = 4,2 J.\n\nA potência total, em watt, desse dispositivo refrigerador\né, aproximadamente,",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "105. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "120. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "315. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "500. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 500.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

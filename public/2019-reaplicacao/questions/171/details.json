@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2019",
+    "index": 171,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Deseja-se comprar determinado produto e, após\numa pesquisa de preços, o produto foi encontrado em\n5 lojas diferentes, a preços variados.\n\n•\t Loja 1: \u000720% de desconto, que equivale a R$ 720,00,\nmais R$ 70,00 de frete;\n•\t Loja 2: \u000720% de desconto, que equivale a R$ 740,00,\nmais R$ 50,00 de frete;\n•\t Loja 3: \u000720% de desconto, que equivale a R$ 760,00,\nmais R$ 80,00 de frete;\n•\t Loja 4: \u000715% de desconto, que equivale a R$ 710,00,\nmais R$ 10,00 de frete;\n•\t Loja 5: \u000715% de desconto, que equivale a R$ 690,00,\nsem custo de frete.\nO produto foi comprado na loja que apresentou o\nmenor preço total.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O produto foi adquirido na loja",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

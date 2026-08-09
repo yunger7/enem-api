@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2023",
+    "index": 145,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os candidatos A, B e C participaram de um concurso\ncomposto por uma prova de Matemática, uma de Português\ne outra de Geografia, sendo os pesos dessas três provas\ndiferentes. As notas obtidas por esses três candidatos e\nos pesos atribuídos a essas provas estão representados\nnas tabelas:\n\nTabela I (Notas)\n\nCandidato\nMatemática\nPortuguês\nGeografi a\n\nA\n9\n6\n7\n\nB\n8\n7\n8\n\nC\n9\n5\n6\n\nTabela II (Pesos)\n\nMatérias\nPesos\n\nPortuguês\n2\n\nGeografi a\n1\n\nAs notas finais são obtidas somando-se os produtos\ndas notas pelos respectivos pesos. As notas finais dos três\ncandidatos podem ser obtidas multiplicando-se a matriz\ndas notas dos três candidatos nas três provas pela matriz\ndos pesos das três provas.\n\nA matriz das notas finais dos três candidatos é",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "52 37 43 46 46 43 \u001a \u001a\u001a B B \u001b 66 46 20 \u001a \u001a\u001a C C \u001b 27 12 7 24 14 8 27 10 6 \u001a \u001a\u001a D D \u001b 27 18 21 16 14 16 9 5 6 \u001a \u001a\u001a E E \u001b",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2023",
+    "index": 133,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma microempresa adquire um sistema fotovoltaico\nde captação de energia solar para reduzir o gasto mensal de\nenergia elétrica. O sistema é composto de 15 placas\ncom potência média útil de 150 W por placa, realizando\ncaptação de energia solar oito horas por dia. A energia\ncaptada é armazenada em um conjunto de baterias de 12 V.\nO sistema apresenta também um inversor, cuja função é\nconverter a tensão de 12 V contínua para 120 V alternada,\ne sua eficiência é de 80%. A microempresa trabalha doze\nhoras por dia, utilizando a energia captada pelo sistema solar.\n\nAs intensidades das correntes elétricas, em ampère, na\nentrada e saída do inversor são, respectivamente,",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100 e 8. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "100 e 10. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "125 e 10. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "125 e 12,5. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 500 e 150.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2023",
+    "index": 106,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Duas pessoas saem de suas casas para se exercitarem\nnuma pista retilínea cujo comprimento é D. Elas percorrem\ntodo o percurso e, ao final dele, retornam ao ponto de\npartida pelo mesmo caminho. A primeira delas caminha\ncom velocidade de módulo v, e a segunda corre com uma\nvelocidade de módulo 2v. As duas partem do mesmo\nponto, no mesmo instante.\n\nA distância percorrida pela segunda pessoa até o ponto\nem que as duas se encontram pela primeira vez é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 3 D . B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 4 D . C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4 3 D . D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "5 3 D . E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7 4 D .",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

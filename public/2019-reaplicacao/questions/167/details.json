@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2019",
+    "index": 167,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um laboratório, cientistas observaram o\ncrescimento de uma população de bactérias submetida\na uma dieta magra em fósforo, com generosas porções\nde arsênico. Descobriu-se que o número de bactérias\ndessa população, após t horas de observação, poderia\nser modelado pela função exponencial N(t) = N0ekt, em\nque N0 é o número de bactérias no instante do início\nda observação (t = 0) e representa uma constante real\nmaior que 1, e k é uma constante real positiva.\n\nSabe-se que, após uma hora de observação, o\nnúmero de bactérias foi triplicado.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Cinco horas após o início da observação, o número de bactérias, em relação ao número inicial dessa cultura, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3N0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15N0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "243N0",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "360N0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "729N0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

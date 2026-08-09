@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2022",
+    "index": 174,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa tem cinco setores, cada um com quatro\nfuncionários, sendo que cada funcionário de um setor tem\num cargo diferente. O quadro apresenta os salários, em\nreal, dos funcionários de cada um desses setores, por\ncargo.\n\nSalário\n\nSalário\n\nSalário\n\nSalário\n\npara o\ncargo 1\n\npara o\ncargo 2\n\npara o\ncargo 3\n\npara o\ncargo 4\n\nSetor\n\n(R$)\n\n(R$)\n\n(R$)\n\n(R$)\n\nI\n1 550,00\n1 140,00\n1 140,00\n1 150,00\n\nII\n1 100,00\n1 100,00\n1 520,00\n1 200,00\n\nIII\n1 050,00\n1 050,00\n1 600,00\n2 000,00\n\nIV\n1 300,00\n1 160,00\n1 280,00\n1 280,00\n\nV\n1 250,00\n1 300,00\n1 300,00\n1 150,00\n\nA empresa pretende incentivar a qualificação\nprofissional, oferecendo cursos gratuitos para os\nfuncionários de todos os cinco setores. Entretanto, o\nprimeiro curso será oferecido aos funcionários do setor\nque apresenta a menor média salarial por cargo.\nO primeiro curso será oferecido aos funcionários do\nsetor",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

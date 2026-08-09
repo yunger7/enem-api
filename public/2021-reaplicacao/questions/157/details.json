@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2021",
+    "index": 157,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um diretor esportivo organiza um campeonato no qual\nhaverá disputa de times em turno e returno, isto é, cada\ntime jogará duas vezes com todos os outros, totalizando\n380 partidas a serem disputadas.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A quantidade de times (x) que faz parte desse campeonato %\u0004\u000f \u0002 \u0007\u0002 \b2 2\b\u000f\b\u0002% 2\b\u0002 \b' \u0004",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

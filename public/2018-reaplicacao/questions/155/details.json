@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2018",
+    "index": 155,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A água comercializada em garrafões pode ser\nclassificada como muito ácida, ácida, neutra, alcalina\nou muito alcalina, dependendo de seu pH, dado pela\nexpressão\n\npH\nH\n= log\n,\n10\n1\n\nem que H é a concentração de íons de hidrogênio, em mol\npor decímetro cúbico. A classificação da água de acordo\ncom seu pH é mostrada no quadro.\n\npH\nClassificação\n\npH ≥ 9\nMuito alcalina\n\n7,5 ≤ pH < 9\nAlcalina\n\n6 ≤ pH < 7,5\nNeutra\n\n3,5 ≤ pH < 6\nÁcida\n\npH < 3,5\nMuito ácida",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para o cálculo da concentração H, uma distribuidora mede dois parâmetros A e B, em cada fonte, e adota H como sendo o quociente de A por B. Em análise realizada em uma fonte, obteve A = 10−7 e a água dessa fonte foi classificada como neutra. O parâmetro B, então, encontrava-se no intervalo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

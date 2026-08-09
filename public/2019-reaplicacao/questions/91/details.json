@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2019",
+    "index": 91,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O curling é um dos esportes de inverno mais antigos e tradicionais. No jogo, dois times com quatro pessoas\ntêm de deslizar pedras de granito sobre uma área marcada de gelo e tentar colocá-las o mais próximo possível\ndo centro. A pista de curling é feita para ser o mais nivelada possível, para não interferir no decorrer do jogo. Após\no lançamento, membros da equipe varrem (com vassouras especiais) o gelo imediatamente à frente da pedra,\nporém sem tocá-la. Isso é fundamental para o decorrer da partida, pois influi diretamente na distância percorrida\ne na direção do movimento da pedra. Em um lançamento retilíneo, sem a interferência dos varredores,\nverifica-se que o módulo da desaceleração da pedra é superior se comparado à desaceleração da mesma pedra\nlançada com a ação dos varredores.\n\n![](https://enem.dev/2019-reaplicacao/questions/91/929b6b0e-e3f0-41d7-a0b6-e4c020b30e96.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/91/929b6b0e-e3f0-41d7-a0b6-e4c020b30e96.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A menor desaceleração da pedra de granito ocorre porque a ação dos varredores diminui o módulo da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "força motriz sobre a pedra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "força de atrito cinético sobre a pedra.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "força peso paralela ao movimento da pedra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "força de arrasto do ar que atua sobre a pedra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "força de reação normal que a superfície exerce sobre a pedra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
