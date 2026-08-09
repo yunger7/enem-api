@@ -12,7 +12,7 @@ export const getExamDetails: ZodOpenApiOperationObject = {
     summary: 'Listar prova',
     description:
         'Listar detalhes de uma prova por seu ano. Use o parâmetro ' +
-            'application=reaplicacao para obter a prova da reaplicação do mesmo ano.',
+        'application=reaplicacao para obter a prova da reaplicação do mesmo ano.',
     requestParams: {
         path: z.object({
             year: ExamYearPath,

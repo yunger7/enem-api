@@ -39,7 +39,8 @@ export async function GET(
         if (!exam) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `No exam found for year ${params.year}` +
+                message:
+                    `No exam found for year ${params.year}` +
                     (application === 'reaplicacao'
                         ? ' (reaplicação not available for this year)'
                         : ''),
@@ -67,7 +68,8 @@ export async function GET(
         if (!questionDetails) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `Question ${params.index} not found in exam ${params.year}` +
+                message:
+                    `Question ${params.index} not found in exam ${params.year}` +
                     (application === 'reaplicacao' ? ' (reaplicação)' : ''),
             });
         }

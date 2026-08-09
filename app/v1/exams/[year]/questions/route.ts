@@ -27,9 +27,10 @@ export async function GET(
 
         const searchParams = request.nextUrl.searchParams;
 
-        let { limit, offset, language, application } = GetQuestionsQuerySchema.parse(
-            getSearchParamsAsObject(searchParams),
-        );
+        let { limit, offset, language, application } =
+            GetQuestionsQuerySchema.parse(
+                getSearchParamsAsObject(searchParams),
+            );
 
         if (Number(limit) > 50) {
             throw new EnemApiError({
@@ -46,7 +47,8 @@ export async function GET(
         if (!exam) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `No exam found for year ${params.year}` +
+                message:
+                    `No exam found for year ${params.year}` +
                     (application === 'reaplicacao'
                         ? ' (reaplicação not available for this year)'
                         : ''),

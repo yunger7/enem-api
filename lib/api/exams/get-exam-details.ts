@@ -12,7 +12,8 @@ export async function getExamDetails({
     year,
     application = 'regular',
 }: GetExamDetailsPayload) {
-    const folder = application === 'reaplicacao' ? `${year}-reaplicacao` : `${year}`;
+    const folder =
+        application === 'reaplicacao' ? `${year}-reaplicacao` : `${year}`;
     const filePath = path.join(process.cwd(), 'public', folder, 'details.json');
 
     if (!existsSync(filePath)) {

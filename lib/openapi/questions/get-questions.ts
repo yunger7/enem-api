@@ -12,7 +12,7 @@ export const getQuestions: ZodOpenApiOperationObject = {
     summary: 'Listar questões',
     description:
         'Listar questões de uma prova por seu ano. Use application=reaplicacao ' +
-            'para as questões da reaplicação.',
+        'para as questões da reaplicação.',
     requestParams: {
         path: z.object({
             year: ExamYearPath,
