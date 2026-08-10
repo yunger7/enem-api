@@ -4,10 +4,9 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2025/questions/120/4e30db25-f687-46e5-acbc-61ad8073801b.png)\n\nA figura ilustra as informações contidas no manual de um\nsistema de alarme que utiliza transmissores e receptores de\nradiação eletromagnética para a detecção de movimento.\nO receptor é regulado pelo tempo de resposta, que corresponde ao\nintervalo de tempo necessário para o corpo do invasor atravessar\ncompletamente o feixe, de diâmetro d = 15 cm. Considere que a\nmenor porção do corpo de um invasor é a sua posição de perfil,\ncuja espessura típica é 20 cm. São indicados cinco possíveis\nmovimentos de um invasor e suas velocidades típicas, que devem\nser observadas para a escolha do tempo de resposta.\n\n![](https://enem.dev/2025/questions/120/a872e58f-cf66-48b6-8a31-b2329ab47490.png)\n\nManual de referência e instalação: sensor de barreira ativo.\nDisponível em: cs.ind.br. Acesso em: 2 dez. 2021 (adaptado).",
+    "context": "A figura ilustra as informações contidas no manual de um\nsistema de alarme que utiliza transmissores e receptores de\nradiação eletromagnética para a detecção de movimento.\nO receptor é regulado pelo tempo de resposta, que corresponde ao\nintervalo de tempo necessário para o corpo do invasor atravessar\ncompletamente o feixe, de diâmetro d = 15 cm. Considere que a\nmenor porção do corpo de um invasor é a sua posição de perfil,\ncuja espessura típica é 20 cm. São indicados cinco possíveis\nmovimentos de um invasor e suas velocidades típicas, que devem\nser observadas para a escolha do tempo de resposta.\n\n![](https://enem.dev/2025/questions/120/0b5a0c33-0633-4043-b0a3-5e264f0a8fd3.png)\n\nManual de referência e instalação: sensor de barreira ativo.\nDisponível em: cs.ind.br. Acesso em: 2 dez. 2021 (adaptado).",
     "files": [
-        "https://enem.dev/2025/questions/120/4e30db25-f687-46e5-acbc-61ad8073801b.png",
-        "https://enem.dev/2025/questions/120/a872e58f-cf66-48b6-8a31-b2329ab47490.png"
+        "https://enem.dev/2025/questions/120/0b5a0c33-0633-4043-b0a3-5e264f0a8fd3.png"
     ],
     "correctAlternative": "B",
     "alternativesIntroduction": "Nesse sistema, o menor tempo de resposta, em milissegundo, que garante a detecção de um possível invasor é mais próximo de",

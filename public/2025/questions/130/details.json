@@ -4,14 +4,13 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2025/questions/130/6c113d63-f584-4834-93ee-64631c1405d3.png)\n\nEm sua maioria, os equipamentos eletrônicos domésticos\ndemandam baixa potência elétrica em corrente contínua.\nPara alimentá-los, uma fonte externa ou embutida transforma\na corrente alternada em corrente contínua de baixa tensão.\nEntretanto, cada equipamento tem suas especificidades, e muitas\nvezes não é possível simplesmente trocar essas fontes sem levar\nem conta a tensão, a corrente ou a potência elétrica de saída.\n\nConsidere um equipamento de resistência elétrica RC que\nfunciona corretamente apenas em um dado valor de tensão.\nPorém, a única fonte de alimentação disponível fornece uma\ntensão 20% superior à tensão recomendada. Para adaptar essa\nfonte ao aparelho, a associação de um resistor de proteção RP\n\n,\nde potência adequada, se faz necessária.",
+    "context": "Em sua maioria, os equipamentos eletrônicos domésticos\ndemandam baixa potência elétrica em corrente contínua.\nPara alimentá-los, uma fonte externa ou embutida transforma\na corrente alternada em corrente contínua de baixa tensão.\nEntretanto, cada equipamento tem suas especificidades, e muitas\nvezes não é possível simplesmente trocar essas fontes sem levar\nem conta a tensão, a corrente ou a potência elétrica de saída.\n\nConsidere um equipamento de resistência elétrica RC que\nfunciona corretamente apenas em um dado valor de tensão.\nPorém, a única fonte de alimentação disponível fornece uma\ntensão 20% superior à tensão recomendada. Para adaptar essa\nfonte ao aparelho, a associação de um resistor de proteção RP\n\n,\nde potência adequada, se faz necessária.",
     "files": [
-        "https://enem.dev/2025/questions/130/6c113d63-f584-4834-93ee-64631c1405d3.png",
-        "https://enem.dev/2025/questions/130/7af98b82-413f-424d-95b1-cd7cdd8f68a6.png",
-        "https://enem.dev/2025/questions/130/f53ee358-9c49-4f56-95f7-f1fd01fe6361.png",
-        "https://enem.dev/2025/questions/130/32d2bc59-d230-458f-82d1-8a02c3f80487.png",
-        "https://enem.dev/2025/questions/130/dce21dc1-2a1a-4d15-a2bf-b1be04b5a0c4.png",
-        "https://enem.dev/2025/questions/130/37ec8e7b-fa57-4048-8235-8fd935ed7840.png"
+        "https://enem.dev/2025/questions/130/d43d6d22-db5c-4303-8cf4-bd0bd6dcf91f.png",
+        "https://enem.dev/2025/questions/130/2b4127be-745d-4786-87c2-463db91154ee.png",
+        "https://enem.dev/2025/questions/130/da52fc94-8f15-4c03-8d63-b5123da702cc.png",
+        "https://enem.dev/2025/questions/130/05995791-6561-4891-be24-eb28e7440b75.png",
+        "https://enem.dev/2025/questions/130/0881018f-7c5e-44ff-89da-4cd7d16c322a.png"
     ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:",
@@ -19,31 +18,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2025/questions/130/7af98b82-413f-424d-95b1-cd7cdd8f68a6.png",
+            "file": "https://enem.dev/2025/questions/130/d43d6d22-db5c-4303-8cf4-bd0bd6dcf91f.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2025/questions/130/f53ee358-9c49-4f56-95f7-f1fd01fe6361.png",
+            "file": "https://enem.dev/2025/questions/130/2b4127be-745d-4786-87c2-463db91154ee.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2025/questions/130/32d2bc59-d230-458f-82d1-8a02c3f80487.png",
+            "file": "https://enem.dev/2025/questions/130/da52fc94-8f15-4c03-8d63-b5123da702cc.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2025/questions/130/dce21dc1-2a1a-4d15-a2bf-b1be04b5a0c4.png",
+            "file": "https://enem.dev/2025/questions/130/05995791-6561-4891-be24-eb28e7440b75.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2025/questions/130/37ec8e7b-fa57-4048-8235-8fd935ed7840.png",
+            "file": "https://enem.dev/2025/questions/130/0881018f-7c5e-44ff-89da-4cd7d16c322a.png",
             "isCorrect": true
         }
     ]

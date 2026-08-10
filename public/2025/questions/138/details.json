@@ -4,15 +4,14 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "![](https://enem.dev/2025/questions/138/0a7ebf2e-f7b7-44fe-9676-801dd623fe39.png)\n\nEm um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\n\n![](https://enem.dev/2025/questions/138/918d2ab3-9502-486a-8a4e-a26fb64db5ef.png)\n\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados.\nAo se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz\ne se aproximou 4 unidades do plano xy.",
+    "context": "Em um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\n\n![](https://enem.dev/2025/questions/138/789b3eb7-ed2c-40c8-aff0-50cf1b283320.png)\n\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados.\nAo se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz\ne se aproximou 4 unidades do plano xy.",
     "files": [
-        "https://enem.dev/2025/questions/138/0a7ebf2e-f7b7-44fe-9676-801dd623fe39.png",
-        "https://enem.dev/2025/questions/138/918d2ab3-9502-486a-8a4e-a26fb64db5ef.png",
-        "https://enem.dev/2025/questions/138/49752ba1-d402-4754-9512-d8bc2751d106.png",
-        "https://enem.dev/2025/questions/138/6d038b37-b687-4c0c-af8c-ff7ad0ae0174.png",
-        "https://enem.dev/2025/questions/138/ca4d7919-087f-4369-ba19-ac51c8eb592d.png",
-        "https://enem.dev/2025/questions/138/b3e51dd1-9a56-495f-ab46-2088f3c0533a.png",
-        "https://enem.dev/2025/questions/138/eb9d1c2c-f0ae-4d32-8a64-8330a0760bf7.png"
+        "https://enem.dev/2025/questions/138/789b3eb7-ed2c-40c8-aff0-50cf1b283320.png",
+        "https://enem.dev/2025/questions/138/30709197-854f-4f5d-baa9-81e065066188.png",
+        "https://enem.dev/2025/questions/138/2d0d0f72-a5aa-4d17-8e36-d457aa74b1eb.png",
+        "https://enem.dev/2025/questions/138/0fea34e0-28de-4db2-a705-3580462abff0.png",
+        "https://enem.dev/2025/questions/138/c5f4e666-623a-49c7-9822-56827112ac2c.png",
+        "https://enem.dev/2025/questions/138/b7705961-55b3-448b-bcc0-7d3c03f0ea6e.png"
     ],
     "correctAlternative": "E",
     "alternativesIntroduction": "A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações descritas, é",
@@ -20,31 +19,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2025/questions/138/6d038b37-b687-4c0c-af8c-ff7ad0ae0174.png",
+            "file": "https://enem.dev/2025/questions/138/2d0d0f72-a5aa-4d17-8e36-d457aa74b1eb.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2025/questions/138/b3e51dd1-9a56-495f-ab46-2088f3c0533a.png",
+            "file": "https://enem.dev/2025/questions/138/c5f4e666-623a-49c7-9822-56827112ac2c.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2025/questions/138/eb9d1c2c-f0ae-4d32-8a64-8330a0760bf7.png",
+            "file": "https://enem.dev/2025/questions/138/b7705961-55b3-448b-bcc0-7d3c03f0ea6e.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2025/questions/138/49752ba1-d402-4754-9512-d8bc2751d106.png",
+            "file": "https://enem.dev/2025/questions/138/30709197-854f-4f5d-baa9-81e065066188.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2025/questions/138/ca4d7919-087f-4369-ba19-ac51c8eb592d.png",
+            "file": "https://enem.dev/2025/questions/138/0fea34e0-28de-4db2-a705-3580462abff0.png",
             "isCorrect": true
         }
     ]

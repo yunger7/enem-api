@@ -4,15 +4,14 @@
     "year": 2025,
     "language": null,
     "discipline": "ciencias-natureza",
-    "context": "![](https://enem.dev/2025/questions/107/a797a2fe-3c71-4282-9da4-e63263dbb85c.png)\n\n![](https://enem.dev/2025/questions/107/75670a9b-5cd5-496d-8a44-7709e8cc7f9c.png)\n\nA figura apresenta a herança genética de uma característica\na partir do cruzamento de insetos de uma mesma espécie.",
+    "context": "![](https://enem.dev/2025/questions/107/b3d5409d-4f43-4df3-85c4-d826cf5a9c34.png)\n\nA figura apresenta a herança genética de uma característica\na partir do cruzamento de insetos de uma mesma espécie.",
     "files": [
-        "https://enem.dev/2025/questions/107/a797a2fe-3c71-4282-9da4-e63263dbb85c.png",
-        "https://enem.dev/2025/questions/107/75670a9b-5cd5-496d-8a44-7709e8cc7f9c.png",
-        "https://enem.dev/2025/questions/107/789ea0ca-464f-488f-a2e5-2462874b74a3.png",
-        "https://enem.dev/2025/questions/107/b5cc7c70-26cc-4077-8148-7251e6e5ede1.png",
-        "https://enem.dev/2025/questions/107/69dfc6be-c322-47a4-b805-09f1fa706932.png",
-        "https://enem.dev/2025/questions/107/9563e024-0e5c-4190-b0e9-b7737d76f009.png",
-        "https://enem.dev/2025/questions/107/5912747f-7d48-4983-9d00-7d7c8f78842f.png"
+        "https://enem.dev/2025/questions/107/b3d5409d-4f43-4df3-85c4-d826cf5a9c34.png",
+        "https://enem.dev/2025/questions/107/eb1900df-7352-4e04-bb99-8d876529f8bb.png",
+        "https://enem.dev/2025/questions/107/35ad1d30-366c-42e7-89fb-b39f625e69eb.png",
+        "https://enem.dev/2025/questions/107/59dcb62d-1dc9-409f-98d7-1dcd41068ec0.png",
+        "https://enem.dev/2025/questions/107/d447d425-4e81-4034-bb6b-18fd70080ef8.png",
+        "https://enem.dev/2025/questions/107/705e7a89-3e59-4819-9271-22259cd51c0b.png"
     ],
     "correctAlternative": "E",
     "alternativesIntroduction": "Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
@@ -20,31 +19,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2025/questions/107/789ea0ca-464f-488f-a2e5-2462874b74a3.png",
+            "file": "https://enem.dev/2025/questions/107/eb1900df-7352-4e04-bb99-8d876529f8bb.png",
             "isCorrect": false
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2025/questions/107/b5cc7c70-26cc-4077-8148-7251e6e5ede1.png",
+            "file": "https://enem.dev/2025/questions/107/35ad1d30-366c-42e7-89fb-b39f625e69eb.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2025/questions/107/69dfc6be-c322-47a4-b805-09f1fa706932.png",
+            "file": "https://enem.dev/2025/questions/107/59dcb62d-1dc9-409f-98d7-1dcd41068ec0.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2025/questions/107/9563e024-0e5c-4190-b0e9-b7737d76f009.png",
+            "file": "https://enem.dev/2025/questions/107/d447d425-4e81-4034-bb6b-18fd70080ef8.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2025/questions/107/5912747f-7d48-4983-9d00-7d7c8f78842f.png",
+            "file": "https://enem.dev/2025/questions/107/705e7a89-3e59-4819-9271-22259cd51c0b.png",
             "isCorrect": true
         }
     ]

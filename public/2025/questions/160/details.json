@@ -4,10 +4,9 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "![](https://enem.dev/2025/questions/160/cf96f8a0-6439-4955-8eec-7caf200653ef.png)\n\nUm recipiente tem um formato que faz com que, ao ser\nenchido de água com uma vazão constante, a distância D da\nlâmina de água ao tampo da mesa, em centímetro, aumente\nem relação ao tempo T, em minuto, de acordo com uma função\ndo tipo\n\nD = k + tg[p(T + m)],\n\nsendo os parâmetros k, p e m números reais, para T variando\nentre 0 e 4 minutos, conforme ilustrado na figura, na qual estão\napresentadas assíntotas verticais da função tangente utilizada\nna definição de D.\n\n![](https://enem.dev/2025/questions/160/97e90156-3af2-4fa0-82bf-8d61d4786ee8.png)\n\nA expressão algébrica que representa a relação entre D e T é",
+    "context": "Um recipiente tem um formato que faz com que, ao ser\nenchido de água com uma vazão constante, a distância D da\nlâmina de água ao tampo da mesa, em centímetro, aumente\nem relação ao tempo T, em minuto, de acordo com uma função\ndo tipo\n\nD = k + tg[p(T + m)],\n\nsendo os parâmetros k, p e m números reais, para T variando\nentre 0 e 4 minutos, conforme ilustrado na figura, na qual estão\napresentadas assíntotas verticais da função tangente utilizada\nna definição de D.\n\n![](https://enem.dev/2025/questions/160/21ad0d03-e653-4bb2-a2f5-bae3a63f4f8a.png)\n\nA expressão algébrica que representa a relação entre D e T é",
     "files": [
-        "https://enem.dev/2025/questions/160/cf96f8a0-6439-4955-8eec-7caf200653ef.png",
-        "https://enem.dev/2025/questions/160/97e90156-3af2-4fa0-82bf-8d61d4786ee8.png"
+        "https://enem.dev/2025/questions/160/21ad0d03-e653-4bb2-a2f5-bae3a63f4f8a.png"
     ],
     "correctAlternative": "E",
     "alternativesIntroduction": "\u0012\u0011 2 5 30 5 2 2 , tg \u0010",

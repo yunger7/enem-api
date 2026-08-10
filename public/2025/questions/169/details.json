@@ -4,14 +4,13 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "![](https://enem.dev/2025/questions/169/39cef665-dc71-48e1-840a-c0b99a917be2.png)\n\nA produtividade de soja em uma área cultivada é a média da quantidade de sacas de 50 quilogramas que são produzidas\npor hectare. O quadro apresenta a área cultivada e a produtividade de soja em certa propriedade, ao longo de cinco safras,\ncom períodos de um ano, de 2011 a 2016.\n\nSafra\n11-12\n12-13\n13-14\n14-15\n15-16\n\nÁrea cultivada (hectare)\n200\n220\n250\n250\n200\n\nProdutividade (sacas de 50 kg por hectare)\n40\n30\n45\n45\n50",
+    "context": "A produtividade de soja em uma área cultivada é a média da quantidade de sacas de 50 quilogramas que são produzidas\npor hectare. O quadro apresenta a área cultivada e a produtividade de soja em certa propriedade, ao longo de cinco safras,\ncom períodos de um ano, de 2011 a 2016.\n\nSafra\n11-12\n12-13\n13-14\n14-15\n15-16\n\nÁrea cultivada (hectare)\n200\n220\n250\n250\n200\n\nProdutividade (sacas de 50 kg por hectare)\n40\n30\n45\n45\n50",
     "files": [
-        "https://enem.dev/2025/questions/169/39cef665-dc71-48e1-840a-c0b99a917be2.png",
-        "https://enem.dev/2025/questions/169/1f6f38d2-edad-4b0e-b176-a2c65c74bd09.png",
-        "https://enem.dev/2025/questions/169/f4438a76-3337-4436-9e78-b7ca16dd1ae6.png",
-        "https://enem.dev/2025/questions/169/c4174c10-d8a7-4799-beea-03a5d3ff58ad.png",
-        "https://enem.dev/2025/questions/169/7c0c536e-9542-400d-968c-abb73b0688f2.png",
-        "https://enem.dev/2025/questions/169/de49fb04-4f6f-4937-8389-df13e7ab4560.png"
+        "https://enem.dev/2025/questions/169/6ee08d92-fd3d-47f9-89dc-8d532ba29af5.png",
+        "https://enem.dev/2025/questions/169/fd374a54-66aa-4f59-bf04-0997ae5546a3.png",
+        "https://enem.dev/2025/questions/169/aa308b3b-f66b-4f3f-bfd3-c27605badddb.png",
+        "https://enem.dev/2025/questions/169/861974aa-2d97-4094-a6aa-c12eb6499eb1.png",
+        "https://enem.dev/2025/questions/169/c33cb4f9-3017-48ed-9473-8ea5b4cca1de.png"
     ],
     "correctAlternative": "A",
     "alternativesIntroduction": "O gráfico de linhas que representa a produção de soja dessa propriedade, em tonelada, nessas cinco safras é",
@@ -19,31 +18,31 @@
         {
             "letter": "A",
             "text": null,
-            "file": "https://enem.dev/2025/questions/169/1f6f38d2-edad-4b0e-b176-a2c65c74bd09.png",
+            "file": "https://enem.dev/2025/questions/169/6ee08d92-fd3d-47f9-89dc-8d532ba29af5.png",
             "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
-            "file": "https://enem.dev/2025/questions/169/f4438a76-3337-4436-9e78-b7ca16dd1ae6.png",
+            "file": "https://enem.dev/2025/questions/169/fd374a54-66aa-4f59-bf04-0997ae5546a3.png",
             "isCorrect": false
         },
         {
             "letter": "C",
             "text": null,
-            "file": "https://enem.dev/2025/questions/169/c4174c10-d8a7-4799-beea-03a5d3ff58ad.png",
+            "file": "https://enem.dev/2025/questions/169/aa308b3b-f66b-4f3f-bfd3-c27605badddb.png",
             "isCorrect": false
         },
         {
             "letter": "D",
             "text": null,
-            "file": "https://enem.dev/2025/questions/169/7c0c536e-9542-400d-968c-abb73b0688f2.png",
+            "file": "https://enem.dev/2025/questions/169/861974aa-2d97-4094-a6aa-c12eb6499eb1.png",
             "isCorrect": false
         },
         {
             "letter": "E",
             "text": null,
-            "file": "https://enem.dev/2025/questions/169/de49fb04-4f6f-4937-8389-df13e7ab4560.png",
+            "file": "https://enem.dev/2025/questions/169/c33cb4f9-3017-48ed-9473-8ea5b4cca1de.png",
             "isCorrect": false
         }
     ]

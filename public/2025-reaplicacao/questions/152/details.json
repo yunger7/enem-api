@@ -4,9 +4,9 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "Em um jogo de computador, uma nave só pode se localizar\nem um dos vértices de um cubo com posição fixada na tela.\nA partir de um vértice, a nave só pode se deslocar para outro\nvértice que não lhe seja adjacente. A figura exemplifica algumas\npossibilidades de deslocamento da nave quando ela está\nposicionada no vértice V.\n\n![](https://enem.dev/2025-reaplicacao/questions/152/3a679861-3277-4d68-a7ee-83d09af6be5f.png)",
+    "context": "Em um jogo de computador, uma nave só pode se localizar\nem um dos vértices de um cubo com posição fixada na tela.\nA partir de um vértice, a nave só pode se deslocar para outro\nvértice que não lhe seja adjacente. A figura exemplifica algumas\npossibilidades de deslocamento da nave quando ela está\nposicionada no vértice V.\n\n![](https://enem.dev/2025-reaplicacao/questions/152/3209ede9-0961-45bf-a4da-2f43c1158fd5.png)",
     "files": [
-        "https://enem.dev/2025-reaplicacao/questions/152/3a679861-3277-4d68-a7ee-83d09af6be5f.png"
+        "https://enem.dev/2025-reaplicacao/questions/152/3209ede9-0961-45bf-a4da-2f43c1158fd5.png"
     ],
     "correctAlternative": "D",
     "alternativesIntroduction": "O número total de deslocamentos distintos que podem ser observados nesse jogo é",

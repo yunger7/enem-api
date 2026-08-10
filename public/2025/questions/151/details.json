@@ -4,10 +4,8 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "![](https://enem.dev/2025/questions/151/ed50453e-3419-4894-934d-dc73a34123cc.png)\n\nPara acompanhar o fluxo de visitantes em seu prédio,\numa empresa estabeleceu um código de identificação para a\nvisitação. De acordo com a regra estabelecida, cada visitante será\nidentificado com um código sequencial numérico com 7 dígitos,\ndeterminado, da esquerda para a direita, da seguinte forma:\n\n•\to primeiro dígito indica o andar ao qual o visitante se\ndirige, que é um número de 1 a 4;\n•\tos dois próximos dígitos correspondem ao número do\nsetor da empresa ao qual o visitante se destina. Esse\nnúmero varia de 01 a 20;\n•\tos três dígitos seguintes correspondem ao número do\nfuncionário da empresa com quem o visitante irá se reunir.\nEsse número varia de 001 a 135;\n•\to último dígito indica se o visitante chegou à empresa\npela manhã, dígito 0, ou à tarde, dígito 1.\n\nUm visitante chegou à empresa às 10 horas da manhã para\nse reunir com o funcionário identificado pelo número 109,\nque trabalha no setor 08 da empresa, localizado no 2º andar.",
-    "files": [
-        "https://enem.dev/2025/questions/151/ed50453e-3419-4894-934d-dc73a34123cc.png"
-    ],
+    "context": "Para acompanhar o fluxo de visitantes em seu prédio,\numa empresa estabeleceu um código de identificação para a\nvisitação. De acordo com a regra estabelecida, cada visitante será\nidentificado com um código sequencial numérico com 7 dígitos,\ndeterminado, da esquerda para a direita, da seguinte forma:\n\n•\to primeiro dígito indica o andar ao qual o visitante se\ndirige, que é um número de 1 a 4;\n•\tos dois próximos dígitos correspondem ao número do\nsetor da empresa ao qual o visitante se destina. Esse\nnúmero varia de 01 a 20;\n•\tos três dígitos seguintes correspondem ao número do\nfuncionário da empresa com quem o visitante irá se reunir.\nEsse número varia de 001 a 135;\n•\to último dígito indica se o visitante chegou à empresa\npela manhã, dígito 0, ou à tarde, dígito 1.\n\nUm visitante chegou à empresa às 10 horas da manhã para\nse reunir com o funcionário identificado pelo número 109,\nque trabalha no setor 08 da empresa, localizado no 2º andar.",
+    "files": [],
     "correctAlternative": "D",
     "alternativesIntroduction": "O código de identificação desse visitante é",
     "alternatives": [

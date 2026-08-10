@@ -4,10 +4,8 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "![](https://enem.dev/2025/questions/141/50b4e3b9-fec0-4e90-aa53-b0fd85d41c2c.png)\n\nUma distribuidora de combustível possui caminhões-tanque\ncom capacidade de 30 000 litros cada. Em qualquer transporte\nrealizado por esses caminhões, um mesmo volume de combustível\né descartado, pois fica com muitas impurezas. Esse volume\ndescartado independe da quantidade transportada.\n\nUm posto de combustível encomendou 10 000 litros de\ngasolina dessa distribuidora, que enviou 10 200 litros, considerando\no volume descartado no transporte. Mesmo assim, a quantidade\nde gasolina entregue ao posto foi de 9 900 litros.\n\nEm um novo pedido, esse posto solicitou que fosse entregue\nexatamente o dobro do volume de gasolina encomendado no\npedido anterior.",
-    "files": [
-        "https://enem.dev/2025/questions/141/50b4e3b9-fec0-4e90-aa53-b0fd85d41c2c.png"
-    ],
+    "context": "Uma distribuidora de combustível possui caminhões-tanque\ncom capacidade de 30 000 litros cada. Em qualquer transporte\nrealizado por esses caminhões, um mesmo volume de combustível\né descartado, pois fica com muitas impurezas. Esse volume\ndescartado independe da quantidade transportada.\n\nUm posto de combustível encomendou 10 000 litros de\ngasolina dessa distribuidora, que enviou 10 200 litros, considerando\no volume descartado no transporte. Mesmo assim, a quantidade\nde gasolina entregue ao posto foi de 9 900 litros.\n\nEm um novo pedido, esse posto solicitou que fosse entregue\nexatamente o dobro do volume de gasolina encomendado no\npedido anterior.",
+    "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "Utilizando o mesmo caminhão da entrega anterior, qual é o volume mínimo de gasolina, em litro, que a distribuidora deverá enviar para garantir a entrega da quantidade encomendada nesse novo pedido?",
     "alternatives": [

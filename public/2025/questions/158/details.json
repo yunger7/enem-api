@@ -4,10 +4,8 @@
     "year": 2025,
     "language": null,
     "discipline": "matematica",
-    "context": "![](https://enem.dev/2025/questions/158/683d77de-0885-4adc-b1e0-dc28e46078ea.png)\n\nUm estacionamento possui 120 vagas para veículos,\ne todas essas vagas estão ocupadas. Cada cliente paga uma\nmensalidade para utilizar uma vaga, que é calculada com base\nnas despesas mensais do estacionamento e no lucro pretendido.\nAs despesas mensais do estacionamento são: R$ 14 240,00 com\nmanutenção mais R$ 36,00 de seguro por veículo. O lucro do\nestacionamento é determinado pela diferença do valor arrecadado\ncom as mensalidades pelas despesas efetuadas. A partir do mês\nseguinte, o valor do seguro por veículo aumentará em 20%,\ne as despesas com manutenção permanecerão sem alterações.\nCom isso, o dono do estacionamento reajustará as mensalidades\npara obter um lucro mensal de R$ 10 000,00. Apesar desse\nreajuste, todas as vagas continuarão ocupadas.",
-    "files": [
-        "https://enem.dev/2025/questions/158/683d77de-0885-4adc-b1e0-dc28e46078ea.png"
-    ],
+    "context": "Um estacionamento possui 120 vagas para veículos,\ne todas essas vagas estão ocupadas. Cada cliente paga uma\nmensalidade para utilizar uma vaga, que é calculada com base\nnas despesas mensais do estacionamento e no lucro pretendido.\nAs despesas mensais do estacionamento são: R$ 14 240,00 com\nmanutenção mais R$ 36,00 de seguro por veículo. O lucro do\nestacionamento é determinado pela diferença do valor arrecadado\ncom as mensalidades pelas despesas efetuadas. A partir do mês\nseguinte, o valor do seguro por veículo aumentará em 20%,\ne as despesas com manutenção permanecerão sem alterações.\nCom isso, o dono do estacionamento reajustará as mensalidades\npara obter um lucro mensal de R$ 10 000,00. Apesar desse\nreajuste, todas as vagas continuarão ocupadas.",
+    "files": [],
     "correctAlternative": "C",
     "alternativesIntroduction": "O valor, em real, da mensalidade reajustada será",
     "alternatives": [
