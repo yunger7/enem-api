@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2019",
+    "index": 20,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2019-reaplicacao/questions/20/8c6c30a1-e37c-45cd-aa1b-408d3c96988e.png)\n\nDestak, nov. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/20/8c6c30a1-e37c-45cd-aa1b-408d3c96988e.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A imagem da caneta de tinta vermelha, associada às frases do cartaz, é utilizada na campanha para mostrar ao possível doador que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a doação de sangue faz bem à saúde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a linha da vida é fina como o traço de caneta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "a atitude de doar sangue é muito importante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a caneta vermelha representa a atitude do doador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a reserva do banco de sangue está chegando ao fim.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

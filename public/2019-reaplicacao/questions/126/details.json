@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2019",
+    "index": 126,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um herbicida de largo espectro foi desenvolvido\npara utilização em lavouras. Esse herbicida atua inibindo\na atividade de uma enzima dos vegetais envolvida na\nbiossíntese de aminoácidos essenciais. Atualmente ele\né bastante utilizado em plantações de soja, podendo\ninclusive inibir a germinação ou o crescimento das\nplantas cultivadas.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De que forma é desenvolvida a resistência da soja ao herbicida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Expondo frequentemente uma espécie de soja a altas concentrações do herbicida, levando ao desenvolvimento de resistência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cultivando a soja com elevadas concentrações de aminoácidos, induzindo a formação de moléculas relacionadas à resistência.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Empregando raios X para estimular mutações em uma variedade de soja, produzindo a enzima-alvo resistente ao herbicida.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Introduzindo na soja um gene específico de outra espécie, possibilitando a produção da enzima de resistência ao herbicida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Administrando a enzima-alvo nos fertilizantes utilizados na lavoura, promovendo sua absorção pela espécie cultivada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

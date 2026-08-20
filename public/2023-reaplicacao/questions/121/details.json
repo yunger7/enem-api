@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2023",
+    "index": 121,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O tratamento do esgoto gerado por fábricas e\nresidências pode se tornar mais acessível em virtude de\numa nova proposta tecnológica, que utiliza um reator capaz\nde transformar nitrogênio orgânico, presente no esgoto, em\nnitrogênio inorgânico. A tecnologia prevê o uso de um cilindro\nde acrílico com espuma de poliuretano em seu interior,\nsob a qual se fixam bactérias capazes de tratar o efluente.\nAs bactérias que ficam no exterior da espuma realizam\nreações de nitrificação desse substrato, e as que ficam\nno interior da espuma realizam reações de desnitrificação.\n\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 25 jun. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Na primeira etapa do processo, que ocorre no exterior da espuma, a ação das bactérias consiste em A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "converter nitrogênio gasoso (N2) em fertilizante. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "usar CO2 para converter nitrato em nitrogênio gasoso (N2). C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "transformar a matéria orgânica morta em íons amônio (NH4 +). D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "capturar nitrogênio gasoso (N2) e convertê-lo em amônia (NH3). E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "utilizar O2 para transformar amônia (NH3) em nitrito e, após, em nitrato.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

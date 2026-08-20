@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2022",
+    "index": 112,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Bebidas alcoólicas, algumas soluções desinfetantes\nou até álcool combustível são exemplos de misturas\nconstituídas por etanol (CH3CH2OH) e água. A “afinidade”\nentre esses líquidos é suficiente para possibilitar que a\nmistura formada por 500 mL de água e 500 mL de etanol\norigine uma solução de 970 mL, em um processo que\nenvolve liberação de pequena quantidade de energia.\nDe certa forma, isso constitui um problema para os\nfabricantes, uma vez que, para obterem um litro dessa\nmistura, necessitariam misturar mais do que 500 mL de\ncada um dos líquidos.\nDo ponto de vista da química, a que se deve essa variação\nde volume?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "À redução do volume das moléculas. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ao abaixamento da massa molecular. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "À formação de ligações covalentes mais fortes. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "À diminuição do grau de agitação das moléculas. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ao estabelecimento de interações intermoleculares mais intensas.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

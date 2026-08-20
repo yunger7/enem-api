@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2024",
+    "index": 99,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A abelha mamangava (Xylocopa sp.) é a mais eficiente\npolinizadora do maracujazeiro, por causa do seu tamanho.\nA abelha europeia (Apis mellifera) não é uma polinizadora\neficiente do maracujazeiro, pois coleta o pólen sem realizar a\nfecundação e seu tamanho pequeno não permite que alcance\no estigma da flor, por causa da distância da base de pouso.\n\nRAMOS, L. A. Dicas para começar e melhorar sua produção.\n\nRevista Globo Rural, n. 296, jun. 2010 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A relação ecológica entre os insetos mencionados é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "predação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mutualismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "competição.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "inquilinismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comensalismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

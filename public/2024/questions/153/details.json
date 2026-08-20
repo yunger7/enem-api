@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2024",
+    "index": 153,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um instituto de pesquisa constatou que, nos últimos\ndez anos, o crescimento populacional de uma cidade foi\nde 135,25%.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a representação decimal da taxa percentual desse crescimento populacional?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "13 525,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "135,25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "13,525",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,3525",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,13525",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

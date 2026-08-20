@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2017",
+    "index": 134,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sabendo-se que as enzimas podem ter sua atividade regulada por diferentes condições de temperatura e\npH, foi realizado um experimento para testar as condições ótimas para a atividade de uma determinada enzima.\nOs resultados estão apresentados no gráfico.\n\nAtividade da enzima\n\n10 °C, pH<7\n20 °C, pH<7\n30 °C, pH<7\n10 °C, pH>8\n20 °C, pH>8\n30 °C, pH>8",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em relação ao funcionamento da enzima, os resultados obtidos indicam que o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento do pH leva a uma atividade maior da enzima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "temperatura baixa (10 °C) é o principal inibidor da enzima.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ambiente básico reduz a quantidade de enzima necessária na reação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ambiente básico reduz a quantidade de substrato metabolizado pela enzima.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "temperatura ótima de funcionamento da enzima é 30 °C, independentemente do pH.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

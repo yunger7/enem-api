@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2019",
+    "index": 132,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um foguete viaja pelo espaço sideral com os propulsores desligados. A velocidade inicial v tem módulo constante\ne direção perpendicular à ação dos propulsores, conforme indicado na figura. O piloto aciona os propulsores para\nalterar a direção do movimento quando o foguete passa pelo ponto A e os desliga quando o módulo de sua velocidade\nfinal é superior a 2 |\n|\nv , o que ocorre antes de passar pelo ponto B. Considere as interações desprezíveis.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Propulsores",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "v A representação gráfica da trajetória seguida pelo foguete, antes e depois de passar pelo ponto B, é:",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

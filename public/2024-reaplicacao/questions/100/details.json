@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2024",
+    "index": 100,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Quando utilizadas na iluminação pública noturna, as lâmpadas de LED brancas produzem uma luz branco-azulada,\ncujo brilho difuso dificulta a observação das estrelas, que também chegam aos nossos olhos como luz azulada.\nPor isso, esse tipo de iluminação pública pode ser considerada uma nova forma de poluição: a “poluição azul”,\nque afeta a dinâmica de várias espécies.\n\nA cidade de Flagstaff, nos Estados Unidos, foi uma das pioneiras na resolução dessa questão. Embora sua iluminação\npública seja feita com lâmpadas de LED brancas, a cidade tomou medidas para impedir o brilho azulado. Conforme\nestudos de uma equipe de cientistas australianos, com a aplicação de um material, é possível alterar a transmissão\ndas frequências indesejadas, mantendo a intensidade total da lâmpada. As figuras do estudo indicam:\n\n•\t o espectro de emissão correspondente a uma lâmpada LED branca (A);\n•\t o espectro de emissão correspondente a uma lâmpada LED branca coberta com o material do estudo (B).\n\n![](https://enem.dev/2024-reaplicacao/questions/100/7733ca71-bde4-4d51-86b9-f1d9b93da864.png)\n\nDIMOVSKI, A. M.; ROBERT, K. A. Artificial Light Pollution: Shifiting Spectral Wavelengths to\n\nMitigate Physiological and Health Consequences in a Nocturnal Marsupial Mammal.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/100/7733ca71-bde4-4d51-86b9-f1d9b93da864.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse estudo, o material utilizado na cobertura",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflete a luz azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "difrata a luz azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "absorve a luz azul e emite luz amarelo-alaranjada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "absorve a luz azul e emite luz ultravioleta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "polariza a luz azul transmitida. J. Exp. Zool., n. 329, 2018 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

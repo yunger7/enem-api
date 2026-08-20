@@ -1,0 +1,43 @@
+{
+    "title": "Questão 80 - ENEM 2025",
+    "index": 80,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Cidade sustentável é o assentamento humano constituído\npor uma sociedade com consciência de seu papel de agente\ntransformador dos espaços e cuja relação não se dá pela razão\nnatureza-objeto, e sim por uma ação sinérgica entre prudência\necológica, eficiência energética e equidade socioespacial.\n\nROMERO, M. Frentes do urbano para a construção de indicadores de\n\nsustentabilidade intraurbana. Paranoá, n. 4, nov. 2007.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma medida pública que contradiz o modelo de cidade exposto no texto é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "coleta seletiva de lixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reutilização das águas pluviais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "canalização dos cursos hídricos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "arborização das avenidas centrais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "educação ambiental da comunidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

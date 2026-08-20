@@ -1,0 +1,45 @@
+{
+    "title": "Questão 98 - ENEM 2024",
+    "index": 98,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Apesar de os animais representados no cladograma\ncompartilharem um mesmo ancestral, eles se caracterizam\npor distintos padrões de reprodução ou de nutrição dos\nembriões e descendentes.\n\n![](https://enem.dev/2024/questions/98/7ab3a9dd-d297-4a81-a06d-e0886d7e2daf.png)\n\nDIXSON, A. F. Mammalian Sexuality: The Act of Mating and the\n\nEvolution of Reproduction. Disponível em: www.cambridge.org.\n\nAcesso em: 2 jul. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/98/7ab3a9dd-d297-4a81-a06d-e0886d7e2daf.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "aumento no número de descendentes por ninhada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mudança no tipo de fecundação de externa para interna.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "redução da versatilidade de reprodução, que se torna unicamente sexuada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "desenvolvimento embrionário, que passa do meio aquático para o terrestre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2019",
+    "index": 129,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O etanol é um combustível renovável obtido da\ncana-de-açúcar e é menos poluente do que os\ncombustíveis fósseis, como a gasolina e o diesel. O etanol\ntem densidade 0,8 g\n\ncm3 , massa molar 46 g\n\nmol e calor de\n\ncombustão aproximado de −1 300 kJ\n\nmol . Com o grande\naumento da frota de veículos, tem sido incentivada a\nprodução de carros bicombustíveis econômicos, que\nsão capazes de render até 20 km\n\nL em rodovias, para\n\ndiminuir a emissão de poluentes atmosféricos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor correspondente à energia consumida para que o motorista de um carro econômico, movido a álcool, percorra 400 km na condição de máximo rendimento é mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "565 MJ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "452 MJ.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "520 kJ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "390 kJ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "348 kJ.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

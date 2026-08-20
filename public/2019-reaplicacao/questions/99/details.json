@@ -1,0 +1,45 @@
+{
+    "title": "Questão 99 - ENEM 2019",
+    "index": 99,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A ação de uma nova droga antitumoral sobre o\ncitoesqueleto foi investigada. O pesquisador comparou\no efeito da droga na velocidade de deslocamento celular\ne na integridade de filamentos do córtex celular e de\nflagelos, conforme apresentado na figura.\n\n![](https://enem.dev/2019-reaplicacao/questions/99/d3246ce0-c0ae-4e6e-8da5-46d5f5b960f3.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/99/d3246ce0-c0ae-4e6e-8da5-46d5f5b960f3.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O pesquisador concluiu que a droga age sobre os",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "microtúbulos apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "filamentos de actina apenas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "filamentos intermediários apenas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "filamentos de actina e microtúbulos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "filamentos de actina e filamentos intermediários.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

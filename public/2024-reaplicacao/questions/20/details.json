@@ -1,0 +1,43 @@
+{
+    "title": "Questão 20 - ENEM 2024",
+    "index": 20,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Apesar de condenado, jargão\n\ncorporativo tem vida própria\n\nEncomendada por empresas de referência no mundo\ndigital, uma pesquisa feita com 8 000 pessoas de oito\npaíses — inclusive o Brasil — atesta a força do jargão\ncorporativo. A onipresença de um código cifrado em\nambientes de trabalho e o predomínio do inglês em\nseu vocabulário não surpreendem ninguém, mas o\nestudo flagrou aspectos menos óbvios do fenômeno que\ntransforma “rapidinho” em “asap” (as soon as possible).\n\nA maioria das pessoas expostas ao corporativês —\n57% na média dos oito países — acha que ele provoca\nperda de tempo, mal-entendidos e retrabalho no dia a dia.\nSó uma minoria não gostaria de eliminá-lo ou reduzi-lo.\nUm número ainda maior, 60%, queixou-se de falta de apoio\npara aprender a “língua da casa” após a contratação.\nJargão é assim: serve tanto para reforçar laços entre os\nque estão dentro do seu círculo de sentido quanto para\nbarrar os de fora. Cada um que se vire para entrar.\n\nDisponível em: www1.folha.uol.com.br.\n\nAcesso em: 6 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De acordo com esse texto, o jargão corporativo diz respeito a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "repertórios linguísticos nacionais usados no trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estrangeirismos adotados em pesquisas internacionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "termos cotidianos disseminados a partir do ambiente de trabalho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "expressões codificadas empregadas em um contexto social específico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "vocábulos desencadeadores de mal-entendidos na comunicação corriqueira.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

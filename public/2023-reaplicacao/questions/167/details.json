@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2023",
+    "index": 167,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um estudante de arquitetura projetou um prédio de\n32 m de altura a ser construído em uma maquete, em\npapel-cartão, na escala 1 : 50.\n\nNesse caso, na maquete, a altura do prédio mede",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,32 m. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,50 m. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,64 m. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,00 m. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,32 m.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

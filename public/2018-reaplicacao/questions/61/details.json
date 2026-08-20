@@ -1,0 +1,43 @@
+{
+    "title": "Questão 61 - ENEM 2018",
+    "index": 61,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "O justo e o bem são complementares no sentido de\nque uma concepção política deve apoiar-se em diferentes\nideias do bem. Na teoria da justiça como equidade, essa\ncondição se expressa pela prioridade do justo. Sob sua\nforma geral, esta quer dizer que as ideias aceitáveis do\nbem devem respeitar os limites da concepção política de\njustiça e nela desempenhar um certo papel.\n\nRAWLS, J. Justiça e democracia. São Paulo: Martins Fontes, 2000 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Segundo Rawls, a concepção de justiça legisla sobre ideias do bem, de forma que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as ações individuais são definidas como efeitos determinados por fatores naturais ou constrangimentos sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "o estudo da origem e da história dos valores morais concluem a inexistência de noções absolutas de bem e mal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o próprio estatuto do homem como centro do mundo é abalado, marcando o relativismo da época contemporânea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "as intenções e bens particulares que cada indivíduo almeja alcançar são regulados na sociedade por princípios equilibrados.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "o homem é compreendido como determinado e livre ao mesmo tempo, já que a liberdade limita-se a um conjunto de condições objetivas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

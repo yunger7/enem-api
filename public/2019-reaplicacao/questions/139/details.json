@@ -1,0 +1,50 @@
+{
+    "title": "Questão 139 - ENEM 2019",
+    "index": 139,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O dono de um salão de festas precisa decorar cinco\npilastras verticais cilíndricas idênticas, cujo raio da base\nmede 10 cm. O objetivo é revestir integralmente essas\npilastras com faixas de menor comprimento possível, de\nmodo que cada uma tenha seis faixas de cor preta e\ncinco faixas de cor branca, conforme ilustrado na figura.\n\n![](https://enem.dev/2019-reaplicacao/questions/139/28652d10-9283-42c4-9e60-0b6d933ee3b8.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/139/fad0e89b-74a8-4bc5-b066-56ac2f0c6da1.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/139/743377e4-7980-4978-9567-b8c16568a3ca.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/139/3d46aaf5-76d6-407b-b0f2-032963d8725f.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/139/17c1324a-e769-4661-b9dd-8cf35dd7b6c0.png)\n\n![](https://enem.dev/2019-reaplicacao/questions/139/7fe26cdd-797a-4462-afee-840d69465ea4.png)\n\nVista lateral\n\nda pilastra\n\nEle orçou as faixas em cinco lojas que as\ncomercializam na largura e nas cores desejadas,\nporém, em todas elas, só são vendidas peças inteiras.\nOs comprimentos e os respectivos preços das peças\ncomercializadas por loja estão apresentados no quadro.\n\nLoja\nComprimento da\n\nPreço da peça\n\npeça (em metro)\n\n(em real)\n\nI\n3\n11,00\n\nII\n7\n19,00\n\nIII\n10\n33,00\n\nIV\n14\n37,00\n\nV\n22\n61,00\n\nO dono do salão de festas decidiu efetuar a compra\nem uma única loja, optando por aquela em que a compra\nficaria mais barata.\n\nUtilize 3 como valor aproximado para π.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/139/28652d10-9283-42c4-9e60-0b6d933ee3b8.png",
+        "https://enem.dev/2019-reaplicacao/questions/139/fad0e89b-74a8-4bc5-b066-56ac2f0c6da1.png",
+        "https://enem.dev/2019-reaplicacao/questions/139/743377e4-7980-4978-9567-b8c16568a3ca.png",
+        "https://enem.dev/2019-reaplicacao/questions/139/3d46aaf5-76d6-407b-b0f2-032963d8725f.png",
+        "https://enem.dev/2019-reaplicacao/questions/139/17c1324a-e769-4661-b9dd-8cf35dd7b6c0.png",
+        "https://enem.dev/2019-reaplicacao/questions/139/7fe26cdd-797a-4462-afee-840d69465ea4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A loja na qual o dono do salão de festas deve comprar as peças necessárias para confeccionar as faixas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

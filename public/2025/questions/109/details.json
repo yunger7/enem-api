@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2025",
+    "index": 109,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O fruto do cajueiro é um aquênio repleto de um líquido\nescuro, quase preto, cáustico e inflamável. Esse líquido da\ncasca da castanha do caju (LCC) representa aproximadamente\n25% da massa da castanha e é um subproduto de agronegócio\ndo caju. Quando submetido a altas temperaturas, o ácido\nanacárdico presente no LCC é convertido a cardanol, que recebe\na denominação de LCC técnico, conforme o esquema:\n\n![](https://enem.dev/2025/questions/109/844e2fc3-0288-494c-8595-092e06366afe.png)\n\nMAZZETTO, S. E.; LOMONACO, D.; MELE, G. Óleo da castanha de caju:\n\noportunidades e desafios no contexto do desenvolvimento e\n\nsustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/109/844e2fc3-0288-494c-8595-092e06366afe.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O LCC técnico é produzido por meio de uma reação orgânica do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hidrólise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fenilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "esterificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hidrogenação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "descarboxilação.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2019",
+    "index": 131,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O gás hidrogênio é considerado um ótimo\ncombustível — o único produto da combustão\ndesse gás é o vapor de água, como mostrado na\nequação química.\n\n2 H2 (g) + O2 (g) → 2 H2O (g)\n\nUm cilindro contém 1 kg de hidrogênio e todo\nesse gás foi queimado. Nessa reação, são rompidas e\nformadas ligações químicas que envolvem as energias\nlistadas no quadro.\n\n( kJ\n\nmol)\n\nLigação química\nEnergia de ligação\n\nH−H\n437\n\nH−O\n463\n\nO=O\n494\n\nMassas molares ( g\n\nmol): H2 = 2; O2 = 32; H2O = 18.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a variação da entalpia, em quilojoule, da reação de combustão do hidrogênio contido no cilindro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "−242 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "−121 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "−2 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "+110 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "+234 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

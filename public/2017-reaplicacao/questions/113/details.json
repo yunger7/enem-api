@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2017",
+    "index": 113,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O heredograma mostra a incidência de uma anomalia\ngenética em um grupo familiar.\n\n1\n2\n3\n4\n\n5\n6\n7\n8\n9\n\n10\n11\n12\n13\n\nMulher com anomalia\n\nMulher sem anomalia\n\nHomem com anomalia\n\nHomem sem anomalia",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O indivíduo representado pelo número 10, preocupado em transmitir o alelo para a anomalia genética a seus filhos, calcula que a probabilidade de ele ser portador desse alelo é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "25%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "67%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "75%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

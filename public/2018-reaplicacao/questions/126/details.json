@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2018",
+    "index": 126,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Duas jarras idênticas foram pintadas, uma de branco e a outra de preto, e colocadas cheias de água na geladeira. No dia seguinte, com a água a 8 °C, foram retiradas da geladeira e foi medido o tempo decorrido para que a água, em cada uma delas, atingisse a temperatura ambiente. Em seguida, a água das duas jarras foi aquecida até 90 °C e novamente foi medido o tempo decorrido para que a água nas jarras atingisse a temperatura ambiente. Qual jarra demorou menos tempo para chegar à temperatura ambiente nessas duas situações?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A jarra preta demorou menos tempo nas duas situações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "A jarra branca demorou menos tempo nas duas situações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As jarras demoraram o mesmo tempo, já que são feitas do mesmo material.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A jarra preta demorou menos tempo na primeira situação e a branca, na segunda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A jarra branca demorou menos tempo na primeira situação e a preta, na segunda.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

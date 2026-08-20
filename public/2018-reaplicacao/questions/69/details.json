@@ -1,0 +1,43 @@
+{
+    "title": "Questão 69 - ENEM 2018",
+    "index": 69,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Existe uma concorrência global, forçando redefinições\nconstantes de produtos, processos, mercados e insumos\neconômicos, inclusive capital e informação.\n\nCASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 2011.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nos últimos anos do século XX, o sistema industrial experimentou muitas modificações na forma de produzir, que implicaram transformações em diferentes campos da vida social e econômica. A redefinição produtiva e seu respectivo impacto territorial ocorrem no uso da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "técnica fordista, com treinamento em altas tecnologias e difusão do capital pelo território.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "linha de montagem, com capacitação da mão de obra em países centrais e aumento das discrepâncias regionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "robotização, com melhorias nas condições de trabalho e remuneração em empresas no Sudeste asiático.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produção just in time, com territorialização das indústrias em países periféricos e manutenção das bases de gestão nos países centrais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "fabricação em grandes lotes, com transferências financeiras de países centrais para países periféricos e diminuição das diferenças territoriais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

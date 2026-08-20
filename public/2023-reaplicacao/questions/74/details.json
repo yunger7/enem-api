@@ -1,0 +1,43 @@
+{
+    "title": "Questão 74 - ENEM 2023",
+    "index": 74,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "É claramente impossível criar um mapa perfeito, no qual\na escala principal seja preservada em todos os pontos. É fácil,\nporém, manter a escala principal ao longo de certas linhas\nou pontos no mapa em que a escala seja constante e igual à\nescala principal, ocasionando uma distorção nula. Linhas de\ndistorção nula são linhas em uma projeção em que a escala\nprincipal é preservada. São caracterizadas pela tangência ou\nsecância da superfície terrestre com a superfície de projeção.\n\nMENEZES, P.; FERNANDES, M. Roteiro de cartografia.\n\nSão Paulo: Oficina de Textos, 2013 (adaptado).\nConforme o texto, a projeção que representará uma região\npróxima à Linha do Equador com a menor distorção da\nescala principal é:",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

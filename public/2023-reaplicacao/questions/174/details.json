@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2023",
+    "index": 174,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A proprietária de uma confecção pretende liquidar\nas camisas que possui em estoque, por meio de uma\npromoção na qual fará a venda de lotes com iguais\nquantidades de camisas. Para a 1ª semana, pretende\nanunciar a venda de cada lote de camisas por R$ 720,00.\nNa 2ª semana, para acelerar as vendas, planeja anunciar\na venda de lotes com 3 unidades a mais do que os lotes\nvendidos na primeira semana, ainda por R$ 720,00 cada\nlote, e de forma que o preço unitário de cada peça seja\nR$ 20,00 mais baixo do que o valor que teria sido cobrado\npor peça na 1ª semana de promoção.\n\nQuantas camisas deverão conter os lotes que serão\ncolocados à venda na 1ª semana para que seja possível\npraticar essa promoção?",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9 B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "12 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "33 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "105",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

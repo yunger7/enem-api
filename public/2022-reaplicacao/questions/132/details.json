@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2022",
+    "index": 132,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As figuras mostram dois experimentos. No primeiro,\nforam colocados em um frasco e agitados com uma\ncolher volumes iguais de mel, água, óleo e álcool etílico.\nApós alguns minutos, podia-se verificar que o sistema\ntinha duas fases (1). No segundo experimento, foram\ncolocados, lentamente e sem agitação, os mesmos\nvolumes de mel, água, óleo e álcool etílico. Pôde-se\nobservar que, dependendo da ordem de adição de\ncada componente, o sistema permaneceu com quatro\nfases (2).\n\n(1)\n(2)\n\nAs propriedades de líquidos e soluções que justificam os\nresultados obtidos nos experimentos 1 e 2 são",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "solubilidade e densidade. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "densidade e viscosidade. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "viscosidade e solubilidade. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "miscibilidade e viscosidade. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "solubilidade e miscibilidade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

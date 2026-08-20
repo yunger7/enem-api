@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2019",
+    "index": 149,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fiscal de certa empresa de ônibus registra o\ntempo, em minuto, que um motorista novato gasta\npara completar certo percurso. No Quadro 1 figuram\nos tempos gastos pelo motorista ao realizar o mesmo\npercurso sete vezes. O Quadro 2 apresenta uma\nclassificação para a variabilidade do tempo, segundo o\nvalor do desvio padrão.\n\nQuadro 1\n\nTempos\n(em minuto)\n48\n54\n50\n46\n44\n52\n49\n\nQuadro 2\n\nVariabilidade\nDesvio padrão do\n\ntempo (min)\n\nExtremamente baixa\n0 < σ ≤ 2\n\nBaixa\n2 < σ ≤ 4\n\nModerada\n4 < σ ≤ 6\n\nAlta\n6 < σ ≤ 8\n\nExtremamente alta\nσ > 8",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações apresentadas nos quadros, a variabilidade do tempo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "extremamente baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "baixa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "moderada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "alta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "extremamente alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

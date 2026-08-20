@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2019",
+    "index": 138,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma formiga encontra-se no ponto X, no lado externo de um copo que tem a forma de um cilindro reto. No\nlado interno, no ponto V, existe um grão de açúcar preso na parede do copo. A formiga segue o caminho XYZWV\n(sempre sobre a superfície lateral do copo), de tal forma que os trechos ZW e WV são realizados na superfície\ninterna do copo. O caminho XYZWV é mostrado na figura.\n\nW\nV\nX\n\nSabe-se que: os pontos X, V, W se encontram à mesma distância da borda; o trajeto WV é o mais curto possível;\nos trajetos XY e ZW são perpendiculares à borda do copo; e os pontos X e V se encontram diametralmente opostos.\n\nSupondo que o copo é de material recortável, realiza-se um corte pelo segmento unindo P a Q, perpendicular à\nborda do copo, e recorta-se também sua base, obtendo então uma figura plana. Desconsidere a espessura do copo.\n\nConsiderando apenas a planificação da superfície lateral do copo, a trajetória da formiga é",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "V W",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "E W V X V W",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "W V Z Y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Z Y W V X",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

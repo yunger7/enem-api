@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2024",
+    "index": 135,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O cágado-de-barbelas vive nas águas poluídas do Rio\nPreto, em São José do Rio Preto, interior de São Paulo.\nOs animais dessa espécie, usados em estudos de\necotoxicologia, são atraídos para esses locais por causa\ndo acúmulo de matéria orgânica nos pontos de despejo\nde esgoto, ambientes com grande quantidade de metais\ne baixíssimo teor de oxigênio.\n\nDisponível em: www.unesp.br. Acesso em: 4 nov. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nesse contexto, do ponto de vista ecológico, esses animais são considerados",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "bioindicadores.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "biorremediadores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "organismos invasores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "anaeróbios facultativos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "decompositores adaptados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

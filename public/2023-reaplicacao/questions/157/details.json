@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2023",
+    "index": 157,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A trajetória de um avião durante um voo entre duas\ncidades ocorre dentro de áreas de controle de tráfego.\nDurante um voo, é exigido que o avião sobrevoe pontos\nde controle situados no solo e demarcados entre a\norigem (O) e o destino (D) da aeronave. Assim, embora a\ntrajetória do avião ocorra num espaço tridimensional, para\no controlador de voo, a visualização representativa dessa\ntrajetória é dada por uma linha poligonal plana, em que\ntrês pontos de controle sucessivos, nas representações,\ndevem ser não colineares.\n\nDisponível em: www.kaspersky.com.br. Acesso em: 21 out. 2019 (adaptado).\nAs figuras apresentam algumas possibilidades dessas\nrepresentações, nas quais todos os pontos de controle\nestão representados.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

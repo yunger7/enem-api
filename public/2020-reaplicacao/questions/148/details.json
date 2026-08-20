@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2020",
+    "index": 148,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma dona de casa vai ao supermercado para comprar dois fardos de refrigerantes, contendo cada um deles seis\nunidades de 0,6 litro. Lá chegando, verificou não existirem fardos nem no formato e nem na capacidade desejados.\nDecidiu, então, comprar os refrigerantes em unidades avulsas, de mesma capacidade, de forma a obter, no mínimo,\na mesma quantidade de líquido desejada inicialmente, gastando o mínimo de dinheiro. As opções de embalagens e\nrespectivos preços existentes no supermercado são dados no quadro.\n\nEmbalagem (L)\n3\n2,5\n2\n1,5\n1\n\nCusto (R$)\n4,39\n3,69\n2,89\n2,19\n1,99",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a opção de embalagem, em litro, que proporcionará maior economia para essa dona de casa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,0 B \t 1,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2021",
+    "index": 166,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "\u0003\u000e\u0005\u001e\u0004\u0002 \b\r2\n\r\b\t\u0002 \u000b\f\n\u0002 %\b\u0007\r\u000e\u001e\u000e%\b\u0007\u001d\u0004\u0002 \u000f\n\u0002 \f\u0010\b\u0002 \u0010\b\u0007\b\r\u0004\u0005\b\u0002\ntreinam frequentemente. As distâncias percorridas por\n\n2\n\t\u0002\u0005\u0004\u0002K2\r\u000e\u0010\u0004\u0002\r\u0007\n\u000e\u0005\u0004\u0002\n\t\r\u001d\u0004\u0002\u0007\nJ\u000e\t\r\u0007\b\u000f\b\t$\u0002\n\u0010\u0002\u000b\f\u000e2w\u0010\n\r\u0007\u0004$\u0002\u0005\u0004\u0002\nquadro.\n\n42,8\n41,6\n41,8\n43,4\n43,4",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um sexto atleta, que também participará da maratona, pretende realizar um treino percorrendo uma distância igual à média das distâncias percorridas pelos cinco atletas no último treino por eles realizado. A distância, em quilômetro, que esse sexto atleta deverá percorrer em seu treino é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

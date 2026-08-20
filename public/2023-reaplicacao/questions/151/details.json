@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2023",
+    "index": 151,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No espaço, a falta de gravidade faz com que o\norganismo produza mais cálcio e, como o mineral não\né usado, o corpo o expele, fazendo com que os ossos\ndiminuam de tamanho. Um dos ossos que sofrem essa\nredução é o fêmur. O gráfico apresenta a evolução linear\ndo tamanho desse osso, ao longo de três meses, em um\nastronauta que, antes de ir para o espaço, tinha um fêmur\nde 50 cm.\n\n50\n49,5\n49\n48,5\n48\n47,5\n47\n46,5\n46\n0\n1\n2\n3\nTempo (mês)\n\nTamanho (cm)\n\n4\n5\n\nDUARTE, M. O guia dos curiosos. São Paulo: Panda Books, 2015 (adaptado).\n\nComo esse astronauta ficará cinco meses no espaço,\nconsidere que a tendência de sua evolução óssea,\nobservada nos três primeiros meses, mantenha-se a\nmesma ao longo dos próximos meses.\n\nO tamanho, em centímetro, do fêmur desse astronauta,\nao completar quatro meses no espaço, será",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "44,8. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "46,0. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "46,8. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "47,0. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "47,8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

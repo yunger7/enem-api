@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2021",
+    "index": 104,
+    "year": 2021,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns\nrecipientes\nde\ncozinha\napresentam\ncondutividade térmica apropriada para acondicionar e\nservir alimentos. Assim, os alimentos acondicionados\npodem manter a temperatura, após o preparo, por um\ntempo maior. O quadro contém a condutividade térmica (k)\n\u000f\n\u0002 \u000f\u000eP\n\u0007\n\u0005\r\n\t\u0002 \u0010\b\r\n\u0007\u000e\b\u000e\t\u0002 \f\r\u000e2\u000e\b\u000f\u0004\t\u0002 \u0005\b\u0002 %\u0007\u0004\u000f\f'\u001d\u0004\u0002 \u000f\n\n\t\u0002\nrecipientes.\n\nCondutividade térmica de materiais\n\nMaterial\n\u0002\u0002\u001e\b2+\u0002\u0010 \u0005C)\n\nI\n Cobre\n332,0\n\nII\n Alumínio\n 175,0\n\nIII\n Ferro\n 40,0\n\nIV\n Vidro\n 0,65\n\nV\n Cerâmica\n 0,40",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando recipientes de mesma espessura, qual o material recomendado para manter o alimento aquecido por um maior intervalo de tempo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

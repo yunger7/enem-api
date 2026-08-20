@@ -1,0 +1,45 @@
+{
+    "title": "Questão 166 - ENEM 2024",
+    "index": 166,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A transformação entre os tipos de energia cinética\n(Ec) e energia potencial (Ep), em sistemas conservativos,\né regida pela lei que afirma que a energia mecânica, dada\npela soma Ec + Ep, é constante ao longo do tempo. Assuma\nque, em um sistema conservativo, a energia mecânica é de\n12 kJ (quilojoule), sendo observado que a energia cinética\nEc (em quilojoule), dada em função do tempo t (em hora),\napresentou o comportamento descrito no gráfico.\n\n![](https://enem.dev/2024-reaplicacao/questions/166/b1d53dd7-b89e-47ee-9a73-ad4ffcea803a.png)\n\nPretende-se avaliar, no período de 0 a 8 horas, qual é o\nmaior valor possível de ser atingido pela energia potencial\nEp nesse sistema conservativo.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/166/b1d53dd7-b89e-47ee-9a73-ad4ffcea803a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor máximo da energia potencial, em quilojoule, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

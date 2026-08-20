@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2017",
+    "index": 144,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma indústria tem um setor totalmente automatizado.\nSão quatro máquinas iguais, que trabalham simultânea\ne ininterruptamente durante uma jornada de 6 horas.\nApós esse período, as máquinas são desligadas por\n30 minutos para manutenção. Se alguma máquina\nprecisar de mais manutenção, ficará parada até a próxima\nmanutenção.\n\nCerto dia, era necessário que as quatro máquinas\nproduzissem um total de 9 000 itens. O trabalho\ncomeçou a ser feito às 8 horas. Durante uma jornada de\n6 horas, produziram 6 000 itens, mas na manutenção\nobservou-se que uma máquina precisava ficar parada.\nQuando o serviço foi finalizado, as três máquinas\nque continuaram operando passaram por uma nova\nmanutenção, chamada manutenção de esgotamento.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em que horário começou a manutenção de esgotamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "16 h 45 min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18 h 30 min",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "19 h 50 min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "21 h 15 min",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "22 h 30 min",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

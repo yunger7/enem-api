@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2017",
+    "index": 138,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Nas\ninformações\nveiculadas\nnos\nórgãos\nde\ncomunicação quando da ocorrência de um terremoto,\nfaz-se referência à magnitude (M), que se refere a\nquantos graus o fenômeno atingiu na escala Richter.\nEssa medida quantifica a energia liberada no epicentro\ndo terremoto, e em seu cálculo utilizam-se como\nparâmetros as medidas da amplitude sísmica (A),\nem micrômetro, e da frequência (f), em hertz. Esses\nparâmetros são medidos por aparelhos especiais\nchamados sismógrafos, e relacionam-se segundo a\nfunção M = log (A × ƒ) + 3,3. Pela magnitude do terremoto\nna escala Richter, pode-se estimar seus efeitos de acordo\ncom o quadro, onde não estão considerados terremotos\nde magnitudes superiores a 7,9.\n\nMagnitude\n\nEfeitos do terremoto segundo\n\n(Grau)\n\na escala Ricther\n\nM ≤ 3,5\nRegistrado (pelos aparelhos), mas não\nperceptível pelas pessoas.\n\n3,5 < M ≤ 5,4 Percebido, com pequenos tremores\nnotados pelas pessoas.\n\n5,4 < M ≤ 6,0\nDestrutivo,\ncom\nconsequências\nsignificativas em edificações pouco\nestruturadas.\n\n6,0 < M ≤ 6,9\nDestrutivo,\ncom\nconsequências\nsignificativas\npara\ntodo\ntipo\nde\nedificação.\n\nDestrutivo, retiram os edifícios de suas\nfundações, causam fendas no solo e\ndanificam as tubulações contidas no\nsubsolo.\n\n6,9 < M ≤ 7,9\n\nUm terremoto teve sua amplitude e frequências\nmedidas e obteve-se A = 1 000 micrômetros e ƒ = 0,2 hertz.\n\nUse −0,7 como aproximação para log (0,2).\n\nDisponível em: www.mundoeducacao.com.br. Acesso em: 11 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando o quadro apresentado, e analisando o resultado da expressão que fornece a magnitude desse terremoto, conclui-se que ele foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "registrado, mas não percebido pelas pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "percebido, com pequenos tremores notados pelas pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destrutivo, com consequências significativas em edificações pouco estruturadas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "destrutivo, com consequências significativas para todo tipo de edificação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "destrutivo, com consequências nas fundações dos edifícios, fendas no solo e tubulações no subsolo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

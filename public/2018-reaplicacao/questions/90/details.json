@@ -1,0 +1,43 @@
+{
+    "title": "Questão 90 - ENEM 2018",
+    "index": 90,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Quando analisamos nossos pensamentos ou ideias,\npor mais complexos e sublimes que sejam, sempre\ndescobrimos que se resolvem em ideias simples que\nsão cópias de uma sensação ou sentimento anterior.\nMesmo as ideias que, à primeira vista, parecem mais\nafastadas dessa origem mostram, a um exame mais\natento, ser derivadas dela.\n\nHUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1973.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Depreende-se deste excerto da obra de Hume que o conhecimento tem a sua gênese na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "convicção inata.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "dimensão apriorística.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "elaboração do intelecto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "percepção dos sentidos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "realidade trascendental.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

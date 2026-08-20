@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2023",
+    "index": 166,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Restaurantes geralmente se deparam com o problema\nde definir a quantidade de alimentos a serem preparados\npara cada dia. Diante desse problema, o gerente de\num restaurante anotou as quantidades de clientes que\nalmoçaram em seu restaurante durante os 10 primeiros\ndias do mês e registrou esses dados, obtendo este gráfico:\n\nQuantidade de clientes nos\n\n10 primeiros dias do mês\n\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n\nQuantidade de clientes\n\n100\n100\n\n80\n90\n94\n94\n92\n94\n\n80\n86\n\n7\n8\n9\n10\n\nEle considerou a moda da distribuição das quantidades\nde clientes que almoçaram em seu restaurante nesses\n10 primeiros dias do mês como uma boa medida para\ndimensionar a quantidade de alimentos a serem preparados\ndiariamente.\n\nO valor da moda dessa distribuição é",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "91. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "93. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "94. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "97.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

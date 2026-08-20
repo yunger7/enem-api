@@ -1,0 +1,45 @@
+{
+    "title": "Questão 145 - ENEM 2025",
+    "index": 145,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Pesquisas na área de neurobiologia confirmam que a prática\nmeditativa é responsável por diminuir consideravelmente\na frequência respiratória para praticantes avançados, que,\napós iniciarem a meditação, têm suas frequências respiratórias\nreduzidas até se estabilizarem em um nível mais baixo. O gráfico\napresenta a relação da frequência respiratória, em incursões de\nrespirações por minuto (rpm), em relação ao tempo, em minuto,\nde um praticante avançado, em que (f1) representa a frequência\nno instante t1, no qual se inicia a prática meditativa; e (f2), a\nfrequência no instante t2, a partir do qual esta se estabiliza\ndurante a meditação.\n\n![](https://enem.dev/2025/questions/145/c1bc0c83-f212-42ff-91f5-e4683d6804ca.png)\n\nDisponível em: www.redepsi.com.br. Acesso em: 3 dez. 2018 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/145/c1bc0c83-f212-42ff-91f5-e4683d6804ca.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A partir do instante t1, em que se inicia a prática meditativa, o comportamento da frequência respiratória, em relação ao tempo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mantém-se constante.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "é diretamente proporcional ao tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "é inversamente proporcional ao tempo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "diminui até o instante t2, a partir do qual se torna constante.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "diminui de forma proporcional ao tempo, tanto entre t1 e t2 quanto após t2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

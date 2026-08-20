@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2018",
+    "index": 175,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Ao acessar uma página da internet, que trata da\npesquisa de assuntos de interesse juvenil, encontramos\na figura:\n\nMANGÁS\nFÉ\nLIVROS MÚSICA\n\nESCOLA\nAMIZADE\nPAZ\nAMOR\n\nDANÇA\nNOVELAS\n\nTEATRO CINEMA\nRELIGIÃO\nTRABALHO\n\nPOLÍTICA FAMÍLIA LIBERDADESEXO\nBALADASHQ",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Sabe-se que nesse tipo de comunicação visual, comum em páginas da internet, o tamanho das letras está diretamente associado ao número de vezes que o assunto ou termo foi pesquisado ou lido naquela página. Dessa forma, quanto maior o tamanho das letras de cada palavra, maior será o número de vezes que esse tema foi pesquisado. De acordo com a figura, quais são, em ordem decrescente, os três assuntos que mais interessaram às pessoas que acessaram a página citada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "HQ, FÉ, PAZ.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "MANGÁS, FÉ, LIVROS.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "MÚSICA, BALADAS, AMOR.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "AMOR, MÚSICA, BALADAS.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "AMOR, BALADAS, MÚSICA.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

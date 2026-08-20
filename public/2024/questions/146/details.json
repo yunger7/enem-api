@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2024",
+    "index": 146,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fazendeiro pretende construir um galinheiro\nocupando uma região plana de formato retangular, com\nlados de comprimentos L metro e C metro. Os lados serão\ncercados por telas de tipos diferentes. Nos lados de\ncomprimento L metro, será utilizada uma tela cujo metro\nlinear custa R$ 20,00, enquanto, nos outros dois lados,\numa que custa R$ 15,00. O fazendeiro quer gastar, no\nmáximo, R$ 6 000,00 na compra de toda a tela necessária\npara o galinheiro, e deseja que o galinheiro tenha a maior\nárea possível.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual será a medida, em metro, do maior lado do galinheiro?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "85",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "100",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "175",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "200",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "350",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

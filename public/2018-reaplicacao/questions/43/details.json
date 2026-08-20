@@ -1,0 +1,43 @@
+{
+    "title": "Questão 43 - ENEM 2018",
+    "index": 43,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "O processo de leitura da informação vinda do\ncompanheiro e do adversário é fundamental nos\nesportes coletivos. O participante de modalidades com\nessas características deverá, a todo momento, ler e\ninterpretar as informações gestuais de seu companheiro\ne adversário que, por outra via, também é portador\nde informações. Estas deverão ser claras e legíveis\npara seu companheiro e totalmente obscuras para o\nadversário. Na interpretação praxiológica, seria aquele\njogador que consegue ler as informações do adversário e\nposicionar-se da melhor forma possível, antecipando-se a\nseus adversários e ocupando os melhores espaços.\n\nRIBAS, J. F. M. Praxiologia motriz: construção de um novo olhar dos esportes e jogos na",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "escola. Motriz, n. 2, 2005 (adaptado). De acordo com a ideia de processamento de informação nas modalidades esportivas coletivas, para ser bem-sucedido em suas ações no jogo, o jogador deve",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "identificar as informações produzidas por todos os jogadores, posicionando-se de forma fixa no espaço de jogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "refletir sobre as informações fornecidas por todos os jogadores e executar os gestos técnicos com precisão no jogo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "analisar as informações dos adversários e, com base nelas, realizar individualmente suas ações, com o fim de tirar vantagem tática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "fornecer informações precisas para os adversários e interpretar as dos companheiros, para facilitar sua tomada de decisão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "interpretar informações de companheiros e adversários, agindo objetivamente com os primeiros e imprecisamente com os adversários.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

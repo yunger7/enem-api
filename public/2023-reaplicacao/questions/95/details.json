@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2023",
+    "index": 95,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um carro sedã apresenta tipicamente 200 kg de\nalumínio distribuídos pelo chassi, motor e cabine.\nUma amostra de bauxita, principal fonte natural do metal,\né composta por 50% em massa de óxido de alumínio\n(Al2O3). Considere a massa molar do alumínio (Al) igual\na 27 g mol−1 e a do oxigênio (O) igual a 16 g mol−1.\n\nA massa de bauxita que deve ser empregada para produzir\no alumínio usado na fabricação de um carro desse modelo\né mais próxima de",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "378 kg. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "400 kg. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "637 kg. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "756 kg. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 512 kg.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

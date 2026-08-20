@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2018",
+    "index": 101,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Alguns modelos mais modernos de fones de ouvido\ncontam com uma fonte de energia elétrica para poderem\nfuncionar. Esses novos fones têm um recurso, denominado\n“Cancelador de Ruídos Ativo”, constituído de um circuito\neletrônico que gera um sinal sonoro semelhante ao\nsinal externo de frequência fixa. No entanto, para que o\ncancelamento seja realizado, o sinal sonoro produzido\npelo\ncircuito\nprecisa\napresentar\nsimultaneamente\ncaracterísticas específicas bem determinadas.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quais são as características do sinal gerado pelo circuito desse tipo de fone de ouvido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Sinal com mesma amplitude, mesma frequência e diferença de fase igual a 90° em relação ao sinal externo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Sinal com mesma amplitude, mesma frequência e diferença de fase igual a 180° em relação ao sinal externo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Sinal com mesma amplitude, mesma frequência e diferença de fase igual a 45° em relação ao sinal externo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Sinal de amplitude maior, mesma frequência e diferença de fase igual a 90° em relação ao sinal externo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sinal com mesma amplitude, mesma frequência e mesma fase do sinal externo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

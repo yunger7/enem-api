@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2022",
+    "index": 124,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma prática que os brasileiros costumam realizar é\na degustação de doces em compotas. O conhecimento\npopular indica que não é aceitável deixar o mesmo\ntalher usado na degustação e levado à boca dentro\nda compoteira aberta, em contato com o doce. Essa\nindicação se deve ao fato de que o doce, no pensamento\npopular, poderá azedar.\n\nEssa prática popular encontra respaldo no pensamento\ncientífico, uma vez que o doce realmente poderá azedar\nem razão da",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "oxidação do doce pelo contato com o ar. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "contaminação por microrganismos, que irão fermentá-lo. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "ação das enzimas salivares que foram transferidas para o doce após a degustação. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "evaporação dos conservantes que mantêm a solução da compota em equilíbrio químico. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "degradação dos componentes doces da compota em reação com compostos químicos do talher.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

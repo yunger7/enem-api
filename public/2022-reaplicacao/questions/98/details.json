@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2022",
+    "index": 98,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma ferramenta biotecnológica para identificação\nde cadáveres é a análise de seu DNA mitocondrial e a\ncomparação com o DNA mitocondrial de pessoas de uma\nfamília que esteja reivindicando o corpo. Sabe-se que a\nherança mitocondrial é materna.\n\nEstão disponíveis os seguintes membros de uma\nfamília que poderiam doar material para a confirmação\nda identidade de um cadáver por meio da análise de DNA\nmitocondrial:\n\n1. a sobrinha, filha de um irmão;\n\n2. a tia, irmã de seu pai;\n\n3. o primo, filho da irmã de sua mãe;\n\n4. o avô materno;\n\n5. a prima, filha do irmão de sua mãe.\n\nSYKES, B. As sete filhas de Eva: a ciência que revela nossa herança genética.\n\nRio de Janeiro: Record, 2003 (adaptado).\n\nA confirmação da identidade do cadáver será possível\ncom a utilização do DNA mitocondrial do(a)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sobrinha. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tia. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "primo. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "avô. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "prima. CN - 2° dia | Caderno 7 - AZUL - 2ª Aplicação 3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

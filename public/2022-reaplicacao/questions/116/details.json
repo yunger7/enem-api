@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2022",
+    "index": 116,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um sistema hipotético mantido sob iluminação,\nestão presentes uma célula autotrófica e uma célula\nheterotrófica. A esse sistema são fornecidos água, glicose\ne gás oxigênio, sendo esse último na forma de 18O2.\n\nAo final de um período de 24 horas, a análise dos\ncompostos presentes nesse sistema permitirá a detecção\ndo isótopo no(a)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água produzida na respiração. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "piruvato produzido na glicólise. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "etanol produzido na fermentação. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "glicose produzida na fotossíntese. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gás carbônico produzido no ciclo de Krebs.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

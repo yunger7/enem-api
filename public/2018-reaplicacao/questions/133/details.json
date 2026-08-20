@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2018",
+    "index": 133,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As soluções de hipoclorito de sódio têm ampla\naplicação como desinfetantes e alvejantes. Em uma\nempresa de limpeza, o responsável pela área de compras\ndeve decidir entre dois fornecedores que têm produtos\nsimilares, mas com diferentes teores de cloro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Um dos fornecedores vende baldes de 10 kg de produto granulado, contendo 65% de cloro ativo, a um custo de R$ 65,00. Outro fornecedor oferece, a um custo de R$ 20,00, bombonas de 50 kg de produto líquido contendo 10% de cloro ativo. Considerando apenas o quesito preço por kg de cloro ativo e desprezando outras variáveis, para cada bombona de 50 kg haverá uma economia de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 4,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 6,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R$ 10,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 30,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "R$ 45,00.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

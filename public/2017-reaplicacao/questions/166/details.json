@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2017",
+    "index": 166,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No próximo fim de semana, uma pessoa receberá\nvisitas em sua casa, precisando, portanto, comprar\nrefrigerante. Para isso, ela fez a pesquisa de preços em\ndois supermercados e montou esta tabela.\n\nVolume da\ngarrafa PET\n\nPreço no\nSupermercado A\n\nPreço no\nSupermercado B\n\n(L)\n\n(R$)\n\n(R$)\n\n0,5\n2,10\n2,00\n\n1,5\n2,70\n3,00\n\n2,0\n4,20\n3,20\n\n2,5\n6,00\n4,70\n\n3,0\n6,90\n5,00\n\nEla pretende comprar apenas garrafas que tenham a\nmesma capacidade.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Independentemente de em qual supermercado essa pessoa fará a compra, a fim de ter o menor custo, ela deverá adquirir garrafas com que capacidade?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "500 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,5 L",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,0 L",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2,5 L",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,0 L",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

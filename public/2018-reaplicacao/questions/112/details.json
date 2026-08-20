@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2018",
+    "index": 112,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na hidrogenação parcial de óleos vegetais, efetuada pelas indústrias alimentícias, ocorrem processos paralelos\nque conduzem à conversão das gorduras cis em trans. Diversos estudos têm sugerido uma relação direta entre os\nácidos graxos trans e o aumento do risco de doenças vasculares.\n\nRIBEIRO, A. P. B. et al. Interesterificação química: alternativa para obtenção de gorduras zero e trans. Química Nova, n. 5, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual tipo de reação química a indústria alimentícia deve evitar para minimizar a obtenção desses subprodutos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Adição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ácido-base.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Substituição.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Oxirredução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Isomerização. 230 90Th é: Disponível em: http://revistapesquisa.fapesp.br. Acesso em: 24 mar. 2014 (adaptado).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

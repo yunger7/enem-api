@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2022",
+    "index": 169,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUma indústria de sucos utiliza uma embalagem no\nformato de prisma reto de base quadrada, com aresta da\nbase de medida a e altura de medida h, ambas de mesma\nunidade de medida, como representado na figura.\n\nh\n\na\n\na\n\nDeseja-se criar uma linha de produção para\numa nova embalagem de igual formato, mas que\ndeverá ter uma capacidade igual ao triplo da atual.\n\nA altura da nova embalagem será igual a 4\n\n3 da altura\n\nda embalagem atual. As arestas da base da nova\nembalagem serão denominadas de x.\nQual a relação de dependência entre a medida x da\nnova aresta da base e a medida a da aresta atual?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "x = a B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "x = 3a C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "x = 9a D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "x = 3 2 a E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "x = a 3 28 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

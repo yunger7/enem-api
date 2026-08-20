@@ -1,0 +1,43 @@
+{
+    "title": "Questão 29 - ENEM 2024",
+    "index": 29,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Uma carta para Freud\n\nCaro Freud,\n\nResolvi lhe escrever uma carta porque o senhor\nanda muito ocupado e eu demoro demais para me fazer\ncompreender verbalmente. Aqui, nesta carta, acho que\nconsigo ser franco e direto.\n\nHoje resolvi aplicar alguns de seus conselhos. E outros\ndo Facebook. O senhor mencionou que eu precisava\nencontrar prazer no meu trabalho. Pois bem, resolvi\nespalhar chocolate em todas as mesas, pias, balcões e\naté no banheiro.\n\nRomanticamente, a história é mais complicada. Sempre\nque nos encontramos, o senhor pergunta: “E as namoradas,\ncomo vão?”. Realmente, doutor Freud, nunca entendi o\nporquê do plural. Mas já que tocamos no assunto, acho\nque precisarei de um pouco mais do que chocolate para\nresolver este problema.\n\nO senhor disse que o segredo do sucesso é fazer as\nmulheres rirem. Mas rir de mim também conta?\n\nO senhor também mencionou que eu não poderia\ndeixar as garotas me encararem como amigo, não foi?\n“Mulheres nunca se apaixonam por amigos”. Tentei aplicar\neste conselho.\n\nAh, meu amigo Sigmund. A vida não é nada fácil. Pela\nexpressão fechada em seu rosto, o senhor deve me entender.\nPodíamos sair para tomar uma cerveja. Ver luzes, ouvir\npessoas, essas coisas. Acho que lhe faria bem, também.\n\nMARTINZ, J. Disponível em: https://corrosiva.com.br.\n\nAcesso em: 24 out. 2021.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O trecho que faz referência ao vocativo inicial da carta “Caro Freud” é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "“me fazer compreender verbalmente”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "“resolvi espalhar chocolate em todas as mesas”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "“Romanticamente, a história é mais complicada.”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "“Mas rir de mim também conta?”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "“Pela expressão fechada em seu rosto”.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

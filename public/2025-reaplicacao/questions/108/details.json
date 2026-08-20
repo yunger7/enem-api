@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2025",
+    "index": 108,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Brasil produz em média 30 bilhões de litros de etanol\npor ano. Para cada litro de álcool produzido, são gerados,\naproximadamente, 10 litros de vinhaça, resíduo rico em sais\nminerais e em matéria orgânica. Esse resíduo pode ser utilizado\npara a produção do óleo de microalgas para fabricação de\nbiodiesel. A cada mil litros de vinhaça, são produzidos cerca\nde 2,8 L de óleo, prontos para produzir biodiesel. A proporção\nentre a massa do óleo consumida e a do biodiesel produzida é\npraticamente 1 : 1. Considere a densidade do óleo igual a 0,9 kg/L.\n\nDisponível em: https://revistapesquisa.fapesp.br.\n\nAcesso em: 2 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Se toda a vinhaça produzida anualmente no Brasil fosse utilizada na produção de biodiesel, a massa obtida seria mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

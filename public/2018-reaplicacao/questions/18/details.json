@@ -1,0 +1,43 @@
+{
+    "title": "Questão 18 - ENEM 2018",
+    "index": 18,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Não há dúvidas de que, nos últimos tempos, em\nfunção da velocidade, do volume e da variedade\nda geração de informações, questões referentes à\ndisseminação, ao armazenamento e ao acesso de\ndados têm se tornado complexas, de modo a desafiar\nhomens e máquinas. Por meio de sistemas financeiros,\nde transporte, de segurança e de comunicação\ninterpessoal – representados pelos mais variados\ndispositivos, de cartões de crédito a trens, aviões,\npassaportes e telefones celulares –, circulam fluxos\ninformacionais que carregam o DNA da vida cotidiana\ndo indivíduo contemporâneo. Para além do referido\ncenário informacional contemporâneo, percebe-se, nos\ncontextos governamentais, um esforço – gerado por leis\ne decretos, ou mesmo por pressões democráticas – em\ndisseminar informações de interesse público. No Brasil,\nestá em vigor, desde maio de 2012, a Lei de Acesso à\nInformação n. 12.527. Em linhas gerais, a legislação\nregulamenta o direito à informação, já garantido na\nConstituição Federal, obrigando órgãos públicos a\ndivulgarem os seus dados.\n\nSILVA JR., M. G. Vigiar, punir e viver. Minas faz Ciência, n. 58, 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As Tecnologias de Informação e Comunicação propiciam à sociedade contemporânea o acesso à grande quantidade de dados públicos e privados. De acordo com o texto, essa nova realidade promove",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "questionamento sobre a privacidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "mecanismos de vigilância de pessoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "disseminação de informações individuais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "interferência da legislação no uso dos dados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "transparência na relação entre governo e cidadãos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

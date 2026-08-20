@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2019",
+    "index": 105,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O nitrogênio é essencial aos seres vivos e pode\nser adquirido pelas plantas, através da absorção pelas\nraízes, e pelos animais, através da alimentação. Sua\nutilização na agricultura de forma inadequada tem\naumentado sua concentração no ambiente, e o excesso,\nque é transportado para os cursos-d’água, tem causado\na eutrofização. Contudo, tal dano ambiental pode ser\nminimizado pela adoção de práticas sustentáveis, que\naprisionam esse elemento no solo, impedindo seu\nescoamento para rios e lagos.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O método sustentável visando a incorporação desse elemento na produção, prevenindo tal dano ambiental, é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "adição de minhocas na terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "irrigação da terra antes do plantio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reaproveitamento do esterco fresco.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "descanso do solo sem adição de culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fixação biológica nas raízes por bactérias.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

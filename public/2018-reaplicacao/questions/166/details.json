@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2018",
+    "index": 166,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A figura a seguir representa parte da planta de um\nloteamento, em que foi usada a escala 1 : 1 000. No\ncentro da planta uma área circular, com diâmetro de\n8 cm, foi destinada para a construção de uma praça.\n\n8 cm",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O diâmetro real dessa praça, em metro, é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 250",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "800",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "125",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "80",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

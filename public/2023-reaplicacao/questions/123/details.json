@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2023",
+    "index": 123,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O esquema representa a etapa fotoquímica da fotossíntese. As moléculas de clorofila e os pigmentos acessórios\nque compõem os fotossistemas I e II são excitados pela radiação luminosa. A energia dessa excitação retira elétrons das\nmoléculas de clorofila a P680, no Fotossistema II, e de clorofila a P700, no Fotossistema I. Esses elétrons são responsáveis\npelo mecanismo de fosforilação do ADP formando ATP e pela redução do NADP + em NADPH.\n\nEnergia\n\nFotossistema II\n\nFeO\n\nQa\n\nComplexo\n\nde\ncitocromo\n\nADP + Pi\nATP\n\nComplexo\n\nhν\n\nprodutor\nde oxigênio\n\nO2 + H+\nH2O\n\nO agente redutor primário responsável pela reposição dos elétrons perdidos no Fotossistema II é o(a)",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "complexo Fotossistema I. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "complexo de citocromo. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "molécula de água. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "molécula de ADP. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "radiação solar.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

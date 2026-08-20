@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2019",
+    "index": 163,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa especializou-se no aluguel de\ncontêineres que são utilizados como unidades comerciais\nmóveis. O modelo padrão alugado pela empresa tem\naltura de 2,4 m e as outras duas dimensões (largura e\ncomprimento), 3,0 m e 7,0 m, respectivamente.\n\n2,4 m\n\n3,0 m\n7,0 m\n\nUm cliente solicitou um contêiner com altura padrão,\nporém, com largura 40% maior e comprimento 20%\nmenor que as correspondentes medidas do modelo\npadrão. Para atender às necessidades de mercado, a\nempresa também disponibiliza um estoque de outros\nmodelos de contêineres, conforme o quadro.\n\nModelos com\naltura de 2,4 m\n\nLargura\n(em metro)\n\nComprimento\n\n(em metro)\n\nI\n4,2\n8,4\n\nII\n4,2\n5,6\n\nIII\n4,2\n5,8\n\nIV\n5,0\n5,6\n\nV\n5,0\n8,4",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Dos modelos disponíveis, qual atende às necessidades do cliente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

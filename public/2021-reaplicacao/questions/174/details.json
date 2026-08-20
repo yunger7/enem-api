@@ -1,0 +1,43 @@
+{
+    "title": "Questão 174 - ENEM 2021",
+    "index": 174,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considere que o modelo matemático utilizado no estudo da velocidade V$\u0002\u000f \u0002 \u0010\b\u0002%\b\u0007 G 2\b\u0002\u000f \u0002 \u0010\u0002~ \u000e\u000f\u0004\u0002 escoando em um tubo, seja diretamente proporcional à diferença dos quadrados do raio R\u0002\u000f\b\u0002 ' \u0004\u0002 \u0007\b\u0005 # \u0007 \b2\u0002 do tubo e da distância x\u0002\u000f\b\u0002%\b\u0007 G 2\b\u0002\b\u0004\u0002 \u0005 \u0007\u0004\u0002\u000f\b\u0002 ' \u0004\u0002 que a contém. Isto é, V(x) \u0003 2( 2 \u0007 2), em que K é uma constante positiva. O valor de x$\u0002 \u0010\u0002P \u0005' \u0004\u0002\u000f \u0002R, para que a velocidade de escoamento de uma partícula seja máxima é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

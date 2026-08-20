@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2022",
+    "index": 118,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No circuito elétrico, estão associadas quatro\nlâmpadas elétricas idênticas A, B, C e D. Considere a\nfonte de tensão (V) ideal.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A B",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "as lâmpadas B e D apagam-se, e C permanece acesa com o mesmo brilho. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "a lâmpada B apaga-se, a C permanece acesa com mesmo brilho e D permanece apagada. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "+ − Comparando-se o brilho das lâmpadas, se a lâmpada A queimar, de modo que não possa conduzir corrente elétrica, observa-se que A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "as lâmpadas C e D permanecem acesas com o mesmo brilho e B permanece acesa com maior brilho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

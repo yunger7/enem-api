@@ -1,0 +1,50 @@
+{
+    "title": "Questão 161 - ENEM 2024",
+    "index": 161,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na\nsua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n\n![](https://enem.dev/2024/questions/161/41669f90-b220-4298-bdf4-b8340d4913ca.png)\n\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três\nretângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido\npor uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias\n12 horas para finalizar o seu enchimento.",
+    "files": [
+        "https://enem.dev/2024/questions/161/41669f90-b220-4298-bdf4-b8340d4913ca.png",
+        "https://enem.dev/2024/questions/161/9647de9c-4b03-407d-8409-2ba10a41b0d6.png",
+        "https://enem.dev/2024/questions/161/1d1cee68-ea49-470b-bdab-f02925b48982.png",
+        "https://enem.dev/2024/questions/161/d56089fb-70d6-4aed-a4b3-86f18d07cdbf.png",
+        "https://enem.dev/2024/questions/161/7b85a595-675f-4135-8102-0d992bd03923.png",
+        "https://enem.dev/2024/questions/161/403adc80-d6fb-4fb1-8252-1de785a83930.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/161/9647de9c-4b03-407d-8409-2ba10a41b0d6.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/161/1d1cee68-ea49-470b-bdab-f02925b48982.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/161/d56089fb-70d6-4aed-a4b3-86f18d07cdbf.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/161/7b85a595-675f-4135-8102-0d992bd03923.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/161/403adc80-d6fb-4fb1-8252-1de785a83930.png",
+            "isCorrect": false
+        }
+    ]
+}

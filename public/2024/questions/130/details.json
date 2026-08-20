@@ -1,0 +1,45 @@
+{
+    "title": "Questão 130 - ENEM 2024",
+    "index": 130,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O diagrama P-V a seguir representa o ciclo de Otto\npara um motor de combustão interna, como os motores a\ngasolina ou a etanol, utilizados nos automóveis.\n\n![](https://enem.dev/2024/questions/130/4ec04223-b8f2-4db3-81e1-e176a79c9227.png)\n\nAs etapas representadas no diagrama estão descritas\nno quadro.\n\nEtapa Processo\nDescrição\n\nI\n0 a 1\nAdmissão isobárica da mistura\nar-combustível no cilindro do motor.\n\nII\n1 a 2\nCompressão adiabática da mistura.\n\nIII\n2 a 3\nIntrodução de energia na forma\n\nde calor da combustão.\n\nIV\n3 a 4\nExpansão adiabática.\n\nV\n4 a 1\nLiberação de energia\n\nna forma de calor.\n\nVI\n1 a 0\nLiberação dos gases\nresultantes da combustão.\n\nDisponível em: www.mspc.eng.br.\nAcesso em: 24 fev. 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/130/4ec04223-b8f2-4db3-81e1-e176a79c9227.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A transformação da energia térmica em energia útil ocorre na etapa",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "VI.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

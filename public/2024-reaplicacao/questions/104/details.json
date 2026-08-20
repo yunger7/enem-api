@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2024",
+    "index": 104,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A suspensão de um automóvel funciona como um\nsistema massa-mola amortecido cuja função é reduzir a\namplitude de oscilação do automóvel. Esse sistema pode ser\n\ncaracterizado por uma frequência de oscilação w\nk\nm\n0 =\n,\n\nem que k é a constante elástica da mola e m é a massa total\ndo sistema formado por mola, amortecedor, pneu e roda.\nA suspensão do automóvel é originalmente dimensionada\npara que a relação entre w0 e um parâmetro fixo b seja:\n\n•\t w0 = b, quando não há oscilação do automóvel e o\nsistema volta à posição original rapidamente.\n\nPorém, seu amortecimento pode ser determinado\ntambém por outras duas relações entre w0 e b:\n\n•\t w0 > b, quando o sistema oscila algumas vezes até parar;\n•\t w0 < b, quando o sistema não oscila, retornando à\nsua posição original lentamente.\n\nPor questões estéticas, o proprietário de um automóvel\nreduz à metade o comprimento original das molas de sua\nsuspensão e troca rodas e pneus, de modo a manter a\nmesma massa total do sistema. Os demais componentes\npermanecem inalterados.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Como essas alterações modificam a oscilação do sistema?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A constante elástica diminui e o sistema não oscila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A constante elástica aumenta e o sistema passa a oscilar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "A constante elástica diminui e o sistema volta à posição original lentamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A constante elástica diminui e o sistema volta à posição original rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "A constante elástica aumenta e o sistema volta à posição original lentamente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

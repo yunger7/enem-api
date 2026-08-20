@@ -1,0 +1,45 @@
+{
+    "title": "Questão 20 - ENEM 2023",
+    "index": 20,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2023-reaplicacao/questions/20/d4305325-5ddc-4e25-9535-7df6e599f9c9.png)\n\nPAULINO, R. Bastidores (detalhe). Gravura sobre tecido em\n\nsuporte de madeira para bordado, 1997.\n\nDisponível em: www.galeriavirgilio.com.br. Acesso em: 29 out. 2010.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/20/d4305325-5ddc-4e25-9535-7df6e599f9c9.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Sob a perspectiva em que o artista deve trabalhar com as coisas que o tocam profundamente, a singularidade da obra Bastidores, produzida com objetos do cotidiano e de pouco valor material, mostra a boca, que expressa uma A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "situação religiosa afro-brasileira que envolve grande parte da população. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "condição particular da artista, deslocada de um contexto sociocultural. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "situação histórica em que as mulheres ainda bordavam em bastidores. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "condição vivida por parte das mulheres afro-brasileiras trabalhadoras. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "situação que se sugere, mas que não se aplica, a parcelas da população.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

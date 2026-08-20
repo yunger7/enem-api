@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2019",
+    "index": 160,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma equipe de cientistas decidiu iniciar uma cultura\ncom exemplares de uma bactéria, em uma lâmina, a fim\nde determinar o comportamento dessa população. Após\nalguns dias, os cientistas verificaram os seguintes fatos:\n\n•\t a cultura cresceu e ocupou uma área com o\nformato de um círculo;\n•\t o raio do círculo formado pela cultura de bactérias\naumentou 10% a cada dia;\n•\t a concentração na cultura era de 1 000 bactérias\npor\nmilímetro\nquadrado\ne\nnão\nmudou\nsignificativamente com o tempo.\nConsidere que r representa o raio do círculo no\nprimeiro dia, Q a quantidade de bactérias nessa cultura\nno decorrer do tempo e d o número de dias transcorridos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a expressão que representa Q em função de r e d ?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

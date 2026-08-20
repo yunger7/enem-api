@@ -1,0 +1,45 @@
+{
+    "title": "Questão 112 - ENEM 2024",
+    "index": 112,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao respirarmos, falarmos, tossirmos ou espirrarmos,\nliberamos gotículas e aerossóis. Se estamos com alguma\ninfecção respiratória viral, vírus estarão contidos ali.\nEstima-se que uma pessoa com covid-19 falando alto por\n1 minuto pode gerar mais de 1 000 partículas de aerossóis,\no que poderia levar à liberação de mais de 100 000 partículas\nvirais de SARS-CoV-2. O uso de máscaras pela população\npode auxiliar na redução da transmissão desse vírus,\nconforme representado na figura.\n\n![](https://enem.dev/2024-reaplicacao/questions/112/02f8f5c6-c1c2-4e91-9eda-3c42c72bd509.png)\n\nDisponível em: www.blogs.unicamp.br.\n\nAcesso em: 17 dez. 2021(adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/112/02f8f5c6-c1c2-4e91-9eda-3c42c72bd509.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As máscaras auxiliam no controle dessa doença, pois",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "neutralizam as partículas virais presentes nas gotículas e aerossóis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fornecem uma barreira de proteção contra as partículas virais liberadas no ar.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "reduzem a quantidade de vírus nas gotículas produzidas durante a respiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "permitem que os indivíduos infectados inspirem e expirem menos partículas virais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "mantêm afastados os indivíduos não infectados daqueles que já foram infectados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

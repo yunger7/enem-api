@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2025",
+    "index": 110,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O Aquífero Guarani é uma grande reserva de água\nsubterrânea potável cujas características físico-químicas\ndependem de fatores como a geologia da região e a qualidade\nda água que o alimenta. Análises no aquífero realizadas em\ndeterminada região mostraram que a água estava com o\nvalor do pH igual a 4. A água captada nessa região deverá ter\nseu pH corrigido para que a concentração de íons H+ atinja\n10−6 mol L−1, tornando-a apropriada para o consumo humano.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na correção do pH da água captada, a concentração de íons H+ deverá ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

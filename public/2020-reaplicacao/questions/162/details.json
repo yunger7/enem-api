@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2020",
+    "index": 162,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente de uma concessionária apresentou a seguinte tabela em uma reunião de dirigentes. Sabe-se que ao final da\nreunião, a fim de elaborar metas e planos para o próximo ano, o administrador avaliará as vendas, com base na mediana\ndo número de automóveis vendidos no período de janeiro a dezembro.\n\nMês\nNúmero de automóveis\n\nvendidos\nJaneiro\n25\nFevereiro\n20\nMarço\n30\nAbril\n35\nMaio\n40\nJunho\n50\nJulho\n45\nAgosto\n35\nSetembro\n60\nOutubro\n55\nNovembro\n70\nDezembro\n65",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual foi a mediana dos dados apresentados?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

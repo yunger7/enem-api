@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2024",
+    "index": 171,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado\npor essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será\npela forma que resulte na maior área.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O jardineiro escolherá a forma de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "hexágono regular, pois a área do jardim, em metro quadrado, será k 2 3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "hexágono regular, pois a área do jardim, em metro quadrado, será 3 3 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "quadrado, pois a área do jardim, em metro quadrado, será k 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "triângulo equilátero, pois a área do jardim, em metro quadrado, será k 2 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "triângulo equilátero, pois a área do jardim, em metro quadrado, será k 2 3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

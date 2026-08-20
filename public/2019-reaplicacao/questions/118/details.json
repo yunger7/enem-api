@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2019",
+    "index": 118,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "1\n2\n\n1. Coleta e cultivo in vitro das células do paciente;\n2. Transdução com vetor carregando o gene terapêutico;\n3. Seleção e expansão das células com gene terapêutico;\n4. Reintrodução das células modificadas no paciente.\n\nDisponível em: www.repositorio.uniceub.br.\n\nAcesso em: 3 maio 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A sequência de etapas indicadas na figura representa o processo conhecido como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mutação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "clonagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "crossing-over.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "terapia gênica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "transformação genética.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

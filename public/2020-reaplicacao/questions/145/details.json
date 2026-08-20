@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2020",
+    "index": 145,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um dos conceitos mais utilizados nos estudos\nsobre a dinâmica de populações é o de densidade\ndemográfica. Esta grandeza, para um local, é a razão\nentre o seu número de habitantes e a medida da área\ndo seu território. Quanto maior essa razão, expressa\nem habitante por quilometro quadrado, se diz que mais\ndensamente povoado é o local.\n\nQuerendo fazer uma visita de estudos ao local\nmais densamente povoado, entre um grupo de cinco\nescolhidos, um geógrafo coletou as informações sobre\npopulação e área territorial dos locais de seu interesse,\nobtendo os dados apresentados no quadro, referentes ao\nano de 2014.\n\nPopulação\n(Nº habitantes)\n\nÁrea\n(km2)\n\nMalta\n400 000\n300\n\nBrasil\n200 000 000\n9 000 000\n\nMéxico\n120 000 000\n2 000 000\n\nNamíbia\n2 000 000\n820 000\n\nIlha Norfolk\n1 841\n35\n\nDisponível em: www.indexmundi.com. Acesso em: 13 nov. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para cumprir seu objetivo de visita, qual dos locais apresentados deverá ser o escolhido pelo geógrafo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

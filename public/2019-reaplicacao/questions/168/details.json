@@ -1,0 +1,43 @@
+{
+    "title": "Questão 168 - ENEM 2019",
+    "index": 168,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No ano de 1751, o matemático Euler conseguiu\ndemonstrar a famosa relação para poliedros convexos\nque relaciona o número de suas faces (F), arestas (A) e\nvértices (V): V + F = A + 2. No entanto, na busca dessa\ndemonstração, essa relação foi sendo testada em\npoliedros convexos e não convexos. Observou-se que\nalguns poliedros não convexos satisfaziam a relação\ne outros não. Um exemplo de poliedro não convexo\né dado na figura. Todas as faces que não podem ser\nvistas diretamente são retangulares.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual a relação entre os vértices, as faces e as arestas do poliedro apresentado na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "V + F = A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "V + F = A - 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "V + F = A + 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "V + F = A + 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V + F = A + 3",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

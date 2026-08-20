@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2024",
+    "index": 138,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A  capacidade de refrigeração de um condicionador\nde ar é medida na unidade BTUh. O cálculo de quantos\nBTUh são necessários para a refrigeração adequada de\num ambiente depende de vários fatores. Em um ambiente\nfechado de altura padrão, com uma única pessoa, cada\nmetro quadrado de área do piso demanda 600 BTUh de\ncapacidade do condicionador de ar e, para cada pessoa\na mais nesse ambiente, exige-se mais 600 BTUh. Além\ndisso, cada aparelho eletrônico ligado (excluindo-se o\ncondicionador de ar) demanda mais 600 BTUh.\n\nDisponível em: www.webarcondicionado.com.br.\n\nAcesso em: 24 nov. 2021 (adaptado).\n\nEm uma sala retangular fechada de 6 metros de\ncomprimento, 4 metros de largura e altura padrão,\n5 pessoas trabalham simultaneamente em 5 computadores\nligados, e há um condicionador de ar de 24 600 BTUh.\n\nUm projeto prevê a contratação de novos funcionários\ne a instalação de novos computadores. Cada funcionário\nterá acesso a um único computador, e cada computador\nsó poderá ser utilizado por um único funcionário.\nSerão mantidos os computadores, os funcionários e o\ncondicionador de ar atuais, devendo este ser suficiente para\na refrigeração adequada da sala após a implementação do\nprojeto. Não haverá outros aparelhos eletrônicos no local.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a quantidade máxima de novos funcionários que pode ser contratada de forma que se atenda à implementação do projeto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

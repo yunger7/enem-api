@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2024",
+    "index": 158,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No Brasil, o valor mensal pago na conta de energia\nelétrica pode ser calculado pela fórmula: [consumo de\nenergia (kWh) × valor da tarifa (R$/kWh)] + Cosip, sendo\nCosip a Contribuição ao Sistema de Iluminação Pública,\ncujo valor é definido pelo município.\n\nEm um estado brasileiro que utiliza essa forma de\ncálculo da conta de energia elétrica, o valor da tarifa é\nestipulado conforme as seguintes faixas de consumo:\n\n•\t até 100 kWh: R$ 0,90 por kWh;\n•\t de 101 a 200 kWh: R$ 0,90 para os 100 primeiros\nkWh e R$ 1,00 por kWh consumido a partir daí;\n•\t acima de 200 kWh: R$ 0,90 para os 100 primeiros\nkWh consumidos; R$ 1,00 por kWh para os 100 kWh\nseguintes e R$ 1,20 por kWh consumido a partir daí.\n\nUma pessoa desse estado percebe que já consumiu\n180 kWh no mês atual e sabe que, em seu município, é\ncobrada uma Cosip (única) no valor de R$ 10,00 para\nconsumo de até 200 kWh ou de R$ 12,00 para consumo\nsuperior a 200 kWh. Para que a conta do mês atual não\nultrapasse R$ 220,00, ela decide estabelecer como meta\num limite de consumo a partir daquele momento até o final\ndo ciclo de faturamento.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O limite de consumo, em kWh, que a pessoa deverá estabelecer para atingir sua meta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "35.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "42.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "50.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

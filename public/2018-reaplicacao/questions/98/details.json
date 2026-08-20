@@ -1,0 +1,43 @@
+{
+    "title": "Questão 98 - ENEM 2018",
+    "index": 98,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O sulfato de bário (BaSO4) é mundialmente utilizado\nna forma de suspensão como contraste em radiografias\nde esôfago, estômago e intestino. Por se tratar de um\nsal pouco solúvel, quando em meio aquoso estabelece o\nseguinte equilíbrio:\n\nBaSO4 (s)\n Ba2+ (aq) + SO4\n\n2− (aq)\n\nPor causa da toxicidade do bário (Ba2+), é desejado\nque o contraste não seja absorvido, sendo totalmente\neliminado nas fezes. A eventual absorção de íons Ba2+,\nporém, pode levar a reações adversas ainda nas primeiras\nhoras após sua administração, como vômito, cólicas,\ndiarreia, tremores, crises convulsivas e até mesmo a morte.\n\nPEREIRA, L. F. Entenda o caso da intoxicação por Celobar®.\nDisponível em: www.unifesp.br. Acesso em: 20 nov. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para garantir a segurança do paciente que fizer uso do contraste, deve-se preparar essa suspensão em",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água destilada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "soro fisiológico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "solução de cloreto de bário, BaCl2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "solução de sulfato de bário, BaSO4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "solução de sulfato de potássio, K2SO4.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

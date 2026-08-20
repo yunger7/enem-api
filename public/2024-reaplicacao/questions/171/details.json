@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2024",
+    "index": 171,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa produz embalagens para acomodar\nseu produto. As embalagens atuais são cilíndricas e\nmedem 16 cm de diâmetro e 20 cm de altura. A pedido\nda direção, as embalagens terão um novo formato.\nElas serão na forma de paralelepípedos retos retângulos,\nde base quadrada, de lado medindo 16 cm. A capacidade\ndelas deverá ser, pelo menos, 400 mL maior que a das\nembalagens atuais.\n\nUse 3 como valor aproximado de π.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor aproximado da medida da altura das novas embalagens, em centímetro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "11.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "62.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "66.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2022",
+    "index": 144,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Admita que um grupo musical deseja produzir\nseu próprio CD. Para tanto, adquire um pequeno\nequipamento para gravar CDs ao valor de R$ 252,00,\ne vários CDs novos, sendo esses os únicos gastos\nrealizados na produção dos CDs. Sabe-se que o custo\ntotal na compra do equipamento e dos CDs totalizou o\nvalor de R$ 1 008,00, e que o custo unitário de cada CD\nnovo, em real, varia de acordo com o número n de CDs\nadquiridos, segundo o quadro.\n\nNúmero n de CDs\n\nCusto unitário de cada\n\nadquiridos\n\nCD novo (em real)\n\nn < 1 000\n0,45\n\n1 000 < n < 2 500\n0,40\n\n2 500 < n\n0,35\n\nNessas condições, o número de CDs adquiridos pelo\ngrupo musical é igual a",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 680. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 890. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "2 160. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2 520. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 880. 18 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

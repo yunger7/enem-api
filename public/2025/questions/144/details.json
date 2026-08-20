@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2025",
+    "index": 144,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica utilizou uma impressora 3D para produzir o\nprotótipo de uma peça. O protótipo tem forma de um poliedro\nconvexo, obtido pela justaposição de dois sólidos distintos, um\ncom a forma de um prisma hexagonal regular reto e o outro com\na forma de um tronco de pirâmide hexagonal reta. A base maior\ndo tronco de pirâmide coincide com uma das bases do prisma.\n\nApós a impressão do protótipo, ele foi encaminhado ao setor\nde customização para realização da pintura de sua superfície.\nO critério definido para realização da pintura considera que faces\ncongruentes entre si devem ser pintadas com uma mesma cor, e\nfaces não congruentes entre si devem apresentar cores distintas.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a quantidade de cores utilizadas para pintar o protótipo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

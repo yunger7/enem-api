@@ -1,0 +1,45 @@
+{
+    "title": "Questão 91 - ENEM 2025",
+    "index": 91,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A filtração em carvão é uma das mais antigas formas de\npurificação de água. O carvão ativado, diferentemente do carvão\ncomum, é útil para ser empregado na remoção de material\norgânico, cloro e outros contaminantes. Essa capacidade decorre\nde suas propriedades de adsorção. A origem do material utilizado\npara produzir o carvão ativado pode influenciar sua porosidade\ne, consequentemente, interferir na capacidade do material de\nremover impurezas. Na figura, é ilustrada esquematicamente\na diferença entre as estruturas físicas do carvão comum e do\ncarvão ativado.\n\n![](https://enem.dev/2025/questions/91/aafab088-dd89-4fe2-8cd4-1d746971e06e.png)\n\nCORRÊA, M. A. Cosmetologia: ciência e técnica.\n\nSão Paulo: Medfarma, 2012 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/91/aafab088-dd89-4fe2-8cd4-1d746971e06e.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual característica do carvão ativado explica a sua maior eficiência nesse processo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Massa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Dureza.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Densidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Superfície.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Condutividade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

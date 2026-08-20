@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2023",
+    "index": 97,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura apresenta o ciclo biogeoquímico do enxofre, que tem emissões de fontes naturais, biogênicas e\nantropogênicas que podem causar danos no ambiente.\n\n![](https://enem.dev/2023-reaplicacao/questions/97/75ff924c-32e6-4279-ab99-272e14f061a5.png)\n\n2−\n\nEmissões\nvulcânicas\n\nCompostos\n\nCompostos\n\n2−\n\nreduzidos\n\nreduzidos\n\nChuva e outras\n\nSpray\nmarinho\n\ndeposições\n\nEmissões\nbiogênicas,\n\nEmissões\nbiogênicas,\n\nOceanos\n\ncosteiras\n\n2–\n\n2−\n\nDeposição\nOceano\n\nDeposição\n\nOceano\n\nRochas\nsedimentares\nSedimento\n\nRochas\nsedimentares\nSedimento\n\nMagma\n\nMagma",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/97/75ff924c-32e6-4279-ab99-272e14f061a5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o impacto ambiental gerado a partir dessas emissões? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumento do efeito estufa. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Surgimento de ilhas de calor. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aparecimento de chuva ácida. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Formação do smog fotoquímico. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Degradação da camada de ozônio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

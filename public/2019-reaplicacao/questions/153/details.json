@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2019",
+    "index": 153,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A unidade de medida utilizada para anunciar o tamanho das telas de televisores no Brasil é a polegada, que corresponde a 2,54 cm. Diferentemente do que muitos imaginam, dizer que a tela de uma TV tem X polegadas significa que a diagonal do retângulo que representa sua tela mede X polegadas, conforme ilustração.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "16,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "O administrador de um museu recebeu uma TV convencional de 20 polegadas, que tem como razão do comprimento (C) pela altura (A) a proporção 4 : 3, e precisa calcular o comprimento (C) dessa TV a fim de colocá-la em uma estante para exposição. A tela dessa TV tem medida do comprimento C, em centímetro, igual a",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40,64.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "50,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

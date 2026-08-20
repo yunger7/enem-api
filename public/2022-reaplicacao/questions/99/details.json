@@ -1,0 +1,43 @@
+{
+    "title": "Questão 99 - ENEM 2022",
+    "index": 99,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Escrito em 1897, pelo britânico H. G. Wells (18661946), O homem invisível é um livro que narra a história\nde um cientista que teria desenvolvido uma forma de\ntornar todos os tecidos do seu corpo transparentes à luz,\nao fazer o índice de refração absoluto do corpo humano\ncorresponder ao do ar. Contudo, Wells não explorou no\nlivro o fato de que esse efeito comprometeria a visão de\nseu protagonista.\nNesse caso, qual seria a deficiência visual provocada?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Miopia. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Cegueira. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Daltonismo. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Astigmatismo. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hipermetropia.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

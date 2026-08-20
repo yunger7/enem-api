@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2019",
+    "index": 94,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Algumas moedas utilizam cobre metálico em sua\ncomposição. Esse metal, ao ser exposto ao ar úmido, na\npresença de CO2, sofre oxidação formando o zinabre,\num carbonato básico de fórmula Cu2(OH)2CO3, que é\ntóxico ao homem e, portanto, caracteriza-se como um\npoluente do meio ambiente. Com o objetivo de reduzir\na contaminação com o zinabre, diminuir o custo de\nfabricação e aumentar a durabilidade das moedas, é\ncomum utilizar ligas resultantes da associação do cobre\ncom outro elemento metálico.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A propriedade que o metal associado ao cobre deve apresentar para impedir a formação de zinabre nas moedas é, em relação ao cobre,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maior caráter ácido.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior número de oxidação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "menor potencial de redução.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "menor capacidade de reação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "menor número de elétrons na camada de valência.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

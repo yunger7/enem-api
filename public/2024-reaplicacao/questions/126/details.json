@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2024",
+    "index": 126,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na fissão do urânio-235, esse átomo é dividido em\nátomos mais leves quando bombardeado por um nêutron.\n\nNos reatores nucleares, novas reações ocorrem a partir\ndos nêutrons liberados na fissão, caracterizando uma reação\nem cadeia. Essa reação é mais eficiente quando esses\nnêutrons têm energia cinética baixa. Por isso, é utilizada\numa substância moderadora na qual os nêutrons possam\ncolidir, transferindo parte da energia.\n\nConsidere que essas colisões são frontais e\naproximadamente elásticas, que a substância moderadora é\num alvo em repouso e que as velocidades dos nêutrons, υnf,\ne da substância moderadora, υsf, após a colisão, são:\n\n\u001b\n\n\u0018\n\nm\nm\nm\nm\n\nn\ns\n\nnf\n\n\u001a\n\u0019\n\n\u0017\n\u0016\n0\n\nn\ns\n\n\u0019\n\nm\nm\nm\n\n\u0018\n\u0017\n2\n0\n\nn\n\nsf\n\n\u001b\n\u001a\n\nn\ns\n\nem que mn é a massa do nêutron, ms é a massa da\nsubstância moderadora e υ0 é a velocidade inicial do nêutron.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A substância moderadora que promoverá a maior redução de velocidade dos nêutrons, nesse processo de colisão, será:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 4He",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7 94Sr",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "38",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

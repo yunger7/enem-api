@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2024",
+    "index": 127,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Atualmente, temos um número considerável de\nalternativas de fontes primárias de energia: geotérmica,\nmaremotriz, biomassa, nuclear e eólica. Essas são\nusadas para obtenção de energias secundárias, como\na energia elétrica.\n\nDisponível em: www.energiasdomundo.com.br.\n\nAcesso em: 24 nov. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual fonte primária permite obter essa energia secundária por processos químicos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Eólica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Nuclear.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Biomassa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Maremotriz.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Geotérmica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2021",
+    "index": 142,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma operadora de telefonia oferece cinco planos de\nserviços. Em cada plano, para cada mês, o cliente paga\num valor V que lhe dá direito a telefonar por M minutos\n%\b\u0007\b\u0002\u001e2\u000e\n\u0005\r\n\t\u0002\u000f\b\u0002\u0010\n\t\u0010\b\u0002\u0004%\n\u0007\b\u000f\u0004\u0007\b(\u0002\u0018\f\b\u0005\u000f\u0004\u0002\b\u0002\u000f\f\u0007\b'\u001d\u0004\u0002\ntotal das chamadas para clientes da mesma operadora\nexcede M minutos, é cobrada uma tarifa T1 por cada\nminuto excedente nesse tipo de chamada. Além disso,\né cobrado um valor T2, por minuto, nas chamadas para\nclientes de outras operadoras, independentemente do\nP\b\r\u0004\u0002\u000f\n\u0002\u0004\t\u0002\u0002\u0010\u000e\u0005\f\r\u0004\t\u0002\r\n\u0007\n\u0010\u0002\u0004\f\u0002\u0005\u001d\u0004\u0002\t\u000e\u000f\u0004\u0002\f\t\b\u000f\u0004\t(\u0002\u0012\u0002\r\b!\n2\b\u0002\napresenta o valor de V, M, T1 e T2 para cada um dos\ncinco planos.\n\nV\nM\nT1\nT2\n\nPlano\n\nA\nR$ 25,00\n20 min \u0015·\u0002$&\u0010\u000e\u0005 \u0015·\u0002$\u0010\u000e\u0005\n\nPlano",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "R$ 60,00 65 min \u0015·\u0002$\u0010\u000e\u0005 \u0015·\u0002$\u0010\u000e\u0005",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Plano C R$ 60,00 75 min \u0015·\u0002$\u0010\u000e\u0005 \u0015·\u0002$&\u0010\u000e\u0005 Plano D R$ 120,00 160 min \u0015·\u0002$\u0010\u000e\u0005 \u0015·\u0002$\u0010\u000e\u0005 Plano E R$ 120,00 180 min \u0015·\u0002$\u0010\u000e\u0005 \u0015·\u0002$\u0010\u000e\u0005 Se um cliente dessa operadora planeja telefonar durante 75 minutos para amigos da mesma operadora e 50 minutos para amigos de outras operadoras, o plano \u0002 2 \u0002\u000f # \u0007?\u0002 \u00042+ \u0007$\u0002\b\u0002\u0006\u0010\u0002\u000f \u0002%\bJ\b\u0007\u0002\u0010 \u0005\u0004\t$\u0002^\u0002\u0004 A  Plano A. B  Plano B. C  Plano C. D  Plano D. E  Plano E. 16 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

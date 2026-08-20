@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2025",
+    "index": 70,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Nos Estados Unidos, um hotel perto de um parque foi engolido\npor uma enorme cratera. E não é a primeira vez que esse tipo\nde incidente acontece na Flórida. Em minutos, uma ala inteira\ndo hotel era engolida pela cratera de 30 metros de diâmetro e\ncinco de profundidade. O diretor do resort em Clermont, perto\ndos parques temáticos da Flórida, diz que o prédio tinha 15 anos,\ne que até então o solo nunca havia apresentado problemas.\nOs afundamentos são um fenômeno comum na Flórida por\ncausa das formações de calcário e argila no subsolo, mas às vezes\nchuvas fortes, ou a drenagem do solo para construção, acabam\ncontribuindo para o surgimento desses buracos.\n\nDisponível em: http://g1.globo.com. Acesso em: 10 dez. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A situação de desmoronamento do solo descrita no texto origina-se da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cristalização da estrutura geológica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ação do intemperismo químico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "recomposição da mata ciliar.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "acumulação de sedimentos orgânicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "impermeabilização da superfície ocupada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

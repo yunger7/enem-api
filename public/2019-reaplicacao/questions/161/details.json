@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2019",
+    "index": 161,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa sorteia prêmios entre os funcionários\ncomo reconhecimento pelo tempo trabalhado. A tabela\nmostra a distribuição de frequência de 20 empregados\ndessa empresa que têm de 25 a 35 anos trabalhados.\nA empresa sorteou, entre esses empregados, uma\nviagem de uma semana, sendo dois deles escolhidos\naleatoriamente.\n\nTempo de serviço\nNúmero de empregados\n\n25\n4\n27\n1\n29\n2\n30\n2\n32\n3\n34\n5\n35\n3",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual a probabilidade de que ambos os sorteados tenham 34 anos de trabalho?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 103 - ENEM 2023",
+    "index": 103,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Lentes fotocrômicas escurecem em ambientes externos\ncom alta incidência de luz ultravioleta (UVA), conforme\nilustrado. Uma vez na sombra, as lentes se tornam claras\nnovamente.\n\n![](https://enem.dev/2023-reaplicacao/questions/103/28ed2c03-6ddc-4338-9172-854da3d3c6b5.png)\n\nAmbiente\ninterno\n\nAmbiente\nexterno\n\nEm lentes fotocrômicas de plástico, são utilizados\ncorantes orgânicos pertencentes à família dos\nindenonaftopiranos. Quando o corante fotocrômico\n(Estrutura 1) é exposto à alta incidência de radiação\nUVA, uma ligação química é quebrada. A molécula\nentão se rearranja, transformando-se em uma espécie\nque absorve radiação de comprimento de onda maior\n(Estrutura 2), fazendo com que a lente escureça.\n\nEstrutura 1\nEstrutura 2\n\nERICKSON, B. Self-Darkening Eyeglasses. Chemical & Engineering News,\n\nn. 87, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/103/28ed2c03-6ddc-4338-9172-854da3d3c6b5.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O escurecimento desse tipo de lente ocorre porque as moléculas de indenonaftopirano A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "polimerizam, pela alta incidência de radicais. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tautomerizam, pela reação no grupo enol. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "polarizam a luz, pela alta energia da luz UVA absorvida. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "oxidam, pela conversão do grupo éter em uma carbonila. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "dispersam a luz, pela ampliação do tamanho da molécula.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

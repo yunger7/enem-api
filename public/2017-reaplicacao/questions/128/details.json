@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2017",
+    "index": 128,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em algumas regiões brasileiras, é comum se\nencontrar um animal com odor característico, o zorrilho.\nEsse odor serve para a proteção desse animal, afastando\nseus predadores. Um dos feromônios responsáveis por\nesse odor é uma substância que apresenta isomeria trans\ne um grupo tiol ligado à sua cadeia.\nA estrutura desse feromônio, que ajuda na proteção do\nzorrilho, é",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "C C H",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CH2 SH C C H",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CH2 SH C C H3C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "CH2 SH C C H",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "S CH3 C C H3C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "S CH3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2021",
+    "index": 154,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma indústria recortou uma placa de metal no\nformato triangular ABC, conforme Figura 1, com lados\n18, 14 e 12 cm.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Posteriormente, a peça triangular ABC foi dobrada, de tal maneira que o vértice B\u0002\u0006 \u0004 \u0002 \u0004!\u0007 \u0002\u0004\u0002 J\u0010 \u0005 \u0004\u0002 AC, e o segmento DE\u0002\u0006 \u0004 \u0002%\b\u0007\b2 2\u0004\u0002\b\u0004\u00022\b\u000f\u0004\u0002AC, conforme Figura 2.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A C Figura 1 D E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

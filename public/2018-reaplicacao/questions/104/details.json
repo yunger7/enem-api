@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2018",
+    "index": 104,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O suco de repolho-roxo pode ser utilizado como indicador ácido-base em diferentes soluções. Para isso, basta\nmisturar um pouco desse suco à solução desejada e comparar a coloração final com a escala indicadora de pH, com\nvalores de 1 a 14, mostrada a seguir.\n\nVermelho\nRosa\nRoxo\nAzul\nVerde\nAmarelo\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Utilizando-se o indicador ácido-base e a escala para determinar o pH da saliva humana e do suco gástrico, têm-se, respectivamente, as cores",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vermelha e vermelha.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "vermelha e azul.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "rosa e roxa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "roxa e amarela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "roxa e vermelha.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

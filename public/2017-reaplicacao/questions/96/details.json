@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2017",
+    "index": 96,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os sapos passam por uma metamorfose completa.\nOs girinos apresentam cauda e brânquias externas, mas\nnão têm pernas. Com o crescimento e desenvolvimento\ndo girino, as brânquias desaparecem, as pernas surgem\ne a cauda encolhe. Posteriormente, a cauda desaparece\npor apoptose ou morte celular programada, regulada por\ngenes, resultando num sapo adulto jovem.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A organela citoplasmática envolvida diretamente no desaparecimento da cauda é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ribossomo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "lisossomo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "peroxissomo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "complexo golgiense.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retículo endoplasmático.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

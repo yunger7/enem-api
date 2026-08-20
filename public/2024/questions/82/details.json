@@ -1,0 +1,43 @@
+{
+    "title": "Questão 82 - ENEM 2024",
+    "index": 82,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Bertrand Russell conta a história de um peru que\ndescobrira, em sua primeira manhã na fazenda de perus,\nque fora alimentado às 9 da manhã. Contudo, ele não tirou\nconclusões apressadas. Esperou até recolher um grande\nnúmero de observações do fato de que era alimentado\nàs 9 da manhã e fez essas observações sob uma ampla\nvariedade de circunstâncias, às quartas e quintas-feiras,\nem dias quentes e dias frios, em dias chuvosos e dias\nsecos. A cada dia acrescentava uma outra proposição\nde observação à sua lista. Finalmente, sua consciência\nficou satisfeita e ele concluiu. “Eu sou alimentado sempre\nàs 9 da manhã”.\n\nCHALMERS, A. O que é ciência, afinal?\n\nSão Paulo: Brasiliense, 1993 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual tipo de raciocínio corresponde ao padrão de pensamento exibido pelo personagem do texto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prático, porque recolhe evidências e recomenda ações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Absoluto, porque busca confirmações e bloqueia refutações.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Indutivo, porque observa eventos particulares e infere leis universais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Demonstrativo, porque encadeia premissas e extrai conclusões indubitáveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Analógico, porque compara diferentes situações e detecta elementos semelhantes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

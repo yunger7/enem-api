@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2023",
+    "index": 164,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para o tratamento de uma doença específica, existem\ndisponíveis no mercado somente quatro medicamentos,\nque são comercializados em versões diferentes.\n\n•\t Medicamento I: caixa com 25 comprimidos, com\npreço de R$ 50,00.\n\n•\t Medicamento II: caixa com 30 comprimidos, com\npreço de R$ 48,00.\n\n•\t Medicamento III: caixa com 40 comprimidos, com\npreço de R$ 60,00.\n\n•\t Medicamento IV: caixa com 60 comprimidos, com\npreço de R$ 100,00.\n\nUm laboratório lançou um novo medicamento,\nchamado Z, para o tratamento dessa doença. Visando\ntornar esse medicamento competitivo economicamente, o\nlaboratório decidiu fixar um preço que apresente o menor\nvalor por comprimido em relação aos medicamentos\njá existentes.\n\nO preço máximo, por comprimido, do medicamento Z será",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 1,40. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 1,49. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 1,59. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 1,60. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 1,99.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

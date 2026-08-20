@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2017",
+    "index": 173,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cinco regiões de um país estão buscando recursos\nno Governo Federal para diminuir a taxa de desemprego\nde sua população. Para decidir qual região receberia o\nrecurso, foram colhidas as taxas de desemprego, em\nporcentagem, dos últimos três anos. Os dados estão\napresentados na tabela.\n\nTaxa de desemprego (%)\n\nRegião\n\nRegião\n\nRegião\n\nRegião",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Região",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ano I 12,1 12,5 11,9 11,6 8,2 Ano II 11,7 10,5 12,7 9,5 12,6 Ano III 12,0 11,6 10,9 12,8 12,7 Ficou decidido que a região contemplada com a maior parte do recurso seria aquela com a maior mediana das taxas de desemprego dos últimos três anos. A região que deve receber a maior parte do recurso é a",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 163 - ENEM 2025",
+    "index": 163,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "![](https://enem.dev/2025/questions/163/f17c2dd2-7589-41d5-bd32-6f691c0888b4.png)",
+    "files": [
+        "https://enem.dev/2025/questions/163/f17c2dd2-7589-41d5-bd32-6f691c0888b4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "720",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "360",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "320",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "288",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "240",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

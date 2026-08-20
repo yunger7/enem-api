@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2025",
+    "index": 140,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um laboratório, um recipiente contém 10 litros de\numa solução composta apenas pelas substâncias S1 e S2.\nDessa solução, 99,95% é de S1. Uma quantidade de S1 será\nretirada dessa solução, mantendo a quantidade inicial de S2,\nde modo que 99,90% da nova solução seja de S1.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é a quantidade de S1, em litro, que será retirada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,0050",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,0100",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,5000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,9775",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,0000",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

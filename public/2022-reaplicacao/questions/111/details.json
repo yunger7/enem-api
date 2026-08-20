@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2022",
+    "index": 111,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em virtude do frio intenso, um casal adquire uma\ntorneira elétrica para instalar na cozinha. Um eletricista\né contratado para fazer um novo circuito elétrico para a\ncozinha, cuja corrente será de 30 A, com a finalidade de\nalimentar os terminais da torneira elétrica. Ele utilizou\num par de fios de cobre, de área da seção reta igual a\n4 mm2 e de 28 m de comprimento total, desde o quadro\nde distribuição (onde ficam os disjuntores) até a cozinha.\nA tensão medida na saída do quadro de distribuição é\n220 V. Considere que a resistividade do fio de cobre é de\n17 10 8\n, \u001f\n\u001e \u001d\u001cm.\nConsiderando a resistência da fiação, a tensão aplicada\naos terminais da torneira é mais próxima de",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "211 V. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "213 V. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "216 V. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "219 V. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "220 V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2024",
+    "index": 115,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O esquema representa um experimento feito com\ncélulas do protozoário Amoeba proteus. Nele, um grupo\nde células foi tratado com a droga citocalasina B, enquanto\noutro grupo não foi tratado, servindo como controle.\nO formato e o movimento das células tratadas foram\ncomprometidos.\n\n![](https://enem.dev/2024/questions/115/c7d3888e-54b4-4b9b-9bf2-2986568972d5.png)\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e\n\nhereditariedade. Porto Alegre: Artmed, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/115/c7d3888e-54b4-4b9b-9bf2-2986568972d5.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual componente celular foi afetado pela droga utilizada no experimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Vacúolos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mitocôndrias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Microfilamentos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Material genético.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Membrana plasmática.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

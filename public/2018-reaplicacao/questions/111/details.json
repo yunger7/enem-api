@@ -1,0 +1,45 @@
+{
+    "title": "Questão 111 - ENEM 2018",
+    "index": 111,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura apresenta um processo alternativo para obtenção de etanol combustível, utilizando o bagaço e as folhas\nda cana-de-açúcar. Suas principais etapas são identificadas com números.\n\n![](https://enem.dev/2018-reaplicacao/questions/111/fd80c88b-3179-4753-8d24-a5523c75eb6c.png)",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/111/fd80c88b-3179-4753-8d24-a5523c75eb6c.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em qual etapa ocorre a síntese desse combustível?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

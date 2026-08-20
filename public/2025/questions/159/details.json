@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2025",
+    "index": 159,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O dono de uma sorveteria armazena sorvete em potes de\n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "80.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "800.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

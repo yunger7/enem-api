@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2021",
+    "index": 161,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "\u0019\u0010\u0002\r^\u001e\u0005\u000e\u001e\u0004\u0002J\u0007?\u0006\u001e\u0004\u0002\u001e\u0004\u0005\t\r\u0007B\u000e\u0002\f\u0010\b\u0002\u0005\u0004#\b\u0002P\u00042+\b\u0002\b\u0002%\b\u0007\r\u000e\u0007\u0002\ndas medidas de uma folha A0. As medidas de uma folha\n\u0012\u0002\t\u001d\u0004\u0002&&\u0002\u0010\u0010\u0002\u000f\n\u00022\b\u0007J\f\u0007\b\u0002\n\u0002\u0002\u0010\u0010\u0002\u000f\n\u0002\u001e\u0004\u0010%\u0007\u000e\u0010\n\u0005\r\u0004(\u0002\nA nova folha foi construída do seguinte modo: acrescenta\numa polegada na medida da largura e 16 polegadas na\nmedida do comprimento. Esse técnico precisa saber a\n\u0007\b\u001d\u0004\u0002\n\u0005\r\u0007\n\u0002 \b\t\u0002 \u0010\n\u000f\u000e\u000f\b\t\u0002 \u000f\b\u0002 2\b\u0007J\f\u0007\b\u0002\n\u0002 \u000f\u0004\u0002 \u001e\u0004\u0010%\u0007\u000e\u0010\n\u0005\r\u0004$\u0002\nrespectivamente, dessa nova folha.\n\nConsidere 2,5 cm como valor aproximado para uma\npolegada.\n\n\u0018\f\b2\u0002 ^\u0002 \b\u0002 \u0007\b\u001d\u0004\u0002\n\u0005\r\u0007\n\u0002 \b\t\u0002 \u0010\n\u000f\u000e\u000f\b\t\u0002 \u000f\b\u0002 2\b\u0007J\f\u0007\b\u0002\n\u0002 \u000f\u0004\u0002\ncomprimento da nova folha?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "__ 16",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "B 620 _____ 1 240 C  596 ____ D  598 ____ E 845 _____ 4 840",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

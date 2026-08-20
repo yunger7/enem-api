@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2020",
+    "index": 126,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Há algumas décadas, surgiu no mercado um\nmedicamento que provocava perda de peso por inibir a\nação da lipase, enzima que atua no intestino na digestão\nde gorduras. Um pesquisador, com o objetivo de avaliar\na eficácia do medicamento, decidiu medir nos pacientes\na quantidade de gordura nas fezes e de triglicerídeos\n(um dos produtos da digestão das gorduras) no sangue.\nMantendo sempre a mesma dieta nos pacientes, fez as\nmedidas antes e depois da administração do medicamento.\nA figura apresenta cinco resultados possíveis.\n\n1\n2\n3\n4\n5\n\nGordura nas fezes antes\n\nGordura nas fezes depois\n\nTriglicerídeos no sangue antes\n\nTriglicerídeos no sangue depois",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O efeito esperado do medicamento está representado no resultado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

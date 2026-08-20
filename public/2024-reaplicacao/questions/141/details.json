@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2024",
+    "index": 141,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para reforçar sua renda familiar, uma pessoa inaugurou\num estabelecimento que vende refrigerantes. Ela adquiriu\num tipo de refrigerante para revenda no primeiro mês de\nfuncionamento do estabelecimento. Foram compradas\n20 caixas desse refrigerante, pagando R$ 18,00 a caixa,\ncom 12 latas cada. Ao final desse mês, obteve R$ 600,00\nde lucro com a venda de todas as latas.\n\nNo segundo mês, ela compra a mesma quantidade\nde latas de refrigerante comprada no primeiro mês, pelo\nmesmo preço, e decide aumentar o preço de venda de cada\nlata de refrigerante, de modo a aumentar o seu lucro em\nR$ 360,00 em relação ao lucro do mês anterior.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual será o novo preço de venda, em real, de cada lata de refrigerante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,50",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

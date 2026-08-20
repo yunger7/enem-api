@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2023",
+    "index": 22,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Basquiat representa uma das classes da sociedade\namericana às quais as barreiras sociais impedem,\ngeralmente, o acesso à arte. Os seus quadros, objetos\npictóricos e desenhos apresentam-se cheios de sinais,\ntranscrições de textos e elementos figurativos, encadeados\nem ritmos pictóricos de uma precisão empolgante — um\nmisto de pintura gráfica, símbolos populares americanos,\ngírias de rua e alusões a obras de arte famosas.\n\nHONNEF, K. Arte contemporânea. São Paulo: 1994 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "As características pictóricas das obras de Basquiat apresentadas no texto aproximam-se das que encontramos no Brasil no A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conjunto de azulejos da arte barroca. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "óleo sobre tela A Batalha do Riachuelo, do artista Victor Meirelles. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "painel de pastilhas do mural de rua Imprensa, do artista modernista Di Cavalcanti, localizado na cidade de São Paulo. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "óleo sobre tela intitulado Abaporu, da artista modernista Tarsila do Amaral, em São Paulo. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "óleo sobre tela do artista modernista Alfredo Volpi.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

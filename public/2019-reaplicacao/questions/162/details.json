@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2019",
+    "index": 162,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para decorar sua casa, uma pessoa comprou um\nvaso de vidro em forma de um paralelepípedo retangular,\ncujas medidas internas são: 40 cm de comprimento,\n35 cm de largura e 60 cm de altura. Em seguida, foi\naté uma floricultura e escolheu uma planta aquática\npara colocar nesse vaso. Segundo uma proposta do\ngerente do local, essa pessoa avaliou a possibilidade\nde enfeitar o vaso colocando uma certa quantidade de\npedrinhas artificiais brancas, de volume igual a 100 cm3\ncada uma delas, que ficarão totalmente imersas na água\nque será colocada no vaso. O gerente alertou que seria\nadequado, em função da planta escolhida, que metade\ndo volume do vaso fosse preenchido com água e que,\napós as pedrinhas colocadas, a altura da água deveria\nficar a 10 cm do topo do vaso, dando um razoável\nespaço para o crescimento da planta. A pessoa aceitou\nas sugestões apresentadas, adquirindo, além da planta,\numa quantidade mínima de pedrinhas, satisfazendo as\nindicações do gerente.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas condições apresentadas, a quantidade de pedrinhas compradas foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "140.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "280.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "350.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "420.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "700.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

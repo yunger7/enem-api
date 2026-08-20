@@ -1,0 +1,45 @@
+{
+    "title": "Questão 147 - ENEM 2024",
+    "index": 147,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma professora de matemática utiliza em suas\naulas uma “máquina caça-números” para verificar os\nconhecimentos de seus estudantes sobre representações\nde números racionais. Essa máquina tem um visor dividido\nem seis compartimentos e, na lateral, uma alavanca. Cada\nestudante puxa a alavanca e espera que os compartimentos\nparem de girar. A partir daí, precisa responder para a\nprofessora em quais posições se encontram os números\nque representam a mesma quantidade.\n\nUm estudante puxou a alavanca, aguardou que os\ncompartimentos parassem de girar e observou os números\napresentados no visor. A configuração da máquina naquele\ninstante está apresentada na imagem.\n\n![](https://enem.dev/2024/questions/147/d3ba331e-51b2-4a0d-b980-f3c91a94532a.png)\n\nEsse estudante respondeu corretamente à pergunta\nda professora.",
+    "files": [
+        "https://enem.dev/2024/questions/147/d3ba331e-51b2-4a0d-b980-f3c91a94532a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As posições indicadas pelo estudante foram",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, II e IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II, IV e V.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "II, III e V.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "III, V e VI.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III, IV e VI.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

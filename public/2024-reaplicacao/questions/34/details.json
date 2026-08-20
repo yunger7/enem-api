@@ -1,0 +1,43 @@
+{
+    "title": "Questão 34 - ENEM 2024",
+    "index": 34,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Foi instaurada a Comissão Temporária de Inteligência\nArtificial (CTIA) no Senado Federal. O objetivo: discutir\ndiferentes projetos de lei sobre o uso da tecnologia.\n\nA Inteligência Artificial (IA) vem se mostrando uma\nferramenta para otimização de demandas no setor público\ne, ao mesmo tempo, uma preocupação para o processo\ndemocrático. Por um lado, ela já é usada em tribunais para\na aceleração de procedimentos burocráticos e decisões\nsobre aposentadoria. Por outro lado, a tecnologia também\nvem sendo utilizada para a desinformação, como na criação\nde imagens de fatos que não aconteceram na realidade.\n\nA comissão, que já discutiu os impactos da IA na\nagricultura, no meio acadêmico e na indústria, debateu os\nefeitos da tecnologia no jornalismo e no processo eleitoral.\n\nUma advogada e professora do Instituto Brasileiro de\nEnsino, Desenvolvimento e Pesquisa (IDP) falou sobre os\ndesafios da implementação segura da tecnologia: “Não existe\nnenhum mecanismo hoje, nenhum software, que vá identificar\nse um conteúdo é produzido por Inteligência Artificial”.\n\nDisponível em: www.cartacapital.com.br.\n\nAcesso em: 2 fev. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao abordar a questão da segurança na implementação da IA em diferentes esferas da sociedade, esse texto evidencia a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "importância de ferramentas tecnológicas para diferentes setores da economia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "problemática da identificação da origem de conteúdos publicados na internet.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "contribuição da tecnologia digital para a consolidação da democracia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização da internet para impulsionar trabalhos acadêmicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "precariedade de leis para regulamentar o uso da internet.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

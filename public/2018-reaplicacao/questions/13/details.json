@@ -1,0 +1,45 @@
+{
+    "title": "Questão 13 - ENEM 2018",
+    "index": 13,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018-reaplicacao/questions/13/83074517-28d9-41ff-9549-1c2f63c8ae73.png)\n\nDisponível em: www.pedal.com.br. Acesso em: 3 jul. 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/13/83074517-28d9-41ff-9549-1c2f63c8ae73.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No texto, o uso da linguagem verbal e não verbal atende à finalidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "chamar a atenção para o respeito aos sinais de trânsito.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "informar os motoristas sobre a segurança dos usuários de ciclovias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "alertar sobre os perigos presentes nas vias urbanas brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "divulgar a distância permitida entre carros e veículos menores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "propor mudanças de postura por parte de motoristas no trânsito.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

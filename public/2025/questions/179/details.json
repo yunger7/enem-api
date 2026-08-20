@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2025",
+    "index": 179,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A luminância de um objeto é a grandeza que descreve a\nquantidade de luz produzida ou refletida por sua superfície.\nEla está definida como a razão entre a intensidade luminosa,\nmedida em candela (cd), e o quadrado da distância do objeto\naté o foco de luz, medida em metro (m).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A unidade de medida da luminância de um objeto é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "cd m2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "m cd",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cd m",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "m cd",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "m cd2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

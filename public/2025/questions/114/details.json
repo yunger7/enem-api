@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2025",
+    "index": 114,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tirinha ilustra um processo físico em que uma onda sonora,\nproduzida pela Mônica, causa a quebra das taças de cristal.\nO fenômeno ondulatório que provoca a quebra das taças só é\npossível em razão de uma característica da voz produzida pela\nMônica naquele momento, que, diferentemente do que sugere\na tirinha, não está relacionada à sua intensidade.\n\n![](https://enem.dev/2025/questions/114/671054c7-1fb8-49d2-bd21-ff2b9029d1f6.png)\n\nDisponível em: https://artedafisicapibid.blogspot.com.\n\nAcesso em: 23 nov. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/114/671054c7-1fb8-49d2-bd21-ff2b9029d1f6.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Esse fenômeno e a característica associada à voz da Mônica são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflexão e comprimento de onda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ressonância e frequência.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "interferência e velocidade.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ressonância e timbre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "reflexão e amplitude.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

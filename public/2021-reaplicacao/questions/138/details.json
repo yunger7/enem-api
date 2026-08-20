@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2021",
+    "index": 138,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um ciclista faz um treino para uma prova, em um\ncircuito oval, cujo percurso é de 800 m. Nesse treino,\nrealiza 20 voltas. Ele divide seu treino em 3 etapas.\nNa primeira etapa, inicializa seu cronômetro e realiza\nas cinco primeiras voltas com velocidade média de\n\u0002\u0010\t(\u0002\u0016\b\u0002\nJ\f\u0005\u000f\b\u0002\n\r\b%\b$\u0002P\b\u0002\u0010\b\u000e\t\u0002\u001e\u000e\u0005\u001e\u0004\u0002#\u00042\r\b\t$\u0002\u0010\b\t\u0002\u001e\u0004\u0010\u0002\nvelocidade média 25% maior que a da etapa anterior.\n\u0016\b\u0002K2\r\u000e\u0010\b\u0002\n\r\b%\b$\u0002\u0006\u0005\b2\u000e\b\u0002\u0004\u0002\r\u0007\n\u000e\u0005\u0004\u0002\u0010\b\u0005\r\n\u0005\u000f\u0004\u0002\b\u0002#\n2\u0004\u001e\u000e\u000f\b\u000f\n\u0002\nmédia da primeira etapa.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "\u0012\u0004\u0002 \u0006\u0005\b2\u0002 \u000f\u0004\u0002 \u0007 \u000e\u0005\u0004$\u0002 \u0004\u0002 \u0007\u0004\u0005w\u0010 \u0007\u0004\u0002 \b\u0007?\u0002 \u0010\b\u0007 \b\u0005\u000f\u0004$\u0002 \u0010\u0002 segundo,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

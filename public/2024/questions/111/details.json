@@ -1,0 +1,43 @@
+{
+    "title": "Questão 111 - ENEM 2024",
+    "index": 111,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O exoesqueleto dos crustáceos é formado por quitina\ne impregnações de sais calcários e, por isso, é mais\nduro quando comparado com o exoesqueleto de outros\nartrópodes. Esse revestimento externo confere proteção,\nmas, por ser duro, limita o crescimento desses animais.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para superar essa limitação, o exoesqueleto deve ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "formado somente na fase adulta do animal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fragmentado para expansão nas áreas de articulação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "modelado continuamente para ajuste ao tamanho do corpo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "substituído por meio de mudas que ocorrem periodicamente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "impregnado por pequena quantidade de sais para sua distensão.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

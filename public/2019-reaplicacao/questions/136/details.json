@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2019",
+    "index": 136,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O esquema apresenta a concentração de álcool presente em cada 200 mL de diferentes tipos de bebidas.\n\nÁlcool\n\nLimites para o consumo de bebidas alcoólicas\n\nBebida\nConcentração\n\nGrama\nde álcool\n\nde álcool\n\nCerveja\n\n5%\n\nVinho\n\n12%\n\n200 mL\n\nUísque\n\n40%\n\nVodca\n\n40%\n\nCachaça\n\n40%\n\nUnidades de álcool e males à saúde\n\nRISCO\nMULHERES\nHOMENS\n\nBAIXO\nMenor que 14 unidades por semana\nMenor que 21 unidades por semana\n\nMÉDIO\n15 a 35 unidades por semana\n22 a 50 unidades por semana\n\nALTO\nMais que 36 unidades por semana\nMais que 51 unidades por semana\n\nDisponível em: http://g1.globo.com. Acesso em: 30 jul. 2012 (adaptado).\nDe acordo com as informações, indique qual o número máximo de taças de vinho, de 300 mL, que podem ser\nconsumidas, semanalmente, por uma mulher que se enquadre no grupo de médio risco.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

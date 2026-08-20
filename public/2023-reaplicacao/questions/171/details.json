@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2023",
+    "index": 171,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um professor de matemática desenvolveu uma\natividade educacional relacionada aos Jogos Olímpicos\ne confeccionou uma maquete que representa uma piscina\nnas dimensões olímpicas. Admitiu que a piscina olímpica\ndeve ter capacidade mínima de 2 500 000 litros e construiu\nsua maquete, referente a esse valor mínimo, na forma de\nparalelepípedo reto retângulo com dimensões internas\n2 cm, 25 cm e 50 cm, cujo volume é 2 500  cm3. Considere\nque 1 L = 103 cm3.\n\nA maquete confeccionada pelo professor foi elaborada\nna escala",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 : 100. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1 : 1 000. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 : 2 000. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 : 50 000. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 : 1 000 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

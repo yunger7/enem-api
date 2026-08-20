@@ -1,0 +1,45 @@
+{
+    "title": "Questão 31 - ENEM 2023",
+    "index": 31,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2023-reaplicacao/questions/31/f598b1c7-9cc5-49db-bf75-b6a86a222db0.png)\n\nDisponível em: https://facebook.com/SenadoFederal. Acesso em: 1 nov. 2021.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/31/f598b1c7-9cc5-49db-bf75-b6a86a222db0.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com essa postagem, o enunciador busca A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "divulgar dispositivos legais criados para ajudar no combate a um crime. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "manifestar adesão a uma lei voltada para coibir a prática de um delito. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "incentivar o cidadão a obter informação sobre uma lei por vias informais. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tornar pública uma lei voltada à criação de perfis nas salas de bate-papo. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "alertar o público usuário de redes sociais sobre mudanças em uma lei vigente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

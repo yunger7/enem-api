@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2022",
+    "index": 104,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Carregadores\nelétricos\nsão\nprojetados\npara\nfornecerem energia a baterias recarregáveis, como as\nusadas em aparelhos celulares e máquinas fotográficas.\nAs especificações típicas de um desses dispositivos são:\n\nCarregador:\nEntrada AC 100-240 V / 200 mA / 50-60 Hz\nSaída DC 5,0 V / 1 000 mA\n\nBateria recarregável:\n1,5 V / 4 000 mAh\n\nUsando o carregador com corrente máxima, o tempo total\nde recarga dessa bateria totalmente descarregada, em\nhora, é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 6 . B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5 6 . C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "6. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

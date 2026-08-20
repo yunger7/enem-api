@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2021",
+    "index": 137,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "\u0019\u0010\b\u0002 \u0010\u0004'\b\u0002\n\t\r\b\u001e\u000e\u0004\u0005\u0004\f\u0002\n\f\u0002 \u001e\b\u0007\u0007\u0004\u0002 \u0005\b\u0002 \u000e\u0005\r\n\u0007\n'\u001d\u0004\u0002 \u000f\b\u0002\nRua 1 com a Avenida A. Ela está hospedada em um hotel\nna Rua 3, posicionado a exatos 40 metros de distância\n\u000f\b\u0002\u0012#\n\u0005\u000e\u000f\b\u0002\u0012$\u0002\u001e\u0004\u0005\r\b\u000f\u0004\t\u0002\b\u0002%\b\u0007\r\u000e\u0007\u0002\u000f\b\u0002\u0012#\n\u0005\u000e\u000f\b\u0002\u0012\u0002\n\u0010\u0002\u000f\u000e\u0007\n'\u001d\u0004\u0002\nà Avenida B.\n\nNo mapa está representado um plano cartesiano cujo\neixo das abscissas coincide com a Avenida A e o das\nordenadas, com a Rua 1, sendo a origem (0, 0) o local\nonde se encontra estacionado o veículo. Os quarteirões\nformados pelos cruzamentos dessas vias formam\nquadrados de lados medindo 100 m.\n\ny (m)\n\nRua 1\n\nRua 2\n\nRua 3\n\nAvenida C\n\nCarro\nx (m)\n\nAvenida A\n\nAvenida B\n\n\u0012\u0002 \u0004\u0007\u000f\n\u0005\b\u000f\b\u0002 \u000f\u0004\u0002 %\u0004\u0005\r\u0004\u0002 \u000b\f\n\u0002 \u0007\n%\u0007",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "\u0005 \b\u0002 \b\u0002 2\u0004 \b2\u000e\b' \u0004\u0002 \u000f\u0004\u0002 hotel é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

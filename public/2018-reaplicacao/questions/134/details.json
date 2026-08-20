@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2018",
+    "index": 134,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em derramamentos de óleo no mar, os produtos\nconhecidos como “dispersantes” são usados para reduzir\na tensão superficial do petróleo derramado, permitindo\nque o vento e as ondas “quebrem” a mancha em gotículas\nmicroscópicas. Estas são dispersadas pela água do\nmar antes que a mancha de petróleo atinja a costa.\nNa tentativa de fazer uma reprodução do efeito desse\nproduto em casa, um estudante prepara um recipiente\ncontendo água e gotas de óleo de soja. Há disponível\napenas azeite, vinagre, detergente, água sanitária e sal\nde cozinha.\nQual dos materiais disponíveis provoca uma ação\nsemelhante à situação descrita?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Azeite.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Vinagre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Detergente.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Água sanitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sal de cozinha.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

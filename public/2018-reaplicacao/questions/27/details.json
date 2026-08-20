@@ -1,0 +1,45 @@
+{
+    "title": "Questão 27 - ENEM 2018",
+    "index": 27,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018-reaplicacao/questions/27/739625bd-4be1-4d79-a582-d0f17e8aa829.png)\n\nKIM, L. Cry me a river. Instalação com camisas de força, pia, baldes,\n\ntorneira, espelho, lâmpada, 2001.\n\nCANTON, K. As nuances da cidade. Bravo!, n. 54, mar. 2002.",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/27/739625bd-4be1-4d79-a582-d0f17e8aa829.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A imagem reproduz a instalação da paulista Lina Kim, apresentada na 25ª Bienal de São Paulo em março de 2002. Nessa obra, a artista se utiliza de elementos dispostos num determinado ambiente para propor que o observador reconheça o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recusa à representação dos problemas sociais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "questionamento do que seja razão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "esgotamento das estéticas recentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "processo de racionalização inerente à arte contemporânea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ruptura estética com movimentos passados.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

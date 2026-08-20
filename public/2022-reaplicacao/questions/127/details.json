@@ -1,0 +1,43 @@
+{
+    "title": "Questão 127 - ENEM 2022",
+    "index": 127,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Detectores de fumaça baseados em ionização\nfuncionam como se fossem um “nariz eletrônico”, acusando\na presença de moléculas incomuns (fumaça) em seu\ninterior. Dentro do aparelho, conforme esquematizado na\nfigura, existe uma câmara de ionização aberta para o ar\n(1) e preenchida com íons (2) formados pelos choques\ndas moléculas do ar com as partículas emitidas pelo\nelemento químico amerício 95\n\n243 Am (3). O amerício expele,\nno interior da câmara, pequenas partículas radioativas,\nchamadas partículas alfa, que são núcleos de átomos de\n\n2\n4He. Com o choque, são formados cátions e elétrons,\nque transitam em direções opostas entre dois eletrodos.\nEnquanto houver cátions e elétrons se movendo no\ninterior da câmara, uma corrente se estabelece entre os\neletrodos no circuito (4) e, por se considerar que tudo\nestá bem, o alarme (5) permanece em silêncio.\n\nEntretanto, se um incêndio acontecer, partículas de\nfumaça entram no detector e começam a obstruir a câmara\nde ionização (6). As partículas de fumaça se prendem\naos íons, e o circuito no detector acusa essa mudança\nimediatamente (7), acionando o alarme (8). Assim que o\nincêndio é controlado, e a fumaça é removida, a câmara\nde detecção fica limpa, os íons voltam a se deslocar entre\nos eletrodos como antes, o circuito é desligado e o alarme\npara de tocar.\n\n1\n2\n\nFOGO!\n\nDisponível em: www.explainthatstuff.com. Acesso em: 3 dez. 2018 (adaptado).\n\nO sensor percebe a fumaça quando ela interrompe o(a)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fissão nuclear do gás hélio. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "passagem de corrente elétrica. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "transmutação das moléculas do ar. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "decaimento radioativo do amerício. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "fusão nuclear entre o hélio e o amerício.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 119 - ENEM 2025",
+    "index": 119,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma comunidade rural, os moradores utilizam uma\nbomba-d’água alimentada por 100 V de tensão contínua,\npodendo variar em até 5 V. Um eletrotécnico pretende instalar\nplacas fotovoltaicas para alimentar essa bomba. As placas são\nidênticas e cada uma apresenta tensão de operação igual a\n34 V com corrente de 7,5 A. Além disso, cada placa apresenta\n40 V de tensão elétrica, quando em circuito aberto. Assim,\nconsiderando que a placa descrita é um gerador não ideal, em\ncircuito aberto ela pode ser representada conforme a figura:\n\n![](https://enem.dev/2025/questions/119/cf53af03-9164-46c3-bedc-9d41cb6948da.png)\n\nO eletrotécnico construiu um circuito que permite à\nbomba-d’água operar corretamente com o menor número\npossível de placas conectadas. Para isso, desenhou um diagrama\nno qual todas essas placas são representadas como um único\ngerador não ideal, com a especificação das correspondentes\ncaracterísticas elétricas.",
+    "files": [
+        "https://enem.dev/2025/questions/119/cf53af03-9164-46c3-bedc-9d41cb6948da.png",
+        "https://enem.dev/2025/questions/119/053a622e-ebcf-4c2c-bbe8-2d4435d3a6d7.png",
+        "https://enem.dev/2025/questions/119/ec093e4f-5161-41d6-85de-ee62a77e6740.png",
+        "https://enem.dev/2025/questions/119/d2d011dc-7a87-487f-bd54-987cb93d7c93.png",
+        "https://enem.dev/2025/questions/119/a6ded288-5fc2-46e0-9dfc-75cbc632c5b9.png",
+        "https://enem.dev/2025/questions/119/be402274-9582-4dd8-a0f1-4ed7a194d7c1.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O diagrama que representa o circuito construído pelo eletrotécnico é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/119/053a622e-ebcf-4c2c-bbe8-2d4435d3a6d7.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/119/ec093e4f-5161-41d6-85de-ee62a77e6740.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/119/d2d011dc-7a87-487f-bd54-987cb93d7c93.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/119/a6ded288-5fc2-46e0-9dfc-75cbc632c5b9.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/119/be402274-9582-4dd8-a0f1-4ed7a194d7c1.png",
+            "isCorrect": false
+        }
+    ]
+}

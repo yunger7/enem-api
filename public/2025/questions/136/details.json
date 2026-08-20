@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2025",
+    "index": 136,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, qual será a capacidade, em metro cúbico, do cilindro escolhido por essa pessoa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "14",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "17",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "21",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

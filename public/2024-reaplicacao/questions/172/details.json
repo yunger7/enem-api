@@ -1,0 +1,43 @@
+{
+    "title": "Questão 172 - ENEM 2024",
+    "index": 172,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica utiliza latas cilíndricas como embalagem\nde seus produtos. Para embalar um novo produto, essa\nfábrica necessitará de latas cilíndricas com, no mínimo, o\ntriplo da capacidade volumétrica das que estão em uso,\ne com o menor custo possível. O representante de uma\nempresa de embalagens disponibilizou para essa fábrica\ncinco opções de latas, relacionando as medidas das latas\nnovas com as que estão em uso. São elas:\n\n•\t I: multiplicar a medida do raio por 6 e manter a da altura;\n•\t II: triplicar as medidas da área da base e da altura;\n•\t III: triplicar a medida do raio e manter a da altura;\n•\t IV: manter a medida do raio e triplicar a da altura;\n•\t V: triplicar as medidas do raio e da altura.\n\nO preço de cada lata é diretamente proporcional à sua\ncapacidade volumétrica.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "As exigências da fábrica são atendidas pelo tipo de lata apresentada na opção",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

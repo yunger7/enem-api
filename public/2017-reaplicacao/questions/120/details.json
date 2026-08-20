@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2017",
+    "index": 120,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os polímeros são materiais amplamente utilizados na sociedade moderna, alguns deles na fabricação de\nembalagens e filmes plásticos, por exemplo. Na figura estão relacionadas as estruturas de alguns monômeros usados\nna produção de polímeros de adição comuns.\n\nH C\nH C\nH C\nCI\n\n2\n3\n2\n\nEstireno\nEtileno (eteno)\nPropileno (propeno)\n\nAcrilamida\nCloreto de vinila\n\n(cloropropeno)",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Dentre os homopolímeros formados a partir dos monômeros da figura, aquele que apresenta solubilidade em água é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "polietileno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "poliestireno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "polipropileno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "poliacrilamida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "policloreto de vinila. CI CI Triclosan S O− Na+ N N Disponível em: www.unicamp.br. Acesso em: 16 nov. 2014 (adaptado). 2 2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

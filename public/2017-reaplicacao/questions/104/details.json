@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2017",
+    "index": 104,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O debate a respeito da natureza da luz perdurou por\nséculos, oscilando entre a teoria corpuscular e a teoria\nondulatória. No início do século XIX, Thomas Young,\ncom a finalidade de auxiliar na discussão, realizou o\nexperimento apresentado de forma simplificada na\nfigura. Nele, um feixe de luz monocromático passa por\ndois anteparos com fendas muito pequenas. No primeiro\nanteparo há uma fenda e no segundo, duas fendas.\nApós passar pelo segundo conjunto de fendas, a luz\nforma um padrão com franjas claras e escuras.\n\nFranjas\n\nclaras\n\nFenda\nsimples\nFenda\ndupla\n\nLuz monocromática\n\nFranjas\nescuras\n\nAnteparo\n\nSILVA, F. W. O. A evolução da teoria ondulatória da luz e os livros didáticos.\n\nRevista Brasileira de Ensino de Física, n. 1, 2007 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com esse experimento, Young forneceu fortes argumentos para uma interpretação a respeito da natureza da luz, baseada em uma teoria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "corpuscular, justificada pelo fato de, no experimento, a luz sofrer dispersão e refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "corpuscular, justificada pelo fato de, no experimento, a luz sofrer dispersão e reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ondulatória, justificada pelo fato de, no experimento, a luz sofrer difração e polarização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "ondulatória, justificada pelo fato de, no experimento, a luz sofrer interferência e reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ondulatória, justificada pelo fato de, no experimento, a luz sofrer difração e interferência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

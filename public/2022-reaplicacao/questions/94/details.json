@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2022",
+    "index": 94,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A alteração de hábitats é uma causa bem documentada\nno que tange à redução de populações de anfíbios no\nmundo. Uma pesquisa feita em um remanescente da\nFloresta de Araucária, no município de Fazenda Rio Grande\n(PR), revelou que cerca de 40% das espécies de anfíbios\nanuros daquela região estão associadas à mata estudada,\ndistribuindo-se desde o seu interior até o entorno.\n\nROSSA-FERES, D. C.; CONTE, C. E. Rev. Bras. de Zoologia,\n\nn. 4, dez. 2007 (adaptado).\nQual é a proposta adequada para a conservação da\ndiversidade biológica dos anuros na região citada?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Reflorestar com eucaliptos, por crescerem rapidamente. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Modificar geneticamente as espécies de anuros nativas. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Soltar anuros criados em cativeiro no fragmento florestal. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Introduzir novas espécies de árvores no fragmento florestal. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Acabar com o desmatamento do remanescente de Floresta de Araucária.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

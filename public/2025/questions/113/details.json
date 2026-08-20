@@ -1,0 +1,46 @@
+{
+    "title": "Questão 113 - ENEM 2025",
+    "index": 113,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Figura 1 apresenta o esquema de um tubo de imagem em que\num filamento, na posição A, libera elétrons por efeito termiônico.\nEsses elétrons formam um feixe estreito, que é acelerado por\ncampos elétricos em direção à parte interna da tela. Nesse\ncaminho, o feixe de elétrons passa por outro campo elétrico, na\nregião B, atingindo, em seguida, a parte interna da tela do tubo,\na qual é recoberta por um material que emite luz ao receber o\nimpacto dos elétrons.\n\n![](https://enem.dev/2025/questions/113/34621528-61e6-4063-af10-7c5530e6bfef.png)\n\nNa Figura 2, a carga negativa representa o feixe de elétrons\nque é acelerado e, posteriormente, atinge um ponto da tela.\nO campo elétrico na região B apresenta a seguinte configuração:\n\n![](https://enem.dev/2025/questions/113/b4a1fecc-4286-4fa9-82c3-3ac02d82f568.png)\n\nFigura 2\n\nGrupo de Reelaboração do Ensino de Física. Física 3:\n\neletromagnetismo. São Paulo: Edusp, 2000 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/113/34621528-61e6-4063-af10-7c5530e6bfef.png",
+        "https://enem.dev/2025/questions/113/b4a1fecc-4286-4fa9-82c3-3ac02d82f568.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

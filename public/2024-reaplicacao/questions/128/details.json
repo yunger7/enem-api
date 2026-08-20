@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2024",
+    "index": 128,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao realizar os preparativos para o Natal, uma pessoa\nresolveu aumentar o número de lâmpadas incandescentes\nde um pisca-pisca que originalmente tinha 20 lâmpadas\nassociadas em paralelo, cada uma com resistência R.\nAdicionou outras 20 lâmpadas com as mesmas\nespecificações e também em paralelo. O circuito passou\na ser composto por 40 lâmpadas em paralelo e uma fonte\nde resistência interna r. A corrente total do circuito com\n40 lâmpadas é proporcional à corrente do circuito com\n20 lâmpadas, ou seja, i40 = a ⋅ i20. Ao ligar o sistema,\nela observou que o brilho das lâmpadas diminuiu com\nfator de proporcionalidade igual a a2.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o fator a, utilizado para a obtenção da redução do brilho em cada lâmpada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 R r +",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "R r + R r +",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "R r +",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R r 40 +",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

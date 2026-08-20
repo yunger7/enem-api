@@ -1,0 +1,43 @@
+{
+    "title": "Questão 94 - ENEM 2023",
+    "index": 94,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na formulação de detergentes sintéticos, são\nencontradas diversas substâncias que possuem ação\nespecífica. Entre essas substâncias, estão os tensoativos\naniônicos, dos quais o dodecilbenzenossulfonato de\nsódio é o mais comum em detergentes para cozinha.\n\nO dodecilbenzenossulfonato de sódio é um tensoativo\nem razão da presença",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do íon Na+ hidrofílico e pela porção sulfonato lipofílica. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "das porções sulfonato hidrofílica e dodecilbenzeno lipofílica. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "da porção benzenossulfonato, que possui característica lipofílica. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do íon Na+, que possui tanto característica hidrofílica quanto lipofílica. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "do dodecilbenzeno, que possui tanto característica hidrofílica quanto lipofílica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

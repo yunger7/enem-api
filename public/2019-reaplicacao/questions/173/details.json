@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2019",
+    "index": 173,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O modelo predador-presa consiste em descrever a\ninteração entre duas espécies, sendo que uma delas\n(presa) serve de alimento para a outra (predador).\nA resposta funcional é a relação entre a taxa de consumo\nde um predador e a densidade populacional de sua\npresa. A figura mostra três respostas funcionais (f, g, h),\nem que a variável independente representa a densidade\npopulacional da presa.\n\nf\ng\nh\n\nTaxa de consumo de predador\n\n0,8\n\n0,6\n\n0,4\n\n0,2",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "0 0",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "(0 ; B)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "(B ; C)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "(B ; E)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "(C ; D)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(C ; E)",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

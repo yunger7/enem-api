@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2017",
+    "index": 108,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A célula fotovoltaica é uma aplicação prática do efeito\nfotoelétrico. Quando a luz incide sobre certas substâncias,\nlibera elétrons que, circulando livremente de átomo\npara átomo, formam uma corrente elétrica. Uma célula\nfotovoltaica é composta por uma placa de ferro recoberta\npor uma camada de selênio e uma película transparente\nde ouro. A luz atravessa a película, incide sobre o selênio\ne retira elétrons, que são atraídos pelo ouro, um ótimo\ncondutor de eletricidade. A película de ouro é conectada à\nplaca de ferro, que recebe os elétrons e os devolve para\no selênio, fechando o circuito e formando uma corrente\nelétrica de pequena intensidade.\n\nDIAS, C. B. Célula fotovoltaica. Disponível em: http://super.abril.com.br.\n\nAcesso em: 16 ago. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O processo biológico que se assemelha ao descrito é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "fotossíntese.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "fermentação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "quimiossíntese.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "hidrólise de ATP.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "respiração celular.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

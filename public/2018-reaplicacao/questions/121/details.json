@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2018",
+    "index": 121,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ao dimensionar circuitos elétricos residenciais, é recomendado utilizar adequadamente bitolas dos fios condutores\ne disjuntores, de acordo com a intensidade de corrente elétrica demandada. Esse procedimento é recomendado\npara evitar acidentes na rede elétrica. No quadro é especificada a associação para três circuitos distintos de uma\nresidência, relacionando tensão no circuito, bitolas de fios condutores e a intensidade de corrente elétrica máxima\nsuportada pelo disjuntor.\n\nDimensionamento ― Circuito residencial\n\nIdentificação\nTensão\n\nBitola do fio\n\n(mm2)\n\n(volt)\n\nCircuito 1\n110\n2,5\n20\n4 200\n\nCircuito 2\n220\n2,5\n20\n4 200\n\nCircuito 3\n220\n6,0\n35\n6 600",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Com base no dimensionamento do circuito residencial, em qual(is) do(s) circuito(s) o(s) equipamento(s) é(estão) ligado(s) adequadamente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Apenas no Circuito 1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Apenas no Circuito 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Apenas no Circuito 3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Apenas nos Circuitos 1 e 2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Apenas nos Circuitos 2 e 3.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 171 - ENEM 2018",
+    "index": 171,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa possui um terreno em forma de um\npentágono, como ilustrado na figura.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "B C",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "700.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "816.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Sabe-se que a diagonal AD mede 50 m e é paralela ao lado BC, que mede 29 m. A distância do ponto B a AD é de 8 m e a distância do ponto E a AD é de 20 m. A área, em metro quadrado, deste terreno é igual a",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

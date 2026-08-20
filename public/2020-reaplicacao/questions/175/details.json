@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2020",
+    "index": 175,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O governador de um estado propõe a ampliação de\ninvestimentos em segurança no transporte realizado por\nmeio de trens. Um estudo para um projeto de lei prevê que\nse tenha a presença de três agentes mulheres, distribuídas\nentre os 6 vagões de uma composição, de forma que\nduas dessas agentes não estejam em vagões adjacentes,\ngarantindo assim maior segurança aos usuários.\n\nDisponível em: www.sisgraph.com.br. Acesso em: 29 jan. 2015 (adaptado).\n\n2ª aplicação\nMT - 2° dia | Caderno 7 - AZUL - Página 29\n\nA expressão que representa a quantidade de maneiras\ndistintas das três agentes serem distribuídas nos vagões é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "3 4 + 3!",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 115 - ENEM 2023",
+    "index": 115,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A análise da atividade de dois cultivos celulares\nmantidos com diferentes substratos está representada\nno quadro.\n\nRendimento\nenergético dos\n\nCultivo celular\nSubstrato\n\nprodutos\n\nA\n Glicose + O2\n219 kcal/mol\n\nB\n Glicose\n29 kcal/mol",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual organela celular não está ativa no cultivo B? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Núcleo. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Lisossomos. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Mitocôndrias. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Complexo de Golgi. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Retículo endoplasmático.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

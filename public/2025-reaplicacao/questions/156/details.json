@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2025",
+    "index": 156,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Paulo esqueceu a senha de acesso à sua conta bancária.\nEle se lembra apenas de que sua senha é uma das possíveis\npermutações da palavra DETETIVE que se iniciam pela letra D.\nO sistema do banco permite que ele faça até quatro tentativas\nantes de bloquear o acesso, e Paulo não digitará uma mesma\ncombinação de letras duas vezes.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A probabilidade de Paulo acessar sua conta, sem bloqueá-la, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

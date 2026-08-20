@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2022",
+    "index": 173,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Três amigos, A, B e C, se encontraram em um\nsupermercado. Por coincidência, estavam comprando os\nmesmos itens, conforme o quadro.\n\nAmigos\nArroz (kg)\nFeijão (kg)\nMacarrão (kg)\n\nA\n3\n2\n4\n\nB\n2\n3\n3\n\nC\n2\n2\n2\n\nOs amigos estavam muito entretidos na conversa e\nnem perceberam que pagaram suas compras, pegaram\nseus trocos e esqueceram seus comprovantes. Já longe\ndo supermercado, “A” lembrou que precisava saber o\nquanto pagou por um quilo de arroz e dois quilos de\nmacarrão, pois estava comprando para sua vizinha e\nesperava ser ressarcido. “B”, que adorava desafios\nmatemáticos, disse que pagou suas compras com\nR$ 40,00 e obteve troco de R$ 7,30, e que conseguiria\ndeterminar o custo desses itens se os amigos\ndissessem como pagaram e quanto foram seus\nrespectivos trocos. “A” disse que pagou com R$ 40,00\ne obteve troco de R$ 4,00, e “C” pagou com R$ 30,00 e\nobteve troco de R$ 5,40.\nA vizinha de “A” deve a ele pela compra, em reais, o valor\nde",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8,10. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "10,00. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11,40. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "12,00. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13,20. 29 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

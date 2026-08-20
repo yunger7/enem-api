@@ -1,0 +1,43 @@
+{
+    "title": "Questão 144 - ENEM 2018",
+    "index": 144,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para garantir segurança ao dirigir, alguns motoristas\ninstalam dispositivos em seus carros que alertam quando\numa certa velocidade máxima (vmáx), pré-programada pelo\nusuário de acordo com a velocidade máxima da via de\ntráfego, é ultrapassada. O gráfico exibido pelo dispositivo\nno painel do carro após o final de uma viagem fornece a\nvelocidade (km/h) do carro em função do tempo (h).\n\nVelocidade (km/h)\n\nvmáx\n\nTempo (h)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com o gráfico, quantas vezes o dispositivo alertou o motorista no percurso da viagem?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Questão 135 - ENEM 2025",
+    "index": 135,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A icterícia é uma doença que acomete recém-nascidos e\npode ser tratada com um método de fototerapia conhecido como\nbanho de luz, que consiste na exposição do recém-nascido a uma\nfonte luminosa equipada com LEDs azuis. Para o monitoramento\nda dosagem dessa radiação, é utilizada a resposta óptica de um\nsensor constituído de materiais orgânicos que luminescem quando\nexpostos à luz azul. Com o passar do tempo, essa radiação oxida os\nmateriais do sensor, alterando sua coloração de vermelho-laranja\npara verde, o que indica o final do tratamento.\n\nO gráfico apresenta o espectro de fotoluminescência do sensor\nem função do comprimento de onda da luz emitida no início do\ntratamento, quando o sensor, colado na fralda do bebê (Figura 1),\nluminesce na região do vermelho-laranja (∼600 nm). A Figura 2\napresenta a evolução da coloração do sensor, mostrando que a\nfrequência da luz emitida por ele aumenta em função do tempo de\nexposição à luz azul.\n\n![](https://enem.dev/2025/questions/135/2e671510-d4e6-45b0-9f83-39ee7d47c30c.png)\n\nSILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação\n\nem terapia com luz azul. Tecnol. Metal. Mater. Miner.,\n\nn. 3, jul.-set. 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/135/2e671510-d4e6-45b0-9f83-39ee7d47c30c.png",
+        "https://enem.dev/2025/questions/135/9f5414a1-f3a6-4488-b97e-8d0e9c8d18b8.png",
+        "https://enem.dev/2025/questions/135/8d0edba4-5ce0-44e8-92d6-75b22d3c2a56.png",
+        "https://enem.dev/2025/questions/135/f117aeb2-b041-4955-b965-2bf9533f5e29.png",
+        "https://enem.dev/2025/questions/135/72e3951c-3415-4ad7-83a9-dd08eb8303fd.png",
+        "https://enem.dev/2025/questions/135/759d1324-766f-4374-a539-cd2f5ab3e5e1.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/135/9f5414a1-f3a6-4488-b97e-8d0e9c8d18b8.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/135/8d0edba4-5ce0-44e8-92d6-75b22d3c2a56.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/135/f117aeb2-b041-4955-b965-2bf9533f5e29.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/135/72e3951c-3415-4ad7-83a9-dd08eb8303fd.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/135/759d1324-766f-4374-a539-cd2f5ab3e5e1.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2019",
+    "index": 143,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No\ndesenvolvimento\nde\num\nnovo\nremédio,\npesquisadores monitoram a quantidade Q de uma\nsubstância circulando na corrente sanguínea de um\npaciente, ao longo do tempo t. Esses pesquisadores\ncontrolam o processo, observando que Q é uma função\nquadrática de t. Os dados coletados nas duas primeiras\nhoras foram:\n\nt (hora)\n0\n1\n2\n\nQ (miligrama)\n1\n4\n6\n\nPara decidir se devem interromper o processo,\nevitando riscos ao paciente, os pesquisadores querem\nsaber, antecipadamente, a quantidade da substância\nque estará circulando na corrente sanguínea desse\npaciente após uma hora do último dado coletado.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Nas condições expostas, essa quantidade (em miligrama) será igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "9.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

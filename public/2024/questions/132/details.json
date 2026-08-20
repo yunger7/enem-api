@@ -1,0 +1,45 @@
+{
+    "title": "Questão 132 - ENEM 2024",
+    "index": 132,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma caixa decorativa utiliza duas pequenas lâmpadas,\nL1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a\numa bateria de tensão VQR. Um fio resistivo QR, de\n48 centímetros, está ligado em paralelo à bateria. Cinco\npontos, A, B, C, D e E, dividem o fio QR em seis segmentos\nde comprimentos iguais. O circuito também tem um\namperímetro com dois terminais. Um dos terminais (P) está\nligado ao fio entre as duas lâmpadas. O outro terminal (S)\nestá livre e será ligado ao fio QR. Dependendo do ponto em\nque esse terminal livre for conectado, ocorrerá a mudança\nna tensão à qual as lâmpadas são submetidas. Os demais\nfios do circuito têm resistências elétricas desprezíveis.\nA figura ilustra esse circuito.\n\n![](https://enem.dev/2024/questions/132/5abaf306-3c26-42ba-8ed0-e29df88f009a.png)",
+    "files": [
+        "https://enem.dev/2024/questions/132/5abaf306-3c26-42ba-8ed0-e29df88f009a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

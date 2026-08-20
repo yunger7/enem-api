@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2024",
+    "index": 122,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A tirinha ilustra esquimós dentro de um iglu, habitação\nde formato hemisférico construída durante o inverno a partir de\nneve ou blocos de gelo. Essa estrutura de construção se justifica\npelo fato de esse povo habitar as regiões mais setentrionais\nda Groenlândia, Canadá e Alasca.\n\n![](https://enem.dev/2024/questions/122/1005638a-64f8-4133-8ced-e374a06126cc.png)\n\nLAERTE. Disponível em: https://artedafisicapibid.blogspot.com.\n\nAcesso em: 4 dez. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/122/1005638a-64f8-4133-8ced-e374a06126cc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na tirinha, a geladeira é necessária para fazer gelo porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "a temperatura interna do iglu é maior que a de solidificação da água.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

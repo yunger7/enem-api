@@ -1,0 +1,43 @@
+{
+    "title": "Questão 97 - ENEM 2024",
+    "index": 97,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O soro caseiro serve para combater a desidratação por\nmeio da reposição da água e sais minerais perdidos,\npor exemplo, por diarreia. Uma receita simples para a sua\npreparação consiste em utilizar duas colheres grandes\n(de sopa) de açúcar e duas colheres pequenas (de café)\nde sal de cozinha, dissolvidos em 2 L de água fervida,\nobtendo-se uma solução com concentração de íon sódio\nde 1,4 mg/mL.\n\nConsidere as massas molares: NaCl = 58,5 g/mol;\nNa = 23 g/mol.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,7 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,8 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,8 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,6 g",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "7,0 g",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

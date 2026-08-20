@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2022",
+    "index": 100,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A bula de um determinado medicamento traz as\nseguintes informações:\n\nVolume do frasco = 500 mL de solução\n\nComposição:\n\nCloreto de potássio = 75 mg\n\nCloreto de sódio = 0,07 g\n\nGlicose = 0,00008 kg\n\nDe acordo com as informações apresentadas na bula,\na substância que se encontra em maior concentração\ne a não condutora de corrente elétrica, quando em\nsolução aquosa, são, respectivamente,",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "glicose e glicose. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "glicose e cloreto de sódio. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "cloreto de sódio e glicose. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "cloreto de potássio e glicose. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "cloreto de sódio e cloreto de potássio.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

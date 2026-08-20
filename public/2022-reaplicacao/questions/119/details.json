@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2022",
+    "index": 119,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Esteiras e escadas rolantes são dispositivos que deslocam, a velocidade constante, os objetos neles colocados,\npor meio de sistemas de controle com sensores. Quando a massa total do dispositivo varia, seja pelo acréscimo ou\npela retirada de objetos, a ação de forças impulsivas mantém a velocidade constante. Como exemplo, considere que\na massa total diminua de 1 200 kg para 1 000 kg em um intervalo de tempo de 0,10 s, e que, então, seja aplicada uma\nforça impulsiva constante de 250 N para manter constante a velocidade.\n\nNo exemplo mencionado, o valor da velocidade constante do dispositivo rolante é, em m",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,011. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,021. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,025. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,125. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "0,500.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

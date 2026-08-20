@@ -1,0 +1,48 @@
+{
+    "title": "Questão 180 - ENEM 2021",
+    "index": 180,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "\u0012\u0002\u000e\u0010\bJ\n\u0010\u0002\u0007\n%\u0007\n\n\u0005\r\b\u0002\f\u0010\b\u0002\u001e\b2\u001e\f2\b\u000f\u0004\u0007\b\u0002\u001e\u000e\n\u0005\rG\u0006\u001e\b\u0002\u001e\u0004\u0010\u0002\nduas teclas destacadas. A tecla A eleva ao quadrado o\nnúmero que está no visor da calculadora, e a tecla B\nextrai a raiz cúbica do número apresentado no visor.\n\n![](https://enem.dev/2021-reaplicacao/questions/180/1c26013f-50e7-4b82-bcc8-53a6bd3d2300.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/180/5a8754b9-a971-4a47-8d02-cf4bdfad71c1.png)\n\n![](https://enem.dev/2021-reaplicacao/questions/180/d3ede8aa-6e38-42be-b7d7-31db15fd1165.png)\n\nGraus\nRadianos\nGrados\nMC\nMR\nMS\nM+\nM\n\nInv\n\n(\n\nIn\n\n+\n\n(\n\nCE\nC\nM\n\nn!\n\nInt\n\u0002\u0003\u0004\u0005\n\u0002\u0003\u0004\n\n*\n\n\u0006\u0007\u0002\n\b\t\u0002\u0005\n\b\t\u0002\n\n1\n2\n3\n\ntanh\ntan\n\n+\n=\n10\n\n![](https://enem.dev/2021-reaplicacao/questions/180/90fbba25-0f04-4f2f-8b0b-73d5ce739691.png)",
+    "files": [
+        "https://enem.dev/2021-reaplicacao/questions/180/1c26013f-50e7-4b82-bcc8-53a6bd3d2300.png",
+        "https://enem.dev/2021-reaplicacao/questions/180/5a8754b9-a971-4a47-8d02-cf4bdfad71c1.png",
+        "https://enem.dev/2021-reaplicacao/questions/180/d3ede8aa-6e38-42be-b7d7-31db15fd1165.png",
+        "https://enem.dev/2021-reaplicacao/questions/180/90fbba25-0f04-4f2f-8b0b-73d5ce739691.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "F-E Exp Mod log",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 138 - ENEM 2023",
+    "index": 138,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "“Quanto é mil trilhões\n\nVezes infinito?”\n\nTOLLER, P. Oito anos. In: Paula Toller. Rio de Janeiro: Warner Music Brasil, 1998.\n\nO trecho da canção Oito anos, de Paula Toller, foi\napresentado por um professor de matemática a um grupo\nde cinco alunos. Em seguida, o professor solicitou que\ncada aluno apresentasse uma expressão matemática\nque traduzisse os versos citados. Cinco respostas diferentes\nforam dadas:\n\nResposta 1: 109 × ∞\n\nResposta 2: 1012 × ∅\n\nResposta 3: 1012 × ∞\n\nResposta 4: 1015 × ∅\n\nResposta 5: 1015 × ∞\n\nA resposta que representa matematicamente o trecho da\ncanção é a",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

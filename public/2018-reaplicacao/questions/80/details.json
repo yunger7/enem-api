@@ -1,0 +1,45 @@
+{
+    "title": "Questão 80 - ENEM 2018",
+    "index": 80,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](https://enem.dev/2018-reaplicacao/questions/80/21f6a0cb-4ea7-4f76-abf3-59f656dbf091.png)\n\nBRASIL. IBGE. Regiões de influência de cidades 2007. Rio de Janeiro: IBGE, 2008 (adaptado).",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/80/21f6a0cb-4ea7-4f76-abf3-59f656dbf091.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O critério que rege a hierarquia urbana é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "existência de distritos industriais de grande porte.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "importância histórica dos centros urbanos tradicionais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "centralidade exercida por algumas cidades em relação às demais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "proximidade em relação ao litoral das principais cidades brasileiras.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "presença de sedes de multinacionais potencializando a conexão global.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 131 - ENEM 2024",
+    "index": 131,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O bioma Pampa corresponde a quase dois terços do Rio\nGrande do Sul e pouco mais de 2% do Brasil, contendo cerca\nde 3 mil espécies de plantas. Dentre essas, aproximadamente\n400 são gramíneas, que são ervas comumente chamadas\nde grama ou capim e apresentam polinização pelo vento\n(anemocoria). Esse tipo de polinização é pouco eficiente, pois o\nencontro entre os grãos de pólen e o estigma ocorre ao acaso.\n\nDisponível em: http://zh.clicrbs.com.br.\n\nAcesso em: 15 nov. 2014 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma adaptação que também favoreceu o sucesso reprodutivo nessas plantas é o fato de elas possuírem flores com",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pétalas atrativas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "néctar açucarado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "odor desagradável.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "tamanho pronunciado.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "grãos de pólen numerosos.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

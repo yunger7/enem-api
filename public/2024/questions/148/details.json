@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2024",
+    "index": 148,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma caneca com água fervendo é retirada de um\nforno de micro-ondas. A temperatura T, em grau Celsius,\nda caneca, em função do tempo t, em minuto, pode ser\nmodelada pela função T(t) = a + 80 bt, representada no\ngráfico a seguir.\n\n![](https://enem.dev/2024/questions/148/39493b80-f70d-478f-bb80-9286e7fb4220.png)",
+    "files": [
+        "https://enem.dev/2024/questions/148/39493b80-f70d-478f-bb80-9286e7fb4220.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os valores das constantes a e b são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

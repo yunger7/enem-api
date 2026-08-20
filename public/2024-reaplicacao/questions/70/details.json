@@ -1,0 +1,43 @@
+{
+    "title": "Questão 70 - ENEM 2024",
+    "index": 70,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As primeiras noções de cidadania estiveram apoiadas\nnos estudos clássicos das civilizações antigas, sobretudo a\ngreco-romana, tendo sido, a partir de então, incorporados\ne criados outros termos que também se aprimoraram\ncom os debates que se sucederam. Embora tenham sido\ngestados no período clássico, foram no período iluminista\nmelhor aprimorados e adquirindo sentidos mais próximos\ndos quais temos hoje.\n\nBODART, C. N.; FIGUEIREDO, C. A. S. Ciência política para o",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em sua origem, o conceito descrito no texto era associado ao seguinte grupo social:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Clero católico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Homens livres.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Escravos urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Aristocratas rurais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Mulheres sufragistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

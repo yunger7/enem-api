@@ -1,0 +1,43 @@
+{
+    "title": "Questão 126 - ENEM 2023",
+    "index": 126,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Lâmpadas incandescentes são constituídas de um\nfilamento de tungstênio dentro de um bulbo de vidro\ncom um gás a baixa pressão. Essas lâmpadas podem\napresentar diferentes potências quando submetidas à\nmesma tensão elétrica.\n\nUm estudante precisa selecionar uma lâmpada que\nforneça o maior brilho, para isso deverá selecionar\naquela que possui o filamento mais",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "curto, pois terá a menor resistência. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "comprido, pois terá a maior resistência. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "curto, pois terá a menor resistividade. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "curto, pois terá a menor corrente elétrica. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "comprido, pois terá a menor resistividade.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

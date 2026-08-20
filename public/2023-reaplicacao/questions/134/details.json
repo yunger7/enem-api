@@ -1,0 +1,43 @@
+{
+    "title": "Questão 134 - ENEM 2023",
+    "index": 134,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No manual de bolso sobre a sífilis, disponibilizado\ngratuitamente pelo Ministério da Saúde, é informado que a\nsífilis congênita é resultado da disseminação hematogênica\ndo Treponema pallidum, presente no sangue da gestante\ninfectada. A falta de tratamento ou tratamento inadequado\ndurante o período embrionário causa a transmissão vertical\npor via transplacentária.\n\nManual de bolso — sífilis. Disponível em: http://bvsms.saude.gov.br.\n\nAcesso em: 10 fev. 2012 (adaptado).\n\nConsidere uma gestante que descobre, no primeiro mês\nde gravidez, estar contaminada por essa bactéria. Para\ndiminuir a chance de contaminação do feto, a gestante\ndeverá",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "realizar um transplante de placenta. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "tratar por via transplacentária o embrião. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fazer exames sorológicos durante a gestação. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eliminar o quanto antes o parasita de seu sangue. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "medicar adequadamente a criança logo após o nascimento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

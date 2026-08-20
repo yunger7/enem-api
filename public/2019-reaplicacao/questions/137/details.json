@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2019",
+    "index": 137,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de transporte disponibiliza, para embalagem de encomendas, caixas de papelão no formato de\nparalelepípedo retoretângulo, conforme dimensões no quadro.\n\nModelo da caixa\nComprimento (cm)\nLargura (cm)\nAltura (cm)\n1\n12\n12\n13\n2\n23\n20\n25\n3\n25\n25\n25\n4\n26\n25\n24\n5\n23\n26\n26\nPara embalar uma encomenda, contendo um objeto esférico com 11 cm de raio, essa empresa adota como\ncritério a utilização da caixa, dentre os modelos disponíveis, que comporte, quando fechada e sem deformá-la, a\nencomenda e que possua a menor área de superfície total.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Desconsidere a espessura da caixa. Nessas condições, qual dos modelos apresentados deverá ser o escolhido pela empresa?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 Unidade de álcool 2,4",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2023",
+    "index": 105,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As baterias de lítio para carros elétricos são capazes\nde armazenar cerca de 700 Wh de energia em um volume\nde 1 L, enquanto a combustão de 1 L de etanol hidratado\nem um motor a combustão disponibiliza 6 300 Wh de\nenergia. Os motores a combustão têm uma eficiência\nbaixa, com apenas 30% da energia do combustível sendo\ntransformada em movimento. Já os motores elétricos\napresentam eficiência três vezes maior. Para estudar\na viabilidade de se utilizar a mesma plataforma de um\ncarro movido a álcool, com tanque de 40 L de combustível,\npara a produção de modelos elétricos, uma equipe de\nengenharia precisa estimar o volume da bateria de lítio\nque corresponda, no carro elétrico, à mesma quantidade\nenergética desse carro a álcool.\n\nVASCONCELOS, Y. Mais energia. Pesquisa Fapesp, n. 261, nov. 2017 (adaptado).\n\nO volume aproximado, em litro, da bateria de lítio a ser\nutilizada é",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "36. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "120. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "360. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "400. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 080.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

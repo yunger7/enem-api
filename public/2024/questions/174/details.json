@@ -1,0 +1,50 @@
+{
+    "title": "Questão 174 - ENEM 2024",
+    "index": 174,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo virtual para celular, um personagem pode\npercorrer trajetórias retilíneas voando ou se deslocando ao\nlongo de paredes. Considere que o personagem descreve\na trajetória ABCDEF, em que os pontos A, D e E estão em\num plano paralelo ao que contém os pontos B e C, sendo\nesses dois planos ortogonais ao plano da base que contém\no ponto F, conforme a figura.\n\n![](https://enem.dev/2024/questions/174/7aeb6d75-c763-4419-a4d1-c33427ba5df6.png)",
+    "files": [
+        "https://enem.dev/2024/questions/174/7aeb6d75-c763-4419-a4d1-c33427ba5df6.png",
+        "https://enem.dev/2024/questions/174/034ac64a-3efb-43d9-8bc7-cef0eb25374d.png",
+        "https://enem.dev/2024/questions/174/595b132f-4aa0-46b5-a4dd-6f81b6786e30.png",
+        "https://enem.dev/2024/questions/174/3415a7c6-1743-49ab-8db7-3f49c5279675.png",
+        "https://enem.dev/2024/questions/174/bc4b11f5-43e4-4ea5-b4a2-57d668cd6048.png",
+        "https://enem.dev/2024/questions/174/a9735fbe-35f3-41c9-b451-f9fd7b92b430.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/174/595b132f-4aa0-46b5-a4dd-6f81b6786e30.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/174/bc4b11f5-43e4-4ea5-b4a2-57d668cd6048.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/174/a9735fbe-35f3-41c9-b451-f9fd7b92b430.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/174/034ac64a-3efb-43d9-8bc7-cef0eb25374d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/174/3415a7c6-1743-49ab-8db7-3f49c5279675.png",
+            "isCorrect": false
+        }
+    ]
+}

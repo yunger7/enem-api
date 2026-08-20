@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2019",
+    "index": 170,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Muitos restaurantes servem refrigerantes em copos\ncontendo limão e gelo. Suponha um copo de formato\ncilíndrico, com as seguintes medidas: diâmetro = 6 cm e\naltura = 15 cm. Nesse copo, há três cubos de gelo, cujas\narestas medem 2 cm cada, e duas rodelas cilíndricas\nde limão, com 4 cm de diâmetro e 0,5 cm de espessura\ncada. Considere que, ao colocar o refrigerante no copo,\nos cubos de gelo e os limões ficarão totalmente imersos.\n(Use 3 como aproximação para π).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O volume máximo de refrigerante, em centímetro cúbico, que cabe nesse copo contendo as rodelas de limão e os cubos de gelo com suas dimensões inalteradas, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "107.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "234.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "369.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "391.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "405.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

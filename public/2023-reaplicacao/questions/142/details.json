@@ -1,0 +1,43 @@
+{
+    "title": "Questão 142 - ENEM 2023",
+    "index": 142,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na modelagem e no estudo de fenômenos\nperiódicos, em geral, os modelos associados fazem uso\nde funções trigonométricas. Nesse sentido, considere\num experimento, realizado em laboratório, em que uma\nplanta foi colocada em uma estufa, onde a temperatura\né controlável. O experimento consiste em observar\nalterações nas características dessa planta ao ser\nsubmetida a variações de temperatura. Durante 24 horas,\na temperatura T(x) da estufa variou de acordo\n\n\u001a\n\u0019\u0018\nx\n4\n, em que x\n\né medido em hora, variando no intervalo 0 ≤ x ≤ 24.\n\ncom a função T(x) = 20 - 10sen \u001f \u001e\n\n\u001c\u001b\n\nDurante esse experimento, quantas vezes a temperatura\nna estufa atingiu o seu valor mínimo?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "4 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 114 - ENEM 2024",
+    "index": 114,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um dos agentes que mais contribui para a poluição\ndo ar é o automóvel a combustão interna. Em áreas\nurbanas, isso é demonstrado dramaticamente pela\nfumaça fotoquímica, resultante da interação entre óxidos\nde nitrogênio, hidrocarbonetos e luz solar, para formar\nprodutos de oxidação, que causam irritação aos olhos, ao\naparelho respiratório e danos às plantas. As condições de\noperação de motores a combustão, como a razão da mistura\nar/combustível no cilindro, influenciam na composição\ndos gases lançados pelo escapamento na atmosfera.\nO gráfico ilustra a variação nas composições dos principais\ngases, dióxido de carbono (CO2), hidrocarbonetos (HC),\nmonóxido de carbono (CO), monóxido de nitrogênio (NO) e\noxigênio molecular (O2), emitidos por um motor a gasolina,\nem diferentes razões ar/combustível, em massa.\n\n![](https://enem.dev/2024/questions/114/b4071aa9-c2ab-46f6-81b8-4c4a2bcff8a4.png)\n\nRANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos\n\nno controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/114/b4071aa9-c2ab-46f6-81b8-4c4a2bcff8a4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Na condição de razão ar/combustível igual a 18, haverá uma emissão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "baixa de O2 e alta de NO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "baixa de NO e alta de HC.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "baixa de CO e alta de CO2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "baixa de HC e alta de CO.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "baixa de CO2 e alta de HC.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

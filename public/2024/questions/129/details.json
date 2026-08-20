@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2024",
+    "index": 129,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um estudante comprou uma cafeteira elétrica de 700 W\nde potência e com capacidade de 0,5 L de água (500 g).\nEnquanto o café estava em preparação na capacidade\nmáxima da cafeteira, ele marcou que demorou 3 minutos\npara a cafeteira ferver toda a água (100 °C) a partir da\ntemperatura ambiente de 20 °C. Em seguida, para avaliar a\neficiência da cafeteira, ele calculou esse tempo desprezando\nquaisquer perdas energéticas. É necessária 1 cal (4,2 J)\npara elevar em 1 °C a temperatura de 1 grama de água.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual a eficiência energética calculada pelo estudante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "75%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "7,5%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,1%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

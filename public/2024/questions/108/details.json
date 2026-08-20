@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2024",
+    "index": 108,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Sistemas agroflorestais (SAFs)\nOs sistemas agroflorestais alinham os interesses\neconômicos aos ecológicos. Esses sistemas podem ser\nusados na recuperação ambiental de áreas degradadas que\nse tornaram pouco produtivas, como as utilizadas por muito\ntempo para pastagem. Para isso, num primeiro momento,\nas árvores nativas são plantadas em conjunto com culturas\nagrícolas anuais, como feijão, mandioca, milho e abóbora,\nque geram renda para os proprietários da terra e incentivam\na manutenção do sistema. Em um segundo momento, são\nintroduzidas outras espécies, como trepadeiras e arbustos, de\nacordo com um arranjo espacial e temporal preestabelecido.\nNesse processo, ocorrerão mudanças graduais na estrutura\ne composição das comunidades vegetais ao longo do tempo,\nque culminarão no aumento da diversidade do ambiente.\n\nDisponível em: www.embrapa.br. Acesso em: 9 dez. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O conjunto dessas mudanças graduais é análogo ao processo natural denominado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "rotação de culturas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "sucessão ecológica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "coevolução específica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "adaptação por seleção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convergência adaptativa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

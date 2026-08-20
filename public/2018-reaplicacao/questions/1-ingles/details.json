@@ -1,0 +1,45 @@
+{
+    "title": "Questão 1 - ENEM 2018",
+    "index": 1,
+    "year": 2018,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2018-reaplicacao/questions/1-ingles/e16b2976-8fe7-4a38-afa4-74eb245f4e6e.png)\n\nDisponível em: www.doityourself.com. Acesso em: 12 jul. 2015.",
+    "files": [
+        "https://enem.dev/2018-reaplicacao/questions/1-ingles/e16b2976-8fe7-4a38-afa4-74eb245f4e6e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Pelas expressões do it yourself e How-Tos, entende-se que a pesquisa realizada na página da internet revela uma busca por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "agendamento de serviços autorizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "instrução para a realização de atividades.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "esclarecimento de dúvidas com outros usuários.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "inscrição em cursos para elaboração de projetos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aquisição de produtos para a execução de tarefas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

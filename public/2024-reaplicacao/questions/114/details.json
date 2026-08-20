@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2024",
+    "index": 114,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um grupo de pesquisadores realizou um experimento\npara identificar condições ideais para o crescimento de\nervilhas. Utilizaram um solo rico em nutrientes e minerais\n(nitrogênio orgânico, fosfato, cálcio, potássio). Em um lote,\no solo foi esterilizado por calor; em outro, não. Após o\ncultivo, em condições ideais de luminosidade e umidade,\nas plantas cultivadas em solo esterilizado tiveram um\ndesenvolvimento inferior.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A esterilização reduziu, para as ervilhas, a disponibilidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "água.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cálcio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fosfato.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "potássio.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "nitrogênio.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

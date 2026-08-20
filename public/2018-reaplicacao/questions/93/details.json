@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2018",
+    "index": 93,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Uma idosa residente em uma cidade do interior do país foi levada a um hospital por sua neta. Ao examiná-la, o médico verificou que a senhora apresentava um quadro crônico de edema linfático nos membros inferiores e nos seios, concluindo ser um caso de elefantíase ou filariose linfática. Preocupada com a possibilidade de adquirir a mesma doença, a neta perguntou ao médico como era possível se prevenir. Qual foi a orientação dada à jovem pelo médico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Usar repelentes e telas em janelas, já que a doença é transmitida por mosquito.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Evitar nadar em rios, lagos e lagoas da região, já que a doença é transmitida pela água contaminada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Evitar contato com animais de zoológicos, uma vez que se trata de uma zoonose veiculada por grandes mamíferos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Realizar exames médicos periódicos para detectar precocemente a doença, já que se trata de uma enfermidade hereditária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Manter uma dieta balanceada e prática regular de atividades físicas, uma vez que a doença está associada ao sedentarismo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

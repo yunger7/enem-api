@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2018",
+    "index": 169,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Dois amigos abriram um restaurante. No primeiro ano,\no custo total com as despesas do restaurante chegou a\n250 mil reais. A receita neste ano foi de 325 mil reais,\nobtendo assim um lucro de 75 mil reais (diferença entre a\nreceita e o custo total). A tabela representa o custo total e\na receita nos cinco primeiros anos.\n\nAno\nCusto total\n(milhar de real)\n\nReceita\n(milhar de real)\n\nPrimeiro\n250\n325\n\nSegundo\n270\n355\n\nTerceiro\n290\n350\n\nQuarto\n280\n365\n\nQuinto\n260\n305",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com a tabela, a média anual do lucro, em milhar de real, ao longo dos cinco anos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "70.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "75.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "85.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

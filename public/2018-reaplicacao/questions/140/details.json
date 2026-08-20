@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2018",
+    "index": 140,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Isometria é uma transformação geométrica que, aplicada a uma figura, mantém as distâncias entre pontos. Duas das\ntransformações isométricas são a reflexão e a rotação. A reflexão ocorre por meio de uma reta chamada eixo. Esse eixo\nfunciona como um espelho, a imagem refletida é o resultado da transformação. A rotação é o “giro” de uma figura ao redor de\num ponto chamado centro de rotação. A figura sofreu cinco transformações isométricas, nessa ordem:\n\ny\n\n1ª) Reflexão no eixo x;\n2ª) Rotação de 90 graus no sentido anti-horário, com centro de rotação no ponto A;\n3ª) Reflexão no eixo y;\n4ª) Rotação de 45 graus no sentido horário, com centro de rotação no ponto A;\n5ª) Reflexão no eixo x.\n\nDisponível em: www.pucsp.br. Acesso em: 2 ago. 2012.\nQual a posição final da figura?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

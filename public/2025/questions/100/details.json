@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2025",
+    "index": 100,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Existe um processo de purificação de água em que são\nremovidos os sais dissolvidos. A água que passa por esse processo\né muito utilizada em laboratórios de química, em indústrias\n(como solvente), em baterias de carros etc. Entretanto, esse\ntipo de água não é adequado para ingestão, pois pode causar\nproblemas de saúde, como carência iônica e diarreia.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Essa água é chamada de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dura.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "pesada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "sanitária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "destilada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "oxigenada.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

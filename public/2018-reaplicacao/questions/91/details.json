@@ -1,0 +1,43 @@
+{
+    "title": "Questão 91 - ENEM 2018",
+    "index": 91,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com o avanço das multifunções dos dispositivos eletrônicos portáteis, como os smartphones, o gerenciamento da duração da bateria desses equipamentos torna-se cada vez mais crítico. O manual de um telefone celular diz que a quantidade de carga fornecida pela sua bateria é de 1 500 mAh. A quantidade de carga fornecida por essa bateria, em coulomb, é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 500.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5 400.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "90 000.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 400 000.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

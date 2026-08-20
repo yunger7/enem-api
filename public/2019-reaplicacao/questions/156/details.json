@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2019",
+    "index": 156,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O boliche é um esporte cujo objetivo é derrubar, com\numa bola, uma série de pinos alinhados em uma pista.\nA professora de matemática organizou um jogo de\nboliche em que os pinos são garrafas que possuem\nrótulos com números, conforme mostra o esquema.\n\n6\n8\n75%\n\n34% 0,75\n\n4,3\n\n9\n12\n\n4\n3\n\n6,8\n\n3\n4\n\n3,4\n\nO aluno marca pontos de acordo com a soma das\nquantidades expressas nos rótulos das garrafas que\nsão derrubadas. Se dois ou mais rótulos representam\na mesma quantidade, apenas um deles entra na\ncontagem dos pontos. Um aluno marcou 7,55 pontos em\numa jogada. Uma das garrafas que ele derrubou tinha o\nrótulo 6,8.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A quantidade máxima de garrafas que ele derrubou para obter essa pontuação é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

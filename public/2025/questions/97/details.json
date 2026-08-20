@@ -1,0 +1,45 @@
+{
+    "title": "Questão 97 - ENEM 2025",
+    "index": 97,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A produção de vacinas exige uma sequência de procedimentos,\nalém do cumprimento estrito de verificações de segurança.\nNo esquema, estão demonstradas as etapas básicas realizadas\npara a fabricação de uma vacina utilizando a tecnologia tradicional\ne o efeito dela no organismo.\n\n![](https://enem.dev/2025/questions/97/c928fb3d-b545-4da7-9b76-a466bdf2f119.png)",
+    "files": [
+        "https://enem.dev/2025/questions/97/c928fb3d-b545-4da7-9b76-a466bdf2f119.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "mata o vírus pela ligação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "aglutina o vírus por associação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contém imunoglobulinas de defesa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "induz a produção de proteínas neutralizadoras.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "mantém a quantidade de anticorpos preexistentes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

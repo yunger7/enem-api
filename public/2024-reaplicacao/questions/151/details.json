@@ -1,0 +1,45 @@
+{
+    "title": "Questão 151 - ENEM 2024",
+    "index": 151,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na construção de um avião de papel, uma criança dobrou uma folha retangular sobrepondo o lado DC ao lado AB.\nAssim, ela obteve dois novos retângulos, sendo um deles o retângulo DCNM, conforme a figura 1. Em seguida, ela fez\numa nova dobradura, mantendo N fixo e sobrepondo o lado CN, de DCNM, a um segmento de MN. Essa sobreposição\ndeterminou um ponto P em MN e também um ponto Q em DC, conforme a figura 2.\n\n![](https://enem.dev/2024-reaplicacao/questions/151/ee1db641-cb01-4571-a7a7-f4584f3d1ceb.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/151/ee1db641-cb01-4571-a7a7-f4584f3d1ceb.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando as classificações quanto à medida dos ângulos e à medida dos lados, o triângulo NPQ é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "acutângulo e escaleno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "acutângulo e isósceles não equilátero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acutângulo e equilátero.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "retângulo e escaleno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "retângulo e isósceles não equilátero.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

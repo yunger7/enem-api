@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2025",
+    "index": 116,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As cangas são ambientes resultantes da atuação, ao longo\nde milhões de anos, de chuvas, enxurradas, calor e ventos em\nrochas ricas em ferro. São compostas por até 90% de óxidos\nde ferro e contêm solos muito ácidos, rasos, com reduzidos\níndices de fertilidade e temperaturas que atingem quase 70 °C\nna superfície. Ao contrário do que se imagina, esse tipo de\nambiente abriga comunidades de plantas e animais com elevado\nnúmero de espécies e distribuição restrita.\n\nCARMO, F. F. et al. Ilhas de ferro estratégicas para a conservação.\n\nDisponível em: http://cienciahoje.org.br.\n\nAcesso em: 2 dez. 2018 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "exóticas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "migratórias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "endêmicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dominantes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "generalistas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

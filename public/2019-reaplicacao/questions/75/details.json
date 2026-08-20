@@ -1,0 +1,43 @@
+{
+    "title": "Questão 75 - ENEM 2019",
+    "index": 75,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A estética relativamente estável do modernismo\nfordista cedeu lugar a todo o fermento, instabilidade e\nqualidades fugidias de uma estética pós-moderna que\ncelebra a diferença, a efemeridade, o espetáculo, a\nmoda e a mercadificação de formas culturais.\n\nHARVEY, D. Condição pós-moderna: uma pesquisa sobre as\n\norigens da mudança cultural. São Paulo: Loyola, 2009.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "No contexto descrito, as transformações estéticas impactam a produção de bens por meio da",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "promoção de empregos fabris, integrada às linhas de montagem.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ampliação dos custos de fabricação, impulsionada pelo consumo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "redução do tempo de vida dos produtos, acompanhada da crescente inovação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "diminuição da importância da organização logística, utilizada pelos fornecedores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "expansão de mercadorias estocadas, aliada a maiores custos de armazenamento.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

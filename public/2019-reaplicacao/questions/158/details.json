@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2019",
+    "index": 158,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os movimentos ondulatórios (periódicos) são\nrepresentados por equações do tipo \u001f\n\nAsen wt\n\u001b ,\nque apresentam parâmetros com significados físicos\n\nimportantes, tais como a frequência w\nT\n\u001f 2\u001e , em que T\n\né o período; A é a amplitude ou deslocamento máximo;\n\nθ é o ângulo de fase 0\n2\n\nw\n\n, que mede o\n\ndeslocamento no eixo horizontal em relação à origem no\ninstante inicial do movimento.\n\nO gráfico representa um movimento periódico,\nP = P(t), em centímetro, em que P é a posição da\ncabeça do pistão do motor de um carro em um\ninstante t, conforme ilustra a figura.\n\n0\nπ\nπ\n\n2\nπ\n3\n2\nπ\n2\nπ\n5\n2\nπ\n3\nπ\n7\n2\nπ\n4\nt\n\n−1\n\n−2\n\n−3\n\n− 4",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A expressão algébrica que representa a posição P(t), da cabeça do pistão, em função do tempo t é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

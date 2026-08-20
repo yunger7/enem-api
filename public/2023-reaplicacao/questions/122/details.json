@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2023",
+    "index": 122,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O lançamento de 60 satélites altamente refletores\npela empresa SpaceX está preocupando os cientistas:\na “superpopulação” de satélites ameaça a nossa\nobservação das estrelas. A SpaceX espera que um\ndia seja possível ter 12 mil satélites na órbita da Terra,\npermitindo o acesso à internet de alta velocidade, com\na qual toda a humanidade só pode sonhar. A SpaceX é\nsó uma das companhias no setor da internet via satélite.\n\n“Se muitos dos satélites dessas novas\nmegaconstelações tiverem esse tipo de brilho constante,\nentão em 20 anos ou menos, o olho humano passará a ver,\ndurante boa parte da noite em qualquer lugar do mundo,\nmais satélites do que estrelas”.\n\nAstrônomos alertam: satélites da SpaceX podem mudar céu noturno.\nDisponível em: https://br.sputniknews.com. Acesso em: 21 nov. 2019 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A preocupação dos astrônomos baseia-se no fato de esses satélites A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "refletirem a luz do Sol durante o período noturno, ofuscando a luz das demais estrelas. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "emitirem para a Terra muita radiação luminosa que se sobrepõe à das estrelas. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "refratarem a luz das estrelas, desviando os raios dos telescópios posicionados na superfície da Terra. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "refletirem a luz do Sol durante o período diurno, ofuscando a luz das demais estrelas. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "emitirem de volta para o espaço a luz das estrelas que seria captada pelos telescópios posicionados na superfície da Terra.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

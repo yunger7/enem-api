@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2017",
+    "index": 177,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fabricante recomenda que, para cada m² do\nambiente a ser climatizado, são necessários 800 BTUh,\ndesde que haja até duas pessoas no ambiente. A esse\nnúmero devem ser acrescentados 600 BTUh para cada\npessoa a mais, e também para cada aparelho eletrônico\nemissor de calor no ambiente. A seguir encontram-se\nas cinco opções de aparelhos desse fabricante e suas\nrespectivas capacidades térmicas:\n\nTipo I: 10 500 BTUh\nTipo II: 11 000 BTUh\nTipo III: 11 500 BTUh\nTipo IV: 12 000 BTUh\nTipo V: 12 500 BTUh\n\nO supervisor de um laboratório precisa comprar\num aparelho para climatizar o ambiente. Nele ficarão\nduas pessoas mais uma centrífuga que emite calor.\nO laboratório tem forma de trapézio retângulo, com as\nmedidas apresentadas na figura.\n\nA\nD\n\n3,8 m\n\n4 m\n\n3 m\n\nB\nC\n\nPara economizar energia, o supervisor deverá escolher\no aparelho de menor capacidade térmica que atenda\nàs necessidades do laboratório e às recomendações do\nfabricante.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A escolha do supervisor recairá sobre o aparelho do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

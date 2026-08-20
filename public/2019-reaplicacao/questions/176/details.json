@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2019",
+    "index": 176,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um município foi realizado um levantamento\nrelativo ao número de médicos, obtendo-se os dados:\n\nAno\nMédicos\n1980\n137\n1985\n162\n1995\n212\n2010\n287",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Tendo em vista a crescente demanda por atendimento médico na rede de saúde pública, pretende-se promover a expansão, a longo prazo, do número de médicos desse município, seguindo o comportamento de crescimento linear no período observado no quadro. Qual a previsão do número de médicos nesse município para o ano 2040?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "387",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "424",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "437",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "574",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "711",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

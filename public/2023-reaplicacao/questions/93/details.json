@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2023",
+    "index": 93,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para que um produto seja vendido como orgânico,\na unidade produtora deve passar por um período de\nconversão que, no caso do café, pode durar até três\nanos, deixando o agricultor com poucas alternativas de\nprodução durante esse tempo. Outro aspecto importante\né a preservação das características orgânicas do produto,\ndurante as fases de beneficiamento e comercialização,\ndiante do risco de contaminação. O café orgânico tem\nsua competitividade diretamente ligada à minimização\ndos gastos com insumos por meio do aproveitamento\nde resíduos orgânicos pelo valor que agregam ao\nproduto. Com isso, a cafeicultura orgânica apresenta alta\neficiência no sistema de produção, relacionada ao estado\nnutricional do produto e à fertilidade do solo das lavouras.\n\nDisponível em: www.custoseagronegocioonline.com.br.\n\nAcesso em: 2 dez. 2008 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Apesar do custo mais alto, uma das vantagens do café organicamente cultivado é o(a) A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "técnica de cultivo, que favorece a conservação do solo. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "eliminação dos resíduos orgânicos, que agrega valor ao produto. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "período curto de conversão de uma propriedade não orgânica em orgânica. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "manutenção de suas características orgânicas, embora seja perdido seu valor nutricional. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "remota possibilidade de contaminação durante o processo de distribuição e comercialização.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 104 - ENEM 2019",
+    "index": 104,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O vinagre é um produto alimentício resultante da\nfermentação do vinho que, de acordo com a legislação\nnacional, deve apresentar um teor mínimo de ácido\nacético (CH3COOH) de 4% (v/v). Uma empresa está\ndesenvolvendo um kit para que a inspeção sanitária\nseja capaz de determinar se alíquotas de 1 mL de\namostras de vinagre estão de acordo com a legislação.\n\nEsse kit é composto por uma ampola que contém uma\n\nsolução aquosa de Ca(OH)2 0,1 mol\n\nL e um indicador\n\nque faz com que a solução fique cor-de-rosa, se estiver\n\nbásica, e incolor, se estiver neutra ou ácida. Considere\n\na densidade do ácido acético igual a 1,10 g\n\ncm3 , a massa\n\nmolar do ácido acético igual a 60 g\n\nmol e a massa molar\n\ndo hidróxido de cálcio igual a 74 g\n\nmol .",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Qual é o valor mais próximo para o volume de solução de Ca(OH)2, em mL, que deve estar contido em cada ampola do kit para garantir a determinação da regularidade da amostra testada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "6,6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

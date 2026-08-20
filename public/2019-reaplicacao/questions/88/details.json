@@ -1,0 +1,43 @@
+{
+    "title": "Questão 88 - ENEM 2019",
+    "index": 88,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "As águas das precipitações atmosféricas sobre\nos continentes nas regiões não geladas podem tomar\ntrês caminhos: evaporação imediata, infiltração ou\nescoamento. A relação entre essas três possibilidades,\nassim como das suas respectivas intensidades quando\nocorrem em conjunto, o que é mais frequente, depende\nde vários fatores, tais como clima, morfologia do\nterreno, cobertura vegetal e constituição litológica.\n\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A preservação da cobertura vegetal interfere no processo mencionado contribuindo para a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decomposição do relevo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "redução da evapotranspiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "contenção do processo de erosão.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "desaceleração do intemperismo químico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "deposição de sedimentos no solo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

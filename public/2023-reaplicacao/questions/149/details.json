@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2023",
+    "index": 149,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A amplitude é uma medida estatística que detecta\na variabilidade dos dados de uma amostra. Ela pode\nser utilizada como critério de qualidade da produção na\nindústria de peças, indicando, por exemplo, a necessidade\ndo descarte de um lote defeituoso.\n\nUma fábrica analisou cinco unidades de cada um\ndos cinco lotes da produção de um tipo de peça que, por\nprojeto, devem ter comprimento igual a 10 cm. As medidas,\nem centímetro, dessas unidades estão distribuídas\na seguir:\n\n•\t lote I: 9,80; 10,30; 10,30; 10,30 e 10,30;\n\n•\t lote II: 10,55; 10,58; 10,58; 10,60 e 10,60;\n\n•\t lote III: 9,80; 9,80; 10,00; 10,00 e 10,20;\n\n•\t lote IV: 9,90; 9,90; 9,90; 10,20 e 10,20;\n\n•\t lote V: 9,30; 9,30; 9,50; 9,50 e 9,50.\n\nFoi determinado o descarte do lote que apresentasse\na maior amplitude.\n\nDe acordo com o critério adotado, a fábrica descartará\no lote",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "II. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

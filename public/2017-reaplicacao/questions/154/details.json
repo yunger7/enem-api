@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2017",
+    "index": 154,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um sistema de depreciação linear, estabelecendo\nque após 10 anos o valor monetário de um bem será zero,\né usado nas declarações de imposto de renda de alguns\npaíses. O gráfico ilustra essa situação.\n\nValor monetário (dólar)\n\nTempo (ano)\n10\n0\n\nUma pessoa adquiriu dois bens, A e B, pagando\n1 200 e 900 dólares, respectivamente.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando as informações dadas, após 8 anos, qual será a diferença entre os valores monetários, em dólar, desses bens?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "60",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "75",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "240",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "300",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

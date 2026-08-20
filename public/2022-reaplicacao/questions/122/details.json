@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2022",
+    "index": 122,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com o objetivo de revestir o piso de uma rampa de\nacesso para cadeiras de rodas, determina-se que, sob a\naplicação de uma força motora de até 200 N, não ocorra\ndeslizamento dos pneus em relação à superfície de\ncontato. Considera-se que a força normal que atua sobre\no conjunto cadeira e cadeirante é de 800 N.\n\nO quadro a seguir indica alguns materiais, seus\nrespectivos coeficientes de atrito estático com a borracha\ndos pneus e seus custos referentes ao metro quadrado\ninstalado. Cada cifrão ($) indica uma unidade monetária\ngenérica.\n\nCusto do m2\n\nRevestimento\nCoefi ciente de\n\ninstalado\n\natrito\n\nCimento\n0,20\n$\n\nMármore\n0,30\n$$$$$\n\nMadeira\n0,35\n$$\n\nCarpete\n0,45\n$$$$\n\nLona\n0,55\n$$$\n\nQual revestimento apresenta o menor custo, além de\ngarantir que cadeiras de rodas passem pela rampa sem\nrisco de escorregamento?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Cimento. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Mármore. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Madeira. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Carpete. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Lona. CN - 2° dia | Caderno 7 - AZUL - 2ª Aplicação 11",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

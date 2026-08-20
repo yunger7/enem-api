@@ -1,0 +1,45 @@
+{
+    "title": "Questão 155 - ENEM 2024",
+    "index": 155,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um proprietário pretende instalar um sensor de\npresença para a proteção de seu imóvel. O sensor\ndeverá detectar movimentos de objetos e pessoas numa\ndeterminada região plana. A figura ilustra a vista superior\nda área de cobertura (setor circular em azul) de um sensor\ncolocado no ponto S. Essa área depende da medida do\nângulo α, em grau, e do raio R, em metro.\n\n![](https://enem.dev/2024/questions/155/17bfc1a7-4d1a-46ae-8881-fddbd1162c56.png)\n\nAo aumentar o ângulo α ou o raio R aumenta-se a\nárea de cobertura do sensor. Entretanto, quanto maior\nessa área, maior o preço do sensor.\n\nPara esse fim, há cinco tipos de sensores disponíveis\nno mercado, cada um com as seguintes características:\n\n•\t tipo I: α = 15° e R = 20 m;\n•\t tipo II: α = 30° e R = 22 m;\n•\t tipo III: α = 40° e R = 12 m;\n•\t tipo IV: α = 60° e R = 16 m;\n•\t tipo V: α = 90° e R = 10 m.\n\nEsse proprietário pretende adquirir um desses sensores\nque seja capaz de cobrir, no mínimo, uma área de medida\n70 m2, com o menor preço possível.\nUse 3 como valor aproximado para π.",
+    "files": [
+        "https://enem.dev/2024/questions/155/17bfc1a7-4d1a-46ae-8881-fddbd1162c56.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O proprietário do imóvel deverá adquirir o sensor do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

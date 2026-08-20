@@ -1,0 +1,43 @@
+{
+    "title": "Questão 89 - ENEM 2019",
+    "index": 89,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "No litoral sudeste, especialmente na região de\nCabo Frio (RJ), ocorre, por vezes, um fenômeno\ninteressante, que abaixa a temperatura da água do\nmar a até 14 °C, nos meses de janeiro e fevereiro.\nIsso acontece devido ao vento, que, no verão, sopra\nconstantemente da direção nordeste. Assim, esse\nvento constante empurra as águas da superfície,\nque haviam sofrido insolação e, portanto, estavam\naquecidas (em torno de 26 °C), para o oceano aberto.\nOrigina-se, então, uma lacuna de água junto à costa,\nque é preenchida por águas profundas, bem mais\nfrias, que sobem e atingem a superfície. A ascensão\ndas águas frias é chamada de ressurgência.\n\nVIEIRA, A. C. M.; ALVES, D. S. C.; MATSCHINSKE, E. G. Influência\n\ndas correntes oceânicas no clima do Brasil. Disponível em:\n\nhttp://portal.mec.gov.br. Acesso em: 10 out. 2015.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Uma importância econômica do fenômeno apresentado reside no fato de que ele favorece o surgimento de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "recifes de corais, atraindo o turismo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "áreas de cardumes, beneficiando a pesca.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "zonas de calmaria, facilitando a navegação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "locais de águas límpidas, favorecendo o mergulho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "campos de sedimentos orgânicos, formando o petróleo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

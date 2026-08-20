@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2017",
+    "index": 161,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com base nessas informações, a classificação do tipo de função que está presente nessa relação é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "f é injetora, pois para cada menina pertencente ao conjunto A está associado um menino diferente pertencente ao conjunto B.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "f é sobrejetora, pois cada par é formado por uma menina pertencente ao conjunto A e um menino pertencente ao conjunto B, sobrando um menino sem formar par.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "f é injetora, pois duas meninas quaisquer pertencentes ao conjunto A formam par com um mesmo menino pertencente ao conjunto B, para envolver a totalidade de alunos da turma.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "f é bijetora, pois dois meninos quaisquer pertencentes ao conjunto B formam par com uma mesma menina pertencente ao conjunto A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "f é sobrejetora, pois basta que uma menina do conjunto A forme par com dois meninos pertencentes ao conjunto B, assim nenhum menino ficará sem par.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

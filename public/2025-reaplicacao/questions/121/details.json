@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2025",
+    "index": 121,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para monitoramento do funcionamento de dispositivos silenciosos, é necessário que alguma sinalização visual ou sonora\nseja instalada. Uma solução simples é a instalação de um diodo emissor de luz (LED) em paralelo com o dispositivo, conforme o\nesquema do circuito elétrico. Para minimizar o consumo de energia, sugere-se que o LED opere com tensão de 3 V. Assim, sua\ninstalação em paralelo com um dispositivo de resistência R igual a 300 Ω, que opera em 12 V, requer a inclusão de um resistor\nde proteção, RP, ligado em série com o LED.\n\nO gráfico apresenta a curva da corrente elétrica (em miliampère) versus a tensão elétrica (em volt), característica de um LED.\n\n![](https://enem.dev/2025-reaplicacao/questions/121/b50ee0a3-2676-4b45-b264-404558e691f4.png)",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/121/b50ee0a3-2676-4b45-b264-404558e691f4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O valor da resistência de proteção RP, em ohm, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

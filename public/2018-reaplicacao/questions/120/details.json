@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2018",
+    "index": 120,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O princípio básico de produção de imagens em\nequipamentos de ultrassonografia é a produção de ecos.\nO princípio pulso-eco refere-se à emissão de um pulso\ncurto de ultrassom que atravessa os tecidos do corpo.\nNo processo de interação entre o som e órgãos ou\ntecidos, uma das grandezas relevantes é a impedância\nacústica, relacionada à resistência do meio à passagem\ndo som, definida pelo produto da densidade (ρ) do\nmaterial pela velocidade (v) do som nesse meio. Quanto\nmaior a diferença de impedância acústica entre duas\nestruturas, maior será a intensidade de reflexão do pulso\ne mais facilmente será possível diferenciá-las. A tabela\nmostra os diferentes valores de densidade e velocidade\npara alguns órgãos ou tecidos.\n\nEstruturas\nρ\nkg\nm3\n(\n\n(\n\n(\n\n(\n\nv\nm\n\ns\n\nCérebro\n1 020\n1 530\n\nMúsculo\n1 040\n1 580\n\nGordura\n920\n1 450\n\nOsso\n1 900\n4 040\n\nCAVALCANTE, M. A.; PEÇANHA, R.; LEITE, V. F. Princípios básicos de imagens\n\nultrassônicas e a determinação da velocidade do som no ar através do eco.\n\nFísica na Escola, n. 1, 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em uma imagem de ultrassom, as estruturas mais facilmente diferenciáveis são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "osso e gordura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "cérebro e osso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "gordura e cérebro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "músculo e cérebro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gordura e músculo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

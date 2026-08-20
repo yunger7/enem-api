@@ -1,0 +1,43 @@
+{
+    "title": "Questão 59 - ENEM 2019",
+    "index": 59,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A depressão que afetou a economia mundial entre 1929 e 1934 se anunciou, ainda em 1928, por uma queda\ngeneralizada nos preços agrícolas internacionais. Mas o fator mais marcante foi a crise financeira detonada pela\nquebra da Bolsa de Nova Iorque.\n\nDisponível em: http://cpdoc.fgv.br. Acesso em: 20 abr. 2015 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Perante o cenário econômico descrito, o Estado brasileiro assume, a partir de 1930, uma política de incentivo à",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "industrialização interna para substituir as importações.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "nacionalização de empresas estrangeiras atingidas pela crise.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "venda de terras a preços acessíveis para os pequenos produtores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "entrada de imigrantes para trabalhar nas indústrias de base recém-criadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "abertura de linhas de financiamento especial para empresas do setor terciário.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

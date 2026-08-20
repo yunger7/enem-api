@@ -1,0 +1,45 @@
+{
+    "title": "Questão 25 - ENEM 2024",
+    "index": 25,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2024/questions/25/deb17341-5846-4f4c-a017-374d0715de24.png)\n\nVISCONTI, E. Três meninas no jardim. Óleo sobre tela,\n\n81 × 65 cm. Museu Nacional de Belas Artes,\nRio de Janeiro, 1935.\n\nDisponível em: www.eliseuvisconti.com.br. Acesso em: 18 set. 2012.",
+    "files": [
+        "https://enem.dev/2024/questions/25/deb17341-5846-4f4c-a017-374d0715de24.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Eliseu D’Angelo Visconti (1866-1944) desenvolveu diversas obras no Brasil, com grande influência das escolas europeias. Em sua pintura Três meninas no jardim, há",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "culto à fluidez e ao progresso, nos moldes do ideário futurista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "valorização de formas decompostas, a exemplo do estilo cubista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "efeitos fugazes de luz e movimento, que remetem à estética impressionista.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "expressão do sonho e do inconsciente, que dialoga com a proposta surrealista.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "tematização de elementos cotidianos, que resgata modelos de representação da arte realista.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2018",
+    "index": 139,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na música, usam-se sinais gráficos chamados figuras\nde duração para indicar por quanto tempo se deve emitir\ndeterminado som.\n\nAs figuras de duração usadas atualmente são:\nsemibreve, mínima, semínima, colcheia, semicolcheia,\nfusa e semifusa.\n\nEssas figuras não possuem um valor (tempo) fixo. Elas\nsão proporcionais entre si. A duração de tempo de uma\nsemibreve é equivalente à de duas mínimas, a duração\nde uma mínima é equivalente à de duas semínimas, a\nduração de uma semínima equivale à de duas colcheias\ne assim por diante, seguindo a ordem dada.\n\nConsidere que a semibreve tem a duração de tempo\nde uma unidade.\n\nSemibreve\nMínima\nSemínima\nColcheia Semicolcheia\nFusa\nSemifusa\n\nDisponível em: www.portaledumusicalcp2.mus.br. Acesso em: 11 nov. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A sequência que indica a duração de tempo de uma mínima, de uma semínima, de uma colcheia, de uma semicolcheia, de uma fusa e de uma semifusa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

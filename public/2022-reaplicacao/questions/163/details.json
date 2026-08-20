@@ -1,0 +1,43 @@
+{
+    "title": "Questão 163 - ENEM 2022",
+    "index": 163,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\n\nUm clube está sendo reformado e deve ter algumas\nparedes e partes do teto repintadas. São, no total,\n560 m2 de parede e 260 m2 de teto. Segundo orientações\ntécnicas, um entre três tipos diferentes de tinta deve ser\nusado para pintar as paredes (tipos I, II e III), e um entre\noutros dois tipos pode ser utilizado na pintura do teto\n(tipos X e Y). As características dos diferentes produtos\nsão apresentadas a seguir:\n\n•\t tipo I: vendido em embalagem com 10 L, por\nR$ 180,00 cada. O conteúdo permite pintar uma\nárea de 220 m2;\n•\t tipo II: vendido em embalagem com 20 L, por\nR$ 350,00 cada. O conteúdo permite pintar uma\nárea de 450 m2;\n•\t tipo III: vendido em embalagem com 25 L, por\nR$ 650,00 cada. O conteúdo permite pintar uma\nárea de 550 m2;\n•\t tipo X: vendido em embalagem com 4 L, por\nR$ 70,00 cada. O conteúdo permite pintar uma\nárea de 80 m2;\n•\t tipo Y: vendido em embalagem com 5 L, por\nR$ 85,00 cada. O conteúdo permite pintar uma\nárea de 90 m2.\nPretende-se gastar a menor quantia possível, em\nreal, com essa pintura.\nAs tintas que devem ser escolhidas para uso nas paredes\ne teto do clube, respectivamente, são as de tipos",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e X. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "I e Y. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "II e X. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e Y. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "III e Y.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

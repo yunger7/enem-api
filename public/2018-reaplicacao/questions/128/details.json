@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2018",
+    "index": 128,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um carrinho de brinquedo funciona por fricção. Ao ser\nforçado a girar suas rodas para trás, contra uma superfície\nrugosa, uma mola acumula energia potencial elástica.\nAo soltar o brinquedo, ele se movimenta sozinho para\nfrente e sem deslizar.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quando o carrinho se movimenta sozinho, sem deslizar, a energia potencial elástica é convertida em energia cinética pela ação da força de atrito",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dinâmico na roda, devido ao eixo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "estático na roda, devido à superfície rugosa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "estático na superfície rugosa, devido à roda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dinâmico na superfície rugosa, devido à roda.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dinâmico na roda, devido à superfície rugosa.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

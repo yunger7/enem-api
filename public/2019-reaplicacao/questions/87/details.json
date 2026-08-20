@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2019",
+    "index": 87,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A topografia predominante no Planalto Central é a de\numa região horizontal, chata, que me fez recordar muito\ndo Planalto Central da África do Sul: o mesmo horizonte\ncircular, a mesma vegetação baixa e rala, que permite à\nvista varrer extensões infinitas.\n\nWEIBEL, L. Capítulos de geografia tropical e do Brasil.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Rio de Janeiro: IBGE, 1979. Quais formações vegetais pertencem às paisagens apresentadas?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os cerrados e as savanas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Os garrigues e as pradarias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "As caatingas e os maquis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "As coníferas e as estepes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "As restingas e os chaparrais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2018",
+    "index": 180,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No quadro estão representadas as quantidades de certos tipos de vinho vendidos durante um ano e o lucro por\nunidade vendida de cada um desses tipos. Para repor seu estoque, o proprietário escolherá apenas os tipos de vinho\nem que o lucro total com sua venda foi maior do que a média entre os lucros obtidos com a venda de todos os tipos.\n\nTipo de vinho\nI\nII\nIII\nIV\nV\nVI\n\nUnidades vendidas\n120\n50\n71\n47\n70\n90\n\nLucro por unidade (R$)\n6,00\n12,00\n10,00\n20,00\n5,00\n12,00",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Conforme condições estabelecidas, os tipos de vinhos escolhidos serão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e VI.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "IV e VI.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "I, IV e VI.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II, IV e VI.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II, III, IV e VI. Plano A Plano B Plano C Tempo (min)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 177 - ENEM 2025",
+    "index": 177,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o intuito de revestir o piso de uma sala retangular, com 8 m de largura por 4 m de comprimento, um construtor dirigiu-se\na uma loja de revestimentos. Ao chegar à loja, constatou que dois tipos de porcelanato estavam com preços promocionais,\ncaso fossem comprados em caixas fechadas, sem fracionamento. O quadro apresenta as características dos porcelanatos em\npromoção, como tamanho das peças, preço por caixa e quantidade de peças em cada caixa.\n\ntipo\ntamanho das peças (cm)\nPreço da caixa (R$)\nQuantidade de peças por caixa\n\n1\n40 × 40\n6,00\n2\n\n2\n80 × 80\n70,00\n5\n\nO construtor pretende adquirir o tipo de porcelanato que apresente o menor custo para revestir todo o piso da sala.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para garantir o menor custo, o construtor deve comprar o porcelanato do tipo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

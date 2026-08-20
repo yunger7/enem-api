@@ -1,0 +1,45 @@
+{
+    "title": "Questão 104 - ENEM 2024",
+    "index": 104,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As autoridades sanitárias brasileiras têm se preocupado\nmuito nos últimos anos com o aumento da ocorrência\nde doenças transmitidas por mosquitos, principalmente\narboviroses como chikungunya e zika, que se tornaram\nepidêmicas ou endêmicas em áreas urbanas. Parte de\numa análise da relação entre a urbanização e a incidência\ndessas doenças está representada no fluxograma.\n\n![](https://enem.dev/2024/questions/104/e0aa5bc3-59a3-4144-8bd1-622d1efb9a91.png)\n\nALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento,\narboviroses e determinantes ambientais: impactos na saúde urbana.\n\nCiência & Saúde Coletiva, v. 25, n. 10, 2020 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/104/e0aa5bc3-59a3-4144-8bd1-622d1efb9a91.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nesse contexto, como a urbanização está causando riscos à saúde humana?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Disseminando verminoses.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Causando a eutrofização de lagoas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentando a chance de contato com coliformes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuindo a população de predadores aquáticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Aproximando as pessoas das áreas de ocorrência de mosquitos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2024",
+    "index": 136,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um novo condomínio foi construído na Rua X. Alguns\nlotes já receberam numeração da prefeitura, enquanto\noutros apresentam apenas o sobrenome do seu proprietário.\nO servidor da prefeitura numerará os lotes que ainda não\nforam numerados. Para isso, ele observa o padrão da\nnumeração já existente, conforme apresentado na figura,\npercebendo que, em cada lado da rua, as sequências das\nnumerações formam progressões aritméticas, e, com isso,\natribui um número ao lote da família Costa.\n\nRua X\n\n84\n106\nTeixeira\nGuimarães\n172",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número atribuído ao lote da família Costa é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "51.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "73.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "95.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "117.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "161.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

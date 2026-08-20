@@ -1,0 +1,45 @@
+{
+    "title": "Questão 92 - ENEM 2024",
+    "index": 92,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Células a combustível microbianas (CCM) são capazes\nde gerar eletricidade a partir de águas residuárias urbanas e\nagroindustriais. As CCM são compostas de duas câmaras.\nNuma delas, onde ocorre o tratamento da matéria orgânica,\nas bactérias eletrogênicas crescem formando um biofilme\ne se alimentam dos poluentes presentes no efluente. Ao se\nalimentarem, essas bactérias geram uma corrente elétrica\nque percorre o material sobre o qual elas formaram o biofilme.\nUm fio condutor externo possibilita a migração dessa corrente\npara uma segunda câmara, promovendo uma reação química.\nA figura esquematiza uma CCM e as reações envolvidas.\n\n![](https://enem.dev/2024/questions/92/6096b398-ca42-42c3-9577-5b895f645d7d.png)\n\nCH3COO− (aq) + 2 H2O (I) → 2 CO2 (g) + 7 H+ (aq) + 8 e−\n\n4 H+ (aq) + O2 (g) + 4 e− → 2 H2O (I)\n\nQUINTO, A. C. Biobaterias geram eletricidade a partir de\n\nesgoto sanitário e efluentes agroindustriais. Disponível em:\n\nhttps://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/92/6096b398-ca42-42c3-9577-5b895f645d7d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CH3COO− (aq) + O2 (g) → 2 CO2 (g) + 3 H+ (aq)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CO2 (g) + O2 (g) + H+ (aq) → H2O (l) + CH3COO− (aq)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CH3COO− (aq) + H+ (aq) + 2 O2 (g) → 2 CO2 (g) + 2 H2O (l)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "CH3COO− (aq) + 6 H2O (l) → 2 CO2 (g) + 2 O2 (g) + 15 H+ (aq)",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 CO2 (g) + 11 H+ (aq) + O2 (g) → CH3COO− (aq) + 4 H2O (l)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 122 - ENEM 2018",
+    "index": 122,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O monóxido de carbono (CO) é um gás extremamente tóxico. Ele interfere no processo respiratório dos\nvertebrados, pois se o CO estiver presente no ar, haverá no sangue uma “competição” entre o CO e o O2.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Infelizmente, grande parte da população convive diariamente com a presença desse gás, uma vez que ele é produzido em grandes quantidades",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "nas queimadas em matas e florestas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "na decomposição da matéria orgânica nos “lixões” urbanos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "no abdômen de animais ruminantes criados em sistemas de confinamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "no processo de combustão incompleta de combustíveis fósseis.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "nas chaminés das indústrias que utilizam madeira de reflorestamento como combustível. Disjuntor máximo (A) Equipamento a ser ligado (W)",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

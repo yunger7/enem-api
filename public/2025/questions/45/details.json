@@ -1,0 +1,45 @@
+{
+    "title": "Questão 45 - ENEM 2025",
+    "index": 45,
+    "year": 2025,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A artista Marija Tiurina criou uma série chamada Palavras\nintraduzíveis, com diversas ilustrações detalhadas que\ntransmitem o sentido desses vocábulos, que nenhuma palavra\núnica em outras línguas pode descrever.\n\n![](https://enem.dev/2025/questions/45/7c1a5964-cfe8-4fad-a353-04a6373dcb3a.png)\n\nROMANZOTI, N. 9 desenhos que ilustram palavras sem tradução\n\npara o português. Disponível em: https://hypescience.com.\n\nAcesso em: 10 jun. 2019 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/45/7c1a5964-cfe8-4fad-a353-04a6373dcb3a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O uso do texto verbal nesse desenho assume a função de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "descrever de forma técnica a ilustração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "destacar os múltiplos sentidos do verbete.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "explicar o significado da expressão ilustrada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "apresentar termos equivalentes em outras línguas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "apontar para a dificuldade de compreensão do termo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

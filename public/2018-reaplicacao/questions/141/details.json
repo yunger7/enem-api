@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2018",
+    "index": 141,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um vaso decorativo quebrou e os donos vão encomendar outro para ser pintado com as mesmas características. Eles enviam uma foto do vaso na escala 1 : 5 (em relação ao objeto original) para um artista. Para ver melhor os detalhes do vaso o artista solicita uma cópia impressa da foto com dimensões triplicadas em relação às dimensões da foto original. Na cópia impressa, o vaso quebrado tem uma altura de 30 centímetros. Qual é a altura real, em centímetros, do vaso quebrado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "60",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "90 x A",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

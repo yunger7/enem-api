@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2024",
+    "index": 162,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um supermercado, uma marca de papel higiênico\né comercializada em cinco diferentes tipos de pacotes,\ncontendo quantidades distintas de rolos em cada um. Todos\nos rolos são de mesma largura e com metragens lineares\ndiversas. Os preços de cada tipo de pacote são distintos,\ne as especificações são estas:\n\n•\t tipo I: pacote contendo 4 rolos, com metragem linear\nde 60 m por rolo, ao preço de R$ 4,90;\n•\t tipo II: pacote contendo 12 rolos, com metragem\nlinear de 20 m por rolo, ao preço de R$ 4,50;\n•\t tipo III: pacote contendo 16 rolos, com metragem\nlinear de 30 m por rolo, ao preço de R$ 8,60;\n•\t tipo IV: pacote contendo 20 rolos, com metragem\nlinear de 30 m por rolo, ao preço de R$ 11,00;\n•\t tipo V: pacote contendo 24 rolos, com metragem\nlinear de 20 m por rolo, ao preço de R$ 8,70.\n\nUm cliente vai a esse supermercado, avalia cada uma\ndas especificações e resolve adquirir um pacote de papel\nhigiênico que tenha o menor preço por metro linear.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual foi o tipo de pacote adquirido por esse cliente?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

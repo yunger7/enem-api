@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2023",
+    "index": 165,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma costureira tem à sua disposição pelo menos\nduas unidades de cada um dos quatro tipos de retalhos\nretangulares com as estampas e os tamanhos apresentados.\n\n10 cm\n\n10 cm\n\n10 cm\n\n10 cm\n\n10 cm\n\n10 cm\n\n20 cm\n\n10 cm\n\nPara confeccionar um tapete em formato retangular\nde 10 cm × 50 cm, ela utilizará os retalhos, na posição\nindicada na figura, costurando um lado de um a um lado do\noutro, sem que haja rotações desses retalhos. O modelo\nde tapete que pretende confeccionar deverá conter um\núnico retalho de 10 cm × 20 cm e mais três retalhos de\nformato 10 cm × 10 cm, sendo que retalhos de mesma\nestampa não poderão ficar lado a lado.\n\nQuantos modelos diferentes de tapetes poderão ser\nconfeccionados?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "24 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "34 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "48 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

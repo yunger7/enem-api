@@ -1,0 +1,45 @@
+{
+    "title": "Questão 135 - ENEM 2022",
+    "index": 135,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para reduzir a poluição atmosférica gerada pela emissão de fumaça por grandes indústrias, utilizam-se\nprecipitadores eletrostáticos. Sua função é suprimir os gases poluentes antes que sejam lançados para a atmosfera.\nA figura ilustra um precipitador constituído, basicamente, por uma entrada e uma saída de gases e por um fio grosso\nde cobre, conectado a uma fonte de tensão. O acúmulo de cargas no fio de cobre induz a polarização das partículas\npoluentes. Os gases poluídos são injetados pela entrada de gases, e os gases sem poluentes são lançados na\natmosfera pela saída do precipitador.\n\n+\n\n![](https://enem.dev/2022-reaplicacao/questions/135/a42be8bf-bbe3-45cb-99ce-520514d928fc.png)\n\nEntrada\nde gases\n\nNo precipitador eletrostático, as partículas poluentes são",
+    "files": [
+        "https://enem.dev/2022-reaplicacao/questions/135/a42be8bf-bbe3-45cb-99ce-520514d928fc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "atraídas e se acumulam no fio carregado. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "decompostas em moléculas não poluentes. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ionizadas e podem ser lançadas na atmosfera. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "repelidas pelo fio carregado e se acumulam na parede do tubo. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "induzidas a fazer ligações iônicas, formando íons não poluentes. 15 CN - 2° dia | Caderno 7 - AZUL - 2ª Aplicação Saída de gases",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

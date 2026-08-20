@@ -1,0 +1,43 @@
+{
+    "title": "Questão 128 - ENEM 2019",
+    "index": 128,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na busca por ouro, os garimpeiros se confundem\nfacilmente entre o ouro verdadeiro e o chamado ouro\nde tolo, que tem em sua composição 90% de um\nminério chamado pirita (FeS2). Apesar do engano, a\npirita não é descartada, pois é utilizada na produção do\nácido sulfúrico, que ocorre com rendimento global de\n90%, conforme as equações químicas apresentadas.\n\nConsidere as massas molares: FeS2 (120\ng\nmol),\n\nO2 (32\ng\nmol), Fe2O3 (160\ng\nmol), SO2 (64\ng\nmol),\n\nSO3 (80\ng\nmol), H2O (18\ng\nmol), H2SO4 (98\ng\nmol).\n\n4 FeS2 + 11 O2 → 2 Fe2O3 + 8 SO2\n\n2 SO2 + O2 → 2 SO3\n\nSO3 + H2O → H2SO4",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o valor mais próximo da massa de ácido sulfúrico, em quilograma, que será produzida a partir de 2,0 kg de ouro de tolo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,41",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2,9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

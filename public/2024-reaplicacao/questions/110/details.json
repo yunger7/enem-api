@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2024",
+    "index": 110,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O uso excessivo de embalagens plásticas ocasionou\num aumento na quantidade de resíduos plásticos\ndescartados no meio ambiente. Para minimizar o impacto\ncausado pelo acúmulo desses resíduos, pode-se empregar\nalguns procedimentos:\n\nI.\nIncineração;\nII.\t Reciclagem;\nIII.\t Acondicionamento em aterros sanitários;\nIV.\t Substituição por plásticos biodegradáveis;\nV.\t Substituição por plásticos oxibiodegradáveis.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Do ponto de vista ambiental, o procedimento adequado para solucionar o problema de acúmulo desses materiais é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "incinerar, pois isso reduz a quantidade de resíduos sólidos, e os gases liberados nesse processo não são poluentes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "reciclar, pois o plástico descartado é utilizado para a produção de novos objetos, e isso evita a síntese de maior quantidade de matéria-prima.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "utilizar plásticos biodegradáveis, uma vez que a matéria-prima é de fonte renovável e a produção desses materiais é simples e de baixo custo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "dispensar em aterros sanitários, já que esses locais são dimensionados para receber uma grande quantidade de resíduos e sua capacidade não se esgota rapidamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "substituir por plásticos oxibiodegradáveis, visto que, ao serem descartados, são rapidamente assimilados pelos microrganismos e não se acumulam no meio ambiente.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

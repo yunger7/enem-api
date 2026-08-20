@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2024",
+    "index": 115,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Os satélites em órbitas geoestacionárias ocupam uma\nposição fixa em relação à superfície da Terra e, por isso,\npodem ser usados como sistemas de comunicação. Pela\nlimitação de espaço, o número de satélites que podem ser\nposicionados numa órbita é finito. O lançamento de um\nsatélite geoestacionário envolve três etapas:\n\n•\t Lança-se o satélite da base terrestre até uma órbita\ncircular próxima (órbita R1).\n•\t No estágio de propulsão, aplica-se um impulso\ntangencial à trajetória no ponto A, mudando-se para\numa órbita elíptica até o satélite atingir o ponto B,\nque coincide com o raio de sua órbita geoestacionária.\n•\t No ponto B, efetua-se uma mudança para a órbita\ncircular R2, aplicando-se um impulso tangente\nà trajetória.\n\n![](https://enem.dev/2024-reaplicacao/questions/115/6b99c6e2-539d-416b-b354-92b457bafe00.png)\n\nIdentificando a órbita interna como R1, a órbita\ngeoestacionária como R2 e a órbita elíptica como E,\nas energias mecânicas do satélite nas três órbitas são\nidentificadas, respectivamente, como E1, E2 e EE.\n\nBEER, F. P. et al. Vector Mechanics: Static and Dynamic.\n\nNova York: McGraw-Hill, 2009.",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/115/6b99c6e2-539d-416b-b354-92b457bafe00.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A relação de comparação entre as energias mecânicas do satélite nas três órbitas é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "E2 > EE > E1.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "E2 < EE < E1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "E1 = EE < E2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "E1 < EE = E2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E1 > EE = E2.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

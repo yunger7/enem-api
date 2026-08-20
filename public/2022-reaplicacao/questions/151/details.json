@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2022",
+    "index": 151,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um investidor comprou ações de uma empresa em\n3 de maio de certo ano (uma segunda-feira), pagando\nR$ 20,00 por cada uma. As ações mantinham seus\npreços inalterados por uma semana e tinham novos\nvalores divulgados pela empresa a cada segunda-feira,\nantes da realização de qualquer negócio. O quadro\nilustra o valor de uma dessas ações, em real, ao longo\nde algumas semanas.\n\nSemana\nValor (R$)\n\n03 a 09 de maio\n20\n\n10 a 16 de maio\n25\n\n17 a 23 de maio\n20\n\n24 a 30 de maio\n35\n\n31 de maio a 06 de junho\n45\n\nO investidor vendeu suas ações em 7 de junho, mas\nfez isso antes da divulgação do valor das ações naquela\nsemana. E obteve, por cada ação, a média entre os\nvalores unitários da primeira e última semanas indicados\nno quadro.\n\nSuponha que o valor divulgado para uma ação\ndaquela empresa na semana de 7 a 13 de junho tenha\nsido 30% maior que a média dos valores nas semanas\nobservadas no quadro.\nSe o investidor tivesse vendido as ações pelo preço\ndivulgado para a semana de 7 a 13 de junho, quanto ele\nteria recebido a mais, em real, pela venda de cada ação?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,55 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "5,20 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9,75 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "16,25 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "26,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

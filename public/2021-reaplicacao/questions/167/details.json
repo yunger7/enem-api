@@ -1,0 +1,43 @@
+{
+    "title": "Questão 167 - ENEM 2021",
+    "index": 167,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Black Friday\u0002 ^\u0002 \f\u0010\b\u0002 \r\u0007\b\u000f\u000e'\u001d\u0004\u0002 \u0005\u0004\u0007\r\n/\b\u0010\n\u0007\u000e\u001e\b\u0005\b\u0002\nque consiste numa queda de preços de uma grande\nvariedade de produtos disponíveis para venda na\nK2\r\u000e\u0010\b\u0002\n@\r\b/P\n\u000e\u0007\b\u0002\u000f\u0004\u0002\u0010>\t\u0002\u000f\n\u0002\u0005\u0004#\n\u0010!\u0007\u0004(\u0002\u0016\u0004\u0002¤\u0007\b\t\u000e2$\u0002\n\u0010\u0002\nmuitas lojas, essa prática se estende por todo esse\nmês. Para esse período, o gerente de uma loja de\nprodutos eletrônicos que tem 5 vendedores estabelece\numa meta de vendas de computadores para um total\nmínimo de 605 unidades. Ele considera que a média de\nvendas de computadores dos 5 vendedores juntos neste\nano se manterá igual à dos últimos 5 anos, conforme\n\b%\u0007\n\n\u0005\r\b\u000f\b\u0002 \u0005\u0004\u0002 J\u0007?\u0006\u001e\u0004(\u0002 \u0003\u0004\u0005\t\u000e\u000f\n\u0007\n\u0002 \u000b\f\n\u0002 \b\u0002 %\b\u0007\r\u000e\u001e\u000e%\b'\u001d\u0004\u0002\n\u000f\n\u0002\u001e\b\u000f\b\u0002#\n\u0005\u000f\n\u000f\u0004\u0007\u0002\u0005\b\u0002\u0004!\r\n\u0005'\u001d\u0004\u0002\u000f\b\u0002\u0010\n\r\b\u0002\n\"\b\u0002\u000eJ\f\b2(\n\nVendas de computadores nos últimos 5 anos\n\nQuantidade de unidades\n\n600\n525\n480\n430\n440\n400\n500\n\nvendidas\n\nAno\n2020\n2019\n2018\n2017\n2016",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para que a meta da loja seja atingida, o gerente deverá estipular, para cada vendedor, um aumento na média de vendas de, no mínimo, quantas unidades?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 100 - ENEM 2024",
+    "index": 100,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Mirascópio 3D: produtor de ilusão instantânea\n\nO equipamento ilustrado na figura, de dimensões\napresentadas no esquema, é composto por dois espelhos\ncôncavos E1 e E2, apoiados um sobre o outro por suas\nbordas, de tal forma que o vértice de E1 coincide com\no foco de E2 e vice-versa. Na abertura circular de\nE2, é formada uma imagem tridimensional de um objeto\nposicionado sobre o vértice de E1. Essa imagem é\nformada a partir dos raios procedentes do objeto, refletidos\npor E2 e E1, respectivamente, conforme o esquema.\nOs observadores julgam visualizar o objeto quando estão,\nde fato, visualizando sua imagem. O efeito só é possível\nporque as superfícies de ambos os espelhos são de\nextrema qualidade.\n\n![](https://enem.dev/2024/questions/100/8cd35793-bb1f-461d-a8ed-59249d8596b3.png)\n\nSALZMANN, W. Disponível em: https://wissenstexte.de.\n\nAcesso em: 27 jun. 2024 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/100/8cd35793-bb1f-461d-a8ed-59249d8596b3.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "real e 5 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "real e 3,8 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "real e 7,6 cm.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "virtual e 7,6 cm.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "virtual e 3,8 cm.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

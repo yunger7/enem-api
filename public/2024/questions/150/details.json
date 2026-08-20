@@ -1,0 +1,45 @@
+{
+    "title": "Questão 150 - ENEM 2024",
+    "index": 150,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma sala com piso no formato retangular, com lados\nde medidas 3 m e 6 m, será dividida em dois ambientes.\nPara isso, serão utilizadas colunas em formato cilíndrico,\ndispostas perpendicularmente ao piso e representadas na\nfigura pelos círculos de cor azul. Os centros desses círculos\nestarão sobre uma reta paralela aos lados de menor medida\ndo piso da sala. Os vãos entre duas colunas e entre uma\ncoluna e a parede não poderão ser superiores a 15 cm.\n\n![](https://enem.dev/2024/questions/150/c257dd31-f298-45dc-9d93-0d074a28cde8.png)\n\nPara efetuar a compra dessas colunas, foram feitos\norçamentos com base em dados fornecidos por cinco lojas.\n\nLoja\nRaio (cm)\nPreço por\nunidade (R$)\nI\n5\n60\nII\n10\n70\nIII\n12\n75\nIV\n15\n90\nV\n20\n120\n\nA compra será realizada na loja cujo orçamento resulte\nno menor valor total possível.",
+    "files": [
+        "https://enem.dev/2024/questions/150/c257dd31-f298-45dc-9d93-0d074a28cde8.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A compra será realizada na loja",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

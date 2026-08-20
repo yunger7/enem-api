@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2025",
+    "index": 169,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica produzia e vendia 200 000 garrafas de 2 litros\nde um suco. O administrador da fábrica decidiu aumentar\na produção de suco em 20%, utilizando garrafas de menor\ncapacidade. Com isso, precisou aumentar em 60% a quantidade\nde garrafas utilizadas, em relação à quantidade inicial, de modo\na conseguir envazar todo o suco produzido.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a quantidade máxima de suco, em litro, que deverá ser reduzida na nova embalagem, em relação à de 2 litros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

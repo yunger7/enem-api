@@ -1,0 +1,45 @@
+{
+    "title": "Questão 137 - ENEM 2025",
+    "index": 137,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela\nreportagem estão apresentados no infográfico.\n\nPerfil dos brasileiros nas redes sociais\n\n![](https://enem.dev/2025/questions/137/ed8b2e0d-e758-4a58-be15-12df92a91b31.png)\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 22 out. 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/137/ed8b2e0d-e758-4a58-be15-12df92a91b31.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, a probabilidade de ele ser um homem que acessa alguma rede social é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "36",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "46",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

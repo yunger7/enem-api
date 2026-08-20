@@ -1,0 +1,43 @@
+{
+    "title": "Questão 9 - ENEM 2023",
+    "index": 9,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "É vantajoso que as crianças possam entender\no funcionamento por trás da tecnologia que está\npresente em diversos aspectos da vida cotidiana,\naproveitando a curiosidade infantil como impulso inicial.\nA computação ajuda a desenvolver o raciocínio, a melhorar\na comunicação e a trabalhar a capacidade de resolver\nproblemas. Os computadores executam tarefas por meio\nde comandos dados em uma programação. Essa, por sua\nvez, é feita com linguagens próprias, que funcionam como\numa espécie de “idioma”, por meio do qual o programador\nse comunica com as máquinas.\n\nPorém, mais do que dominar essas linguagens,\no programador precisa empregar a lógica computacional.\nO programador precisa expressar em seu código as\ncondições e seus efeitos, como “se acontecer A, faça\nB, a não ser que haja X, então faça C”. A escrita de um\nalgoritmo é repleta de condições interconectadas, do tipo\n“se”, “então”, “senão”, “ou”, “até que”, “enquanto” etc. Por\nisso, para programar, é necessário compreender esse\ntipo de raciocínio. Para as crianças, isso é tarefa fácil;\nafinal elas têm uma capacidade incrível de assimilar\ninformações novas.\n\nDisponível em: https://catracalivre.com.br. Acesso em: 25 nov. 2021.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse texto promove uma reflexão sobre o ensino de programação na infância. A defesa da proposta está ancorada na caracterização da programação com base na sua A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "conexão com aspectos lúdicos da infância. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "autonomia em relação ao raciocínio lógico. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "presença crescente no dia a dia das pessoas. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "similaridade com o funcionamento das línguas. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "capacidade de inovação na resolução de tarefas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

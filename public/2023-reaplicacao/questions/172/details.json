@@ -1,0 +1,43 @@
+{
+    "title": "Questão 172 - ENEM 2023",
+    "index": 172,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O Torcidômetro é uma ferramenta para se entender\na dinâmica do crescimento ou encolhimento das torcidas\ndos times de futebol no país. O gráfico mostra a variação\npercentual, entre 1993 e 2007, das torcidas de cinco times\nnumerados em: I, II, III, IV e V.\n\n(em %)\n\n20\n19\n18\n17\n16\n15\n14\n13\n12\n11\n10\n09\n08\n07\n06\n05\n04\n03\n02\n01\n00\n\nDisponível em: www.netvasco.com.br. Acesso em: 25 fev. 2009.\n\nOs dados exibidos no gráfico indicam que a torcida que\napenas cresceu, entre fevereiro de 2006 e agosto de\n2007, foi a torcida do time",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

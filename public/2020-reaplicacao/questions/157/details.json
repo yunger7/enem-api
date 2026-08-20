@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2020",
+    "index": 157,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um vidraceiro precisa construir tampos de vidro com formatos diferentes, porém com medidas de áreas iguais.\nPara isso, pede a um amigo que o ajude a determinar uma fórmula para o cálculo do raio R de um tampo de vidro\ncircular com área equivalente à de um tampo de vidro quadrado de lado L.\n\nR\nL",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A fórmula correta é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

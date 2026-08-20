@@ -1,0 +1,43 @@
+{
+    "title": "Questão 170 - ENEM 2024",
+    "index": 170,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram\nmagnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre\nos estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\n2\n3\n\nM\nM\nE\n\nE\n2\n1\n2\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia\nliberada foi um décimo da observada no segundo terremoto.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "8,2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "8,4. Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019. \u001a \u0019 \u0018 log \u001b",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

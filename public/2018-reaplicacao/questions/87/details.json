@@ -1,0 +1,43 @@
+{
+    "title": "Questão 87 - ENEM 2018",
+    "index": 87,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A rotação de culturas é um método que consiste\nna alternância de uma cultura de uma leguminosa com\numa outra cultura de não leguminosa, por exemplo, a\nalternância de uma plantação de cana ou milho com uma\nde amendoim ou feijão, periodicamente. Assim, em uma\nsafra planta-se uma não leguminosa e na entressafra\numa leguminosa, deixando os restos das leguminosas\nnas áreas onde se pretende plantar outra cultura.\n\nREZENDE, M. O. O. et al. Importância da compreensão dos ciclos\n\nbiogeoquímicos para o desenvolvimento sustentável. São Carlos:\n\nInstituto de Química de São Carlos/USP, 2003 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A forma de manejo exemplificada desenvolve um modo de uso da terra que proporciona a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "redução dos nutrientes no solo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "compactação das camadas superficiais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fixação do nitrogênio pelas raízes dos vegetais.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "intensificação da erosão pelo intemperismo físico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "concentração de sais por mecanismo de irrigação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

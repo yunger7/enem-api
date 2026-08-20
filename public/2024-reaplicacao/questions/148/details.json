@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2024",
+    "index": 148,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Na primeira edição de uma Feira do Livro, a\norganização contou com a participação de dez voluntários,\nde mesma habilidade e experiência, que montaram cinco\nestandes de livros em uma semana, trabalhando todos\nos dias.\n\nNa segunda edição da Feira do Livro, a organização\ndispôs de duas semanas para montar os estandes.\nConsidere que todos os novos voluntários escolhidos\ntenham a mesma experiência, habilidade e produtividade\ndos voluntários da primeira edição da feira e que trabalharão\ntodos os dias nessas duas semanas.\n\nConsidere duas situações para a segunda edição:\n\n•\t I: o número de voluntários permanecerá o mesmo;\n•\t II: o número de estandes a serem montados\npermanecerá o mesmo.\n\nObserve que o aumento no tempo de organização\npara montar os estandes, junto a uma das duas situações\ncitadas, pode fazer o valor das outras variáveis (número\nde voluntários e de estandes) aumentar, diminuir ou\npermanecer igual.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O número de estandes na situação I e o número de voluntários na situação II, na segunda edição da feira, comparados aos números da primeira edição, serão, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "maior e maior.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "maior e menor.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "igual e igual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "igual e menor.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "menor e menor.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 155 - ENEM 2019",
+    "index": 155,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um vidraceiro é contratado para colocar uma porta\nde vidro que escorregará em uma canaleta de largura\ninterna igual a 1,45 cm, como mostra a figura.\n\nLargura\ninterna\n\nEspessura\nde vidro\n\nO vidraceiro precisa de uma placa de vidro de maior\nespessura possível, tal que deixe uma folga total de\npelo menos 0,2 cm, para que o vidro possa escorregar\nna canaleta, e no máximo 0,5 cm para que o vidro não\nfique batendo com a interferência do vento após a\ninstalação. Para conseguir essa placa de vidro, esse\nvidraceiro foi até uma loja e lá encontrou placas de vidro\ncom espessuras iguais a: 0,75 cm; 0,95 cm; 1,05 cm;\n1,20 cm; 1,40 cm.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Para atender às restrições especificadas, o vidraceiro deverá comprar a placa de espessura, em centímetro, igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,75.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,95.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,05.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,20.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1,40.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

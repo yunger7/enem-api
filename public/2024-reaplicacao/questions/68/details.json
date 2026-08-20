@@ -1,0 +1,43 @@
+{
+    "title": "Questão 68 - ENEM 2024",
+    "index": 68,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Observações: Cisne n. 1 é branco.\nCisne n. 2 é branco.\n...\nCisne n. 534 é branco.\n...\nConclusão: Todos os cisnes são brancos.\n\nFRENCH, S. Ciência: conceitos-chave em filosofia.\n\nPorto Alegre: Artmed, 2009 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A sequência de proposições apresentada no texto indica uma",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "captação advinda de intuições pessoais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "negação originada de realidades empíricas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "consequência extraída pelo método indutivo.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "tática proveniente de argumentação persuasiva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "compreensão construída pelo processo criativo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

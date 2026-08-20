@@ -1,0 +1,49 @@
+{
+    "title": "Questão 168 - ENEM 2024",
+    "index": 168,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações\nsemelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve\nduração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos\nrestantes em superfície que simula uma estrada de chão.\n\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em\ncada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor\ndo que sua amplitude da oscilação na estrada de chão.",
+    "files": [
+        "https://enem.dev/2024/questions/168/f6d121be-45d9-4082-b648-bee5e1d51475.png",
+        "https://enem.dev/2024/questions/168/05364937-5e6c-425a-8458-a86a9fab3ebe.png",
+        "https://enem.dev/2024/questions/168/ad2a8726-80aa-4f00-b827-36762368a61e.png",
+        "https://enem.dev/2024/questions/168/7d531e46-58fc-4ad3-b6a2-df7cd2b35977.png",
+        "https://enem.dev/2024/questions/168/4ee36d94-c7f6-486f-9404-b651061ae9ed.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/168/f6d121be-45d9-4082-b648-bee5e1d51475.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/168/05364937-5e6c-425a-8458-a86a9fab3ebe.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/168/ad2a8726-80aa-4f00-b827-36762368a61e.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/168/7d531e46-58fc-4ad3-b6a2-df7cd2b35977.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024/questions/168/4ee36d94-c7f6-486f-9404-b651061ae9ed.png",
+            "isCorrect": false
+        }
+    ]
+}

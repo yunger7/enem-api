@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2018",
+    "index": 151,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa tem massa corporal de 167 kg. Sob\norientação de um nutricionista, submeteu-se a um regime\nalimentar, em que se projeta que a perda de quilos mensais\nseja inferior a 5 kg. Após iniciar o regime, observou-se,\nnos três primeiros meses, uma perda de 4 kg por mês,\ne nos quatro meses seguintes, uma perda mensal de\n3 kg. Daí em diante, segundo as recomendações do\nnutricionista, deveria haver uma perda mensal fixa em\ncada um dos meses subsequentes, objetivando alcançar\na massa corporal de 71 kg ao final do regime.\nSegundo as projeções e recomendações do nutricionista,\npara alcançar seu objetivo, a duração mínima, em mês,\nque essa pessoa deverá manter o seu regime será de",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "21.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "22.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

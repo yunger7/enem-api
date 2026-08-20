@@ -1,0 +1,45 @@
+{
+    "title": "Questão 109 - ENEM 2024",
+    "index": 109,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ácido sulfúrico é uma das principais substâncias produzidas industrialmente no mundo. O esquema apresenta,\nde forma simplificada, as etapas de sua produção.\n\n![](https://enem.dev/2024-reaplicacao/questions/109/ded530d8-b8b6-4940-8566-6f37bb462a95.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/109/ded530d8-b8b6-4940-8566-6f37bb462a95.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em qual etapa ocorre a conversão química do enxofre (S) para o seu maior estado de oxidação?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 133 - ENEM 2024",
+    "index": 133,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O biogás é uma alternativa energética muito importante,\npois, além de reduzir a dependência por combustíveis\nfósseis, sua obtenção pode ser realizada a partir de\nresíduos da produção agroindustrial. Considere que o\nbiogás produzido em um empreendimento de suinocultura\ncontém 70% em volume de metano (massa molar 16 g/mol;\nvolume molar 22 L/mol). Ele será utilizado para geração de\nenergia em substituição ao etanol (massa molar 46 g/mol)\nem um gerador no qual 1 m3 de biogás de origem suína\nsubstitui 0,59 L de etanol anidro (densidade 0,78 g/mL).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "300 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "400 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "510 g.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "590 g.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "720 g.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

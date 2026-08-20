@@ -1,0 +1,50 @@
+{
+    "title": "Questão 150 - ENEM 2024",
+    "index": 150,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um garrafão, cujas seções transversais são circunferências, encontra-se cheio de água. Ao ser acoplado a um\nbebedouro, ficou com sua base voltada para cima e paralela ao chão. A torneira desse bebedouro foi aberta para escoar\ntoda a água desse garrafão com vazão constante. A vista frontal do garrafão é apresentada na figura.\n\n![](https://enem.dev/2024-reaplicacao/questions/150/d248296f-3e2b-40fd-a2b5-7ef3346df433.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/150/d248296f-3e2b-40fd-a2b5-7ef3346df433.png",
+        "https://enem.dev/2024-reaplicacao/questions/150/1f62a909-1677-4009-9ec1-0a69c37e159d.png",
+        "https://enem.dev/2024-reaplicacao/questions/150/10aa9d47-ed27-4bcd-b286-18b523ac0707.png",
+        "https://enem.dev/2024-reaplicacao/questions/150/b6ea58c6-4ad9-408b-a96d-838b445d98bc.png",
+        "https://enem.dev/2024-reaplicacao/questions/150/ed530994-2945-45a9-8dc3-a80fd0f80e71.png",
+        "https://enem.dev/2024-reaplicacao/questions/150/7f4e7ecc-3497-42ad-ae7e-417951b5f44f.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O gráfico que melhor representa a variação da altura h da água no garrafão, em função do tempo t, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/150/1f62a909-1677-4009-9ec1-0a69c37e159d.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/150/10aa9d47-ed27-4bcd-b286-18b523ac0707.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/150/b6ea58c6-4ad9-408b-a96d-838b445d98bc.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/150/ed530994-2945-45a9-8dc3-a80fd0f80e71.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2024-reaplicacao/questions/150/7f4e7ecc-3497-42ad-ae7e-417951b5f44f.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 106 - ENEM 2025",
+    "index": 106,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma\nfotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento\npermite identificar como os compostos químicos eram representados.\n\n![](https://enem.dev/2025/questions/106/9ad95db8-d41b-45da-a472-c397c9f83bea.png)\n\nO nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do\noxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO2). Analogamente, o nitrato\nde sódio era representado por NaAzO3.",
+    "files": [
+        "https://enem.dev/2025/questions/106/9ad95db8-d41b-45da-a472-c397c9f83bea.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "HAzO3 e CaCl2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "HAz3O e Ca2Cl",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "H3AzO4 e CaCl",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "HAz3O e KCl2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "HAzO2 e KCl Disponível em: www.novomilenio.inf.br. Acesso em: 29 ago. 2014 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

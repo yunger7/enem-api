@@ -1,0 +1,45 @@
+{
+    "title": "Questão 154 - ENEM 2020",
+    "index": 154,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Projetado pelo arquiteto Oscar Niemeyer, o Museu de Arte Contemporânea (MAC) tornou-se um dos cartões-postais\nda cidade de Niterói (Figura 1).\n\n![](https://enem.dev/2020-reaplicacao/questions/154/2002bfe7-dc87-4088-b2fc-19134d45f45d.png)\n\nFigura 1\n\nConsidere que a forma da cúpula do MAC seja a de um tronco de cone circular reto (Figura 2), cujo diâmetro da\nbase maior mede 50 m e 12 m é a distância entre as duas bases. A administração do museu deseja fazer uma reforma\nrevitalizando o piso de seu pátio e, para isso, precisa estimar a sua área. (Utilize 1,7 como valor aproximado para 3\ne 3 para ).\n\nPátio\n60º\n\nFigura 2",
+    "files": [
+        "https://enem.dev/2020-reaplicacao/questions/154/2002bfe7-dc87-4088-b2fc-19134d45f45d.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A medida da área do pátio do museu a ser revitalizada, em metro quadrado, está no intervalo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "[100, 200] B \t [300, 400] C \t [600, 700] D \t [900, 1 000] E \t [1 000, 1 100]",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

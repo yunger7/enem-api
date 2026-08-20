@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2023",
+    "index": 169,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa foi a um supermercado comprar uma\ncaixa de sabão em pó. Lá encontrou várias marcas desse\nproduto, disponibilizado em embalagens com diferentes\ncapacidades e preços. No quadro são fornecidos o preço,\nem real, e o conteúdo, em quilograma, das embalagens\nde cinco diferentes marcas de sabão em pó que estão à\nvenda nesse supermercado.\n\nMarca\nPreço por\nembalagem (R$)\n\nConteúdo da\nembalagem (kg)\n\nI\n18,00\n3,0\n\nII\n10,00\n2,5\n\nIII\n8,00\n0,5\n\nIV\n7,00\n1,0\n\nV\n34,00\n2,0\n\nA marca cuja embalagem oferece o menor preço, em\nreal, por quilograma de sabão em pó é",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "III. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

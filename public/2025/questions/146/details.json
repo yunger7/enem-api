@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2025",
+    "index": 146,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No atletismo, um grande desafio da prova de 100 metros\nrasos é a sua conclusão num tempo abaixo da marca de\nreferência dos 10,00 segundos. Vários atletas já alcançaram\nesse feito. Em 2009, o jamaicano Usain Bolt estabeleceu o\nrecorde mundial masculino dessa prova, com o tempo de\n9,58 segundos.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é a diferença, em segundo, entre a marca de referência e a marca estabelecida por Usain Bolt em 2009?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,02",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,42",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "0,52",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1,02",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,42",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

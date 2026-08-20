@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2018",
+    "index": 106,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Várias características e propriedades de moléculas\norgânicas podem ser inferidas analisando sua fórmula\nestrutural. Na natureza, alguns compostos apresentam\na mesma fórmula molecular e diferentes fórmulas\nestruturais. São os chamados isômeros, como ilustrado\nnas estruturas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Entre as moléculas apresentadas, observa-se a ocorrência de isomeria",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ótica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "de função.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "de cadeia.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "geométrica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "de compensação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

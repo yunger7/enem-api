@@ -1,0 +1,45 @@
+{
+    "title": "Questão 40 - ENEM 2019",
+    "index": 40,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "TEXTO I\nTEXTO II\n\n![](https://enem.dev/2019-reaplicacao/questions/40/3485a3de-23eb-4db0-9d72-d4e6643998ae.png)\n\nFotografia em preto e branco de músico da cultura lupa (norte de\n\nAngola) tocando uma kalimba ou lamelofone.\n\nINTERNATIONAL Library of African Music, Angola.\n Disponível em: http://keywordsuggest.org. Acesso em: 18 ago. 2017.",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/40/3485a3de-23eb-4db0-9d72-d4e6643998ae.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O instrumento feito de lâminas metálicas e cabaça é comum a manifestações musicais na África e no Brasil. Nos textos, apesar de figurarem em contextos geográficos separados pelo Oceano Atlântico e terem cerca de um século de distanciamento temporal, a semelhança do instrumento demonstra a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "vinculação desses instrumentos com a cultura dos negros escravizados.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "influência da cultura africana na construção da musicalidade brasileira.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "condição de colônia europeia comum ao Brasil e grande parte da África.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "escassez de variedade de instrumentos musicais relacionados à cultura africana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "importância de registros artísticos na difusão e manutenção de uma tradição musical.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

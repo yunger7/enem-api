@@ -27,16 +27,23 @@ export async function GET(
 
         const searchParams = request.nextUrl.searchParams;
 
-        let { language } = GetQuestionDetailsQuerySchema.parse(
+        let { language, application } = GetQuestionDetailsQuerySchema.parse(
             getSearchParamsAsObject(searchParams),
         );
 
-        const exam = await getExamDetails(params.year);
+        const exam = await getExamDetails({
+            year: params.year,
+            application,
+        });
 
         if (!exam) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `No exam found for year ${params.year}`,
+                message:
+                    `No exam found for year ${params.year}` +
+                    (application === 'reaplicacao'
+                        ? ' (reaplicação not available for this year)'
+                        : ''),
             });
         }
 
@@ -55,12 +62,15 @@ export async function GET(
             year: params.year,
             index: params.index,
             language,
+            application,
         });
 
         if (!questionDetails) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `Question ${params.index} not found in exam ${params.year}`,
+                message:
+                    `Question ${params.index} not found in exam ${params.year}` +
+                    (application === 'reaplicacao' ? ' (reaplicação)' : ''),
             });
         }
 

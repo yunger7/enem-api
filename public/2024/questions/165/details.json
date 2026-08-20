@@ -1,0 +1,43 @@
+{
+    "title": "Questão 165 - ENEM 2024",
+    "index": 165,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para melhorar o fluxo de ônibus em uma avenida que\ntem dois semáforos, a prefeitura reduzirá o tempo em\nque cada sinal ficará vermelho, que atualmente é de 15\nsegundos a cada 60 segundos. Admita que o instante de\nchegada de um ônibus a cada semáforo é aleatório.\n\nO engenheiro de tráfego da prefeitura calculou a\nprobabilidade de um ônibus encontrar cada um deles\n\nvermelho, obtendo 15\n\n60\n. A partir daí, estabeleceu uma\n\nmesma redução na quantidade do tempo, em segundo,\nem que cada sinal ficará vermelho, de maneira que\na probabilidade de um ônibus encontrar ambos os\n\nsinais vermelhos numa mesma viagem seja igual a\n4\n100 ,\n\nconsiderando os eventos independentes.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,35.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "9,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "12,60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13,80.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

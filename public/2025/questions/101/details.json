@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2025",
+    "index": 101,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Por que os olhos ficam vermelhos\n\nem algumas fotografias?\n\nEm fotos tiradas com câmeras fotográficas antigas, por\nvezes as pessoas aparecem com os olhos vermelhos. Isso\nocorre porque a luz do flash da câmera incide diretamente\nno globo ocular, sendo refletida por uma região repleta de\nvasos sanguíneos.\n\nDisponível em: www.uol.com.br. Acesso em: 14 jun. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "dilatada, chega mais luz à retina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "retraída, chega mais luz vermelha à retina.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "retraída, chega mais luz vermelha aos bastonetes.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "retraída, chegam menos luzes azul e verde aos cones.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "dilatada, chegam menos luzes azul e verde aos bastonetes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

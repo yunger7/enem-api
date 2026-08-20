@@ -1,0 +1,43 @@
+{
+    "title": "Questão 159 - ENEM 2023",
+    "index": 159,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa produziu uma bola de chocolate,\nem formato esférico, para utilizar na decoração de sua\nloja. Essa bola tem 20 cm de diâmetro externo, sendo oca\npor dentro, e a medida da espessura entre as superfícies\ninterna e externa corresponde a 1 cm. Considere que,\nna confecção dessa bola, foi utilizado um tipo de chocolate\nem que 1 g equivale a 0,75 cm³.\n\nA quantidade de chocolate, em grama, utilizado na confecção\ndessa bola é\n\n76\n3\nπ",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2019",
+    "index": 100,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma das formas de se obter energia elétrica é usar\numa lente convergente circular para concentrar os raios\nde sol em um único ponto, aquecendo um dispositivo\nlocalizado nesse ponto a uma temperatura elevada. Com\na transformação da energia luminosa em energia térmica,\npode ser criado vapor-d’água que moverá uma turbina e\ngerará energia elétrica. Para projetar um sistema de\ngeração de energia elétrica, a fim de alimentar um\nchuveiro elétrico de 2 000 W de potência, sabe-se que,\n\nneste local, a energia recebida do Sol é 1 000 W\n\nm2 .\n\nEsse sistema apresenta taxa de eficiência de\nconversão em energia elétrica de 50% da energia\nsolar incidente. Considere \u001f = 1,8.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual deve ser, em metro, o raio da lente para que esse sistema satisfaça aos requisitos do projeto?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,28",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,32",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,40",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,80",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,11",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2023",
+    "index": 143,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A nota final de um estudante em uma disciplina é dada\npela mediana das notas de suas quatro provas.\n\nCinco estudantes dessa disciplina obtiveram as notas\napresentadas no quadro.\n\nEstudante\nProva 1\nProva 2\nProva 3\nProva 4\n\nI\n85\n45\n90\n45\n\nII\n80\n70\n70\n75\n\nIII\n75\n75\n75\n55\n\nIV\n85\n35\n35\n90\n\nV\n60\n70\n70\n75\n\nO professor dessa disciplina pediu a cada estudante\nque calculasse sua nota final e lhe apresentasse o resultado\nobtido. Os resultados informados pelos estudantes foram:\n\n•\t estudante I: 77;\n•\t estudante II: 70;\n•\t estudante III: 70;\n•\t estudante IV: 60;\n•\t estudante V: 70.\n\nQual(is) estudante(s) acertou(aram) sua nota final?",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "III C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e III D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "II e V E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IV e V",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

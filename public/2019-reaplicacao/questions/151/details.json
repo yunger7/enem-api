@@ -1,0 +1,43 @@
+{
+    "title": "Questão 151 - ENEM 2019",
+    "index": 151,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para certas molas, a constante elástica (C) depende\ndo diâmetro médio da circunferência da mola (D), do\nnúmero de espirais úteis (N), do diâmetro (d) do fio\nde metal do qual é formada a mola e do módulo de\nelasticidade do material (G). A fórmula evidencia essas\nrelações de dependência.\n\nD\nN\n\nC\nG d\n\n3\n8\n\nO dono de uma fábrica possui uma mola M1 em um\nde seus equipamentos, que tem características D1, d1,\nN1 e G1, com uma constante elástica C1. Essa mola\nprecisa ser substituída por outra, M2, produzida com\noutro material e com características diferentes, bem\ncomo uma nova constante elástica C2, da seguinte\n\nmaneira: I) D2 = D1\n\n3 ; II) d2 = 3d1; III) N2 = 9N1. Além\n\ndisso, a constante de elasticidade G2 do novo material\né igual a 4G1.\n\nO valor da constante C2 em função da constante C1 é\n\nA\nC2 = 972⋅C1\n\nB\nC2 = 108⋅C1\n\nC\nC2 = 4⋅C1\n\nD\nC\nC\n2\n1\n4\n3",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "E C C 2 1 4 9",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

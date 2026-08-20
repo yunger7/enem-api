@@ -1,0 +1,43 @@
+{
+    "title": "Questão 148 - ENEM 2023",
+    "index": 148,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "No ano em que uma empresa lançou seu novo modelo\nde celular no mercado brasileiro, investiu 45 milhões de\nreais no primeiro semestre em cada uma das cinco regiões\ndo país, colocando à venda 30 mil aparelhos por região.\nNo primeiro semestre, todos os aparelhos colocados\nà venda foram vendidos, gerando um lucro total de\n30 milhões de reais. No segundo semestre, a empresa\ndecidiu que faria o mesmo investimento e colocou à\nvenda as mesmas quantidades de aparelhos por região.\nPor causa da demanda observada, a empresa considerou\nque todos os aparelhos desse modelo que fossem\nofertados sejam vendidos e, além disso, planeja obter um\nlucro total 10% maior no segundo semestre do que o que\nobteve no primeiro.\n\nPara que essa empresa alcance o lucro planejado, qual\ndeve ser o valor de venda, em real, de um aparelho\ncelular desse modelo, no segundo semestre desse ano?",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "R$ 1 650,00 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "R$ 1 720,00 C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "R$ 1 870,00 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "R$ 2 500,00 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "R$ 2 600,00",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

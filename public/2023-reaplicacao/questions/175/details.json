@@ -1,0 +1,43 @@
+{
+    "title": "Questão 175 - ENEM 2023",
+    "index": 175,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um rolo de papel higiênico tradicional é representado\npor um cilindro circular reto retirando-se outro cilindro\ncircular reto interior, de mesmo eixo de simetria, mesma\naltura e diâmetro menor, conforme a figura.\n\nAltura\n\nDiâmetro\n\ninterno\n\nDiâmetro externo\n\nConsidere um rolo de papel higiênico com 12 cm de\ndiâmetro externo, 4 cm de diâmetro interno e 10 cm\nde altura.\n\nO volume, em centímetro cúbico, desse rolo é",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "80π. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "160π. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "320π. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "640π. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1 280π.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

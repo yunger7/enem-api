@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2024",
+    "index": 94,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um laboratório farmacêutico desenvolveu um anestésico tópico, em forma de creme, destinado à aplicação na\npele de pacientes a serem submetidos a pequenas intervenções dermatológicas. As nanocápsulas são feitas de um\npolímero 100% biodegradável, dotadas de paredes semipermeáveis, e têm um núcleo oleoso que contém os princípios\nativos prilocaína e lidocaína. O nanoanestésico é responsável pelo transporte e entrega dos princípios ativos à região\ndesejada do organismo.\n\n![](https://enem.dev/2024-reaplicacao/questions/94/c3de4316-667b-4b48-988e-7b184c5ff81d.png)\n\nVASCONCELOS, Y. Moléculas inovadoras. Pesquisa Fapesp, n. 238, 2015 (adaptado).",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/94/c3de4316-667b-4b48-988e-7b184c5ff81d.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A utilização dessas nanocápsulas implica o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "diminuição do tempo de vida do fármaco, pela migração do medicamento da epiderme para a hipoderme.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "facilidade de sua absorção na epiderme, pela interação do núcleo oleoso com a camada de gordura da pele.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "acréscimo da concentração dos princípios ativos do anestésico na epiderme, ampliando sua região de atuação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "utilização de uma maior quantidade do creme, para manter a eficiência da droga mesmo com a miniaturização da cápsula.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "aumento do transporte e da absorção dos princípios ativos, à medida que elas se degradam ao migrarem da epiderme para a derme.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

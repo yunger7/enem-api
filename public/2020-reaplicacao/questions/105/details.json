@@ -1,0 +1,43 @@
+{
+    "title": "Questão 105 - ENEM 2020",
+    "index": 105,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Um caminhão de massa 5 toneladas, carregado com carga de 3 toneladas, tem eixos articulados que permitem fazer o uso de 4 a 12 pneus (aos pares) simultaneamente. O número de pneus em contato com o solo é determinado a fim de que a pressão exercida por cada pneu contra o solo não supere o dobro da pressão atmosférica. A área de contato entre cada pneu e o asfalto equivale à área de um retângulo de lados 20 cm e 30 cm. Considere a aceleração da gravidade local igual a 10 m s−2 e a pressão atmosférica de 105 Pa. O menor número de pneus em contato com o solo que o caminhão deverá usar é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2022",
+    "index": 166,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A trajetória de uma pessoa que pula de um andaime\naté o chão é descrita por uma função y = f (x), sendo x e y\nmedidos em metro, conforme mostra a figura.\n\n2,0\n\ny (metro)\n\nf (x) = ax2 + bx + c\n\n1,5\n\n1,0\n1,0\n\n0,5\n\nx (metro)\n\n0,0\n0,5\n1,0\n1,5\n\n2,0\n\n2,5\n3,0\n\nSeja D o domínio da função f (x), como definida na\nfigura.\nPara que a situação representada na figura seja real, o\ndomínio dessa função deve ser igual a",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

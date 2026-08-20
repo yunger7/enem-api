@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2024",
+    "index": 118,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um professor solicita a um grupo de alunos que\norganizem uma coleção de vegetais para apresentar em uma\nfeira de ciências. Dessa forma, os alunos coletaram um\nmusgo, um cogumelo, uma samambaia, uma alga e ramos\nde pinheiro e de goiabeira. Durante a apresentação do\ntrabalho, o professor explicou que, embora todas as\nespécies coletadas tenham muitas características em\ncomum, nem todas são vegetais.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os cogumelos diferem das demais espécies por serem",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "talófitos, não apresentando corpo segmentado em diferentes órgãos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "criptógamos, não apresentando órgãos de reprodução sexuais visíveis.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "heterótrofos, não apresentando capacidade de sintetizarem seu alimento.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "haploides, não apresentando capacidade de se reproduzirem sexuadamente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "avasculares, não apresentando tecidos especializados de transporte de água e nutrientes.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

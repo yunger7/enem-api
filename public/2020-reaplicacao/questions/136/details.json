@@ -1,0 +1,43 @@
+{
+    "title": "Questão 136 - ENEM 2020",
+    "index": 136,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro mostra o número de gols feitos pela equipe\nA em campeonatos estaduais de futebol, no período de\n2007 a 2012.\n\nAno\nNúmero de gols\n\n2007\n64\n\n2008\n59\n\n2009\n61\n\n2010\n45\n\n2011\n61\n\n2012\n58\n\nFaltando ainda alguns jogos para o término do\ncampeonato estadual de 2013, o número de gols\nmarcados pela equipe B era 52. O técnico dessa equipe\nfez um levantamento para saber quantos gols sua equipe\ndeveria marcar nos próximos jogos de modo que, ao\nfinal do campeonato, o número total de gols marcados\npela equipe B ultrapasse a média de gols marcados pela\nequipe A nos campeonatos de 2007 a 2012.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Quantos gols, no mínimo, a equipe B ainda precisaria marcar?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2 B \t 6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

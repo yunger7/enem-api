@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2023",
+    "index": 139,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma câmara de resfriamento de um laboratório tem\num dispositivo que, ao ser ajustado, alterará a temperatura,\nem grau Celsius, de um líquido ao final de cada minuto.\nNessa câmara, existem dois visores, o primeiro indicando\no quanto a temperatura do líquido deve ser diminuída ao\nfinal de cada minuto, e o segundo indicando a temperatura\ndo líquido na câmara naquele instante.\n\nFoi iniciado um teste nessa câmara quando um líquido,\nà temperatura de 30 °C, foi colocado em seu interior.\nEla estava programada no primeiro visor em 1,4 °C.\nNo final de 5 minutos, foi alterada a temperatura, e o valor\nda mudança que aparecia no primeiro visor foi diminuído\nem 0,5 °C. Ao final de 15 minutos do início do teste, a\ntemperatura registrada no primeiro visor foi aumentada\nem 0,3 °C em relação à última marcação.\n\nUm dos objetivos desse teste é que, ao final de\n30 minutos, a temperatura do líquido seja de 0 °C. Assim,\napós 25 minutos relativamente ao início do teste, novo\najuste deve ser feito na numeração do primeiro visor.\n\nQue alteração deverá ser feita na numeração do primeiro\nvisor ao final de 25 minutos do início do teste?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumentar 4,0 °C. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Aumentar 3,0 °C. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Aumentar 1,0 °C. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Diminuir 0,8 °C. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Diminuir 3,0 °C.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

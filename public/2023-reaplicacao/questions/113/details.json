@@ -1,0 +1,43 @@
+{
+    "title": "Questão 113 - ENEM 2023",
+    "index": 113,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A incapacidade de perceber certas cores é\ndenominada daltonismo. Um tipo raro é classificado\nde tritanomalia e corresponde a um defeito nos cones\nsensíveis à cor azul. O gene responsável pela herança\nsitua-se no cromossomo 7, permitindo que homens e\nmulheres sejam igualmente afetados. Além disso, casais\nsem tritanomalia podem ter crianças com a herança.\n\nO padrão dessa herança rara é",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ligado ao X e recessivo. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "ligado ao Y e recessivo. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ligado ao X e dominante. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "autossômico e recessivo. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "autossômico e dominante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

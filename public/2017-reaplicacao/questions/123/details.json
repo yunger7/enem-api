@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2017",
+    "index": 123,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No Brasil, os postos de combustíveis comercializavam\numa gasolina com cerca de 22% de álcool anidro.\nNa queima de 1 litro desse combustível são liberados\ncerca de 2 kg de CO2 na atmosfera. O plantio de\nárvores pode atenuar os efeitos dessa emissão de CO2.\nA quantidade de carbono fixada por uma árvore\ncorresponde a aproximadamente 50% de sua biomassa\nseca, e para cada 12 g de carbono fixados, 44 g de CO2\nsão retirados da atmosfera. No Brasil, o plantio de\neucalipto (Eucalyptus grandis) é bem difundido, sendo que\napós 11 anos essa árvore pode ter a massa de 106 kg,\ndos quais 29 kg são água.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Uma única árvore de Eucalyptus grandis, com as características descritas, é capaz de fixar a quantidade de CO2 liberada na queima de um volume dessa gasolina mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "19 L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "39 L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "71 L.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "97 L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "141 L.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

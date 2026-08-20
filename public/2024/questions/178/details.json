@@ -1,0 +1,43 @@
+{
+    "title": "Questão 178 - ENEM 2024",
+    "index": 178,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A umidade relativa do ar é um dos indicadores utilizados\nna meteorologia para fazer previsões sobre o clima.\nO quadro apresenta as médias mensais, em porcentagem,\nda umidade relativa do ar em um período de seis meses\nconsecutivos em uma cidade.\n\nMeses\nMaio Jun.\nJul.\nAgo.\nSet.\nOut.\n\nMédia mensal da\n\numidade relativa\n\n66\n64\n54\n46\n60\n64\n\ndo ar (%)",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "56.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "58.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "59.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "60.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "62.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

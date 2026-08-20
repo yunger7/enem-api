@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2025",
+    "index": 148,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O controle remoto de um carrinho de brinquedo vem equipado com uma tela que ajusta automaticamente a escala empregada\nna exibição de cada deslocamento. A tela apresenta a imagem do deslocamento, a escala utilizada na geração dessa imagem e\no comprimento desse deslocamento, em centímetro, em conformidade com a escala empregada. As figuras representam a tela\ndo controle remoto exibindo os dados de cinco deslocamentos realizados por esse carrinho.\n\n![](https://enem.dev/2025/questions/148/310c6dc3-86b3-4e82-8bf5-6bf134c9774f.png)",
+    "files": [
+        "https://enem.dev/2025/questions/148/310c6dc3-86b3-4e82-8bf5-6bf134c9774f.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A opção que indica o deslocamento de maior comprimento realizado pelo carrinho de brinquedo é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

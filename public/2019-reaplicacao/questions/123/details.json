@@ -1,0 +1,43 @@
+{
+    "title": "Questão 123 - ENEM 2019",
+    "index": 123,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos municípios onde foi detectada a resistência do\nAedes aegypti, o larvicida tradicional será substituído\npor outro com concentração de 10% (v/v) de um novo\nprincípio ativo. A vantagem desse segundo larvicida é\nque uma pequena quantidade da emulsão apresenta\nalta capacidade de atuação, o que permitirá a condução\nde baixo volume de larvicida pelo agente de combate às\nendemias. Para evitar erros de manipulação, esse novo\nlarvicida será fornecido em frascos plásticos e, para uso\nem campo, todo o seu conteúdo deve ser diluído em água\naté o volume final de um litro. O objetivo é obter uma\nconcentração final de 2% em volume do princípio ativo.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Que volume de larvicida deve conter o frasco plástico?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "10 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "50 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "100 mL",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "200 mL",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "500 mL",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

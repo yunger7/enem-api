@@ -1,0 +1,45 @@
+{
+    "title": "Questão 142 - ENEM 2024",
+    "index": 142,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um curso de desenho artístico, a professora\norganizou uma oficina prática com dois estudantes,\nenvolvendo uma atividade de representação visual.\nA figura representa um balanço, constituído de um assento\nretangular paralelo ao plano xOy do chão, ligado a uma\nhaste horizontal por cordas de sustentação paralelas entre\nsi e de mesma medida. O ponto M representa a posição de\num objeto, fixado pela professora, no centro do assento.\nFoi solicitado que o estudante I se posicionasse tendo vista\nfrontal da trajetória descrita pelo ponto M, e a estudante II,\ntendo vista lateral dessa trajetória enquanto o balanço se\nmovimentava. Nesse movimento, as cordas de sustentação\npermaneciam esticadas e ortogonais à haste horizontal.\nA professora solicitou que os estudantes observassem e\ndescrevessem a trajetória realizada pelo ponto M ao longo\ndo movimento.\n\n![](https://enem.dev/2024-reaplicacao/questions/142/bbc06948-8819-4d55-8148-f9babba0029f.png)",
+    "files": [
+        "https://enem.dev/2024-reaplicacao/questions/142/bbc06948-8819-4d55-8148-f9babba0029f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "As projeções ortogonais da trajetória realizada pelo ponto M vistas pelo estudante I no plano yOz e pela estudante II no plano xOz são, respectivamente, representadas por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "um segmento de reta vertical e um segmento de reta horizontal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "um segmento de reta vertical e uma curva em forma de parábola.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "uma curva em forma de parábola e um segmento de reta vertical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "um arco de circunferência e um segmento de reta vertical.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "um segmento de reta vertical e um arco de circunferência.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

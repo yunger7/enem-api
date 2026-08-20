@@ -1,0 +1,43 @@
+{
+    "title": "Questão 112 - ENEM 2019",
+    "index": 112,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um estudante leu em um site da internet que os\npovos antigos determinavam a duração das estações\ndo ano observando a variação do tamanho da sombra\nde uma haste vertical projetada no solo. Isso ocorria\nporque, se registrarmos o tamanho da menor sombra\nao longo de um dia (ao meio-dia solar), esse valor\nvaria ao longo do ano, o que permitiu aos antigos usar\nesse instrumento rudimentar como um calendário solar\nprimitivo. O estudante também leu que, ao longo de um\nano (sempre ao meio-dia solar): (I) a sombra é máxima\nno solstício de inverno; e (II) a sombra é mínima no\nsolstício de verão.\n\nO estudante, que morava em Macapá (na Linha\ndo Equador), ficou intrigado com essas afirmações e\nresolveu verificar se elas eram verdadeiras em diferentes\nregiões do mundo. Contactou seus amigos virtuais\nem Salvador (Região Tropical) e Porto Alegre (Região\nTemperada) e pediu que eles registrassem o tamanho\nda menor sombra de uma haste vertical padronizada,\nao longo do dia, durante um ano. Os resultados\nencontrados estão mostrados esquematicamente no\ngráfico (SV: Solstício de Verão; SI: Solstício de Inverno;\nE: Equinócio):\n\nTamanho da sombra\n\nInverno\nPrimavera\nVerão\nOutono\nPorto Alegre\nSalvador\n\nMacapá\n\nTempo\nSI\nE\nSV\nE\nSI",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual(is) cidade(s) indicada(s) no texto e no gráfico contradiz(em) a afirmação II?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Salvador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Porto Alegre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Macapá e Salvador.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Macapá e Porto Alegre.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Porto Alegre e Salvador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

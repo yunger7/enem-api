@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2018",
+    "index": 114,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Com um dedo, um garoto pressiona contra a parede\nduas moedas, de R$ 0,10 e R$ 1,00, uma sobre a outra,\nmantendo-as paradas. Em contato com o dedo está a\nmoeda de R$ 0,10 e contra a parede está a de R$ 1,00.\nO peso da moeda de R$ 0,10 é 0,05 N e o da de R$ 1,00 é\n0,09 N. A força de atrito exercida pela parede é suficiente\npara impedir que as moedas caiam.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual é a força de atrito entre a parede e a moeda de R$ 1,00?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,04 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "0,05 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,07 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,09 N",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,14 N",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

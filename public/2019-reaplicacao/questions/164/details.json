@@ -1,0 +1,43 @@
+{
+    "title": "Questão 164 - ENEM 2019",
+    "index": 164,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma corrida de regularidade, cada corredor recebe um mapa com o trajeto a ser seguido e uma tabela\nindicando intervalos de tempo e distâncias entre postos de averiguação. O objetivo dos competidores é passar por\ncada um dos postos de averiguação o mais próximo possível do tempo estabelecido na tabela. Suponha que o\ntempo previsto para percorrer a distância entre dois postos de verificação consecutivos seja sempre de 5 min 15 s,\ne que um corredor obteve os seguintes tempos nos quatro primeiros postos.\n\n1º posto\n2º posto\n3º posto\n\nTempo previsto\n5 min 15 s\n10 min 30 s\n15 min 45 s\n\nTempo obtido pelo corredor\n5 min 27 s\n10 min 54 s\n16 min 21 s\n\n4º posto\n...\nÚltimo posto (final do trajeto)\n\nTempo previsto\n21 min 00 s\n...\n1 h 55 min 30 s\n\nTempo obtido pelo corredor\n21 min 48 s\n...",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Caso esse corredor consiga manter o mesmo ritmo, seu tempo total de corrida será",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 h 55 min 42 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 h 56 min 30 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1 h 59 min 54 s.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "2 h 05 min 09 s.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "2 h 05 min 21 s.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

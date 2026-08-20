@@ -1,0 +1,43 @@
+{
+    "title": "Questão 56 - ENEM 2019",
+    "index": 56,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "A ciência ativa rompe com a separação antiga entre a\nciência (episteme), o saber teórico, e a técnica (techne),\no saber aplicado, integrando ciência e técnica. Do ponto\nde vista da ideia de ciência, a valorização da observação\ne do método experimental opõe a ciência ativa à ciência\ncontemplativa dos antigos; assim também, a utilização\nda matemática como linguagem da física, proposta por\nGalileu sob inspiração platônica e pitagórica, e contrária à\nconcepção aristotélica.\n\nMARCONDES, D. Iniciação à história da filosofia: dos pré-socráticos",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "a Wittgenstein. Rio de Janeiro: Jorge Zahar, 2008 (adaptado). Nesse contexto, a ciência encontra seu novo fundamento na",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "utilização da prova para confirmação empírica.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "apropriação do senso comum como inspiração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "reintrodução dos princípios da metafísica clássica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "construção do método em separado dos fenômenos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "consolidação da independência entre conhecimento e prática.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

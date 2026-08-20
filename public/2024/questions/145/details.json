@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2024",
+    "index": 145,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O estádio do Maracanã passou por algumas\nmodificações estruturais para a realização da Copa do\nMundo de 2014, como, por exemplo, as dimensões do\ncampo retangular. Para se adaptar aos padrões da Fifa,\nas dimensões do campo foram reduzidas de 110 m × 75 m\npara 105 m × 68 m.\n\nDisponível em: http://virgula.uol.com.br.\n\nAcesso em: 14 ago. 2013 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "555",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "1 110",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "1 145",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

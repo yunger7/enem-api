@@ -1,0 +1,45 @@
+{
+    "title": "Questão 122 - ENEM 2025",
+    "index": 122,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O aquecimento em fogões por indução utiliza bobinas\npara produzir um campo magnético variável. Essa bobina se\nlocaliza abaixo do vidro cerâmico sobre o qual a panela se apoia.\nO mecanismo aquece apenas a panela que se encontra na zona\nde cozimento, o que é uma das principais vantagens em relação\nao uso do fogão a gás ou de resistência elétrica.\n\n![](https://enem.dev/2025/questions/122/721ffefa-b04a-417b-ba5b-4256df279651.png)\n\nPEREIRA, A. B. et al. Fogões de indução: montagem e testes de um circuito\n\ndisponível. Disponível em: https://publicacoes.fatecsertaozinho.edu.br.\n\nAcesso em: 21 maio 2025 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/122/721ffefa-b04a-417b-ba5b-4256df279651.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O uso do campo magnético variável tem a finalidade de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "imantar o material da panela por indução.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "movimentar os átomos de ferro concentrados no fundo da panela.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "emitir radiação eletromagnética, aquecendo a panela através do vidro cerâmico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "gerar um fluxo de corrente de convecção no ar contido entre a região da bobina e o vidro cerâmico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

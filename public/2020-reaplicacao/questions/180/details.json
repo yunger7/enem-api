@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2020",
+    "index": 180,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Querendo reduzir custos na limpeza da área de\nestacionamento de um prédio, o síndico resolveu comprar\numa lavadora de alta pressão. Sabe-se que, na utilização\ndesse equipamento, o consumo de água é menor,\nentretanto, existe o gasto com energia elétrica. O síndico\ncoletou os dados de cinco modelos de lavadora com\nmesmo preço, e cujos consumos de água e de energia\nsão os fornecidos no quadro.\n\nConsumo de\nenergia em uma\n\nModelo de\n\nGasto médio de\nágua (litro/hora)\n\nlavadora\n\nhora (kWh)\n\nI\n350\n1,3\n\nII\n264\n2,0\n\nIII\n320\n1,5\n\nIV\n300\n1,7\n\nV\n276\n1,8\n\nAs tarifas de água e de energia elétrica são,\nrespectivamente, R$ 0,0025 por litro de água e R$ 0,30\npor quilowatt-hora.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O modelo de lavadora que o síndico deve adquirir para gastar menos com a limpeza do estacionamento é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

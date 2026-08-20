@@ -1,0 +1,43 @@
+{
+    "title": "Questão 160 - ENEM 2018",
+    "index": 160,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em certa página de um livro foi anotada uma senha. Para se descobrir qual é a página, dispõe-se da informação de que a soma dos quadrados dos três números correspondentes à página da senha, à página anterior e à página posterior é igual a um certo número k que será informado posteriormente. Denotando por n o número da página da senha, qual é a expressão que relaciona n e k?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3n2 − 4n = k − 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3n2 + 4n = k − 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3n2 = k + 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3n2 = k − 2",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3n2 = k",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2023",
+    "index": 132,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O ser humano é incapaz de enxergar a radiação\ninfravermelha e as ondas de rádio (baixas frequências),\nassim como a ultravioleta e os raios X (altas frequências).\nA observação dessas faixas do espectro pode ser\nrealizada por meios indiretos, por exemplo, usando um\ncintilador, que é uma placa utilizada como sensor para\ndetectar um feixe de raios X, pois emite luz quando o\nfeixe incide sobre ela.\n\nPara que uma pessoa enxergue a incidência de raios X\nno cintilador, é necessário que essa placa",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflita o feixe de raios X, alterando sua polarização. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "transmita o feixe de raios X, alterando sua polarização. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "absorva o feixe de raios X, reemitindo parte de sua energia na região do visível. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "absorva o feixe de raios X, reemitindo parte de sua energia na região do ultravioleta. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "absorva o feixe de raios X, reemitindo parte de sua energia na região do infravermelho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

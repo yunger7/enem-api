@@ -1,0 +1,43 @@
+{
+    "title": "Questão 153 - ENEM 2025",
+    "index": 153,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os dados apresentados indicam os volumes médios de chuva\nnos diversos meses do ano em um município, onde as médias\nclimatológicas são valores calculados com base em uma série\nde dados observados ao longo de 30 anos.\n\nMês\nPrecipitação pluviométrica (mm)\n\nJaneiro\n237\n\nFevereiro\n222\n\nMarço\n161\n\nAbril\n73\n\nMaio\n71\n\nJunho\n50\n\nJulho\n44\n\nAgosto\n40\n\nSetembro\n71\n\nOutubro\n127\n\nNovembro\n143\n\nDezembro\n201",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A mediana da distribuição das médias das precipitações pluviométricas mensais descritas no quadro, expressa em milímetro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

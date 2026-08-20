@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2023",
+    "index": 114,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um homem submetido à vasectomia tem a conexão\ndos testículos com a uretra interrompida em função do\ncorte dos canais deferentes. Esse método contraceptivo\né considerado definitivo quando a cirurgia é realizada\ncorretamente.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Esse método contraceptivo é eficiente porque A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "interrompe a liberação de sêmen. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "cessa a produção de espermatozoides. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "inibe a atividade hormonal dos testículos. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "impede a passagem de espermatozoides para o sêmen. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "modifica a atividade das glândulas produtoras de sêmen.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

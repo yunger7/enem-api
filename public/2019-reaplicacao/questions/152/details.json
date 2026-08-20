@@ -1,0 +1,43 @@
+{
+    "title": "Questão 152 - ENEM 2019",
+    "index": 152,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O quadro apresenta a relação dos jogadores que\nfizeram parte da seleção brasileira de voleibol masculino\nnas Olimpíadas de 2012, em Londres, e suas respectivas\nalturas, em metro.\n\nNome\nAltura (m)\n\nBruninho\n1,90\nDante\n2,01\nGiba\n1,92\nLeandro Vissoto\n2,11\nLucas\n2,09\nMurilo\n1,90\nRicardinho\n1,91\nRodrigão\n2,05\nSerginho\n1,84\nSidão\n2,03\nThiago Alves\n1,94\nWallace\n1,98\n\nDisponível em: www.cbv.com.br. Acesso em: 31 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A mediana das alturas, em metro, desses jogadores é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,90.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,91.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "1,96.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "1,97.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "1,98.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

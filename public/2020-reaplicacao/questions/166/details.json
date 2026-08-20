@@ -1,0 +1,43 @@
+{
+    "title": "Questão 166 - ENEM 2020",
+    "index": 166,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um curso é oferecido aos fins de semana em três\ncidades de um mesmo estado. Alunos matriculados\nnesse curso são moradores de cidades diferentes. Eles\nse deslocam para uma das três cidades onde o curso\né oferecido ao sábado pela manhã, pernoitam nessa\ncidade para participar das atividades no domingo e\nretornam às suas casas no domingo à noite. As despesas\ncom alimentação e hospedagem são custeadas pela\ncoordenação do curso. A tabela mostra essas despesas,\npor fim de semana, registradas no ano passado.\n\nCidade\nAlimentação\n\nHospedagem\n\n(R$)\nA\n1 400\n1 800\nB\n800\n2 000\nC\n1 500\n3 500\n\n(R$)\n\nPara planejar as despesas para o próximo ano, a\ncoordenação precisa levar em conta um aumento de:",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "• 15% com hospedagem na cidade A; • 20% com alimentação na cidade B; • 5% com alimentação na cidade C. O aumento no orçamento das despesas com alimentação e hospedagem por fim de semana do curso para este ano, em porcentagem, em relação às do ano anterior, é melhor aproximado por",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,6. B \t 13,3. C \t 21,8. D \t 23,9. E \t 38,6.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

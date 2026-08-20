@@ -1,0 +1,45 @@
+{
+    "title": "Questão 175 - ENEM 2017",
+    "index": 175,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um marceneiro recebeu a encomenda de uma\npassarela de 14,935 m sobre um pequeno lago, conforme\na Figura I. A obra será executada com tábuas de 10 cm de\nlargura, que já estão com o comprimento necessário para\ninstalação, deixando-se um espaçamento de 15 mm entre\ntábuas consecutivas, de acordo com a planta do projeto\nna Figura II.\n\n![](https://enem.dev/2017-reaplicacao/questions/175/a0b22909-7c61-4a82-a50d-de24cc5548ae.png)\n\n15 mm\n\n14,935 m\n\n10 cm\n\nFigura II\nFigura I",
+    "files": [
+        "https://enem.dev/2017-reaplicacao/questions/175/a0b22909-7c61-4a82-a50d-de24cc5548ae.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Desconsiderando-se eventuais perdas com cortes durante a execução do projeto, quantas tábuas, no mínimo, o marceneiro necessitará para a execução da encomenda?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

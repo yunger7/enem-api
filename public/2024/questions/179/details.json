@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2024",
+    "index": 179,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa de engenharia foi contratada para\nrealizar um serviço no valor de R$ 71 250,00. Os sócios da\nempresa decidiram que 40% desse valor seria destinado ao\npagamento de três engenheiros que gerenciaram o serviço.\nO pagamento para cada um deles será feito de forma\ndiretamente proporcional ao total de horas trabalhadas.\nO número de dias e o número de horas diárias\ntrabalhadas pelos engenheiros foram, respectivamente:",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 500",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 800",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 250",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

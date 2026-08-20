@@ -1,0 +1,45 @@
+{
+    "title": "Questão 102 - ENEM 2019",
+    "index": 102,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma residência com aquecimento central, um reservatório é alimentado com água fria, que é aquecida na\nbase do reservatório e, a seguir, distribuída para as torneiras. De modo a obter a melhor eficiência de aquecimento\ncom menor consumo energético, foram feitos alguns testes com diferentes configurações, modificando-se as\nposições de entrada de água fria e de saída de água quente no reservatório, conforme a figura. Em todos os testes,\nas vazões de entrada e saída foram mantidas iguais e constantes.\n\n![](https://enem.dev/2019-reaplicacao/questions/102/f87ac21b-1981-42e0-80ea-83b6aa232611.png)",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/102/f87ac21b-1981-42e0-80ea-83b6aa232611.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A configuração mais eficiente para a instalação dos pontos de entrada e saída de água no reservatório é, respectivamente, nas posições",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 e 4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1 e 6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2 e 5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 e 4.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3 e 5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

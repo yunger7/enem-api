@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2019",
+    "index": 150,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um país decide investir recursos na educação em\nsuas cidades que tenham um alto nível de analfabetismo.\nOs recursos serão divididos de acordo com a idade média\nda população que é analfabeta, conforme apresentado\nno quadro.\n\nRecurso\nIdade média da população\n\nanalfabeta (M )\n\nI\nM < 22\n\nII\n22 < M < 27\n\nIII\n27 < M < 32\n\nIV\n32 < M < 37\n\nV\nM > 37\n\nUma cidade desse país possui 60\n\n100 do total de\n\nanalfabetos de sua população composto por mulheres.\n\nA média de idade das mulheres analfabetas é de\n30 anos, e a média de idade dos homens analfabetos é\nde 35 anos.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando a média de idade da população analfabeta dessa cidade, ela receberá o recurso",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "IV.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "V.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

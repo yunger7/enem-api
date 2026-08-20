@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2023",
+    "index": 109,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O etanol de segunda geração envolve o reaproveitamento dos resíduos do bagaço da cana e sua produção ocorre\nem um sistema fechado contínuo, que evita a evaporação. A figura ilustra esse processo.\n\nBagaço de\ncana-de-açúcar\n\nHidrólise\nenzimática\n\nn\n\nCORONA CARVALHO, J. A. et al. Bagaço de cana-de-açúcar como fonte de glicose: pré-tratamento. Revista Virtual de Química, n. 9, nov. 2016 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Para evitar o rompimento da dorna por pressão, qual substância, além do combustível, deverá ser continuamente removida do sistema? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Etanol. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Glicose. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Ácido lático. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ácido pirúvico. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Dióxido de carbono. Levedura Água CO2 Etanol Ácido lático Ácido pirúvico Bactérias contaminantes Dorna de fermentação alcoólica",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

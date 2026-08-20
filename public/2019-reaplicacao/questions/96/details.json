@@ -1,0 +1,43 @@
+{
+    "title": "Questão 96 - ENEM 2019",
+    "index": 96,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Na perfuração de uma jazida petrolífera, a pressão\ndos gases faz com que o petróleo jorre. Ao se reduzir\na pressão, o petróleo bruto para de jorrar e tem de ser\nbombeado. No entanto, junto com o petróleo também se\nencontram componentes mais densos, tais como água\nsalgada, areia e argila, que devem ser removidos na\nprimeira etapa do beneficiamento do petróleo.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A primeira etapa desse beneficiamento é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "decantação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "evaporação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "floculação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "filtração.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

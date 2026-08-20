@@ -1,0 +1,43 @@
+{
+    "title": "Questão 118 - ENEM 2023",
+    "index": 118,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Anualmente, o número de casos de dengue aumenta\nsubstancialmente no Brasil, mas ainda não há uma\nvacina amplamente disponível. Quatro sorotipos do\nvírus circulam no país e são todos transmitidos pelas\nfêmeas do mosquito Aedes aegypti. Os casos mais\ngraves evoluem para a fase hemorrágica, que pode levar\nà morte por choque hipovolêmico. Muitos desses casos\nacontecem quando o indivíduo contrai a doença pela\nsegunda vez com um sorotipo diferente daquele contra\no qual já produziu anticorpos.\n\nO que tem dificultado o desenvolvimento de uma vacina\npara essa doença é a",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "resistência do homem contra antígenos específicos do vírus. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "baixa resposta imunogênica da espécie humana contra o vírus. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "obtenção de antígenos que representem os quatro sorotipos do vírus. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "reação cruzada de anticorpos produzidos pelo indivíduo contra outros vírus. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ausência de resposta imune dos indivíduos após a primeira infecção pelo vírus.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

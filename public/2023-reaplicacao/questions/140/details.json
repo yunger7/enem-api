@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2023",
+    "index": 140,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O síndico de um condomínio contratou uma empresa\npara verificar a qualidade da água dos cinco reservatórios\nque alimentam esses edifícios. A empresa utiliza um\nteste que fornece o valor de um parâmetro, expresso em\npontos que variam de 0 a 100, que indicam a qualidade da\nágua, sendo o valor 0 associado à péssima qualidade e\n100 associado à ótima qualidade da água. Quando esse\nparâmetro assume um valor a partir de 50 pontos, a água\né considerada de qualidade adequada.\n\nPara os reservatórios I, II, III e IV, esse parâmetro\nassumiu, respectivamente, os valores 64, 53, 63 e 64\nnesse tipo de teste. Já no reservatório V, esse parâmetro\nfoi de 20 pontos, reprovando a qualidade da água. Com\nisso, a água desse reservatório será tratada de modo a\naumentar sua qualidade.\n\nO síndico pretende que o parâmetro de qualidade da\nágua do reservatório V aumente o suficiente para que a\nmédia dos parâmetros de qualidade da água dos cinco\nreservatórios seja, no mínimo, igual a 60 pontos.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A quantidade mínima de pontos que o parâmetro da qualidade da água do reservatório V deve aumentar é A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "36. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "40. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "41. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "43. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "44.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

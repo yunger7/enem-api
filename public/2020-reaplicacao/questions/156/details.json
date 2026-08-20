@@ -1,0 +1,43 @@
+{
+    "title": "Questão 156 - ENEM 2020",
+    "index": 156,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para um docente estrangeiro trabalhar no Brasil, ele necessita validar o seu diploma junto ao Ministério da\nEducação. Num determinado ano, somente para estrangeiros que trabalharão em universidades dos estados de São\nPaulo e Rio de Janeiro, foram validados os diplomas de 402 docentes estrangeiros. Na tabela, está representada a\ndistribuição desses docentes estrangeiros, por países de origem, para cada um dos dois estados.\n\nArgentina\nEspanha\nCuba\nPortugal\nVenezuela\nTotal de docentes\n\nSão Paulo\n112\n60\n28\n9\n30\n239\n\nRio de Janeiro\n29\n40\n46\n36\n12\n163\n\nTotal\n141\n100\n74\n45\n42\n402\n\nA probabilidade de se escolher, aleatoriamente, um docente espanhol, sabendo-se que ele trabalha em uma\nuniversidade do estado de São Paulo é",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "60 402",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "B 60 C 60 100 239",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "E 279",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

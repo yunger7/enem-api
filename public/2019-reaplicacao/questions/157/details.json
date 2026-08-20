@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2019",
+    "index": 157,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As coordenadas usualmente utilizadas na localização\nde um ponto sobre a superfície terrestre são a latitude\ne a longitude. Para tal, considera-se que a Terra tem a\nforma de uma esfera.\n\nUm meridiano é uma circunferência sobre a\nsuperfície da Terra que passa pelos polos Norte e Sul,\nrepresentados na figura por PN e PS. O comprimento\nda semicircunferência que une os pontos PN e PS tem\ncomprimento igual a 20 016 km. A linha do Equador\ntambém é uma circunferência sobre a superfície da\nTerra, com raio igual ao da Terra, sendo que o plano\nque a contém é perpendicular ao que contém qualquer\nmeridiano.\n\nSeja P um ponto na superfície da Terra, C o centro\nda Terra e o segmento PC um raio, conforme mostra a\nfigura. Seja ϕ o ângulo que o segmento PC faz com\no plano que contém a linha do Equador. A medida em\ngraus de ϕ é a medida da latitude de P.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Equador",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1 668",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3 336",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Meridiano Suponha que a partir da linha do Equador um navio viaja subindo em direção ao Polo Norte, percorrendo um meridiano, até um ponto P com 30 graus de latitude. Quantos quilômetros são percorridos pelo navio?",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6 672",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "10 008",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

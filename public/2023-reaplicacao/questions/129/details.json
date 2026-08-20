@@ -1,0 +1,43 @@
+{
+    "title": "Questão 129 - ENEM 2023",
+    "index": 129,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Fatores como introdução de espécies exóticas,\ndestruição de hábitats e caça predatória têm como\nimpacto a perda de biodiversidade. Isso tem como possível\nconsequência a redução do potencial para gerar alimentos\ne produzir medicamentos.\n\nUma medida efetiva para a redução desse impacto é o(a)",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "plantio de espécies nativas. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "promoção de endocruzamentos. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "criação de espécies em cativeiro. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "isolamento de fragmentos de matas nativas. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "manutenção de espécies com mesmo nicho ecológico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

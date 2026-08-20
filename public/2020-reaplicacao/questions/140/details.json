@@ -1,0 +1,43 @@
+{
+    "title": "Questão 140 - ENEM 2020",
+    "index": 140,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Embora a civilização maia já estivesse em declínio na época da chegada dos espanhóis à América, seu\ndesenvolvimento em vários campos da ciência, em especial, na matemática e na astronomia, era notável. Eles\npossuíam um sistema numérico avançado e diferente do sistema decimal utilizado pelas sociedades modernas.\n\nA imagem representa o sistema de numeração maia, que consistia em 20 símbolos representando os\nnúmeros de 0 a 19.\n\n0\n1\n2\n3\n4\n\n5\n6\n7\n8\n9\n\n10\n11\n12\n13\n14\n\n15\n16 17\n18\n19\n\nIMENES, L. M. P. Os números na história da civilização. São Paulo: Editora Scipione, 2003.\nO zero era representado por uma espécie de tigela e todo número inteiro entre 19 e 360 era escrito em uma coluna\nvertical com duas figuras, na qual a superior representava a quantidade de grupos de 20 unidades e a inferior, a quantidade\nde unidades. O número era lido de cima para baixo e obtido somando-se as quantidades representadas. Por exemplo:\n\n2 unidades de 20 = 40\n3 unidades de 20 = 60\n10 unidades de 20 = 200\n\n16 unidades\n19 unidades de 1 = 19\n4 unidades de 1 = 4\n\n44 = 2 x 20 + 4\n\n79 = 3 x 20 + 19\n216 = 10 x 20 + 16\n\nO número 359 é representado, no sistema de numeração maia, como\n\nA\nD",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "B E",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2ª aplicação MT - 2° dia | Caderno 7 - AZUL - Página 15",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

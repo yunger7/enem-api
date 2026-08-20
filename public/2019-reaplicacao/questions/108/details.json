@@ -1,0 +1,45 @@
+{
+    "title": "Questão 108 - ENEM 2019",
+    "index": 108,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nanopartículas de sílica recobertas com antibióticos\nforam desenvolvidas com sucesso como material\nbactericida,\npois\nsão\neficazes\ncontra\nbactérias\nsensíveis e resistentes, sem citotoxicidade significativa\na células de mamíferos. As nanopartículas livres\nde antibióticos também foram capazes de matar as\nbactérias E. coli sensíveis e resistentes ao antibiótico\nestudado. Os autores sugerem que a interação entre\nos grupos hidroxil da superfície das nanopartículas e\nos lipopolissacarídeos da parede celular da bactéria\ndesestabilizaria sua estrutura.\n\n![](https://enem.dev/2019-reaplicacao/questions/108/43d29511-f073-4e83-9fc7-c71ce12e747e.png)\n\nCAPELETTI, L. B. et al. Tailored Silica – Antibiotic Nanoparticles:\n\nOvercoming Bacterial Resistance with Low Cytotoxicity.\n\nLangmuir, n. 30, 2014 (adaptado).",
+    "files": [
+        "https://enem.dev/2019-reaplicacao/questions/108/43d29511-f073-4e83-9fc7-c71ce12e747e.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A interação entre a superfície da nanopartícula e o lipopolissacarídeo ocorre por uma ligação",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "de hidrogênio.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "hidrofóbica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "dissulfeto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "metálica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "iônica.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

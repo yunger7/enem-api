@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2019",
+    "index": 154,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": null,
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Uma locadora possui disponíveis 120 veículos da categoria que um cliente pretende locar. Desses, 20% são da cor branca, 40% são da cor cinza, 16 veículos são da cor vermelha e o restante, de outras cores. O cliente não gosta da cor vermelha e ficaria contente com qualquer outra cor, mas o sistema de controle disponibiliza os veículos sem levar em conta a escolha da cor pelo cliente. Disponibilizando aleatoriamente, qual é a probabilidade de o cliente ficar contente com a cor do veículo?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

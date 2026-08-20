@@ -1,0 +1,43 @@
+{
+    "title": "Questão 173 - ENEM 2023",
+    "index": 173,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um tipo de célula se reproduz constantemente por\ndivisão celular, triplicando sua quantidade a cada duas\nhoras, sob condições ideais de proliferação. Suponha uma\nquantidade inicial Q0 dessas células sob as condições\nideais de proliferação durante um certo período.\n\nQual a representação algébrica da quantidade Q dessas\ncélulas em função do tempo t, em hora, nesse período?",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Q(t) = Q0 ⋅ 3t B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Q(t) = Q0 ⋅ 32t t 3 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Q(t) = Q0 ⋅ 2 t 2 D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Q(t) = Q0 ⋅ 3 t 2 1 − E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Q(t) = Q0 ⋅ 3",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2018",
+    "index": 22,
+    "year": 2018,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "A ascensão das novas tecnologias de comunicação\ncausou\nalvoroço,\nquando\nnão\ngerou\ndiscursos\napocalípticos acerca da finitude dos objetos nos quais\nse ancorava a cultura letrada. As atenções voltaram-se,\nsobretudo, para o mais difundido de todos esses objetos:\no livro impresso. A crer nesses diagnósticos sombrios, os\nlivros e a noção romântica de autoria estavam fadados\nao desaparecimento. O triunfo do hipertexto e a difusão\ndos e-books inscreveriam um marco na linha do tempo,\nsemelhante aos daqueles suscitados pelo advento da\nescrita e da “revolução do impresso”. Decerto porque\nas mudanças no padrão tecnológico de comunicação\nalteram práticas e representações culturais. Contudo, os\ninvestigadores insistem que uma perspectiva evolutiva\ne progressiva acaba por obscurecer o fato de que as\nnormas, as funções e os usos da cultura letrada não\nsão compartilhados de maneira igual, como também não\nanulam as formas precedentes.\n\nApesar dos avanços, a história da leitura não pode\nrestringir seu interesse ao livro, tendo de considerar outras\nformas de impresso de ampla circulação e suportes de\ntextos não impressos. Isso é particularmente relevante\nno Brasil, onde a imprensa aportou tardiamente e o\nletramento custou a se espalhar pela sociedade.\n\nSCHAPOCHNIK, N. Cultura letrada: objetos e práticas – uma introdução. In: ABREU, M.;\n\nSCHAPOCHNIK, N. (Org.). Cultura letrada no Brasil: objetos e práticas.\n\nCampinas: Mercado das Letras, 2005 (adaptado).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nesse texto, ao abordar o desenvolvimento da cultura letrada no país, o autor defende a ideia de que",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "livros eletrônicos revolucionam ações de letramento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "veículos midiáticos interferem na formação de leitores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "tecnologias de leitura novas desconsideram as anteriores.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "aparatos tecnológicos prejudicam hábitos culturais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "práticas distintas constroem a história da leitura.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

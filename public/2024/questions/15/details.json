@@ -1,0 +1,43 @@
+{
+    "title": "Questão 15 - ENEM 2024",
+    "index": 15,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Telemedicina é para todos,\nmas nem todos estão preparados\n\nA telemedicina, nos últimos anos, tem se destacado\ncomo uma ferramenta valiosa, proporcionando uma gama\nde benefícios que vão desde a ampliação do acesso à\nassistência médica até a otimização dos recursos de todo\no ecossistema de saúde.\n\nO governo federal propõe a Estratégia de Saúde Digital,\num programa destinado à transformação digital da saúde no\nBrasil. Seu principal objetivo é facilitar a troca de informações\nentre os diversos pontos da Rede de Atenção à Saúde,\npromovendo a interoperabilidade e, assim, possibilitando a\ntransição e a continuidade do cuidado nos setores público e\nprivado. Também está em discussão um projeto de lei que\ndispõe sobre o prontuário eletrônico unificado do cidadão,\no que indica o quanto o tema está em evidência tanto para\nos gestores públicos quanto para os privados.\n\nContudo, é importante reconhecer que nem todas as\npessoas estão igualmente preparadas para aproveitar\nplenamente os cuidados ofertados pela telemedicina.\nUm dos principais benefícios do atendimento de saúde a\ndistância é a capacidade de superar barreiras geográficas,\nproporcionando acesso a serviços médicos, especialmente\npara pacientes que residem em áreas remotas e/ou carentes\nde certas especialidades médicas, os chamados “vazios\nassistenciais”. A equidade no acesso é uma questão crítica,\numa vez que nem todos têm ao seu alcance dispositivos\ntecnológicos ou uma conexão à internet que seja confiável,\nentre outros problemas de infraestrutura. É um desafio\ntanto para os pacientes quanto para os profissionais de\nsaúde, que, em muitos casos, não contam com estrutura\npara o trabalho remoto nem com letramento digital para\ndesenvolver as funções.\n\nOLIVEIRA, D. Disponível em: www.correiobraziliense.com.br.\n\nAcesso em: 21 jan. 2024 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao tratar da telemedicina, esse texto ressalta que um dos benefícios dessa tecnologia para a sociedade é o fato de ela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "disponibilizar prontuário único do cidadão tanto na rede pública quanto na privada.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "oportunizar o acesso a atendimento médico a pacientes de áreas periféricas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "fornecer dispositivos tecnológicos para a realização de exames.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "promover a interação entre diferentes especialidades médicas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "garantir infraestrutura para o trabalho remoto de médicos.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

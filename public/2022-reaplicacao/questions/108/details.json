@@ -1,0 +1,43 @@
+{
+    "title": "Questão 108 - ENEM 2022",
+    "index": 108,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Considere que o leite materno, após sete meses do parto, é um alimento cujos principais constituintes são\nlipídeos. Uma mulher que está amamentando ingere, rotineiramente, alimentos contaminados com os pesticidas HCB,\nDDT, atrazina, paration e malation, cujas estruturas e dados de solubilidade em água estão apresentados no quadro.\n\nPesticida\nAtrazina\nDDT\nHCB\nMalation\nParation\n\nSolubilidade em água (ppm)\n35-70\n0,0034\n0,0062\n145\n24\n\nCl\nN\n\nCl\nCl\n\nCl\n\nCl\n\nCl\n\nO\nP\n\nAtrazina\n\nCl\n\nCl\n\nCl\n\nHCB\nMalation\nParation\n\nO pesticida transmitido a um lactente (bebê em amamentação) de dez meses, em maior proporção, é o:",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Atrazina. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "DDT. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "HCB. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Malation. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Paration.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

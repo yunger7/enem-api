@@ -1,0 +1,43 @@
+{
+    "title": "Questão 84 - ENEM 2025",
+    "index": 84,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Com o objetivo de auxiliar a prevenção e o combate a\nincêndios no Cerrado, o Centro de Sensoriamento Remoto\nda Universidade Federal de Minas Gerais (UFMG) desenvolveu\num modelo computacional capaz de prever o comportamento\ndo fogo. Essa tecnologia integra o projeto Monitoramento do\nCerrado, do qual também participa o Instituto Nacional de\nPesquisas Espaciais (Inpe). O instituto produz e processa dados\nde satélite sobre focos de calor para determinar a localização\nde incêndios no bioma. Esses focos são o ponto de ignição para\no modelo desenvolvido na UFMG: com base em outros dados,\ncomo relevo, ventos, umidade e biomassa seca, a ferramenta\nestima as áreas com maior risco de incêndio e prevê a intensidade\ne a direção de propagação do fogo no Cerrado brasileiro.\n\nLAGES, L. Tecnologia antiqueimada. Revista Minas Faz Ciência,\n\nn. 84, dez. 2020 – jan.-fev. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em relação à causa ambiental, o uso da tecnologia mencionada indica a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "influência da produção orgânica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "relevância da infraestrutura viária.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "significância da cosmologia nativa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "importância de pesquisas acadêmicas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "interferência de interesses estrangeiros.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

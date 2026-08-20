@@ -1,0 +1,43 @@
+{
+    "title": "Questão 106 - ENEM 2024",
+    "index": 106,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em aeroportos, por razões de segurança, os\npassageiros devem ter suas bagagens de mão examinadas\nantes do embarque, passando-as em esteiras para sua\ninspeção por aparelhos de raios X. Nessas inspeções, os\npassageiros são orientados a retirar seus computadores\nportáteis (notebooks ou laptops) de malas, mochilas ou\nbolsas para passá-los isoladamente pela esteira.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Que explicação física justifica esse procedimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

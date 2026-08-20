@@ -1,0 +1,43 @@
+{
+    "title": "Questão 101 - ENEM 2019",
+    "index": 101,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A  figura mostra a curva de saturação da hemoglobina e da mioglobina em função da pressão parcial de oxigênio e\nreflete a afinidade de cada proteína pelo oxigênio. Embora ambas sejam hemoproteínas ligantes de oxigênio,\na hemoglobina transporta oxigênio dos pulmões para os tecidos pela corrente sanguínea, e a mioglobina se liga ao\noxigênio dentro das células musculares.\n\n1,0\n\nSaturação\n\n0,5\n\nPressão parcial de O2\n\nDisponível em: http://divingphysiology.files.wordpress.com. Acesso em: 28 fev. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "De que forma a oxigenação dos tecidos será afetada em indivíduos sem o gene da mioglobina?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A concentração de oxigênio no sangue diminuirá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "A capacidade de produção de hemoglobina diminuirá.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "A distribuição do oxigênio por todo o organismo será homogênea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "A transferência do oxigênio do sangue para o tecido muscular será prejudicada.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "A hemoglobina do tecido muscular apresentará maior afinidade que a presente no sangue.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

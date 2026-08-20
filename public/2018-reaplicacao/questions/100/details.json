@@ -1,0 +1,43 @@
+{
+    "title": "Questão 100 - ENEM 2018",
+    "index": 100,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um piloto testa um carro em uma reta longa de um\nautódromo. A posição do carro nessa reta, em função do\ntempo, está representada no gráfico.\n\nPosição\n\nTempo",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Os pontos em que a velocidade do carro é menor e maior são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "K e M.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "N e K.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "M e L.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "N e L.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "N e M.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2023",
+    "index": 154,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma padaria criou uma receita de bolo chamada Bolo\nde xícara, pois, com exceção dos ovos e do fermento,\nos demais ingredientes são medidos com xícaras de\nmesma capacidade, conforme descrito.\n\nBolo de xícara\n\nIngredientes\n\n5 ovos\n\nxícara de farinha de trigo\n9_\n4\n\nxícara de chocolate em pó\n4_\n3\n\nxícara de açúcar\n1 3_\n4\n\nxícara de leite\n5_\n6\n\n1 colher de fermento em pó\n\nO modo de fazer a receita orienta colocar, primeiramente,\nos ovos e depois ir adicionando os ingredientes cujas\nquantidades foram medidas em xícara, da menor para a\nmaior quantidade. Por último, adiciona-se o fermento.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em qual ordem os ingredientes medidos em xícara serão adicionados na receita? A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Chocolate; leite; açúcar; farinha de trigo. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Leite; chocolate; açúcar; farinha de trigo. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Leite; chocolate; farinha de trigo; açúcar. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Farinha de trigo; açúcar; chocolate; leite. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Leite; farinha de trigo; açúcar; chocolate.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

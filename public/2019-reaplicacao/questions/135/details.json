@@ -1,0 +1,43 @@
+{
+    "title": "Questão 135 - ENEM 2019",
+    "index": 135,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A figura mostra, de forma esquemática, uma\nrepresentação comum em diversos livros e textos sobre\neclipses. Apenas analisando essa figura, um estudante\npode concluir que os eclipses podem ocorrer duas\nvezes a cada volta completa da Lua em torno da Terra.\nApesar de a figura levar a essa percepção, algumas\ninformações adicionais são necessárias para se concluir\nque nem o eclipse solar, nem o lunar ocorrem com tal\nperiodicidade.\n\nRaios solares\n(Sol distante)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A periodicidade dos eclipses ser diferente da possível percepção do estudante ocorre em razão de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "eclipses noturnos serem imperceptíveis da Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "planos das órbitas da Terra e da Lua serem diferentes.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "distância entre a Terra e a Lua variar ao longo da órbita.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "eclipses serem visíveis apenas em parte da superfície da Terra.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "o Sol ser uma fonte de luz extensa comparado ao tamanho da Lua.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

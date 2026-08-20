@@ -1,0 +1,43 @@
+{
+    "title": "Questão 120 - ENEM 2024",
+    "index": 120,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Doenças negligenciadas são um grupo de enfermidades tropicais endêmicas que incapacitam ou matam milhões de\npessoas e representam uma necessidade médica importante que permanece não atendida. Comuns em áreas pobres\ndo mundo, as populações atingidas por essas doenças não possuem recursos para pagar por um tratamento que\nexigiria anos de pesquisa e um alto investimento dos laboratórios. Por isso, uma parcela considerável de investimentos\naplicados em estudos dessas doenças vem de atividades filantrópicas.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Esses investimentos filantrópicos poderiam melhorar a realidade de doentes acometidos pelo(a):",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Infarto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Câncer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Alzheimer.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Influenza A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Leishmaniose.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

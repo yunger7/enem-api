@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2025",
+    "index": 162,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma empresa produziu, em um determinado mês,\n110 toneladas de plástico a partir de derivados de petróleo\ne 80 toneladas a partir de plásticos reciclados. O custo para\nreciclar uma tonelada de plástico é de R$ 500,00, que equivale\na 5% do custo para produzir a mesma quantidade de plástico\na partir de derivados de petróleo. Para o mês seguinte, a meta\ndessa empresa é produzir a mesma quantidade de plástico que\nfoi produzida nesse mês, mas com redução de, pelo menos,\n50% no custo de produção.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Para que no mês seguinte a empresa atinja a meta, a quantidade mínima de toneladas de plástico que devem ser produzidas a partir de reciclagem deverá ser",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "135.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "140.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "155.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "160.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "175.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

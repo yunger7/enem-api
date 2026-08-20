@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2024",
+    "index": 143,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma confecção de roupas pretende contratar novos\nfuncionários e, para treiná-los, dispõe de duas opções:\n\n•\t ela própria realizar o treinamento que teria custo\nde R$ 9 000,00 por funcionário. Nesse caso, ao fim\ndo treinamento, as coleções de peças de roupas\nconfeccionadas por funcionário serão vendidas por\nR$ 1 500,00 pela confecção, valor que será abatido do\ninvestimento com o treinamento de cada funcionário;\n•\t contratar uma empresa especializada que cobra\nR$ 4 000,00 por funcionário. Nesse caso, as\npeças produzidas no treinamento não poderão ser\ncomercializadas pela confecção.\n\nA confecção investirá um total de R$ 2 520 000,00 no\ntreinamento desses futuros funcionários.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Quantos funcionários essa confecção conseguirá treinar a mais se optar pela empresa especializada em vez de ela própria realizar o treinamento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "294",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "336",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "390",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "504",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "630",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

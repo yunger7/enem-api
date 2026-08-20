@@ -1,0 +1,43 @@
+{
+    "title": "Questão 124 - ENEM 2025",
+    "index": 124,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O leite recém-ordenhado apresenta-se ligeiramente\nácido, com pH entre 6,6 e 6,8 e acidez titulável, expressa\nem °D (grau Dornic), entre 14 e 18. Esses testes de acidez têm\no objetivo de avaliar o possível aumento da concentração\nde ácido lático, decorrente da fermentação da lactose por\nbactérias mesófilas, permitindo assim inferir sobre a qualidade\nmicrobiológica da matéria-prima. Para análise de amostras com\nvolume de 10 mL, 0,1 mL do titulante equivalem a 1 °D.\n\nForam avaliadas cinco amostras de 5 mL de leite in natura, de\ndiferentes origens, por meio da titulação com NaOH 0,111 mol/L\n(soda Dornic), sendo os volumes gastos apresentados na tabela.\n\nAmostra\nVolume (mL)\n\nA1\n0,90\n\nA2\n0,65\n\nA3\n1,40\n\nA4\n1,00\n\nA5\n0,10\n\nInstrução Normativa n. 62, de 29 de dezembro de 2011. Disponível em:\n\nwww.gov.br/agricultura. Acesso em: 7 dez. 2017 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A amostra de leite que atende ao padrão de qualidade de acidez titulável é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

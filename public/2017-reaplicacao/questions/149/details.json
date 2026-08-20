@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2017",
+    "index": 149,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Desde 1999 houve uma significativa mudança\nnas placas dos carros particulares em todo o Brasil.\nAs placas, que antes eram formadas apenas por seis\ncaracteres alfanuméricos, foram acrescidas de uma\nletra, passando a ser formadas por sete caracteres,\nsendo que os três primeiros caracteres devem ser\nletras (dentre as 26 letras do alfabeto) e os quatro\núltimos devem ser algarismos (de 0 a 9). Essa mudança\npossibilitou a criação de um cadastro nacional unificado\nde todos os veículos licenciados e ainda aumentou\nsignificativamente\na\nquantidade\nde\ncombinações\npossíveis de placas. Não são utilizadas placas em que\ntodos os algarismos sejam iguais a zero.\n\nDisponível em: http://g1.globo.com. Acesso em: 14 jan. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nessas condições, a quantidade de placas que podem ser utilizadas é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "263 + 94",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "263 × 94",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "263(104 − 1)",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "(263 + 104) − 1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "(263 × 104) − 1",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

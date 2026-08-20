@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2025",
+    "index": 180,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "As folhas de papel retangular de tamanho A0, A1, A2, A3 e A4 são confeccionadas de maneira que uma folha A0 corresponde\na duas folhas A1, que, por sua vez, corresponde a duas folhas A2, e assim por diante, conforme representado na figura. Além disso,\n\na razão entre as medidas lineares, largura (medida menor) e altura (medida maior) de cada folha é igual a 1\n\n![](https://enem.dev/2025-reaplicacao/questions/180/995e156d-1888-4088-8e9b-345ff36251c4.png)\n\nConsidere k a razão entre a medida da altura da folha de tamanho A1 pela altura da folha de tamanho A4.",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/180/995e156d-1888-4088-8e9b-345ff36251c4.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual é o valor de k?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

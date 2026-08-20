@@ -1,0 +1,43 @@
+{
+    "title": "Questão 180 - ENEM 2017",
+    "index": 180,
+    "year": 2017,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um mês, uma loja de eletrônicos começa a obter\nlucro já na primeira semana. O gráfico representa o lucro (L)\ndessa loja desde o início do mês até o dia 20. Mas esse\ncomportamento se estende até o último dia, o dia 30.\n\n0\n5\n20\n\nTempo (dia)\n\n−1 000",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A representação algébrica do lucro (L) em função do tempo (t) é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "L(t) = 20t + 3 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "L(t) = 20t + 4 000",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "L(t) = 200t",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "L(t) = 200t − 1 000",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "L(t) = 200t + 3 000",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

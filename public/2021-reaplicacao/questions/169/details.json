@@ -1,0 +1,43 @@
+{
+    "title": "Questão 169 - ENEM 2021",
+    "index": 169,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um fabricante produz cinco tipos de enfeites de\nNatal. Para saber o lucro líquido correspondente a cada\ntipo de enfeite, criou um quadro com os valores de custo\n\u0010\b\r^\u0007\u000e\b/%\u0007\u000e\u0010\b\u0002\n\u0002\u0010\u001d\u0004\u0002\u000f\n\u0002\u0004!\u0007\b\u0002\n\u0002\u000f\n\u0002#\n\u0005\u000f\b\u0002%\u0004\u0007\u0002\f\u0005\u000e\u000f\b\u000f\n$\u0002\nem real, além da quantidade vendida para cada tipo de\nenfeite.\n\nTipo\nMatéria-prima (R$)\n\nMão de\nobra (R$)\n\nValor de\nvenda (R$)\n\nQuantidade\n\nvendida\n\nI\n1,30\n1,50\n5,00\n5 000\n\nII\n1,00\n2,00\n5,50\n4 800\n\nIII\n1,10\n1,40\n5,00\n4 750\n\nIV\n1,50\n2,00\n7,00\n4 600\n\nV\n1,20\n2,50\n7,50\n4 200",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual tipo de enfeite de Natal gera maior lucro líquido para o fabricante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

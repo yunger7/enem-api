@@ -1,0 +1,43 @@
+{
+    "title": "Questão 149 - ENEM 2022",
+    "index": 149,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A meta de uma concessionária de automóveis é\nvender, pelo menos, 104 carros por mês. Sabe-se\nque, em média, em dias em que não são oferecidos\ndescontos, são vendidos 3 carros por dia; em dias em\nque há o desconto mínimo, são vendidos 4 carros por dia;\ne, em dias em que há o desconto máximo, são vendidos\n5 carros por dia.\n\nA menor quantidade de dias em que será necessário\noferecer o desconto máximo, de modo que ainda seja\npossível a concessionária alcançar sua meta de vendas\npara o mês, é",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6. B",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "10. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "13. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "18.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

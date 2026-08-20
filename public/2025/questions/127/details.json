@@ -1,0 +1,49 @@
+{
+    "title": "Questão 127 - ENEM 2025",
+    "index": 127,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Nos processos de transformação e reciclagem de recursos\nnaturais, as velocidades das reações químicas são estudadas pela\ncinética química. Uma reação A → B é realizada na presença\ne na ausência de uma enzima, com todas as demais condições\npermanecendo inalteradas. Considere que, no gráfico da\nvariação de energia ao longo dessa reação, a linha contínua\nrepresenta o avanço da reação na ausência da enzima, e a linha\npontilhada, na presença da enzima.\n\n![](https://enem.dev/2025/questions/127/f241e63a-97a8-476b-872c-eeea32f375f2.png)",
+    "files": [
+        "https://enem.dev/2025/questions/127/f241e63a-97a8-476b-872c-eeea32f375f2.png",
+        "https://enem.dev/2025/questions/127/2af3cd66-8e47-4a8c-91fe-bee3acb55ca0.png",
+        "https://enem.dev/2025/questions/127/06a24661-4e25-4f91-9fcc-6c1cbab6b31a.png",
+        "https://enem.dev/2025/questions/127/8579bbfa-e394-4f95-af26-e5c8153ed6cd.png",
+        "https://enem.dev/2025/questions/127/52142ac2-2b9b-4962-a696-703c2772bf50.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O gráfico que representa a situação descrita é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/127/2af3cd66-8e47-4a8c-91fe-bee3acb55ca0.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/127/06a24661-4e25-4f91-9fcc-6c1cbab6b31a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2025/questions/127/8579bbfa-e394-4f95-af26-e5c8153ed6cd.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "E ￼",
+            "file": "https://enem.dev/2025/questions/127/52142ac2-2b9b-4962-a696-703c2772bf50.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

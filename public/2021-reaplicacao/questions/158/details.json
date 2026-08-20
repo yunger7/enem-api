@@ -1,0 +1,43 @@
+{
+    "title": "Questão 158 - ENEM 2021",
+    "index": 158,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um laboratório farmacêutico pretende implementar a entrega própria de seus produtos em uma cidade, dentre as\ncinco cidades onde hoje esse serviço é terceirizado. Obteve relatórios dos seus entregadores terceirizados destacando:\na quantidade (em litro) de combustível gasto em cada dia de entrega, o valor do combustível na respectiva cidade da\nentrega e os gastos com a limpeza diária do veículo após as entregas realizadas.\n\n\u0017\t\u0002#\b2\u0004\u0007\n\t\u0002\u000f\n\n\t\u0002\u000e\r\n\u0005\t$\u0002\n\u0010\u0002\u0007\n\b2$\u0002\n\t\r\u001d\u0004\u0002\b%\u0007\n\n\u0005\r\b\u000f\u0004\t\u0002\u0005\u0004\u0002\u000b\f\b\u000f\u0007\u0004(\n\nCidade\nSão Paulo\nCuritiba\nBelo Horizonte\nRio de Janeiro\nBrasília\n\nLitros de combustível gastos por dia\n7,5\n9,5\n8,0\n14,5\n13,0\n\nPreço da limpeza do carro\n20,00\n15,50\n16,50\n18,00\n15,00\n\nPreço por litro do combustível\n2,50\n2,40\n2,24\n2,10\n3,00\n\nA diretoria desse laboratório implementará a entrega própria na cidade que apresentar o menor gasto diário desse\nserviço.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "\u0014\u0010\u0002 \b2\u0002 \u000e\u000f\b\u000f \u0002\b\u0002\u000e\u0010%2 \u0010 \u0005 \b' \u0004\u0002\u000f\u0004\u0002 \u0007#\u000e'\u0004\u0002\u000f \u0002 \u0005 \u0007 J\b\u0002%\u0007B%\u0007\u000e\b\u0002 \u0007?\u0002\u0007 \b2\u000e\b\u000f\b",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

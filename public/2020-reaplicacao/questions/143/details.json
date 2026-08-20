@@ -1,0 +1,43 @@
+{
+    "title": "Questão 143 - ENEM 2020",
+    "index": 143,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um\ndeterminado\ncampeonato\nde\nfutebol,\ncomposto por 20 times, é disputado no sistema de\npontos corridos. Nesse sistema, cada time joga\ncontra todos os demais times em dois turnos, isto\né, cada time joga duas partidas com cada um dos\noutros times, sendo que cada jogo pode terminar\nempatado ou haver um vencedor.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Sabendo-se que, nesse campeonato, ocorreram 126 empates, o número de jogos em que houve ganhador é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

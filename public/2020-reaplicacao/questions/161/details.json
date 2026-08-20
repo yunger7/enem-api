@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2020",
+    "index": 161,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Usando um computador construído com peças avulsas, o japonês Shigeru Kondo calculou o valor da constante\nmatemática 𝜋𝜋com precisão de 5 trilhões de dígitos. Com isso, foi quebrado o recorde anterior, de dois trilhões de\ndígitos, estabelecido pelo francês Fabrice Bellard.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A quantidade de zeros que segue o algarismo 5 na representação do número de dígitos de 𝜋𝜋calculado pelo japonês é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 145 - ENEM 2021",
+    "index": 145,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um casal decidiu aplicar em um fundo de investimentos\nque tem uma taxa de rendimento de 0,8% ao mês, num\n\u0007\nJ\u000e\u0010\n\u0002\u000f\n\u0002\u001e\b%\u000e\r\b2\u000e\b'\u001d\u0004\u0002\u001e\u0004\u0010%\u0004\t\r\b(\u0002\n\n\u0017\u0002#\b2\u0004\u0007\u0002\u0006\u0005\b2\u0002F a ser resgatado, depois de n meses, a\numa taxa de rendimento mensal x$\u0002^\u0002\u000f\b\u000f\u0004\u0002%\n2\b\u0002\n@%\u0007\n\t\t\u001d\u0004\u0002\nalgébrica F \u0003 C (1\n x)n, em que C representa o capital\ninicial aplicado.\n\n\u0017\u0002 \u001e\b\t\b2\u0002 %2\b\u0005\n\"\b\u0002 \u0010\b\u0005\r\n\u0007\u0002 \b\u0002 \b%2\u000e\u001e\b'\u001d\u0004\u0002 %\n2\u0004\u0002 \r\n\u0010%\u0004\u0002\nnecessário para que o capital inicial de R$ 100 000,00\nduplique, sem outros depósitos ou retiradas.\n\nFazendo uso da tabela, o casal pode determinar esse\nnúmero de meses.\n\nY\nLog Y\n\n1,008\n0,003\n\n1,08\n0,03\n\n1,8\n0,20\n\n2\n0,30\n\n3\n0,47\n\n17\nMT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para atender ao seu planejamento, o número de meses determinado pelo casal é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2018",
+    "index": 137,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma indústria automobilística está testando um\nnovo modelo de carro. Cinquenta litros de combustível\nsão colocados no tanque desse carro, que é dirigido\nem uma pista de testes até que todo o combustível\ntenha sido consumido. O segmento de reta no gráfico\nmostra o resultado desse teste, no qual a quantidade de\ncombustível no tanque é indicada no eixo y (vertical), e a\ndistância percorrida pelo automóvel é indicada no eixo x\n(horizontal).\n\ny\n\n50\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\n\nCombustível no tanque (L)\n\nx\n0\n\n100\n200\n300\n400\n500\n\nDistância percorrida (km)",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A expressão algébrica que relaciona a quantidade de combustível no tanque e a distância percorrida pelo automóvel é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "y x = − + 10 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "y x = − + 10 50",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "y x = − + 10 500",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "y x = + 10 50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "y x = + 10 500",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

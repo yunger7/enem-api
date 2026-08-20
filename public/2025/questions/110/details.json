@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2025",
+    "index": 110,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A química nuclear é uma importante ferramenta\nna produção de substâncias utilizadas na área da saúde\nhumana. A radiação emitida pelo cobalto-60 é utilizada na\nmedicina como ferramenta de diagnóstico e no tratamento\ndo câncer. No entanto, esse radioisótopo tem um tempo de\narmazenamento limitado, pois seu tempo de meia-vida é\nde 5,3 anos. Considere um frasco com uma amostra contendo\n2,00 mg de cobalto-60, armazenado durante um período\nde 26,5 anos.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A massa de cobalto-60, em miligrama, que restará ao final desse tempo é mais próxima de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,00 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,00 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "0,40 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "0,13 mg.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "0,06 mg.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

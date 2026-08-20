@@ -1,0 +1,45 @@
+{
+    "title": "Questão 53 - ENEM 2024",
+    "index": 53,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "Diferenças entre inundação gradual e brusca\n\n![](https://enem.dev/2024/questions/53/09c616aa-efbc-48d2-8634-38132f90d120.png)\n\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais:\nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/53/09c616aa-efbc-48d2-8634-38132f90d120.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "variabilidade solar anual.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "temperatura média mensal.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "declividade do relevo local.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dinâmica tectônica regional.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "gradação da turbidez fluvial.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

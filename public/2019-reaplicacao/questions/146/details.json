@@ -1,0 +1,43 @@
+{
+    "title": "Questão 146 - ENEM 2019",
+    "index": 146,
+    "year": 2019,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A ingestão de sódio no Brasil, que já é normalmente\nalta, tende a atingir os mais elevados índices no\ninverno, quando cresce o consumo de alimentos\ncalóricos e condimentados. Mas, o sal não é um vilão,\nele pode e deve ser consumido diariamente, salvo\nalgumas restrições. Para uma pessoa saudável, o\nconsumo máximo de sal de cozinha (cloreto de sódio)\nnão deve ultrapassar 6 g diárias ou 2,4 g de sódio,\nconsiderando que o sal de cozinha é composto por\n40% de sódio e 60% de cloro.\n\nDisponível em: http://depoisdos25.com.\n\nAcesso em: 31 jul. 2012 (adaptado).",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": null,
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "150%",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "250%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "275%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "525%",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "625%",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

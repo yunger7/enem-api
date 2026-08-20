@@ -1,0 +1,43 @@
+{
+    "title": "Questão 162 - ENEM 2022",
+    "index": 162,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Com o intuito de fazer bombons para vender, uma\ndoceira comprou uma barra de 2 kg de chocolate e 1 L de\ncreme de leite. De acordo com a receita, cada bombom\ndeverá ter exatamente 34 g de chocolate e 12 mL de\ncreme de leite.\nRespeitando\nos\ncritérios\nestabelecidos,\nquantos\nbombons a doceira poderá fazer utilizando o máximo\nque puder os ingredientes comprados?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "8 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "58 D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "71 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "83",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

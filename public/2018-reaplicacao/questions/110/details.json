@@ -1,0 +1,43 @@
+{
+    "title": "Questão 110 - ENEM 2018",
+    "index": 110,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O elemento radioativo tório (Th) pode substituir os combustíveis fósseis e baterias. Pequenas quantidades desse\nelemento seriam suficientes para gerar grande quantidade de energia. A partícula liberada em seu decaimento poderia\nser bloqueada utilizando-se uma caixa de aço inoxidável. A equação nuclear para o decaimento do\n\n230\n90Th →\n226\n88Ra + partícula + energia",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Considerando a equação de decaimento nuclear, a partícula que fica bloqueada na caixa de aço inoxidável é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "alfa.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "beta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "próton.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nêutron.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "pósitron.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

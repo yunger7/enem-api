@@ -1,0 +1,43 @@
+{
+    "title": "Questão 157 - ENEM 2024",
+    "index": 157,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma doceira vende e entrega, em seu bairro, porções\nde 100 g de docinhos de aniversário. Atualmente, a taxa\núnica de entrega é R$ 10,00, e o valor cobrado por uma\nporção é R$ 25,00. Por uma estratégia de vendas, a partir\nda próxima semana, a taxa única de entrega será R$ 15,00,\ne um novo valor será cobrado por uma porção, de maneira\nque o valor total a ser pago por um cliente na compra de\n5 porções permaneça o mesmo.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "12,50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "20,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "24,00",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "30,00",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "37,50",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

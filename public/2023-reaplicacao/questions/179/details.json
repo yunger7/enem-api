@@ -1,0 +1,43 @@
+{
+    "title": "Questão 179 - ENEM 2023",
+    "index": 179,
+    "year": 2023,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma sala escura há um ponto luminoso, a mais\nde 3 metros de distância de uma parede, e um disco\npendurado, paralelo à parede, entre ela e o ponto\nluminoso. O disco encontra-se a 1 metro de distância do\nponto luminoso, projetando uma sombra S1, em formato\nde círculo, na parede. Esse disco é afastado mais 2 m do\nponto luminoso, em direção à sombra e sem encostar na\nparede, projetando outra sombra S2, também no formato\nde um círculo.\n\nSejam A1 a área de S1 e A2 a área de S2.\n\nO valor de A",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "2 é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

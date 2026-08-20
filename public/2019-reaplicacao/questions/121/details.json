@@ -1,0 +1,43 @@
+{
+    "title": "Questão 121 - ENEM 2019",
+    "index": 121,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Laboratórios de química geram como subprodutos\nsubstâncias ou misturas que, quando não têm mais\nutilidade nesses locais, são consideradas resíduos\nquímicos. Para o descarte na rede de esgoto, o resíduo\ndeve ser neutro, livre de solventes inflamáveis e\nelementos tóxicos como Pb, Cr e Hg. Uma possibilidade\né fazer uma mistura de dois resíduos para obter um\nmaterial que apresente as características necessárias\npara o descarte. Considere que um laboratório disponha\nde frascos de volumes iguais cheios dos resíduos,\nlistados no quadro.\n\nTipos de resíduos\n\nI - Solução de H2CrO4 0,1 mol\n\nII - Solução de NaOH 0,2 mol\n\nIII - Solução de HCl 0,1 mol\n\nIV - Solução de H2SO4 0,1 mol\n\nV - Solução de CH3COOH 0,2 mol\n\nVI - Solução de NaHCO3 0,1 mol",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual combinação de resíduos poderá ser descartada na rede de esgotos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I e II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II e III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II e IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "V e VI",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "IV e VI",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

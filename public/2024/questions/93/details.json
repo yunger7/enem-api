@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2024",
+    "index": 93,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No senso comum, considera-se, ainda hoje, que\ncompostos orgânicos são substâncias presentes nos seres\nvivos. Na Química, a expressão “compostos orgânicos” tem\num uso histórico de mais de 200 anos, adquirindo diferentes\nconotações ao longo do desenvolvimento dessa ciência.\nAtualmente, atribui-se a essa expressão outro significado.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A concepção científica atual define esses compostos como substâncias",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "benéficas à saúde humana.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "capazes de serem biodegradadas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "formadas a partir de gás carbônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "produzidas sem o uso de agrotóxicos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "contendo carbono como elemento principal.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

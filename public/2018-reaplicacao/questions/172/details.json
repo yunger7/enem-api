@@ -1,0 +1,43 @@
+{
+    "title": "Questão 172 - ENEM 2018",
+    "index": 172,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Lei da Gravitação, de Isaac Newton, estabelece a\n\nintensidade da força entre dois objetos. Ela é dada pela\n\nd\n=\n1\n2\n2\n\n, sendo m1 e m2 as massas dos\n\nequação F\ng m m\n\nobjetos, d a distância entre eles, g a constante universal\n\nda gravitação e F a intensidade da força gravitacional que\n\num objeto exerce sobre o outro.\n\nConsidere um esquema que represente cinco satélites\n\nde mesma massa orbitando a Terra. Denote os satélites\n\npor A, B, C, D e E, sendo esta a ordem decrescente da\n\ndistância da Terra (A o mais distante e E o mais próximo\n\nda Terra).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "De acordo com a Lei da Gravitação Universal, a Terra exerce maior força sobre o satélite",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "A.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "B.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "D.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "E.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

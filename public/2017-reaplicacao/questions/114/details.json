@@ -1,0 +1,43 @@
+{
+    "title": "Questão 114 - ENEM 2017",
+    "index": 114,
+    "year": 2017,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A absorção e o transporte de substâncias tóxicas\nem sistemas vivos dependem da facilidade com que\nestas se difundem através das membranas das células.\nPor apresentar propriedades químicas similares, testes\nlaboratoriais empregam o octan-1-ol como modelo da\natividade das membranas. A substância a ser testada\né adicionada a uma mistura bifásica do octan-1-ol com\nágua, que é agitada e, ao final, é medido o coeficiente de\npartição octan-1-ol:água (Koa):\n\nK\nC\n\na\n=\n,\n\noct\n\nC\noa\n\nem que Coct é a concentração da substância na fase do\noctan-1-ol, e Ca a concentração da substância na fase\naquosa.\n\nForam avaliados cinco poluentes de sistemas\naquáticos: benzeno, butano, éter dietílico, fluorobutano e\nmetanol.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "O poluente que apresentou Koa tendendo a zero é o",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "éter dietílico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "fluorobutano.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "benzeno.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "metanol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "butano.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

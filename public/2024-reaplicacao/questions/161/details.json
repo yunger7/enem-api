@@ -1,0 +1,43 @@
+{
+    "title": "Questão 161 - ENEM 2024",
+    "index": 161,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa planeja fazer um intercâmbio com duração\nde dois meses consecutivos a serem escolhidos dentre os\nseguintes meses: abril, maio, junho e julho.\n\nA tabela apresenta as cinco cidades possíveis para\no intercâmbio de seu interesse (X, Y, Z, W e K), com as\nrespectivas temperaturas máximas mensais registradas\nno mesmo período do ano anterior.\n\nTemperaturas máximas (°C)\n\nCidade\nAbril\nMaio\nJunho\nJulho\nX\n17\n27\n20\n25\nY\n24\n22\n21\n25\nZ\n20\n20\n28\n20\nW\n23\n24\n20\n19\nK\n19\n25\n26\n19\n\nSeu médico recomendou que, com base nos dados\nfornecidos na tabela, ela escolhesse a cidade que\napresentasse, em dois meses consecutivos, a maior média\nde temperatura máxima mensal e fizesse o intercâmbio\nnesse período.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Qual cidade a pessoa deve escolher para satisfazer adequadamente a recomendação médica?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "X",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Y",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Z",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "W",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "K",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

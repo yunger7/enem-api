@@ -1,0 +1,45 @@
+{
+    "title": "Questão 115 - ENEM 2025",
+    "index": 115,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma aula prática de química orgânica, um professor\nidentificou os frascos de várias substâncias apenas por suas\nfórmulas moleculares. Em seguida, apresentou a representação\ntridimensional da molécula do borneol, um álcool secundário,\nconforme a figura. Ele explicou que, quando oxidado, o borneol\ndá origem à cânfora, uma cetona usada desde a Antiguidade\ncomo incenso e no preparo de medicamentos. Finalmente, o\nprofessor solicitou que os alunos identificassem o frasco contendo\na substância cânfora.\n\n![](https://enem.dev/2025/questions/115/f89e5f27-db0e-4811-a839-5a6e0fd890c4.png)\n\nBorneol\n\nSANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária:\n\num experimento simples de baixo custo e limpo.\n\nQuímica Nova, n. 6, 2009 (adaptado).",
+    "files": [
+        "https://enem.dev/2025/questions/115/f89e5f27-db0e-4811-a839-5a6e0fd890c4.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O frasco contendo cânfora apresenta a fórmula molecular:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "C9H16O",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "C9H17O",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "C10H16O",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "C10H16O2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C10H18O2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

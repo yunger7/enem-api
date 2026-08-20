@@ -1,0 +1,43 @@
+{
+    "title": "Questão 116 - ENEM 2023",
+    "index": 116,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "No ciclo de vida de um inseto endoparasitoide, as larvas\nse desenvolvem dentro de um hospedeiro. Essa relação\nleva o hospedeiro à morte, por isso considera-se que o\nparasitoidismo é um misto de parasitismo e predação.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A larva desse inseto possui a vantagem adaptativa de A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ficar livre do ataque de predadores. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "poder se reproduzir dentro do hospedeiro. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ter alimento durante o seu desenvolvimento. D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "estar protegida contra o ataque de parasitas. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "desenvolver-se em ambiente com temperatura constante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2025",
+    "index": 148,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica trabalha com chapas metálicas para fabricar\nlaminados de diferentes espessuras por meio de sucessivas\ndobras. Em cada etapa, o laminado é dobrado ao meio, conforme\na figura.\n\n![](https://enem.dev/2025-reaplicacao/questions/148/9bdc8f6a-b2ca-4cf4-9ba6-daf67f12676a.png)\n\nA partir de uma chapa metálica com 1 mm de espessura, esse\nprocedimento é repetido sucessivamente até que se obtenha\no laminado na espessura desejada.",
+    "files": [
+        "https://enem.dev/2025-reaplicacao/questions/148/9bdc8f6a-b2ca-4cf4-9ba6-daf67f12676a.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "As espessuras, em milímetro, desses laminados após a 1ª, 2ª, 3ª, 4ª e 5ª dobras são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

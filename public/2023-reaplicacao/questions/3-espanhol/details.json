@@ -1,0 +1,45 @@
+{
+    "title": "Questão 3 - ENEM 2023",
+    "index": 3,
+    "year": 2023,
+    "language": "espanhol",
+    "discipline": "linguagens",
+    "context": "![](https://enem.dev/2023-reaplicacao/questions/3-espanhol/10f80903-288f-45f8-ab8c-6e51a7928608.png)\n\nLINIERS, R. S. Disponível em: https://muhimu.es. Acesso em: 15 out. 2021.",
+    "files": [
+        "https://enem.dev/2023-reaplicacao/questions/3-espanhol/10f80903-288f-45f8-ab8c-6e51a7928608.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa tirinha, ao utilizar a expressão “doble vacación”, a protagonista conclui que A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "enredos muito extensos são desafiadores. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "obras com muitos personagens são instigantes. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "narrativas sobre viagens são mais interessantes. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "livros de conteúdo mais denso estão presentes na vida dos jovens. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "leituras diversificadas são um convite a conhecer outras realidades.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

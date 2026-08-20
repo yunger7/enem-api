@@ -1,0 +1,43 @@
+{
+    "title": "Questão 119 - ENEM 2023",
+    "index": 119,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Ácido nítrico é um importante reagente usado no\npreparo de nitrato de amônio, NH4NO3, um fertilizante\nnitrogenado. Industrialmente, o ácido nítrico é obtido a\npartir da reação da amônia com gás oxigênio, um processo\nque ocorre em três etapas, todas exotérmicas.\n\nEtapa 1:    4 NH3 (g) + 5 O2 (g) → 4 NO (g) + 6 H2O (l)\n\nEtapa 2:    2 NO (g) + O2 (g) → 2 NO2 (g)\n\nEtapa 3:    3 NO2 (g) + H2O (l) → 2 HNO3 (aq) + NO (g)\n\nNa primeira etapa, forma-se NO, o qual reage com\nmais oxigênio formando NO2, um óxido ácido, que reage\ncom a água formando HNO3 e NO. O composto NO é,\nportanto, um subproduto da reação. É importante o seu\nreaproveitamento, senão ele pode ser liberado para o\nambiente, onde reagirá com o oxigênio, formando NO2.\n\nATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna\n\ne o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).\n\nO procedimento que permite diminuir a quantidade\nformada do subproduto NO é aumentar a",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "pressão de oxigênio, na etapa 1. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "concentração de NO2, na etapa 3. C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "quantidade de amônia, na etapa 1. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "quantidade de oxigênio, na etapa 2. E",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "temperatura dos reagentes, na etapa 1.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

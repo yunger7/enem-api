@@ -1,0 +1,43 @@
+{
+    "title": "Questão 95 - ENEM 2025",
+    "index": 95,
+    "year": 2025,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As mariposas\n\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\n\nBARBOSA, A. Reviva: Adoniran Barbosa.\n\nSão Paulo: Som Livre, 2002 (fragmento).\n\nAs mariposas se aproximam das lâmpadas atraídas pela luz,\npois, sendo basicamente criaturas noturnas, estão adaptadas\na seguir o brilho da lua, em um processo conhecido como\norientação transversal. Assim, o que o sambista Adoniran\nBarbosa, no Texto I, descreve não é a causa, mas sim uma das\nconsequências possíveis dessa aproximação. De fato, o calor\ngerado pelas lâmpadas, sobretudo as incandescentes, pode\naquecer as mariposas.\n\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes?\n\nNational Geographic, nov. 2020 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "reflexão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "refração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "irradiação.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "dispersão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "convecção.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

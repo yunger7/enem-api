@@ -1,0 +1,43 @@
+{
+    "title": "Questão 107 - ENEM 2018",
+    "index": 107,
+    "year": 2018,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": null,
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Em uma manhã ensolarada, uma jovem vai até um parque para acampar e ler. Ela monta sua barraca próxima de seu carro, de uma árvore e de um quiosque de madeira. Durante sua leitura, a jovem não percebe a aproximação de uma tempestade com muitos relâmpagos. A melhor maneira de essa jovem se proteger dos relâmpagos é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "entrar no carro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "entrar na barraca.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "entrar no quiosque.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "abrir um guarda-chuva.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "ficar embaixo da árvore.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

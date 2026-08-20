@@ -1,0 +1,43 @@
+{
+    "title": "Questão 176 - ENEM 2025",
+    "index": 176,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A final de um campeonato de futebol foi disputada em 2 tempos\nregulamentares, de 45 minutos cada, sem acréscimos, com uma\nprorrogação de 30 minutos, também sem acréscimos. Um jogador\nentrou no início do segundo tempo, com um equipamento para\nmedir a distância percorrida durante sua participação no jogo.\nAo final do segundo tempo regulamentar, esse jogador havia\npercorrido 4,5 km. Ele manteve na prorrogação a mesma velocidade\nmédia que havia mantido no segundo tempo regulamentar.",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A distância percorrida por esse jogador durante sua participação na partida, em quilômetro, foi",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "4,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7,5.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "9,0.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "12,0.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 94 - ENEM 2024",
+    "index": 94,
+    "year": 2024,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A nimesulida é um fármaco pouco solúvel em água,\nutilizado como anti-inflamatório, analgésico e antitérmico.\nEssa substância pode ser convertida em uma espécie\neletricamente carregada, de maior solubilidade em água,\nmediante o tratamento com uma base de Brönsted-Lowry,\nisto é, uma espécie química capaz de capturar um próton\n(H+). Na figura são apresentados os grupamentos presentes\nna estrutura química da nimesulida.\n\n![](https://enem.dev/2024/questions/94/3ffd6320-1b21-4a2b-89e4-b371802b7fcc.png)\n\nNimesulida\n\nGONÇALVES, A. A. et al. Contextualizando reações ácido-base\n\nde acordo com a teoria protônica de Brönsted-Lowry\n\nusando comprimidos de propranolol e nimesulida.\n\nQuímica Nova, n. 3, 2013 (adaptado).",
+    "files": [
+        "https://enem.dev/2024/questions/94/3ffd6320-1b21-4a2b-89e4-b371802b7fcc.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Na estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "sulfonamida.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "metila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "fenila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "nitro.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "éter.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

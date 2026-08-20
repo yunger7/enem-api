@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2024",
+    "index": 22,
+    "year": 2024,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Fake news costumam ter erros de português\n\nMesmo para quem não domina tão bem o idioma, fica\nfácil encontrar erros como de ortografia e concordância.\nAté porque reportagens reais prezam por um vocabulário\nrico e o emprego correto de todas as normas.\n\nAlém do mais, mensagens e notícias falsas divulgadas\ntendem a apresentar uma escrita com padrão duvidoso,\ncomo a repetição de uma palavra ou até uma quantidade\nexagerada de adjetivos.\n\nDisponível em: https://medicals.com.\n\nAcesso em: 25 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Nesse texto, um dos recursos que auxilia na identificação de notícias falsas é o conhecimento da norma-padrão porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "ele é uma forma de reconhecer a autoria do texto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "toda a população domina as regras da gramática.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "ele é uma característica dos textos jornalísticos.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "ele valoriza a manifestação da liberdade de expressão.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "todo desvio compromete a compreensão do conteúdo veiculado.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

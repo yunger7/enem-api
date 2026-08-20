@@ -1,0 +1,43 @@
+{
+    "title": "Questão 147 - ENEM 2022",
+    "index": 147,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os países anglófonos, como a Inglaterra, o Canadá, a\nAustrália e outros, são países que utilizam dois sistemas\nde unidades para a identificação de distâncias: o Sistema\nInternacional, com o quilômetro (km), e o CGS, com a\nmilha (mi). Nas rodovias canadenses, por exemplo, as\nplacas de sinalização de distâncias apresentam dois\nvalores, um em km e outro em mi, com esta última\nequivalente a aproximadamente 1 610 metros.\n\nUm\nturista\nbrasileiro,\nhabituado\nao\nSistema\nInternacional, em viagem por uma dessas rodovias,\nverifica em dado momento uma placa indicando a\ndistância até a cidade a que ele se destina, onde está\nescrito 50 mi e XX km, com o valor da distância em\nquilômetro ilegível.\nQual o valor, desprezando as casas decimais, que\ndeveria estar escrito na placa, para identificar a\ndistância XX, em quilômetro, até a cidade destino?",
+    "files": [],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8 B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "31 C",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "80 D",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "310 E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "805 19 MT - 2° dia | Caderno 7 - AZUL - 2ª Aplicação",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

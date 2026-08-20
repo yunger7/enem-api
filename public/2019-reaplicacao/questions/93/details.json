@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2019",
+    "index": 93,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um pesquisador observou, em uma árvore, um ninho de uma espécie de falcão. Apenas um filhote apresentava\numa coloração típica de penas de ambos os pais. Foram coletadas amostras de DNA dos pais e filhotes para\ncaracterização genética dos alelos responsáveis pela coloração das penas. O perfil de bandas obtido para cada\nindivíduo do ninho para os lócus 1 e 2, onde se localizam os genes dessa característica, está representado\nna figura.\n\nPadrões de bandas em gel das moléculas de DNA dos indivíduos\n\nPais\nFilhotes\n1\n2\n3\n4\n5\n\nAlelo A\nAlelo B\nAlelo C\nAlelo D\n\nLócus 1\n\nPais\nFilhotes\n1\n2\n3\n4\n5\n\nAlelo E\nAlelo F\nAlelo G\nAlelo H\n\nLócus 2\n\nCARVALHO, C. S.; CARVALHO, M. A.; COLLEVATTI, R. G. Identificando o sistema de acasalamento em aves.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Dos filhotes, qual apresenta a coloração típica de penas dos pais?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5 Genética na Escola, n. 1, 2013 (adaptado).",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

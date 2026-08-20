@@ -1,0 +1,43 @@
+{
+    "title": "Questão 30 - ENEM 2023",
+    "index": 30,
+    "year": 2023,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "Foram 11 bilhões de palavras examinadas em mais\nde três milhões de livros que mostraram que a linguagem\nusada em romances, durante mais de cem anos, é sexista.\nUm grupo de cientistas realizou um descomunal trabalho\nde campo no qual analisou de forma maciça textos escritos\nem inglês em livros publicados entre 1900 e 2008. O que\nfoi analisado exatamente? A correlação entre gêneros\ne qualificativos em busca de um padrão: o tratamento\ndiferente entre mulheres e homens em textos escritos.\n\nO estudo utilizou um sistema baseado em inteligência\nartificial e aprendizagem de máquina para analisar, palavra\npor palavra, as obras publicadas nesse período. A análise\nconcluiu que as mulheres recebem apenas qualificativos\nrelacionados ao seu físico, enquanto para os homens as\nreferências se concentram principalmente em sua força\ne personalidade. Os atributos negativos relacionados ao\nfísico e à aparência nessas obras são observados até\ncinco vezes mais nas mulheres do que nos homens.\n\nOs algoritmos aprendem com os textos já escritos e\npublicados. Assim, um sistema pode considerar bom um\nmodelo que se repete várias vezes (por exemplo, aquele\nrelacionado à beleza e à mulher) e assimilá-lo em sua\nexecução atual.\n\nZURIARRAIN, J. M. Disponível em: https://brasil.elpais.com.\n\nAcesso em: 5 nov. 2021 (adaptado).",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desenvolvimento de tecnologias, como os algoritmos e a inteligência artificial, permite a análise de um grande volume de dados. Nesse texto, a utilização desses recursos A",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "avalia as qualidades positivas atribuídas aos homens. B",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "revela a materialidade linguística de estereótipos de gênero. C",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "indica a pouca eficácia da aprendizagem de máquina. D",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "questiona a linearidade de padrões linguísticos. E",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "atesta cientificamente as diferenças sociais.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

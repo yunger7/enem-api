@@ -1,0 +1,43 @@
+{
+    "title": "Questão 139 - ENEM 2024",
+    "index": 139,
+    "year": 2024,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artesão utiliza dois tipos de componentes, X e\nY, nos enfeites que produz. Ele sempre compra todos os\ncomponentes em uma mesma loja. O quadro apresenta\nos preços dos dois tipos de componentes nas lojas I e II.\n\nLojas\nPreços dos componentes (R$)\n\nX\nY\n\nI\n3,00\n1,00\n\nII\n2,00\n4,00\n\nEle confeccionará enfeites formados por duas unidades\ndo componente X e uma unidade do componente Y e\nefetuará a compra na loja que oferecer o menor valor total\npara a confecção de um enfeite.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O artesão efetuará a compra na loja",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I, pois o valor é R$ 7,00.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "I, pois o valor é R$ 4,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "II, pois o valor é R$ 6,00.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "I, pois anuncia o componente com o menor preço.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "II, pois o componente X, que é o mais utilizado, tem menor preço.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

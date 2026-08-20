@@ -1,0 +1,43 @@
+{
+    "title": "Questão 150 - ENEM 2025",
+    "index": 150,
+    "year": 2025,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O gerente de uma fábrica comparou a evolução das vendas\nde dois produtos similares, I e II, e percebeu que a quantidade\nmensal de unidades vendidas de um deles estava aumentando,\nenquanto a do outro estava diminuindo. Os resultados que\nlevaram à essa conclusão estão registrados no quadro, que\napresenta as quantidades de unidades vendidas de cada um\ndesses produtos nos meses de abril a junho.\n\nunidades vendidas\n\nProduto\n\nAbril\nMaio\nJunho\n\nI\n80\n90\n100\n\nII\n190\n170\n150\n\nO gerente decidiu cessar a fabricação do produto II no mês\nseguinte àquele no qual a quantidade de unidades vendidas do\nproduto I superasse a do produto II.\n\nConsidere que o padrão na variação da quantidade de\nunidades vendidas dos produtos I e II, mês a mês, se manteve\npara os meses subsequentes tal como no período representado\nno quadro.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Em qual mês o produto II parou de ser fabricado?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

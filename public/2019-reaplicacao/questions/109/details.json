@@ -1,0 +1,43 @@
+{
+    "title": "Questão 109 - ENEM 2019",
+    "index": 109,
+    "year": 2019,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em regiões desérticas, a obtenção de água potável\nnão pode depender apenas da precipitação. Nesse\nsentido, portanto, sistemas para dessalinização da água\ndo mar têm sido uma solução. Alguns desses sistemas\nconsistem basicamente de duas câmaras (uma contendo\nágua doce e outra contendo água salgada) separadas\npor uma membrana semipermeável. Aplicando-se\npressão na câmara com água salgada, a água pura é\nforçada a passar através da membrana para a câmara\ncontendo água doce.",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "O processo descrito para a purificação da água é denominado",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "filtração.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "adsorção.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "destilação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "troca iônica.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "osmose reversa.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}
