@@ -6,14 +6,14 @@
     "discipline": "linguagens",
     "context": "Con una chacra de Portezuelo como escenario,\nalgunos dirigentes frentistas se reunieron para evaluar el\nestado de la coalición de gobierno y discutir estrategias\npara las elecciones del año próximo. Ministros de\nEstado, legisladores y sindicalistas departieron allí sobre\nalineamientos electorales dentro del Frente Amplio. Los\nacompañó en la ocasión el rector de la Universidad de la\nRepública, Rodrigo Arocena, un funcionario que por su\ninvestidura debería mostrar menos la hilacha y cuidarse\nde aparecer vinculado a confabulaciones y maniobras de\npolítica partidaria.\n\nDisponível em: http://historico.elpais.com.uy. Acesso em: 20 nov. 2013.",
     "files": [],
-    "correctAlternative": "A",
+    "correctAlternative": "E",
     "alternativesIntroduction": "No texto do jornal uruguaio, o autor utiliza a expressão idiomática mostrar menos la hilacha para sugerir que o reitor da universidade deve",
     "alternatives": [
         {
             "letter": "A",
             "text": "ser menos ingênuo.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
@@ -37,7 +37,7 @@
             "letter": "E",
             "text": "privar-se de expor suas tendências ideológicas.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         }
     ]
 }

@@ -8,7 +8,7 @@
     "files": [
         "https://enem.dev/2025-reaplicacao/questions/5-espanhol/505d5ad7-0bd4-40fc-98e1-4d593005a0f1.png"
     ],
-    "correctAlternative": "D",
+    "correctAlternative": "B",
     "alternativesIntroduction": null,
     "alternatives": [
         {
@@ -21,7 +21,7 @@
             "letter": "B",
             "text": null,
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "C",
@@ -33,7 +33,7 @@
             "letter": "D",
             "text": null,
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "E",

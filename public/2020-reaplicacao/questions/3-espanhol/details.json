@@ -8,20 +8,20 @@
     "files": [
         "https://enem.dev/2020-reaplicacao/questions/3-espanhol/e0110b96-6ec9-4919-af13-c94199c08f20.png"
     ],
-    "correctAlternative": "B",
+    "correctAlternative": "A",
     "alternativesIntroduction": "Considerando-se os elementos verbais e não verbais dessa campanha publicitária, a expressão “dos dedos de frente” remete ao(à)",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "B",
             "text": null,
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "C",

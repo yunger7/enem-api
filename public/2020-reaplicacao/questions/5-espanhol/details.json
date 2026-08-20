@@ -8,14 +8,14 @@
     "files": [
         "https://enem.dev/2020-reaplicacao/questions/5-espanhol/e7bba140-6e33-4f14-bdd5-37bfbf437bdf.png"
     ],
-    "correctAlternative": "A",
+    "correctAlternative": "D",
     "alternativesIntroduction": "Considerando os elementos verbais e não verbais expressos no cartaz, o objetivo do anúncio é",
     "alternatives": [
         {
             "letter": "A",
             "text": null,
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "B",
@@ -33,7 +33,7 @@
             "letter": "D",
             "text": null,
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",

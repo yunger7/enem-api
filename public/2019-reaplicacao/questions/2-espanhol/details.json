@@ -6,14 +6,14 @@
     "discipline": "linguagens",
     "context": "Dicen que Tita era tan sensible que desde que\nestaba en el vientre de mi bisabuela lloraba y lloraba\ncuando ésta picaba cebolla; su llanto era tan fuerte que\nNacha, la cocinera de la casa, que era medio sorda, lo\nescuchaba sin esforzarse. Un día los sollozos fueron tan\nfuertes que provocaron que el parto se adelantara. Y sin\nque mi bisabuela pudiera decir ni pío, Tita arribó a este\nmundo prematuramente, sobre la mesa de la cocina,\nentre los olores de una sopa de fideos que estaba\ncocinando, los del tomillo, el laurel, el cilantro, el de la\nleche hervida, el de los ajos y, por supuesto, el de la\ncebolla. Como se imaginarán, la consabida nalgada no\nfue necesaria, pues Tita nació llorando de antemano, tal\nvez porque ella sabía que su oráculo determinaba que\nen esta vida le estaba negado el matrimonio. Contaba\nNacha que Tita fue literalmente empujada a este mundo\npor un torrente impresionante de lágrimas que se\ndesbordaron sobre la mesa y el piso de la cocina.\n\nESQUIVEL, L. Como agua para chocolate.\n\nBuenos Aires: Debolsillo, 2005.",
     "files": [],
-    "correctAlternative": "D",
+    "correctAlternative": "A",
     "alternativesIntroduction": "No fragmento do romance mexicano, publicado em 1989, prevalece a",
     "alternatives": [
         {
             "letter": "A",
             "text": "narração com base em elementos fantásticos.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "B",
@@ -31,7 +31,7 @@
             "letter": "D",
             "text": "exposição com base na definição do papel da mulher na sociedade.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "E",

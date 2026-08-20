@@ -8,7 +8,7 @@
     "files": [
         "https://enem.dev/2022-reaplicacao/questions/3-espanhol/b04abf6d-c477-411b-b1e8-3fafd990e0f4.png"
     ],
-    "correctAlternative": "B",
+    "correctAlternative": "C",
     "alternativesIntroduction": "A",
     "alternatives": [
         {
@@ -21,13 +21,13 @@
             "letter": "B",
             "text": "justificar algumas causas da agressão doméstica. C",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "C",
             "text": "motivar as vítimas a buscarem ajuda especializada. D",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "D",

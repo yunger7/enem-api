@@ -8,7 +8,7 @@
     "files": [
         "https://enem.dev/2025/questions/4-espanhol/7afe8839-d129-4f00-b253-02984fc53851.png"
     ],
-    "correctAlternative": "E",
+    "correctAlternative": "D",
     "alternativesIntroduction": "Na charge, a diversidade linguística está representada pelo uso de",
     "alternatives": [
         {
@@ -33,13 +33,13 @@
             "letter": "D",
             "text": "marcas da oralidade expressas na representação escrita da fala.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",
             "text": "enunciados interrogativos em situação comunicativa com um interlocutor.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         }
     ]
 }

@@ -6,7 +6,7 @@
     "discipline": "linguagens",
     "context": "El maíz peruano en la historia\n\nAunque es más conocida como cuna de la papa,\nla sociedad inca también fue la civilización del maíz,\ncultivo conocido en el Perú desde, por lo menos,\n1 200 años a.C. Los antiguos agricultores peruanos\nlograron sofisticación en la selección y creación de\nnuevas variedades adaptables a los diversos espacios\ngeográficos y climáticos. Al respecto, el cronista\nBernabé Cobo cuenta que en el antiguo Perú se hallaba\nmaíz, llamado choclo, de todos los colores: blanco,\namarillo morado, negro colorado y mezclado. Hoy en\ndía, en ese país se cultivan más de 55 variedades\nde la popular mazorca, más que en ningún otro lugar\ndel mundo. En los Comentarios Reales de los Incas,\nGarcilaso de la Vega nos ilustra sobre los hábitos\nalimenticios incaicos relatando que uno de los pilares\nde la alimentación era el maíz y que lo comían tostado\no cocinado en agua. En ocasiones solemnes molían\nlos granos para hacer un pan llamado humita. Al maíz\ntostado se le denominaba como aún se le llama hoy:\ncancha, antecesora de las palomitas.\n\nDisponível em: www.yanuq.com. Acesso em: 20 jun. 2012 (adaptado).",
     "files": [],
-    "correctAlternative": "E",
+    "correctAlternative": "D",
     "alternativesIntroduction": "O texto destaca a importância do milho na história do Peru. Informa que os antigos agricultores peruanos",
     "alternatives": [
         {
@@ -31,13 +31,13 @@
             "letter": "D",
             "text": "produziram espécies de milho adaptáveis a diversos solos.",
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",
             "text": "transformaram o preparo da pipoca em um evento solene.",
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         }
     ]
 }

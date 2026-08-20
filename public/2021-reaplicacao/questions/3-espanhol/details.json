@@ -8,7 +8,7 @@
     "files": [
         "https://enem.dev/2021-reaplicacao/questions/3-espanhol/b9652096-5eb6-487b-908c-4bf3e1abcaa2.png"
     ],
-    "correctAlternative": "C",
+    "correctAlternative": "B",
     "alternativesIntroduction": "< \u0006(\u0003\u000f5 \u0011 \u0005\u0011\u0004\u0015\u0005```4(\u0007& &\b\u0002\u00114\u0002\u0003\u00044\u0005;\u0002\u0011\u0006\u0006\u0003\u0005\u0011\u0004\u0015\u0005\u001a\u0019\u0005\u0010\u0011x4\u0005{\u0019\u001a~4 Considerando-se os elementos verbais e não verbais do \b\u000f\u0013\u000f\u0002 \u0003\u0005 (\u0007& \u0002 \u0012 \u0003\u000e\u0005 \b\u0005 \u0011W( \u0011\u0006\u0006+\u0003\u0005 \u0011\u00028I\u0004\u0003\u0006 \u0011\u0005 \b\u0005 \u0004\b\u000f\u0003\u0005 convoca o leitor para",
     "alternatives": [
         {
@@ -21,13 +21,13 @@
             "letter": "B",
             "text": null,
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "C",
             "text": null,
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         },
         {
             "letter": "D",

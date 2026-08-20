@@ -6,7 +6,7 @@
     "discipline": "linguagens",
     "context": "Cúentame, madre...\n\nMadre, cuéntame todo lo que sabes por tus\nviejos dolores. Cuéntame cómo nace y cómo viene su\ncuerpecillo, entrabado con mis vísceras.\n\nDime si buscará solo mi pecho o si se lo debo ofrecer,\nincitándolo.\n\nDame tu ciencia de amor, ahora, madre. Enséñame\nlas nuevas caricias, delicadas, más delicadas que las del\nesposo.\n\n¿Cómo limpiaré su cabecita, en los días sucesivos?\n¿Y cómo lo haré para no dañarlo? Enséñame, madre, la\ncanción de cuna con que me meciste. Esa lo hará dormir\nmejor que otras canciones.\n\nMISTRAL, G. Cuéntame madre. In: Desolación. Madrid: Espasa-Calpe, 1969.",
     "files": [],
-    "correctAlternative": "E",
+    "correctAlternative": "D",
     "alternativesIntroduction": "Na prosa poética de Gabriela Mistral, o eu lírico, com o uso reiterado do imperativo, demonstra",
     "alternatives": [
         {
@@ -31,13 +31,13 @@
             "letter": "D",
             "text": null,
             "file": null,
-            "isCorrect": false
+            "isCorrect": true
         },
         {
             "letter": "E",
             "text": null,
             "file": null,
-            "isCorrect": true
+            "isCorrect": false
         }
     ]
 }
